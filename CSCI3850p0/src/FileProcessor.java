@@ -47,7 +47,21 @@ public class FileProcessor implements Runnable {
 			e.printStackTrace();
 		}
 		
-		
+	
 
 	}
+	
+	public void lineLinker(String toBreak, String docName){
+        	String[] arrs = toBreak.split(" ");
+        	for(int x = 0; x < arrs.length; x++){
+        		Node a = new Node();
+        		Node b = new Node();
+        		a.keyword = arrs[x];
+        		a.concurrence = 1;
+        		b.keyword = arrs[x];
+        		b.concurrence = 1;
+        		a.specific.add(b);
+        		tokenQueue.add(a);
+        	}
+    	}
 }
