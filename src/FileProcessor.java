@@ -6,7 +6,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class FileProcessor implements Runnable {
 
-	ConcurrentLinkedQueue<String> tokenQueue = new ConcurrentLinkedQueue<String>();
+	ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
 	
 	public void run() {
 		BufferedReader fileReader;
@@ -25,17 +25,12 @@ public class FileProcessor implements Runnable {
 				
 				String tokens[] = str.split("\\s");
 				
-				for( String token : tokens ) {
-					
-					if(!token.isEmpty()) {
-						tokenQueue.add(token);
-					}
-				}
-			}
-			
-
-			for( String token : tokenQueue ) {
-				System.out.println(token);
+//				for( String token : tokens ) {
+//					
+//					if(!token.isEmpty()) {
+//						tokenQueue.add(token);
+//					}
+//				}
 			}
 			
 			fileReader.close();
@@ -55,12 +50,12 @@ public class FileProcessor implements Runnable {
         	String[] arrs = toBreak.split(" ");
         	for(int x = 0; x < arrs.length; x++){
         		Node a = new Node();
-        		Node b = new Node();
-        		a.keyword = arrs[x];
-        		a.concurrence = 1;
-        		b.keyword = arrs[x];
-        		b.concurrence = 1;
-        		a.specific.add(b);
+        		FileNode b = new FileNode();
+        		a.setKeyword(arrs[x]);
+        		a.setOccurance(1);
+        		b.setFileID(docName);
+        		b.setOccurrence(1);
+        		a.enQueue(b);
         		tokenQueue.add(a);
         	}
     	}

@@ -6,7 +6,16 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  * specific: filenames for document appearances 
  */
 public class Node {
-    String keyword;
-    int concurrence = 0;
-    ConcurrentLinkedQueue<Node> specific = new ConcurrentLinkedQueue();
+    private String keyword;
+    private int occurrence = 0;
+    private ConcurrentLinkedQueue<FileNode> specific = new ConcurrentLinkedQueue<FileNode>();
+    
+    public String getKeyword() { return keyword; }    	
+    public int getOccurance() { return occurrence; }
+    
+    public void setKeyword(String key) { keyword = key; }
+    public void setOccurance(int oc) { occurrence = oc; }
+    
+    public FileNode deQueue() { return specific.remove(); }
+    public void enQueue(FileNode node) { specific.add(node); }
 }
