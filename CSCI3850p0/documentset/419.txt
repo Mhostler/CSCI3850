@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0019.940726</DOCID>
+<TDTID>TDT001074</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/26/94 19:47</DATE>
+<TITLE> CASTRO'S BROTHER MAKES KEY ANNIVERSARY SPEECH</TITLE>
+<HEADLINE> CASTRO'S BROTHER MAKES KEY ANNIVERSARY SPEECH</HEADLINE>
+<SUBJECT> BC-CUBA-CASTRO 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Adds start of speech, Fidel Castro present)</NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  In an unusual move, Cuba's first deputy president Raul Castro made the main speech on a key anniversary date Tuesday in place of his brother President Fidel Castro, who normally makes the address. </P>
+<P> No explanation was given in official media for the scheduling of Raul Castro, who is also defense minister. He began speaking from the Isle of Youth south of mainland Cuba and his address was being broadcast to the nation on state televsion and radio. </P>
+<P> July 26, anniversary of a 1953 assault on a military barracks that is viewed as the prelude to the 1959 revolution that toppled dictator Fulgencio Batista, is one of the most important dates on the Cuban political calendar. </P>
+<P> Fidel Castro, who traditionally makes the July 26 speech, was in the front row of the audience. He returned late Monday from a trip to Colombia and it was not clear if he would later add comments to Raul Castro's speech. </P>
+<P> Raul Castro, 63, is Fidel Castro's designated successor and has been his right-hand man since fighting alongside the Cuban leader, 67, in the guerrilla war that led to the 1959 revolution. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0412.940912</DOCID>
+<TDTID>TDT003235</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/12/94 12:23</DATE>
+<TITLE> Investigators tentatively identify crash pilot</TITLE>
+<HEADLINE> Investigators tentatively identify crash pilot</HEADLINE>
+<SUBJECT> BC-USA-PLANE-PILOT URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A man named Frank Eugene Corder, from Maryland, has been tentatively identified as the pilot of the plane that crashed onto the White House lawn Monday morning, investigative sources said. </P>
+<P> The sources said the identification was based partly on a medical certificate found in the wreckage of the plane. Secret Service officials said the pilot, who was killed in the crash, had not been positively identified by next of kin. </P>
+</TEXT>
+</DOC>

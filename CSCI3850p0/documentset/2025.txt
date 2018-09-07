@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0291.941014</DOCID>
+<TDTID>TDT005054</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/14/94 15:02</DATE>
+<TITLE> German police say skinhead attack was faked</TITLE>
+<HEADLINE> German police say skinhead attack was faked</HEADLINE>
+<SUBJECT> BC-GERMANY-ATTACK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>POTSDAM, Germany (Reuter) </DATELINE>
+<P>  German prosecutors said Friday that a woman who said she had been thrown out of a streetcar by skinheads after trying to protect an elderly woman had lied. </P>
+<P> The woman, whose tale stunned Germany and prompted police to put up a $13,000 reward for help in finding the skinheads, lied about the attack because she wanted free medical treatment, the prosecutor's office in Potsdam said. </P>
+<P> The 34-year-old east German admitted to investigators she had traveled on the streetcar and had seen three skinheads on it, but there had been no confrontation, no attack on an old lady and no injury. </P>
+<P> When she later injured her hip in a fall, she invented the story of the attack because she did not have any health insurance and thought being the victim of a crime would entitle her to free hospital treatment. </P>
+<P> The prosecutor's office said she might be charged for wasting police time and faking a crime. </P>
+<P> The incident aroused considerable concern because it followed a recent spate of violence against foreigners and Germans riding on trains in and near Berlin. </P>
+</TEXT>
+</DOC>

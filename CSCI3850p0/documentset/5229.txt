@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU014-0303.950327</DOCID>
+<TDTID>TDT011774</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 13:08</DATE>
+<TITLE> Amnesty accuses U.S. of human rights violations</TITLE>
+<HEADLINE> Amnesty accuses U.S. of human rights violations</HEADLINE>
+<SUBJECT> BC-RIGHTS-USA (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Release 6:00 p.m., EST, March 27)</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Amnesty International Tuesday accused the United States of repeated violations of human rights, pinpointing its treatment of racial minorities and the execution of juvenile offenders. </P>
+<P> The London-based human rights group said it was publishing a report about violations, including brutality and excessive force by police officers and torture and ill-treatment in jails. </P>
+<P> In all these areas, Amnesty said, it had found violations of human rights standards, including those under the International Covenant on Civil and Political Rights which the United States ratified in 1992. </P>
+<P> The Human Rights Committee, 18 experts who monitor states' compliance with the treaty, is meeting in New York this week and will consider the U.S. record. </P>
+<P> Amnesty has already sent its report to committee members, as well as other documents on human rights violations in Argentina, Haiti, New Zealand, Paraguay and Rwanda, the other countries whose records are being considered. </P>
+<P> Amnesty said the United States flouted international standards by executing juvenile offenders. </P>
+<P> It also said many poor defendants sentenced to death or executed since 1977 had been inadequately represented by lawyers who were not trained in capital punishment law. </P>
+<P> At least 50 mentally ill or retarded prisoners had been executed in violation of U.N. safeguards, it said. </P>
+<P> Racial discrimination remained a serious concern in the United States, Amnesty added. </P>
+<P> More than 40 percent of death row prisoners were black compared to just 12 percent of the population, and 84 percent of the 266 prisoners executed since 1977 were convicted of murdering white victims. </P>
+<P> This resulted despite the fact that black and white people were murdered in roughly equal numbers, Amnesty said. </P>
+<P> The group said there had been a disturbing number of deaths in police custody, apprently due to excessive force. </P>
+<P> There were reports of beatings in jails, punitive use of restraints, sexual abuse of inmates and denial of adequate medical or psychiatric care. </P>
+<P> The report also cited examples of questionable police shootings where suspects appeared to offer no immediate threat to life. </P>
+</TEXT>
+</DOC>

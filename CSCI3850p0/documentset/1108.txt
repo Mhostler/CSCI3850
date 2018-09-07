@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU001-0037.940901</DOCID>
+<TDTID>TDT002740</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/01/94 07:14</DATE>
+<TITLE> GRENADES, RUBBER BULLETS QUELL SOUTH AFRICAN STRIKE</TITLE>
+<HEADLINE> GRENADES, RUBBER BULLETS QUELL SOUTH AFRICAN STRIKE</HEADLINE>
+<SUBJECT> BC-SAFRICA-STRIKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG, South Africa (Reuter) </DATELINE>
+<P>  Mine security personnel used stun grenades and rubber bullets Thursday to quell labor disturbances at one of South Africa's biggest and deepest gold mines, the owners said. </P>
+<P> Five miners were injured by rubber bullets in incidents that included unrest at a workers' hostel and a sit-in by 300 miners 1.25 miles underground at the mine near Carletonville, southwest of Johannesburg, owners Anglo-American said. </P>
+<P> The mine lost gold output worth $700,000 as a result of the disturbances, which erupted Wednesday. </P>
+<P> Violence also broke out on Thursday at a forestry near Piet Retief, close to South Africa's border with Swaziland. Police fired birdshot to disperse 4,000 workers, injuring several, a hospital official said. </P>
+<P> ``Their conditions are not serious,'' said a nurse in charge of a Piet Retief hospital casualty ward. </P>
+<P> Labor unrest, either backed by unions or unofficial, has increased in South Africa since the black-majority government of President Nelson Mandela came to power in May. </P>
+<P> Pay is the biggest issue, as black workers raise their expectations following the demise of apartheid and white-minority rule. </P>
+<P> The biggest and costliest strike since Mandela's installation is in the car manufacturing industry, where 25,000 workers have been on strike since August 1. </P>
+<P> Several thousand black nurses and hospital workers are on strike in and around the port of Durban. Again pay is the major issue but the strikers also complain about the predominance of white and ethnic Indian managers in the health services. </P>
+<P> The stoppages worry Mandela's government, which is trying to strike a balance between meeting workers' demands and boosting the economy out of recession. </P>
+</TEXT>
+</DOC>

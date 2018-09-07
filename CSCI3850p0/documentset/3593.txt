@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU002-0246.950105</DOCID>
+<TDTID>TDT008910</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/05/95 14:21</DATE>
+<TITLE> States push to trim federal mandate costs</TITLE>
+<HEADLINE> States push to trim federal mandate costs</HEADLINE>
+<SUBJECT> BC-CONGRESS-SPENDING </SUBJECT>
+<AUTHOR>     By Jackie Frank </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  State and local governments said Thursday the federal government was pushing them close to bankruptcy by forcing them to pay for billions of dollars of ''unfunded federal mandates.'' </P>
+<P> ``The federal government is bankrupt. And the Congress is on its way to bankrupting state and local governments,'' Republican Ohio Gov. George Voinovich told a Senate hearing. </P>
+<P> Giving them relief from these financial pressures is a top priority of the new Senate Majority Leader Robert Dole. Dole has said he wants an early vote on legislation to curb unfunded federal mandates. </P>
+<P> These so-called ``unfunded mandates'' will cost states and local agencies an estimated $88 billion in 1998. </P>
+<P> An unfunded mandate is any regulation Congress requires states to enforce at their own cost. Many deal with health care payments and environmental rules. </P>
+<P> Voinovich told the Senate Governmental Affairs and Budget Committees that unfunded federal mandates will cost his state $1.74 billion from 1992 to 1995 for such things as a requirement that state highways be paved with scrap tires. </P>
+<P> ``I'm not sure why Congress thought this was a good idea,'' he said, but added it will cost $50 million a year even though some experts doubt this paving method is any good. </P>
+<P> The legislation introduced as S.1, the first bill of the new session, has strong support and would force Congress to give states the money to pay for these mandates. It would leave current programs untouched. </P>
+<P> But one of the bill's 53 co-sponsors, Sen. Phil Gramm (R-Texas) said he will seek to toughen the plan. His amendment would require 60 votes to approve new unfunded mandates rather than a simple majority of the 100-member Senate. He also wants a commission to come up with a list of currently imposed mandates that can be eliminated. </P>
+<P> However, the federal government also pays states and local governments about $195 billion a year for various programs. Sen. Byron Dorgan, (D-N.D.) said states will have to take over some of this financial responsibility if they want the federal government to pick up the cost of unfunded mandates. </P>
+<P> ``Some have hooked their hose up to the federal tank to suck as much out of that tank as possible,'' he said. </P>
+<P> Other Democratic senators expressed concern states would race to cut health and safety rules if the mandates are eliminated. </P>
+</TEXT>
+</DOC>

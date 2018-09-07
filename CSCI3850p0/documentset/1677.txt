@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU014-0212.940929</DOCID>
+<TDTID>TDT004175</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/29/94 10:41</DATE>
+<TITLE> CIA station chief in Germany reprimanded in Ames case</TITLE>
+<HEADLINE> CIA station chief in Germany reprimanded in Ames case</HEADLINE>
+<SUBJECT> BC-USA-CIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Central Intelligence Agency station chief in Germany was among 11 current and former agency officials reprimanded for bungling the Aldrich Ames spy case, officials said Thursday. </P>
+<P> CIA Director James Woolsey said Wednesday that the agency's inspector general concluded there was no gross negligence or willful misconduct that could lead to criminal charges against the 11. </P>
+<P> But he said their ``lack of attention'' to the search for a possible turncoat within the agency had ``caused a disaster.'' The turncoat was revealed this year to be Ames, who spied for the Soviet Union and then Russia for eight years starting in the mid-1980s. </P>
+<P> The officials, who asked not to be named, said that Milton Bearden, the CIA station chief in Germany, and Burton Gerber, the former head of the CIA's Soviet division, were among those who received letters of reprimand from Woolsey. </P>
+<P> Woolsey has publicly named only one of those reprimanded, Hugh ``Ted'' Price, the deputy director for operations and the CIA's third-ranking official. But he said Price was being kept on despite his role in the Ames affair. </P>
+</TEXT>
+</DOC>

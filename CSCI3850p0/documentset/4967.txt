@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU008-0257.950316</DOCID>
+<TDTID>TDT011344</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/16/95 14:50</DATE>
+<TITLE> Diphtheria spreading in former Soviet states - CDC</TITLE>
+<HEADLINE> Diphtheria spreading in former Soviet states - CDC</HEADLINE>
+<SUBJECT> BC-HEALTH-DIPHTHERIA (EMBARGOED) </SUBJECT>
+<AUTHOR>     By Mike Cooper </AUTHOR>
+<TEXT>
+<NOTES>    Release at 5 p.m. EST</NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  Cases of diphtheria have reached epidemic levels among children and adults in all but one of the states of the former Soviet Union, U.S. health officials said Thursday. </P>
+<P> ``This is an epidemic which has the capacity to grow a lot worse before it gets better,'' said Dr Iain Hardy, a medical epidemiologist with the U.S. Centers for Disease Control and Prevention (CDC). ``It's really just in its early stages in many of the countries.'' </P>
+<P> There were 47,802 cases of the potentially fatal bacterial disease in the former Soviet states last year, a 56-fold increase over a five-year period. The CDC said most of the 1,746 people who died of the disease last year were adults. </P>
+<P> ``There is a need for the international donor community to respond immediately and effectively to work with the affected countries to control the epidemic,'' Hardy said. ``The number of reported cases may more than double with each successive year unless effective control measures are put in place.'' </P>
+<P> Hardy said the new cases may signal the end of thinking of diphtheria as a ``childhood disease'' because the success of child immunization programs begun in the late 1950s has left adults at risk. ``The exposure to diphtheria went away, so adults no longer were becoming immune by that means,'' he said. </P>
+<P> The CDC recommends that adults receive a booster shot for diphtheria and tetanus every ten years after being immunized as a child. </P>
+<P> In 1993, almost 80 percent of children in the former Soviet states had been vaccinated against diphtheria, but the figure was as low as 60 percent in some regions. </P>
+<P> ``The degree to which the shortfall in childhood immunization explains this epidemic is uncertain,'' Hardy said. ''Refugees coming from the south of the former Soviet Union may, in part, have brought diphtheria into other parts of the former Soviet Union. The displaced people living in crowded conditions may have helped.'' </P>
+<P> In Russia, the number of diphtheria cases rose from 603 in 1989 to 15,229 in 1993. The figure then rose 161 percent to 29,703 in 1994, according to the CDC. </P>
+<P> Cases of diphtheria increased 27-fold in the Ukraine between 1990 and 1994, 21-fold in Latvia and ten-fold in Moldova and Georgia. Estonia has the lowest incidence rate of the disease in the 15 former states cited by the CDC. </P>
+<P> The CDC said representatives of the affected Soviet countries have agreed to launch massive childhood and adult vaccination efforts. The World Health Organization considers the rapidly expanding epidemic to be an international public health emergency. </P>
+</TEXT>
+</DOC>

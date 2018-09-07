@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0085.950401</DOCID>
+<TDTID>TDT011996</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/01/95 11:19</DATE>
+<TITLE> Twenty-two injured in French highway pile-up</TITLE>
+<HEADLINE> Twenty-two injured in French highway pile-up</HEADLINE>
+<SUBJECT> BC-FRANCE-PILEUP </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Twenty-two people were injured Saturday, one seriously, in a 40-vehicle pileup on a foggy highway southeast of Paris, police said. </P>
+<P> A spokesman said the accident, on the A6 highway near the town of Auxerre, was probably due to vehicles traveling too fast in poor visibility. </P>
+</TEXT>
+</DOC>

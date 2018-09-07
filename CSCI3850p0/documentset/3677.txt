@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0100.950110</DOCID>
+<TDTID>TDT009101</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/10/95 03:59</DATE>
+<TITLE> Egypt sentences two militants to death</TITLE>
+<HEADLINE> Egypt sentences two militants to death</HEADLINE>
+<SUBJECT> BC-EGYPT-COURT-SENTENCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HEIKSTEP, Egypt (Reuter) </DATELINE>
+<P>  An Egyptian military court sentenced two Muslim militants to death Tuesday for their part in the attempted murder of Egyptian novelist Naguib Mahfouz in October. </P>
+<P> Two other men were given life sentences in the case for their role in stabbing the 83-year-old Nobel laureate. </P>
+<P> Doctors said Mahfouz, who has been declared an ``infidel'' by some Muslim militants because of his books, was lucky to survive the Oct. 14 attack outside his house. </P>
+<P> Mohamed Nagi Mohamed Mustafa, charged with stabbing Mahfouz, and Mohamed Ghafir Abu al-Farag Mahlawi, who had kept watch on Mahfouz's house before the attack, were sentenced to death. </P>
+<P> Amr Mohamed Mohamed Ibrahim, charged with assisting in the ambush, and Hussain Ali Bakr Awad, who monitored the house, were given life sentences. Three defendants were found not guilty and the remaining nine received sentences from three to 15 years. </P>
+</TEXT>
+</DOC>

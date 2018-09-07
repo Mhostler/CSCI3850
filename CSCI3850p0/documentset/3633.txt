@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU003-0206.950108</DOCID>
+<TDTID>TDT009024</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/08/95 07:25</DATE>
+<TITLE> French song composer Gaste dead at 88</TITLE>
+<HEADLINE> French song composer Gaste dead at 88</HEADLINE>
+<SUBJECT> BC-FRANCE-GASTE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  French popular song composer Loulou Gaste, who wrote the top hits of his singer wife Line Renaud, died Sunday at the age of 88, relatives said. </P>
+<P> Television said he died of cancer at his home in suburban Paris. He had composed about 1,000 songs for such stars as the late Yves Montand. </P>
+<P> His wife's biggest success, ``Ma Cabane au Canada'' (My hut in Canada), was a household tune in France in the 1950s. </P>
+</TEXT>
+</DOC>

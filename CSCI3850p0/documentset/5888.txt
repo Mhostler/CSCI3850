@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0218.950420</DOCID>
+<TDTID>TDT012757</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/20/95 11:28</DATE>
+<TITLE> Two feared dead in Athens explosion</TITLE>
+<HEADLINE> Two feared dead in Athens explosion</HEADLINE>
+<SUBJECT> BC-GREECE-EXPLOSION URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATHENS (Reuter) </DATELINE>
+<P>  A powerful explosion rocked a northern Athens suburb Thursday and police said up to two people were feared killed in the blast. </P>
+<P> They could not say whether the explosion in the three-story building at the posh Paleo Psychiko suburb, where many embassies are located, was caused by a bomb or a gas leak. </P>
+</TEXT>
+</DOC>

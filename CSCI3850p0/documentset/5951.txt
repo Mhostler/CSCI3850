@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU014-0091.950423</DOCID>
+<TDTID>TDT012906</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/23/95 05:27</DATE>
+<TITLE> Another French soldier wounded in Sarajevo</TITLE>
+<HEADLINE> Another French soldier wounded in Sarajevo</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-FRENCH 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>  (Adds details, background)</NOTES>
+<DATELINE>SARAJEVO, April 23 (Reuter) </DATELINE>
+<P>  A French soldier was wounded on Sunday morning in an explosion in Sarajevo a day after three French peacekeepers were killed as they defused expired ammunition, a United Nations spokeswoman said. </P>
+<P> ``We don't know whether it was a booby trap or a mine,'' Captain Miriam Souchaki told Reuters. </P>
+<P> Three French peacekeepers were killed and four wounded on Saturday as they were defusing expired U.N. ammunition at the airport. Two French soldiers were shot dead by snipers a week ago in the city.. </P>
+<P> The sniping incidents had prompted the French government to threaten to withdraw its troops from Bosnia unless the warring parties extended the current ceasefire due to expire on May 1. </P>
+<P> But the Moslem-led Bosnian government and its Serb foes have so far rejected appeals to renew the three-month old ceasefire, which has been crumbling for several weeks. </P>
+<P> France is the largest contributor of peacekeeping troops in Bosnia, with more than 3,000 troops serving in the former Yugoslav republic. </P>
+</TEXT>
+</DOC>

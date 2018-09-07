@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU012-0069.950323</DOCID>
+<TDTID>TDT011588</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 03:11</DATE>
+<TITLE> N.Korea accuses South of planning radioactive war</TITLE>
+<HEADLINE> N.Korea accuses South of planning radioactive war</HEADLINE>
+<SUBJECT> BC-NUCLEAR-KOREA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, March 23 (Reuter) </DATELINE>
+<P>  North Korea, preparing for talks next week with the United States on the controversy over its nuclear programme, accused South Korea on Thursday of trying to build dangerous nuclear facilities near their joint border. </P>
+<P> North Korea's official Rodong Shinmun said Seoul's plan to build nuclear-waste disposal facilities on an island just 50 km (30 miles) south of North Korea's maritime territory was ``little different from nuclear timebombs.'' </P>
+<P> ``The South Korean puppets' decision to build a nuclear waste dump on Kurop islet is tantamount to a de facto declaration of radioactive war against the North,'' it was quoted as saying by the state Korean Central News Agency (KCNA). </P>
+<P> South Korea said in December it had selected Kurop, an almost uninhabited islet off the western port city of Inchon, as South Korea's first site for nuclear-waste disposal. </P>
+<P> ``There is no reason whatsoever why North Korea should dispute the Kurop waste disposal facilities, designed to manage safely radioactive waste resulting from the peaceful use of atomic energy,'' a South Korean government spokesman said. </P>
+<P> He said experts from the International Atomic Energy Agency (IAEA) supported the Kurop project. </P>
+<P> But Rodong Shinmun said: ``We cannot overlook the anti-national moves of the (South Korean President) Kim Young-sam group to threaten existence of fellow countrymen by stockpiling nuclear radioactive material under our nose.'' </P>
+<P> The accusation came as the Stalinist state threatened to pull out of a landmark nuclear pact with the United States if it was forced to accept South Korean-model nuclear reactors. </P>
+<P> North Korea and the United States are due to meet in Berlin next week in a bid to settle the thorny issue of the nuclear reactor type. </P>
+<P> Under the pact reached in Geneva last October, the North agreed to halt and eventually dismantle its nuclear plants, where the West suspected atomic bombs were being developed. </P>
+<P> In return, the United States agreed to put together a consortium to pay for the supply of safer, light-water reactors from which weapons-grade plutonium cannot be extracted. </P>
+<P> But Pyongyang refuses to take reactors designed by its arch rival -- a key element of the deal as Seoul is to shoulder the bulk of the more than $4 billion price tag. </P>
+</TEXT>
+</DOC>

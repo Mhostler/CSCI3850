@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU001-0010.950101</DOCID>
+<TDTID>TDT008729</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/01/95 03:53</DATE>
+<TITLE> New Year's Eve fire kills five in Belgian hotel</TITLE>
+<HEADLINE> New Year's Eve fire kills five in Belgian hotel</HEADLINE>
+<SUBJECT> BC-BELGIUM-FIRE (PICTURE) </SUBJECT>
+<AUTHOR>     By Janet McEvoy </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANTWERP, Belgium (Reuter) </DATELINE>
+<P>  Five people were killed and about 80 injured, some critically, when fire engulfed a hotel in the Belgian town of Antwerp during a New Year's party, police said Sunday. </P>
+<P> The blaze began when a Christmas tree at the Switel Hotel was set on fire by candles at about 11 p.m. as up to 500 people gathered for the event, a police spokesman said. </P>
+<P> The Belgian news agency Belga said an explosion was heard in the entrance of the hotel and fire spread to the ballroom. The accommodation section was not affected. </P>
+<P> Belga said the entrance hall was decorated with balloons filled with helium, a non-explosive but inflammable gas, which could have helped spread the fire. </P>
+<P> Asked about the condition of the injured, a police spokesman told Reuters: ``At least one-fifth are critical so we cannot say what the situation will be in the days to come.'' </P>
+<P> Panic broke out among guests prevented from leaving the building because the way out was blocked, local news reports said. </P>
+<P> According to witnesses quoted by Belga, some threw themselves out of the hotel with their clothes on fire. </P>
+<P> A musician who was to have played at the party told Belgian radio: ``Suddenly we saw a glimmer of fire on the ceiling. Then there was an enormous burst of smoke. When people realized it was serious there was a panic. Everyone ran to the emergency exit.'' </P>
+<P> Fire-fighters brought the blaze under control in the early hours and a radio reporter at the scene early Sunday said blackened glasses, napkins, chairs and party decorations lay where they had been abandoned the night before and a single party shoe lay among the wreckage. </P>
+<P> The walls and curtains were blackenened and the windows broken, she said. </P>
+<P> Some of the injured were taken by helicopter to Brussels because of the shortage of space in Antwerp hospitals. </P>
+</TEXT>
+</DOC>

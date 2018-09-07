@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU005-0264.950209</DOCID>
+<TDTID>TDT010288</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/09/95 21:11</DATE>
+<TITLE> Seventeen named in AT&AMP;T insider trading scheme</TITLE>
+<HEADLINE> Seventeen named in AT&AMP;T insider trading scheme</HEADLINE>
+<SUBJECT> BC-INSIDER 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Seventeen people were named in federal criminal and civil charges accusing them of illegally earning at least $2.6 million by trading on inside tips about AT&T Corp.'s takeover targets, officials said Thursday. </P>
+<P> The charges were announced by both the U.S. attorney in Manhattan and the Securities and Exchange Commission, which called the case signficant because of the large number of people involved. </P>
+<P> Both said the scheme revolved around Charles Brumfield, a former AT&T labor relations vice president in Morristown, N.J., who pleaded guilty Feb. 2, to criminal charges of conspiracy to break securities laws and perjury. </P>
+<P> ``With the assistance of Thomas Alger, his close friend and subordinate at AT&T, Brumfield orchestrated widespread trading in the securities of those companies through a circle of family and friends in New York, New Jersey, Illinois, Florida and North Carolina,'' the SEC said. </P>
+<P> Brumfield, who left AT&T in 1993 and lives in Palm Beach, Fla., faces a possible maximum prison term of 10 years. </P>
+<P> Alger, who left AT&T in 1992 and lives in Punta Gorda, Fla., pleaded guilty Jan. 26 to one count of conspiracy to break securities laws and faces a possible maximum prison term of five years. </P>
+<P> The federal indictment charges six people with insider trading, but neither Brumfield nor Alger are named in the case. </P>
+<P> U.S. Attorney Mary Jo White said she could not comment on whether the two men are cooperating but ``you can draw a logical inference.'' </P>
+<P> They are, however, named in the broader SEC civil complaint that involves a total of 17 defendants. The SEC alleged that Brumfield and Alger received about $300,000 in kickbacks from their ``tipees.'' </P>
+<P> AT&T is not a defendant in either case and has been cooperating with authorities, prosecutors said. </P>
+<P> The company said that its code of conduct prohibits employees from trading in the securities of other companies based on non-public information learned on the job. </P>
+<P> It said it is ``deeply concerned with alleged violations of its code of conduct or even actions that give the appearance of a violation.'' </P>
+<P> Authorities said most of the illegal profits were made from trading in the securities and the options to purchase securities of NCR Corp. AT&T bought NCR for $7 billion in 1991. </P>
+<P> The indictment alleged that the ``tippee'' who made the most amount off Brumfield's inside information was Joseph Cusimano, of Joliet, Ill., who earned about $900,000 in the scheme. </P>
+</TEXT>
+</DOC>

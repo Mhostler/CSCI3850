@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU011-0439.950322</DOCID>
+<TDTID>TDT011576</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/22/95 18:00</DATE>
+<TITLE> Israel shuts four West Bank mosques</TITLE>
+<HEADLINE> Israel shuts four West Bank mosques</HEADLINE>
+<SUBJECT> BC-MIDEAST-MOSQUES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israel ordered four West Bank mosques shut for periods ranging from three to six months this week for ``inciting'' against Israel, the army said Wednesday. </P>
+<P> It said the mosques, all in the area of the town of Ramallah, had received warnings they could be shut. Subsequent searches later uncovered material authorities considered ``inciting'' and the mosques were ordered closed. </P>
+<P> Israel has cracked down on people it suspects of supporting militant Islamic groups in the occupied West Bank in the wake of bombings by Islamic guerrillas opposed to the Israel-PLO peace deal that have killed scores of Israelis since last April. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU009-0023.941018</DOCID>
+<TDTID>TDT005208</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 03:47</DATE>
+<TITLE> Gorbachev warns of nuclear danger in free world</TITLE>
+<HEADLINE> Gorbachev warns of nuclear danger in free world</HEADLINE>
+<SUBJECT> BC-GORBACHEV-ENVIRONMENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuters) </DATELINE>
+<P>  The world is facing a greater danger from nuclear weapons now than during the Cold War, Mikhail Gorbachev, the last president of the former Soviet Union, said Monday. </P>
+<P> Speaking at the Environmental Media Awards presentation in Los Angeles, Gorbachev called for immediate international programs designed specifically to rid the world of nuclear weapons. </P>
+<P> ``The Cold War is over. But, the nuclear genie, which was let out of the bottle, is still at large,'' he said in his new capacity as president of Green Cross International, a worldwide environmental group. </P>
+<P> Gorbachev took a swipe at the failure of Boris Yeltsin's Government to stop illegal exporting of nuclear components out of Russia. </P>
+<P> ``In some ways it has even become more dangerous because of lax control over nuclear and fissionable materials and the spread of modern technologies for producing the weapons of mass destruction,'' he said. </P>
+<P> Gorbachev told his Hollywood entertainment industry audience that Russians and Americans should be at the forefront of diffusing the nuclear threat. </P>
+<P> ``While we were thinking how to multiply the weapons of nuclear overkill, we acted like barbarians digging a common grave,'' he said. </P>
+<P> He called for the development of a universally binding, international code of environmental ethics to ensure the safety of the earth's ecosystem. </P>
+<P> ``There must be a kind of 10 commandments for the environment, something that no one would be allowed to violate,'' he said. </P>
+<P> ``The time has come for mankind to adopt the wise philosophy of Native Americans: 'We do not inherit this planet from our fathers -- we are borrowing it from our children'.'' </P>
+<P> Gorbachev, who presided over the disintegration of the communist Eastern bloc from 1985 until his 1991 resignation and subsequent defeat at the polls by his rival Boris Yeltsin, said he hoped to present new guidelines for sweeping international environmental laws at next year's conference marking the 50th anniversary of the United Nations. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0250.950501</DOCID>
+<TDTID>TDT013329</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 21:58</DATE>
+<TITLE> UN Council holds emergency session on Croatia</TITLE>
+<HEADLINE> UN Council holds emergency session on Croatia</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-UN-MEETING 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Updates with session underway)</NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  The Security Council on Monday went into a late night session on fighting in Croatia, at the request of U.N. officials. </P>
+<P> The 15-member body, which began closed-door consultations, is expected to issue a statement asking the Croatian government to stop its offensive and for all sides to exercise restraint and respect the rights of U.N. personnel, according to early drafts. </P>
+<P> Diplomats said France's ambassador, Jean-Bernard Merimee, this month's council president, called the meeting at the request of U.N. officials. Russia earlier had attempted to convene a similar session. </P>
+<P> In Zagreb, the United Nations earlier Monday tried urgently to stop the fighting in Croatia after Zagreb's army rolled across cease-fire lines deep into a Serb-held enclave. </P>
+<P> Serbs shelled Croatian towns and took 122 U.N. hostages in reply after thousands of Croatian troops with artillery and tanks rammed into the Western Slavonia region of central Croatia at dawn in an attack from the east and west. </P>
+</TEXT>
+</DOC>

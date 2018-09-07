@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0448.941118</DOCID>
+<TDTID>TDT006690</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/18/94 07:24</DATE>
+<TITLE> Dow's ex-division sold breast implants overseas</TITLE>
+<HEADLINE> Dow's ex-division sold breast implants overseas</HEADLINE>
+<SUBJECT> BC-IMPLANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A former foreign subsidiary of Dow Corning Co distributed silicone breast implants overseas -- a disclosure that could open the company to liability, the Wall Street Journal reported in Friday's editions. </P>
+<P> Frank Popoff, Dow Chemical's chairman and chief executive, acknowledged that a former Italian subsidiary, Gruppo Lepetit, had been a distributor of the implants outside the United States, the paper said. </P>
+<P> The admission, which came in recent court depositions, could lead attorneys to compel Dow Chemical to contribute to the $4.2 billion global settlement of breast implant litigation, the paper said. </P>
+<P> Earlier claims by Dow Chemical's attorneys have kept the company exempt from the implant liability, the Wall Street Journal said. </P>
+<P> Plaintiffs in the settlement told the paper the fund may eventually become depleted because as many as 150,000 women have signed up to participate. </P>
+<P> Dow Chemical told the paper it remains confident that the company will be found to have no liability in the litigation, the paper said. </P>
+<P> Dow Corning, a joint venture between Dow Chemical and Corning Inc, was the leading manufacturer of silicone-gel breast implants, it said. </P>
+</TEXT>
+</DOC>

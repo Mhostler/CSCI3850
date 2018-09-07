@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0242.950406</DOCID>
+<TDTID>TDT012211</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 16:31</DATE>
+<TITLE> One killed, three injured in NYC building collapse</TITLE>
+<HEADLINE> One killed, three injured in NYC building collapse</HEADLINE>
+<SUBJECT> BC-COLLAPSE 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Updates with death of construction worker)</NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A five-story building under demolition collapsed early Thursday, killing a construction worker who fell onto a ramp to the nearby Lincoln Tunnel and injuring three other people. </P>
+<P> The 32-year-old unidentified man died about six hours after the accident. Two other injured construction workers were in stable condition. A woman who was passing by the site and stopped to help also was taken to a local hospital. </P>
+<P> Workers were demolishing the narrow building when a side wall and a rear wall collapsed, officials said. </P>
+<P> The cause of the collapse was unknown, said Buildings Department spokesman Vahe Tiryakian. </P>
+<P> The building was located at 38th Street and Ninth Avenue, near the Lincoln Tunnel which runs under the Hudson River and connects New York City and New Jersey. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU014-0375.940730</DOCID>
+<TDTID>TDT001258</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/30/94 21:59</DATE>
+<TITLE> CLINTON RAISES $850,000 FOR OHIO DEMOCRATS</TITLE>
+<HEADLINE> CLINTON RAISES $850,000 FOR OHIO DEMOCRATS</HEADLINE>
+<SUBJECT> BC-CLINTON-OHIO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CLEVELAND, Ohio (Reuter) </DATELINE>
+<P>  President Clinton Saturday raised $850,000 for Ohio Democrats and their U.S. Senate nominee, Joel Hyatt, who started a nationwide chain that provides legal services. </P>
+<P> Clinton praised Hyatt for creating Hyatt Legal Services and said it helped make ``people think that the system can work for them ... that's what he can help do with the United States'' if he wins the November election. </P>
+<P> Clinton attended two events to raise the money, which will be evenly divided between the state part and Hyatt's campaign bid to replace Senator Howard Metzenbaum, who is not seeking re-election. </P>
+</TEXT>
+</DOC>

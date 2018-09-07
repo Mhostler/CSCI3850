@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU007-0296.950314</DOCID>
+<TDTID>TDT011283</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/14/95 17:00</DATE>
+<TITLE> New book praises American-born settler who killed Palestinians</TITLE>
+<HEADLINE> New book praises American-born settler who killed Palestinians</HEADLINE>
+<SUBJECT> BC-MIDEAST-MASSACRE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israeli officials said Tuesday they were checking whether the authors of a new book praising a Jewish settler who massacred 29 Palestinian worshipers in a Hebron mosque last year violated Israeli law. </P>
+<P> Settlers sold the book lauding Baruch Goldstein, titled ``Baruch the Man,'' on street corners throughout Israel Tuesday. Israel Television said the 400 copies printed had already sold out. </P>
+<P> ``The ability of people to depict a man who murdered worshipers in the holiest site, to depict him as anything other than a murderer and a criminal..., I think this is very severe and requires our investigation,'' Justice Minister David Libai told Israel Television. </P>
+<P> Goldstein, a Brooklyn-born resident of the Kiryat Arba settlement near Hebron, sprayed kneeling Arabs with gunfire a year ago before survivors beat him to death. </P>
+</TEXT>
+</DOC>

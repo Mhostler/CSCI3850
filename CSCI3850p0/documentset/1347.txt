@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU006-0353.940913</DOCID>
+<TDTID>TDT003317</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/13/94 17:30</DATE>
+<TITLE> Auditors say B-2 may exceed cost limit</TITLE>
+<HEADLINE> Auditors say B-2 may exceed cost limit</HEADLINE>
+<SUBJECT> BC-USA-BOMBER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Congressional auditors said Tuesday ''there is uncertainty'' whether 20 B-2 stealth bombers can be built within the $44.6 billion limit set by Congress because flight tests have found problems and may find more. </P>
+<P> The General Accounting Office auditors said in a report that flight testing of the radar-evading bomber built by the Northrop Corp is only 43 percent completed and has already found numerous problems. </P>
+<P> The report said the problems include aft deck cracks and deficiencies in the stealth characteristics that are supposed to sneak the bomber through enemy radar defenses without being detected. </P>
+<P> It said recent problems with the bomber's terrain-following radar, and with computer software, raise concerns that further testing will find even more problems that will require costly fixes. </P>
+<P> ``Based on past experiences with other (weapons) systems, flight testing typically identifies problems that require financial resources to correct,'' it said. </P>
+<P> ``We are concerned (about the terrain-following radar problems) because the Air Force experienced devlopment problems with the B-1B bomber terrain-following mode that delayed full capability,'' it said. </P>
+<P> As for the B-2 software problems, it said, ``Historically, software has been a source of development problems that resulted in schedule delays and cost overruns.'' </P>
+<P> But Northrop said it's own internal review shows the problems can be corrected and the 20 B-2 bombers built within Congress' cost limit. </P>
+<P> ``Our response simply is that we have conducted an internal review of the cost of completion of the program and to complete the statement of work,'' spokesman Ed Smith said. ``We expect to complete the statement of work within the cost cap that is in effect.'' </P>
+<P> The GAO report said the Air Force has refused to accept the second and third bombers from Northrop because the ``radar cross section'' -- visibility of the plane to enemy radars -- did not meet its criteria. </P>
+<P> It quoted officials as saying the problem was caused by a slight change in the process for manufacturing the bombers' tailpipes and that the problem has been corrected. </P>
+<P> The bomber uses special materials, shapes and mufflers to make its blip on a radar screen so slight that enemy missiles and guns cannot track it to shoot it down. </P>
+<P> The B-2 was originally intended for nuclear bombing of the Soviet Union in a war but with the Cold War over it is being converted for non-nuclear strategic bombing such as that conducted by B-52 bombers during the Gulf War. </P>
+<P> The Air Force says the B-2s will be able to fly from the United States to bomb an invading force anywhere in the world in hours. </P>
+</TEXT>
+</DOC>

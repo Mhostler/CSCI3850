@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0024.940724</DOCID>
+<TDTID>TDT000976</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/24/94 16:21</DATE>
+<TITLE> SENEGAL GRANTS ASYLUM TO OUSTED GAMBIAN PRESIDENT</TITLE>
+<HEADLINE> SENEGAL GRANTS ASYLUM TO OUSTED GAMBIAN PRESIDENT</HEADLINE>
+<SUBJECT> BC-GAMBIA-PRESIDENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DAKAR (Reuter) </DATELINE>
+<P>  Ousted Gambian president Sir Dawda Jawara arrived in Dakar on a U.S. warship Sunday and Senegal said it had granted him political asylum. </P>
+<P> ``Following the events of July 22, Senegal, true to its tradition of hospitality, has agreed to grant political asylum to Sir Dawda Jawara and his family,'' said a government statement broadcast by state radio. Young army officers ousted the 70-year-old leader in a bloodless coup Friday. </P>
+</TEXT>
+</DOC>

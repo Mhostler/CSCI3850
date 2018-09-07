@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU004-0291.950406</DOCID>
+<TDTID>TDT012225</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 19:08</DATE>
+<TITLE> Advances reported in fighting infections</TITLE>
+<HEADLINE> Advances reported in fighting infections</HEADLINE>
+<SUBJECT> BC-HEALTH-ANTIBIOTICS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Scientists Thursday reported advances in the quest to treat bacteria that have been resistant to drugs. </P>
+<P> Two research projects are described in Friday's edition of the Journal Science. </P>
+<P> One project focuses on Gram-positive bacteria, like staphylococcus and streptococcus, that were thought to have been conquered as a serious health problem with the advent of antibiotics like penicillin. However the infections in recent years have shown more resistance to those drugs. </P>
+<P> The other tackles sepsis, sometimes simply called blood poisoning, which can be fatal. Attempts to invent better drugs to fight the infection have proven extremely frustrating and costly in the last few years. </P>
+<P> For staph and strep infections, some scientists have concluded that they won't be able to eke out many more improvements of antibiotics, and need new drug targets. </P>
+<P> ``Penicillin and similar drugs target the cell wall,'' said Olaf Schneewind, a microbiologist at UCLA's School of Medicine. ``We are looking at new targets.'' </P>
+<P> Although still far from designing a drug, Schneewind and two colleagues have found a possible target in staphylococcus aureus. They identified the chemical link between the bacteria's surface protein and the cell wall. </P>
+<P> They designed a hybrid molecule that anchors to the wall like a normal protein, but could be released by an enzyme. By interfering with the anchoring process, it may be possible to render the germ harmless, he said, adding that scientists have been trying to understand this mechanism for 60 or 70 years. </P>
+<P> Sepsis, a Gram-negative bacteria, affects about 500,000 Americans a year and kills thousands. </P>
+<P> The new research by Eisai Research Institute in Massachusetts and Tsukuba Research Laboratories in Japan targets endotoxins, poisons produced by bacteria in the body. </P>
+<P> ``We think we can mimic the endotoxin without the harmful effect,'' said chemist Michael Lewis at Eisai. </P>
+<P> The early tests on humans have been promising, he said, but he noted that other drug makers have had harsh setbacks on efforts to treat sepsis. </P>
+</TEXT>
+</DOC>

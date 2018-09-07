@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0394.941128</DOCID>
+<TDTID>TDT007107</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/28/94 12:04</DATE>
+<TITLE> Indian scientists say herbs cure sexual disorder</TITLE>
+<HEADLINE> Indian scientists say herbs cure sexual disorder</HEADLINE>
+<SUBJECT> BC-HEALTH-SEX </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, India (Reuter) </DATELINE>
+<P>  A team of Indian scientists said Monday they had created a cocktail of 11 fruits and roots including asparagus that can help cure premature ejaculation, a common sexual disorder among men. </P>
+<P> B.L. Mehra of the Institute of Postgraduate Teaching and Research in Jamnagar told an international conference that the herbal powder was better than psychotherapy at combating the sexual problem, reported in one in 10 men. </P>
+<P> In a study by a team led by Mehra involving 45 patients, 60 percent of those who took the herbal cocktail three times a day for six weeks were cured and another 28 percent showed marked improvement. </P>
+<P> Forty percent of those who underwent psychotherapy were cured and another 10 percent noted improvement. None of those given a placebo of black powder showed significant effects. </P>
+<P> The tan powder, which has a slight curry flavor, is not commercially available. It includes asparagus root as well as rarer roots, fruits and seeds, Mehra said. </P>
+<P> ``The herbal compound was observed as the best to give relief of premature ejaculation,'' a paper presented by Mehra said. </P>
+<P> Premature ejaculation was defined in part as an inability to control ejaculation long enough to satisfy a sexual partner at least half of the time. </P>
+<P> Patients who took the compound saw the average duration of their sexual acts more than doubled to just under six minutes. </P>
+<P> The average duration for those undergoing psychotherapy increased by about one minute to three and a half minutes, while those who took the placebo showed little change. </P>
+<P> Mehra was among 500 international experts who kicked off the four-day Asian Conference of Sexology Monday, with AIDS and global population growth casting a shadow over organizers' longstanding efforts to relax sexual taboos. </P>
+</TEXT>
+</DOC>

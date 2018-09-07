@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU003-0275.941106</DOCID>
+<TDTID>TDT006145</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/06/94 20:18</DATE>
+<TITLE> Clinton regrets that Simpson pretrial hearings on TV</TITLE>
+<HEADLINE> Clinton regrets that Simpson pretrial hearings on TV</HEADLINE>
+<SUBJECT> BC-CLINTON-SIMPSON (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>    Release at 10 p.m. EST</NOTES>
+<DATELINE>SEATTLE (Reuter) </DATELINE>
+<P>  President Clinton said Sunday he believes it is possible for O.J. Simpson to receive a fair trial but he thinks television coverage of the pretrial hearings has complicated jury selection. </P>
+<P> ``I think there can be a fair trial,'' Clinton said on the ''Larry King Live'' program broadcast by CNN. </P>
+<P> He voiced concern, however, that pretrial publicity, particularly live television coverage, has made the task of selecting a jury more difficult. </P>
+<P> ``What bothers me is all this pretrial publicity,'' Clinton said, adding: ``All of us, we can't help but be affected by the things we know.'' </P>
+<P> ``This wrenching pretrial publicity, I think, is more damaging'' than the possibility of broadcast coverage of the trial itself, he said. </P>
+<P> Superior Court Judge Lance Ito is set to decide Monday whether or not he will permit television cameras in the courtroom. </P>
+<P> Simpson, a football Hall of Famer turned sportscaster, actor and television pitchman, has pleaded innocent to the June 12 stabbing deaths of his ex-wife Nicole Brown Simpson and her friend Ronald Goldman outside her luxury Brentwood townhouse. </P>
+</TEXT>
+</DOC>

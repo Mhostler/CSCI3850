@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU012-0204.940725</DOCID>
+<TDTID>TDT001006</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/25/94 14:55</DATE>
+<TITLE> NIXON-BETRAYERS HAVE NO REGRETS 20 YEARS ON</TITLE>
+<HEADLINE> NIXON-BETRAYERS HAVE NO REGRETS 20 YEARS ON</HEADLINE>
+<SUBJECT> BC-USA-WATERGATE </SUBJECT>
+<AUTHOR>     By Robert Kearns </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Twenty years ago, John Dean, James McCord and Alexander Butterfield helped drive Richard Nixon from the White House in disgrace.  On Monday, reuniting at the National Press Club to recall their roles in the Watergate drama that forced Nixon to quit on August 9, 1974, they made clear they had no regrets. </P>
+<P> The occasion: a preview of a five-part series on Watergate that will be shown on the Discovery cable channel starting Sunday evening. </P>
+<P> Dean, the then blond and boyish White House counsel, was the ``rat'' who confessed under a grant of immunity that Nixon knew about the White House attempt to cover up its involvement in the 1972 burglary of the Democratic National Committee headquarters in the Watergate office building. </P>
+<P> James McCord, one of the White House ``plumbers'' who bungled the burglary, told a U.S. District Court judge that the White House had tried to buy silence with ``hush money.'' </P>
+<P> Alexander Butterfield blew a hole in the White House stone wall by revealing to a congressional investigator that Nixon operated a secret voice-activated taping system in his office. </P>
+<P> Dean said Monday he betrayed the late president to save his own skin, not for some noble constitutional principle. </P>
+<P> ``It became apparent to me that a number of them were eager for me to take the fall for them,'' he said. ``I have no regrets. I just felt it was the right thing to do.'' </P>
+<P> McCord, caught red-handed by police as he emerged from the Watergate on June 17, 1972 , said his first allegiance was to his family. ``I told my family I had made a mistake,'' he said. ''I told them I had to wait for a propitious time'' to confess. </P>
+<P> That time came on March 20, 1973, a few days before he was to be sentenced. </P>
+<P> McCord was the first insider to jump ship, accusing others of perjury and denying claims the CIA was behind the burglary. </P>
+<P> Butterfield led investigators to the ``smoking gun'' that long eluded them when he disclosed that Nixon had bugged the Oval Office and that they could get recordings of his Watergate scheming. </P>
+<P> He said he did not volunteer the information that he had supervised the installation of an elaborate Oval Office taping system in interviews with congressional staffers. </P>
+<P> But when he was shown what looked like verbatim transcripts, he assumed others had let on, namely Nixon chief of staff, H.R. Haldeman. ``I had no choice,'' he said. </P>
+</TEXT>
+</DOC>

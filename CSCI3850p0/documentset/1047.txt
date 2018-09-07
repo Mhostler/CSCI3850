@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0221.940829</DOCID>
+<TDTID>TDT002589</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/29/94 14:20</DATE>
+<TITLE> U.S. CONDEMNS KILLING OF PRO-ARISTIDE PRIEST</TITLE>
+<HEADLINE> U.S. CONDEMNS KILLING OF PRO-ARISTIDE PRIEST</HEADLINE>
+<SUBJECT> BC-HAITI-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States Monday deplored the murder of a Haitian priest loyal to deposed president Jean-Bertrand Aristide and hinted strongly that it had made a U.S.-led invasion of Haiti more likely. </P>
+<P> State Department spokesman Mike McCurry said the U.S. message to those behind this and other assassinations was: ''Your crimes only increase our outrage and strengthen our resolve to rid Haiti of your abuses.'' </P>
+<P> ``Make no mistake, outrages such as these reinforce the determination of the international community to take all the necessary means to bring about the early restoration of democracy,'' McCurry said, reading from a prepared statement. ''We are actively working with other governments now to this end.'' </P>
+<P> The Catholic priest, Jean-Marie Vincent, was shot dead by suspected paramilitary gunmen Sunday night in the first killing of a church official since the 1991 coup that toppled Aristide. </P>
+<P> The United States has been working for weeks to get troop contributions from Caribbean and Latin American nations to a proposed multinational force to invade Haiti and restore Aristide if the country's military rulers do not resign. </P>
+<P> McCurry told a news briefing it was ``entirely incorrect'' to suggest, as a New York Times report did Monday, that Haiti invasion plans had been put on hold because of the current crisis over Cuban refugees trying to reach the United States. </P>
+</TEXT>
+</DOC>

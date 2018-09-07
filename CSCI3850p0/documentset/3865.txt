@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU009-0210.950120</DOCID>
+<TDTID>TDT009582</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/20/95 17:25</DATE>
+<TITLE> New Jersey governor to answer Clinton's union speech</TITLE>
+<HEADLINE> New Jersey governor to answer Clinton's union speech</HEADLINE>
+<SUBJECT> BC-CLINTON-WHITMAN 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds Whitman quotes)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  New Jersey Gov. Christine Todd Whitman has been asked to deliver the Republican response to President Clinton's State of the Union speech Tuesday, House Speaker Newt Gingrich announced Friday. </P>
+<P> Whitman, believed to be the first woman to be given the role, was selected to show that Republicans are in power not just in Washington but in key positions across the nation following last November's elections, Gingrich said. </P>
+<P> ``We want to send a signal about the kind of team we are,'' he told the Republican National Committee meeting. </P>
+<P> ``We want to send a signal to America about the kind of broad-based party we are. And we want to send a signal where the Democrats are based in Washington and the Demcorats have only Washington bureaucracy and Washington government answers,'' he said. </P>
+<P> In the New Jersey capital of Trenton, Whitman said she was honored by the selection and described it as a symbol of the ''power shift back to the states.'' </P>
+<P> She rejected speculation that it could be a stepping stone to national office. </P>
+<P> ``I have no intentions of being a national candidate,'' she said at a State House news conference. </P>
+<P> Whitman will deliver a live televised speech from the lectern in the State Assembly chamber before an audience of legislators and invited guests. </P>
+<P> Her response will be crafted in Washington by the national party, she said, but the governor will have final say over her own words. She received the invitation Tuesday from Republican National Chairman Haley Barbour. </P>
+</TEXT>
+</DOC>

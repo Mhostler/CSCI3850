@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0402.950304</DOCID>
+<TDTID>TDT010980</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/04/95 11:37</DATE>
+<TITLE> 17,000 German chemical workers stage pay protest</TITLE>
+<HEADLINE> 17,000 German chemical workers stage pay protest</HEADLINE>
+<SUBJECT> BC-GERMANY-CHEMICALS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FRANKFURT, Germany (Reuter) </DATELINE>
+<P>  Some 17,000 workers from Germany's chemicals sector demonstrated in central Frankfurt Saturday to press their demands for a 6 percent wage rise. </P>
+<P> ``The firms are in a position to pay without suffering,'' Hermann Rappe, head of the IG Chemie trade union, told a rally. </P>
+<P> IG Chemie, Germany's second most powerful industrial union, narrowly failed to clinch a pay deal in marathon 14-hour talks with employers nearly two weeks ago. </P>
+<P> The next round of pay talks has been set for March 8. </P>
+<P> Insiders say both the union and employers are waiting for the outcome of a strike in the key engineering sector, now in its ninth day, before committing themselves to a deal. </P>
+<P> Bavarian engineering industry employers said Saturday they would make a firm pay offer to the IG Metall engineering union when wage talks in that sector resume Monday. </P>
+<P> Talks there collapsed nine days ago after 2 3/8 months when employers refused to make a firm pay offer in response to IG Metall's 6 percent wage claim and insisted the union discuss cost-cutting measures. </P>
+<P> Strikes will continue in Bavaria despite the talks. </P>
+</TEXT>
+</DOC>

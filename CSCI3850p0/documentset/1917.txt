@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0270.941010</DOCID>
+<TDTID>TDT004797</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/10/94 19:43</DATE>
+<TITLE> U.S. official says reports of more Iraqi troops</TITLE>
+<HEADLINE> U.S. official says reports of more Iraqi troops</HEADLINE>
+<SUBJECT> BC-IRAQ-USA-TROOPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Iraq has not moved troops away from its border with Kuwait and there are ``some reports'' that it has moved more troops into the border area, a senior U.S. official said Monday. </P>
+<P> The official, who spoke on condition of anonymity, said the United States had seen no movement of Iraqi troops away from the border area despite Baghdad's announcement it would pull the forces back. ``In fact, it's the opposite. More have been moving in,'' he said, adding, ``we have some reports of more moving in.'' </P>
+</TEXT>
+</DOC>

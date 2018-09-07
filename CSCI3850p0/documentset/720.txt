@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU006-0040.940811</DOCID>
+<TDTID>TDT001763</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/11/94 19:03</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-ARGENTINA-IRAN-COURT -2 BUENOS AIRES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The judge probing the July 18 attack, which killed nearly 100 people at the offices of Argentina's main Jewish organizations, put out international arrest warrants this week for four Iranian officials and named two diplomats in Iran's Buenos Aires embassy as suspects. </P>
+<P> Under Argentina's constitution, only the Supreme Court can handle cases involving foreign diplomats. </P>
+<P> The Supreme Court also issued a statement admitting it had made little headway in its investigation of a car-bomb blast that razed Israel's embassy in Argentina in March, 1992. </P>
+<P> ``It has not been possible so far to reach a concrete result to lead the investigation toward the culprits,'' it said. </P>
+</TEXT>
+</DOC>

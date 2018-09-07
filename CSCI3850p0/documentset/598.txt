@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0306.940804</DOCID>
+<TDTID>TDT001466</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/04/94 08:35</DATE>
+<TITLE> MOSCOW TAX POLICE ACT AGAINST HEAD OF MMM FUND</TITLE>
+<HEADLINE> MOSCOW TAX POLICE ACT AGAINST HEAD OF MMM FUND</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-FUND </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Tax police armed with a search warrant tried Thursday to get into the apartment of the head of Russia's troubled MMM investment fund, Sergei Mavrodi, but he refused to let them in. </P>
+<P> The search warrant, read to reporters by a senior tax police official, Vasily Petukhov, said Mavrodi had failed to pay about $12 million in taxes. </P>
+<P> It was the first legal action by authorities against the fund, which slashed the price of its shares last week after a crisis of confidence had triggered a run on the securities. </P>
+<P> MMM's move left millions holding virtually worthless paper and prompted a fierce debate about whether Russia was doing enough to regulate wild financial markets. </P>
+<P> Mavrodi ignored an invitation to meet Finance Ministry and tax officials Wednesday to discuss the issue. He denies that his fund, likened by authorities to a pyramid scheme, has done anything wrong. </P>
+</TEXT>
+</DOC>

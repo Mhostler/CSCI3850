@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0190.950501</DOCID>
+<TDTID>TDT013323</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 15:16</DATE>
+<TITLE> Sweden, Denmark, Britain have more working women</TITLE>
+<HEADLINE> Sweden, Denmark, Britain have more working women</HEADLINE>
+<SUBJECT> BC-BRITAIN-WOMEN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Sweden, Denmark and Britain lead the European Union in the number of working women, according to figures released by the British government Monday. </P>
+<P> Sixty-four percent of the female population in Britain work. That figure is surpassed only by Sweden with 76 percent and Denmark with 74 percent, but statistics for those countries include women on maternity leave, employment minister Ann Widdecombe said in a House of Commons written reply. </P>
+<P> ``They (the figures) are concrete proof that the U.K.'s flexible labor market offers working women a better deal than almost any other European country,'' she said in defense of the government's employment policies. </P>
+<P> ``Women now have wider aspirations and higher ambitions than ever before. They will continue to play a much fuller role in employment and in all areas of national life.'' </P>
+<P> Spain with 33 percent, Ireland and Greece with 38 percent and Italy at 39 percent had the lowest proportion of working women. </P>
+</TEXT>
+</DOC>

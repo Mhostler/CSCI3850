@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0076.941214</DOCID>
+<TDTID>TDT007961</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 19:57</DATE>
+<TITLE> White House rejects moritorium on regulation</TITLE>
+<HEADLINE> White House rejects moritorium on regulation</HEADLINE>
+<SUBJECT> BC-CLINTON-GINGRICH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House Wednesday bluntly rejected House Speaker-to-be Newt Gingrich's call for a moritorium on government regulation, terming his proposal ``a blunderbuss'' that could harm food, health and labor standards.  In a letter to the Georgia Republican, Sally Katzen of the White House Office of Management and Budget said his call for a regulatory moritorium of three months to one year ``would stop rules from being issued regardless of their merit.'' </P>
+<P> Katzen said this could keep the government from dealing with tainted meat in the food supply, from helping Gulf War veterans with undiagnosed illnesses, and from enforcing child labor laws. </P>
+<P> ``A moritorium is a blunderbuss that could work in unintended ways. When President Bush tried such an approach in his administration, it did not achieve its stated objective of reducing the number of federal regulations,'' she wrote. </P>
+<P> The White House response to Gingrich's initiative amounted to the opening skirmish of what promises to be a long and bitter war between the Democratic Clinton administration and the new Republican majority in Congress. </P>
+<P> While giving the opposition leader's proposal the back of the hand, Katzen's letter included an olive branch of sorts. </P>
+<P> ``While we share the view that burdensome regulations need to be cut back, we disagree that a blanket moritorium is the best way to proceed. We believe we can work together on this issue to achieve a thoughtful solution,'' she said. </P>
+</TEXT>
+</DOC>

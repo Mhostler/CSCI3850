@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0444.940818</DOCID>
+<TDTID>TDT002099</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/18/94 07:43</DATE>
+<TITLE> EURATOM SAYS SMUGGLED PLUTONIUM CAME FROM RUSSIA</TITLE>
+<HEADLINE> EURATOM SAYS SMUGGLED PLUTONIUM CAME FROM RUSSIA</HEADLINE>
+<SUBJECT> BC-NUCLEAR-EURATOM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRUSSELS, Belgium (Reuter) </DATELINE>
+<P>  Smuggled plutonium seized in Germany over the past four months definitely originated in Russia, a spokesman for the agency which has been testing the samples said Thursday. </P>
+<P> ``There are only three or four places in the former Soviet Union which could have been the place of production,'' Wilhelm Gmelin, director of Euratom security control, told reporters. </P>
+<P> He named Chelyabinsk, Yekaterinburg and Arzamas, all of which are in the Russian Federation. </P>
+<P> But he said this did not imply the weapons-grade plutonium-239 and enriched uranium had arrived in Germany directly from these plants. </P>
+<P> Euratom, the European Union's atomic energy agency, has been testing all the seized samples at its laboratory in Karlsruhe, Germany, Gmelin said. </P>
+<P> He said the most recent seizure had arrived at the laboratory last Friday and that testing was not yet complete. </P>
+<P> Moscow has denied the caches seized originated in Russia and says forces in the West are generating fears of insecurity at Russian nuclear sites for political ends. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0322.950413</DOCID>
+<TDTID>TDT012524</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/13/95 15:40</DATE>
+<TITLE> Polio survives 40 years after first vaccine</TITLE>
+<HEADLINE> Polio survives 40 years after first vaccine</HEADLINE>
+<SUBJECT> BC-HEALTH-POLIO (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Release at 5 p.m. EDT)</NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  Forty years after Dr. Jonas Salk developed a polio vaccine, the crippling disease remains a serious problem in Asia and Africa, health officials said Thursday. </P>
+<P> The World Health Organization said there were 6,241 cases of poliomyelitis reported worldwide last year. </P>
+<P> Seventy-three percent of those cases occurred in India, Pakistan and Bangladesh. India reported 3,867 polio cases last year, accounting for 62 percent of the world's total. </P>
+<P> Cases of polio have fallen 84 percent since 1985, the WHO said. Only 51 countries are reporting the viral disease, which causes paralysis by killing nerve cells in the spinal cord or brain stem. </P>
+<P> The WHO estimates 80 to 81 percent of people worldwide have been vaccinated against polio. The figure was 47 percent in 1985. Dr. Salk began inoculating children against polio in 1954. </P>
+<P> In countries where the disease has been eradicated, the U.S. Centers for Disease Control and Prevention said continued surveillance is necessary to detect cases that might be brought in from other regions of the world. </P>
+<P> The WHO hopes to completely eliminate polio worldwide by the year 2000. </P>
+</TEXT>
+</DOC>

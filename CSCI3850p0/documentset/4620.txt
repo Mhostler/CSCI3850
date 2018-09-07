@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU014-0059.950228</DOCID>
+<TDTID>TDT010839</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/28/95 10:16</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BUDGET-CLINTON -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Clinton restated his opposition to the amendment but in recognition of its popularity said, ``I support the impulses that are giving rise to it.'' </P>
+<P> But he said compliance with the amendment runs the risk of ''turning recessions into near depressions'' and that America's persistent problem of deficit spending can be fixed without an amendment. </P>
+<P> ``What happens when we have a recession? Are we going to be raising taxes to pay for job-training programs?... I'm just afraid the American people have not been told the full implications of this for social security, for education and the economy,'' he told reporters. </P>
+</TEXT>
+</DOC>

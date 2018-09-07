@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0124.950320</DOCID>
+<TDTID>TDT011467</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/20/95 09:55</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-USA-RUSSIA-ANNOUNCEMENT -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> British newspapers reported Monday that Clinton told Major he would attend Victory in Europe Day ceremonies in Moscow May 9 as part of a summit with Russian President Boris Yeltsin. </P>
+<P> ``I will confirm to you that they (Clinton and Major) did in fact talk about their respective schedules as they look ahead to commemorating Victory in Europe Day. However, I decline to provide any confirmation that we've got an announcement on a summit, saying only that an announcement will come at an appropriate time,'' White House spokesman Mike McCurry said. </P>
+<P> A White House official said final diplomatic consultations between the United States and its allies were the only thing standing in the way of a summit announcement. </P>
+<P> They said these consultations were likely to be concluded in time for an announcement Monday, and that Clinton was expected to make an appearnce in the White House briefing room just after midday. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU002-0326.950503</DOCID>
+<TDTID>TDT013386</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 12:19</DATE>
+<TITLE> Bonn journalist sentenced as East German spy</TITLE>
+<HEADLINE> Bonn journalist sentenced as East German spy</HEADLINE>
+<SUBJECT> BC-GERMANY-SPY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DUESSELDORF, Germany (Reuter) </DATELINE>
+<P>  A Bonn-based journalist who earned hundreds of thousands of dollars providing information to former East Germany about West German politics was sentenced to 2 3/8 years in jail Wednesday. </P>
+<P> The Duesseldorf regional court ruled that Lutz Kuche, who used the cover name David Bakker, had spied for East Germany for 24 years. </P>
+<P> He earned at least $647,000 between 1970 and 1989 by selling information about German conservatives. </P>
+</TEXT>
+</DOC>

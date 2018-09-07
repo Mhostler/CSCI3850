@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU012-0374.940726</DOCID>
+<TDTID>TDT001050</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/26/94 11:00</DATE>
+<TITLE> ENDARA SAYS BOMB CAUSED PANAMA CRASH - NEWSPAPER</TITLE>
+<HEADLINE> ENDARA SAYS BOMB CAUSED PANAMA CRASH - NEWSPAPER</HEADLINE>
+<SUBJECT> BC-PANAMA-CRASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PANAMA CITY (Reuter) </DATELINE>
+<P>  U.S. and Panamanian investigators have concluded that a bomb caused a plane crash last week that killed 21 people, most of them Jewish, Panama President Guillermo Endara was quoted as saying Tuesday. </P>
+<P> The Panama-America newspaper quoted Endara as saying investigators had ``definitively'' concluded a bomb caused the commmuter plane to explode in mid-air shortly after takeoff from the Atlantic port city of Colon, killing all 21 on board. </P>
+<P> Endara said suspicion is focused on an unidentified victim of last week's crash who officials believe is from Lebanon. Officials in the president's office were not immediately available for comment on the report. </P>
+<P> Panamanian investigators said in a statement late Monday that the explosion that brought down the plane originated beneath one of the plane's seats. The statement said the investigation would continue. </P>
+<P> Jewish leaders in Panama have said they believe Islamic ''terrorists'' are responsible for the crash, which killed several prominent local Jewish businessmen. </P>
+<P> An Islamic group in Lebanon called Followers of God has claimed responsibility for both the plane crash and the bombing of a Jewish community center in Argentina. The death toll from the bombing in Argentina could reach 100, Jewish leaders there have said. </P>
+<P> Panama's President-elect Ernesto Perez Balladares has said he ``doubted very much that (the bombing) would be motivated by (racial hatred), although we do not rule it out.'' </P>
+<P> Most of the plane's passengers were businessmen from the Colon Free Zone, a duty-free center that attracts foreign businessmen and, some say, illicit business with Colombia's cocaine cartels. </P>
+<P> Officials from the U.S. National Transportation Safety Board and the FBI are helping in the investigation of the crash. </P>
+</TEXT>
+</DOC>

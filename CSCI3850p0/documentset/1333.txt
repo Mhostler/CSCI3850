@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU006-0213.940913</DOCID>
+<TDTID>TDT003284</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/13/94 08:01</DATE>
+<TITLE> Actor Depp arrested at New York hotel</TITLE>
+<HEADLINE> Actor Depp arrested at New York hotel</HEADLINE>
+<SUBJECT> BC-USA-DEPP </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK, (Reuter) </DATELINE>
+<P>  Police arrested actor Johnny Depp, star of the movie ``Benny and Joon,'' Tuesday at a New York hotel after the actor destroyed his room. </P>
+<P> Depp, 31, was staying at the Mark Hotel in New York City's fashionable Upper East Side neighborhood, ``was possibly intoxicated'' when he overturned tables, smashed lamps and caused $2,000 worth of damage shortly before dawn, according to police department spokeswoman Sergeant Edelle James. </P>
+<P> Depp, whose film credits also include ``Nightmare on Elm Street,'' ``Edward Scissorhands, and ``Platoon,'' remained in police custody on charges of criminal mischief. </P>
+</TEXT>
+</DOC>

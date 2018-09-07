@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU011-0093.941123</DOCID>
+<TDTID>TDT006930</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/23/94 12:56</DATE>
+<TITLE> Vatican sets strict ethics code for health workers</TITLE>
+<HEADLINE> Vatican sets strict ethics code for health workers</HEADLINE>
+<SUBJECT> BC-POPE-HEALTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VATICAN CITY (Reuter) </DATELINE>
+<P>  The Vatican Wednesday said that the world's Roman Catholic health workers should abide by a strict code of ethics; anyone who helped carry out abortions risked excommunication. </P>
+<P> In a 200-page handbook entitled ``Charter for Health Workers,'' the Vatican repeated its view that euthanasia is ``a homicidal act'' and that certain forms of genetic engineering are ``morally illicit.'' </P>
+<P> The handbook, drawn up by the Vatican commission that looks after Catholic health care workers, reiterates Church teaching on artificial birth control and artificial insemination. </P>
+<P> The guide, which urges health workers not to treat their patients as objects, calls abortion an ``abominable crime'' and says all those asked to help carry out abortions ``are obliged to refuse as conscientious objectors.'' </P>
+<P> The Catechism of the Catholic Church, the major compendium of the faith which was released last year, says those who have had an abortion or helped carry them out may be subject to excommunication. </P>
+<P> The Vatican condemns artificial birth control, approves only limited forms of artificial insemination. It permits genetic engineering only for therapeutic ends. </P>
+</TEXT>
+</DOC>

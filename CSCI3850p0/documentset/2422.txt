@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0451.941104</DOCID>
+<TDTID>TDT006088</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/04/94 21:03</DATE>
+<TITLE> Parents of murdered British toddler to divorce</TITLE>
+<HEADLINE> Parents of murdered British toddler to divorce</HEADLINE>
+<SUBJECT> BC-BRITAIN-BULGER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  The parents of toddler James Bulger, who was murdered by two 10-year-old boys in 1993, have separated and are considering divorce, The Times of London newspaper reported Saturday. </P>
+<P> Family members were quoted as saying the strain of the last two years had forced Denise Bulger, 26, and her husband Ralph, 27, to part. </P>
+<P> ``They tried to stay together, but the unbelievable pressures on them led to the breakdown,'' a family friend told The Times. </P>
+<P> In a case that horrified the nation, James, 2, disappeared in a shopping mall in northern England. He was found dead 48 hours later on a railway embankment. His killers were sentenced to a minimum of 15 years in custody. </P>
+<P> The couple's second son, Michael, was born last December. </P>
+</TEXT>
+</DOC>

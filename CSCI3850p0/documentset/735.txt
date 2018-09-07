@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0239.940812</DOCID>
+<TDTID>TDT001801</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/12/94 14:40</DATE>
+<TITLE> THOUSANDS FLEE CORSICA FIRES, ARSON SUSPECTS HELD</TITLE>
+<HEADLINE> THOUSANDS FLEE CORSICA FIRES, ARSON SUSPECTS HELD</HEADLINE>
+<SUBJECT> BC-FRANCE-CORSICA-FIRES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AJACCIO, Corsica (Reuter) </DATELINE>
+<P>  Thousands of tourists and residents fled as forest fires blazed through southern Corsica Friday, and authorities questioned three arson suspects. </P>
+<P> Fanned by 50-mph winds, the fires threaten towns and villages and have already killed a woman and injured a soldier. </P>
+<P> A thousand firefighters, backed by a dozen planes and helicopters dumping tankloads of water, struggled to control flames which have destroyed more than 12,500 acres of forest and brush this week. </P>
+<P> Three people suspected of setting the fires were detained for questioning. </P>
+<P> Five thousand tourists and residents who fled in the path of flames gathered at a sport stadium in Porto Vecchio before being dispatched to schools and gymnasiums for the night. </P>
+<P> Two hundred-sixty soldiers and emergency workers arrived on the Mediterranean island in the afternoon with bulldozers, and authorities asked the Interior Ministry for more reinforcements. </P>
+</TEXT>
+</DOC>

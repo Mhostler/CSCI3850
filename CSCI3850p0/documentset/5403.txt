@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU001-0369.950403</DOCID>
+<TDTID>TDT012044</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/03/95 00:50</DATE>
+<TITLE> Grenade kills one in Guatemala City</TITLE>
+<HEADLINE> Grenade kills one in Guatemala City</HEADLINE>
+<SUBJECT> BC-GUATEMALA-UN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GUATEMALA CITY (Reuter) </DATELINE>
+<P>  One person was killed and another seriously injured after an unidentified attacker threw a grenade at a house less than two blocks from where U.N. Secretary-General Boutros Boutros-Ghali was meeting President Ramiro de Leon Carpio late on Sunday, police said. </P>
+<P> The remains of a body believed to be that of a Guatemalan man were splattered over the outside of the house, one and 3/8 blocks from the Presidential palace in the Guatemalan capital where de Leon was giving a dinner in honour of Boutros-Ghali, police spokesman Gonzalo Figueroa said. </P>
+<P> A young woman walking near the house was also seriously injured. </P>
+<P> Figueroa said police were investigating the crime and did not discount a ``terrorist attack''. </P>
+<P> Boutros-Ghali arrived in Guatemala on Sunday on a one-day trip to visit a U.N. human rights mission which is monitoring Guatemala's human rights situation. </P>
+<P> It was not clear if the house was occupied, or if so, by whom. It had not yet been determined whether the dead man was the attacker or merely happened to be in the area. </P>
+<P> No other details were available on the attack or how it was carried out. </P>
+</TEXT>
+</DOC>

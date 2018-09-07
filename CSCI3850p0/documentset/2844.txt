@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0226.941127</DOCID>
+<TDTID>TDT007068</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/27/94 04:50</DATE>
+<TITLE> Israelis wounded in West Bank ambush -- settlers</TITLE>
+<HEADLINE> Israelis wounded in West Bank ambush -- settlers</HEADLINE>
+<SUBJECT> BC-MIDEAST-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Two Israelis were wounded, one critically, when their car was ambushed Sunday near a Jewish settlement in the occupied West Bank, security sources said. </P>
+<P> They said unidentified gunmen fired at an Israeli car headed for Utniel settlement in the Hebron area, wounding the two. The car, hit several times, overturned, they said. </P>
+</TEXT>
+</DOC>

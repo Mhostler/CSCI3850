@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU006-0415.941114</DOCID>
+<TDTID>TDT006468</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/14/94 05:07</DATE>
+<TITLE> U.S. and N.Korea begin talks on nuclear storage</TITLE>
+<HEADLINE> U.S. and N.Korea begin talks on nuclear storage</HEADLINE>
+<SUBJECT> BC-KOREA-TALKS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Nuclear experts from the United States and North Korea opened talks in Pyongyang Monday on the safe storage of spent nuclear fuel. </P>
+<P> ``Negotiations between DPRK (North Korea) and U.S. experts on the safe storage of spent fuel opened here today,'' said the official Korean Central News Agency (KCNA), monitored in Tokyo. </P>
+<P> KCNA gave no details. </P>
+<P> The agency said Saturday that the two sides would begin negotiations Saturday and meet until Nov. 19. </P>
+<P> A team of U.S. nuclear officials arrived in North Korea's capital Saturday. </P>
+<P> The dialog was taking place under the terms of the Oct. 21 U.S.-North Korean agreement aimed at defusing a dispute over Pyongyang's suspected nuclear weapons ambitions. </P>
+<P> The specific focus of the negotiations in Pyongyang is to ensure the safe storage of 8,000 spent nuclear fuel rods removed last summer from an experimental graphite reactor. </P>
+<P> The bilateral pact specified: ``The DPRK and the U.S. will cooperate in finding a method to store safely the spent fuel from the five megawatts (e) experimental reactor during the construction of the LWR project, and to dispose of the fuel in a safe manner that does not involve reprocessing in the DPRK.'' </P>
+<P> The agreement added that North Korean and U.S. experts would meet to discuss, ``as soon as possible... specific arrangements for spent fuel storage and ultimate disposition.'' </P>
+<P> Washington, Tokyo and Seoul feared that the fuel could have been processed into weapons-grade plutonium. </P>
+<P> The rods have since been stored temporarily in a holding pond. </P>
+<P> Under the so-called ``framework agreement'' the United States is to form a consortium including South Korea and Japan to provide the North with light-water nuclear technology at a cost of around $4 billion to replace its current graphite reactor system by the year 2003. </P>
+<P> Light-water reactors (LWRs) produce little of the plutonium that is a key ingredient of nuclear weaponry and is generated in large quantities from graphite-reactor operations. </P>
+</TEXT>
+</DOC>

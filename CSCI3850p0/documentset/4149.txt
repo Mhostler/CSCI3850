@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0031.950205</DOCID>
+<TDTID>TDT010108</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/05/95 15:22</DATE>
+<TITLE> Clinton sends more border guards to Arizona</TITLE>
+<HEADLINE> Clinton sends more border guards to Arizona</HEADLINE>
+<SUBJECT> BC-CLINTON-BORDER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Sunday ordered 62 more border guards sent to Nogales, Ariz., to handle a surge in illegal border crossings from Mexico in the wake of the recent peso crisis, the White House said. </P>
+<P> ``President Clinton today directed the Immigration and Naturalization Service to immediately send 62 border patrol agents to Nogales, Ariz., to combat an unprecedented rise in illegal border crossings there,'' a White House statement said. </P>
+<P> ``The administration anticipated increases in illegal entries in Arizona this year as a result of its successful crackdown in California and Texas, and is already training 100 new patrol agents to reinforce the Nogales border,'' the White House statement said. </P>
+<P> ``But illegal crossings incrased so dramatically in January in the wake of the peso devaluation that more agents are needed now,'' it said, without giving details. The new agents will begin to report for work Tuesday, increasing the border force by 17 percent, the White House said. </P>
+<P> The statement added that the White House anticipated the pressure on the Mexican border would subside now that Clinton has taken action to stabilize the peso. Clinton last week offered Mexico $20 billion in U.S. loans and loan guarantees as part of an international aid plan. </P>
+<P> The White House said the 62 agents being sent to Arizona were being reassinged from border patrol operations on the Canadian border and from interior stations in Arizona and other parts of the United States. </P>
+</TEXT>
+</DOC>

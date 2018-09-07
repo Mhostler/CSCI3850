@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0221.941206</DOCID>
+<TDTID>TDT007538</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 23:05</DATE>
+<TITLE> Survey - Americans think Pearl Harbor can recur</TITLE>
+<HEADLINE> Survey - Americans think Pearl Harbor can recur</HEADLINE>
+<SUBJECT> BC-ATTACK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Fifty-three years after the Japanese bombing of Pearl Harbor, 40 percent of Americans believe the United States is still vulnerable to sneak attacks, a survey reported Tuesday. </P>
+<P> America's Talking/Gallup Poll in Fort Lee, N.J., said it found another 50 percent believed the country would not be vulnerable to a similar raid and four percent did not know. </P>
+<P> The poll, based on a random sampling of 1,020 persons 18 years and older was said to have an error factor of plus or minus three percent. </P>
+<P> It found that belief in U.S. vulnerability was strongest among older Americans, fifty percent among those aged 50 and older, while among those 18 to 29 only 32 percent felt the country was open to attack. </P>
+<P> Among women, 44 percent saw a threat of surprise aggression compared with 35 percent of the men questioned. </P>
+<P> The survey, done on Nov. 28 and 29, was conducted for a two-hour news analysis program A-T In Depth, which will examine the debate over U.S. military spending on Dec. 7, the anniversary of the Pearl Harbor attack. </P>
+</TEXT>
+</DOC>

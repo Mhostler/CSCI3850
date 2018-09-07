@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU018-0320.950430</DOCID>
+<TDTID>TDT013267</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/30/95 03:56</DATE>
+<TITLE> Filipino protesters barricade former U.S. airbase</TITLE>
+<HEADLINE> Filipino protesters barricade former U.S. airbase</HEADLINE>
+<SUBJECT> BC-PHILIPPINES-CLARK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANGELES, Philippines, April 30 (Reuter) </DATELINE>
+<P>  Thousands of protesters barricaded the main gate of the former U.S. Clark airbase in the Philippines on Sunday to demand closure of duty-free shops at the site. </P>
+<P> More than 5,000 demonstrators said the existence of eight duty-free stores inside Clark in Pampanga province and of seven similar shops at Subic Bay was killing local businesses. </P>
+<P> ``The operation of the duty-free stores is a scourge to the local economy,'' rally leader Ruperto Cruz said during a five-hour demonstration at the main gate of Clark, 80 kms (50 miles) north of Manila. </P>
+<P> The protesters demanded the acceleration of plans to convert Clark into an international aviation complex. </P>
+<P> Studies conducted by the group that organised the protest said the duty-free shops had forced the closure of 500 stores in three towns around Clark. Supermarkets and grocery stores reported sales losses of up to 20 percent, rally organisers said. </P>
+<P> U.S. military forces pulled out of Clark in 1991 after an eruption by Mount Pinatubo volcano covered it with ash. The Americans quit Subic the following year after the Philippine Senate rejected a new bases agreement with Washington. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU006-0146.941213</DOCID>
+<TDTID>TDT007849</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/13/94 10:59</DATE>
+<TITLE> French police detain doomsday cult suspects</TITLE>
+<HEADLINE> French police detain doomsday cult suspects</HEADLINE>
+<SUBJECT> BC-FRANCE-CULT 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Updates with raids in Brittany)</NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Police in southern and western France detained 17 people at dawn Tuesday suspected of being disciples of a doomsday cult which claimed 53 lives in Switzerland and Canada in October. </P>
+<P> Fifteen alleged members of the Order of the Solar Temple were taken in for questioning at various locations near Carpentras in the southern region of Vaucluse, said the office of the prefect -- the central government's representative in the area. </P>
+<P> Police in Rennes, the capital of the western region of Brittany, said they had detained another two suspected members, including a pharmacist from Brest who was close to the sect's late Belgian guru Luc Jouret. </P>
+<P> France-Info radio said those held in the Vaucluse included Christian-Marie Le Gall, a homeopathic doctor who shared an office with Jouret, who was also a homeopathic doctor. </P>
+<P> French police were acting on an international warrant issued by a Swiss judge investigating the deaths and reported to be targeting the sect's finances. </P>
+<P> Fifty-three followers of the cult, including Jouret, were found dead in chalets in two Swiss villages and in a house near Montreal in Canada in early October. Swiss investigators suspect some committed suicide but that others were murdered. </P>
+<P> Among the victims discovered in Switzerland were a couple and their 13-year-old child from the town of Beaumes-de-Venise, north of Carpentras. </P>
+<P> French investigators had previously listed 40 members of the Order in the Vaucluse and police had searched several houses belonging to the cult. </P>
+<P> They said one house had been booby-trapped like some of the Swiss chalets where the bodies were found. </P>
+</TEXT>
+</DOC>

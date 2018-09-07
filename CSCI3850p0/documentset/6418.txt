@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0430.950509</DOCID>
+<TDTID>TDT013621</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/09/95 21:16</DATE>
+<TITLE> McVeigh will plead not guilty, lawyer says</TITLE>
+<HEADLINE> McVeigh will plead not guilty, lawyer says</HEADLINE>
+<SUBJECT> BC-BLAST-MCVEIGH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>EL RENO, Okla.(Reuter) </DATELINE>
+<P>  The newly appointed lawyer for Oklahoma City bombing suspect Timothy McVeigh said Tuesday his client will plead not guilty to the charge. </P>
+<P> Attorney Stephen Jones told CNN interviewer Larry King that ``the defendent will enter a plea of not guilty.'' </P>
+</TEXT>
+</DOC>

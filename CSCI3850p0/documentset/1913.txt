@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU005-0243.941010</DOCID>
+<TDTID>TDT004781</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/10/94 16:53</DATE>
+<TITLE> Nobel prize winner Gilman dabbled in dad's lab as a child</TITLE>
+<HEADLINE> Nobel prize winner Gilman dabbled in dad's lab as a child</HEADLINE>
+<SUBJECT> BC-USA-NOBEL-GILMAN 1STLD </SUBJECT>
+<AUTHOR>     By Tabassum Zakaria </AUTHOR>
+<TEXT>
+<NOTES>(Eds: writethrough with comments from press briefing)</NOTES>
+<DATELINE>DALLAS (Reuter) </DATELINE>
+<P>  It might be said that Alfred Gilman, who shares this year's Nobel Medicine Prize, had medical research in his genes. </P>
+<P> The new Nobel laureate's interest was sparked at the young age of about 10 when his father started to occasionally take him into his laboratory. The senior Alfred Gilman was founding chairman of pharmacology at the Albert Einstein College of Medicine in New York. </P>
+<P> ``The only regret I have today is it would have been a treat for my parents,'' Gilman said at a press briefing. Both his parents are dead. </P>
+<P> Gilman, 53, chairman of the pharmacology department at The University of Texas Southwestern Medical Center, and Martin Rodbell, 68, won the Nobel prize for the discovery of the so-called G-proteins and their role in showing how the human body's cells communicate with each other. </P>
+<P> The G-protein acts similar to a switchboard in a communications system by relaying signals from the cell surface to the interior. </P>
+<P> For example if the hormone adrenaline contacts the outercovering of the cell, which Gilman called ``the receptor,'' the G-protein receives that signal from the outerlayer, integrates and amplifies it and then sends it to the interior to tell the cell how to respond. </P>
+<P> ``This very pathway was being activated as my heart was going about 150 beats a minute,'' Gilman quipped, referring to his response to the news Monday morning that he had won the Nobel prize. </P>
+<P> Each cell has hundreds of receptors and dozens of G-proteins, Gilman said. Some types of cancer are caused by mutated G-proteins. </P>
+<P> Knowledge of the way this cell communication system works can help in developing drugs to treat disease and ailments in a more specific manner, Gilman said. </P>
+<P> ``When we know the whole switchboard, when we know how every piece in that switchboard is wired, every which way each arrow goes, we'll have a much better ability to design and use drugs with greater specificity, less toxicity and more precision,'' he said. </P>
+<P> Gilman said his research that led to the discovery of G-proteins started in the lab of the late Nobel prize winner Earl Sutherland, who recruited Gilman to graduate school at Case Western Reserve University in Cleveland, Ohio. </P>
+<P> Gilman received his medical and doctorate degrees from that university in 1969. </P>
+<P> Gilman said his research continues in this area. ``I've been working with this protein for 20 years, it's the first time I'm seeing it and seeing it in extraordinary detail ... there's a lot more to be learned.'' </P>
+<P> Looking into the future, Gilman said perhaps 50 years from now every molecule in the human body will be known along with the structure of the molecule. </P>
+<P> Drug design then would be reduced to using a computer to study how various chemicals would interact theoretically with all the known proteins, Gilman said. </P>
+<P> ``You'll be able to design a drug that works only on the molecule that you want and no other molecule in the human body, this is the future for rational drug design,'' he said. </P>
+<P> Gilman said he found out about his Nobel prize award at 6:15 a.m. EDT by a telephone call from a member of the Nobel prize committee. ``You wake up fast, you certainly don't expect it,'' he said. </P>
+<P> His wife of 31 years, Kathryn, said signs of Gilman's hardworking nature were evident even when she first met him while he was an undergraduate at Yale University in New Haven, Conn. </P>
+<P> ``There was an indication he was a very hard worker because he loves what he does,'' she said. ``We used to have dates spent in laboratories.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU015-0023.940731</DOCID>
+<TDTID>TDT001282</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/31/94 17:34</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-HAITI-USA-PANETTA -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``I think that it is sufficient to say 'soon.' And they better get that signal: soon,'' Panetta said on CNN's Late Edition. </P>
+<P> He was replying to a question about how long the United States will continue to rely on sanctions rather than military force to restore exiled President Jean-Bertrand Aristide to power in Haiti. </P>
+<P> Panetta was speaking just hours after the U.N. Security Council authorized the use of ``all necessary means'' to oust the miltary rulers, who overthrew Aristide in September 1991. </P>
+</TEXT>
+</DOC>

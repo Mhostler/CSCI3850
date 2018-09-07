@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU004-0012.950207</DOCID>
+<TDTID>TDT010178</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 11:14</DATE>
+<TITLE> French school strikes pose challenge for Balladur</TITLE>
+<HEADLINE> French school strikes pose challenge for Balladur</HEADLINE>
+<SUBJECT> BC-FRANCE 1STLD (PICTURE) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Updates protests, adds union comment)</NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Hundreds of thousands of teachers and students went on strike across France Tuesday, heralding tougher times for Prime Minister Edouard Balladur's so-far tranquil campaign for this spring's presidential election. </P>
+<P> The one-day ``kindergarten to university'' protests were the first major social unrest since the conservative premier, overwhelming favorite in opinion polls, officially announced his candidacy last month for the April 23-May 7 poll. </P>
+<P> The teachers' United Union Federation (FSU) said more than half of the country's one million state school personnel stopped work and the percentage of strikers in Paris reached 70 percent. </P>
+<P> Protesters marched peacefully in many towns. Thousands marched through central Paris, disrupting traffic already hampered by floods cutting off roads along the river Seine. </P>
+<P> FSU said the strike showed the teachers' determination and unity. ``The government must immediately open talks,'' it said. </P>
+<P> Unions called the strike to demand more jobs, pay increases and better working conditions. University students joined in to protest an official report recommending a rise in tuition fees and more autonomy for state universities. </P>
+<P> Unions, weakened by near-record 12.6 percent unemployment, have begun to bare their teeth in the run-up to the election when Balladur will come under pressure to yield to demands. </P>
+</TEXT>
+</DOC>

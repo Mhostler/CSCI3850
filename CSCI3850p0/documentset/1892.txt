@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU005-0042.941009</DOCID>
+<TDTID>TDT004708</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/09/94 13:14</DATE>
+<TITLE> Spanish writer Jorge Semprun wins German prize</TITLE>
+<HEADLINE> Spanish writer Jorge Semprun wins German prize</HEADLINE>
+<SUBJECT> BC-GERMANY-AUTHOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>    FRANKFURT, Germany (Reuter)  of the German Book Trade Sunday.</NOTES>
+<DATELINE></DATELINE>
+<P> Gerhard Kurtze of the Book Trade Association said 70-year-old Semprun had exercised an important influence on the development of European literature. </P>
+<P> ``He did not become a cynic despite his time as a prisoner in Buchenwald and his negative experiences with communism,'' Kurtze told several hundred guests in St Paul's church in Frankfurt which is now used as a hall for festive occasions. </P>
+<P> In his acceptance speech Semprun, culture minister from 1988 to 1991, warned against totalitarianism and told the guests, who included German President Roman Herzog, that the future of democracy in Europe depended largely on Germany. </P>
+<P> Semprun was deported to Buchenwald by the Nazis in 1943 after working for the French resistance and the Spanish communist party. Born in Madrid in 1923, Semprun fought against the Franco regime and headed the communist party's underground operations from 1957 until 1962 under the code name Federico Sanchez. </P>
+<P> He was expelled from the communist party in 1964 after being accused of diverging from party policies. </P>
+<P> Semprun's first book, ``The Long Journey,'' was published in French in 1963 and describes his experiences in Buchenwald. </P>
+<P> His other books include ``What a lovely Sunday,'' ``Federico Sanchez says goodbye,'' a biography of French actor Yves Montand and the script for the film ``Z.'' </P>
+</TEXT>
+</DOC>

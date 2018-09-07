@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU003-0338.950109</DOCID>
+<TDTID>TDT009050</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/09/95 06:20</DATE>
+<TITLE> South Africa confirms nuclear deal with France</TITLE>
+<HEADLINE> South Africa confirms nuclear deal with France</HEADLINE>
+<SUBJECT> BC-NUCLEAR-SAFRICA-FRANCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG, South Africa (Reuter) </DATELINE>
+<P>  South Africa bought uranium for its nuclear program from France in the 1980s in violation of United States laws banning nuclear trade with Pretoria, officials said Monday. </P>
+<P> South African officials confirmed a report in the Sunday Times of Johannesburg that France supplied South Africa uranium worth $250 million in 1981. </P>
+<P> Roland Darroll, spokesman for former foreign minister Pik Botha, who is now mineral and energy affairs minister, said South Africa had bought the uranium from France. </P>
+<P> Darroll said Botha had read the article and confirmed most of the details. </P>
+<P> ``The minister (Botha) played a certain role...and when he read the article he did not explode, comment or say the facts are inaccurate,'' Darroll said. </P>
+<P> French officials said Monday they could not immediately confirm the uranium sale to South Africa. ``I am not in a position to confirm that,'' said Emmanuel Gagniarre, spokesman for the French Embassy in Pretoria. </P>
+<P> The Sunday Times said details of the uranium sale could be made public as a result of changes last year to the Atomic Energy Act that had stripped away all secrecy surrounding nuclear activity. </P>
+<P> Some sanctions imposed against South Africa for its apartheid policies were lifted only after the country's first all-race elections last April. </P>
+<P> The newspaper report said South Africa struck a contract with the United States in 1974 and made a deposit of $5 million for enriched uranium. </P>
+<P> But in 1978, Congress ruled that U.S.-enriched uranium could not be supplied to countries that did not open up for international atomic inspection, including South Africa. </P>
+<P> A Washington-based firm of nuclear brokers was hired to negotiate an end to the deadlock. </P>
+<P> The uranium sale came only 18 months before the completion date for the first reactor at Koeberg, South Africa's nuclear-fuelled power station near Cape Town. At the time its nuclear program looked likely to collapse. </P>
+<P> Koeberg, built by a French consortium, was later completed and is the country's only nuclear power station. </P>
+<P> U.S. officials could not be reached for comment Monday. </P>
+</TEXT>
+</DOC>

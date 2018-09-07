@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU004-0308.950406</DOCID>
+<TDTID>TDT012227</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 20:24</DATE>
+<TITLE> U.N. climate delegates break off late-night talks</TITLE>
+<HEADLINE> U.N. climate delegates break off late-night talks</HEADLINE>
+<SUBJECT> BC-CLIMATE 2NDLD </SUBJECT>
+<AUTHOR>     By J. Terence Gallagher </AUTHOR>
+<TEXT>
+<NOTES>(Releads with talks broken off)</NOTES>
+<DATELINE>BERLIN (Reuter) </DATELINE>
+<P>  Delegates to the U.N. climate conference broke off talks in the early hours of Friday morning without reaching agreement on limiting emissions of gases linked to global warming, participants said. </P>
+<P> Talks were slated to resume in the morning. </P>
+<P> ``We will keep working,'' said German Environment Minister Angela Merkel. </P>
+<P> U.S. Under Secretary of State Timothy Wirth indicated an agreement was near. ``I think it's a done deal,'' he said. </P>
+<P> With only hours left before the final plenary session of the $16 million 11-day conference, ministers from around twenty of the 170 countries present were still trying to clinch an agreement bridging the differences between developing countries, the European Union and the United States. </P>
+<P> Some participants leaving the talks said the final agreement would make a clear call for a reduction in carbon dioxide (CO2), the central bone of contention. </P>
+<P> The final deal is expected to set terms for talks, expected to last until 1997, intended to produce an international agreement on limiting emissions of CO2, the main gas believed to be responsible for climate change. </P>
+<P> While the EU and developing countries argued for firm commitments on CO2 cuts, the United States and other major CO2 producers such as Australia, Canada and Japan firmly resisted such pledges. </P>
+<P> Despite the deadlock on its central question, the conference Thursday cleared a knotty issue that had isolated the United States and the other main CO2 producers. </P>
+<P> Under ``joint implementation,'' rich countries will be able to offset some CO2 reduction commitments by helping poorer nations cut their emissions of ``greenhouse gases.'' </P>
+<P> Industrialised countries agreed in 1992 to cut their CO2 emissions back to 1990 levels by the turn of the century, although almost all seem certain to miss this target. </P>
+<P> ``The countries in the South are on the threshold of development, they want to get onto that bus. The South has paid for the ticket but they won't let us on,'' said Indian Environment Minister Kamal Nath. </P>
+<P> At the 1992 Earth Summit in Rio de Janeiro, developed countries agreed to roll back CO2 output to 1990 levels by the year 2000, but made no commitments beyond that date. </P>
+<P> Most agreed those commitments did not go far enough, but few countries are on schedule to meet them. </P>
+</TEXT>
+</DOC>

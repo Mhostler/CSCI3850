@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0414.940705</DOCID>
+<TDTID>TDT000158</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/05/94 06:13</DATE>
+<TITLE> GERMAN, SWISS FACE DEATH ON MANILA DRUG CHARGES</TITLE>
+<HEADLINE> GERMAN, SWISS FACE DEATH ON MANILA DRUG CHARGES</HEADLINE>
+<SUBJECT> BC-DRUGS-PHILIPPINES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANILA (Reuter) </DATELINE>
+<P>  Prosecutors formally filed drug charges against a German and a Swiss Tuesday, making them the first foreigners to face the death penalty since the Philippines restored capital punishment at the start of the year. </P>
+<P> Immigration agents seized 10 pounds of hashish when they arrested German Helmut Herbst and Swiss national Remo Dalla Corte in Puerto Galera, a resort on Mindoro Island south of Manila, last April. </P>
+<P> The law makes possession of more than 75 grams of hashish or 50 grams of heroin punishable by death. </P>
+<P> Prosecutors say the pair, who have been in custody since their arrest, claim the agents planted the drugs. </P>
+<P> Four Filipinos have so far been sentenced to death since capital punishment was restored for a variety of offenses including murder, rape and grave corruption. </P>
+<P> All their cases are currently being appealed. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU009-0032.941118</DOCID>
+<TDTID>TDT006703</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/18/94 12:14</DATE>
+<TITLE> UN health agency says iodine in salt safe</TITLE>
+<HEADLINE> UN health agency says iodine in salt safe</HEADLINE>
+<SUBJECT> BC-HEALTH-IODINE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GENEVA, Switzerland (Reuter) </DATELINE>
+<P>  Iodine supplements in salt can safely eliminate some types of mental retardation and other disorders caused by iodine deficiency, the World Health Organization (WHO) said Friday. </P>
+<P> An estimated 1.5 billion people worldwide are at risk from iodine deficiency, including about 20 million believed to be severely mentally handicapped, a statement from the United Nations agency said. </P>
+<P> WHO said it was issuing scientific data to reassure people salt iodization, which compensates for any iodine shortage, was safe. </P>
+<P> Low levels of iodine can harm the reproductive system and impede learning. </P>
+<P> Only a small proportion of the world's population -- mainly those with thyroid gland problems -- could suffer from an excess of iodine, WHO experts said. The thyroid gland is located in the neck and controls body growth. </P>
+<P> ``The benefits to be derived from universal salt iodization by more than 1.5 billion people estimated to be at risk or deficient, and the absence of significant adverse effects among others in the same areas who are not iodine-deficient, far outweigh any transient risk of excess intake for a small minority,'' the statement said. </P>
+<P> The Geneva-based agency said a safe daily intake of iodine should be between 50 micrograms and 1,000 micrograms (a microgram is 1/1,000 of a gram). </P>
+<P> On average, iodized table salt contains 31 micrograms per gram, while plain salt contains 0.044 micrograms. </P>
+<P> ``There is little indication that iodine in the amounts noted, even at high levels, influences the development of any thyroid disease,'' WHO said. </P>
+</TEXT>
+</DOC>

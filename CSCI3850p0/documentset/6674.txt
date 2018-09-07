@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0046.950519</DOCID>
+<TDTID>TDT013969</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/19/95 00:44</DATE>
+<TITLE> Israel rejects immediate talks on Jerusalem</TITLE>
+<HEADLINE> Israel rejects immediate talks on Jerusalem</HEADLINE>
+<SUBJECT> BC-MIDEAST-ISRAEL-PERES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM, May 19 (Reuter) </DATELINE>
+<P>  Israel rejected on Friday a Palestinian proposal to begin talks immediately on the future status of Jerusalem. </P>
+<P> ``What must be done now is to carry out what we agreed,'' Foreign Minister Shimon Peres told Israel Radio. Under their peace deal, Israel and the PLO are supposed to negotiate the expansion of Palestinian self-rule before entering into talks on the holy city scheduled to begin a year from now. </P>
+</TEXT>
+</DOC>

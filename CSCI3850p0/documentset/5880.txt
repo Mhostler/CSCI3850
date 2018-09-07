@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0123.950420</DOCID>
+<TDTID>TDT012749</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/20/95 06:46</DATE>
+<TITLE> Tass says Russia orders ceasefire in Chechnya</TITLE>
+<HEADLINE> Tass says Russia orders ceasefire in Chechnya</HEADLINE>
+<SUBJECT> BC-CHECHNYA-TRUCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Itar-Tass news agency said on Thursday the Kremlin had ordered Russian troops to stop fighting in rebel Chechnya and it linked the truce to the arrival of world leaders for the anniversary of the end of World War II. </P>
+<P> The government press center and the defense ministry said they had no information on the Tass report. The press service of President Boris Yeltsin said it could not confirm it. </P>
+<P> Tass said the Kremlin had sent the ceasefire order to the commanders of army units and interior ministry troops fighting in Chechnya. ``Tass learned about (the order),'' the agency added. </P>
+<P> Tass gave no reason for the truce, but noted that foreign leaders had been reluctant to accept invitations to come to Moscow while the fighting in Chechnya continued. </P>
+<P> Russia sent troops to crush Chechnya's independence bid on Dec. 11 and now says its forces control 80 percent of the territory of the breakaway region. </P>
+<P> Chechen fighters have said they will launch a guerrilla war against Russian troops from the mountains to the south of the region. </P>
+</TEXT>
+</DOC>

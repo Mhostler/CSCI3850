@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU018-0127.950428</DOCID>
+<TDTID>TDT013237</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/28/95 23:23</DATE>
+<TITLE> Singapore's Leeson extradition case called strong</TITLE>
+<HEADLINE> Singapore's Leeson extradition case called strong</HEADLINE>
+<SUBJECT> BC-SINGAPORE-EXTRADITION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SINGAPORE, April 29 (Reuter) </DATELINE>
+<P>  A German prosecutor was quoted in a newspaper on Saturday as saying Singapore had presented a ``strong case'' for extraditing futures trader Nick Leeson, the man alleged to have broken Barings bank. </P>
+<P> Hans-Hermann Eckert was quoted by The Straits Times as saying his office had received 1,000 pages of documents from Singapore investigators, including a formal arrest warrant and request for Leeson's extradition for prosecution. </P>
+<P> ``From what I can see, they represent a strong case for Mr Leeson's extradition,'' he said. ``I cannot say if every charge makes a strong case, but I can tell you now that most of the charges do.'' </P>
+<P> Eckert said the documents would have to be translated, a process requiring several weeks. ``Then I will have to study them closely,'' he said. ``All this means it will take some time.'' </P>
+<P> Singapore said on Thursday it had asked Germany to extradite Leeson to be tried on 12 charges of forgery and cheating. </P>
+<P> Under Singapore law, a conviction on a charge of forgery with intent to cheat would carry a maximum penalty of seven years in jail. </P>
+<P> The 28-year-old Leeson, former manager of Baring Futures in Singapore, has been blamed widely for its $1 billion losses in risky Japanse stock futures deals. The Barings group has been bought by Dutch financial services group ING. </P>
+<P> Singapore had to deliver the full arrest warrant for Leeson by May 2, exactly two months after the Briton was detained at Frankfurt airport on arrival from Brunei. </P>
+<P> German authorities have said they expect a lengthy court battle, possibly lasting until late in the year, as Leeson seeks to block extradition. </P>
+</TEXT>
+</DOC>

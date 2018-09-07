@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU002-0416.950404</DOCID>
+<TDTID>TDT012100</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 12:36</DATE>
+<TITLE> New dictionary describes ``real'' English</TITLE>
+<HEADLINE> New dictionary describes ``real'' English</HEADLINE>
+<SUBJECT> BC-BRITAIN-DICTIONARY </SUBJECT>
+<AUTHOR>     By Maggie Fox </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  British publishers said Tuesday they were launching a new dictionary that will explain to people abroad exactly how the English language is spoken. </P>
+<P> The Cobuild English Dictionary is drawn from a computer list of 200 million words and their usages developed by researchers at the Collins Birmingham University's International Language Database, publishers HarperCollins said. </P>
+<P> The list, known as the Bank of English, is meant as a resource for linguists and academics around the world. Researchers have been compiling words, references and examples of ordinary conversation since 1980. </P>
+<P> The dictionary, to be published next Monday, aims at helping non-native speakers through the confusing maze of English, one of the most complex languages because of its mixture of rules, spelling peculiarities and dialects. </P>
+<P> ``Speakers of a language...may not be able to explain what they do, any more than they can explain how they walk without falling over,'' HarperCollins said in a statement. </P>
+<P> ``In designing the present shape of the Bank of English we balanced a number of factors -- spoken and written, U.K., USA and other varieties from predominantly native speaker communities, books and magazines.'' </P>
+<P> Entries are written in explanatory English rather than the terse style used in most dictionaries and help the user by pointing to additional subtleties of meaning which may escape the non-native speaker. </P>
+<P> For example, under ``doddering'' it reads: ``If you refer to someone as a doddering old man or woman, you are saying in a disrespectful way that they are old and not strong.'' It gives ``decrepit'' as a synonym. </P>
+<P> By contrast, the traditional Concise Oxford dictionary defines doddering as ``feeble in body or mind, inept, footling.'' </P>
+<P> The new book also offers help to English-speakers who risk embarrassing themselves in other dialects. </P>
+<P> ``In British English if you knock someone up, you knock on the door of their bedroom or their house in the night or the morning in order to wake them,'' reads one entry under ``knock.'' ``In American English if a woman is knocked up by a man she is made pregnant by him.'' </P>
+<P> New terms, such as video-conferencing and slang such as off-the-wall are included, as well as advice about rude language and ``swear words.'' </P>
+<P> It also makes clear when the traditional usage of a word has changed. For instance, the first definition under ``gay'' reads: ``A gay person is homosexual.'' It advises that using ``gay'' to mean cheerful is old-fashioned. </P>
+</TEXT>
+</DOC>

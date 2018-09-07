@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU002-0013.950502</DOCID>
+<TDTID>TDT013349</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/02/95 14:28</DATE>
+<TITLE> Algeria says its forces kill 22 Muslim militants</TITLE>
+<HEADLINE> Algeria says its forces kill 22 Muslim militants</HEADLINE>
+<SUBJECT> BC-ALGERIA-VIOLENCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TUNIS (Reuter) </DATELINE>
+<P>  Algerian security forces hunted down and killed 22 Muslim rebels in the past three days in nine towns and villages, Algeria's official news agency APS, monitored in Tunis, said Tuesday. </P>
+<P> More than 40,000 people have been killed in Algeria's civil strife pitting Muslim militants against the army-backed authorities who in January 1992 cancelled a general election the Islamists were poised to win. </P>
+</TEXT>
+</DOC>

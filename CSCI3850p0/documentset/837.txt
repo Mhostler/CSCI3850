@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0327.940817</DOCID>
+<TDTID>TDT002054</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/17/94 14:52</DATE>
+<TITLE> HIGH ALTITUDE, PRESSURE CAUSE BREAST IMPLANT NOISES</TITLE>
+<HEADLINE> HIGH ALTITUDE, PRESSURE CAUSE BREAST IMPLANT NOISES</HEADLINE>
+<SUBJECT> BC-HEALTH-IMPLANTS (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> Release at 6 p.m. EDT</NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  A woman with saline implants in her breasts complained of strange sounds emitted at high altitudes, according to a report to be published Thursday in the New England Journal of Medicine. </P>
+<P> Dr James Bachman in Frisco, Colorado, altitude 9,300 feet ,reported in the latest issue of the respected medical journal that the woman came into a local emergency room and complained that her breasts were making a ``swishing sound''. </P>
+<P> The woman, who had recently arrived in Frisco, said she had noticed the same sound the last time she traveled to an elevated area. She reported that the sound later disappeared when she returned to lower altitudes. </P>
+<P> An X-ray showed air in her implants. </P>
+<P> ``Trapped air in breast implants expands at high altitude,'' said Bachman, explaining that the air in breast implants is no exception to Boyle's law, which says a container of air will expand when the outside pressure is lowered. </P>
+<P> ``Those of us who live at high altitude know this phenomenon well,'' he said. ``When we return home from lower altitudes, our toothpaste tubes and potato chip bags expand. So do breast implants.'' </P>
+<P> The same phenomenon has been reported in women who travel in airplanes, where the cabin pressure is often lower than sea level. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0313.950227</DOCID>
+<TDTID>TDT010813</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/27/95 16:30</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-SOMALIA-OPERATION -2 MOGADISHU </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> A team of Bangladeshi soldiers among the 1,500-strong rearguard of U.N. troops to be evacuated in the coming days was on the dockside of the deserted but floodlit port as the first landing craft full of Americans arrived. </P>
+<P> Soldiers inside the landing craft shouted up to their comrades on land as they bobbed about in choppy seas, unable at first to tie up along the dockside. </P>
+<P> U.S. military officers said that 800 Marines were arriving in separate landings at the seaport and a beach adjacent to the airfield in the first wave of landings. </P>
+<P> A total of 1,800 U.S. Marines and 400 Italians were set to land by dawn Tuesday. </P>
+</TEXT>
+</DOC>

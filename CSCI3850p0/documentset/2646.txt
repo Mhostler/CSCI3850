@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0074.941116</DOCID>
+<TDTID>TDT006598</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/16/94 13:25</DATE>
+<TITLE> U.S. vice president says GATT must not be delayed</TITLE>
+<HEADLINE> U.S. vice president says GATT must not be delayed</HEADLINE>
+<SUBJECT> BC-TRADE-GATT-GORE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Vice President Al Gore said on Wednesday the upcoming congressional vote on a new world trade accord ``is a critical vote for U.S. leadership in the world'' and must not be delayed. </P>
+<P> ``Two weeks from now we reach a pivotal point,'' Gore said at a news conference boosting the new GATT trade pact. ``The Congress will decide whether the United States will continue to lead the world on global economic issues, or not. That's really what it comes down to.'' </P>
+</TEXT>
+</DOC>

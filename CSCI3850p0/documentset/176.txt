@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU006-0110.940711</DOCID>
+<TDTID>TDT000408</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/11/94 18:35</DATE>
+<TITLE> VENEZUELA SETS $588 MILLION IN SUBSIDIES</TITLE>
+<HEADLINE> VENEZUELA SETS $588 MILLION IN SUBSIDIES</HEADLINE>
+<SUBJECT> BC-VENEZUELA-POOR (PICTURE) </SUBJECT>
+<AUTHOR>     By Andrew Cawthorne </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CARACAS (Reuter) </DATELINE>
+<P>  The Venezuelan government, eager to avert social unrest in the face of economic crisis, Monday announced a $588 million package of subsidies to the poor. </P>
+<P> The funds, to come from a new tax on bank transactions, will fund a multitude of education, health and job-creation schemes intended to benefit hundreds of thousands of Venezuelans living in or near poverty. </P>
+<P> ``The government feels deeply committed to the thesis that the prime object of all action is the human being and that social justice, distributive justice, is inseparable from the efforts that we make to reactivate the economy and enrich the country,'' President Rafael Caldera said in a speech. </P>
+<P> Some 40 percent of Venezuelans live in poverty, according to official data. </P>
+<P> Caldera came to power in February promising to bolster the economy without resorting to the tough ``adjustment'' policies that brought violent riots and two bloody coup attempts against his predecessor Carlos Andres Perez. </P>
+<P> But his government has failed to halt the economic crisis fueled by falling oil revenues, the partial collapse of the banking sector, soaring inflation and a dramatic depreciation of the local bolivar currency. </P>
+<P> With sporadic riots raising the specter of more widespread unrest and inflation heading for at least 70 percent this year, Caldera announced price controls on 100 basic goods and services two weeks ago. </P>
+<P> ``We never thought the financial crisis could be so deep,'' Caldera said in his address, adding that he hoped his recent measures would stabilize the economy soon. </P>
+<P> The social measures planned include creating 400 low-cost food distribution centers, mostly in the poor shantytowns ringing Caracas, an increase in pensions and repairs to 1,720 schools. </P>
+<P> Another reform measure, currency controls, was due to take effect Monday, but banks and exchange houses said they were not yet ready to begin operating the new system. </P>
+</TEXT>
+</DOC>

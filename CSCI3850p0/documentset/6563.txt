@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0111.950515</DOCID>
+<TDTID>TDT013825</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/15/95 10:14</DATE>
+<TITLE> White House sees link between trade and security</TITLE>
+<HEADLINE> White House sees link between trade and security</HEADLINE>
+<SUBJECT> BC-TRADE-USA-JAPAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  U.S. trade differences with Japan could ``over time'' adversely affect security arrangements between the United States and its most important Pacific ally, the White House said Monday. </P>
+<P> ``The United States view has long been that in a very comprehensive relationship with Japan, that an impediment in any one aspect of that relationship will over time prevent the full benefit of close relationships from developing across the broad spectrum of the bilateral relationship,'' White House spokesman Mike McCurry said. </P>
+<P> He was responding to a reporter who asked whether the U.S. dispute with Japan over what Washington says is a closed Japanese market for cars and car parts could affect the U.S. commitment to guarantee Japan's security. </P>
+<P> ``I'd cast it in the hypothetical -- that over time the inability to resolve a major disagreement, for example in the area of trade, ould be an impediment to the full value of fruitful and productive relationships,'' McCurry said. </P>
+<P> Frustrated after 20 months of unproductive talks on the car and parts dispute, the United States said last week it was ready to hit Japanese imports with punitive tariffs and challenge Tokyo's trade practices in a new world arbitration forum. McCurry said a list of targets was likely by mid-week. </P>
+</TEXT>
+</DOC>

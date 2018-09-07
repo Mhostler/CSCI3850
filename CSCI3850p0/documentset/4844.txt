@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0339.950310</DOCID>
+<TDTID>TDT011162</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/10/95 14:43</DATE>
+<TITLE> Mubarak coming in early April to meet Clinton</TITLE>
+<HEADLINE> Mubarak coming in early April to meet Clinton</HEADLINE>
+<SUBJECT> BC-CLINTON-MUBARAK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Egyptian President Hosni Mubarak will meet President Clinton in early April, the White House said on Friday. </P>
+<P> ``President Clinton is pleased to announce that President Hosni Mubarak of Egypt has accepted an invitation to meet with him in early April,'' White House spokesman Mike McCurry told reporters. </P>
+<P> He said the two leaders will discuss bilateral and regional issues including the recent formation of a U.S.-Egyptian joint committee for economic growth and efforts to advance the Middle East peace process. </P>
+<P> Clinton last met Mubarak in October in Cairo. Vice President Al Gore is to help launch the joint committee later this month when he travels to Egypt. On his March 19-24 trip he also visits Jordan, Israel, Oman and Saudi Arabia. </P>
+<P> Secretary of State Warren Christopher met Mubarak in Cairo on Thursday. </P>
+</TEXT>
+</DOC>

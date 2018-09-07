@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU003-0298.950109</DOCID>
+<TDTID>TDT009038</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/09/95 00:23</DATE>
+<TITLE> China threatens death for mobile-phone code theft</TITLE>
+<HEADLINE> China threatens death for mobile-phone code theft</HEADLINE>
+<SUBJECT> BC-CHINA-TELEPHONE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  Callers in China's southern province of Guangdong who steal the codes of cellular telephones to dial for free could face the death penalty, the China Daily Monday quoted a senior official as saying. </P>
+<P> The Guangzhou Telecommunications Bureau receives more than 400 calls a day from customers who say they have been charged for calls they did not make, the newspaper said. </P>
+<P> ``Criminals involved in such cases should be given sentences ranging from less than five years to life, or even death,'' it quoted Liu Qinghai, deputy director of the Guangdong Higher People's Court, as saying. </P>
+<P> Knowledge of the secret code of a cellular telephone allows thieves to make domestic and international calls on the owner's account. </P>
+<P> In the past two years, officials in Guangdong have investigated 247 cases of telephone-code theft, arresting 330 criminals and recovering losses of $1 million, the China Daily said. </P>
+<P> A vice mayor of Shenzhen city, on the border with Hong Kong, found $15,000 added to his bill by thieves using codes from his cellular phone. </P>
+<P> Cellular phones are hugely popular in China's booming southern provinces both as a status symbol and a way to circumvent the underdeveloped terrestrial telephone network. </P>
+<P> ``Phone users should be alert and should not have their phones repaired at unlicensed maintenance shops along the streets,'' the China Daily quoted Yang Peilin, deputy director of the Guangdong Posts and Telecommunications Administration, as saying. </P>
+<P> Thieves at such shops can steal cellular phone codes for resale, he said. </P>
+<P> To control the illegal use of telephone codes, Guangdong has set up a mobile telephone monitoring system to detect users whose bills rise sharply in a short period of time, the newspaper said. </P>
+</TEXT>
+</DOC>

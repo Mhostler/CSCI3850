@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU004-0424.941209</DOCID>
+<TDTID>TDT007679</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/09/94 14:12</DATE>
+<TITLE> FAA releases fatal USAir tape, adds to mystery</TITLE>
+<HEADLINE> FAA releases fatal USAir tape, adds to mystery</HEADLINE>
+<SUBJECT> BC-USAIR </SUBJECT>
+<AUTHOR>     By Michael Posner </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Federal Aviation Agency released a tape Friday chronicling the final moments before a USAir plane crashed near Pittsburgh Sept. 8, but deleted the pilot's last words, compounding the mystery of the tragedy that killed all 132 passengers and crew. </P>
+<P> The crash of Flight 427, a Boeing 737-300 enroute to Greater Pittsburgh International Airport, was the fifth fatal USAir crash in five years; its cause is still unexplained. </P>
+<P> The conversation between the plane's cockpit and the control tower was made public but the final words from the cockpit, apparently containing profanity, were censored. </P>
+<P> An FAA spokeswoman, Drucella Andersen, told reporters it was the first time to her knowledge the FAA had deleted words from a transcript of a conversation between control tower and cockpit after a crash. </P>
+<P> When reporters noted that the deletions only raised more questions about the final moments of the crash, she explained only that ``It is being deleted out of respect and compassion for families of the pilots.'' </P>
+<P> The families did not request the deletion, she added, but the decision was made by FAA administrator David Hinson. </P>
+<P> Since the cause of the crash was still under investigation, FAA officials would not elaborate on the transcript of the tape. </P>
+<P> The National Transportation Safety Board plans a hearing starting Jan. 23 in Pittsburgh to continue the investigation of the crash of the plane that nosedived into a wooded area about six miles from the airport after rolling to the left in the air under clear conditions in late afternoon. </P>
+<P> While there were no obvious clues to the cause of the crash from the transcript, a voice from Flight 427's cockpit indicated there might have been some confusion about landing directions from the control tower. </P>
+<P></P>
+<P> USAir 427: ``Did you say two eight left for US Air four twenty seven?'' </P>
+<P> Tower: ``Ah US Air four twenty seven it will be two eight right.'' </P>
+<P> USAir 427: ``Two eight right thank you.''  (There was conversation between the tower and other planes for over a minute before conversation resumed between the tower and USAir 427.) </P>
+<P> Tower: ``USAir four twenty seven turn left heading one zero zero, traffic will be one to two o'clock six miles northbound Jetstream climbing out of thirty three for five thousand.'' </P>
+<P> USAir 427:''We're looking for the traffic turning to one zero zero USAir four twenty seven.'' </P>
+<P> USAIR 427'' (Oh) (unintelligible) Oh (expletive-deleted) Tower: ``USAir four twenty seven maintain six thousand over.'' </P>
+<P> USAir 427: ``(unintelligible) (seven) emergency (unintelligible) Oh (expletive() (non-pertinent) (unintelligible) (non-pertinent).'' </P>
+<P> The FAA spokeswoman said the word seven represented the best interpretation of this word which was not entirely clear. </P>
+<P> The words deleted by the FAA apparently were the last the control tower heard from the flight as the control tower repeatedly kept trying to reach the aircraft before finally saying that ``USAir four twenty seven radar contact lost.'' </P>
+</TEXT>
+</DOC>

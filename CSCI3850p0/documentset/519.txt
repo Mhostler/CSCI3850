@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU001-0088.940801</DOCID>
+<TDTID>TDT001306</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/01/94 12:16</DATE>
+<TITLE> AMERICAN GRANDMASTER KAMSKY BEATS INDIA'S ANAND</TITLE>
+<HEADLINE> AMERICAN GRANDMASTER KAMSKY BEATS INDIA'S ANAND</HEADLINE>
+<SUBJECT> BC-INDIA-CHESS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, India (Reuter) </DATELINE>
+<P>  American grandmaster Gata Kamsky beat Indian grandmaster Anand Viswanathan in their sixth game in the second round of the FIDE World Chess Championship quarter-finals, the United News of India said Monday. </P>
+<P> Anand now leads Kamsky 3.5 points to 2.5, with two more games to be played, the news agency said. </P>
+<P> Veteran Dutch grandmaster Jan Timman drew his fifth game against Russia's Valery Salov, and Russian grandmaster Vladimir Kramnik and Byelorussian Boris Gelfand adjourned their sixth match after 60 moves with Gelfand in an advantageous position. </P>
+<P> Timman now leads 2.5 points to 1.5 but the Russian grandmaster stands a chance when they resume a game adjourned earlier in his favor at Sanghi Nagar, near the southern Indian city of Hyderabad. Kramnik and Gelfand are level at 2.5 points. </P>
+<P> The World Chess Championship elimination rounds of the International Chess Federation will decide who will challenge Anatoly Karpov for the world champion's crown. The semifinals are scheduled for early 1995. </P>
+<P> Anand, Kramnik and Kamsky are also taking part in the elimination rounds of the Professional Chess Association, which was formed last year after world champion Russian Garry Kasparov led a rebellion against FIDE. </P>
+<P> The PCA cycles will determine a challenger to Kasparov. </P>
+</TEXT>
+</DOC>

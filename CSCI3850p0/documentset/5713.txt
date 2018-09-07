@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0259.950413</DOCID>
+<TDTID>TDT012515</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/13/95 12:06</DATE>
+<TITLE>  Kabul reports 100 killed by Russian bombing</TITLE>
+<HEADLINE>  Kabul reports 100 killed by Russian bombing</HEADLINE>
+<SUBJECT> BC-TAJIKISTAN-BOMBING URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ISLAMABAD (Reuter) </DATELINE>
+<P>  Russian jets based in Tajikistan heavily bombed the northern Afghan town of Taloqan Thursday, killing 100 people and wounding 200, the official Kabul Radio said. </P>
+<P> The bombing of the town, which is the capital of Takhar province bordering Tajikistan, also destroyed many houses and shops, said the broadcast monitored in Islamabad. </P>
+</TEXT>
+</DOC>

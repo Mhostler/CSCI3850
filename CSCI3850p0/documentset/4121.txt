@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU002-0082.950203</DOCID>
+<TDTID>TDT010050</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/03/95 00:08</DATE>
+<TITLE> Europe uneasy over U.S.-led aid plan for Mexico</TITLE>
+<HEADLINE> Europe uneasy over U.S.-led aid plan for Mexico</HEADLINE>
+<SUBJECT> BC-USA-MEXICO-IMF </SUBJECT>
+<AUTHOR>     By Rich Miller, Economics Correspondent </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  European nations have voiced some misgivings about the $50 billion rescue package for Mexico put together by the United States, in an unusual display of disunity between the trans-Atlantic allies, diplomats said Thursday. </P>
+<P> But the diplomats, who declined to be identified, said the European nations have stopped well short of opposing the hastily arranged, controversial package, which is designed to ease a cash and currency crisis that had brought Mexico to the brink of default on its loans. </P>
+<P> According to the diplomats, some European nations resent being forced into supporting a package that they feel is mainly aimed at tackling a problem that is home grown and that risks distracting attention from the financial woes in the rest of the world. </P>
+<P> ``The Europeans feel this particular crisis is above all an American problem,'' a senior European official, who declined to be named, said. </P>
+<P> President Clinton unveiled the new international aid package for Mexico Tuesday, after being forced to drop a plan to provide Mexico with $40 billion in U.S. government loan guarantees in the face of stiff congressional opposition. </P>
+<P> The new program includes $20 billion from the U.S. Exchange Stabilization Fund, which does not require U.S. congressional approval, a $17.8 billion stand-by loan from the International Monetary Fund and $10 billion in short-term financing from European nations and Japan funnelled through the Bank for International Settlements (BIS). </P>
+<P> The IMF board approved its contribution to the package late Wednesday night. IMF Managing Director Michel Camdessus told reporters Thursday that the vote at the baord was overwhelmingly in support. </P>
+<P> Diplomats said that no country voted against the loan -- the IMF's biggest by far. Some nations though signalled that they wanted to abstain from the vote in a rare diplomatic display of uneasiness over a package that was cobbled together by Washington with limited consultation with Europe. </P>
+<P> Germany and Britain told Camdessus before the board meeting that they intended to abstain, although they did not say that so openly at the meeting itself, diplomats said. Belgium, the Netherlands and Switzerland also signalled their desire to abstain and not support the package, although not until after the board meeting had ended. </P>
+<P> In another display of pique over the package, European nations have so far failed to fully agree to the $10 billion short-term financing program being arranged through the BIS as part of the international aid package for Mexico. </P>
+<P> U.S. Treasury Secretary Robert Rubin acknowledged Thursday that the BIS pacakge, which was announced by Clinton on Tuesday, was not yet in place. But, he added, ``Our hope and expectation is that it will happen.'' </P>
+<P> Finance ministers and central bankers from the United States, Europe and Japan are expected to discuss how to split the cost of aid to Mexico at a meeting in Toronto Friday and Saturday, European officials said. </P>
+</TEXT>
+</DOC>

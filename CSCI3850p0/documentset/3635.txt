@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU003-0236.950108</DOCID>
+<TDTID>TDT009027</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/08/95 12:53</DATE>
+<TITLE> Grenade blast wounds 16 in Sierra Leone</TITLE>
+<HEADLINE> Grenade blast wounds 16 in Sierra Leone</HEADLINE>
+<SUBJECT> BC-LEONE-GRENADE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FREETOWN, Sierra Leone (Reuter) </DATELINE>
+<P>  A 7-year-old boy and 15 other people were seriously injured Sunday when a grenade exploded in a busy area of Sierra Leone's capital Freetown, police said. </P>
+<P> A senior police official told reporters police had detained the soldier who dropped the grenade in Freetown's east end. They said it was not clear how the explosion happened. </P>
+<P> The wounded were taken to Freetown's Connaught hospital for treatment. Doctors said the boy had serious head injuries. </P>
+</TEXT>
+</DOC>

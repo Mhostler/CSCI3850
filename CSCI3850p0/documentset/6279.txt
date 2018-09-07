@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0246.950504</DOCID>
+<TDTID>TDT013434</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 14:16</DATE>
+<TITLE> Paul McCartney's son in lucky escape</TITLE>
+<HEADLINE> Paul McCartney's son in lucky escape</HEADLINE>
+<SUBJECT> BC-BRITAIN-MCCARTNEY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Former Beatle Paul McCartney's 17-year-old son James suffered a fractured ankle after his Land Rover overturned, trapping his leg. </P>
+<P> He was freed by firemen after 25 minutes and then airlifted to hospital after the crash Wednesday night near his father's farm at Rye in southeast England. </P>
+</TEXT>
+</DOC>

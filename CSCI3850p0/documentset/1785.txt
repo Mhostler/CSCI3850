@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU002-0094.941003</DOCID>
+<TDTID>TDT004414</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 17:22</DATE>
+<TITLE> U.S. wants to stem billion-dollar Russia arms flow</TITLE>
+<HEADLINE> U.S. wants to stem billion-dollar Russia arms flow</HEADLINE>
+<SUBJECT> BC-RUSSIA-USA-GUNS 1STLD </SUBJECT>
+<AUTHOR>     By Deborah Zabarenko </AUTHOR>
+<TEXT>
+<NOTES> (Eds: Adds details, quotes)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A potential billion-dollar tide of guns and ammunition flowing from Russia to the United States is raising worries at the State Department and officials want all import licenses for such arms denied. </P>
+<P> State Department spokesman Mike McCurry said Monday some 250 U.S. firms have asked for permission to import 7.6 million rifles and pistols and over 7 billion rounds of ammunition from Russia and other countries in the former Soviet Union this year. </P>
+<P> ``This is a huge increase in the volume of license applications that we've seen,'' McCurry said at a briefing, noting that only 1,000 weapons were imported from the former Soviet Union in 1992 and only 18,000 in 1993. </P>
+<P> McCurry said his department was recommending that the Treasury Department deny approval to firms seeking to bring the guns into the United States until studies are done to see what is spurring such a massive increase in the market. </P>
+<P> The arms and ammunition together are worth more than $1 billion in potential sales, McCurry said, adding, ``We think it's a good idea to know a lot more about this before any of those applications are approved.'' </P>
+<P> Current U.S. policy prohibits the importation of small arms from the former Soviet Union unless American importers get a waiver from the Treasury Department. </P>
+<P> Because the demand for these waivers has soared this year, Secretary of State Warren Christopher has ordered a study of the foreign policy and national security implications of these munitions transfers before granting any import licenses or changing policy, McCurry said. </P>
+<P> He denied that the primary reason for the increased demand may be a move to transship the weapons to third countries. </P>
+<P> McCurry also denied a published report that American firms were being allowed to import Russian arms as ``compensation'' for Russia's halting arms sales to Iran. </P>
+<P> ``This sort of linkage was never even discussed,'' McCurry said. </P>
+<P> One reason for the increased demand for the small arms may be their relatively low cost compared with U.S.-made rifles and pistols, a U.S. official said. </P>
+</TEXT>
+</DOC>

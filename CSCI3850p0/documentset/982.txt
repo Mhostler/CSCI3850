@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0385.940825</DOCID>
+<TDTID>TDT002420</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/25/94 05:11</DATE>
+<TITLE> PASSENGERS RESCUED FROM BURNING BRITISH FERRY</TITLE>
+<HEADLINE> PASSENGERS RESCUED FROM BURNING BRITISH FERRY</HEADLINE>
+<SUBJECT> BC-BRITAIN-FERRY 2NDLD  (PICTURE) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Lifeboats and helicopters joined in an international operation to rescue more than 100 people from a burning cross-channel ferry Thursday, coast guards and firefighters said. </P>
+<P> One crewman was slightly injured but officials said all the passengers had been safely rescued, air force officials said. </P>
+<P> ``The fire is contained,'' Simon Taylor, managing director of the Sally Star Line, told British Broadcasting Corporation television. </P>
+<P> ``We have evacuated all non-essential personnel.'' </P>
+<P> A spokeswoman for Sally Star said the ferry normally carried cars and passengers, but on this trip had been carrying freight from Dunkirk to Ramsgate on the southeastern English coast. She said 104 crew and 17 freight drivers were aboard the vessel. </P>
+</TEXT>
+</DOC>

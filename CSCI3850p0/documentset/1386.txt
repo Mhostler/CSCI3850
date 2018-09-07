@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0304.940915</DOCID>
+<TDTID>TDT003421</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/15/94 11:41</DATE>
+<TITLE> Colombia's Gaviria inaugurated as OAS chief</TITLE>
+<HEADLINE> Colombia's Gaviria inaugurated as OAS chief</HEADLINE>
+<SUBJECT> BC-LATAM-OAS-INAUGURATION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Former Colombian President Cesar Gaviria Trujillo Thursday became the Organization of American States' seventh secretary general. </P>
+<P> Gaviria, 47, who was inaugurated in a ceremony at the OAS headquarters, had been elected in March to serve a five-year term. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0168.950224</DOCID>
+<TDTID>TDT010721</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/24/95 17:21</DATE>
+<TITLE> U.S. sells $48 million in missiles to Seoul</TITLE>
+<HEADLINE> U.S. sells $48 million in missiles to Seoul</HEADLINE>
+<SUBJECT> BC-KOREA-USA-MISSILES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Clinton administration said Friday that the United States has sold $112 million in military missiles to South Korea for potential use against enemy ships and radar sites. </P>
+<P> The package includes 136 AGM-88B high-speed anti-radiation missiles (HARM), at a cost of $64 million. They are made by Texas Instruments Inc and can be launched by aircraft to seek and destroy radar transmitters on the ground. </P>
+<P> The sale also includes 32 ``Harpoon'' anti-ship missiles, made by McDonnell Douglas Corp, at a cost of $48 million. </P>
+</TEXT>
+</DOC>

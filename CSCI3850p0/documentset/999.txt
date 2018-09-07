@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0117.940825</DOCID>
+<TDTID>TDT002476</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/25/94 23:48</DATE>
+<TITLE> NEWSPAPER SAYS ITS TIME FOR U.S. TO TALK TO CUBA</TITLE>
+<HEADLINE> NEWSPAPER SAYS ITS TIME FOR U.S. TO TALK TO CUBA</HEADLINE>
+<SUBJECT> BC-CUBA-EDITORIAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Saying it is often more important for governments to talk to their enemies than to their friends, The New York Times said Friday that the United States should agree to wide-ranging talks with Cuba. </P>
+<P> ``By agreeing to wide-ranging talks with Cuba now, and insisting on the broadest possible agenda, the U.S. may find it has some bargaining power to help Cubans struggling for democratic change,'' the daily said in an editorial. </P>
+<P> The newspaper was referring to President Fidel Castro's offer Thursday for multi-issue talks to halt the present exodus of Cuban boat people to the United States. </P>
+<P> President Clinton's administration has rebuffed the offer saying immigration is the only issue it will talk about. </P>
+<P> The New York Times said the United States ought to ``respond more creatively'' to Castro's offer. </P>
+<P> ``The Castro regime's present weakness makes this an especially promising moment to negotiate, if Washington plays its hand effectively,'' the daily said. </P>
+<P> ``The Cuban-American hard-liners from whom the administration is taking its cues want to escalate internal tensions in Cuba rapidly in order to force an explosion and perhaps a U.S. intervention, that would bring the Castro regime down in flames,'' the times cautioned. </P>
+</TEXT>
+</DOC>

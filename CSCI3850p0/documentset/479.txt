@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU014-0153.940729</DOCID>
+<TDTID>TDT001202</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/29/94 14:06</DATE>
+<TITLE> DUTCH POLICE RELEASE BRITISH BLAST DETAINEES</TITLE>
+<HEADLINE> DUTCH POLICE RELEASE BRITISH BLAST DETAINEES</HEADLINE>
+<SUBJECT> BC-BRITAIN-BLAST-RELEASE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AMSTERDAM (Reuter) </DATELINE>
+<P>  Amsterdam airport police said Friday they had released without charge four people held for questioning on a tip they may be linked to this week's bombings of Israeli and Jewish targets in London. </P>
+</TEXT>
+</DOC>

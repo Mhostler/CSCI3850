@@ -1,0 +1,41 @@
+<DOC>
+<DOCID>REU001-0436.950302</DOCID>
+<TDTID>TDT010942</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/02/95 14:09</DATE>
+<TITLE> Trader blamed for breaking Barings held in Germany</TITLE>
+<HEADLINE> Trader blamed for breaking Barings held in Germany</HEADLINE>
+<SUBJECT> BC-BANK-LEESON 2NDLD (PICTURE) </SUBJECT>
+<AUTHOR>     By John Gilardi </AUTHOR>
+<TEXT>
+<NOTES>(New throughout)</NOTES>
+<DATELINE>FRANKFURT (Reuter) </DATELINE>
+<P>  The 28-year-old securities trader blamed for breaking Barings, the British bank that financed the Napoleonic wars, flew into the waiting arms of German police Thursday, ending a week-long international manhunt. </P>
+<P> Nick Leeson, the Singapore-based high-flier whose trading losses of at least $900 million brought down the 233-year-old merchant bank, and his wife were detained at Frankfurt airport after their two-stop flight from Brunei landed early this morning. </P>
+<P> Singapore demanded his extradition but German authorities said they were uncertain what charges he would ultimately face or whether he will fight being sent back. </P>
+<P> He also dismissed a German lawyer who had gone to Frankfurt to represent him. </P>
+<P> Wearing blue jeans and a gray shirt, the erstwhile financial whiz-kid from north of London ignored reporters. He told airport police he was trying to make his way home to England, even though he had no onward ticket. </P>
+<P> His most likely next trip -- perhaps months away if he fights extradition -- is back to Singapore which has issued a national arrest warrant accusing him of ``passport forgery to prepare for fraud,'' the Frankfurt state prosecutor said. </P>
+<P> British officials said there were no plans to try to bring the rogue derivatives trader back to Britain, since no criminal charges had been brought against him there. </P>
+<P> State prosecutor Hans-Hermann Eckert said Leeson would be taken before a Frankfurt judge Friday. His wife was released from custody, but her whereabouts were not known. </P>
+<P> Wherever Leeson ends up, the main question will be -- how did he manage to lose more money in bad futures deals in Japan and Singapore than the net worth of a blue-blooded investment firm? And did he break any laws? </P>
+<P> Evidence is growing that large numbers of traders sensed that something was wrong weeks before Barings collapsed and triggered Britain's biggest banking disaster for a decade. </P>
+<P> Fingers are now being pointed and everyone is asking just how much the bank's top managers knew about his activities before the bank's spectacular failure. </P>
+<P> Bidders are now sifting through the ruins of the banking firm that only a week ago was the personal banker of Queen Elizabeth II and had an unblemished reputation. Barings was the bank that financed England's fight against Napoleon and also financed the U.S. Louisiana purchase. </P>
+<P> A second Dutch banking giant entered the bidding war for Barings Thursday, offering the grand sum of one British pound ($1.59) for the entire operation, banking sources said. </P>
+<P> The symbolic size of the offer from Internationale Nederlanden Group (ING), competing with its arch-rival ABN AMRO, indicated the group would take on all the outstanding liabilities of the collapsed bank. </P>
+<P> A final figure for the mammoth losses accumulated by their man in Singapore may now reach more than $1 billion. </P>
+<P> A rescue package which the Bank of England tried to put together for the bastion of British banking during the weekend failed because buyers were unwilling to take responsibility for losses which could not be capped. </P>
+<P> The Leesons disappeared from the southeast Asian island nation of Singapore before dawn last Thursday, two days before the news broke that broke Barings and sent Asian markets reeling. </P>
+<P> Leeson and his wife Lisa flew back from Asia in economy class, leaving behind a life of luxury in Singapore that included a yacht, condominium, clubs, Malaysian property deals and hopes of retirement before he turned 30. </P>
+<P> They had just spent four days at a swanky Malaysian beach resort, perhaps celebrating his 28th birthday last Saturday as his superiors in London scrambled in vain to salvage the firm. </P>
+<P> Leeson was able to bring Barings to its knees in a matter of months only with the help of derivatives. </P>
+<P> These complex and risky tools of high finance allowed him to build up a $27 billion gamble on Japanese stock and bond markets while paying a fraction of that amount up front, bankers said. </P>
+<P> Derivatives are fairly new to financial markets. They are used by companies, banks or even farmers to offset the risk of interest rate rises or falling grain prices. </P>
+<P> However, they also allow dealers to take large bets on these markets with only a small down-payment. </P>
+<P> But while derivatives were the means by which Leeson broke the bank, the experts say they are safe in the right hands, provided sufficient checks and balances are in place to control excessive speculation. </P>
+<P> Colleagues at Barings describe Leeson as high-living, fun-loving and even ruthless. But to the family he left behind in working-class Watford, he was nothing of the sort. </P>
+<P> ``Nick is being blamed for everything. One person can't lose all that money,'' his 18-year-old sister Sarah told the local weekly newspaper, the Watford Free Observer, echoing doubts about how much his superiors in London knew. </P>
+<P> ``And they are playing on his background, making him the scapegoat because of his upbringing,'' she added. </P>
+</TEXT>
+</DOC>

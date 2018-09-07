@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0214.950420</DOCID>
+<TDTID>TDT012756</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/20/95 11:14</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BLAST-CLINTON-TRIBUTE -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> At a White House welcoming ceremony for visiting Brazilian President Fernando Henrique Cardoso, Clinton called for a moment of silence for the victims of the bombing.  ``Let me say again, those responsible will be brought to justice. They will be tried, convicted and punished. We will never let the forces of inhumanity prevail in the United States,'' the president said. </P>
+<P> White House officials said the United States was conducting a global dragnet to try to determine who was to blame for what was believed to be the worst act of terrorism in U.S. history. </P>
+<P> ``This terrorist act affects not just America. It affects all of us who believe in peace,'' Cardoso said in his remarks at the ceremony. More than 200 of the 550 people who worked in the devastated federal building in Oklahoma City were still unaccounted for Thursday. </P>
+</TEXT>
+</DOC>

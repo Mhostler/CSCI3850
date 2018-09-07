@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU015-0374.950329</DOCID>
+<TDTID>TDT011864</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/29/95 07:14</DATE>
+<TITLE> Kantor says Japan skews trade</TITLE>
+<HEADLINE> Kantor says Japan skews trade</HEADLINE>
+<SUBJECT> BC-AUTOS-USA-JAPAN 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds quotes, last two grafs)</NOTES>
+<DATELINE>WASHINGTON9 (Reuter) </DATELINE>
+<P>  U.S. Trade Representative Mickey Kantor said Wednesday that Japan maintains a closed economy that discriminates against U.S. auto exports and skews international economics. </P>
+<P> Kantor, in an interview on CNN from Atlanta, said one of the reasons the dollar had slid against the yen was ``closed economies in Japan.'' </P>
+<P> Over the past 25 years, he said, Japan had exported 40 million cars to the United States, while the United States had sent only 40,000 to Japan. </P>
+<P> ``That's not due to quality or not due to availability,'' Kantor said. ``That is due to discrimination.'' </P>
+<P> ``The fact is the Japanese have a closed economy. When that happens, you have a skewed economic situation.'' </P>
+<P> Kantor complained that Japan was ``able to get into our economy, into Europe.'' He added: ``We're not able to get into their economy.'' </P>
+<P> ``They have an unfair advantage and that is affecting the dollar,'' he said. </P>
+</TEXT>
+</DOC>

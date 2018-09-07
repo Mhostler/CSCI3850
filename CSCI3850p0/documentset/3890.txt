@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0134.950123</DOCID>
+<TDTID>TDT009649</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/23/95 05:48</DATE>
+<TITLE> Wife of Lourdes parking-meter boss kills herself</TITLE>
+<HEADLINE> Wife of Lourdes parking-meter boss kills herself</HEADLINE>
+<SUBJECT> BC-FRANCE-LOURDES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOULOUSE, France (Reuter) </DATELINE>
+<P>  The wife of the official in charge of parking meters in the French Roman Catholic shrine of Lourdes committed suicide after charges the couple raked off cash from the meters, judicial sources said Monday. </P>
+<P> Yolande Doucet apparently took an overdose of sleeping pills Sunday night. She was found dead in her apartment in the center of Lourdes in southwest France. </P>
+<P> She was being investigated as an accomplice to her husband Jean-Michel Doucet who was arrested last week on suspicion of embezzling more than $230,000 spent on parking by miracle-seekers, tourists and locals. </P>
+<P> Police had become suspicious because the couple seemed to be living beyond their income. </P>
+<P> Hundreds of thousands of suffering Catholics flock to Lourdes each year in the hope of a cure from waters believed to have miraculous properties after a local peasant girl claimed she had witnessed visions of the Virgin Mary in 1858. </P>
+</TEXT>
+</DOC>

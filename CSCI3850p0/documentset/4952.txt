@@ -1,0 +1,34 @@
+<DOC>
+<DOCID>REU008-0103.950315</DOCID>
+<TDTID>TDT011320</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/15/95 20:40</DATE>
+<TITLE> House moves massive Republican spending cuts</TITLE>
+<HEADLINE> House moves massive Republican spending cuts</HEADLINE>
+<SUBJECT> BC-CONGRESS-CUTS 1STLD </SUBJECT>
+<AUTHOR>     By Jackie Frank </AUTHOR>
+<TEXT>
+<NOTES>(Updates with House action on amendments)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  House Republicans moved forward Wednesday with a massive $17.2 billion spending cut plan, the first step toward their goal of slashing the size of the federal government. </P>
+<P> Called a rescissions bill, it cuts spending immediately for a range of domestic and foreign programs, including low-income housing, public broadcasting, summer jobs, drug treatment, winter heating assistance for the poor and education. </P>
+<P> During the often contentious debate, Republicans struck at one of President Clinton's pet projects -- the Americorps youth volunteer program -- and cut it by another $206 million to restore an equal amount on politically popular veterans' programs. </P>
+<P> ``This is the first major step in downsizing this bloated government,'' said Gerald Solomon of New York, House Rules Committee chairman. </P>
+<P> House Speaker Newt Gingrich said passage would not come easy. ``This is probably the most controversial thing we've done in that it's real spending cuts in this year's spending,'' he told reporters. </P>
+<P> Debate was expected to continue and and final passage was anticipated Thursday. </P>
+<P> Republicans angered anti-abortion groups when they held off on a plan to permit states to deny Medicaid payments for abortions needed by poor women who were victims of rape or incest. The abortion issue is to come up later in the year. </P>
+<P> Republican leaders also agreed the savings would be used to reduce the federal deficit, not to pay for tax cuts. </P>
+<P> Gingrich warned the spending cut bill was only the first salvo and said it will be ``30 times harder'' to reach a budget which cuts the deficit to zero by the year 2002. </P>
+<P> ``This going to be, over the next four months, one of the most difficult and complicated projects ever undertaken by the House,'' he said. </P>
+<P> The House defeated a Democratic attempt to stop an emergency sale of 6.3 billion board feet in salvage timber from the nation's forests. The measure also eases environmental rules. </P>
+<P> And, they restored $10 million in an anti-drug program for schools by taking an equal amount from other education. </P>
+<P> Out of the $17.2 billion in spending cuts in the entire bill, $5.4 billion will be used to pay for disaster relief for California's earthquake victims and for other disasters. </P>
+<P> During the debate, Democrats protested they had been ''gagged'' in their efforts to offer alternative spending cuts. For instance, defense spending cuts could not be used to restore spending for housing programs for the poor. </P>
+<P> ``We have been shut out. The only cuts we can offer are deeper cuts in programs that have already been offered,'' said Democratic Whip David Bonior of Michigan. He said up to $200 billion could have been taken from corporate benefits, including changes in mining rules. </P>
+<P> Rep. David Obey of Wisconsin, ranking Democrat on the Appropriations Committee, said he had been blocked from offering an amendment to delay construction of the F-22 aircraft for five years to help restore housing programs. </P>
+<P> House Appropriations Committee Chairman Bob Livingston of Louisiana dismissed Democratic objections as ``Chicken Littleism.'' </P>
+<P> In a fiery voice of reminiscent of a country preacher, he defended the spending cuts: ``We can play this bleeding heart game, this compassion game, from now until eternity, but it will not restore fiscal sanity to this country.'' </P>
+<P> As Livingston defended the decision to cut $1.3 billion from a low-income heating program, calling it unnecessary because fuel prices have fallen, Democrat Barbara Kennelly of Connecticut disagreed. ``Maybe if you live in Louisiana, it is no longer needed. Heat is still expensive and it is still cold in New England,'' she said. </P>
+<P> The bill eliminates all funding for the low-income heating assistance of $1.3 billion, eliminates summer jobs for 600,000 youth in 1995 and 1996, cuts $7.2 billion in housing for the poor, cuts $1.6 billion in education, including all funds for the drug-free schools, cuts $50 million in veterans' health care and cuts public broadcasting by 15 percent in 1996 and 30 percent in 1997. </P>
+</TEXT>
+</DOC>

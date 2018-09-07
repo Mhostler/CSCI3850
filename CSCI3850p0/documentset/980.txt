@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU011-0344.940824</DOCID>
+<TDTID>TDT002410</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/24/94 21:48</DATE>
+<TITLE> MOROCCO BLAMES PLANE CRASH ON PILOT SUICIDE BID</TITLE>
+<HEADLINE> MOROCCO BLAMES PLANE CRASH ON PILOT SUICIDE BID</HEADLINE>
+<SUBJECT> BC-MOROCCO-PILOT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Moroccan authorities say an airliner crash last Sunday that killed all 44 people on board was caused by a suicide attempt by the pilot, Moroccan television reported Thursday. </P>
+<P> The television, monitored by the British Broadcasting Corporation, said a Moroccan technical commission had examined data in the plane's ``black box'' flight recorder at the laboratories of the French civil aviation authority. </P>
+<P> The television quoted a statement signed by the commission's chairman Mohamed Moufid as saying: ``From the analysis of the first elements of the investigations ... it was found that the crash of the Moroccan ATR 42 Royal Air Maroc plane Sunday, 21st August 1994 on the outskirts of Agadir, was caused by the pilot's wish to put an end to his life. He stopped the automatic navigation steering mechanism and directed the plane to the ground.'' </P>
+<P> The statement said the pilot was experienced, professionally and physically fit for his duties, had undergone annual medical checks and was tested for professional competence July 30. </P>
+<P> ``Such conduct was unexpected,'' it said. ``A thorough investigation is under way to try to understand the reasons behind this behavior.'' </P>
+<P> The plane, on a domestic flight from the southern seaside resort of Agadir to Casablanca, fell from the sky and crashed in the Atlas mountains after co-pilot Sofia Figuigui radioed: ``Mayday, Mayday, the commander is ...'' </P>
+</TEXT>
+</DOC>

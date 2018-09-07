@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0404.941102</DOCID>
+<TDTID>TDT005968</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/02/94 19:38</DATE>
+<TITLE> Clinton directs $75 million for Israel</TITLE>
+<HEADLINE> Clinton directs $75 million for Israel</HEADLINE>
+<SUBJECT> BC-ISRAEL-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Wednesday directed his government to release $75 million in military supplies for Israel. </P>
+<P> Clinton issued the order in a memo to Secretary of State Warren Christopher and Defense Secretary William Perry. It was released by the White House. The supplies are part of Israel's annual appropriation from the U.S. government. </P>
+<P> Clinton directed ``the additional drawdown for Israel of an estimated $75 million in defense articles from the stocks of the Department of Defense and defense services of the Department of Defense, as appropriate.'' </P>
+<P> The president visited Israel last week as part of a four-day, six-nation tour of the Middle East. </P>
+</TEXT>
+</DOC>

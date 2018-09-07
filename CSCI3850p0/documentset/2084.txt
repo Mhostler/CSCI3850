@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0047.941018</DOCID>
+<TDTID>TDT005214</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 08:00</DATE>
+<TITLE> Bosnia Serbs say medicine only temporarily seized</TITLE>
+<HEADLINE> Bosnia Serbs say medicine only temporarily seized</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-MEDICINE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PALE, Bosnia (Reuter) </DATELINE>
+<P>  A Bosnian Serb official denied Tuesday that a U.N. convoy with medical supplies had been hijacked near Sarajevo and said its cargo had been only temporarily confiscated. </P>
+<P> ``The convoy had no authorization to pass, had no papers and was using a route that is closed to traffic without any advance notice. We are waiting for an official explanation by the U.N. High Commissioner for Refugees,'' Dragan Kekic, deputy chief of the Bosnian Serb Commissioner for Refugees and Humanitarian Aid, told Reuters. </P>
+<P> The UNHCR had accused the Bosnian Serbs of hijacking five truckloads of medical supplies at gunpoint at a checkpoint between Sarajevo airport and the city center Monday. </P>
+<P> Kekic said the convoy ``came out of the blue on a prohibited road.'' He said Bosnian Serb authorities had protested to the UNHCR for what he said was a ``violation of all agreements at the time when the Serb side was doing its best to improve cooperation with the agency.'' </P>
+<P> Kekic said the Serbs had stepped up control of aid in transit after a Norwegian aid convoy to the eastern enclave of Srebrenica was caught six days ago ``smuggling'' a prohibited 20-kilowatt power generator. </P>
+<P> The UNHCR expressed dismay over what it said was the first hijack of medical supplies by the Serbs in the course of the 30-month war in Bosnia. </P>
+</TEXT>
+</DOC>

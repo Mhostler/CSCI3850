@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU015-0039.950328</DOCID>
+<TDTID>TDT011824</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/28/95 06:45</DATE>
+<TITLE> Mitsubishi Bank, Bank of Tokyo confirm merger plan</TITLE>
+<HEADLINE> Mitsubishi Bank, Bank of Tokyo confirm merger plan</HEADLINE>
+<SUBJECT> BC-JAPAN-BANK-PLAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO, March 28 (Reuter) </DATELINE>
+<P>  Two elite Japanese banks, Mitsubishi Bank Ltd and Bank of Tokyo Ltd, said on Tuesday they have reached a basic agreement to merge, although details are still being worked out. </P>
+<P> The marriage between the two -- rumoured for years -- would create the world's biggest bank with assets of more than 72 trillion yen ($808 billion), financial analysts said. </P>
+</TEXT>
+</DOC>

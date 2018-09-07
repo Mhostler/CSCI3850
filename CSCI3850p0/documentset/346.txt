@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU011-0027.940722</DOCID>
+<TDTID>TDT000889</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/22/94 01:01</DATE>
+<TITLE> ISRAEL REOPENS BORDER WITH GAZA</TITLE>
+<HEADLINE> ISRAEL REOPENS BORDER WITH GAZA</HEADLINE>
+<SUBJECT> BC-MIDEAST-GAZA-CROSSING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GAZA (Reuter) </DATELINE>
+<P>  Israel reopened its border with Palestinian-ruled Gaza on Friday after a five-day closure prompted by riots at the main Erez crossing point in which two Arabs were killed. </P>
+<P> An Israeli soldier was wounded in an ambush on a farmland road in the centre of the strip, an army spokeswoman said. The soldier's condition was fair and the army was pursuing the gunmen, she said. </P>
+<P> Israel closed the Erez checkpoint between Gaza and Israel on Sunday after riots in which two Palestinian laborers were killed. </P>
+<P> The end of the closure coincides with the Muslim sabbath, when only about 10,000 of the 15,000 Gazans who usually work in Israel cross into the Jewish state. </P>
+<P> PLO officials blamed the rioting, the most serious violence in Gaza since the area came under self-rule in May, on workers' frustration over lengthy security checks. </P>
+<P> Israeli officials have said the labourers were incited by Islamic militants to attack an Israeli bus depot and petrol station at the checkpoint. </P>
+<P> PLO chairman Yasser Arafat, in a news conference in Gaza on Thursday with U.S. Secretary of State Warren Christopher, said the clashes were fuelled by a ``very hard economic situation.'' </P>
+<P> He said Gaza had arrived at ``the red line of starvation and frustration'' of its workers. </P>
+</TEXT>
+</DOC>

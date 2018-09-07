@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0385.941006</DOCID>
+<TDTID>TDT004559</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/06/94 17:40</DATE>
+<TITLE> Two more bodies found in Quebec cult fire</TITLE>
+<HEADLINE> Two more bodies found in Quebec cult fire</HEADLINE>
+<SUBJECT> BC-SWISS-CANADA-BODIES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MONTREAL (Reuter) </DATELINE>
+<P>  Canadian police Thursday found two more bodies, burned beyond recognition, in a Quebec home where earlier this week they found the charred remains of a couple linked to the mass murder-suicide in Switzerland. </P>
+<P> Quebec provincial police found the latest bodies in the basement of the home destroyed by arson Tuesday, in the town of Morin Heights, Quebec, about 50 miles north of Montreal. </P>
+<P> The bodies were so badly burned that police have been unable to determine the sex of the victims, a police spokesman said. </P>
+<P> The charred remains of a man and a woman were found Tuesday, and police were awaiting dental records to identify them. Police believe the couple, who wore necklaces with medallions engraved with the letters ``TS'', were both alive when the fire began. Police speculated the letters stood for Temple Solaire. </P>
+<P> The deaths in Quebec and the 48 people found dead in Switzerland have been linked to a religious cult the Order of the Solar Temple, founded by Luc Jouret. </P>
+<P> The bodies found in Quebec were discovered in a house adjacent to Jouret's home in Morin Heights. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU009-0179.941219</DOCID>
+<TDTID>TDT008202</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/19/94 22:59</DATE>
+<TITLE> Talks called ``productive'' but wide gulf remains</TITLE>
+<HEADLINE> Talks called ``productive'' but wide gulf remains</HEADLINE>
+<SUBJECT> BC-BASEBALL 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>    (EDS: Adds end of day's talks, quotes)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  More than seven hours of talks between major league players and owners Monday were characterized as ''productive'' by an owner's lawyer, but it appeared that the two sides are still far apart. </P>
+<P> If no agreement is reached in the strike which began August 12, the owners have set a deadline of midnight Thursday for declaring an impasse and imposing work rules that would likely include a salary cap, one of the biggest issues in the dispute. </P>
+<P> The owners also are insisting on eliminating salary arbitration, a demand the players also bitterly oppose. </P>
+<P> Acting commissioner Bud Selig, owner of the Milwaukee Brewers, said on Sunday that the owners' deadline may be flexible if these talks showed progress. </P>
+<P> ``We'll see what kind of progress there is,'' Selig said. ''That's something we'll have to use common sense on.'' </P>
+<P> Chuck O'Connor, one of the lawyers for the owners who attended Monday's session said, ``the talks we had today were productive, with a healthy exchange on several issues.'' </P>
+<P> The players apparently presented a new proposal concerning revenue sharing, which is their counter to the owners' demands for a salary cap. </P>
+<P> Player representative Paul Molitor of the Toronto Blue Jays said on his way into Monday's meeting: ``We're at a point now where we've definitely hurt the game. We've got to find ways for both sides to make compromises and try to find common ground.'' </P>
+<P> Baseball owners voted, 25-3, last Thursday to declare an official impasse in their negotiations with the Players Association but decided to delay implementing their final offer, including a salary cap, pending the outcome of this week's talks. </P>
+<P> If the owners implement new rules, the players are expected to file an unfair labor practice charge with the National Labor Relations Board and seek an injunction to prevent the implementation of the cap, claiming the owners did not bargain in good faith. </P>
+<P> A string of legal maneuvers on both sides is expected to follow in the event of implementation. </P>
+<P> If the striking players do not return, the owners have indicated they will try to use replacement players when spring training opens. </P>
+</TEXT>
+</DOC>

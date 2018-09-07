@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0164.941005</DOCID>
+<TDTID>TDT004528</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/05/94 19:03</DATE>
+<TITLE> Marine said dead in apparent suicide</TITLE>
+<HEADLINE> Marine said dead in apparent suicide</HEADLINE>
+<SUBJECT> BC-HAITI-USA-MARINE 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: adds name and home town, graf 2)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A Marine apparently shot and killed himself aboard a ship that had been off Haiti, U.S. officials said Wednesday. </P>
+<P> They said Lance Corporal Maurice Williams, 21, of Detroit, was found dead in a sleeping area on the U.S. landing ship Nashville while it was in port in Puerto Rico. </P>
+<P> The Nashville is one of a group of ships that landed about 1,800 Marines at Cap Haitien on Haiti's north coast when the U.S. military operation began September 19, and took them off this week. </P>
+<P> Officials said they did not know if the Marine was among those who went into Cap Haitien. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU014-0116.940729</DOCID>
+<TDTID>TDT001196</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/29/94 11:32</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-RWANDA-USA-CLINTON -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> After recounting U.S. efforts in the last week to help more than one million Rwandans who fled into neighboring Zaire to escape civil war, Clinton said: ``The United States must do more. Today I have requested that Congress immediately provide $320 million in emergency relief assistance.'' </P>
+<P> If that were approved, Clinton said, it would bring the total U.S. relief assistance since April to almost half a billion dollars. </P>
+<P> Speaking of the possibility that the U.S. would set up the airfield at Kigali, he said: ``Let me clear about this. Any deployment of U.S. troops inside Rwanda would be for the immediate and sole purpose of humanitarian relief, not for peacekeeping.'' </P>
+<P> Clinton announced a week ago he had directed the Pentagon to take several actions, including establishing an ``airlift hub'' at Entebbe, Uganda to the north of Rwanda and setting up a safe water supply system to combat a deadly cholera outbreak. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU001-0246.950103</DOCID>
+<TDTID>TDT008796</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/03/95 03:40</DATE>
+<TITLE> New British prison row after riot quelled</TITLE>
+<HEADLINE> New British prison row after riot quelled</HEADLINE>
+<SUBJECT> BC-BRITAIN-PRISON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Prison officers early Tuesday quelled a riot at a jail in northern England that has provoked fresh criticism of the way Britain's prisons are run. </P>
+<P> About 170 guards wearing riot gear restored order at the low-security Everthorpe prison near Hull after 68 inmates took over a building, causing extensive damage. </P>
+<P> No one was injured and the Prison Service said at no time was there any danger to the public. </P>
+<P> John Bartell, general secretary of the Prison Officers' Association, said the trouble flared just hours after staff at Everthorpe raised concerns that staffing levels were too low, given there were indications disturbances were being planned. </P>
+<P> ``I'm told from my people on the spot that two of the officers were lucky to get out of the wing where the disturbance occurred alive,'' he told BBC radio. ``Somebody somewhere must take charge of the prison service.'' </P>
+<P> The riot comes amid a deepening political row over security lapses at British jails, highlighted by the suicide in his cell on New Year's Day of alleged serial killer Frederick West and a breakout last year by Irish Republican Army prisoners at the high-security Whitemoor Prison. </P>
+<P> The home-affairs spokesman of the opposition Labor Party, Jack Straw, said there was a crisis of morale within the prison service and demanded that Home Secretary Michael Howard, the interior minister, take political responsibility. </P>
+<P> ``In the end he has to stand up in parliament and give an account of what's happened in the prison service,'' Straw told BBC radio. </P>
+</TEXT>
+</DOC>

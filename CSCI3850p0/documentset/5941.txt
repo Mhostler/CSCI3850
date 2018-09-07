@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0404.950422</DOCID>
+<TDTID>TDT012877</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/22/95 09:35</DATE>
+<TITLE> Man beheaded in Saudi Arabia</TITLE>
+<HEADLINE> Man beheaded in Saudi Arabia</HEADLINE>
+<SUBJECT> BC-SAUDI-BEHEADING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DUBAI, UAE (Reuter) </DATELINE>
+<P>  Saudi Arabia has executed a man for murder, raising to 37 the number of people beheaded in the conservative kingdom this month. </P>
+<P> Saudi television, monitored by the British Broadcasting Corp., said the man was beheaded Friday in northern Saudi Arabia after a religious court convicted him of murder. </P>
+<P> It named him as Mohammad Bin Hamad Bin Ali al-Ftayh al-Yami, but did not give his nationality. </P>
+<P> Saudi Arabia applies strict Islamic Sharia law and beheads murderers, rapists and drug traffickers. </P>
+<P> Public beheadings, mainly of drug smugglers, have been on the rise this year. According to unofficial counts, 96 people have been executed in 1995. </P>
+<P> Some 85 were beheaded in 1993, the last year for which unofficial figures are available. </P>
+</TEXT>
+</DOC>

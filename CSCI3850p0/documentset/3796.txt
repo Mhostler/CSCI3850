@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0078.950116</DOCID>
+<TDTID>TDT009339</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/16/95 10:13</DATE>
+<TITLE> Sierra Leone rebels kill seven in college raid</TITLE>
+<HEADLINE> Sierra Leone rebels kill seven in college raid</HEADLINE>
+<SUBJECT> BC-LEONE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FREETOWN, Sierra Leone (Reuter) </DATELINE>
+<P>  Rebels killed seven civilians in a raid on a university campus over the weekend, eyewitnesses said Monday. </P>
+<P> Saturday's attack on Njala University College 125 miles southeast of Freetown was the latest in a series of raids since Jan. 1 that have come closer to the capital than at any time since the rebel campaign started in 1991. </P>
+<P> ``I saw the bodies of seven men and most of them were members of the college junior staff,'' a lecturer told Reuters. ``There were about 20 paramilitary police on campus when the rebels attacked but they fled across a nearby river, leaving the lecturers at (the rebels') mercy,'' he said. </P>
+<P> He said the attackers identified themselves as members of the Revolutionary United Front, which is believed to be holding two British aid workers missing since a Nov. 7 RUF attack in the north. RUF representatives had their first meeting with the Sierra Leone military government Dec. 6 but attacks resumed over Christmas. </P>
+<P> Last week rebel leader Foday Sankoh said he would not open peace talks until Nigerian and Guinean troops helping the Sierra Leone army went home. </P>
+</TEXT>
+</DOC>

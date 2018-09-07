@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU001-0345.941003</DOCID>
+<TDTID>TDT004369</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 06:00</DATE>
+<TITLE> Protesters, police clash before German anniversary</TITLE>
+<HEADLINE> Protesters, police clash before German anniversary</HEADLINE>
+<SUBJECT> BC-GERMANY-UNITY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BREMEN, Germany (Reuter) </DATELINE>
+<P>  Stone-throwing protesters injured eight policemen in clashes in Bremen on the eve of Monday's fourth anniversary of German reunification, which is to be marked by official celebrations in the northern city. </P>
+<P> President Roman Herzog was due to make a speech in Bremen as part of the festivities, which are being overshadowed by the campaign for general elections in two weeks time. </P>
+<P> Police said they made two arrests after gangs of left-wing anarchist youths up to 200 strong roamed the streets in protest against unity celebrations heckling police, setting fire to cars, smashing shop windows and looting. </P>
+<P> One of the injured policemen suffered serious head injuries, a police spokesman said. </P>
+<P> On Sunday, police said they had briefly detained 70 anarchist youths for identity checks. </P>
+<P> The three-day anniversary celebrations began Saturday with street fairs in Berlin and Bremen to commemorate unification on October 3, 1990, between Germany's capitalist west and former communist east. </P>
+<P> Two demonstrations planned in Bremen Monday by groups opposed to unity celebrations have been banned. </P>
+<P> Many easterners, weary of high unemployment and impatient for the economic spoils of unification promised by Chancellor Helmut Kohl, may choose to vote for reform communists in the October 16 elections, which could deprive Kohl's coalition of a majority in parliament. </P>
+<P> Some living in the west of the country are increasingly frustrated with having to finance unification through high taxes for the fourth year running. </P>
+<P> Parliament President Rita Suessmuth told German radio Saturday that east and west Germans, reunited after four decades of Cold War division, still had not developed a sense of solidarity. </P>
+</TEXT>
+</DOC>

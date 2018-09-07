@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0038.940916</DOCID>
+<TDTID>TDT003492</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/16/94 06:57</DATE>
+<TITLE> For cheaper bread, leave out flour</TITLE>
+<HEADLINE> For cheaper bread, leave out flour</HEADLINE>
+<SUBJECT> BC-SAFRICA-BREAD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VICTORIA FALLS, Zimbabwe (Reuter) </DATELINE>
+<P>  A South African food technologist says he has found a cheaper way to bake bread -- by leaving out the flour and making it directly from wheat. </P>
+<P> Michael Smith, head of the food technology and chemical engineering department at Natal Technical College, said a perfectly acceptable loaf can be made from whole wheat soaked 20 hours to soften it after which it is chilled, chopped and put through a dough mixer before adding yeast, salt and sugar. </P>
+<P> Smith, who was in Zimbabwe to attend talks at this resort town on food science and technology in Africa, said he was moved to devise a new recipe for bread because its cost put it out of reach of millions of people. </P>
+<P> He said a half-loaf made his way costs 8 cents compared to 14 cents for the same size made from flour. </P>
+<P> He said the bread is high in fiber and tastes good but one drawback is that it has a short shelf-life because of high oil content from wheat germ. </P>
+<P> He said he would refine his method in the next few months to improve the taste and colur before offering it for license. </P>
+</TEXT>
+</DOC>

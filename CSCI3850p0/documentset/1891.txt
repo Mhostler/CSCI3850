@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU005-0007.941009</DOCID>
+<TDTID>TDT004704</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/09/94 09:47</DATE>
+<TITLE> U.S. moving warplanes into Gulf region - Perry</TITLE>
+<HEADLINE> U.S. moving warplanes into Gulf region - Perry</HEADLINE>
+<SUBJECT> BC-IRAQ-USA-WARPLANES URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States is moving a ''formidable force'' of F-15, F-16 and other warplanes into the Gulf region in response to a buildup of Iraqi forces along the Kuwait border, Defense Secretary William Perry said Sunday. </P>
+</TEXT>
+</DOC>

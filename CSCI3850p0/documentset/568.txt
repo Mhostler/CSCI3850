@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU002-0051.940803</DOCID>
+<TDTID>TDT001392</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 07:27</DATE>
+<TITLE> TURKEY OPENS TREASON CASE AGAINST KURDISH MPS</TITLE>
+<HEADLINE> TURKEY OPENS TREASON CASE AGAINST KURDISH MPS</HEADLINE>
+<SUBJECT> BC-TURKEY-TRIAL 1STLD (PICTURE) </SUBJECT>
+<AUTHOR>     By Jonathan Lyons </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds details from start of trial, background)</NOTES>
+<DATELINE>ANKARA, Turkey (Reuter) </DATELINE>
+<P>  Six Kurdish members of parliament, facing treason charges for alleged ties to separatist rebels, appeared before a special Turkish court Wednesday under tight security and close scrutiny from human rights groups. </P>
+<P> Prosecutors read from a 452-page indictment, outlining charges that the six served as the political wing of the outlawed Kurdistan Workers Party (PKK), which is leading a bloody 10-year insurgency. </P>
+<P> Defense lawyers and human rights observers denounced the hearing, which has attracted wide attention as a test case of Turkey's commitment to democracy. </P>
+<P> Inside the packed courtoom, rows of police surrounded the dock, obscuring the defendants from view. Some 20 family members joined the ranks of diplomats and journalists for the opening day. </P>
+<P> Outside, busloads of blue-helmeted riot police, backed by an armored car and dog patrols, surrounded the court building. The special court, established in the early 1970s, hears Turkey's most sensitive cases, and its verdicts cannot be appealed. </P>
+<P> A small but vocal crowd of supporters, some in Kurdish national dress, clapped as a police wagon carried the lawmakers, all detained for the past five months, into the court complex. </P>
+<P> An official from HADEP, the successor party to the now-banned Democracy Party (DEP) to which five of the six MPs belong, said supporters arriving in a dozen buses from across Turkey were halted at checkpoints outside Ankara. </P>
+<P> Abdullah Saydin told Reuters that police checked identity cards and turned back those from the mainly-Kurdish southeast. Police officials were not immediately available for comment. </P>
+<P> To date, none of the MPs has been accused of any acts of violence. However, the charge of treason under Article 125 of the Turkish penal code carries the death penalty. </P>
+<P> ``This is a political case, not a legal case,'' lead defence attorney Feridun Yazar told the court as the session began. Under Turkish law defendants do not offer an immediate plea. </P>
+<P> Supporters of the MPs, among them one independent, say the case concerns the right of free speech and of elected lawmakers to represent their voters -- in this case largely Kurds. </P>
+<P> European human rights observers and MPs, on hand for the trial, challenged an earlier move to strip the Kurdish deputies of their immunity as unacceptable interference in parliamentary rights. </P>
+<P> Turkey's Constitutional Court outlawed the DEP on June 16, following a parliamentary vote in March to lift the MPs' immunity at the request of the State Security Court. </P>
+<P> ``This is not a trial, it is Kafka's trial,'' said Jannis Sekellariou, a German member of the European parliament. </P>
+<P> However, the case has been viewed differently at home. Prime Minister Tansu Ciller has aggressively courted public opinion by playing to widespread anti-PKK sentiment and urging tough measures against the Kurdish MPs. </P>
+<P> More than 12,400 people have died in the guerrilla war between the PKK and Turkish security forces. </P>
+</TEXT>
+</DOC>

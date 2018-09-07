@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0327.941130</DOCID>
+<TDTID>TDT007227</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/30/94 04:22</DATE>
+<TITLE> Chernomyrdin cancels Siberia trip over Chechnya</TITLE>
+<HEADLINE> Chernomyrdin cancels Siberia trip over Chechnya</HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA-CHERNOMYDRIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Russian Prime Minister Viktor Chernomyrdin canceled a trip to Siberia Wednesday because of the worsening situation in the breakaway southern region of Chechnya, a government spokesman said. </P>
+<P> The premier had been due to spend Thursday and Friday in Novosibirsk at a meeting on relations between regions. </P>
+<P> President Boris Yeltsin, trying to end a conflict between Chechen leaders and Moscow-backed opposition forces, Tuesday threatened to declare a state of emergency if the two sides did not halt the bloodshed within 48 hours. </P>
+<P> Unidentified planes bombed the Chechen capital Grozny hours after the ultimatum, which followed a flare-up of fighting over the weekend in the north Caucasian region. </P>
+<P> Moscow telephone operators refused to put through calls to Chechnya Wednesday, saying they had received strict instructions to cut off contact with the region. </P>
+<P> The Kremlin has openly backed an opposition Provisional Council set up in August to topple Chechen president Dzhokhar Dudayev. But it denies his charges that Russian soldiers are directly involved in fighting. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0285.940812</DOCID>
+<TDTID>TDT001822</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/12/94 17:25</DATE>
+<TITLE> ISRAEL TV SAYS IRAQ OFFERS TO MAKE PEACE</TITLE>
+<HEADLINE> ISRAEL TV SAYS IRAQ OFFERS TO MAKE PEACE</HEADLINE>
+<SUBJECT> BC-ISRAEL-IRAQ-PEACE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israel television reported Friday that Iraq had expressed readiness to make peace with the Jewish state, whose cities Baghdad targeted with Scud missiles in the 1991 Gulf War. </P>
+<P> No official comment was available on the surprise report relayed to Israelis accustomed to perceiving Iraqi President Saddam Hussein's government as a hard-line foe. </P>
+</TEXT>
+</DOC>

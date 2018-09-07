@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0368.950321</DOCID>
+<TDTID>TDT011504</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/21/95 06:41</DATE>
+<TITLE> Vatican says kidnapped nuns freed in Sierra Leone</TITLE>
+<HEADLINE> Vatican says kidnapped nuns freed in Sierra Leone</HEADLINE>
+<SUBJECT> BC-POPE-LEONE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VATICAN CITY, March 21 (Reuter) </DATELINE>
+<P>  Seven Roman Catholic nuns kidnapped by rebels in Sierra Leone last January have been freed, the Vatican said on Tuesday. </P>
+<P> Vatican spokesman Father Ciro Benedettini said the Holy See had received word that the nuns had been released but had no more immediate details. </P>
+</TEXT>
+</DOC>

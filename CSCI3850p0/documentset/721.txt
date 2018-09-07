@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU006-0043.940811</DOCID>
+<TDTID>TDT001764</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/11/94 19:12</DATE>
+<TITLE> U.S. STOCKS, BONDS, FALL ON INTEREST RATE FEARS</TITLE>
+<HEADLINE> U.S. STOCKS, BONDS, FALL ON INTEREST RATE FEARS</HEADLINE>
+<SUBJECT> BC-MARKETS-USA </SUBJECT>
+<AUTHOR>     By Richard Chang </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Strong U.S. economic data Thursday revived fears of an imminent rise in interest rates, triggering a selloff in stocks and bonds. </P>
+<P> The dollar fell sharply against major currencies, as rising European interest rates attracted investments in other countries. </P>
+<P> The Dow Jones industrial average closed down 15.86 points at 3,750.90, as losers swamped gains 1,379 to 725 on the New York Stock Exchange. Big Board volume was 275.7 million shares, down from 279.5 million on Wednesday. </P>
+<P> The losses began in bonds and spread to stocks, dragging down all the major indicators except for the Nasdaq, which ended unchanged at 728.20. </P>
+<P> The benchmark 30-year Treasury bond dropped three-quarters of a point, or $7.81 per $1,000 face amount. That pushed up its yield to 7.66 percent from 7.58 percent Wednesday. </P>
+<P> The culprit was the Producer Price Index, which took its biggest jump in 15 months. It rose by 0.5 percent in July, compared with a flat rate in June, the Labor Department said. </P>
+<P> The rise was bigger than economists had expected, but much of it was due to higher oil prices. </P>
+<P> The Commerce Department reported retail sales fell 0.1 percent -- a sign of lower consumer spending and reduced inflationary pressure -- but sales were up 0.4 percent excluding autos. </P>
+<P> The reports arrived at an especially sensitive time, for market analysts are looking for signals about whether the Federal Reserve will raise interest rates at its August 16 policy-making session. </P>
+<P> The bond market's losses were aggravated by lackluster demand at the Treasury's $11 billion bond auction, which was the last leg of its quarterly refunding to raise funds for government operations. </P>
+<P> As investors sold U.S. assets, the dollar fell to 1.5600 German marks and 100.35 Japanese yen in late New York trading from 1.5825 marks and 101.20 yen late Wednesday. </P>
+<P> Traders said rate hikes in Italy and Sweden fueled concern that Germany's Bundesbank might put a halt to any future plans to cut interest rates. </P>
+<P> Gold prices rose $1.40 on New York's Commodity Exchange, where the December contract closed at $384.00 an ounce. </P>
+<P> In commodities, corn and soybean prices rose as traders anticipated a government projection for a record U.S. soybean harvest and near-record corn production this fall. </P>
+<P> The September oil contract declined 30 cents to $18.66 a barrel, the lowest close since early June at the New York Mercantile Exchange, on hopes for a resolution to Nigeria's political crisis, which has curbed the country's oil output. </P>
+<P> September coffee jumped 7.40 cents to 184.85 cents a pound ahead of a key U.S. government estimate Friday of the size of Brazil's coffee crop following damaging frosts. </P>
+</TEXT>
+</DOC>

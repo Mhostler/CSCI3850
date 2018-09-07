@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU005-0258.950112</DOCID>
+<TDTID>TDT009228</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/12/95 12:54</DATE>
+<TITLE> U.S. says Iraq sells oil cheaply through Iran</TITLE>
+<HEADLINE> U.S. says Iraq sells oil cheaply through Iran</HEADLINE>
+<SUBJECT> BC-IRAQ-UN-ALBRIGHT </SUBJECT>
+<AUTHOR>     By Anthony Goodman </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  America accused Iraq Thursday of selling contraband oil through Iran for $5 a barrel instead of using a U.N.-approved scheme permitting limited sales providing Baghdad between $8 and $9 a barrel to buy humanitarian supplies. </P>
+<P> The accusation came as United States U.N. envoy Madeleine Albright spoke to Security Council members behind closed doors during a periodic review of U.N. Gulf War sanctions against Iraq which bar normal oil sales. </P>
+<P> ``Frankly, we do not understand why Iraq complains about the suffering of the Iraqi people and yet refuses to accept a mechanism that is specifically designed to help alleviate their plight,'' Albright said in remarks to the council that were also made available to reporters. </P>
+<P> ``Use of this mechanism would yield $8 or $9 for each barrel of oil, to be spent on food, medicine and other needs of the Iraqi people. </P>
+<P> ``Instead, the regime, in an arrangement that violates relevant Security Council resolutions, sells oil through Iran for as little as $5 per barrel, so that it can use the revenues for its own needs,'' she added. </P>
+<P> Under council resolution adopted in 1991, Iraq would be allowed to sell up to $1.6 billion of oil, of which about $900 million would be used to purchase food and other humanitarian goods, with the rest going to pay reparations and meet other Gulf War obligations. </P>
+<P> But Iraq has so far balked at the scheme on grounds its sovereignty would be violated by U.N. requirements for strict monitoring not only of the oil sales, but of the distribution of the humanitarian purchases, to ensure they reached all sectors of the Iraqi population. </P>
+<P> The United States told a U.N. sanctions committee last year that ships monitoring the movement of shipping in the Gulf had detained several vessels believed to be transporting Iraqi oil to Iran or taking it directly to other Gulf ports where it was sold as Iranian oil. Iran has denied the charges. </P>
+</TEXT>
+</DOC>

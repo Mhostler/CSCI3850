@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0032.940709</DOCID>
+<TDTID>TDT000308</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/09/94 02:30</DATE>
+<TITLE> N.KOREA SAYS NUCLEAR TALKS CALLED OFF</TITLE>
+<HEADLINE> N.KOREA SAYS NUCLEAR TALKS CALLED OFF</HEADLINE>
+<SUBJECT> BC-KOREA-DEATH-TALKS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GENEVA (Reuter) </DATELINE>
+<P>  Talks between North Korea and the United States on Pyongyang's controversial nuclear program were suspended Saturday after the death of Korean President Kim Il-sung, a Korean official said. </P>
+<P> ``Today's talks are suspended so there'll be no talks today,'' an official at North Korea's diplomatic mission in Geneva told Reuters. </P>
+</TEXT>
+</DOC>

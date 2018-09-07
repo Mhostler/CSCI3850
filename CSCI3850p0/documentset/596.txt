@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU002-0291.940804</DOCID>
+<TDTID>TDT001464</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/04/94 06:25</DATE>
+<TITLE> HUNGARIANS, SLOVAKS TO SIGN VISA, TAX ACCORDS</TITLE>
+<HEADLINE> HUNGARIANS, SLOVAKS TO SIGN VISA, TAX ACCORDS</HEADLINE>
+<SUBJECT> BC-SLOVAKIA-HUNGARY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRATISLAVA, Slovakia (Reuter) </DATELINE>
+<P>  Hungarian Prime Minister Gyula Horn and Foreign Minister Laszlo Kovacs are expected to visit Slovakia Friday to sign accords that will remove the need for visas between the two countries and prevent double taxation. </P>
+<P> Kovacs is planned to sign the two agreements with his Slovak counterpart, Eduard Kukan, during the one-day visit, a Slovak foreign affairs spokewoman said on Thursday. </P>
+<P> Horn will meet Slovak Prime Minister Jozef Moravcik. </P>
+<P> Officials at the Slovak Foreign Affairs Ministry said a third agreement, enabling either country to return illegal aliens across their common border, may also be signed. </P>
+</TEXT>
+</DOC>

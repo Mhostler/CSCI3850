@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU001-0178.950201</DOCID>
+<TDTID>TDT009985</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/01/95 15:51</DATE>
+<TITLE> New cuts likely for Atlantic fishing</TITLE>
+<HEADLINE> New cuts likely for Atlantic fishing</HEADLINE>
+<SUBJECT> BC-FISHING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORTLAND, Maine (Reuter) </DATELINE>
+<P>  A report warning of the collapse of fish stocks off the coast of Maine has prompted regulators to consider to new catch restrictions, an official said Wednesday. </P>
+<P> The report to the New England Fisheries Management Council recommends that the annual catch of cod in area of the Atlantic Ocean between Maine and Nova Scotia be immediately cut by 60 to 80 percent, the council's spokeswoman, Patricia Fiorelli, said. </P>
+<P> The recommended restrictions could reduce annual landings of cod from the U.S. side of the Gulf of Maine from its current level of 18 million pounds to 3.4 million pounds, according to fisheries officials. </P>
+<P> Both U.S. and Canadian regulators have already imposed restrictions on Gulf of Maine fishermen, but scientists contend that the measures are not sufficient to allow cod stocks to recover from years of overfishing. </P>
+<P> The fishing industry has warned that drastically restricting fishing in the area will threaten the jobs of an estimated 1,700 Maine residents who work on fishing boats and many others in supporting businesses. </P>
+<P> The New England Fisheries Management Council, which regulates commercial fishing in the region, will likely consider new restrictions when it meets later this month, Fiorelli said. </P>
+<P> The council last year approved the emergency closure of three areas of the Georges Bank -- once one of the richest fishing grounds in the north Atlantic -- and is expected to order a complete ban on fishing in that area southeast of the Gulf of Maine later this year. </P>
+<P> Scientists warned that without tougher new fishing restrictions, the cod stocks in the Gulf of Maine will soon join the depleted status of those in the Georges Bank. </P>
+</TEXT>
+</DOC>

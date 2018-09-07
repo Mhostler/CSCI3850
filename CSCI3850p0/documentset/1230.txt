@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0158.940908</DOCID>
+<TDTID>TDT003062</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/08/94 19:57</DATE>
+<TITLE> 737 crashes near Pittsburgh</TITLE>
+<HEADLINE> 737 crashes near Pittsburgh</HEADLINE>
+<SUBJECT> BC-USA-CRASH-REPORT 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds details)</NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A USAir Boeing 737 crashed after taking off from Pittsburgh International Airport Thursday evening, a local Pittsburgh television station reported. </P>
+<P> KDKA television, quoted by CNN, said the plane which according to first reports had up to 130 people aboard, came down near Hopeville outside of Pittsburgh. </P>
+<P> There was no immediate report on casualties. </P>
+<P> Another television station, WNBC in New York, quoted eyewitnesses as saying pieces of the plane and baggage were scattered throughout the wooded area of the crash site. </P>
+<P> Rescue teams were on the way to the scene and the television station appealed to people to keap clear of the area, KDKA said. </P>
+</TEXT>
+</DOC>

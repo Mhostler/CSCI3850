@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU002-0407.950404</DOCID>
+<TDTID>TDT012098</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 12:14</DATE>
+<TITLE> France accuses Russia of breaking Chechen promises</TITLE>
+<HEADLINE> France accuses Russia of breaking Chechen promises</HEADLINE>
+<SUBJECT> BC-EUROPE-RUSSIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>STRASBOURG, France (Reuter) </DATELINE>
+<P>  France accused Russia Tuesday of backsliding on promises to end the bloodshed in the breakaway republic of Chechnya, allow Western observers into the region and unblock humanitarian aid. </P>
+<P> ``Unfortunately, they have not respected ... commitments,'' French European Affairs Minister Alain Lamassoure told the European Parliament. </P>
+<P> During a visit to Moscow last month foreign ministers representing the European Union's immediate past, present and future presidencies -- Germany, France and Spain -- were promised that the killing would end quickly and the Organization for Security and Co-operation in Europe could open an office. </P>
+<P> They were also told humanitarian aid would be allowed into the region and efforts would be made to find a political solution. </P>
+<P> ``Russia made undertakings on each of these four points,'' Lamassoure said. </P>
+<P> But optimism fueled by these promises had been dampened by subsequent failure to keep those promises, he added. </P>
+<P> The EU has frozen an interim trade agreement with Russia in protest against the military intervention in Chechnya. EU foreign ministers are due to review the decision at their April 10 meeting in Luxembourg. </P>
+</TEXT>
+</DOC>

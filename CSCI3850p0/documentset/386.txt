@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0130.940725</DOCID>
+<TDTID>TDT001000</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/25/94 10:13</DATE>
+<TITLE> RABIN, HUSSEIN SHAKE HANDS TO END HOSTILITY</TITLE>
+<HEADLINE> RABIN, HUSSEIN SHAKE HANDS TO END HOSTILITY</HEADLINE>
+<SUBJECT> BC-MIDEAST-SUMMIT-HANDSHAKE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The leaders of Israel and Jordan shook hands Monday at the White House, ending nearly a half-century of antagonism and signalling their intent to make a formal peace. </P>
+<P> Israeli Prime Minister Yitzhak Rabin and Jordan's King Hussein grasped hands enthusiastically at the start of a Rose Garden ceremony welcoming them to the White House as a beaming President Clinton looked on. </P>
+</TEXT>
+</DOC>

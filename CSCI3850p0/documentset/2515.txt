@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0096.941109</DOCID>
+<TDTID>TDT006299</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/09/94 16:02</DATE>
+<TITLE> Judge blocks school expulsions of illegal immigrants</TITLE>
+<HEADLINE> Judge blocks school expulsions of illegal immigrants</HEADLINE>
+<SUBJECT> BC-ELECTION-CALIFORNIA-IMMIGRATION URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  A judge Wednesday temporarily blocked enforcement of a provision of California's voter-approved anti-immigration inititiative that would have denied public education to illegal aliens and their children. </P>
+<P> In a ruling in state court, Judge Stuart Pollack issued a temporary restraining order against the education component of Proposition 187, saying ``there are serious legal questions here that need to be resolved.'' </P>
+</TEXT>
+</DOC>

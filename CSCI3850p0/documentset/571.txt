@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0090.940803</DOCID>
+<TDTID>TDT001395</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 11:37</DATE>
+<TITLE> DEMOCRATS TO HOLD '96 CONVENTION IN ``WINDY CITY''</TITLE>
+<HEADLINE> DEMOCRATS TO HOLD '96 CONVENTION IN ``WINDY CITY''</HEADLINE>
+<SUBJECT> BC-USA-DEMOCRATS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Democrats will announce Thursday that they plan to hold their 1996 presidential nominating convention in Chicago, a party spokesman said Wednesday. </P>
+<P> Democratic National Chairman David Wilhelm and Chicago Mayor Richard Daley were to put the official stamp on a widely predicted decision at a news conference in Chicago Thursday morning, party spokesman Joe Wagner said. </P>
+<P> The decision will return the Democrats to the ``Windy City'' on Lake Michigan for the first time since a turbulent 1968 convention disrupted by violent, teargas-clouded clashes between police and hordes of anti-Vietnam war protesters and anti-establishment youths who dubbed themselves ``Yippies.'' </P>
+<P> The current mayor's father, the late Richard J. Daley, was seen by nationwide television audiences defending the police crackdown amid riots that remain one of the most vivid episodes of the social upheavals of the 1960s. </P>
+<P> The Republicans, expected to hold their convention slightly earlier in the tradition that the party not in the White House goes first, have not yet announced their choice of convention sites. </P>
+</TEXT>
+</DOC>

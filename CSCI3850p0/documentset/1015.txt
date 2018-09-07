@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0302.940826</DOCID>
+<TDTID>TDT002522</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/26/94 19:16</DATE>
+<TITLE> FARMERS COOL OFF HEAT-STRESSED COWS IN SALVADOR</TITLE>
+<HEADLINE> FARMERS COOL OFF HEAT-STRESSED COWS IN SALVADOR</HEADLINE>
+<SUBJECT> BC-SALVADOR-COWS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN SALVADOR (Reuter) </DATELINE>
+<P>  On the advice of Israeli animal experts, Salvadoran farmers have taken to bathing their cows and installing fans in their sheds to cool them down and increase their milk production. </P>
+<P> ``Heat stress is manifested by an increase in the cow's body temperature and in its respiratory rhythm,'' veterinarian Israel Flamenbaum told local newspapers. </P>
+<P> He and other advisers who have come to El Salvador from Israel said the high summer temperatures common to both countries can reduce milk production by up to 20 percent. </P>
+<P> ``These recommendations are absolutely correct and they're giving us good results,'' Carlos Barahona, director of the Milk Producers Association of El Salvador (PROLECHE), told Reuters. </P>
+<P> According to PROLECHE figures, there are 820,000 cows in El Salvador. </P>
+</TEXT>
+</DOC>

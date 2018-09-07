@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU008-0005.941216</DOCID>
+<TDTID>TDT008062</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/16/94 11:16</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-DRUGS-PROBE-USA -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> U.S. officials lauded the work of counterparts in Italy, Spain, Canada and Britain, and said they were ready to use the same kind of border-spanning tactics, including use of a bank as a front, to catch more criminals. </P>
+<P> Thomas Constantine, head of the U.S. Drug Enforcement Agency, estimateded $200 million was laundered through a bank in the British West Indies that was used by investigators to gather information about where drug money came from and how it was spent. </P>
+<P> The investigation began when DEA agents were ``hired'' by Colombian traffickers to run money pickups in the United States. The investigation also showed the Italian crime organization of Pasquale Locatelli was transporting Colombian cocaine to Europe. </P>
+</TEXT>
+</DOC>

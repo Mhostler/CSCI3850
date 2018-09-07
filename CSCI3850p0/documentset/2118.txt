@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU009-0384.941019</DOCID>
+<TDTID>TDT005309</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/19/94 18:22</DATE>
+<TITLE> Simpson lawyer asks for delay in trial</TITLE>
+<HEADLINE> Simpson lawyer asks for delay in trial</HEADLINE>
+<SUBJECT> BC-SIMPSON-DELAY URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  O.J. Simpson's lead defense attorney, Robert Shapiro, Wednesday asked a judge for up to a year's delay in his client's double murder trial because of the massive publicity surrounding the case, and said his client should be freed on bail. </P>
+</TEXT>
+</DOC>

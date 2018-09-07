@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0435.950117</DOCID>
+<TDTID>TDT009421</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/17/95 18:52</DATE>
+<TITLE> Simpson story of year in U.S. but not elsewhere</TITLE>
+<HEADLINE> Simpson story of year in U.S. but not elsewhere</HEADLINE>
+<SUBJECT> BC-SIMPSON-PRESS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  U.S. news executives voted the arrest and trial of O.J. Simpson as the top story of 1994, but in a poll of overseas editors the saga went unnoticed, the World Press Review said Tuesday. </P>
+<P> The monthly digest of news and commentary said the four stories most mentioned by international journalists in their top 10 were the election of Nelson Mandela as President of South Africa, the failure of peacekeeping efforts in Bosnia-Herzegovina, the Middle East peace process and civil war in Rwanda. </P>
+<P> Hundreds of U.S. news executives polled by The Associated Press said charges that American football great O.J. Simpson murdered his ex-wife and her friend Ronald Goldman was the number one story of the year, followed by the U.S. midterm elections and disputes between players and owners of baseball and ice hockey teams. </P>
+<P> Three international stories -- U.S. intervention in Haiti, the civil war in Rwanda and Palestinians replacing Israeli occupiers in the Gaza Strip and Jericho -- were mentioned by the U.S. executives among the 10. </P>
+<P> The World Press Review said that the editors, whose top 10 choices will be published in the February edition, work either in the Third World or for publications that specialize in covering the Third World. </P>
+</TEXT>
+</DOC>

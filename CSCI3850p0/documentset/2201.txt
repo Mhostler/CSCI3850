@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU011-0359.941024</DOCID>
+<TDTID>TDT005520</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/24/94 17:18</DATE>
+<TITLE> Canada govt says it never spied on its citizens</TITLE>
+<HEADLINE> Canada govt says it never spied on its citizens</HEADLINE>
+<SUBJECT> BC-CANADA-SPY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OTTAWA (Reuter) </DATELINE>
+<P>  Canada's ruling Liberal party again rejected allegations Monday the nation's military spy agency spied on its own citizens. </P>
+<P> ``There is no smoking gun. The prime minister has repeated that the position of this government is that the (spy agency) has no legal right to spy on any Canadians, including legitimate political parties,'' Deputy Prime Minister Sheila Copps said in Parliament Monday. </P>
+<P> The government has been under constant attack by separatist politicians from French-speaking Quebec since late last week, when a new book alleged Canada's Communications Security Establishment (CSE) tapped into communications between France and separatist politicians in Quebec in the 1970s and 1980s. </P>
+<P> The allegations are contained in a book called ``Spyworld,'' written by one-time CSE officer Mike Frost and by Michel Gratton, a former press secretary to ex-Prime Minister Brian Mulroney. </P>
+<P> The official opposition party in Parliament, the Bloc Quebecois, has been relentless in pressing the Liberal government to say whether the spy agency spied on Quebec politicians who favor taking the province out of Canada. </P>
+<P> The Quebec government, headed by a separatist party, has started an investigation into the allegations. </P>
+<P> Former communications officer Frost left the CSE in 1990 after working for 19 years with the top-secret organization. </P>
+<P> The Communications Security Establishment is controlled by the nation's Department of Defense. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0103.941105</DOCID>
+<TDTID>TDT006115</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/05/94 16:37</DATE>
+<TITLE> Tikkanen scores upset in Breeders' Cup Turf</TITLE>
+<HEADLINE> Tikkanen scores upset in Breeders' Cup Turf</HEADLINE>
+<SUBJECT> BC-BREEDERS-TURF </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOUISVILLE, Ky (Reuter) </DATELINE>
+<P>  Tikkanen, a 16-1 longshot, won the $2 million Breeders' Cup Turf at Churchill Downs Saturday. </P>
+<P> Hatoof was second and Paradise Creek finished third. </P>
+</TEXT>
+</DOC>

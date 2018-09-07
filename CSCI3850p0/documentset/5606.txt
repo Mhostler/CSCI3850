@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0418.950409</DOCID>
+<TDTID>TDT012346</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/09/95 07:55</DATE>
+<TITLE> Tiny Liechtenstein votes to join Euro-market</TITLE>
+<HEADLINE> Tiny Liechtenstein votes to join Euro-market</HEADLINE>
+<SUBJECT> BC-EUROPE-LIECHTENSTEIN-EEA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VADUZ, Liechtenstein, April 9 (Reuter) </DATELINE>
+<P>  The tiny Alpine principality of Liechtenstein said ``yes'' in a weekend referendum to joining the huge European Economic Area (EEA), according to the preliminary offical result on Sunday. </P>
+<P> Official tallies from all 11 districts showed 55.9 percent of voters supported joining the free trade bloc stretching from the Arctic to the Mediterranean on May 1. </P>
+</TEXT>
+</DOC>

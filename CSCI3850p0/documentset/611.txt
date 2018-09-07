@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU002-0456.940804</DOCID>
+<TDTID>TDT001490</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/04/94 20:30</DATE>
+<TITLE> COLOMBIA POLICE SEIZE 3 TONS OF COCAINE IN JUNGLE</TITLE>
+<HEADLINE> COLOMBIA POLICE SEIZE 3 TONS OF COCAINE IN JUNGLE</HEADLINE>
+<SUBJECT> BC-DRUGS-COLOMBIA-SEIZURE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOGOTA, Colombia (Reuter) </DATELINE>
+<P>  Anti-narcotics police said Thursday they had seized three tons of high purity cocaine after a raid on an airstrip in the country's jungle-covered eastern plains. </P>
+<P> Colonel Jose Leonardo Gallego, commander of the anti-drug police, told Reuters the drugs were found during a joint search and destroy operation with the air force near the town of Venturosa on the remote and sparsely populated border with Venezuela, 300 miles northeast of Bogota. </P>
+<P> A police report said planes belonging to various groups of traffickers brought cocaine to the drop-off point from production centers in southern Colombia, Peru and Ecuador. It was stored there awaiting distribution abroad. </P>
+<P> Colombia is the world's biggest exporter of cocaine, shipping between 700 and 1,000 tons a year, mostly to the United States and Europe. </P>
+</TEXT>
+</DOC>

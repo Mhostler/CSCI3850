@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU001-0260.941202</DOCID>
+<TDTID>TDT007357</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/02/94 06:13</DATE>
+<TITLE> NATO says still enforcing Bosnia no-fly zone</TITLE>
+<HEADLINE> NATO says still enforcing Bosnia no-fly zone</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-ZONE-NATO URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NAPLES, Italy (Reuter) </DATELINE>
+<P>  NATO said Friday it was continuing to enforce the United Nations no-fly zone over Bosnia, denying a report from Sarajevo that quoted a U.N. spokesman as saying cover had ceased. </P>
+</TEXT>
+</DOC>

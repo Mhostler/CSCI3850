@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0364.950512</DOCID>
+<TDTID>TDT013726</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/12/95 11:01</DATE>
+<TITLE> Iran says Uzbek foreign minister visit canceled</TITLE>
+<HEADLINE> Iran says Uzbek foreign minister visit canceled</HEADLINE>
+<SUBJECT> BC-IRAN-UZBEKISTAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA, Cyprus (Reuter) </DATELINE>
+<P>  A visit to Tehran by the foreign minister of Uzbekistan, the only Central Asian state to have backed a U.S. embargo against Iran, has been called off, the Iranian IRNA news agency said Friday. </P>
+<P> It quoted an Iranian Foreign Ministry spokesman as saying the visit by Uzbek Foreign Minister Abdulaziz Komoliv, which was due to take place Friday, had been canceled. </P>
+<P> IRNA added: ``Iran-Uzbekistan relations became strained following comments made by Uzbek President Islam Karimov on economic sanctions imposed (by the United States) on Iran.'' </P>
+<P> Uzbek President Islam Karimov said May 4, ``We know the reasons for the embargo and we support them.'' </P>
+<P> IRNA Thursday quoted the Uzbek ambassador in Iran as denying his country supported the U. S. embargo. </P>
+</TEXT>
+</DOC>

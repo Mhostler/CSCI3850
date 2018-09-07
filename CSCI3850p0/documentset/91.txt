@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0272.940706</DOCID>
+<TDTID>TDT000204</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/06/94 10:20</DATE>
+<TITLE> RUSSIAN PARLIAMENT BLASTS LATVIAN CITIZENSHIP LAW</TITLE>
+<HEADLINE> RUSSIAN PARLIAMENT BLASTS LATVIAN CITIZENSHIP LAW</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-LATVIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  The Russian parliament Wednesday voted overwhelmingly to demand that Latvia reconsider its new citizenship law, saying its preservation would ``foment aggressive nationalism'' in the Baltic state. </P>
+<P> ``The law, which affects the destiny of hundreds of thousands of people, contains a number of articles unacceptable to civilized states which infringe the rights of national minorities, above all Russian-speakers in Latvia,'' said the resolution passed by the State Duma (lower house). </P>
+<P> The resolution was approved by 249 deputies with only one vote against. The voting took place as President Clinton visited the Latvian capital, Riga. </P>
+<P> The controversial Latvian law, effectively denying many local Russians a chance of citizenship, has enraged Moscow. President Boris Yeltsin told Clinton by telephone Tuesday that the timing of Russian troop withdrawals from the Baltics would be linked to the rights of ethnic Russians there. </P>
+<P> But Clinton, the first U.S. leader to visit the former Soviet Baltic republics, said he was confident Russia would withdraw its troops from the region on time and rejected Moscow's attempt to place conditions on the pull-out. </P>
+<P> Latvian President Guntis Ulmanis last week sent the controversial law back to parliament for redrafting. </P>
+</TEXT>
+</DOC>

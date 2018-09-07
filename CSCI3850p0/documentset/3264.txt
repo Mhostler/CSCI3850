@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0420.941216</DOCID>
+<TDTID>TDT008059</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/16/94 09:15</DATE>
+<TITLE> Mitterrand quoted saying he has six months to live</TITLE>
+<HEADLINE> Mitterrand quoted saying he has six months to live</HEADLINE>
+<SUBJECT> BC-FRANCE-MITTERRAND </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  A French philosopher said Friday that President Francois Mitterrand, suffering from prostate cancer, confided to him last month that doctors estimated he had no more than six months to live. </P>
+<P> Jean Guitton, 93, said Mitterrand, due to step down as president in May after 14 years in power, visited him at his Paris home Nov. 17 to discuss the afterlife. </P>
+<P> In an interview with RMC radio, Guitton quoted Mitterrand as telling him: ``I have a fatal illness, and the doctors looking after me, in particular my main doctor, say that I cannot live more than six months.'' </P>
+<P> Socialist Mitterrand, 78, has said that he wants to serve out his term despite painful treatment for cancer, but has not publicly disclosed when doctors fear he might die. </P>
+<P> The Elysee presidential palace had no comment on Guitton's remarks. </P>
+<P> Mitterrand has cut back on his public appearances and has appeared increasingly gaunt after a second operation, during the summer, for prostate cancer. Friday, he met Italian Prime Minister Silvio Berlusconi in the southern French town of Aix-en-Provence. </P>
+</TEXT>
+</DOC>

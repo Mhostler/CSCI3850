@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU004-0069.940808</DOCID>
+<TDTID>TDT001611</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/08/94 05:37</DATE>
+<TITLE> $5.6 MILLION OF STOCK CERTIFICATES STOLEN IN JAPAN</TITLE>
+<HEADLINE> $5.6 MILLION OF STOCK CERTIFICATES STOLEN IN JAPAN</HEADLINE>
+<SUBJECT> BC-JAPAN-ROBBERY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Stock certificates with a market value of $5.56 million were stolen from a delivery van in central Japan late last month, police revealed Monday. </P>
+<P> A police spokesman said they were taken from a parked delivery van in Hikone, Shiga prefecture, on the evening of July 26. He said news of the theft had been witheld to expedite investigations, which were continuing. </P>
+<P> The certificates, left in a yellow plastic bag in the back of the unlocked van, were found missing after the driver returned from making a quick parcel collection. </P>
+<P> Japan Securities Agents, the firm entrusted with the securities, said the bag contained 115,500 stock certificates collected from various client securities companies in the area. </P>
+<P> ``Although it's shocking that such incidents can happen so easily, we were saved from actual losses by insurance on the certificates,'' a Japan Securities spokesman said. </P>
+<P> So far none of the stolen stock certificates has been recovered or exchanged. </P>
+<P> Last week, in nearby Kobe prefecture, two gunmen robbed a bank delivery truck of $5.41 million in the country's biggest ever cash theft. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU012-0101.941025</DOCID>
+<TDTID>TDT005572</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/25/94 18:28</DATE>
+<TITLE> Baseball-Royals' David Cone wins American League Cy Young Award</TITLE>
+<HEADLINE> Baseball-Royals' David Cone wins American League Cy Young Award</HEADLINE>
+<SUBJECT> BC-BASEBALL-CY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  David Cone of the Kansas City Royals was named the winner of the American League Cy Young Award Tuesday. </P>
+<P> Cone, who was 16-5 with a 2.93 earned run average in 23 games, narrowly edged out Jimmy Key of the New York Yankees in balloting by a panel of the Baseball Writers Association of America. </P>
+<P> Cone received 15 first-place votes, 10 second-place votes and 108 points overall from the 28-member panel which included two writers from each league city. </P>
+<P> Key had 10 first-place votes, 14 second-place votes and 96 total points. </P>
+<P> Randy Johnson of the Seattle Mariners was a distant third with two first-place votes and 24 points. </P>
+<P> Cone won his first Cy Young Award despite the fact that he did not lead the league in any major category. Key led the league in victories with his 17-4 mark and compiled a 3.27 ERA in 24 games. </P>
+<P> Johnson led the A.L. in strikeouts with 204 and finished with a 13-6 record. Johnson also led the league with nine complete games and four shutouts. </P>
+<P> Cone is only the second Kansas City pitcher to win the award. Bret Saberhagen won in 1985 and 1989. </P>
+<P> Cone was third in the league in ERA behind Oakland's Steve Ontiveros and Boston's Roger Clemens. After opening the season with a loss, Cone reeled off eight straight victories. His record slipped to 10-4 before he posted wins in six of his last seven decisions. </P>
+<P> Key topped Cone's streak by winning 11 straight decisions after starting the year at 1-1. </P>
+<P> Mike Mussina of the Baltimore Orioles was fourth in the voting with one first-place vote and 23 points. Orioles reliever Lee Smith was the only other pitcher to receive a vote. He was fifth with one point. </P>
+<P> Five points were awarded for first-place votes, three for second and one for third. </P>
+<P> Atlanta's Greg Maddux was named the National League's Cy Young Award winner on Monday for an unprecedented third successive season. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU004-0156.950207</DOCID>
+<TDTID>TDT010204</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 19:48</DATE>
+<TITLE> NFL-49ers name Marc Trestman offensive coordinator</TITLE>
+<HEADLINE> NFL-49ers name Marc Trestman offensive coordinator</HEADLINE>
+<SUBJECT> BC-NFL-49ERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  Marc Trestman was named offensive coordinator of the Super Bowl champion San Francisco 49ers Tuesday, replacing Mike Shanahan, who became head coach of the Denver Broncos last week. </P>
+<P> Trestman is a former assistant coach for the Minnesota Vikings, Cleveland Browns and Tampa Bay Buccaneers. He has been out of football the last three years while practicing law. </P>
+<P> Trestman takes over the most prolific offense in the National Football League. The 49ers scored a league-high 505 points in the regular season and added 135 points in three post-season games, including a 49-26 rout of the San Diego Chargers in Super Bowl 29. </P>
+<P> The Niners named former New York Jets coach Pete Carroll as their defensive coordinator last week. He replaced Ray Rhodes, who became head coach of the Philadelphia Eagles. </P>
+</TEXT>
+</DOC>

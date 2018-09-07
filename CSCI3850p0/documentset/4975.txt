@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU008-0326.950316</DOCID>
+<TDTID>TDT011353</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/16/95 18:45</DATE>
+<TITLE> Rocks on Earth linked to Mars</TITLE>
+<HEADLINE> Rocks on Earth linked to Mars</HEADLINE>
+<SUBJECT> BC-SCIENCE-MARS </SUBJECT>
+<AUTHOR>     By Joanne Kenen </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON, March 16 (Reuter) </DATELINE>
+<P>  Scientists said Thursday they have been able to peer through the veil of dust on Mars and find convincing evidence that meteorites on Earth came from the Red Planet. </P>
+<P> ``The evidence has been building for years,'' said Brown University geologist John Mustard. ``But this clinches it.'' </P>
+<P> Mustard and Jessica Sunshine, a planetary geologist from the Massachusetts Institute of Technology, used cutting edge analytical techniques to that allowed them to see beneath the layer of iron-rich dust and learn about the geology of Mars. </P>
+<P> Using high resolution imaging spectrometer data from a satellite they were able to study about 10 percent of Mars' surface, either by finding portions that were not blanketed by the dust or by figuring out how to in effect filter out the dusty shroud and see what lies beneath it. </P>
+<P> Their work means that scientists on Earth studying the rocks, known as SNC meteorites, can be confident not only that they are from Mars but that they are representative of large parts of the Martian terrain. </P>
+<P> ``We were able to show that this rock has compositional similarities to large regions of Mars,'' Sunshine said. ``We can look at SNC meteorites and be convinced ... that we have an overall sense of what Mars is like.'' </P>
+<P> Mars has volcanic planes and canyons, and both are different than volcanoes on Earth, except for volcanoes dating from very early in Earth's history. </P>
+<P> For the past 15 years or so, scientists have suspected that about a dozen SNC rocks, no bigger than a telephone and found from Saudi Arabia to Antarctica, came from Mars. </P>
+<P> The theory is that a meteor crashed into Mars, with an impact as powerful as the one many scientists suspect wiped out dinosaurs on Earth, Mustard said in a telephone interview. </P>
+<P> As it crashed, the meteor created a crater, breaking off pieces of Mars' crust and hurling them into space. Ten or 15 million years later, they landed on Earth. </P>
+<P> Studying the SNC meteors, astronomers and geographers had come up with several pieces of evidence -- including the age of the rocks and the bits of trapped gas that matched samples found on Mars by the Viking landings -- that shored up the theory that they came from Mars. </P>
+<P> But Sunshine and Mustard were able to study the crust of Mars, and were able to determine its minerology. They found regions of volcanic terrain with both high and low calcium pyroxene. Pyroxene is a silicate material in volcanic rock that contains iron, magnesium and calcium. </P>
+</TEXT>
+</DOC>

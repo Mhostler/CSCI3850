@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU004-0379.950111</DOCID>
+<TDTID>TDT009171</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/11/95 06:14</DATE>
+<TITLE> Explosions rock main Angolan air base</TITLE>
+<HEADLINE> Explosions rock main Angolan air base</HEADLINE>
+<SUBJECT> BC-ANGOLA-EXPLOSION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LUANDA, Angola (Reuter) </DATELINE>
+<P>  Angola's main air base, Catumbela, was rocked by several explosions Tuesday night, a government source said Wednesday. </P>
+<P> ``There was a huge fire and we could hear explosions all night. Everyone could hear it in Benguela,'' he said by telephone from the western coastal city of Benguela. </P>
+<P> The cause of the explosions was not immediately known. </P>
+<P> Catumbela is 20 miles north of Benguela and most of Angola's estimated 130 operational MiG and Sukhoi fighter aircraft were based there, the source said. </P>
+<P> But he quoted firefighters as saying they believed none of the aircraft had been damaged in the explosions. </P>
+<P> ``The firemen were working all through the night and it seems to be under control now,'' he said Wednesday morning. </P>
+<P> An Antonov transport aircraft landed at Catumbela Tuesday evening and the explosions started soon afterwards, he said. </P>
+<P> The aircraft based in Catumbela were used in bombing raids against UNITA rebel positions before the signing of a ceasefire between the Angolan government and UNITA two months ago halting nearly 20 years of civil war. </P>
+</TEXT>
+</DOC>

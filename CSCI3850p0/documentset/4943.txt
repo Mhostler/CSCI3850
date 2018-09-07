@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0055.950315</DOCID>
+<TDTID>TDT011311</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/15/95 15:20</DATE>
+<TITLE> Yugoslav army officers spied for Croatia - Tanjug</TITLE>
+<HEADLINE> Yugoslav army officers spied for Croatia - Tanjug</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-SPIES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELGRADE, Yugoslavia (Reuter) </DATELINE>
+<P>  The Yugoslav army has arrested three of its officers on charges of spying for Croatia, the official Tanjug news agency said Wednesday. </P>
+<P> Tanjug named the three as Enver Cavkusic, a captain, and Zoltan Kovac and Benjamin Zuban, both lieutenants, and said they were being interrogated after their arrests Saturday. </P>
+<P> Croatia fought a war for independence from Yugoslavia in 1991 against Serb rebels within its borders who were backed by the Yugoslav federal army. </P>
+<P> Although relations between Belgrade and Zagreb have thawed, Yugoslavia, comprising Serbia and Montenegro, refuses to recognize Croatia until a deal is worked out to safeguard the rebel Serb minority who control a third of Croatia. </P>
+</TEXT>
+</DOC>

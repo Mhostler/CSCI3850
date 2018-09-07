@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0171.950501</DOCID>
+<TDTID>TDT013314</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 14:24</DATE>
+<TITLE> Spain's answer to Disneyland opens near Barcelona</TITLE>
+<HEADLINE> Spain's answer to Disneyland opens near Barcelona</HEADLINE>
+<SUBJECT> BC-SPAIN-PARK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BARCELONA, Spain (Reuter) </DATELINE>
+<P>  Port Aventura, Spain's answer to Disneyland Paris, was opened formally in Salou, near Barcelona Monday with fanfare and fireworks. </P>
+<P> The 288-acre theme park was based on a successful formula developed by minority shareholder Anheuser Busch over many years in various theme parks in the United States. </P>
+<P> Port Aventura is positioning itself to compete with Disney, which turned down an offer by the government of the sunny Catalonia region in the mid-1980s in favor of chillier Paris. </P>
+<P> Some 5,000 invited guests came to the official opening and officials hope that an average of three million tourists would visit Port Aventura every year. </P>
+<P> The first response from tour operators in Europe seemed positive -- over 350,000 bookings have been made already for this season which runs through to the end of October. </P>
+</TEXT>
+</DOC>

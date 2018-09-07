@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0285.950112</DOCID>
+<TDTID>TDT009231</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/12/95 15:18</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-HAITI-DEATH -2 </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The soldier, whose name was not being immediately released, was the first to be killed since U.S. troops began their occupation of Haiti in September. </P>
+<P> The military said the Third Special Forces Group soldiers were observing toll booth operations when a white Ford pickup truck with two passengers stopped at the booth. The passengers refused to pay the toll. </P>
+<P> The soldiers asked both the driver and passenger to exit the vehicle, and one soldier approached the driver's side of the truck while the other one approached on the passenger's side. </P>
+<P> The driver got out of the vehicle brandishing a weapon, and shot one soldier in the chest and the other in the arm, prompting the exchange of gunfire. </P>
+<P> The soldier on the passenger's side returned fire killing the passenger and detaining the driver until additional troops were called to the site. </P>
+</TEXT>
+</DOC>

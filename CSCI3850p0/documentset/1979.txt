@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU006-0323.941012</DOCID>
+<TDTID>TDT004941</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/12/94 20:37</DATE>
+<TITLE> French ex-minister detained in graft probe</TITLE>
+<HEADLINE> French ex-minister detained in graft probe</HEADLINE>
+<SUBJECT> BC-FRANCE-CARIGNON 1STLD </SUBJECT>
+<AUTHOR>     By Jean Forget </AUTHOR>
+<TEXT>
+<NOTES>(Eds: updates, including Carignon's imprisonment)</NOTES>
+<DATELINE>LYON, France (Reuter) </DATELINE>
+<P>  Former French Communications Minister Alain Carignon was in prison Thursday as political corruption probes continued to spread, hurting the popularity of conservative Prime Minister Edouard Balladur. </P>
+<P> Carignon's lawyers said investigating magistrate Philippe Courroye had ordered him detained and formally investigated for ``passive corruption.'' </P>
+<P> ``It was a shock. The facts do not justify such a step,'' Carignon's lawyer Guy Danet told reporters after spending more than four hours with his client in the judge's office in Lyon. </P>
+<P> Police had earlier taken Carignon, the 45-year-old mayor of the Alpine city of Grenoble, from his Paris home to Lyon for questioning on suspicion that he accepted generous favors from public works companies. </P>
+<P> The newspaper Le Monde reported that he had received more than $3.8 million in gifts linked to contracts obtained by private companies, including the privatization of Grenoble's water services. </P>
+<P> The gifts were said to include the use of an apartment, language lessons and various benefits. </P>
+<P> Jean-Louis Dutaret, who resigned last month as chairman of the SOFIRAD state broadcasting holding, was questioned together with Carignon, detained and formally placed under investigation as an accomplice to passive corruption. </P>
+<P> Carignon, who as a minister was in charge of the media, resigned in July in a separate inquiry, also affecting Dutaret, into the costly bailout of his campaign newspaper Dauphine News by public works firms. </P>
+<P> It was only the third time that a minister had quit for such reasons in France's 36-year-old Fifth Republic. The new probe was a further blow to Balladur's center-right government. </P>
+<P> Industry Minister Gerard Longuet is under pressure to resign over an investigation into the financing of his holiday villa in Saint-Tropez and into the funding of his Republican Party. </P>
+<P> The inquiry into the Republicans, key allies of Balladur in his widely predicted presidential bid next year, could also affect two other ministers. </P>
+<P> Opinion polls published Thursday showed Balladur's popularity had plunged over the past month, narrowing his lead in the undeclared race for next April's presidential elections. </P>
+<P> A survey in the weekly L'Express said 51 percent of voters approved of his work as prime minister, a sharp drop from 63 percent last month and his lowest rating since May. </P>
+<P> Balladur sought to soften the impact of recent scandals by proposing an all-party meeting of senior politicians to study new steps to combat corruption. </P>
+<P> He said the measures should aim at putting a ceiling on campaign spending and checking the finances of elected officials every year. </P>
+</TEXT>
+</DOC>

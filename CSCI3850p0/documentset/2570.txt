@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU006-0208.941112</DOCID>
+<TDTID>TDT006434</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/12/94 22:46</DATE>
+<TITLE> Orlin Norris retains WBA cruiserweight title</TITLE>
+<HEADLINE> Orlin Norris retains WBA cruiserweight title</HEADLINE>
+<SUBJECT> BC-BOXING-CRUISER RESULT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Orlin Norris retained his World Boxing Association cruiserweight title on Saturday when he knocked out James Heath at two minutes 46 seconds of the second round of their scheduled 12-round bout. </P>
+</TEXT>
+</DOC>

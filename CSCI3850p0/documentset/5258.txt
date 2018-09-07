@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU015-0016.950328</DOCID>
+<TDTID>TDT011818</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/28/95 04:52</DATE>
+<TITLE> China to launch commercial Internet access</TITLE>
+<HEADLINE> China to launch commercial Internet access</HEADLINE>
+<SUBJECT> BC-CHINA-INTERNET </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING, March 28 (Reuter) </DATELINE>
+<P>  A communications network being launched in April will give China its first commercial access to the global Internet, Xinhua news agency said on Tuesday. </P>
+<P> China Internet, now undergoing testing by the Ministry of Posts and Telecommunications, will include links to the growing global web of computer networks known as the Internet, the official news agency said. </P>
+<P> Calling the system ``the embryo of the future information superhighway,'' Xinhua said China Internet would enable users to exchange data with global Internet users and afford access to all Internet information resources. </P>
+<P> No price schedules have been announced, but a China Internet official told Reuters the service would be ``a lot cheaper'' to use than China's public packet-switching network Chinapac. </P>
+<P> China Internet will be expanded after its April launch to make it a ``backbone information network'' for China's national economic development, Xinhua quoted an official as saying. </P>
+<P> Xinhua did not say if ordinary citizens could subscribe to China Internet, which would afford them access to a wide swath of information -- including pornography and the activities of ``counterrevolutionary'' Chinese dissidents overseas. </P>
+<P> China Internet is the latest of several systems offering worldwide Internet access in China, although the others are non-commercial links operated by universities and research laboratories. </P>
+<P> The most ambitious, the China Education and Research Network, eventually will link more than 1,000 universities and weave them into the global Internet. </P>
+<P> The new commercial system is based on two systems developed by the Beijing Telegraph Administration in recent years -- Chinapac and the China Public Data and Digital Network (ChinaDDN). </P>
+<P> Chinapac has brought relatively advanced digital communications to nearly 700 Chinese cities, while ChinaDDN is available in nearly 300 cities. </P>
+<P> Chinapac has been prohibitively expensive for some users, especially those exchanging data overseas, because access is billed by both duration of connect time and the quantity of data transmitted or received. </P>
+</TEXT>
+</DOC>

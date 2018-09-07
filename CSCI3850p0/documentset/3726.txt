@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU005-0194.950112</DOCID>
+<TDTID>TDT009219</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/12/95 08:28</DATE>
+<TITLE> Bottle feeding may not be linked to crib death</TITLE>
+<HEADLINE> Bottle feeding may not be linked to crib death</HEADLINE>
+<SUBJECT> BC-HEALTH-INFANTS (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Release at 7 p.m. EST)</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Fears that bottle-fed babies run a higher risk of crib death may be unfounded, British researchers said Friday. </P>
+<P> After interviewing parents of 100 infants who died of crib death -- or sudden infant death syndrome -- from 1987-91 and of 200 healthy babies of a similar age, they found that more babies who died had been bottle-fed. </P>
+<P> But Peter Fleming and colleages at St. Michael's Hospital in Bristol, England, said in a report in the British Medical Journal that external factors could have accounted for the higher death rate. </P>
+<P> ``Bottle-fed babies are more likely to have mothers who smoke, to be born preterm, and to come from poorer families, factors which are in themselves linked with the sudden infant death syndrome,'' the report said. </P>
+<P> ``Being fully bottle-fed is not a significant independent risk factor for the sudden infant death syndrome,'' it concluded. </P>
+<P> Mothers have long been advised that breast-feeding would reduce the chance of sudden infant death syndrome. </P>
+<P> Crib death, in which apparently healthy babies die in their sleep, is the most common cause of sudden death in babies. </P>
+<P> About 10,000 babies died in this way in Europe in 1992 and nearly 6,000 die each year in the United States. </P>
+<P> Research has also linked it to stuffy sleeping conditions and babies put to sleep on their stomachs. </P>
+</TEXT>
+</DOC>

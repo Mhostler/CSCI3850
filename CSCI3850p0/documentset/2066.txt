@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU008-0307.941017</DOCID>
+<TDTID>TDT005161</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/17/94 08:43</DATE>
+<TITLE> Botswana's ruling party wins general elections</TITLE>
+<HEADLINE> Botswana's ruling party wins general elections</HEADLINE>
+<SUBJECT> BC-BOTSWANA-WINNER 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Updates with ruling party winning)</NOTES>
+<DATELINE>GABORONE, Botswana (Reuter) </DATELINE>
+<P>  President Ketumile Masire's ruling party won Botswana's seventh elections since independence Monday, but with a reduced majority. </P>
+<P> With six seats still to be announced, Chief Justice Moleleki Mokama declared the ruling Botswana Democratic Party (BDP) the winner with 23 seats compared to 10 won by the opposition Botswana National Front (BNF). </P>
+<P> The BNF, which held three seats in the last assembly, said it planned to seek a government of national unity. </P>
+<P> ``That is the only way we will be able to solve the problems of this country,'' BNF leader Kenneth Koma told reporters before the BDP was declared the winner. </P>
+<P> Masire's BDP has ruled the diamond-rich country, Africa's most stable democracy, since independence from Britain in 1966. </P>
+<P> Elections' supervisor Nathaniel Mmono said voting had gone smoothly in Saturday's elections and turnout among the 1.3 million population had been ``good.'' Counting, however, was slower than expected and a final tally might not be known until Monday night. </P>
+<P> Four of the 10 BNF wins, the most it has ever had, were in key seats in the capital Gaborone. The swing to the BNF had been widely predicted, partly as a protest against rising unemployment as a result a depressed economy. </P>
+<P> Political analysts said they expected little change in government policy after the election. The once pro-Marxist BNF now endorses a free-market economy, as does the ruling party, but has not as yet formulated clear policies. </P>
+</TEXT>
+</DOC>

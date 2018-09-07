@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0193.950102</DOCID>
+<TDTID>TDT008783</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/02/95 17:33</DATE>
+<TITLE> South Carolina notches its first Bowl win, beats West Virginia</TITLE>
+<HEADLINE> South Carolina notches its first Bowl win, beats West Virginia</HEADLINE>
+<SUBJECT> BC-NCAA-CARQUEST </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  Steve Taneyhill passed for a touchdown and ran for another to lead South Carolina to their first-ever bowl win, a 24-21 victory Monday over West Virginia in the CarQuest Bowl. </P>
+<P> South Carolina (7-5) had lost all eight of their previous bowl games, most recently a 34-10 defeat to Indiana in the 1988 Liberty Bowl. The skid continues for West Virginia (7-6), losers of five straight bowl games under coach Don Nehlen. </P>
+<P> Taneyhill completed 26-of-36 passes for 227 yards. He hit tight end Boomer Foster with a two-yard touchdown pass in the first quarter and scored on a four-yard run in the second quarter to give South Carolina a 17-7 halftime lead. </P>
+<P> The game featured a wild finish. </P>
+<P> Stanley Pritchett gained a yard on a fourth-and-inches play to the West Virginia 30-yard line with two minutes left to apparently seal the win for South Carolina. On the next play, Pritchett broke free and appeared headed for a touchdown, but had the ball stripped away from him at the West Virginia four-yard line. </P>
+<P> West Virginia quarterback Chad Johnston could not pull off a miracle, however, as he took a sack, threw two incompletions and then connected on a short pass that failed to convert a first-down on a last-gasp fourth-down play. </P>
+</TEXT>
+</DOC>

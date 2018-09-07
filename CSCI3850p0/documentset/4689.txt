@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU002-0007.950302</DOCID>
+<TDTID>TDT010945</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/02/95 14:36</DATE>
+<TITLE> Maryland sets tough smoking ban</TITLE>
+<HEADLINE> Maryland sets tough smoking ban</HEADLINE>
+<SUBJECT> BC-SMOKING-MARYLAND </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANNAPOLIS (Reuter) </DATELINE>
+<P>  Maryland Gov. Parris Glendening anounced Thursday he would implement a statewide ban on smoking in the workplace, creating one of the nation's toughest anti-smoking laws. </P>
+<P> ``We must make Maryland a healthy state. Other states are preparing to follow us in this process, and we are pleased to take a leadership role in public health issues,'' Glendening told a news conference called to announce the ban. </P>
+<P> ``Maryland has the fourth-highest cancer death rate. Second-hand smoke will kill 1,000 Marylanders this year and smoking accounts for 20 percent of all deaths in the state each year,'' Glendening said. </P>
+<P> The ban, which is to take effect March 27, applies to all indoor workplaces except tobacco shops and laboratories investigating the health effects of tobacco smoke. </P>
+<P> Smoking would be permitted only in rooms specially ventilated to the outdoors. </P>
+<P> Only California, Vermont and Utah have similarly strict anti-smoking measures, Glendening said. </P>
+<P> Maryland was a major tobacco-producing state before World War II, with some 300,000 acres of land devoted to tobacco cultivation. </P>
+<P> But since then the industry has virtually vanished, with only about 7,000 acres of tobacco still being grown. </P>
+<P> The ban was supported by state health secretary Martin Wasserman and state Attorney General Joseph Curran, who said it was justified by evidence of the threat to workers' health caused by second-hand smoke. </P>
+<P> The measure has been widely opposed by tobacco comapnies as well as restaurants, hotels and bars that say they will lose money if their patrons can't smoke. These groups have lobbied state legislators to introduce measures exempting the hospitality and tourism industries from the ban. </P>
+<P> Wayne Chappell, head of the Baltimore Area Convention and Visitors Bureau, said the ban would have a ``disasterous effect'' on Baltimore's $500 million annual tourism industry. </P>
+<P> The smoking ban was proposed a year ago under state occupational health and safety regulations, but was put on hold while opponents waged a legal fight. </P>
+<P> Last Friday, Maryland's highest court, the Court of Appeals, unanimously dissolved a county court injunction against the ban's taking effect. </P>
+<P> A hearing on a lawsuit filed by the tobacco industry against the ban has been scheduled for March 29 before Talbot County Circuit Judge William Horne. </P>
+</TEXT>
+</DOC>

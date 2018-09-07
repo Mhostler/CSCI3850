@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0031.940820</DOCID>
+<TDTID>TDT002246</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/20/94 13:33</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-SHELLING -2 ZAGREB </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Skokovi was recently captured from rebel Mulims, led by breakaway leader Fikret Abdic, by Muslim troops loyal to the Sarajevo government. </P>
+<P> The village lies well to the south of the new frontline now, with government forces having fought their way north to close to Abdic's stronghold. </P>
+<P> Philippe said a French U.N. investigating team went to the scene but could not yet determine whether the shell came from rebel Muslim units or from positions held by Serbs, who surround the Bihac pocket. </P>
+<P> U.N. spokesmen in Sarajevo said Saturday that government forces had continued their offensive against Abdic, even as U.N.-brokered negotiations continued on a peaceful end to the inter-Muslim conflict. </P>
+</TEXT>
+</DOC>

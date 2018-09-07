@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0272.950316</DOCID>
+<TDTID>TDT011346</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/16/95 15:53</DATE>
+<TITLE> Urban lawmakers want to ax Agriculture Department</TITLE>
+<HEADLINE> Urban lawmakers want to ax Agriculture Department</HEADLINE>
+<SUBJECT> BC-AGRICULTURE-ABOLITION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Two New Jersey Democrats, in a legislative tit for tat, proposed eliminating the Agriculture Department Thursday, saying it was riper for savings than the four departments targeted by Republicans. </P>
+<P> Announcing a bill to abolish the department, Senator Frank Lautenberg and Representative Donald Payne said $25 billion could be saved over five years by axing the department and selling its headquarters complex. </P>
+<P> Urban lawmakers ``are tired of being lectured about tough choices'' by colleagues who ``go out on a limb'' for agribusiness, Payne said. He said the bill would ``help level the playing field in our approach to deficit reduction.'' </P>
+<P> Lautenberg cited a proposal by two Republican leaders to eliinate the Commerce, Education, Energy, and Housing and Urban Development departments. </P>
+<P> ``I'd like to see us start with subsidies to agribusiness and waste at (the Agriculture Department) rather than cut the safety net out from under our nation's families and children,'' Lautenberg said at a news conference. </P>
+<P> Their plan would transfer major Agriculture duties like public feeding, meat inspection and national forests to other agencies, convert farm subsidies into block grants for states and eliminate some export and rural utility programs. </P>
+</TEXT>
+</DOC>

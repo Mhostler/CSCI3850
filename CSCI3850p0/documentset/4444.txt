@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU010-0006.950220</DOCID>
+<TDTID>TDT010584</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/20/95 11:27</DATE>
+<TITLE> U.S. Marine lost in helicopter crash off Somalia</TITLE>
+<HEADLINE> U.S. Marine lost in helicopter crash off Somalia</HEADLINE>
+<SUBJECT> BC-USA-HELICOPTER 3RDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Updates with details of crash, previous MANAMA)</NOTES>
+<DATELINE>MOGADISHU (Reuter) </DATELINE>
+<P>  A U.S. Marine was lost at sea trapped in a helicopter that crashed off the side of a Navy ship during the U.N. troop evacuation from Somalia, a U.S. spokesman said Monday. </P>
+<P> ``After it lifted off it went over the side. The pilot sounded an emergency and the aircraft went down into the water,'' said Lt.-Col. Jerry Broeckert in Mogadishu. </P>
+<P> The Gulf-based U.S. Naval Forces Central Command said it had called off a search for Marine Sgt. Justin Harris who was in the UH-1N helicopter when it crashed Sunday. </P>
+<P> Four others aboard the helicopter were rescued and treated for minor injuries when it crashed 100 yards from the USS Essex, about 25 nautical miles southeast of the Somali capital. </P>
+<P> When asked why Harris could not get out in time, Broeckert said: ``It could have been a strap that he couldn't get loose.'' </P>
+<P> The helicopter carrier Essex, a multi-purpose amphibious assault ship, has joined a task force of 17 other ships from the U.S. and five other nations to help evacuate U.N. troops from Mogadishu at the end of their two-year mission to Somalia. </P>
+<P> A pilot was lost at sea when a Harrier jump jet crashed in the Indian Ocean while training off one of the U.S. Navy ships taking part in ``Operation United Shield'' weeks before the task force gathered off Somalia. </P>
+<P> In another incident on one of the ships while still in Gulf waters, two U.S. personnel were injured when a Cobra attack helicopter was forced to carry out an emergency landing. </P>
+</TEXT>
+</DOC>

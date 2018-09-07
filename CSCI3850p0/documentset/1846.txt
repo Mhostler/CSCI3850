@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU004-0023.941007</DOCID>
+<TDTID>TDT004574</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/07/94 00:13</DATE>
+<TITLE> Fire damages stable at home of Saudi envoy</TITLE>
+<HEADLINE> Fire damages stable at home of Saudi envoy</HEADLINE>
+<SUBJECT> BC-USA-SAUDI </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A fire broke out late Thursday in an old stable on the property of the Saudi Arabian ambassador's residence, but there were no injuries and the envoy's home was not damaged, the local fire department said. </P>
+<P> Lieutenant Mark Rohr of the Fairfax County Fire Department said it was unclear what caused the fire, which erupted in the attic of the stable, on the property of Saudi Ambassador Prince Bandar Bin Sultan in McLean, Virginia, a suburban community located southwest of Washington. </P>
+</TEXT>
+</DOC>

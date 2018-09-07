@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0402.950104</DOCID>
+<TDTID>TDT008847</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/04/95 04:02</DATE>
+<TITLE> China nabs four, recovers imperial concubine's art</TITLE>
+<HEADLINE> China nabs four, recovers imperial concubine's art</HEADLINE>
+<SUBJECT> BC-CHINA-RELICS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  Chinese police have arrested four people for allegedly stealing 1,000-year-old paintings that had been buried with an imperial concubine from a museum in northern Shaanxi province, the China Daily said Wednesday. </P>
+<P> The four, including the husband of a museum employee, were arrested in various provinces within China last month for allegedly stealing the paintings, the newspaper said. </P>
+<P> The frescoes had been found in the tomb of a concubine of Tang dynasty (618-907) emperor Li Shimin, who lived from 599 to 649, the newspaper said. </P>
+<P> If convicted, the suspects could be sentenced to death. </P>
+<P> Chinese scholars say they are shocked at the untold quantities of stolen archeological treasures smuggled out of China every year. </P>
+</TEXT>
+</DOC>

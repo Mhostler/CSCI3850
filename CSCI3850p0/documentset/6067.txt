@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU016-0341.950426</DOCID>
+<TDTID>TDT013104</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/26/95 15:34</DATE>
+<TITLE> Senate panel delays meeting to balance budget</TITLE>
+<HEADLINE> Senate panel delays meeting to balance budget</HEADLINE>
+<SUBJECT> BC-BUDGET-DELAY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Senate Budget Committee Wednesday abruptly delayed by one-and-one-half weeks -- until May 8 -- a meeting at which it was supposed to write a balanced budget. </P>
+<P> The meeting had been set for Thursday. Senate Budget Committee Chairman Pete Domenici had planned to release his spending blueprint next week for a budget that reached balance by 2002, but has had difficulty getting backing from Republican members of his committee to make the tough sacrifices necessary for a balanced budget. </P>
+</TEXT>
+</DOC>

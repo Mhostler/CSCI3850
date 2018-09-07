@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0256.950417</DOCID>
+<TDTID>TDT012657</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/17/95 22:20</DATE>
+<TITLE> Military plane crashes in Alabama killing 8 - report</TITLE>
+<HEADLINE> Military plane crashes in Alabama killing 8 - report</HEADLINE>
+<SUBJECT> BC-AIRCRASH URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A military Learjet crashed and exploded in Alexander City, Alabama, narrowly missing houses but killing eight people on board, CNN reported Monday. </P>
+<P> A local radio station disk-jockey told CNN that a very loud crash was heard as the jet hit the ground in a residential area of Alexander City, 40 miles north of Montgomery. </P>
+</TEXT>
+</DOC>

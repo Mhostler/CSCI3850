@@ -1,0 +1,35 @@
+<DOC>
+<DOCID>REU014-0330.940929</DOCID>
+<TDTID>TDT004204</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/29/94 17:18</DATE>
+<TITLE> Estonia ferry door may have leaked - investigator</TITLE>
+<HEADLINE> Estonia ferry door may have leaked - investigator</HEADLINE>
+<SUBJECT> BC-FERRY 4THLD </SUBJECT>
+<AUTHOR>     By Andrew Huddart </AUTHOR>
+<TEXT>
+<NOTES> (Eds: updates with accident theory)</NOTES>
+<DATELINE>TURKU, Finland (Reuter) </DATELINE>
+<P>  A member of the official panel probing the Estonia ferry disaster said Thursday that interviews with surviving sailors could support the theory that water entered the bow doors, causing it to capsize. </P>
+<P> ``It is quite possible that the ship would keel over if water was coming in the way they described,'' said Kari Lehtola, a Finnish member of the three-nation accident investigation commission into the disaster which left over 900 dead or missing, according to new figures. </P>
+<P> Surviving crewman Henrik Sillaste told Reuters Wednesday he saw on TV monitors inside the engine room water rushing into the car deck through front doors. </P>
+<P> ``What we have heard from the sailors could support the (bow door) theory,'' Lehtola told Reuters. </P>
+<P> He stressed however that the panel did not have any other evidence beside the testimonies of survivors, and rescuers needed to locate the vessel in order to test any theory conclusively. </P>
+<P> A 19-year-old Estonian passenger told Reuters Thursday he had also seen water pouring into the car deck as he tried to flee the ship as it began to list. </P>
+<P> ``I heard a loud crashing sound like the noise falling trucks would have made,'' Aundus Maidre told Reuters from his hospital bed. ``Then the whole ship started to list. I ran upstairs, past the car deck, and saw water gushing in. It came very fast.'' </P>
+<P> A Swedish maritime union official alleged Wednesday that inspectors had discovered a faulty seal on one of Estonia's loading doors just a day previously. </P>
+<P> But the inspectors themselves said they had found only minor safety faults during an inspection of the ferry in Tallinn harbor Tuesday. </P>
+<P> Earlier rescuers searching the Baltic Sea for survivors and bodies concluded that based on new passenger lists more than 900 people were missing or dead, over 80 more than previously thought. </P>
+<P> New figures from the Estonian Interior Ministry showing several dozen more passengers than earlier reported and the discovery of more bodies raised the number of dead and missing from 826 to 909. </P>
+<P> The head of the Finnish rescue operation, Raimo Tiilikainen, told a news conference the new figure for passengers and crew was 1,049, compared to earlier estimates of 964 or 975. </P>
+<P> ``The figures have now changed so many times that I really don't know if they are the last or not. I don't know how reliable they are either,'' Tiilikainen said. </P>
+<P> Antti Jaaskelainen, the pathologist in charge of identifying 65 of the salvaged bodies, said the ``unreliable'' lists were hampering his work. </P>
+<P> ``The names are changing all the time. To identify (people) we must know who was on the ship, but if the passenger lists are as unreliable as this it will be very difficult,'' he said. </P>
+<P> Tiilikainen said bad weather provided a fresh complication for rescuers. ``We promised to try to start looking for the wreck today but it seems the weather is against us,'' he said. </P>
+<P> Searchers hope to find the wreck and to recover the remains of victims thought to have gone down with the ship. They also hope to carry out an initial survey using robot cameras to see if it can be raised or examined to establish what went wrong. </P>
+<P> But the first stage, using a so-called sidescan sonar device to find the wreck on the seabed, could not start as intended because of heavy winds and rough seas. </P>
+<P> The chairman of the panel, Estonian Transport Minister Ande Meister, said the investigation was now focusing on locating the ship, believed to have sunk between 262 and 295 feet of water in the Gulf of Finland. </P>
+<P> ``It is not so easy, we need equipment and the weather has made it hard,'' Meister said. </P>
+<P> ``When we find the wreck we will send down divers to take pictures and examine the ship,'' he added. </P>
+</TEXT>
+</DOC>

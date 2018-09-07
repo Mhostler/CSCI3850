@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU009-0014.941018</DOCID>
+<TDTID>TDT005207</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 03:18</DATE>
+<TITLE> Shanghai dissident sentenced to labor camp</TITLE>
+<HEADLINE> Shanghai dissident sentenced to labor camp</HEADLINE>
+<SUBJECT> BC-CHINA-DISSIDENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SHANGHAI (Reuter) </DATELINE>
+<P>  Shanghai dissident Li Guotao has been sentenced to three years of ``re-education through labor,'' dissident sources said Tuesday. </P>
+<P> They said Li's family had been officially notified of the sentence. No further details were immediately available. </P>
+<P> Li is the fourth member of Shanghai's small dissident community to be sentenced to three years in a labor camp in the past several weeks. </P>
+<P> The others are Yang Zhou, Bao Ge and Yang Qinheng. </P>
+<P> A member of the Shanghai-based Association for Human Rights, Li is a close associate of Yang Zhou, a co-founder of the association, which has been battling city authorities to register as a legal entity. </P>
+<P> Three years is the maximum sentence under the ``re-education through labor'' program, which was formerly a way of punishing petty criminals but is now increasingly used to silence political dissidents in China. </P>
+<P> Sentences are handed down by a panel of local officials, avoiding the publicity of a formal trial. </P>
+<P> Virtually all known political activists in Shanghai are now either in jail or under some form of administrative detention. </P>
+</TEXT>
+</DOC>

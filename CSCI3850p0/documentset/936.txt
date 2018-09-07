@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU010-0284.940822</DOCID>
+<TDTID>TDT002303</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/22/94 09:54</DATE>
+<TITLE> SOMALIS KILL SEVEN INDIAN U.N. PEACEKEEPERS, WOUND SIX</TITLE>
+<HEADLINE> SOMALIS KILL SEVEN INDIAN U.N. PEACEKEEPERS, WOUND SIX</HEADLINE>
+<SUBJECT> BC-SOMALIA-ATTACKS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOGADISHU, Somalia (Reuter) </DATELINE>
+<P>  Seven Indian U.N. peacekeepers were killed and six others were wounded in Somalia when militia attacked them with anti-aircraft guns, mortars and small arms on Monday, a U.N. military spokesman said. </P>
+</TEXT>
+</DOC>

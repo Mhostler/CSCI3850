@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0258.950214</DOCID>
+<TDTID>TDT010446</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/14/95 12:52</DATE>
+<TITLE> Christopher warns Croatia on ousting U.N.</TITLE>
+<HEADLINE> Christopher warns Croatia on ousting U.N.</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Secretary of State Warren Christopher warned Tuesday that Croatian President Franjo Tudjman ``will be sorry'' if he does not rescind a decision to oust U.N. peacekeepers from his country. </P>
+<P> Christopher's comments to the Senate Foreign Relations Committee were his strongest public protest to date on Croatia's plans to force U.N. troops to withdraw by March 31, a move the United States fears will result in all-out war between Croatia and Croatian Serbs. </P>
+</TEXT>
+</DOC>

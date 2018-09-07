@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0396.940818</DOCID>
+<TDTID>TDT002086</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/18/94 00:39</DATE>
+<TITLE> NEAR-MISS REPORTED AFTER MALAYSIA'S RADAR DAMAGED</TITLE>
+<HEADLINE> NEAR-MISS REPORTED AFTER MALAYSIA'S RADAR DAMAGED</HEADLINE>
+<SUBJECT> BC-MALAYSIA-PILOT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KUALA LUMPUR, Malaysia (Reuter) </DATELINE>
+<P>  An airline pilot aborted landing his Boeing 737 to avoid crashing into another passenger jet at Kuala Lumpur's international airport earlier this week, aviation officials said Thursday. </P>
+<P> The near-miss Tuesday was due to a damaged multimillion dollar radar system, the officials said. </P>
+<P> Flights have been delayed since Sunday after fire damaged the $6.5 million system at the airport Saturday night. </P>
+<P> Transport Minister Ling Liong Sik said Malaysia will buy a mobile radar to replace the damaged Thomson-CSF radar system bought in June 1993. </P>
+<P> The fire, reportedly caused by a short circuit in the air conditioning system, was the third at the airport in the last two years and damaged vital components in the terminal approach radar. </P>
+</TEXT>
+</DOC>

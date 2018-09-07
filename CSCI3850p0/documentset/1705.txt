@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU015-0024.940930</DOCID>
+<TDTID>TDT004236</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/30/94 07:42</DATE>
+<TITLE> Yeltsin fails get off plane in Ireland</TITLE>
+<HEADLINE> Yeltsin fails get off plane in Ireland</HEADLINE>
+<SUBJECT> BC-IRELAND-YELTSIN 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Adds details, background)</NOTES>
+<DATELINE>SHANNON, Ireland (Reuter) </DATELINE>
+<P>  Russian President Boris Yeltsin failed to get off his plane when it stopped at Shannon airport in Ireland Friday for talks with Irish Prime Minister Albert Reynolds. </P>
+<P> Neither Russian nor Irish officials could immediately explain why Yeltsin failed to disembark from his presidential aircraft but said that he would not be holding scheduled hour-long talks with Reynolds. </P>
+<P> Yeltsin was returning to Moscow from New York where he attended the UN General Assembly session. He was scheduled to hold luncheon talks with Reynolds on international issues and the Northern Ireland peace drive. </P>
+<P> Reynolds, Finance Minister Bertie Ahern and dozens of other officials waited impatiently at the foot of the plane steps for Yeltsin to appear. </P>
+<P> But Soviet officials descended the steps and informed their hosts that Yeltsin would not be able to make the talks. </P>
+<P> After about 15 minutes, first deputy prime minister Oleg Soskovets came down the steps and was whisked away by Reynolds and Ahern to the VIP lounge. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU004-0253.941108</DOCID>
+<TDTID>TDT006239</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/08/94 20:10</DATE>
+<TITLE> Inhofe wins Oklahoma Senate seat</TITLE>
+<HEADLINE> Inhofe wins Oklahoma Senate seat</HEADLINE>
+<SUBJECT> BC-ELECTION-OKLAHOMA-WINNER URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Republican Rep. Jim Inhofe won election to the Senate from Oklahoma Tuesday, defeating Democratic Rep. Dave McCurdy and allowing the Republicans to pick up an extra Senate seat, U.S. television networks said. </P>
+<P> CNN and CBS projected that Inhofe would defeat McCurdy and capture the seat held by retiring Democratic Sen. David Boren. </P>
+</TEXT>
+</DOC>

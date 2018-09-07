@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU007-0083.941013</DOCID>
+<TDTID>TDT005006</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/13/94 18:47</DATE>
+<TITLE> Netherlands Antilles islands in constitution vote</TITLE>
+<HEADLINE> Netherlands Antilles islands in constitution vote</HEADLINE>
+<SUBJECT> BC-ANTILLES-CONSTITUTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WILLEMSTAD, Curacao (Reuter) </DATELINE>
+<P>  The inhabitants of three tiny Caribbean islands go the polls Friday in referenda on whether to break away from the Netherlands Antilles. </P>
+<P> St. Maarten, St. Eustatius and Saba -- with fewer than 10,000 residents between them -- will decide whether to follow the example of Aruba which in 1986 voted to become independent from the Netherlands Antilles. </P>
+<P> Other options in the four-question ballots include maintaining the status quo as members of the Netherlands Antilles, reverting to being colonies of the Netherlands, or complete independence from both the Netherlands Antilles and Amsterdam. </P>
+<P> The five-island Netherlands Antilles and Aruba, which depend heavily on tourism, are members of the Kingdom of the Netherlands. They have local autonomy but are subject to Amsterdam in foreign affairs. </P>
+<P> A vote to break with the Antilles would give the three islands more independence in local affairs, which are now governed by a Curacao-based legislature. </P>
+<P> Curacao, the capital of the Netherlands Antilles, voted last November to remain part of the group. Bonaire is due to vote Oct. 21. </P>
+<P> Political observers said St. Eustatius and Saba were likely to vote to stay in the Netherlands Antilles. A close battle was predicted in St. Maarten, however, where many want a split with the Netherlands Antilles. </P>
+<P> Any constitutional changes mandated in the referenda would have to be negotiated with the Netherlands government. </P>
+</TEXT>
+</DOC>

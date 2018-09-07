@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU007-0370.941216</DOCID>
+<TDTID>TDT008047</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/16/94 00:52</DATE>
+<TITLE> Poll shows 75 pct of Americans approve of Clinton plan</TITLE>
+<HEADLINE> Poll shows 75 pct of Americans approve of Clinton plan</HEADLINE>
+<SUBJECT> BC-CLINTON-POLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Seventy-five percent of Americans who have heard of President Clinton's $60 billion tax-cut plan approve of it, according to a poll conducted by ABC News' ''Nightline'' program late on Thursday. </P>
+<P> The poll, based on random telephone interviews with 643 adults after Clinton's televised speech, showed that 18 percent of Americans disapproved of the president's proposal and seven percent had no opinion. </P>
+<P> Only 222 people, or 35 percent of those polled, had heard about Clinton's speech. </P>
+<P> The president's plan won approval, but only 29 percent said it was based on Clinton's own beliefs, while 62 percent believed it was prompted by political pressure after last month's Republican sweep of both houses of Congress. </P>
+<P> Fifty-nine percent said they believed the Republicans were showing stronger leadership generally, compared with only 28 percent for Clinton. </P>
+<P> The poll had a margin of error of plus or minus seven percentage points for those who had heard about the speech. The people polled were split on whether the Republicans or Clinton had a better tax-cutting plan, with 35 percent preferring Clinton's and 36 percent preferring the GOP plan. </P>
+<P> Ten percent said they didn't like either plan. </P>
+<P> Ironically, although Clinton's proposed tax cuts will slow efforts to reduce the federal deficit, 61 percent of the Americans polled still viewed cutting the deficit as a bigger priority. Twenty-four percent said cutting taxes was more important, while 13 percent said both issues were important. </P>
+</TEXT>
+</DOC>

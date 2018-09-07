@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU008-0395.940917</DOCID>
+<TDTID>TDT003578</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/17/94 17:30</DATE>
+<TITLE> Two shot dead, three injured in Toronto bar</TITLE>
+<HEADLINE> Two shot dead, three injured in Toronto bar</HEADLINE>
+<SUBJECT> BC-CANADA-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TORONTO (Reuter) </DATELINE>
+<P>  Two people were shot dead and three others were injured early Saturday morning at a well-known after-hours bar in Canada's most populous city, police officials said. </P>
+<P> Police were looking for at least one suspect in the shooting that occurred in a night club in the city's west end. A police spokesman said it is believed an argument broke between patrons at the night club. </P>
+<P> The five who were shot were taken to a nearby hospital where two later died. The injuries to the other three were not considered life-threatening. </P>
+</TEXT>
+</DOC>

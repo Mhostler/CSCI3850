@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU015-0050.950522</DOCID>
+<TDTID>TDT014083</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/22/95 10:49</DATE>
+<TITLE> High Court won't review race-based scholarship case</TITLE>
+<HEADLINE> High Court won't review race-based scholarship case</HEADLINE>
+<SUBJECT> BC-COURT-DISCRIMINATION </SUBJECT>
+<AUTHOR>     By James Vicini </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Supreme Court Monday let stand a major ruling that has cast doubt on affirmative action programs involving race-based scholarships at public colleges or universities. </P>
+<P> The nation's highest court declined to review a decision that the University of Maryland scholarship program restricted to black students represents a form of unconstitutional ''reverse discrimination.'' The justices denied without comment appeals by the university and black students, supported by the Clinton administration, arguing the program must be upheld as a remedy for past discrimination and segregration. </P>
+<P> The case involved one of the most important affirmative action rulings in public education since a landmark 1978 Supreme Court decision that allowed some racial preferences in admissions. The conservative-dominated high court in recent years has cast doubt on special government programs for minorities, which have come under attack from Republicans in Congress and are being reviewed by the Clinton White House. </P>
+<P> The implications could be far-reaching. About two-thirds of the nation's colleges offer some race-based scholarships affecting thousands of students. </P>
+<P> The case involved Daniel Podberesky, a partly Hispanic student who was denied one of the university's full tuition scholarships because of his race. He met all the other qualifications. </P>
+<P> The Benjamin Banneker Scholarship program, which began in 1978, provides full tuition, room and board to about 30 new black students each year. Podberesky, now a medical student at the university, sued in 1990, seeking reimbursement for grant money he would have received if he had been admitted into the program. The claimed damages total about $35,000. </P>
+<P> A U.S. Court of Appeals last year said the university violated Podberesky's constitutional right to equal protection under the law. The appeals court struck down the program, ruling that the university had failed to tailor the scholarships narrowly to remedy past discrimination. </P>
+<P> Blacks were excluded from the university in College Park until the mid-1950s and it remained essentially all-white into the 1980s. About 12 percent of the 33,000 students now enrolled at the university are black, a figure well below the state's 25 percent black population. </P>
+<P> University officials said in their appeal the case has nationwide implications for thousands of college students who receive race-based scholarships. </P>
+<P> The Justice Department said the appeals court decision would severely hurt the government's efforts to achieve full desegregation at a number of other state university systems. </P>
+<P> The Supreme Court action denying the appeal does not set a nationwide precedent. But it sends a strong signal that the justices have doubts about the legality of race-based scholarship programs. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0108.950409</DOCID>
+<TDTID>TDT012367</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/09/95 22:02</DATE>
+<TITLE> China seizes dinosaur eggs in Japanese luggage</TITLE>
+<HEADLINE> China seizes dinosaur eggs in Japanese luggage</HEADLINE>
+<SUBJECT> BC-CHINA-DINOSAUR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING, April 10 (Reuter) </DATELINE>
+<P>  Airport security officers in China's northwestern city of Xi'an have seized four fossilised dinosaur eggs found in the baggage of a Japanese passenger, the China Daily said on Monday. </P>
+<P> The Japanese passenger bought the four dinosaur eggs for 40,000 yen ($475) and packed them into her baggage on a flight to Nagoya from the Xianyang International Airport near Xi'an, the newspaper said. </P>
+<P> The case was under investigation, it said, but gave no further details. </P>
+<P> Some areas of China are rich in dinosaur fossils, which have become a hot item since March, when scientists working in Beijing said they had found fragments of dinosaur DNA inside a 70 million year-old egg. </P>
+<P> China bans the export of dinosaur fossils but private trade has flourished despite government protection and campaigns against smuggling. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU010-0168.950320</DOCID>
+<TDTID>TDT011474</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/20/95 12:17</DATE>
+<TITLE> Altanta Olympics stadium collapses; one reported dead</TITLE>
+<HEADLINE> Altanta Olympics stadium collapses; one reported dead</HEADLINE>
+<SUBJECT> BC-OLYMPICS-STADIUM-COLLAPSE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  A section of the Olympics stadium under construction in Atlanta collapsed on Monday, killing at least one worker and injuring three others, local radio reported. </P>
+</TEXT>
+</DOC>

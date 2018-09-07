@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0151.940901</DOCID>
+<TDTID>TDT002762</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/01/94 16:52</DATE>
+<TITLE> Karadzic threatens sanctions on Muslims, Croats</TITLE>
+<HEADLINE> Karadzic threatens sanctions on Muslims, Croats</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-SERBS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PALE, Bosnia (Reuter) </DATELINE>
+<P>  Bosnian Serb leader Radovan Karadzic Thursday threatened to cut off gas, water, power and food supplies to Bosnia's Muslim and Croat communities unless Belgrade ends an economic blockade against its ethnic kin. </P>
+<P> ``We have the full right to impose sanctions against the Muslims, to prevent even a bird from flying to them, until the world compels Yugoslavia to lift economic sanctions,'' Karadzic said in a speech to the Bosnian Serb self-proclaimed assembly. </P>
+<P> Yugoslavia, led by Serbia, imposed a trade embargo on its fellow Serbs in Bosnia four weeks ago to punish them for refusing to agree to the plan, which would force them to give up roughly a third of the territory they now hold. </P>
+<P> Bosnia's Serbs control utility supplies to Sarajevo and have shown in the past that they can block U.N. road convoys of humanitarian supplies and the international relief airlift into the city. Serb forces also surround three isolated Muslim enclaves in eastern Bosnia and have frequently blocked the aid convoys on which the people rely for survival. </P>
+</TEXT>
+</DOC>

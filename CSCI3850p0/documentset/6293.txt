@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0354.950504</DOCID>
+<TDTID>TDT013452</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 22:05</DATE>
+<TITLE> Newest Queen of the Mississippi steams into port</TITLE>
+<HEADLINE> Newest Queen of the Mississippi steams into port</HEADLINE>
+<SUBJECT> BC-STEAMBOAT </SUBJECT>
+<AUTHOR>     By Jua Nyla Hutcheson </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW ORLEANS (Reuters) </DATELINE>
+<P>  Escorted by a flotilla of fireboats and tugs, the newest Queen of the Mississippi River steamed into its home port Thursday. </P>
+<P> Delta Queen Steamboat Company's $65 million American Queen, the largest paddlewheel passenger steamboat ever built, docked at the Robin Street Wharf just upriver from the historic French Quarter. </P>
+<P> Up and down the river, freighters, floating gambling casinos and other watercraft split the air with whistles and sirens of welcome. </P>
+<P> ``She's a charmer,'' Captain Lawrence Keeton, master of the 463-passenger boat, said. ``She handles real good, handles fast, too.'' </P>
+<P> The boat left McDermott Shipyard in Amelia, La., Monday, 26 months after the final construction contract was signed. </P>
+<P> New Orleans-based Delta Queen Steamboat Company, founded in 1890, operates the only authentic overnight paddle wheel steamboats in the United States. They ply the Mississippi, Ohio, Cumberland, Tennessee, Atchafalaya and Arkansas rivers. </P>
+<P> The American Queen joins two sister ships: the Mississippi Queen, a 420-passenger boat commissioned in 1976 and the 174-passenger Delta Queen, built in 1926 and designated a National Historic Landmark in 1989. </P>
+<P> Two 1,400 horsepower Nordberg tandem compound steam engines built in 1932 help power American Queen's 60-ton paddle wheel. </P>
+<P> The company salvaged the engines from an abandoned Army Corps of Engineers dredge in Mississippi after finding it virtually impossible to have new ones built, officials said. </P>
+<P> The 19th-century Victorian gingerbread trim, mullioned windows and fretwork arches mask the boat's more modern amenities, such as a swimming pool, movie theater, elevators, air conditioning and telephones in each stateroom. </P>
+<P> After several weeks of shakedown cruises, the American Queen's inaugural run will retrace the 1811 journey of the New Orleans, the first steamboat to travel America's inland rivers, from Pittsburgh to New Orleans. </P>
+</TEXT>
+</DOC>

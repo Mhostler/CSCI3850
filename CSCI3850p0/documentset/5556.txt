@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU005-0003.950407</DOCID>
+<TDTID>TDT012253</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 11:51</DATE>
+<TITLE> S.African police seize massive arms cache</TITLE>
+<HEADLINE> S.African police seize massive arms cache</HEADLINE>
+<SUBJECT> BC-SAFRICA-ARMS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PRETORIA, South Africa (Reuter) </DATELINE>
+<P>  South African police said Friday they had seized one of the largest caches of explosives yet found in the country. </P>
+<P> The cache, including 1040-lbs of commercial explosives, was discovered by workers on a farm near Bronkhorstspruit east of the capital Pretoria Tuesday, police said in a statement. </P>
+<P> ``Police have recovered one of the largest ever caches of explosives ... The cache (is) the most sophisticated found to date ...,'' the statement said. </P>
+<P> The explosives and other arms, including anti-personnel mines, two anti-tank rocket launchers, hand grenades, an assault rifle and hundreds of rounds of ammunition, were found in a sealed watertank buried among trees. </P>
+<P> Police said no arrests have been made and detectives were investigating. They had no further details. </P>
+<P> Commercial explosives were used by white rightwingers in a pre-election bombing blitz which killed at least 21 people in the run-up to South Africa's all-race elections last April. </P>
+<P> Twenty-six members of the white supremacist Afrikaner Resistance Movement (AWB) are on trial in connection with the bomb attacks. </P>
+<P> In a separate incident, police have arrested two former policemen and two other men after another arms cache was found at a house in a Pretoria suburb. </P>
+</TEXT>
+</DOC>

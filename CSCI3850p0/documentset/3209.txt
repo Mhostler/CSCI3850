@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU007-0035.941214</DOCID>
+<TDTID>TDT007948</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 17:09</DATE>
+<TITLE> Jet crashes into apartments; 2 dead, 20 injured</TITLE>
+<HEADLINE> Jet crashes into apartments; 2 dead, 20 injured</HEADLINE>
+<SUBJECT> BC-PLANE 3RDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds details)</NOTES>
+<DATELINE>FRESNO, Calif.(Reuter) </DATELINE>
+<P>  A California Air National Guard jet crashed into an apartment building and exploded in a fireball Wednesday, killing at least two people on the ground and injuring 20 others, officials said. </P>
+<P> The leased twin-engine Lear jet plunged onto a street near the Fresno airport, sending flaming wreckage tumbling into the two-story residential complex, setting the building on fire and igniting about 20 parked cars. </P>
+<P> The jet had been cleared for landing at the Fresno Air Terminal when it suddenly lost power and crashed, a Federal Aviation Administration spokesman said. He said the cause of the accident was not known. </P>
+<P> At least two people were killed and 20 injured on the ground, said American Ambulance Co. spokeswoman Laurel Flemming. But there were unconfirmed news reports that the pilot also died in the crash, bringing the death toll to three. </P>
+<P> Most of the injured were critically hurt, a local radio station reported. </P>
+<P> Eyewitness said the jet plunged onto a street two miles southwest of the airport as the pilot was apparently struggling to keep his craft under control. </P>
+<P> It clipped street signs and utility poles before smashing into the apartment complex and exploding in a ball of fire. At least 18 apartments were set on fire. </P>
+<P> ``People ran out of the complex in fear and anxiety,'' Flemming said. </P>
+<P> ``It looked like a war zone when we showed up,'' said a reporter for Fresno radio station KSFN. </P>
+<P> As smoke billowed from the crash site, ambulances rushed to the scene and police cordoned off the area. </P>
+<P> The plane was reported to have been flying out of the Air National Guard Base at the central California airport. It was owned by Phoenix Air Jet, a contractor to the military. </P>
+</TEXT>
+</DOC>

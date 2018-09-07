@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU017-0088.950427</DOCID>
+<TDTID>TDT013141</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/27/95 08:41</DATE>
+<TITLE> X-rays bad basis for asbestos compensation-report</TITLE>
+<HEADLINE> X-rays bad basis for asbestos compensation-report</HEADLINE>
+<SUBJECT> BC-HEALTH-ASBESTOS (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Release at 7 p.m. EDT)</NOTES>
+<DATELINE>LONDON (Reuter) - X</DATELINE>
+<P> rays of people claiming compensation for exposure to asbestos are not always good indicators of whether they are liable to asbestos-related lung cancer, researchers said Friday. </P>
+<P> In several countries, including Britain, compensation is paid for lung cancer caused by exposure to asbestos only if there is X-ray evidence of thickening of the lung tissue (fibrosis) or the lung lining. </P>
+<P> But British researchers, in an article in the medical magazine Lancet, said the presence of fibrosis (judged off X-ray film) might not always be a good indicator of asbestos-related lung cancer. </P>
+<P> Asbestos exposures that do not cause ``shadows'' on a chest X-ray may still increase the risk of lung cancer, they said. </P>
+<P> ``This needs to be considered by those responsible for industrial hygiene and compensation of workers with asbestos-related lung disease,'' they said. </P>
+<P> The researchers reviewed the health histories of 271 people with confirmed cases of lung cancer and 678 control patients. X-ray film taken at the time of first diagnosis was evaluated. </P>
+<P> Researchers found patients who had worked in a job with definite or probable exposure to asbestos more than 15 years before diagnosis had a higher risk of lung cancer than those who had not. </P>
+<P> A doubling of the risk was seen in patients who had evidence of fibrosis as shown by X-rays. But patients who did not have this clear X-ray evidence still had a 56 percent increase in risk of suffering from lung cancer. </P>
+</TEXT>
+</DOC>

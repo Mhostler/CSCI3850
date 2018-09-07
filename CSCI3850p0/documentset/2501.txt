@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU004-0394.941109</DOCID>
+<TDTID>TDT006255</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/09/94 02:56</DATE>
+<TITLE> Symington wins Arizona Governor race</TITLE>
+<HEADLINE> Symington wins Arizona Governor race</HEADLINE>
+<SUBJECT> BC-ELECTION-ARIZONA-GOVERNOR 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: adds quotes and details from graf 3 down)</NOTES>
+<DATELINE>PHOENIX, Ariz.(Reuter) </DATELINE>
+<P>  Republican Fife Symington won election as the governor of Arizona Tuesday, defeating Democrat Eddie Basha in tightly contested race. </P>
+<P> With 63 percent of the vote counted, Symington garnered 53 percent to Basha's 44 percent, and Basha conceded defeat. </P>
+<P> ``It's not going to happen,'' he told supporters here, admitting defeat. ``So let's be realistic about it.'' </P>
+<P> At his Phoenix headquarters Symington told supporters, ''What's happened all across America and Arizona today is that people have spoken out loud and clear, and have said they want their country back, less government and their freedom.'' </P>
+<P> Symington, a 49-year-old real estate developer, cast himself as a businessman able to deal best with the economy and bring new business into the state. </P>
+<P> Recently, however, he has run into financial difficulties and is currently under investigation by the U.S. Department of Justice concerning his business dealings. </P>
+<P> Details fo the investigation have not been made public, but if charges are filed and he is convicted of a crime he would automatically be removed from office. </P>
+<P> In the election, Symington drew his greatest strength from voters in and around the Phoenix area. </P>
+<P> By contrast Basha, 57, found his greatest strength in rural areas and among the Navajo indians in northeastern Arizona. However, he didn't win as many votes in those areas as polltakers had forecast he might before the election. </P>
+<P> Basha and his family are well known in the state as the owner and operator of a chain of supermarkets. </P>
+</TEXT>
+</DOC>

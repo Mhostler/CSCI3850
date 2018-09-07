@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0386.950226</DOCID>
+<TDTID>TDT010760</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/26/95 00:18</DATE>
+<TITLE> Deadline for Sino-U.S. trade war passes, no word</TITLE>
+<HEADLINE> Deadline for Sino-U.S. trade war passes, no word</HEADLINE>
+<SUBJECT> BC-TRADE-CHINA-DEADLINE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  China and the United States allowed a Sunday deadline for retliatory trade penalties to pass with no announcement on the outcome of 12 days of last-ditch talks to avert the trans-Pacific trade war. </P>
+<P> However, sources close to the talks said the two sides had agreed to ignore the midnight (EST) deadline while they studied draft copies of documents that could give them an agreement to avert the bruising trade battle. </P>
+</TEXT>
+</DOC>

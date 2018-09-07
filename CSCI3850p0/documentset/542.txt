@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU001-0233.940802</DOCID>
+<TDTID>TDT001351</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/02/94 06:42</DATE>
+<TITLE> UP TO 11 MISSING IN PAPUA NEW GUINEA MINE BLAST</TITLE>
+<HEADLINE> UP TO 11 MISSING IN PAPUA NEW GUINEA MINE BLAST</HEADLINE>
+<SUBJECT> BC-PAPUA-MINE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SYDNEY (Reuter) </DATELINE>
+<P>  Up to 11 people are missing and feared dead Tuesday after a massive blast tore through explosives stored at one of the world's biggest gold mines in Papua New Guinea, officials said. </P>
+<P> ``We have reason to believe that five Australians and five or six local Papua New Guineans were in the area working at the time,'' said Brian Martin, chief operating officer of explosives contractor Dyno Wesfarmers, in Sydney. </P>
+<P> ``We have not been able to go to the area with the fire continuing all day.'' </P>
+<P> The blast rocked the Porgera mine, 375 miles northwest of Port Moresby, at about 10 a.m. Another explosion followed about two hours later when a chemical tank caught fire. </P>
+<P> It was not yet known what set off the original blast. </P>
+<P> A spokesman for mine operator Placer Pacific in Sydney said the explosions had damaged buildings at the mine in the Central Highlands. </P>
+<P> He said 200 non-essential employees were evacuated and a medical team was on site to treat any injuries. It was not known when operations would resume. </P>
+<P> Dyno Wesfarmers is an Australian-Norwegian company that is contracted to run the mine's explosives operations. </P>
+<P> Porgera had a total workforce of 1,800 in June this year, of which 350 were expatriates, mainly Australians. </P>
+<P> The mine, which began production in 1990, is owned equally by Placer, Highlands Gold, Renison Goldfields Consolidated and the Papua New Guinea government. In 1993 it produced 1.16 million ounces of gold. </P>
+</TEXT>
+</DOC>

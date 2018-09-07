@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU013-0152.950421</DOCID>
+<TDTID>TDT012842</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/21/95 10:38</DATE>
+<TITLE> Suspicious package found in Conn. federal building</TITLE>
+<HEADLINE> Suspicious package found in Conn. federal building</HEADLINE>
+<SUBJECT> BC-BLAST-THREATS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HARTFORD, Conn.(Reuter) </DATELINE>
+<P>  A bomb squad Friday blew up a small package that arrived at the Abraham Ribicoff federal building in downtown Hartford, police said. </P>
+<P> WVIT-TV in West Hartford reported that the package was shoe-box sized and, when X-rayed, was found to contain two unidentified masses, wires and styrofoam. </P>
+<P> ``Because it was detonated doesn't mean it was a bomb, it means it was suspicious enough they didn't want to fool around with it,'' police Lt. John Bowen said. ``They (bomb squad) give it a little charge and they poof it. After it's been rendered safe, they carry it out of there.'' </P>
+<P> Employees of the building were evacuated and a two-block area surrounding the building was cordoned off. </P>
+<P> The incident was one of many in which buildings have been evacuated because of bomb threats in the aftermath of the deadly explosion in Oklahoma City Wednesday. </P>
+<P> In another such incident Friday, federal buildings in Cleveland were closed and employees told not to report to work after a bomb threat was received. </P>
+<P> ``In light of the disaster at Oklahoma City, we felt it prudent to close the Federal Building and the United States Courthouse Building,'' the Federal Protective Service said in a statement in Cleveland. </P>
+</TEXT>
+</DOC>

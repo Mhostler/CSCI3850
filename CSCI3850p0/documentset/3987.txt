@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0184.950126</DOCID>
+<TDTID>TDT009795</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/26/95 17:03</DATE>
+<TITLE> US food stamp list lowest since January 1993</TITLE>
+<HEADLINE> US food stamp list lowest since January 1993</HEADLINE>
+<SUBJECT> BC-FOOD-STAMPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Enrollment in the food stamp program, the largest U.S. antihunger program, is at the lowest level since January 1993, a new count showed Thursday. </P>
+<P> The U.S. Food and Nutrition Service said 26.89 million people received food stamp benefits during November, the latest month for which figures were available. </P>
+<P> November's count was 225,838 people lower than the preceding month. Texas accounted for one-fourth of the drop. </P>
+<P> Food stamps help poor people buy more food. About 10 percent of the U.S. population receives benefits. Maximum aid for a family of four is $386 per month. </P>
+<P> According to FNS figures, enrollment in November was the lowest since 26.84 million in January 1993. In February 1993, the tally was 26.90 million. </P>
+<P> Participation topped 27 million for the first time in March 1993 and stayed above that level until the new count. The record is 27.96 million people in March 1994. </P>
+<P> An FNS spokesman said the drop in enrollment indicated ``the economy is not as bad'' as the early 1990s when enrollment began to surge. </P>
+<P> ``It is particularly gratifying to see numbers begin to decline as we move into colder weather,'' the spokesman said, because enrollment usually is highest during winter. </P>
+<P> Enrollment in Texas, at 2.68 million, dropped by 63,350 people. Louisiana's list dropped by 36,000 to total 684,505 people. About 20,000 people left Pennsylvania's list for a total of 1.18 million and Michigan, with a decrease of 17,494, dropped below the one million mark and a total of 987,347. </P>
+<P> California leads the nation in recipients, 3.13 million, followed by Texas and New York, 2.19 million. Four states -- Pennsylvania, Florida, Illinois and Ohio -- have more than one million participants apiece. </P>
+</TEXT>
+</DOC>

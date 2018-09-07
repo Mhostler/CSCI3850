@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU006-0323.941113</DOCID>
+<TDTID>TDT006452</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/13/94 13:49</DATE>
+<TITLE> Tropical storm moves towards eastern Cuba</TITLE>
+<HEADLINE> Tropical storm moves towards eastern Cuba</HEADLINE>
+<SUBJECT> BC-CUBA-RAIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA, (Reuter) </DATELINE>
+<P>  Tropical Storm Gordon moved closer to the southeast tip of Cuba Sunday and Cuban weather officials predicted continued heavy rain in the region. </P>
+<P> Civil defense authorities have been on alert since last week for possible flooding. </P>
+<P> The center of the storm, carrying 40-mph winds, was just south of Santiago de Cuba early Sunday. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0107.940711</DOCID>
+<TDTID>TDT000406</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/11/94 18:17</DATE>
+<TITLE> SKATER'S FORMER BODYGUARD SENTENCED FOR ATTACK</TITLE>
+<HEADLINE> SKATER'S FORMER BODYGUARD SENTENCED FOR ATTACK</HEADLINE>
+<SUBJECT> BC-USA-HARDING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORTLAND, Ore.(Reuter) </DATELINE>
+<P>  Figure skater Tonya Harding's former bodyguard Shawn Eckardt was sentenced Monday to serve 18 months in prison for his role in the attack on her rival Nancy Kerrigan. </P>
+<P> Eckardt struck a deal with prosecutors under which he pleaded guilty May 3 to conspiracy to commit assault. He could have been sentenced to up to 20 years in prison, if he had been found guilty after trial. </P>
+</TEXT>
+</DOC>

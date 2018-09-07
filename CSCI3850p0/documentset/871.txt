@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0104.940818</DOCID>
+<TDTID>TDT002140</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/18/94 17:48</DATE>
+<TITLE> ARGENTINA-PARAGUAY DAM SAID TO KILL FISH</TITLE>
+<HEADLINE> ARGENTINA-PARAGUAY DAM SAID TO KILL FISH</HEADLINE>
+<SUBJECT> BC-ARGENTINA-FISH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES (Reuter) </DATELINE>
+<P>  The Yacyreta hydroelectrical company said Thursday it could be responsible for the death of thousands of fish in Argentina's Parana River. </P>
+<P> Yacyreta Director Jorge Dominguez said some 4,000 fish had died in the area due to high oxygen and hydrogen levels in the water. He denied press reports putting the figure at 120,000. </P>
+<P> ``We are working on the hypothesis that the fish died from excessive oxygen and hydrogen levels brought about by bubbles from opening and closing the dam's floodgates,'' Dominguez told a news conference. </P>
+<P> The incident occured near the town of Ita Ibate, some 50 miles west of the company's dam in Ituzaingo, close to the Argentine-Paraguayan border. </P>
+<P> Dominguez, who dismissed talk of an ecological disaster, said the company, an Argentine-Paraguayan joint venture, would not shelve plans to use 20 power-generating turbines in the area. </P>
+<P> ``The opening of the hydroelectrical plant will go ahead and on September 2 we will unveil the first of 20 turbines which are to begin generating energy,'' he said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0043.940726</DOCID>
+<TDTID>TDT001078</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/26/94 22:50</DATE>
+<TITLE> U.S. WARNS CITIZENS IN ALGERIA OF POSSIBLE ATTACK</TITLE>
+<HEADLINE> U.S. WARNS CITIZENS IN ALGERIA OF POSSIBLE ATTACK</HEADLINE>
+<SUBJECT> BC-ALGERIA-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States said Tuesday that it had received information indicating that Americans may be targetted for attack or kidnapping in Algeria. </P>
+<P> ``We have information indicating that an attack on or kidnapping of Americans may be planned,'' said a U.S. Embassy advisory in Algiers released by the State Department spokesman's office. </P>
+<P> The advisory said U.S. authorities were not in a position ''to determine the veracity of the information, but believe all such threats should be taken seriously.'' </P>
+<P> It said the embassy was in touch with the Algerian authorities and had requested their full cooperation. It also urged Americans in Algeria to exercise ``utmost precaution.'' </P>
+<P> Fundamentalist Muslem militants are battling to turn Algeria into an Islamic state. About 4,000 people, mainly security forces personnel and militants, have been killed since the cancellation of a scheduled a general election in January 1992. The now-outlawed Islamic Salvation Front had been poised to win the vote. </P>
+</TEXT>
+</DOC>

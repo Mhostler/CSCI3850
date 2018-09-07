@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU004-0113.941007</DOCID>
+<TDTID>TDT004589</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/07/94 11:23</DATE>
+<TITLE> Dozens feared dead in boat fire off D.R.</TITLE>
+<HEADLINE> Dozens feared dead in boat fire off D.R.</HEADLINE>
+<SUBJECT> BC-DOMINICAN-BOAT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN JUAN, Puerto Rico (Reuter) </DATELINE>
+<P>  Twenty-six people were missing and feared dead Friday and four people were confirmed dead after a boat caught fire and sank off the Dominican Republic Thursday evening, a U.S. Coast Guard spokesman said. </P>
+<P> The Coast Guard was called at 5:20 p.m. EDT Thursday, to assist a 38-foot boat seen burning in waters about two miles off the eastern Dominican Republic near Punta Nisibon. </P>
+<P> A tugboat, the U.S.-flagged El Rhino Grande, also was in the area and was called in to assist. The tugboat picked up 89 people Thursday evening and rescuers were told 117 people had been on board the burning boat. </P>
+<P> Of the 89 picked up Thursday, four were dead and several had severe injuries, including burns, broken bones and a spinal injury. Two pregnant women on board also were injured. </P>
+<P> The tugboat, joined by a Dominican navy ship and a Coast Guard cutter, found two more people alive Friday morning and rescuers hoped to find more survivors. </P>
+<P> ``We are searching,'' the Coast Guard spokesman said. </P>
+<P> It was not immediately clear why the small boat was crowded with so many people or where it was headed. There is a lucrative trade in the Dominican Republic involving smuggling of immigrants who hope to reach Puerto Rico and eventually the continental United States. </P>
+<P> Several of the injured survivors were airlifted to Puerto Rico for treatment, while others were being treated aboard the Coast Guard cutter. Survivors not needing immediate medical attention were to be transferred to the Dominican naval vessel and returned to the Dominican Republic. </P>
+</TEXT>
+</DOC>

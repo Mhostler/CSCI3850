@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0129.950309</DOCID>
+<TDTID>TDT011128</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 17:43</DATE>
+<TITLE> Figure Skating-Stojko wins men's gold</TITLE>
+<HEADLINE> Figure Skating-Stojko wins men's gold</HEADLINE>
+<SUBJECT> BC-FIGURE SKATING MEDALS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BIRMINGHAM, England (Reuter) </DATELINE>
+<P>  Elvis Stojko of Canada won the gold medal in the men's event at the world figure skating championships Thursday. </P>
+<P> American Todd Eldredge took the silver medal and Philippe Candeloro of France the bronze. </P>
+</TEXT>
+</DOC>

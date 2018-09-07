@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0155.950207</DOCID>
+<TDTID>TDT010203</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 19:45</DATE>
+<TITLE> NHL-League suspends Luc Robitaille</TITLE>
+<HEADLINE> NHL-League suspends Luc Robitaille</HEADLINE>
+<SUBJECT> BC-NHL-ROBITAILLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Pittsburgh Penguins left wing Luc Robitaille was suspended indefinitely by the National Hockey League Tuesday for a high-sticking incident against the New Jersey Devils on Feb. 5. </P>
+<P> NHL Senior Vice President and Director of Hockey Operations Brian Burke announced that Robitaille is suspended pending further review of the incident and a hearing in New York on Wednesday. That meant he would miss Tuesday night's game against the Florida Panthers. </P>
+<P> The incident under review came in overtime of a 3-3 tie with the Devils. Robitaille received a minor penalty for high-sticking New Jersey defenseman Bruce Driver. </P>
+<P> Robitaille, in his first season with the Penguins after eight seasons with the Los Angeles Kings, has eight points on three goals and five assists in eight games this season. </P>
+<P> The 29-year-old Robitaille has 395 goals and 416 assists for 811 points during his career. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU005-0143.950407</DOCID>
+<TDTID>TDT012293</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 20:56</DATE>
+<TITLE> Golf-Pairings for third round of Masters</TITLE>
+<HEADLINE> Golf-Pairings for third round of Masters</HEADLINE>
+<SUBJECT> BC-MASTERS-PAIRINGS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AUGUSTA, Ga.(Reuter) </DATELINE>
+<P>  Pairings for Saturday's third round of the Masters Tournament (players U.S. unless noted, a-amateur): </P>
+</TEXT>
+</DOC>

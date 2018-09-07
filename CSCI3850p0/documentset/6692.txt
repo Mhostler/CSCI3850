@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0172.950519</DOCID>
+<TDTID>TDT013987</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/19/95 10:55</DATE>
+<TITLE> Clinton urges NRA to give up funds it raised</TITLE>
+<HEADLINE> Clinton urges NRA to give up funds it raised</HEADLINE>
+<SUBJECT> BC-CLINTON-NRA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Friday urged the National Rifle Association to give money it raised from a controversial fundraising letter to the families of police officers killed in the line of duty. </P>
+<P> ``They ought to give up the ill-gotten gains,'' Clinton said while posing for pictures with police officials. He urged the NRA to ``turn the money over'' to organizations that help the families of police officers who were killed. </P>
+</TEXT>
+</DOC>

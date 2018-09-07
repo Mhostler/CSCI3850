@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU002-0080.940803</DOCID>
+<TDTID>TDT001394</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 10:56</DATE>
+<TITLE> DEATH TOLL IN CUBAN TRAIN CRASH RISES TO 10</TITLE>
+<HEADLINE> DEATH TOLL IN CUBAN TRAIN CRASH RISES TO 10</HEADLINE>
+<SUBJECT> BC-CUBA-CRASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  The death toll in a collision between two trains in Havana Monday rose to 10 when two of the injured died, the Transport Ministry said Wednesday. </P>
+<P> Some 122 people were injured in the crash at a junction at Luyano neighborhood in the southeast of the capital, 27 of them seriously, the ministry said in a statement. </P>
+<P> The ministry blamed human error for the crash, saying the crew of one of the passenger trains had not followed instructions and the other train had been travelling too fast. It said those responsible for the accident would be punished. </P>
+<P> Cuba's worst train crash was in 1991, when a train derailed in central Villa Clara province, killing 56 people. </P>
+</TEXT>
+</DOC>

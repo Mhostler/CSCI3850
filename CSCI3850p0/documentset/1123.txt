@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0258.940902</DOCID>
+<TDTID>TDT002791</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/02/94 07:07</DATE>
+<TITLE> Sinn Fein demands troops out of Catholic areas</TITLE>
+<HEADLINE> Sinn Fein demands troops out of Catholic areas</HEADLINE>
+<SUBJECT> BC-IRISH-ADAMS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DUBLIN (Reuter) </DATELINE>
+<P>  The head of the IRA's political wing, Gerry Adams, demanded Friday that Britain remove troops and police from Catholic areas of Northern Ireland following the IRA's landmark cease-fire. </P>
+<P> ``Crown forces, including the RUC (Royal Ulster Constabulary), are not acceptable in nationalist areas,'' the Sinn Fein president said in a statement issued in Dublin. </P>
+<P> Adams issued his statement moments before he was due to address his first Dublin news conference since the Irish Republican Army declared a complete cessation of its war from midnight Wednesday. </P>
+<P> He said Britain should immediately start the process of ``demilitarization,'' Republican language for the withdrawal of 18,000 troops and 12,000 police to barracks. </P>
+<P> He used the occasion to demand ``an end to raids and searches and arrests'' and the scrapping of ``all forms of repressive legislation.'' British laws forbid Adams' voice to be broadcast on television or radio. </P>
+</TEXT>
+</DOC>

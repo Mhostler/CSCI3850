@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU014-0062.950326</DOCID>
+<TDTID>TDT011751</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/26/95 14:14</DATE>
+<TITLE> River blindness linked to tormenting itch</TITLE>
+<HEADLINE> River blindness linked to tormenting itch</HEADLINE>
+<SUBJECT> BC-HEALTH-BLINDNESS (EMBARGOED) </SUBJECT>
+<AUTHOR>     By Joanne Kenen </AUTHOR>
+<TEXT>
+<NOTES> Release at 6 p.m. EST</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A parasitic worm that causes blindness or an itch that makes normal living impossible for 18 million Africans is under attack from a coalition that includes an international bank, the United Nations and a major pharmaceutical company. </P>
+<P> Health officials estimate 18 million people suffer from one of the two forms of the disease. The worms live in nodules under the skin. The parasite is spread from one person to another by blackfly bites. </P>
+<P> The Special Program for Research and Training In Tropical Diseases (TDR), a joint endeavor of the World Bank, the World Health Organization, and the U.N. Development Programme, said on Sunday it hopes to have a project in place in a year to begin vanquishing the itching disease from remote villages in 16 nations in east, west and central Africa. </P>
+<P> Merck, which donated the drug ivermectin to a related river blindness eradication program in west Africa, will contribute the medicine to fight the skin disease as well, TDR said. </P>
+<P> The agency still needs about $100 million for the 10-year drive, TDR director Tore Godal said in a recent interview. </P>
+<P> For years, scientists have known that the parasitic worm that causes river blindness can damage the skin and cause unbearable itchiness. </P>
+<P> Victims go through life with an itch so tormenting that they have difficulty working or sleeping. They suffer ugly damage, lumps, lizard-like lesions and discoloration to their skin. </P>
+<P> The campaign to control river blindness, or Onchocerciasis, using the Merck drug, has been effective in the 11-nation western Africa savanna belt, Godal said. </P>
+<P> There are two strains of the worm or parasite known as Onchocerca volvulus. The savanna strain causes blindness, generally in people over age 40. Sometimes they have itching too, but it is considered secondary. </P>
+<P> The other variety, the forest strain, was dismissed by medical experts because it did not cause blindness. </P>
+<P> ``We knew there were two strains,'' said Godal. ``But we weren't aware it was so widespread and serious,'' affecting people's ability to earn a living or to wed. </P>
+</TEXT>
+</DOC>

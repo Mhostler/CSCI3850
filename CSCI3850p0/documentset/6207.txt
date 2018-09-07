@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0354.950502</DOCID>
+<TDTID>TDT013337</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/02/95 08:55</DATE>
+<TITLE> Masked Israeli security men raid Arab hospital</TITLE>
+<HEADLINE> Masked Israeli security men raid Arab hospital</HEADLINE>
+<SUBJECT> BC-MIDEAST-RAID (PICTURE) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Masked Israeli security men raided a main hospital in Arab East Jerusalem Tuesday to search for wanted Palestinian activists, hospital officials said. </P>
+<P> Makassed hospital director Dr Amin Thalji said border policemen wearing knitted masks blocked hospital entrances with jeeps. They barred ambulances from bringing in patients while officers went through hospital files. </P>
+<P> ``They interrupted our work and prevented the movement of ambulances for about one hour,'' Thalji said. </P>
+<P> He said no one was arrested but the raid caused a scare. </P>
+<P> An Israeli police spokesman said he was checking the report. </P>
+<P> Israel often uses undercover soldiers posing as Arabs to search for activists sought by the army for attacks against Israelis. But police raids on hospitals have been rare. </P>
+</TEXT>
+</DOC>

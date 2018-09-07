@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU008-0311.950216</DOCID>
+<TDTID>TDT010500</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/16/95 16:15</DATE>
+<TITLE> Agents arrest fugitive computer hacker</TITLE>
+<HEADLINE> Agents arrest fugitive computer hacker</HEADLINE>
+<SUBJECT> BC-COMPUTER-ARREST </SUBJECT>
+<AUTHOR>     By Colin Soloway </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RALEIGH, N.C. (Reuter) </DATELINE>
+<P>  Kevin Mitnick, described as the ''most wanted computer hacker in the world'' will be presented in court Friday following his arrest after an intensive two-year ``electronic'' manhunt, court officials said Thursday. </P>
+<P> Mitnick, 31, a convicted computer hacker and federal fugitive wanted for violating probation, was arrested Wednesday at his apartment in Raleigh. He is alleged by federal agents to have stolen more than 20,000 credit card numbers and billions of dollars' worth of corporate information. </P>
+<P> Prosecutor John Bowler told reporters he plans to ask that Mitnick be held without bail. </P>
+<P> Mitnick was convicted in 1988 in Los Angeles on charges of stealing computer programs and breaking into corporate computer networks. He received a one-year prison sentence. </P>
+<P> He vanished from southern California in 1992 and a federal arrest warrant was issued on charges that he violated the terms of his probation. </P>
+<P> Federal agents hunting Mitnick were aided by a group of computer network system administrators, in effect, a high-tech posse, led by Tsutomu Shimomura, a computational physicist at the San Diego Computing Center. </P>
+<P> In federal court Wednesday, U.S. attorneys charged Mitnick with illegal use of a telephone device and computer fraud, as well as violating his federal parole in California. The two charges alone could put him behind bars for 35 years and cost him up to $500,000 in fines. </P>
+<P> Prosecutors say more charges are pending. One U.S. attorney described Mitnick as ``clearly the most wanted computer hacker in the world,'' according to published reports. </P>
+<P> Mitnick remains in the custody of U.S. marshals in Raleigh. He will appear in court for a probable cause hearing Friday morning, according to federal court officials. </P>
+<P> As a teen-ager in Sepulveda, Calif., Mitnick allegedly infiltrated the North American Air Defense Command (NORAD) computer system, which watched for Soviet missile launches and directed American nuclear missile systems and bomber wings around the world. In 1988 he was convicted of stealing $1 million in software from computer giant Digital Equipment Corp. </P>
+<P> He went underground in 1992 after being accused of hacking into computers belonging to Pacific Bell telephone company. </P>
+<P> While a fugitive, Mitnick allegedly broke into numerous corporate and communications networks in California, Colorado and North Carolina, causing damage and stealing secret information, according to the Justice department. </P>
+<P> The New York Times said Mitnick had become a suspect in a number of break-ins on the global Internet computer network. </P>
+</TEXT>
+</DOC>

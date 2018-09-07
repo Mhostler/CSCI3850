@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU014-0389.950327</DOCID>
+<TDTID>TDT011794</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 18:16</DATE>
+<TITLE> Lilly says antibiotic compound shows promise</TITLE>
+<HEADLINE> Lilly says antibiotic compound shows promise</HEADLINE>
+<SUBJECT> BC-HEALTH-ANTIBIOTIC </SUBJECT>
+<AUTHOR>     By Kevin Drawbaugh </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  Eli Lilly and Co said Monday that it was developing a compound that could help fight the growing problem of antibiotic resistance. </P>
+<P> Code-named LY333328, the compound may someday provide physicians and hospitals with another ``antibiotic of last resort,'' a role now widely played by Lilly's vancomycin, which scientists worry may be vulnerable to bacterial resistance. </P>
+<P> LY333328 ``is still a long way from commercialization ... But from a scientific standpoint, it's very exciting,'' said Lilly spokeswoman Amy Magan. </P>
+<P> Lilly may launch clinical trials of the compound in late 1996, Magan said. </P>
+<P> ``We think we have the first piece of an answer'' to a vexing problem, she said. </P>
+<P> Antibiotics are drugs that fight the spread of bacteria in patients suffering from bacterial infections. </P>
+<P> One problem with antibiotics, especially those that are widely prescribed, is that some bacteria develop the ability to fight them off and the drugs lose their effectiveness. </P>
+<P> For patients infected by resistant bacteria, hospitals and physicians traditionally have held vancomycin in reserve. </P>
+<P> Because it is not widely prescribed, vancomycin, sold as Vancocin by Lilly and as Vancomysin by Japan's Shionogi and Co Ltd, zaps most bacteria. </P>
+<P> But to physicians' dismay, scientists recently showed that certain bacteria can become resistant to vancomycin in laboratory test tubes. </P>
+<P> It is only a matter of time, physicians fear, before such resistance will become evident in humans, Magan said. </P>
+<P> ``If a bacteria resists vancomycin, ``there's not a whole lot else you can do,'' Magan said. </P>
+<P> Lilly's goal is to develop LY333328 into another antibiotic of last resort, filling any clinical gap that resistance to vancomycin might create, Magan said. </P>
+<P> In the lab, the compound kills the bacteria that have shown themselves able to fight off vancomycin. </P>
+<P> ``One potential advantage the compound may have over many currently marketed antibiotics is that it appears not only to stop bacterial reproduction, but also to kill existing bacteria,'' Lilly said. </P>
+<P> ``Perhaps as a consequence, LY333328 shows little or no ability to select or induce antibiotic resistance,'' it said. </P>
+</TEXT>
+</DOC>

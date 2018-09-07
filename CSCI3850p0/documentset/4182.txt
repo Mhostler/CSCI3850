@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0362.950207</DOCID>
+<TDTID>TDT010168</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 06:22</DATE>
+<TITLE> Ireland set to end emergency powers</TITLE>
+<HEADLINE> Ireland set to end emergency powers</HEADLINE>
+<SUBJECT> BC-IRISH-EMERGENCY </SUBJECT>
+<AUTHOR>     By Andrew Hill </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DUBLIN, Ireland (Reuter) </DATELINE>
+<P>  Ireland was set to end a 50-year-old state of emergency Tuesday in a further move to underpin the Northern Ireland peace process. </P>
+<P> The emergency, which gives police and the army special powers of arrest, was expected to be formally declared over at a session of the Irish parliament Tuesday, officials said. </P>
+<P> The original 1939 act gave the government power to deal with ``subversives'' during wartime and was renewed to crack down on the Irish Republican Army (IRA) after it killed the British ambassador to Dublin in 1976. </P>
+<P> Its abolition was said by government officials to be largely symbolic but the timing was a message of Dublin's determination to reinforce the peace in Northern Ireland since the IRA declared a cease-fire last Sept. 1. </P>
+<P> Membership of the IRA is illegal in Ireland and the government and security forces have cooperated closely with Britain against one of the most formidable guerrilla armies in the world. </P>
+<P> The move follows Ireland's controversial freeing last week of six IRA prisoners in a gesture aimed at rewarding the IRA for ending its war against British rule of Northern Ireland to give a year-old Anglo-Irish peace plan a chance. </P>
+<P> A motion to be approved by both houses of parliament will say that ``the national emergency created by the armed conflict...has ceased to exist.'' </P>
+<P> The abolition of the act will put Ireland further out of step with Britain, which maintains on its statute books special anti-terrorist laws framed to break the IRA and loyalist gunmen fighting to maintain British rule of Northern Ireland. </P>
+<P> Britain staunchly refuses demands by Sinn Fein, the IRA's political wing, to grant amnesty to around 1,000 IRA and loyalist prisoners and denies that they are political. </P>
+<P> Former Irish Prime Minister Albert Reynolds initially proposed abolishing Ireland's state of emergency last year but was forced to resign before his Fianna Fail party could push it through parliament. </P>
+<P> The new Irish Prime Minister, John Bruton, is expected to receive all-party support for the move when parliament meets later Tuesday. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU008-0363.950216</DOCID>
+<TDTID>TDT010507</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/16/95 20:05</DATE>
+<TITLE> Babbitt likens GOP plans to book-burning</TITLE>
+<HEADLINE> Babbitt likens GOP plans to book-burning</HEADLINE>
+<SUBJECT> BC-POLITICS-SCIENCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  Interior Secretary Bruce Babbitt blasted GOP plans to abolish three federal science agencies Thursday, calling the proposals contained in the Contract with America the equivalent of book burning. </P>
+<P> In remarks prepared for a keynote speech at an annual meeting of the American Association for the Advancement of Science, Babbitt accused Republicans of punishing attempts to protect the environment by threatening the scientists entrusted with its care. </P>
+<P> Babbitt pointed out to about 4,000 scientists what he called ``the fine print'' of the Contract with America that calls for elimination of the U.S. Geological Survey, the National Biological Service and the U.S. Bureau of Mines. All three agencies are part of the Interior Department. </P>
+<P> ``The proposed destruction of these three agencies is the resource equivalent of book burning,'' the interior secretary said. </P>
+<P> ``In the 17th Century in Portugal, after a major earthquake devastated that country, the political leaders responded by burning a few more heretics at the stake. Today, the response to California earthquakes is to burn the United States Geological Survey.'' </P>
+<P> The Contract with America is the document that House Speaker Newt Gingrich is using as a legislative agenda to guide the House of Representatives through its first 100 days of the 104th Congress. </P>
+<P> The Republican agenda calls for tax cuts and reduced regulation for American business. </P>
+<P> While Babbitt said he welcomes debate on regulations set down under the U.S. Clean Air Act and the Endangered Species Act, he said the GOP approach is tantamount to recognizing only those scientific findings that correspond with political opinion. </P>
+<P> The U.S. Geological Survey, the Bureau of Mines and National Biological Services conduct scientific research but carry out no regulatory function. </P>
+<P> ``What they do is insulate science from regulators and politicians -- and that makes good sense,'' Babbitt said. </P>
+<P> ``All scientific research, and especially research related to regulatory policy, must be rigorously objective and impartial, free of any regulatory bias or preconceptions.'' </P>
+</TEXT>
+</DOC>

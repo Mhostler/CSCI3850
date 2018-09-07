@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU002-0334.950105</DOCID>
+<TDTID>TDT008940</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/05/95 22:48</DATE>
+<TITLE> CIA nearly halves agents in Japan - news service</TITLE>
+<HEADLINE> CIA nearly halves agents in Japan - news service</HEADLINE>
+<SUBJECT> BC-JAPAN-CIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  The Central Intelligence Agency has almost halved the number of its informants in Japan to about 60 from more than 100 ``at one time,'' a major Japanese news agency reported Friday. </P>
+<P> The informants include businessmen, officials in key economic ministries and leading figures in two of the country's three ruling coalition parties, Kyodo news agency said in a report from Washington that cited sources inside the CIA. </P>
+<P> ``The U.S. Central Intelligence Agency has about 60 agents in Japan which buy information from people in the government, political parties, radical groups and businesses, according to sources inside the CIA,'' Kyodo said. ``At one time there were more than 100 agents in Japan.'' </P>
+<P> Kyodo did not say why the CIA had reduced its operations in Japan. It said the CIA declined to comment on the matter, and there was also no comment from the U.S. embassy in Tokyo. </P>
+<P> The sources declined to name current informants in the Liberal Democratic Party and Socialist party. But they indicated that in the 1980s, a senior Socialist received $2,500 a month for passing on information about party policy, Kyodo said. </P>
+<P> A Socialist spokesman declined to comment on the allegation. </P>
+<P> Aides to senior LDP figures, including former Prime Minister Yasuhiro Nakasone, performed the same services, Kyodo reported. </P>
+<P> In addition to political and security information, the CIA also obtained economic and technological information, it said. </P>
+<P> The report said the CIA used contacts in the farm ministry to learn Japan's negotiating positions prior to 1988 talks which opened the country's beef and citrus markets. </P>
+<P> It obtained similar advice from informants within the Posts and Telecommunications Ministry and other sources ahead of bilateral negotiations on telecommunications, Kyodo said. </P>
+<P> Last autumn, the LDP vehemently denied allegations in a New York Times report that the party received funds from the CIA in the 1950s and 1960s. </P>
+</TEXT>
+</DOC>

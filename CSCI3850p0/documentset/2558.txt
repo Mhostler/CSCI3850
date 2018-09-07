@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU006-0110.941112</DOCID>
+<TDTID>TDT006410</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/12/94 05:29</DATE>
+<TITLE> Hundreds of thousands gather for Rome protests</TITLE>
+<HEADLINE> Hundreds of thousands gather for Rome protests</HEADLINE>
+<SUBJECT> BC-ITALY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  Several hundred thousand Italians gathered in central Rome Saturday for a major national street protest against Prime Minister Silvio Berlusconi's 1995 budget, which plans to cut health and pensions spending. </P>
+<P> Unions have said they expect at least 850,000 people to take part in five marches in the center of the capital in protest at the budget, which Berlusconi has turned into a vote of confidence in his shaky coalition government. </P>
+<P> About 100,000 protesters came to Rome aboard some 2,000 coaches, while special trains from outlying parts of the country picked up protesters along the way. Thousands more travelled independently. </P>
+<P> The marches, organized by the big CISL, UIL and CGIL trades unions, were expected to converge on three central Rome squares where rallies were due to be held. </P>
+<P> Demonstrators unfurled thousands of banners blasting the conservative media tycoon for his plans to cut the benefits of one of Europe's most generous pensions systems. </P>
+<P> ``Silvio Berlusconi, the new Robin Hood: He takes from the workers and pensioners to give to the poor...capitalists,'' read one banner. </P>
+<P> ``Let's get rid of Berlusconi, the new Duce,'' another banner said, calling the Prime Minister by the name of wartime fascist dictator Benito Mussolini. </P>
+<P> Police with truncheons and crash helmets attached to their belts and carrying gas-masks in bags slung on their shoulders were dotted along the routes of the marches. Helicopters hovered overhead. </P>
+<P> Saturday's protest was the latest in a series of marches and strikes by unions, who say the budget is unfair because it hits the poorest hardest. </P>
+</TEXT>
+</DOC>

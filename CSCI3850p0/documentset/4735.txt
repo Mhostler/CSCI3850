@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0127.950305</DOCID>
+<TDTID>TDT011016</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/05/95 15:46</DATE>
+<TITLE> Villeneuve wins Miami IndyCar race</TITLE>
+<HEADLINE> Villeneuve wins Miami IndyCar race</HEADLINE>
+<SUBJECT> BC-MOTOR RACING-INDY-WINNER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  Canadian Jacques Villeneuve won the season-opening IndyCar race in Miami Sunday, driving a Reynard Ford-Cosworth. </P>
+<P> Mauricio Gugelmin of Brazil was second in a Reynard Ford-Cosworth and American Bobby Rahal finished third in a Lola Mercedes-Benz. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0319.950406</DOCID>
+<TDTID>TDT012229</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 21:12</DATE>
+<TITLE> Turkish president arrives in Chile for trade talks</TITLE>
+<HEADLINE> Turkish president arrives in Chile for trade talks</HEADLINE>
+<SUBJECT> BC-CHILE-TURKEY (PICTURE) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SANTIAGO (Reuter) </DATELINE>
+<P>  Turkish President Suleyman Demirel arrived in Chile on Thursday for a three-day visit aimed at bolstering trade ties between his country and Chile's fast-growing economy. </P>
+<P> Joined by an entourage which Chilean officials said numbered 190 people including many top Turkish businessmen, Demirel arrived from Argentina and was met by Foreign Minister Jose Miguel Insulza. </P>
+<P> ``His visit is mainly related to economic ties, which Chile is starting to develop in the Mediterranean area,'' said Deputy Foreign Minister Mariano Fernandez. </P>
+<P> Asked if Chilean officials would raise the issue of Turkey's treatment of Kurdish separatists with Demirel, Fernandez said only that they would ``make our concerns known to the president.'' </P>
+<P> ``But for Chile, the focal point is the intensification of our economic ties,'' Fernandez told reporters. Demirel, on a Latin American tour, continues on to Brazil on Sunday. </P>
+</TEXT>
+</DOC>

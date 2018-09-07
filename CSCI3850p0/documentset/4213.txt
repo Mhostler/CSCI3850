@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0188.950208</DOCID>
+<TDTID>TDT010208</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/08/95 01:01</DATE>
+<TITLE> NATO plans links with Middle East, Africa - paper</TITLE>
+<HEADLINE> NATO plans links with Middle East, Africa - paper</HEADLINE>
+<SUBJECT> BC-NATO-MIDEAST </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  NATO is preparing to forge new links with five North African and Middle Eastern states because of concern about rising Islamic fundamentalism and weapons proliferation, Secretary-General Willy Claes said. </P>
+<P> In an interview with Britain's Independent newspaper published Wednesday, Claes stressed that the threat from Islamic fundamentalism was one of the most important challenges facing the West after the end of the Cold War. </P>
+<P> ``We should not underestimate the risks arising from fundamentalism,'' he said. ``It is our duty to organize, especially with those countries facing this kind of difficulty, a dialogue.''  Claes said he hoped decisions would be made in ``the coming days'' and added that the North Atlantic Treaty Organization would invite several states on a case-by-case basis to start discussions on security. </P>
+<P> The Independent said NATO ambassadors were due to agree Wednesday on a new dialogue with countries including Egypt, Israel, Morocco, Tunisia and Mauritania. Mauritania was included at the insistence of Spain, which reportedly would otherwise not allow the inclusion of Israel. </P>
+<P> The paper says contacts would initially be limited to regular exchanges between governments and officials, but that the door was being deliberately left open to wider security cooperation. </P>
+<P> The paper said NATO was also planning a new ballistic missile defense system to guard against the threat of attack from the Middle East. It says a top-secret threat assessment by NATO last year warned that several states were getting close to having nuclear weapons. </P>
+</TEXT>
+</DOC>

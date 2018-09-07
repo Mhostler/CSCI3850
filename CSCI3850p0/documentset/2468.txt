@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU004-0122.941108</DOCID>
+<TDTID>TDT006204</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/08/94 07:54</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-KOREA-AGENCY -2 VIENNA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Kyd said North Korean representatives would be invited to the Friday meeting, called after the United Nations Security Council last week endorsed a nuclear accord signed by Washington and Pyongyang in October. </P>
+<P> The Security Council asked the IAEA, the body responsible for policing international accords to prevent the spread of nuclear weapons, to monitor a promised freeze of three of North Korea's nuclear sites and two reactors under construction. </P>
+<P> ``The board meeting will take place Friday on North Korea and on the resumption of our inspection activities, including the freeze of the installations that has now been given the green light by the Security Council,'' Kyd said. </P>
+<P> Under the Oct. 21 accord North Korea agreed to freeze and eventually dismantle its existing graphite-moderated nuclear reactors. In return, the United States is to head an international consortium to finance and supply North Korea with a new generation of light-water nuclear power plants. </P>
+</TEXT>
+</DOC>

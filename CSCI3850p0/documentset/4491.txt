@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU011-0204.950223</DOCID>
+<TDTID>TDT010660</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/23/95 04:47</DATE>
+<TITLE> Time in talks to sell Turner stake - report</TITLE>
+<HEADLINE> Time in talks to sell Turner stake - report</HEADLINE>
+<SUBJECT> BC-TIME </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Media giant Time Warner is in talks to sell its 19.4 percent stake in Turner Broadcasting to Turner and Tele-Communications Inc, the Wall Street Journal reported Thursday. </P>
+<P> Citing people familiar with the talks, the paper said Time Warner is expected to get a premium above Turner's recent stock price of $18 per share for the stake, which has a market value of approximately $1 billion.  The proposal was discussed at Turner's board meeting last Friday, sources told the paper. </P>
+<P> Time Warner, which has thwarted Turner's ambitions to buy a broadcast network, was previously trying to get Turner to swap one of its entertainment assets in exchange for the stake, the paper said. </P>
+<P> People familiar with the situation told the paper that the companies are also addressing tax issues, namely possible taxes from Time Warner's gain from the investment, in the negotiations. Those sources told the paper the talks could still collapse. </P>
+<P> Time Warner is required to offer the stake to rival cable operator, Tele-Communications Inc, first, the paper said. </P>
+<P> Time Warner's heavy debt load and $5 billion in recent agreements to acquire cable television systems have made divesting the Turner stake more urgent, the paper said. </P>
+<P> The paper reported that it is not yet clear how Turner and Tele-Communications Inc would divide the Time Warner stake if they jointly buy it. </P>
+<P> Tele-Communications, Time Warner and Turner representatives were not immediately available for comment. </P>
+</TEXT>
+</DOC>

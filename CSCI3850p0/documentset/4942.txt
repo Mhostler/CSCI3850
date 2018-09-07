@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU008-0044.950315</DOCID>
+<TDTID>TDT011310</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/15/95 14:26</DATE>
+<TITLE> Consumer group criticizes rising drug prices</TITLE>
+<HEADLINE> Consumer group criticizes rising drug prices</HEADLINE>
+<SUBJECT> BC-HEALTH-DRUGS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Prices of the 20 top-selling prescription drugs are rising faster than inflation, despite drug company promises to slow price increases, a consumer group charged Wednesday. </P>
+<P> But a major industry group, the Pharmaceutical Research and Manufacturers of America (PhRMA), questioned the survey's methodology and said that drug inflation hit a 22-year low last year. </P>
+<P> Families USA, a health consumer group, said that last year when national health reform seemed a real possibility, drug companies who opposed government-imposed regulations pledged to keep down prices. </P>
+<P> ``Those were worthless promises,'' Ron Pollack, executive director of Families USA, told a news conference. </P>
+<P> The Families USA study found the top 20 drug prices rose 4.3 percent from 1993 to 1994, while overall inflation rose 2.7 percent. </P>
+<P> The elderly bear the brunt of the drug increases, he said. The federal Medicare program does not cover prescription drugs and many retirees live on fixed incomes. </P>
+<P> Pollack said that -- even after the considerable research costs are taken into account -- drug companies make bigger profits than other Fortune 500 companies. </P>
+<P> Drug company profits averaged 15 percent in 1993, compared to 2.9 percent for the average Fortune 500 business, he said. </P>
+<P> PhRMA said that the producer price index for pharmaceuticals has been declining steadily since 1989, when drug prices rose by 9.5 percent. Preliminary figures for the two months ending in January 1995 showed drug inflation was a scant 0.9 percent. </P>
+<P> A variety of market forces, including more generic drugs and more discounts through managed competition networks, is helping rein in price rises, drugmakers say. </P>
+<P> Among the top selling drugs are Zantac for ulcers, Procardia and Vasotec for blood pressure, Mevacor for cholesterol, and Prozac for depression. </P>
+<P> Both the consumer and industry groups agreed that retail prices can vary widely and patients can save by comparison shopping. </P>
+<P> Both small retail pharmacies and larger chain stores have been clamoring to get discounts that are now available to big managed care companies. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU014-0135.950131</DOCID>
+<TDTID>TDT009936</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/31/95 06:44</DATE>
+<TITLE> Russian nuclear power station shuts down reactor</TITLE>
+<HEADLINE> Russian nuclear power station shuts down reactor</HEADLINE>
+<SUBJECT> BC-NUCLEAR-RUSSIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  A Russian nuclear power station near St. Petersburg shut down one of its four reactors Tuesday after a fault was discovered in a turbo-generator, Itar-Tass news agency said. </P>
+<P> It was the second time in less than a month that a mechanical fault had closed a reactor at the Sosnovy Bor station, 60 miles west of St. Petersburg. </P>
+<P> The plant's automatic protection system shut down the Number Three reactor after the fault was discovered. Tass quoted station officials as saying the incident posed no danger and no radioactive material had leaked out. </P>
+<P> On Jan. 4 a reactor at Sosnovy Bor was temporarily closed down when a short-circuit knocked out monitoring equipment. In February last year, one of the station's reactors was shut down after a minor leak of water. </P>
+<P> Sosnovy Bor was the scene of a major incident in March 1992 when radioactive iodine and inert gases escaped after a loss of pressure in a reactor channel, triggering international concern. </P>
+<P> The reactors at the plant are of the same type as those at the Chernobyl station in Ukraine, scene of the world's worst nuclear accident in 1986. </P>
+<P> Technicians at Chernobyl accidentally shut down one of the two working reactors at the plant Sunday but no increase in radiation was recorded. </P>
+</TEXT>
+</DOC>

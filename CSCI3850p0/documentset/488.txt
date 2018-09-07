@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU014-0241.940729</DOCID>
+<TDTID>TDT001220</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/29/94 20:22</DATE>
+<TITLE> JUDGE RESETS O.J. SIMPSON TRIAL FOR SEPTEMBER 19</TITLE>
+<HEADLINE> JUDGE RESETS O.J. SIMPSON TRIAL FOR SEPTEMBER 19</HEADLINE>
+<SUBJECT> BC-USA-SIMPSON-TRIAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  A judge Friday reset O.J. Simpson's trial date to September 19 after at first scheduling the proceedings to begin a day later. </P>
+<P> Superior Court Judge Lance Ito vacated a September 20 trial date in a written order. Simpson's lawyers had asked for the case to be brought to trial as quickly as possible under rules that entitle him to be tried within 60 days, and Ito said the original date resulted from a miscalculation. </P>
+</TEXT>
+</DOC>

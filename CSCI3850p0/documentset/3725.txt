@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0174.950112</DOCID>
+<TDTID>TDT009218</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/12/95 06:31</DATE>
+<TITLE> Two Israelis stabbed near West Bank settlement</TITLE>
+<HEADLINE> Two Israelis stabbed near West Bank settlement</HEADLINE>
+<SUBJECT> BC-MIDEAST-STABBING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HEBRON (Reuter) </DATELINE>
+<P>  Palestinians stabbed and axed two Israeli settlers near the Jewish settlement of Kiryat Arba in the occupied West Bank Thursday, settlers said. </P>
+<P> They said Palestinians attacked the two in an Arab-owned hardware store near the settlement. One was stabbed in the head and the other in the chest. </P>
+<P> Zvi Katzover, a settlers leader, said the Israelis were unarmed. He said he understood there were at least two attackers. </P>
+<P> Palestinians in the store took the two Israelis to a nearby Israeli army roadblock where they were treated before being taken to hospital, settlers said. </P>
+</TEXT>
+</DOC>

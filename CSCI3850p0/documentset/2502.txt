@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU004-0395.941109</DOCID>
+<TDTID>TDT006256</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/09/94 03:03</DATE>
+<TITLE> New makeup of U.S. Senate, House, governors posts</TITLE>
+<HEADLINE> New makeup of U.S. Senate, House, governors posts</HEADLINE>
+<SUBJECT> BC-ELECTION-TABLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Following Tuesday's elections, here is the new makeup of the U.S. Senate, House of Representatives as well as the makeup of the governors' posts. The new House total is based on an ABC News report at 2 a.m. EST Wednesday. </P>
+<P> Old makeup: 256 Democrats, 178 Republicans, one independent. </P>
+<P> Old makeup: 56 Democrats, 44 Republicans. </P>
+</TEXT>
+</DOC>

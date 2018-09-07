@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU009-0032.950414</DOCID>
+<TDTID>TDT012557</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/14/95 09:58</DATE>
+<TITLE> Suspected Muslim militants kill six in Egypt</TITLE>
+<HEADLINE> Suspected Muslim militants kill six in Egypt</HEADLINE>
+<SUBJECT> BC-EGYPT-MILITANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO, Egypt (Reuter) </DATELINE>
+<P>  Suspected Muslim militants shot and killed six people, including a three-year-old girl and a policeman, in a village in southern Egypt Friday, police said. </P>
+<P> Unidentified gunmen opened fire in a busy street in the village of Nawai in Minya province, 160 miles south of Cairo, killing three-year-old Asmaa Hassan el-Sayed, two women, two civilian men and policeman Saber Mahmoud Abdel-Hakim, they said. </P>
+<P> They said they believed the attackers were members of Egypt's largest militant organization, al-Gamaa al-Islamiya (Islamic Group). </P>
+<P> The Gamaa has been leading a campaign of violence to overthrew President Hosni Mubarak's government and establish a strict Islamic state since 1992. More than 710 people, including civilians, policemen and militants, have been killed in the campaign. </P>
+<P> Minya province has been at the center of clashes between police and militants this year. Militants use its vast sugarcane fields and mountains as hideouts to carry out hit-and-run attacks against policemen. </P>
+</TEXT>
+</DOC>

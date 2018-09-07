@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0195.950403</DOCID>
+<TDTID>TDT012072</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/03/95 17:41</DATE>
+<TITLE> Canadian police support tougher gun laws</TITLE>
+<HEADLINE> Canadian police support tougher gun laws</HEADLINE>
+<SUBJECT> BC-CANADA-GUNS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OTTAWA (Reuter) </DATELINE>
+<P>  Canadian police chiefs said Monday they support plans to force gun owners to register their firearms, despite a widespread backlash against the government's planned crackdown on crime. </P>
+<P> The Canadian Association of Chiefs of Police said at a news conference that its members feel they have enough resources to enforce the proposed laws. </P>
+<P> ``The Minister of Justice has assured us this new legislation will not take police off the streets,'' said Ontario Provincial Police Commissioner Thomas O'Grady. </P>
+<P> In February, Justice Minister Allan Rock outlined a plan to force all gun owners to register their weapons. </P>
+<P> The government also outlawed certain firearms and increased penalties for some crimes committed by people using guns. </P>
+<P> Gun owners have said they fear the plan to register their firearms will be costly and will not cut down on crime. </P>
+</TEXT>
+</DOC>

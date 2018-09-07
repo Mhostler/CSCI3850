@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0203.941213</DOCID>
+<TDTID>TDT007858</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/13/94 14:46</DATE>
+<TITLE> AAA predicts record holiday travel in U.S.</TITLE>
+<HEADLINE> AAA predicts record holiday travel in U.S.</HEADLINE>
+<SUBJECT> BC-TRAVEL-HOLIDAYS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The American Automobile Association Tuesday predicted a record 36 million people will hit the highways and take to the sky over the holidays, up 2 percent from last year. </P>
+<P> The AAA also said motorists will pay more to get to Grandma's house for Christmas. Gasoline nationwide will cost an average of 5.8 cents more than last year at $1.149 a gallon, the AAA's monthly fuel gauge report found. </P>
+<P> An estimated 28.4 million Americans will travel by car, truck or recreational vehicle, compared to last year's 28 million, the AAA said. Auto travel will be heaviest in the Southeast. </P>
+<P> Travel by air, train and bus will jump 4 percent to 7.6 million, it said. </P>
+<P> ``This year, increased consumer confidence and numerous bargain airfares may have converted some people who have traveled by auto in the past,'' Graeme Clarke, a vice president at AAA, said in a statement. </P>
+<P> AAA estimates motorists in the West will pay 6.6 cents more than a year ago for self-serve regular unleaded gasoline at $1.271; in New England 8.3 cents more at $1.193; in the Mid-Atlantic 8.9 cents more at $1.18; in the Southwest 2.6 cents more at $1.126; in the Great Lakes region 10.3 cents more at $1.098; in the Southeast 7.2 cents more at $1.09; and in the Midwest 4.2 cents more at $1.087.  The monthly fuel gauge report also showed self-serve mid-grade unleaded gasoline rose 5 cents from last Christmas to $1.243 a gallon and self-serve premium unleaded was up 3.9 cents at $1.325. </P>
+</TEXT>
+</DOC>

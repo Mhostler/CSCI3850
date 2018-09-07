@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU005-0063.940910</DOCID>
+<TDTID>TDT003161</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/10/94 15:45</DATE>
+<TITLE> Tennis-Graf beats Sanchez Vicario for U.S. Open</TITLE>
+<HEADLINE> Tennis-Graf beats Sanchez Vicario for U.S. Open</HEADLINE>
+<SUBJECT> BC-SPORT-TENNIS OPEN WINNER URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK, Sept 10 (Reuter) </DATELINE>
+<P>  Second seed Arantxa Sanchez Vicario of Spain defeated top-seeded defending champion Steffi Graf of Germany 1-6 7-6 (7-3) 6-4 on Saturday to win the U.S. Open women's singles title. </P>
+</TEXT>
+</DOC>

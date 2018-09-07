@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU015-0293.950425</DOCID>
+<TDTID>TDT013023</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/25/95 07:45</DATE>
+<TITLE> Russian oil pipeline ruptures in Siberia-Interfax</TITLE>
+<HEADLINE> Russian oil pipeline ruptures in Siberia-Interfax</HEADLINE>
+<SUBJECT> BC-OIL-RUSSIA-SPILL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  A corroded pipeline has spilled 42,400 cubic feet of crude oil in western Siberia's Tyumen region, Interfax news agency quoted the Civil Defense Ministry as saying Tuesday. </P>
+<P> The spill, which took place April 19, covered an area of 74 acres about 10 miles north of the city of Megion, it said. </P>
+<P> The accident was the latest in a series highlighting the poor state of Russia's pipeline network. </P>
+<P> Leading Russian environment official Alexei Yablokov has estimated total leaks at about 3 million tons a year. </P>
+</TEXT>
+</DOC>

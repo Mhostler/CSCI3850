@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0026.950205</DOCID>
+<TDTID>TDT010107</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/05/95 15:02</DATE>
+<TITLE> Clinton to get recommendations on ending baseball strike</TITLE>
+<HEADLINE> Clinton to get recommendations on ending baseball strike</HEADLINE>
+<SUBJECT> BC-BASEBALL-CLINTON URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The mediator in the major league baseball strike said Sunday he would present recommendations for ending the labor dispute to President Clinton on Monday because the players and owners haved been unable to reach agreement. </P>
+<P> ``I have told both parties this morning that I would be preparing a recommendation to present to the President tomorrow,'' mediator W.J. Usery told reporters. </P>
+</TEXT>
+</DOC>

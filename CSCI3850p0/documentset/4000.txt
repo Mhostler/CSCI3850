@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0322.950127</DOCID>
+<TDTID>TDT009821</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/27/95 10:51</DATE>
+<TITLE> McCurry uses GDP figures to slap budget amendment</TITLE>
+<HEADLINE> McCurry uses GDP figures to slap budget amendment</HEADLINE>
+<SUBJECT> BC-BUDGET-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton's spokesman Friday used the latest economic growth figures to sow doubts about the wisdom of the Republican push for a balanced budget amendment. </P>
+<P> White House spokesman Mike McCurry said data showing that the nation's gross domestic product expanded at a 4.5 percent annual rate in the three months from October through December, 1994, ``demonstrates the strength of the economic recovery.'' </P>
+<P> ``Protecting the economic recovery and the creation of jobs for Americans ought to be at the top of every agenda in Washington,'' McCurry said, adding that this was ``among the reasons'' Clinton was concerned about the proposed amendment. </P>
+<P> The House Thursday approved the amendment, which would require the federal budget to be balanced each year, taking the first step toward the first constitutional change in U.S. history directing the way Congress operates. If the Senate also approves it, 38 state legislatures must ratify it for the measure to become part of the Constitution. </P>
+<P> Many economists and political scientists question whether the amendment is a sound idea, saying it would limit options for dealing with recessions and other national ills. Clinton has not flatly come out against it but has pecked away at the vagueness of its sponsors on how it would work. </P>
+<P> ``The president, as does most everyone in Washington, wants a balanced budget. But the president also wants the details on how the House would propose to meet the new constitutional requirements,'' McCurry said. He said this ``goes to the heart of how we protect the strength of the economy and how we take care of those who are less fortunate.'' </P>
+</TEXT>
+</DOC>

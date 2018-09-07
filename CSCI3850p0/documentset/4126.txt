@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU002-0130.950203</DOCID>
+<TDTID>TDT010063</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/03/95 10:15</DATE>
+<TITLE> December factory orders up</TITLE>
+<HEADLINE> December factory orders up</HEADLINE>
+<SUBJECT> BC-ECONOMY-ORDERS </SUBJECT>
+<AUTHOR>     By Glenn Somerville </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Orders received by factories rose strongly in December and posted the biggest annual increase in 15 years for all of 1994, the Commerce Department said Friday. </P>
+<P> The 1.7 percent rise in December orders to a seasonally adjusted $298.6 billion followed a revised 2.7 percent increase in November orders and was well above Wall Street economists' forecasts of a 0.9 percent gain. It suggested steady manufacturing sector momentum entering 1995. </P>
+<P> Manufacturing industries have been booming for the past year and a half. The total 10.2 percent jump in 1994 orders was nearly double 1993's year-over-year gain of 5.8 percent. It was the biggest gain in factory orders for any year since 1979, when they climbed 12.1 percent. </P>
+<P> Shipments of finished products as well as order backlogs also strengthened from November levels, further evidence that manufacturing companies are thriving and have enough business ahead to keep doing so. </P>
+<P> Only a few industries show signs of slowing, notably autos, as inventories of unsold vehicles rise on dealer lots and price rebates are once more being offered. </P>
+<P> The strong December factory orders report was foreshadowed by the latest report from the National Association of Purchasing Management. NAPM said earlier this week that the manufacturing economy expanded for a 17th straight month in January and did so at a slightly more vigorous pace than in December. </P>
+<P> Manufacturing is one of the strongest sectors of the economy, so far little affected by seven rounds of interest-rate rises in the past year that have started to weaken some other sectors like housing. </P>
+<P> That was highlighted in the January employment report published earlier Friday by the Labor Department. While the national jobless rose to 5.7 percent last month from 5.4 percent in December, there were 39,000 more factory jobs in January on top of 35,000 more in December and overtime hours increased to an average 4.9 a week from 4.8 in December. </P>
+<P> Commerce reported last week that durable goods orders, which account for about half of total factory business, rose 1.4 percent in December. It revised that in the orders report to show a a slightly stronger 1.5 percent pickup. </P>
+<P> Previously, it said total factory orders in November rose 2.6 percent but it revised that up slightly. </P>
+<P> The December factory orders report showed orders for transportation equipment rose 6.0 percent after a 12.1 percent increase in November. </P>
+<P> Shipments of motor vehicles and parts increased a much smaller 2.8 percent in December after a 7.6 percent November rise. In the automobile industry, shipments correspond to orders. </P>
+<P> Excluding transportation, factory orders were up 1.0 percent in December after increasing 1.4 percent in November. </P>
+<P> Shipments of manufactured goods, which reflect more immediate demand than orders, gained 1.4 percent in December after a 2.5 percent rise in November. </P>
+<P> Orders for non-defense capital goods, a measure of business' expansion plans, dropped 6.8 percent after increasing 6.5 percent in November. </P>
+<P> Orders for non-durable goods rose 1.8 percent after gaining 1.9 percent in November. </P>
+<P> Unfilled orders increased for a fourth straight month, rising 0.7 percent in December after a 0.6 percent gain in November. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU011-0359.950223</DOCID>
+<TDTID>TDT010685</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/23/95 17:51</DATE>
+<TITLE> House kills changes to regulatory freeze</TITLE>
+<HEADLINE> House kills changes to regulatory freeze</HEADLINE>
+<SUBJECT> BC-REGULATIONS </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The House killed one Democratic amendment after another Thursday as debate opened on a Republican proposal to freeze government regulations until year's end. </P>
+<P> House Democrats used amendments to highlight what they saw as the shortcomings of the moratorium, which they said would threaten health and safety. </P>
+<P> They worked in tandem with President Clinton, who hinted this week he would veto such the bill if it reaches him. </P>
+<P> Republicans insisted there would be no threat to health and safety if the measure passed. </P>
+<P> ``Any regulatory action needed can go forward,'' said Rep. David McIntosh, R-Ind., author of the bill, during debate over one of the Democratic amendments. </P>
+<P> He cited an emergency clause that permits regulations to go forward if they protect against death, serious injury and threats of substantial endangerment to private property. </P>
+<P> His statement -- which applied to many of the proposed amendments -- came during debate over a proposed change by Rep. Louise Slaughter, D-N.Y. Her amendment would have, among other things, exempted from the bill any regulations to improve meat and poultry inspections. </P>
+<P> Rep. Robert Torricelli, D-N.J., said there was an ''epidemic'' of unsafe meat and poultry because methods of food safety have not been updated for 75 years. </P>
+<P> He said it was not possible to show imminent threats to safety, but that the freeze would mean ``years of work to try to protect the American people are going to be lost'' as the government moved to update inspection techniques. </P>
+<P> The proposal freezes all regulations and any work on regulations until the end of the year, by which time Republicans hope to have overhauled the regulatory process. </P>
+<P> The House turned down the Slaughter amendment 249-199 and other amendments by similar margins. </P>
+<P> The debate was expected to continue into Friday, when a final vote was expected. </P>
+<P> If the measure passes it may face trouble at the White House. </P>
+<P> Earlier this week Clinton set a June 1 deadline for scrapping unneeded federal regulations but said he wouldn't accept the Republican push to freeze all rulemaking. </P>
+<P> ``We shouldn't go too far,'' he said. </P>
+</TEXT>
+</DOC>

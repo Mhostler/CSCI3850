@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0009.940914</DOCID>
+<TDTID>TDT003351</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/14/94 05:45</DATE>
+<TITLE> South Africa to give Kenya 20 white rhino</TITLE>
+<HEADLINE> South Africa to give Kenya 20 white rhino</HEADLINE>
+<SUBJECT> BC-SAFRICA-RHINO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DURBAN, South Africa (Reuter) </DATELINE>
+<P>  South Africa will present Kenya with 20 white rhino later this month in a bid to bolster one of Africa's most-poached species, the Natal Parks Board said Wednesday. </P>
+<P> ``This is the largest single international donation of rhino the Natal Parks Board has ever made and is part of the board's striving for the improved conservation of rhino throughout the world,'' board chairman George Hughes said in a statement. </P>
+<P> Ten rhino will be given to the Masai tribe in Kenya's Masai Mara area, while the other 10 will be donated to Lake Nakuru National Park. All are from the Hluhluwe-Umfolozi game reserve in KwaZulu-Natal and were captured in July. </P>
+<P> The parks board is recognized internationally as a leader in wildlife conservation. </P>
+<P> Poachers have decimated Africa's rhino populations to obtain their horns, which are used as dagger handles in Yemen and are ground to powder for love potions in Asia. </P>
+<P> South Africa has 5,200 of the world's 5,800 white rhinos and 870 of its 1,800 black rhinos. </P>
+</TEXT>
+</DOC>

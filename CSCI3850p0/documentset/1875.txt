@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0362.941008</DOCID>
+<TDTID>TDT004668</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/08/94 12:35</DATE>
+<TITLE> Fed chief urges banks to improve lending terms</TITLE>
+<HEADLINE> Fed chief urges banks to improve lending terms</HEADLINE>
+<SUBJECT> BC-USA-ECONOMY-BANKS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Banks should try harder to give better loan terms to their better customers, Federal Reserve Chairman Alan Greenspan said Saturday. </P>
+<P> In a speech to the American Bankers Association, the chairman of the U.S. central bank said it would be fairer and more efficient if banks priced their loans more according to the creditworthiness of individual borrowers. </P>
+<P> ``A single interest rate for credit, or even two or three rates, suggests that some individual borrowers are being overcharged in relation to their riskiness and some are being overcharged,'' Greenspan said. </P>
+<P> Unlike large corporations that are able to raise money directly by issuing bonds or commercial paper in the marketplace, small and medium-sized companies often have little alternative than banks for their financing needs. </P>
+<P> But within this group there are differences in risk which bankers should be cognizant of in pricing loans, the central banker noted. </P>
+<P> ``If banks become more confident of their ability to measure credit risk, then they can begin pricing properly for the higher risk borrowers rather than simply denying credit,'' he said. </P>
+</TEXT>
+</DOC>

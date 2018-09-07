@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU010-0257.950221</DOCID>
+<TDTID>TDT010626</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/21/95 15:11</DATE>
+<TITLE> Clinton asks some rules scrapped but rejects freeze</TITLE>
+<HEADLINE> Clinton asks some rules scrapped but rejects freeze</HEADLINE>
+<SUBJECT> BC-CLINTON-REGULATION </SUBJECT>
+<AUTHOR>     By Susan Cornwell </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Tuesday set a June 1 deadline for scrapping unneeded federal regulations but said a Republican effort to freeze all rulemaking would paralyze the government. </P>
+<P> Clinton, appearing with Vice President Al Gore before an assembly of government regulators, said he did not want the government to be the ``national nanny.'' He said he favored throwing out rules, even entire agencies, that are obsolete, but he said, ``We shouldn't go too far.'' </P>
+<P> Clinton said government regulation had saved lives through dramatic improvements in public health and worker safety and he opposed ``extreme'' Republican proposals to stop all rulemaking. ``I am convinced a moratorium would hurt the broad interests of the American people,'' he said. ``A moratorium is not acceptable. </P>
+<P> ``A small army of special interest lobbyists knows they can never get away with an outright repeal of consumer or environmental protection,'' Clinton said. ``But why bother if you can paralyze the government by process?'' </P>
+<P> The White House aranged the event to let Clinton show he too favored regulatory reform while declaring his opposition to the Republican proposals now working their way through the House. But the president stopped short of a veto threat. </P>
+<P> As part of their domestic policy agenda, the Republican majority on Capitol Hill wants to impose a regulatory moratorium, a move that would end a wide range of government action from investigating the tobacco industry to regulating seafood and meat. A vote on the regulatory moratorium is expected in the House this week. </P>
+<P> If passed by the House and Senate and signed into law, it would last indefinitely, or until Congress passes permanent regulatory reform. </P>
+<P> The Republicans also are promoting legislation to require extensive risk assessment and cost benefit studies before new regulations can be issued and require compensation of private property holders when regulations have the effect of reducing their property value by 10 percent or more. </P>
+<P> Emphasizing that he, like the Republicans, wanted reform, Clinton asked federal agencies to come up with a list of rules that can be discarded by June 1. He also asked federal regulators to look for rulemaking that can be ``negotiated'' with the public; to start measuring their own performance by successes, not how many punishments they mete out to the public; and to meet with people affected by their rules. </P>
+<P> Clinton said as governor of Arkansas he used to eliminate agencies just ``to see if anybody would notice.'' Normally, he said, no one did. But he said federal regulations were responsible for cutting auto fatalities, making meat, poultry and drugs safer and helping to rid the environment of toxic pollutants such as lead. </P>
+<P> In a swipe at Republicans, Clinton said their ``Contract with America'' legislative agenda also had the effect of piling new regulations on government. ``The Contract with America, literally read, would pile so many new requirements on government that nothing would ever get done,'' he said. </P>
+</TEXT>
+</DOC>

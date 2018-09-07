@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0398.941209</DOCID>
+<TDTID>TDT007678</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/09/94 12:07</DATE>
+<TITLE> Sinn Fein presents British officials with demands</TITLE>
+<HEADLINE> Sinn Fein presents British officials with demands</HEADLINE>
+<SUBJECT> BC-IRISH-TALKS-TEXT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELFAST, Northern Ireland (Reuter) </DATELINE>
+<P>  Sinn Fein, the political wing of the Irish Republican Army, started exploratory talks Friday with British government officials, the first formal open contact between the two sides in over 70 years. Sinn Fein presented the British officials with a submission, which it said formed the basis for its entry into talks. Following is the introductory text of the submission. </P>
+<P> ``Sinn Fein welcomes the resumption of discussions between your government and our party and we look forward to a positive engagement which we hope will move the present peace process forward. Sinn Fein enters these discussions on the basis of our electoral mandate. We regret that the British government has failed to recognize our mandate or the rights of our voters. It is essential that Sinn Fein and our voters are accorded parity of esteem and equality of treatment. We hope, therefore, that this meeting marks the end of the discrimination to which we, as a party, and our electorate, have been subjected until now. There is an onus upon the British government to engage with our party on the same basis that it deals with every other party. Our delegation represents the leadership of our party. This is in earnest of our serious intent to engage meaningful and authoratively with your government. Your government needs to respond in kind and with speed. </P>
+<P> We believe that the political climate in which these talks occur could be significantly improved if your government responded positively to the need for a demilitarisation of the situation. An end to British military operations and the speedy release of all political prisoners, for example, would greatly assist the peace process. While such issues should not become preconditions to inclusive dialogue we would urge you to address them as a matter of urgency. </P>
+<P> We regard these discussions as preliminary to the all party negotiations led by both the Dublin and the London governments, which is the essential next stage in the search for a lasting political settlement. It is therefore essential that we apply ourselves energetically to the completion of these preliminary discussions and move quickly to inclusive peace talks. We are confident that we can do so speedily. </P>
+<P> The talks are, in themselves, an historic development and reflect the unprecedented opportunity which has now been created to resolve the age-old conflict between Britain and Ireland and to build a lasting peace based on democratic principles. As democrats we believe that this settlement should be based on the fundamental right of the Irish people to national self-determination. As Irish republicans we seek an end to British jurisdiction in our country. </P>
+<P> Notwithstanding the many obvious political differences between us, I am sure you will agree that dialogue offers us the best hope of moving forward. We will, therefore, address these discussions and the all party talks which follow on from these, in a constructive, responsible and determined manner.'' </P>
+</TEXT>
+</DOC>

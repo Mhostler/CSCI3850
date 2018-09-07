@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0182.950105</DOCID>
+<TDTID>TDT008900</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/05/95 10:12</DATE>
+<TITLE> Doctor calls for halt of child shock therapy</TITLE>
+<HEADLINE> Doctor calls for halt of child shock therapy</HEADLINE>
+<SUBJECT> BC-HEALTH-SHOCKS (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> Release at 7 P.M. EST</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Electroconvulsive or shock therapy should not be used for children under 16 because it may cause memory problems and too little is known about other potential hazards, a psychiatric consultant said Thursday. </P>
+<P> Dr. Tony Baker, writing in the British medical journal Lancet, questioned the ethics of the treatment known as ECT, saying anecdotes of misuse and damage to unsuspecting and uninformed patients abounded. </P>
+<P> In ECT, a short burst of electric current is sent through the brain to induce a convulsion. Though its use has declined, the therapy is still considered important for some patients with severe depression or schizophrenia. </P>
+<P> Baker said such electric currents are associated with memory problems and that ``young skulls have a lower electrical resistance and for the same electric charge will be exposed to higher current than other skulls.'' </P>
+<P> The British consultant, an expert in childhood trauma, also said ECT should be conducted on those over 16 only under a licence system. He said technology in Britain, unlike that used in the United States, was not adequate to ensure that only the minimum electric charge to induce a seizure is given. </P>
+</TEXT>
+</DOC>

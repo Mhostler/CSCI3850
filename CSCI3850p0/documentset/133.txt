@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU004-0438.940708</DOCID>
+<TDTID>TDT000300</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/08/94 20:53</DATE>
+<TITLE> CALIFORNIA GOVERNOR SIGNS STATE BUDGET</TITLE>
+<HEADLINE> CALIFORNIA GOVERNOR SIGNS STATE BUDGET</HEADLINE>
+<SUBJECT> BC-USA-CALIFORNIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SACRAMENTO, Calif (Reuter) </DATELINE>
+<P>  California Governor Pete Wilson signed a $58.7 billion state budget Friday, eight days into the fiscal year, averting the threat of having to issue IOUs. </P>
+<P> Wilson praised the state legislature for making tough choices in cutting health and welfare and avoiding tax hikes and criticized the Clinton administration and Congress for not reimbursing the state for services to illegal immigrants. </P>
+<P> Citing a depressed economy hard hit by military base closures and defense industry cuts, Wilson said it is ``the best possible budget under the circumstances.'' </P>
+<P> Arguments between Democrats and Republicans postponed adoption of the state budget beyond the July 1 start of the 1994/95 fiscal year. </P>
+<P> Several state officials had warned that if the legislature did not pass a budget soon, the state would be forced to issue IOUs to pay its bills as it did during a 1992 budget crisis. </P>
+<P> The legislature finally passed the budget earlier this week after Wilson, a Republican, reached an agreement with leaders of the Democratic-dominated state legislature. </P>
+<P> The budget and a two-year cash management plan, which could force automatic spending cuts if state revenues fall short of projections later this year, now enable the state to issue $7 billion in short-term debt to smooth out its cash flow and to finance a running deficit. </P>
+<P> California has struggled to balance its budget during the last four years of severe recession. </P>
+<P> The budget cuts welfare spending by 2.3 percent and no extra funds will be given to families who have additional children while on aid. Those convicted of welfare fraud will lose their right to further aid. </P>
+<P> The generally austere budget does include at least one area of increased funding -- a $30 million domestic violence program spurred by publicity over the O.J. Simpson murder case. </P>
+<P> The program provides $30 million over the next two years for battered women's shelters and to finance domestic violence prosecution units in district attorney's offices in the state. </P>
+<P> The state had previously been spending only about $1.4 million a year to aid battered women. </P>
+<P> Simpson, the former football star, has pleaded innocent to charges of murdering his ex-wife, Nicole Simpson, and a friend. </P>
+</TEXT>
+</DOC>

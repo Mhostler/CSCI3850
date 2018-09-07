@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0002.950117</DOCID>
+<TDTID>TDT009423</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/17/95 20:00</DATE>
+<TITLE> UN chief approves takeover in Haiti March 31</TITLE>
+<HEADLINE> UN chief approves takeover in Haiti March 31</HEADLINE>
+<SUBJECT> BC-HAITI-UN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  Secretary-General Boutros Boutros-Ghali, in a report to the Security Council, recommended the United Nations takeover the Haiti operation from the United States on or around March 31. </P>
+<P> ``I expect that UNMIH will be able to take over on or around 31 March 1995,'' he said in the report obtained by Reuters late Tuesday. </P>
+</TEXT>
+</DOC>

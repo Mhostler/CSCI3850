@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU017-0255.950331</DOCID>
+<TDTID>TDT011979</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/31/95 19:18</DATE>
+<TITLE> City cracking down on phony phone scam</TITLE>
+<HEADLINE> City cracking down on phony phone scam</HEADLINE>
+<SUBJECT> BC-PHONES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  New York City officials announced a crackdown Friday on unscrupulous electronics stores that are selling phony long-range telephones to unsuspecting tourists for as much as $1,200. </P>
+<P> The Consumer Affairs Department obtained a temporary restraining order against eight stores in midtown Manhattan that have been selling ordinary household portable phones under the brand name ``Satellite Long Range Cordless Telephones,'' Commissioner Fred Cerullo said. </P>
+<P> Sales people at the stores have told tourists that the phones have a range of up to 186 miles, a department spokesman said. The phones really have a range of 1,000 feet at most, he said. </P>
+<P> The phones, for which tourists are paying $400 to $1,200 apiece, are actually inexpensive cordless models with limited range and worth less than $100, he said. </P>
+<P> The city is cracking down ``to ensure that April Fool's Day occurs only once a year, and not every time a tourist walks into an electronics store in search of a bargain,'' Cerullo said in a statement. </P>
+<P> The city has gotten some complaints from unsuspecting tourists who bought the phones, but officials said they assume many people left the country before realizing they had been taken in by the phony phones. </P>
+<P> ``Unfortunately, tourists are prime targets of these outrageous sales practices because unscrupulous entrepreneurs know that they usually don't stay around long enough to complain, and many have difficulty in understanding our language and laws,'' Cerullo said. </P>
+<P> Representatives of the eight stores have been ordered to appear at a court hearing on Thursday, officials said. </P>
+</TEXT>
+</DOC>

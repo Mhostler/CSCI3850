@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU015-0415.950329</DOCID>
+<TDTID>TDT011867</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/29/95 11:03</DATE>
+<TITLE> U.S. Navy ships collide during refueling</TITLE>
+<HEADLINE> U.S. Navy ships collide during refueling</HEADLINE>
+<SUBJECT> BC-DEFENSE-COLLISION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The U.S. Navy helicopter carrier Wasp was involved in a minor collision with a combat support ship during refueling in the Atlantic Ocean Wednesday, the Navy said. </P>
+<P> The Navy said no injuries were reported and there was only minor damage to the Wasp and the fast combat support ship Seattle in the collision about 1,100 miles southwest of the Azores islands. Weather conditions were fair, with four to six-foot seas and unrestricted visibility, U.S. Atlantic Fleet headquarters in Norfolk, Va., said in a statement. </P>
+<P> The Wasp is returning to Norfolk from the Norwegian Sea, where it participated in a six-week NATO exercise. </P>
+</TEXT>
+</DOC>

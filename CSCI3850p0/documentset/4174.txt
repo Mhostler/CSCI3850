@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0294.950206</DOCID>
+<TDTID>TDT010147</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/06/95 19:35</DATE>
+<TITLE> Baseball-Venezuela blanks Mexico in Caribbean World Series</TITLE>
+<HEADLINE> Baseball-Venezuela blanks Mexico in Caribbean World Series</HEADLINE>
+<SUBJECT> BC-BASEBALL-CARIBBEAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN JUAN, Puerto Rico (Reuter) </DATELINE>
+<P>  Edgar Alfonzo slammed a two-run homer in the seventh inning to cap a three-run rally Monday as the Venezuelan champion Caracas Lions blanked Mexico 3-0 at the Caribbean World Series. </P>
+<P> Venezuela starter Urbano Lugo was the winning pitcher, giving up only three hits in seven innings. Frank Gonzalez relieved and pitched scoreless ball for the final two innings to earn the save. </P>
+<P> The result gave Venezuela its first win against two losses and left Mexico, represented by the Hermosillo Orangemen, winless at 0-3. </P>
+<P> Gil Herredia was the starter and loser for Mexico, matching shutout innings with Lugo for six innings. Then in the seventh with two out, Roberto Petagine of Venezuela, a San Diego Padres prospect, singled. </P>
+<P> Carlos Hernandez hosted a long fly into the right field corner. Right fielder Luis Arredondo gave chase, got under the ball, but finally dropped it for a two-base error, allowing Petagine to score. </P>
+<P> Andres Berumen relieved Heredia and was greeted by Alfonzo's two-run homer to left field, making it 3-0. Alfonzo is a New York Mets prospect. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU010-0057.941121</DOCID>
+<TDTID>TDT006804</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/21/94 11:01</DATE>
+<TITLE> Sixteen dead as buses collide in Brazil</TITLE>
+<HEADLINE> Sixteen dead as buses collide in Brazil</HEADLINE>
+<SUBJECT> BC-BRAZIL-CRASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RIO DE JANEIRO, Brazil (Reuter) </DATELINE>
+<P>  Sixteen people were killed and 35 were injured when two buses collided head-on in southern Brazil early Monday, Brazilian television reported. </P>
+<P> The collision occurred near the city of Porto Alegre, Globo television said. </P>
+<P> Police investigating the accident believe one of the buses had a tire blowout and swerved into the path of the other vehicle, Globo said. </P>
+</TEXT>
+</DOC>

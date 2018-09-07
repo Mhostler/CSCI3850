@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0033.950111</DOCID>
+<TDTID>TDT009184</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/11/95 14:46</DATE>
+<TITLE> U.S. hits Russia on Chechnya violations</TITLE>
+<HEADLINE> U.S. hits Russia on Chechnya violations</HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Russia, by its military action in Chechnya, has violated European security principles that President Boris Yeltsin just signed on to last month, the United States said Wednesday. </P>
+<P> State Department spokeswoman Christine Shelly said Washington will express strong concerns about this at a meeting planned for Thursday in Vienna. </P>
+<P> ``Now, after considerable review of the information available to date, we have concluded that Russia has not fulfilled all of its commitments under the OSCE and the Helsinki Final Act,'' Shelly told a news briefing, referring to the Organization for Security and Cooperation in Europe, formerly the Conference on Security and Cooperation in Europe. </P>
+<P> ``This issue will be discussed at a January 12th meeting of the OSCE Permanent Council. We are instructing our representative to the OSCE to voice the strongest U.S. concern that Russia has not fulfilled all of its OSCE commitments and strong support for the involvement of OSCE in finding a solution to this crisis,'' she said. </P>
+<P> OSCE documents that apply in this case are the OSCE Code of Conduct, signed by Yeltsin and other leaders last month at their summit in Budapest, and the 1994 Vienna Document, she said. </P>
+<P> The Vienna document requires that Russia give prior noitification of certain military activities while the Code of Conduct calls on OSCE states, among other things, to ''facilitate the cessation of hostilities, to seek to create favorable conditions for political solutions to conflicts, and to cooperate in support of humanitarian assistance, to alleviate suffering among the civilian population,'' she added. </P>
+</TEXT>
+</DOC>

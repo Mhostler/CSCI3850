@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU001-0273.950301</DOCID>
+<TDTID>TDT010920</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 20:40</DATE>
+<TITLE> Intuit offers free tax software bug fix</TITLE>
+<HEADLINE> Intuit offers free tax software bug fix</HEADLINE>
+<SUBJECT> BC-COMPUTERS-INTUIT </SUBJECT>
+<AUTHOR>     By Martin Wolk </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEATTLE (Reuter) </DATELINE>
+<P>  Intuit Inc. said Wednesday it is offering free updated versions of its TurboTax and MacInTax programs to correct flaws that cause errors when customers use the software to calculate their income taxes. </P>
+<P> The company's admission of bugs in the tax-calculation software is the latest in a string of embarrassing hardware and software problems that have afflicted the computer industry just as sales are booming in the consumer market. </P>
+<P> Intuit, the highly regarded maker of Quicken personal finance software, said the bugs in its 1994 tax programs affect fewer than 1 percent of the approximately 1.4 million users. </P>
+<P> But, under the guidelines issued by the company, far more than 1 percent of users likely will seek replacement software before the federal tax season is over next month. </P>
+<P> Intuit officials said all MacInTax users who import data from other applications, such as Quicken, should obtain the new software. </P>
+<P> So far the company has sold about 400,000 copies of MacInTax for Apple Computer Inc.'s Macintosh computers, and an estimated 5 percent to 10 percent of users import data. </P>
+<P> In addition, the company said the bug would affect any user of MacInTax or TurboTax who has only disability income; is taking a section 179 deduction for an automobile; is estimating payments for the 1995 tax year; or is depreciating an asset in the final year of its depreciable life. </P>
+<P> ``I want to assure all customers that our tax software is guaranteed accurate,'' Intuit Chairman Scott Cook said in a statement. ``We will pay absolutely any IRS penalty because of a calculation error in TurboTax or MacInTax.'' </P>
+<P> Intuit said the new software is available immediately through America OnLine, Compuserve and the company's own electronic bulletin board. </P>
+<P> The company also said it will mail new software to customers who request it through a 24-hour hotline that will begin operating Thursday. </P>
+<P> Intuit officials said they discovered the software bugs over the past two to three weeks and made the announcement when replacement software became available. </P>
+<P> Intuit said it will contact all registered users to warn them about the flaw, but it cannot replace buggy software on store shelves before the end of the tax season. </P>
+<P> Intuit's calculation problems come after the highly publicized calculation flaw in Intel Corp.'s powerful new Pentium microprocessor chip. After a public outcry, the company finally agreed to replace Pentiums for all consumers who ask. </P>
+<P> Microsoft Corp., which has agreed to buy Intuit in a pending $1.5 billion deal, also has had calculation problems. The company recently made available software to fix a bug that causes errors in the calculator built into the Windows operating environment. </P>
+</TEXT>
+</DOC>

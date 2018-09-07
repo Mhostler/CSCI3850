@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0123.950323</DOCID>
+<TDTID>TDT011595</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 07:26</DATE>
+<TITLE> U.S.'s Gore arrives in Israel on Mideast swing</TITLE>
+<HEADLINE> U.S.'s Gore arrives in Israel on Mideast swing</HEADLINE>
+<SUBJECT> BC-MIDEAST-GORE-ARRIVAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM, March 23 (Reuter) </DATELINE>
+<P>  U.S. Vice President Al Gore arrived in Israel from Saudi Arabia on Thursday for talks with Prime Minister Yitzhak Rabin, airport officials said. </P>
+<P> Gore, whose Middle East swing has taken him to Egypt, Jordan, Oman and Saudi Arabia, travels to the Palestinian self-rule enclave of Jericho in the West Bank on Friday to meet PLO leader Yasser Arafat. </P>
+</TEXT>
+</DOC>

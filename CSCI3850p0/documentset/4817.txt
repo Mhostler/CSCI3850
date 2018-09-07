@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU005-0098.950309</DOCID>
+<TDTID>TDT011125</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 15:48</DATE>
+<TITLE> Clinton eats lunch to hit Republicans</TITLE>
+<HEADLINE> Clinton eats lunch to hit Republicans</HEADLINE>
+<SUBJECT> BC-CLINTON-LUNCH 2NDLD </SUBJECT>
+<AUTHOR>     By Steve Holland </AUTHOR>
+<TEXT>
+<NOTES>  (Updates with visit)</NOTES>
+<DATELINE>ALEXANDRIA, Va.(Reuter) </DATELINE>
+<P>  Surrounded by schoolchildren, President Clinton ate tacos in a school cafeteria Thursday and criticized Republican proposals to restructure a popular program that feeds kids. </P>
+<P> Clinton used the hastily arranged event in the Washington suburb of Alexandria to try to portray Republicans as skinflints who would cut programs for the middle-class and divert the savings to the wealthy. </P>
+<P> ``This is penny-wise and pound-foolish,'' Clinton said at Patrick Henry Elementary School, quoting another Revolutionary War hero, Benjamin Franklin. </P>
+<P> As part of their overall welfare reform bill, House Republicans want to roll the nearly half-century-old school lunch program into block grants that would send cash to the states to fund it and other nutrition programs. </P>
+<P> Clinton and other opponents of the plan say it threatens to take food out of the mouths of hungry children -- a claim the Republicans angrily deny, but which seems to have struck a nerve with some voters, who know and like the program. </P>
+<P> Some 27 million American kids get a school lunch, and half of them qualify for free or reduced-price meals. The program was started after World War II to try to curb nutritional problems that made many young men unfit for military service. </P>
+<P> The Republicans say their plan would boost spending on school lunches by 4.5 percent and make the program more efficient. But spending would increase 5.2 percent if current policy was unchanged. </P>
+<P> Republicans accused Clinton of being less than truthful and said he was resorting to ``scaring school kids for political gain.'' </P>
+<P> ``There is no tactic too shameless, to low, or too outrageous for this White House,'' said Rep. John Boehner, R-Ohio. </P>
+<P> Clinton lumped the school lunch proposals with other Republican budget-cutting ideas, saying they would deprive 15,000 people from serving in the national service program, deny special services to 100,000 disadvantaged people, and eliminate drug prevention programs at schools. </P>
+<P> A late winter-storm forced Clinton to go to a Virginia school instead of one in suburban Maryland. The president entered the cafeteria surrounded by children aged 8 to 10 and paid $2.50 for a plate of two beef-and-cheese tacos, corn and canned pears. </P>
+<P> Taking a seat with the kids, Clinton munched the fare and chatted with the children, a phalanx of press arrayed in front of him. </P>
+</TEXT>
+</DOC>

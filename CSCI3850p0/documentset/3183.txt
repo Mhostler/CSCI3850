@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU006-0287.941213</DOCID>
+<TDTID>TDT007887</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/13/94 21:36</DATE>
+<TITLE> Michigan Court rules suicide law is legal</TITLE>
+<HEADLINE> Michigan Court rules suicide law is legal</HEADLINE>
+<SUBJECT> BC-SUICIDE </SUBJECT>
+<AUTHOR>     By Jerry Dubrowski </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  In a surprise decision, the Michigan Supreme Court on Tuesday ruled legal the state's controversial law banning assisted suicide, enacted to stop Dr. Jack Kevorkian from helping people kill themselves. </P>
+<P> The ruling, which overturns several lower court decisions, comes the same day the state House of Representatives passed a new law banning assisted suicide for at least two years. </P>
+<P> In a complex decision, the court said there is no constitutional right to suicide and Kevorkian, who has helped 21 people die in the last four years, can be tried for violating the statute. </P>
+<P> The court also said Kevorkian could be charged with murder in two of the cases if a lower court determines the deaths ''were the natural result of a defendant's act'' and not merely the result of actions performed by Kevorkian before the death. </P>
+<P> In other words, prosecutors must be able to show that Kevorkian did more than just provide the means for suicide when he assisted in the 1991 deaths of Marjorie Wantz and Sherry Miller. </P>
+<P> ``Where a defendant merely is involved in the events leading up to the death, such as providing the means, the proper charge is assisting in a suicide, which may be prosecuted as a common-law felony,'' the seven Michigan Supreme Court Justices wrote in their opinion, issued late Tuesday. </P>
+<P> Kevorkian was not available to comment on the ruling. </P>
+<P> The court said assisted suicide has been a crime under common law and therefore Kevorkian could be prosecuted for violating the law even without the Legislature enacting its temporary ban in 1993. </P>
+<P> ``Our analysis recognizes a distinction between killing oneself and being killed by another,'' the court said. ``Because suicide is not murder and is no longer viewed as criminal ... assisting suicide is its own species of crime.'' </P>
+<P> The justices said anyone who commits a crime for which there is no stated penalty can be found guilty of a felony and punished by up to five years in prison and a $10,000 fine. </P>
+<P> Earlier, the Michigan House passed a new, permanent ban against assisted suicide that calls for a statewide referendum on the controverial issue in 1996. The measure must now go back to the state Senate for a vote because if differs from a Senate bill passed last week. </P>
+</TEXT>
+</DOC>

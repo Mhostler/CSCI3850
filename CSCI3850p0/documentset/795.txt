@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0008.940816</DOCID>
+<TDTID>TDT001966</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/16/94 04:38</DATE>
+<TITLE> MANDELA SLAMS ``SLAVE'' PAY FOR HIS STAFF</TITLE>
+<HEADLINE> MANDELA SLAMS ``SLAVE'' PAY FOR HIS STAFF</HEADLINE>
+<SUBJECT> BC-SAFRICA-PAY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG, South Africa (Reuter) </DATELINE>
+<P>  South African President Nelson Mandela, champion of the underdog, has found out to his horror an example of the gap between rich and poor -- in his own official residence. </P>
+<P> He said in a speech Monday evening that he had ordered an investigation into how much people were paid in his mansion in the capital Pretoria, and added: ``I could not believe what I heard.'' </P>
+<P> He cited a woman with five children who had worked at the residence for 23 years who earned $236 a month. </P>
+<P> ``I can't lead a government where people live like slaves,'' added Mandela, who is sensitive to growing criticism about the high salaries paid to senior members of his African National Congress Party, which won South Africa's all-race elections in April. </P>
+</TEXT>
+</DOC>

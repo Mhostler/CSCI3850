@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0449.940705</DOCID>
+<TDTID>TDT000162</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/05/94 08:59</DATE>
+<TITLE> DUBLIN CALLS OFF PARTY FOR WORLD CUP TEAM</TITLE>
+<HEADLINE> DUBLIN CALLS OFF PARTY FOR WORLD CUP TEAM</HEADLINE>
+<SUBJECT> BC-CUP-IRELAND-PARTY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DUBLIN, June 5 (Reuter) </DATELINE>
+<P>  Dublin authorities called off a huge welcome home party for Ireland's World Cup team on Tuesday when manager Jack Charlton and key players said they would not come. </P>
+<P> The party was to have been held in the vast Phoenix park west of Dublin on Thursday and was expected to attract half a million people to welcome home the side knocked out 2-0 by the Netherlands on Monday night. </P>
+<P> But Charlton and key players are staying in the United States to watch the rest of the tournament. </P>
+<P> ``As the team manager, team captain and many of the players are not now available the committee feels that the Phoenix Park plans should no longer proceed as the numbers would not be the same as was planned for and the huge undertaking could not be justified,'' a statement by Dublin corporation said. </P>
+<P> ``The committee regrets this disappointing decision but feels that in all the circumstances it is the prudent thing to do.'' </P>
+<P> It would have crowned almost three weeks of festivities during which normal life in Ireland ground almost to a halt as people followed the fortunes of the national squad on daily television programmes from America. </P>
+</TEXT>
+</DOC>

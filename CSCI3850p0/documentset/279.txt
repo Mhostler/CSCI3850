@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU009-0191.940718</DOCID>
+<TDTID>TDT000689</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/18/94 13:33</DATE>
+<TITLE> AT LEAST 20 KILLED IN LAGOS, SAYS DEMOCRACY GROUP</TITLE>
+<HEADLINE> AT LEAST 20 KILLED IN LAGOS, SAYS DEMOCRACY GROUP</HEADLINE>
+<SUBJECT> BC-NIGERIA 1STLD </SUBJECT>
+<AUTHOR>     By James Jukwey </AUTHOR>
+<TEXT>
+<NOTES> (Eds: Recasts with casualities)</NOTES>
+<DATELINE>LAGOS, Nigeria (Reuter) </DATELINE>
+<P>  At least 20 people were killed Monday in pro-democracy demonstrations in Lagos, the biggest city in strike-bound Nigeria, the leader of a political pressure group said. </P>
+<P> ``At least 20 people were killed during protests in different locations in Lagos today,'' Beko Ransome-Kuti, president the Campaign for Democracy (CD) told Reuters. </P>
+<P> There was no official confirmation of the deaths. </P>
+<P> Other independent eyewitnesses said they had seen bodies along Western Avenue, a busy road in the city. </P>
+<P> Nigeria has been virtually brought to a halt by striking oil unions pressing for the release of opposition politician Moshood Abiola, the apparent winner of last year's annulled presidential elections. </P>
+<P> He is detained and charged with treason after proclaiming himself president. </P>
+<P> Riots flared early in the day in several parts of the sprawling city of 6 million people and police fired tear gas to disperse crowds calling for an immediate return to democracy. </P>
+<P> Demonstrations also broke out in the western Nigerian city of Ibadan, where police fought running battles with students and protesters calling for Abiola's release, residents there said. </P>
+<P> In Lagos, clashes took place in various trouble spots of the city including Ikorodu Road, Ketu and Mushin, witnesses said. </P>
+<P> Ransome-Kuti said about eight people were killed in Fadeyi, a main stopping point for buses along Ikorodu Road in mainland Lagos. One independent eyewitness said he saw the body of one man in Ipaja district, northern Lagos. </P>
+<P> ``We condemn the killings in the strongest terms. This is a rehash of what happened last year,'' Ransome-Kuti said, referring to the 1993 protest against the election annulment in which nearly 190 people were killed. </P>
+<P> The strikes by oil unions seeking Abiola's release as well as immediate return to democracy entered the third week on Monday. </P>
+<P> Their leaders vowed to go on with the stoppage despite a government pledge to consider freeing political detainees. </P>
+<P> ``Nothing has changed,'' Bola Owudunni, president of the senior oil union PENGASSAN, told Reuters. </P>
+<P> The strike has choked off fuel supplies to domestic consumers, forcing many businesses to close in Africa's most populous nation. </P>
+<P> But the impact on exports of crude, Nigeria's main source of foreign exchange, was minimal. Oil industry sources estimated on Monday there had been a five percent output cutback because of skeletal staffing. </P>
+</TEXT>
+</DOC>

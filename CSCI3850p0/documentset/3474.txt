@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0200.941228</DOCID>
+<TDTID>TDT008566</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/28/94 15:58</DATE>
+<TITLE> Arkansas judge rules in favor of Clinton</TITLE>
+<HEADLINE> Arkansas judge rules in favor of Clinton</HEADLINE>
+<SUBJECT> BC-CLINTON-JONES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A Federal judge in Arkansas ruled on Wednesday that a sexual harassment lawsuit brought against President Bill Clinton would not go to trial until Clinton is out of office, CNN reported. </P>
+<P> The judge in Little Rock, Arkansas, said the court would be allowed to take testimony and other procedures in the lawsuit filed by Paula Corbin Jones, a former Arkansas state employee. </P>
+</TEXT>
+</DOC>

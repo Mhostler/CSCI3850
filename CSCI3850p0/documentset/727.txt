@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0091.940811</DOCID>
+<TDTID>TDT001778</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/11/94 23:11</DATE>
+<TITLE> CUBAN TV FILM SHOWS BODY OF DEAD NAVAL OFFICER</TITLE>
+<HEADLINE> CUBAN TV FILM SHOWS BODY OF DEAD NAVAL OFFICER</HEADLINE>
+<SUBJECT> BC-CUBA-BOAT-FOOTAGE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  State television footage Thursday displayed the body of a Cuban naval officer it said was killed by a naval recruit who hijacked a vessel to take it to the United States. </P>
+<P> The footage, seen by Reuters in advance of its scheduled broadcast, showed three naval recruits who said they were on the boat when it was hijacked from the port of Mariel Monday. They said they did not take part in the hijacking but added that they had witnessed the officer's shooting. </P>
+</TEXT>
+</DOC>

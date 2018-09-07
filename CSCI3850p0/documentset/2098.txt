@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU009-0160.941018</DOCID>
+<TDTID>TDT005247</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 17:08</DATE>
+<TITLE> Hunter found after missing three nights in mtns.</TITLE>
+<HEADLINE> Hunter found after missing three nights in mtns.</HEADLINE>
+<SUBJECT> BC-HUNTER-RESCUE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> DENVER (Retuer) - An Oklahoma hunter who survived three nights in frigid temperatures and snowstorms in a remote area of southwestern Colorado was found unharmed Tuesday, a police spokeswoman said. </P>
+<P> Bob Chance, 45, from Ponca City, Okla., was rescued close to where he was last seen Saturday morning, when heavy snowfall separted him from his hunting party of four. </P>
+<P> ``We did air reconnaissance and spotted a blanket from the air,'' said the spokeswoman from La Plata sheriff's office, Linda Stock. Chance, who only had candy bars with him when he disappeared, refused medical care, Stock said. </P>
+<P> Other hunters remain stranded, but are safe and have sufficient provisions to wait for a clearing in the weather, Stock said. </P>
+<P> Heavy snowfall in the rugged, remote area blanketed the area with drifts of up to six feet over the weekend. </P>
+</TEXT>
+</DOC>

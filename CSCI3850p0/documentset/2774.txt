@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0315.941122</DOCID>
+<TDTID>TDT006862</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/22/94 13:45</DATE>
+<TITLE> U.S. says health spending up 7.8 percent in 1993</TITLE>
+<HEADLINE> U.S. says health spending up 7.8 percent in 1993</HEADLINE>
+<SUBJECT> BC-HEALTH-SPENDING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Health care spending rose to $884.2 billion in 1993, up 7.8 percent over the previous year, the Health and Human Services Department reported Tuesday. </P>
+<P> It said this amounted to an estimated average of $3,299 per person for the 1993 calendar year, the latest statistics available, with per-person spending up $205. </P>
+<P> The department said that although the rise in 1993 was the slowest since 1986, the increase was still 2.4 percent faster than the growth in the overall economy. </P>
+<P> Because of this, it said, the share of the domestic national product spent on health care rose to 13.9 percent in 1993, from 13.6 percent. </P>
+<P> HHS Secretary Donna Shalala said in a statement that ``slow growth in health spending appears to result more from very low inflation in the rest of the economy rather than from any permanent changes in the health sector.'' </P>
+<P> She added that ``we still need to address the underlying causes that are driving up health care spending faster than other costs and distorting our health care delivery system.'' </P>
+</TEXT>
+</DOC>

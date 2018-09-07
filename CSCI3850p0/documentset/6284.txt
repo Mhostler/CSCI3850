@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0263.950504</DOCID>
+<TDTID>TDT013441</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 15:17</DATE>
+<TITLE> Muhammad Ali in Louisville for museum in his honor</TITLE>
+<HEADLINE> Muhammad Ali in Louisville for museum in his honor</HEADLINE>
+<SUBJECT> BC-ALI </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOUISVILLE, Ky.(Reuter) </DATELINE>
+<P>  Pausing from pre-Kentucky Derby hype, more than 150 people gathered in a downtown Louisville mall Thursday to welcome home three-time heavyweight champion Muhammad Ali. </P>
+<P> Ali, just back from North Korea and Japan, beguiled the audience with tricks as part of the grand opening ceremonies for the Muhammad Ali Museum and Education Center in downtown Louisville. </P>
+<P> Several fans, including Ronnie Paloger of Marina Del Ray, Calif., came to Louisville to see Ali. </P>
+<P> ``He's transcendental to the sport. He's an inspiration to the nation and there comes a time to honor our heros,'' said Paloger, who has more than 3,000 pieces of Ali memorabilia. </P>
+</TEXT>
+</DOC>

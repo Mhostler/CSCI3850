@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU014-0041.950228</DOCID>
+<TDTID>TDT010838</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/28/95 08:53</DATE>
+<TITLE> Three guerrillas reported killed in south Lebanon</TITLE>
+<HEADLINE> Three guerrillas reported killed in south Lebanon</HEADLINE>
+<SUBJECT> BC-LEBANON-SOUTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MARJAYOUN, Lebanon (Reuter) </DATELINE>
+<P>  Three guerrillas were killed north of Israel's south Lebanon occupation zone Tuesday when pro-Israeli militiamen opened fire on them, pro-Israeli militia sources said. </P>
+<P> The South Lebanon Army (SLA) militia sources said the guerrillas were killed when SLA gunners fired heavy machineguns at them in the Jabal Rafi'i area, a rugged ridge used by pro-Iranian Hizbollah fighters to raid the border zone. </P>
+<P> Hizbollah (Party of God) said in a statement in Beirut its fighters clashed with SLA forces attempting to push out of the border buffer zone at Mlikh near Jabal Rafi'i but it did not mention any casualties. </P>
+<P> Hizbollah and other groups attack the zone almost daily. </P>
+</TEXT>
+</DOC>

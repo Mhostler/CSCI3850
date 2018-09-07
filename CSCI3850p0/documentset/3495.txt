@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0025.941230</DOCID>
+<TDTID>TDT008655</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/30/94 10:28</DATE>
+<TITLE> Clinton starts New Year's weekend</TITLE>
+<HEADLINE> Clinton starts New Year's weekend</HEADLINE>
+<SUBJECT> BC-CLINTON-DEPART </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton went to Camp David Friday to start a New Year's mini-vacation that also takes him to South Carolina and Arkansas before the start of the new Congress, which opens next week. </P>
+<P> Clinton and first lady Hillary Rodham Clinton flew to the presidential hideaway in Maryland by helicopter after the president began the day with his usual jog. </P>
+<P> He also spent a few moments with George McGovern, the former South Dakota senator and unsuccessful Democratic presidential candidate, who was being given a private tour of the White House. Clinton worked in McGovern's 1972 campaign against President Richard Nixon. </P>
+<P> The Clintons are slated to go to Hilton Head, S.C., Saturday to usher in the New Year at ``Renaissance Weekend,'' an annual gathering of individuals interested in public policy. </P>
+<P> They return to the White House Sunday, before departing for Little Rock, Ark., Monday for a visit with family and friends. </P>
+<P> They return to Washington Wednesday, Jan. 4, when the new Republican-controlled Congress opens its session. </P>
+</TEXT>
+</DOC>

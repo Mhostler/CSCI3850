@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU014-0134.940929</DOCID>
+<TDTID>TDT004146</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/29/94 00:47</DATE>
+<TITLE> Two killed, three hurt in Burma booby-trap bomb</TITLE>
+<HEADLINE> Two killed, three hurt in Burma booby-trap bomb</HEADLINE>
+<SUBJECT> BC-BURMA-BOMB </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BANGKOK, Thailand (Reuter) </DATELINE>
+<P>  Two people were killed and four others wounded when a bomb planted in a radio transmitter exploded in a crowded room in a town in southwest Burma, Burmese state television reported. </P>
+<P> An unidentified man took the booby-trap device last week to the house of Thaung Han, local secretary of the State Law and Order Restoration Council (SLORC) at Kwan Hla village in Mudon town, Mon state, according to a television report monitored Wednesday night in Bangkok. </P>
+<P> The messenger said the transmitter belonged to local Mon guerrillas who wished to discuss surrender terms. </P>
+<P> The device exploded when Thaung Man inserted batteries and switched the transmitter on, killing him, one other person, and injuring four others. </P>
+<P> The Mon are among the Burmese ethnic minorities which for more than 40 years have been fighting the government in Rangoon for independence. </P>
+<P> At least 10 rebel factions including the Kachin Independence Organization (KIO) have reached peace agreements since the SLORC, the military junta's ruling body, offered peace talks two years ago. </P>
+<P> The New Mon State Party, political wing of the Mon guerrillas, has also begun peace talks but they became deadlocked in March, a Mon guerrilla source told Reuters. </P>
+</TEXT>
+</DOC>

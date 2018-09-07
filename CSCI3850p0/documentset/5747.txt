@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU009-0049.950414</DOCID>
+<TDTID>TDT012558</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/14/95 10:45</DATE>
+<TITLE> China tackles software piracy at state agencies</TITLE>
+<HEADLINE> China tackles software piracy at state agencies</HEADLINE>
+<SUBJECT> BC-CHINA-PIRACY </SUBJECT>
+<AUTHOR>     By Jeffrey Parker </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  China Friday began a drive to purge state agencies of illegally copied software, tackling an embarrassing problem that U.S. publishers allege costs them millions of dollars in lost sales. </P>
+<P> In a carrot-and-stick campaign, the government has begun allocating more money for software while the State Copyright Administration vowed to prosecute anyone who makes illegal software copies -- whether in the private or state sector. </P>
+<P> ``If we find a case with enough evidence, whether the violation was done by a government office, a state-run enterprise or the private sector, the person will be punished to the full extent of the law,'' copyright official Wang Huapeng was quoted by Xinhua news agency as saying. </P>
+<P> The copyright administration issued an edict Friday urging all computer users to buy their software instead of copying it, the state-run news agency said. </P>
+<P> It also suggested computer users buy their software from reputable companies to avoid purchasing illegal copies inadvertently from high-quality counterfeiters. </P>
+<P> The copyright agency Thursday announced plans for a nationwide crackdown on bootleg software, especially that manufactured for sale by pirate companies. </P>
+<P> State Councillor Li Tieying, addressing a national anti-piracy meeting, said the war on counterfeiters had seen some successes but that a protracted struggle was needed. </P>
+<P> ``Intellectual property protection is a long and complicated task that is arduous and urgent,'' Li said. </P>
+<P> The United States and China signed a major accord in March mandating tough enforcement against intellectual property piracy in China, particularly illegal music recordings and movies on compact and laser disc and counterfeit software. </P>
+<P> The resulting enforcement has begun to take effect. </P>
+<P> Pirate music CDs have dried up in many street markets, although discs called CD-ROMs crammed with up-to-the-minute U.S. software titles worth thousands of dollars still are sold discreetly in many bustling technology bazaars. </P>
+<P> The Business Software Alliance, an anti-piracy consortium of major U.S. makers, has alleged that despite the risks some government agencies and state enterprises rely heavily on illegal copied software. </P>
+<P> In one well-documented case, a major state-run steel mill ground to a halt for several days at a cost of millions of dollars after bootleg software used to run it crashed. </P>
+<P> The edict against software copying and allocation of what Xinhua called ``large sums'' of state money to assure agencies they can afford software should placate critics who say some computer departments scoff at spending money on software. </P>
+<P> It could also invigorate China's own software industry. </P>
+<P> The Computer Software Association in Washington estimates China bought software worth just $1 million in 1994 -- a mere $1 per desktop computer -- the lowest rate in the world and far below the $30 per machine sold in India, a comparably huge developing market. </P>
+</TEXT>
+</DOC>

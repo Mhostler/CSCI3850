@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU001-0312.950402</DOCID>
+<TDTID>TDT012028</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/02/95 15:00</DATE>
+<TITLE> Mexican gov't agrees to peace talks in Chiapas</TITLE>
+<HEADLINE> Mexican gov't agrees to peace talks in Chiapas</HEADLINE>
+<SUBJECT> BC-MEXICO-CHIAPAS-TALKS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  The Mexican government has accepted a proposal to hold peace talks in the southern state of Chiapas despite a call from Mayan Indian rebels to launch negotiations in Mexico City to end the 15-month conflict. </P>
+<P> In a statement late Saturday, the Interior Ministry said the government had agreed to hold the talks in any one of six Chiapas towns proposed by a congressional commission that is helping handle peacemaking efforts. </P>
+<P> Last week, the rebel Zapatista National Liberation Army said talks should be held in the capital, complaining that the ''massive presence'' of army troops in Chiapas would hamper negotiations in the conflict zone. </P>
+<P> But in an apparent rebuff, the Interior Ministry said congressmen from a multi-party commission helping mediate the peace process had opted for talks in the Chiapas towns of La Trinitaria, Independencia, Comitan, Palenque, Ocosingo and Teopizca. </P>
+<P> According to Mexican law, the ministry said, the commission decides where the talks should be held, based on a consensus among all sides in the conflict. </P>
+<P> The Interior Ministry said it has asked the National Intermediation Commission (Conai), another mediating group in close contact with the Zapatistas, to pass on to them its agreement to talks in any one of the six Chiapas towns. </P>
+<P> Conai head Samuel Ruiz, archbishop in the Chiapas city of San Cristobal de las Casas, said Saturday that a meeting between the two sides was urgent, suggesting a response from the Zapatistas would be coming shortly. </P>
+<P> ``In these moments we're playing with seconds, not with hours,'' Ruiz told reporters after a mass in San Cristobal de las Casas Saturday night. </P>
+<P> About 150 people were killed in the first few days of the Chiapas uprising but there has been little fighting since then. </P>
+<P> Although the rebels are believed to pose little military threat, the government is anxious to end the crisis as part of its efforts to restore investor confidence in Mexico and pull the country out of deep economic crisis. </P>
+<P> It is apparently reluctant to hold talks outside Chiapas, however, because of the possibility that the presence of charismatic Zapatista leader Subcommander Marcos in Mexico City could provide a flash point for popular protest against the government's handling of the crisis. </P>
+</TEXT>
+</DOC>

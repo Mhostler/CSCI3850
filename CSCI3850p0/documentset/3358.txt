@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU009-0454.941221</DOCID>
+<TDTID>TDT008272</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/21/94 12:09</DATE>
+<TITLE> Some 20 people killed in Burundi ethnic attacks</TITLE>
+<HEADLINE> Some 20 people killed in Burundi ethnic attacks</HEADLINE>
+<SUBJECT> BC-BURUNDI 1STLD </SUBJECT>
+<AUTHOR>     By Deogratias Muvira </AUTHOR>
+<TEXT>
+<NOTES> (Updates with police saying 20 people killed, new shooting)</NOTES>
+<DATELINE>BUJUMBURA, Burundi (Reuter) </DATELINE>
+<P>  About 20 people were killed in two days of ethnic attacks in Burundi's capital Bujumbura that have brought the city close to a standstill, police said Wednesday. </P>
+<P> Residents said Tuesday night was punctuated by the blasts of about 50 hand grenades and outbreaks of shooting following the killing of five people -- most of them members of the Hutu majority -- in the main market. </P>
+<P> The latest attacks focused on the capital's Bwiza district, one of the few where both Hutus and Tutsis still live. Witnesses said at least a dozen houses were set ablaze and destroyed and troops told reporters at least 10 people were killed. </P>
+<P> Lt. Col. Marc Nahimana of the police rapid intervention brigade told Reuters some 20 people were killed in attacks Tuesday and overnight. He had no estimate of injuries. </P>
+<P> Witnesses said many people were wounded, some critically, in the overnight violence. Some 200 residents of Bwiza fled to a safer district Wednesday afternoon fearing more attacks. </P>
+<P> Bwiza residents said they were angry and scared. Youths, apparently Tutsis, protested against the election of a Hutu as speaker of the national assembly last month. </P>
+<P> No strong military presence was visible on the streets of the capital Wednesday. Small groups of soldiers and policemen gathered near junctions and others were visible in buildings. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU009-0382.950416</DOCID>
+<TDTID>TDT012613</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/16/95 08:44</DATE>
+<TITLE> Irish police find arms cache</TITLE>
+<HEADLINE> Irish police find arms cache</HEADLINE>
+<SUBJECT> BC-IRISH-GUNS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DUBLIN (Reuter) </DATELINE>
+<P>  Irish police said Sunday they had discovered a small cache of arms and ammunition during a series of searches in County Cavan in the north of the country. </P>
+<P> The find, which included mortars and 1,000 rounds of ammunition, was made Saturday night near the town of Ballyjamesduff, said a police spokeswoman. </P>
+<P> Irish Republican Army guerrillas often stored weapons and ammunition near the border between Ireland and Northern Ireland before the group declared a cease-fire in its war against Britain last August. </P>
+<P> In Northern Ireland, police said they had completed a three-day search of a house where a large haul of arms and ammunition was uncovered. </P>
+<P> Three people were charged following the seizure of more than 40 rifles, pistols and sub-machineguns as well as ammunition and arms-making equipment at a house south of Belfast. </P>
+<P> Desmond Lindop, 41, an engineer at the Royal Ordnance munitions factory in Birtley, northern England, was charged with possessing and manufacturing weapons along with his brother Dennis Lindop, 46. Dennis Lindop's wife Myrtle, 42, was charged with witholding information. </P>
+<P> Security analysts said some guns were high-standard, home-made weapons and probably belonged to the Ulster Volunteer Force -- a banned Protestant extremist group that matched the IRA cease-fire last fall. </P>
+<P> Police said the building may have been used as a gun-making factory for the past two years. </P>
+<P> Forensic experts were testing the guns to see whether any had been used in guerrilla attacks. </P>
+<P> Political talks aimed at bringing a lasting peace since the Republican and Loyalist cease-fires have been stalled over the issue of weapons, which both sides refuse to surrender. </P>
+</TEXT>
+</DOC>

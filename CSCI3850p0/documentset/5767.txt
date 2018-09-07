@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0246.950415</DOCID>
+<TDTID>TDT012592</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/15/95 11:11</DATE>
+<TITLE> Croatia says policeman shot dead at river border</TITLE>
+<HEADLINE> Croatia says policeman shot dead at river border</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-CROATIA-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ZAGREB, Croatia (Reuter) </DATELINE>
+<P>  A Croatian policeman patrolling a river border with Bosnia was shot and killed by Bosnian Serb forces, the state news agency HINA said Saturday. </P>
+<P> The policeman died instantly from a head wound when he and a colleague came under machinegun fire Friday night on the Sava River 100 miles east of Zagreb, a police spokesman told HINA. The second officer escaped injury. </P>
+<P> Local officials gave no further details and the U.N. peacekeeping force said it had no information about the incident. </P>
+<P> The Sava River border with Serb-held northern Bosnia has been generally calm since fighting in the region in 1991 and 1992 ended. It remains a closed military zone and shootings across the waterway occur only sporadically. </P>
+</TEXT>
+</DOC>

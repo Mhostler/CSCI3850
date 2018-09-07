@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU007-0279.941215</DOCID>
+<TDTID>TDT008009</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 16:27</DATE>
+<TITLE> Chile court doubles sentence in human rights case</TITLE>
+<HEADLINE> Chile court doubles sentence in human rights case</HEADLINE>
+<SUBJECT> BC-CHILE-COURT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SANTIAGO, Chile (Reuter) </DATELINE>
+<P>  Chile's Supreme Court Thursday doubled the lenient prison sentence of an army officer convicted of burning alive one young Chilean and badly injuring another in 1986, judicial sources said. </P>
+<P> The court increased the prison sentence of Lt. Pedro Fernandez Dittus to 600 days from 300 days for the murder of Rodrigo Rojas Denegri and the severe burns suffered by Carmen Gloria Quintana. </P>
+<P> The court's decision followed an appeal from the victims' families that the original sentence had been too lenient, the sources said. </P>
+<P> ``It was not easy to establish the truth in this case but as a result of a legal technicality which favors the prisoner, he is paying very little for the things he was involved in,'' Hector Salazar, the victims' lawyer, said after the court's decision. </P>
+<P> In one of the most brutal crimes committed under former military ruler Gen. Augusto Pinochet, Rojas and Quintana were found abandoned with severe burns on a roadside near Santiago's airport on July 2, 1986. </P>
+<P> They had been arrested a few hours earlier that day by an army patrol led by Fernandez. </P>
+<P> Rojas died of his burns four days later while Quintana required plastic surgery both in Chile and abroad for her injuries. </P>
+</TEXT>
+</DOC>

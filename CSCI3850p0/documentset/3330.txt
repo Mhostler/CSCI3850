@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU009-0124.941219</DOCID>
+<TDTID>TDT008187</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/19/94 16:45</DATE>
+<TITLE> New DNA research could predict cancer</TITLE>
+<HEADLINE> New DNA research could predict cancer</HEADLINE>
+<SUBJECT> BC-HEALTH-CANCER </SUBJECT>
+<AUTHOR>     By Martin Wolk </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEATTLE (Reuter) </DATELINE>
+<P>  New DNA research may be able to predict cancer long before any tumors form in the body, scientists in Seattle announced Monday. </P>
+<P> The new method involves detecting microscopic changes in DNA, the basic genetic material in organisms, according to a study to be published in Tuesday's Proceedings of the National Academy of Science. </P>
+<P> The study said the DNA detection method provides a more accurate way of assessing the impact on wildlife of future environmental cleanup efforts. </P>
+<P> The researchers analyzed the livers of fish in Seattle's heavily polluted Duwamish River and found DNA damage that was an average of 100,000 times greater than previous techniques would have found. </P>
+<P> ``The amount of damage was just astounding,'' said Donald Malins of the Pacific Northwest Research Foundation, lead author of the study. </P>
+<P> Malins told Reuters his group's research already has led to what he called a ``very solid method for prediction of breast cancer'' in humans, which will be published next month. </P>
+<P> ``We've now got the exciting possibility of establishing models for predicting the probability of cancer on the basis of this data,'' Malins said. </P>
+<P> Cancer is believed to begin with a mutation -- sometimes triggered by environmental chemicals -- to the complex DNA molecules that provide the body with a genetic blueprint for ongoing cell production. </P>
+<P> In the Seattle experiment, apparently healthy, young English sole were netted in an area of the river where older fish are shown to have an extremely high incidence of liver cancer. </P>
+<P> DNA from the livers of the young fish were analyzed using two laboratory techniques -- mass spectrometry and infrared spectroscopy -- that showed differences on the molecular and sub-molecular level. </P>
+<P> In the case of one DNA component that was measured, the scientists discovered as many as one in 15 sequences were altered - far more damage than ever had been recorded. </P>
+<P> Malins said the study shows that a decade-long effort to clean up the Duwamish and reduce the emission of industrial toxins into the river ``has done nothing significant with regard to the cancer threat to animals.'' </P>
+</TEXT>
+</DOC>

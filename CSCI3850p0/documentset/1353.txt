@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0413.940913</DOCID>
+<TDTID>TDT003334</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/13/94 22:58</DATE>
+<TITLE> Five die in accident at English port</TITLE>
+<HEADLINE> Five die in accident at English port</HEADLINE>
+<SUBJECT> BC-BRITAIN-WALKWAY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Five people were killed and eight injured early Wednesday when a walkway collapsed as passengers were boarding a cross-Channel ferry in the southern English port of Ramsgate, police said. </P>
+<P> ``It looks as though a walkway from the shore to the ship collapsed,'' a police spokeswoman told Reuters. The ferry, belonging to Sally Line, was preparing to sail to the Belgian port of Ostend. </P>
+<P> Kent police said the accident happened around 7:49 p.m. local time as passengers were boarding the Belgium-owned ferry Prins Filip on the 30-foot high walkway. </P>
+<P> They said the report of casualties was preliminary and it was not known how badly injured the survivors were. </P>
+<P> Rescue teams, including firefighters, used hydraulic equipment and air bags to free trapped passengers. Lifeboat crews were also called in and a search began for other survivors. </P>
+</TEXT>
+</DOC>

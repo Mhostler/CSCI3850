@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0424.941111</DOCID>
+<TDTID>TDT006369</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/11/94 03:29</DATE>
+<TITLE> U.S. to drop arms embargo on Bosnia Muslims</TITLE>
+<HEADLINE> U.S. to drop arms embargo on Bosnia Muslims</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-EMBARGO-USA URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JAKARTA, Indonesia (Reuter) </DATELINE>
+<P>  President Clinton, in a move that breaks with U.S. allies, has directed American military forces to stop enforcing a U.N. arms embargo on Bosnian Muslims as of Saturday, U.S. officials said Friday. </P>
+<P> The decision fulfills a mandate of the U.S. Congress, which cut off funds for U.S. activities in support of the embargo by Nov. 15 if Bosnian Serbs did not accept a peace plan for the former Yugoslav republic. </P>
+</TEXT>
+</DOC>

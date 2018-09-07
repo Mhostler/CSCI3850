@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU009-0251.950120</DOCID>
+<TDTID>TDT009588</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/20/95 21:44</DATE>
+<TITLE> General Motors, UAW reach agreement</TITLE>
+<HEADLINE> General Motors, UAW reach agreement</HEADLINE>
+<SUBJECT> BC-AUTOS-GM 5THLD </SUBJECT>
+<AUTHOR>     By Jerry Dubrowski </AUTHOR>
+<TEXT>
+<NOTES>(Updates with agreement reached)</NOTES>
+<DATELINE>FLINT, Mich.(Reuter) </DATELINE>
+<P>  The United Auto Workers union and General Motors Corp. reached an agreement late Friday to end a three-day strike at a key parts plant that had crippled the auto giant's North American production. </P>
+<P> ``We're happy to announce tonight at approximately 8:10 p.m., that we reached an agreement,'' said Ruben Burks, director of UAW Region 1C in Flint. ``We're very happy about the outcome of the negotiations here.'' </P>
+<P> The strike at GM's AC Delco Systems plant in Flint, Mich., which began Wednesday, had forced GM to halt production at nine assembly plants and one components plant, idling nearly 40,000 workers, including the 6,800 strikers. </P>
+<P> Burks declined to discuss details of the settlement until members of UAW Local 651 meet at 1 p.m. EST Sunday for a ratification vote. </P>
+<P> But Don Beauchamp, chairman of the local said GM met the union's key demands. ``What we were trying to get, we got,'' he said. Earlier in the day, Beauchamp had said that disagreement over outsourcing -- sending work to outside companies -- was the key sticking point in the talks. </P>
+<P> He said GM had agreed to add jobs to the plant to ease an increasing workload and heavy overtime but the union also wanted the company to commit future products programs to the plant to guarantee future jobs. </P>
+<P> GM, still in the midst of a massive restructuring program, has been trying to cut costs by shifting more of its parts production to outside suppliers, who typically pay their workers about half of the $42 an hour that GM workers make, including benefits. </P>
+<P> GM said little about the settlement, only that it was ``an equitable resolution of issues under discussion'' at the plant. </P>
+<P> But in a move to keep several other GM factories from grinding to a halt, the union agreed to allow about 300 workers to return to the plant Saturday to resume production of circuit boards that are needed in several GM vehicles. Burks said the move would keep three to four vehicle assembly plants from running out of parts. </P>
+<P> Under GM's ``just-in-time'' inventory system, plants operate with thin stocks of parts, making them vulnerable to any hiccups in component deliveries. Had the strike continued, nearly all of GM's North American production lines would have been affected. </P>
+<P> Plants producing GM's strong-selling full-size sport/utility vehicles and pickup trucks were halted, as were plants producing the popular Chevrolet Lumina, Oldsmobile Aurora and Pontiac Bonneville cars. </P>
+<P> The strike marked the the sixth time in the last 12 months GM has been forced to reduce production because of a labor dispute. The UAW has pressed its demands for additional jobs to make up for retirements and higher workloads, while GM has been extremely reluctant to hire new workers that it will have to idle during the next downturn.  GM's stock, after losing as much as $1.75 earlier in the day, lost 75 cents to close Friday at $39.50 on the New York Stock Exchange, where Ford and Chrysler also fell. Ford lost $1.375 to $26.125, and Chrysler slid $2 to $47.125. Wall Street analysts said in addition to the GM strike, the shares were hit by fears that higher interest rates were crimping demand for new vehicles. </P>
+<P> The cost of the strike to GM was unclear Friday. A similar four-day strike at GM's Buick City complex in Flint last October cost GM $150 million in lost profits. </P>
+<P> Flint, a gritty industrial town dominated by GM, has had a strong tradition of labor activism. The old Fisher Body plant was the site of the 1937 Flint ``sit-down strike,'' in which UAW members occupied the plant for six weeks and won collective bargaining rights at GM for the first time. </P>
+<P> In more recent years, Flint won notoriety for its plant closures and decline in Michael Moore's film ``Roger and Me.'' Moore's father once worked in a plant that now makes up part of the AC Delco complex, producing spark plugs. </P>
+</TEXT>
+</DOC>

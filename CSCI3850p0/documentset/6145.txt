@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU018-0264.950429</DOCID>
+<TDTID>TDT013251</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/29/95 14:50</DATE>
+<TITLE> Algeria says its troops killed 28 militants</TITLE>
+<HEADLINE> Algeria says its troops killed 28 militants</HEADLINE>
+<SUBJECT> BC-ALGERIA-VIOLENCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TUNIS (Reuter) </DATELINE>
+<P>  Algerian security forces have killed 28 Muslim rebels during five days of sweep and search operations in 11 towns and villages across Algeria, the official Algerian news agency APS reported Saturday. </P>
+<P> Among the 28 armed Muslim militants shot dead since Tuesday, five were killed Saturday in the southwestern Algiers sector of Oued Ouchaih, APS, monitered in Tunis, said, quoting an Algerian official security statement. </P>
+<P> The statement dubbed the five killed men as ``dangerous terrorists,'' adding that security troops recovered four automatic pistols from the five bodies. </P>
+<P> More than 40,000 people have been killed in Algeria in a conflict pitting Muslim guerrillas against the army-backed government. It erupted after the authorities scrapped a general election in January 1992 which Islamists were poised to win. </P>
+</TEXT>
+</DOC>

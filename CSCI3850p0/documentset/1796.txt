@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0184.941004</DOCID>
+<TDTID>TDT004439</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/04/94 03:42</DATE>
+<TITLE> Finland says ferry bow doors to be fastened</TITLE>
+<HEADLINE> Finland says ferry bow doors to be fastened</HEADLINE>
+<SUBJECT> BC-FERRY-BOW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HELSINKI (Reuter) </DATELINE>
+<P>  The bow doors of car ferries sailing between Helsinki and Stockholm are to be permanently shut as long as investigations continue into the sinking of the Estonia, the Finnish National Board of Navigation said Monday. </P>
+<P> An official said the decision was taken by the Board after video film Monday showed that the bow door of the ferry Estonia was torn off, allowing water to flood in and sink the ship in heavy seas with the loss of more than 900 lives. </P>
+<P> ``The decision is that those Finnish vessels sailing between Helsinki and Stockholm, the car ferries, their bow openings will be fastened and so will the Finnish passsenger vessel going between Helsinki and Travemunde (in Germany),'' Heikki Valkonen, at the Board of Navigation, told Reuters. </P>
+<P> The bow doors are to be fastened as soon as possible. Asked how this would be done, he said: ``That varies from ship to ship ... I think that there must be some welding going on.'' </P>
+<P> He said around six to seven ships were concerned. ``Additionally, (bow doors of) those ships which carry the Swedish flag will also be (fastened),'' he said. </P>
+<P> On Monday, shipping line Silja Line said it would weld fast bow doors of its car ferries plying the Baltic Sea. </P>
+</TEXT>
+</DOC>

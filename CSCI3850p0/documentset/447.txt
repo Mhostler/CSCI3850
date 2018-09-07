@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0273.940728</DOCID>
+<TDTID>TDT001149</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/28/94 06:14</DATE>
+<TITLE> INDIA CRASH KILLS AT LEAST 15, INJURES 22</TITLE>
+<HEADLINE> INDIA CRASH KILLS AT LEAST 15, INJURES 22</HEADLINE>
+<SUBJECT> BC-INDIA-CRASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, India (Reuter) </DATELINE>
+<P>  At least 15 members of a wedding party were killed and 22 injured when a truck carrying them crashed into a ravine in the northern state of Himachal Pradesh, the Press Trust of India said Thursday. </P>
+<P> The injured, 19 of them critical, were admitted to hospitals at Chamba and Bhatiat. The cause of Wednesday's accident and the number of people travelling in the truck were unknown, PTI added. </P>
+</TEXT>
+</DOC>

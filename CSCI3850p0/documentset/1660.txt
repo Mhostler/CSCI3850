@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU014-0087.940928</DOCID>
+<TDTID>TDT004134</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/28/94 18:25</DATE>
+<TITLE> India turns down U.S. offer of plague assistance</TITLE>
+<HEADLINE> India turns down U.S. offer of plague assistance</HEADLINE>
+<SUBJECT> BC-INDIA-PLAGUE-CDC </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  India has turned down a U.S. offer to help contain an outbreak of pneumonic plague that has afflicted nearly 1,000 people, federal health officials said Wednesday. </P>
+<P> Tom Skinner, a spokesman for the U.S. Centers for Disease Control and Prevention (CDC), said the Atlanta-based agency offered to dispatch a special medical team to India earlier this week. </P>
+<P> ``Indian health officials have since contacted us and feel that the teams they have already in place in India to handle the situation are adequate at this time,'' he said. </P>
+<P> ``So at this time we're not sending someone over, but our offer still stands.'' </P>
+<P> The CDC operates one of two plague research centers in the world through its infectious diseases facility in Fort Collins, Colorado, and has played a pivotal role in combating the disease in Peru, Zaire and Tanzania. </P>
+<P> The four-member team would consist of two epidemiologists, one expert in plague prevention and control and another in laboratory diagnosis. </P>
+<P> The outbreak of pneumonic, which began in the city of Surat last month, has traveled across India into the region surrounding Bombay, to the heart of the capital New Delhi and to the city of Calcutta. The death toll stands at 46. </P>
+</TEXT>
+</DOC>

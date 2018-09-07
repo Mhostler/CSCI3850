@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU005-0220.950408</DOCID>
+<TDTID>TDT012315</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/08/95 08:05</DATE>
+<TITLE> North Korea says it rejects South Korean reactors</TITLE>
+<HEADLINE> North Korea says it rejects South Korean reactors</HEADLINE>
+<SUBJECT> BC-KOREA-NORTH-REACTOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  North Korea Saturday underscored its opposition to plans to provide it with South Korean-made nuclear reactors under the landmark nuclear accord between the Stalinist state and the United States. </P>
+<P> ``South Korea will never be allowed to play a 'pivotal role' in the provision of the light-water reactors and the scheme to provide South Korean-model light-water reactors will eventually go bankrupt,'' said state-run Korean Central News Agency in report monitored in Tokyo. </P>
+<P> The United States last October agreed to provide North Korea with $4.5 billion in light-water nuclear reactors and alternative energy supplies if Pyongyang halted and eventually dismantled a nuclear weapons program Washington insisted was underway. </P>
+<P> The agreement has snagged over Pyongyang's refusal to allow its rival, South Korea, to supply the light-water reactors, which experts say produce less nuclear weapons-applicable spent fuel than the graphite variety North Korea currently uses. </P>
+<P> The United States has insisted that South Korea must be the main reactor supplier because it is the only country that has offered to bear the majority share of the project's cost. </P>
+<P> North Korea, for reasons that analysts say include national pride and reluctance to admit South Korean technicians into its tightly-closed state, has balked at Seoul's participation. </P>
+<P> Instead Pyongyang has often appeared to be trying to use the nuclear issue to drive a wedge between Washington and its South Korean allies. </P>
+<P> ``The DPRK (North Korea) has never invited South Korea to take part in the delivery of the light-water reactors nor expected it to play a 'role','' the KCNA report asserted. </P>
+<P> ``The South Korean puppets have no justification nor qualification to poke their nose into the DPRK-U.S. negotiations,'' KCNA said. </P>
+<P> North Korea's latest refusal comes after South Korea, the United States and Japan, founding members of the Korean Peninsula Energy Development Organization (KEDO) Friday confirmed their intention to supply South Korean reactors. </P>
+<P> U.S.-based KEDO is the international consortium established to implement the nuclear agreement. </P>
+<P> The United States and North Korea are set to resume talks on the nuclear reactor dispute in Berlin April 12. The two countries on March 27 declared a recess in negotiations aiming to complete a specific agreement by April 21 on the reactors. </P>
+<P> North Korea has threatened to resume its nuclear program if no agreement is reached by April 21. </P>
+<P> South Korea said Saturday it was willing to allow North Koreans to inspect South Korean standard-model light-water reactors at the nuclear power plant city of Ulchin. </P>
+</TEXT>
+</DOC>

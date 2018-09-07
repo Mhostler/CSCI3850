@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU002-0379.950503</DOCID>
+<TDTID>TDT013391</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 14:53</DATE>
+<TITLE> Ukraine expels Russian as missile spy</TITLE>
+<HEADLINE> Ukraine expels Russian as missile spy</HEADLINE>
+<SUBJECT> BC-UKRAINE-SPY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KIEV, Ukraine (Reuter) </DATELINE>
+<P>  Ukraine expelled a Russian national after he tried to gather information for an Arab country on missiles produced at one of the world's largest military plants, the security service said Wednesday. </P>
+<P> An official for the Ukrainian Security Service (SBU) in the central city of Dnipropetrovsk identified the man as Valery Beitter and said he was turned over to Russian officials late last month. He was barred from re-entering Ukraine. </P>
+<P> ``He arrived in Dnipropetrovsk to gather secret information to sell to organizations in an Arab country,'' the SBU, successor to the Soviet KGB, said in a statement. </P>
+<P> Security officials said Beitter tried to obtain information on missiles produced at Yuzhmash, the vast plant once run by President Leonid Kuchma. </P>
+<P> ``The Dnipropetrovsk region is often visited by foreign intelligence agents. We get dozens every year,'' General Major Slobodyanyuk, SBU head in Dnipropetrovsk region, told Reuters. </P>
+<P> ``Several attempts have been made to buy rocket technology from Yuzhmash specialists. In the past year, we broke up two attempts to create foreign intelligence networks.'' </P>
+<P> A Ukrainian was arrested last December after trying to acquire information on missiles at the plant. </P>
+</TEXT>
+</DOC>

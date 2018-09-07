@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0167.950305</DOCID>
+<TDTID>TDT011023</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/05/95 23:23</DATE>
+<TITLE> S.Korea minister says formal power transfer likely</TITLE>
+<HEADLINE> S.Korea minister says formal power transfer likely</HEADLINE>
+<SUBJECT> BC-KOREA-KIM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, South Korea (Reuter) </DATELINE>
+<P>  South Korean Unification Minister Rha Woong-bae predicted Monday North Korea's Kim Jong-il may formally take over the national leadership from his late father Kim Il-sung in July or August. </P>
+<P> Rha said in a report submitted to parliament that July and August ``drew special attention with regards to succession of power in the North.'' </P>
+<P> Rha noted that July 8 is the first anniversary of Kim Il-sung's death and Aug. 15 the 50th anniversary of Korea's liberation from Japanese colonial rule. </P>
+<P> Kim Jong-il has been hailed by the North Korean media as his father's successor but has yet to be officially elevated to the key posts he held -- state president and general secretary of the all-powerful communist party. </P>
+</TEXT>
+</DOC>

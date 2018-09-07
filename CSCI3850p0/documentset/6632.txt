@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU011-0447.950517</DOCID>
+<TDTID>TDT013914</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/17/95 13:23</DATE>
+<TITLE> Chaos theory could help farmers kill bugs - study</TITLE>
+<HEADLINE> Chaos theory could help farmers kill bugs - study</HEADLINE>
+<SUBJECT> BC-SCIENCE-CHAOS (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Release at 7 p.m. EDT)</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A team of U.S. scientists said Thursday they had applied advanced mathematical theory to crop pests, and found out why it is so difficult to eradicate them. </P>
+<P> Their findings, reported in the science journal Nature, could help explain, for instance, why populations of some species of animals rise and fall so dramatically. </P>
+<P> Robert Constantino, a zoologist at the University of Rhode Island, and a team of mathematicians and biologists tested chaos theory on flour beetles. </P>
+<P> Chaos theory, which involves advanced mathematical formulas, is explained by the butterfly effect -- that in a chaotic system like world weather patterns, a butterfly in the Pacific can flutter its wings and cause a hurricane in the Atlantic. </P>
+<P> Constantino and colleagues found that killing off adult flour beetles did not result in a simple linear decrease in population. </P>
+<P> Instead, the number of beetles fluctuated wildly. The more adults they killed off, the bigger the fluctuations were. This extended to the number of larvae produced -- one week the rate would shoot up, the next week it would plunge. </P>
+<P> Peter Kareiva, a zoologist at the University of Washington, said the findings were important for ecologists. </P>
+<P> ``We might think that an increase in mortality of adult beetles caused by a pesticide application would simply reduce the populations affected,'' he wrote in Nature. </P>
+<P> ``But an apt non-linear model indicates that the increased mortality could actually cause beetle populations to shift from a stable equilibrium to aperiodic functions.'' </P>
+<P> Ecologists should use and understand chaos theory -- otherwise they will never be able to predict population changes, Kareiva said. </P>
+</TEXT>
+</DOC>

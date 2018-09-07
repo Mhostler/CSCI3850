@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0215.940901</DOCID>
+<TDTID>TDT002781</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/01/94 22:32</DATE>
+<TITLE> U.S. says Rwanda panel would ease Burundi situation</TITLE>
+<HEADLINE> U.S. says Rwanda panel would ease Burundi situation</HEADLINE>
+<SUBJECT> BC-BURUNDI-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A senior U.S. official said Thursday the best way to avoid a Rwanda-like disaster in Burundi was to create an international tribunal to make sure people are held responsible for their actions. </P>
+<P> George Moose, assistant secretary of state for African affairs, said a tribunal would be a constant reminder to political parties and leaders that the world was watching their actions. </P>
+<P> Concerns have arisen about a potential disaster in Burundi similar to the one in neighboring Rwanda, where about 100,000 minority Tutsis and majority Hutus died in a mutual slaughter last year. </P>
+<P> Moose said on PBS's MacNeil/Leher NewsHour that Rwanda has encouraged the creation of a U.N. tribunal to prosecute people suspected of complicity in the crimes as a way to foster national reconciliation. </P>
+<P> He said a Rwanda tribunal to try people involved in the massacre there would have an effect on people in Burundi ``who may have something similar in mind.'' </P>
+<P> Moose said it was important that ``we demonstrate there is going to be accountability,'' and that ``people who are responsible for this are not going to be allowed to get away with it.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU009-0432.940820</DOCID>
+<TDTID>TDT002229</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/20/94 08:40</DATE>
+<TITLE> BOY DOING WELL AFTER SECOND BONE MARROW OPERATION</TITLE>
+<HEADLINE> BOY DOING WELL AFTER SECOND BONE MARROW OPERATION</HEADLINE>
+<SUBJECT> BC-BRITAIN-MARROW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A British boy who made medical history with a second bone marrow transplant to treat a usually fatal genetic disease was doing well Saturday. </P>
+<P> But his final outcome is still in doubt. His hospital said they must wait months to know if the operation on three-year-old Rhys Daniels succeeded. </P>
+<P> His body rejected tissue transplanted in the first operation in July last year to combat his Batten's Disease, a rare disorder which causes dementia and eventual death in young children. </P>
+<P> A pioneering effort to treat an otherwise incurable disease, it was the first time a bone marrow transplant had been attempted twice on the same young child. </P>
+<P> Surgeons repeated the operation, in which bone marrow is fed into the patient's bloodstream over several hours, on Friday. </P>
+<P> ``Rhys had a settled night and is doing well,'' the Children's Hospital in Bristol, southwest England, said in a statement. </P>
+<P> ``It will be at least three weeks before we might find signs that the new marrow is established,'' a hospital spokesman said. ``After that it could be up to a year before we can say whether the transplant is successful or not.'' </P>
+<P> Rhys's six-year-old sister Charly is dying from the same disease and is beyond the help of surgery. </P>
+<P> The boy's parents threatened the government with court action to ensure Rhys received a chance of life-saving treatment after plans were announced to close a hospital bone marrow unit. </P>
+<P> The first transplant appeared to be successful but seven months later doctors found the boy's own tissue was taking over from the donated bone marrow. </P>
+<P> The bone marrow -- the substance found inside bone cavities -- produces red blood cells in early life. </P>
+</TEXT>
+</DOC>

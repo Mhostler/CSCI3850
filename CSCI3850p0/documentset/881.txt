@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0196.940819</DOCID>
+<TDTID>TDT002171</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/19/94 05:23</DATE>
+<TITLE> KUCHMA TO PRESS FOR UKRAINE'S NPT APPROVAL</TITLE>
+<HEADLINE> KUCHMA TO PRESS FOR UKRAINE'S NPT APPROVAL</HEADLINE>
+<SUBJECT> BC-ARMS-CIS-UKRAINE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KIEV (Reuter) </DATELINE>
+<P>  Ukrainian President Leonid Kuchma pledged in an interview published Friday to secure parliamentary approval for an international pact committing Ukraine to give up nuclear weapons for good. </P>
+<P> Kuchma, who had previously been ambiguous on joining the 1968 nuclear Non-Proliferation Treaty, told the daily Ukraina Moloda he would present the pact to parliament for approval in October. He is due to visit Washington in November. </P>
+<P> ``A single problem remains between us and the United States -- the nuclear Non-Proliferation Treaty. It must be signed,'' he told the daily. </P>
+<P> ``I will address the parliament with a proposal some time in October to complete this process. I think parliament will support me. Then we'll see whether the West again will present some conditions on aid to Ukraine.'' </P>
+<P> Ukraine's parliament earlier this year ratified the START-1 treaty agreeing to give up for destruction more than 1,600 former Soviet strategic nuclear warheads. </P>
+<P> But it held back from joining NPT, a condition for receiving large sums of Western aid under a separate agreement signed by the leaders of Ukraine, Russia and the United States. </P>
+</TEXT>
+</DOC>

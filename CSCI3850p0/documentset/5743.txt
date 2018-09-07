@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0004.950414</DOCID>
+<TDTID>TDT012554</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/14/95 06:58</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-FISH-EUROPE-BREAK -2 BRUSSELS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> ``Some progress has been made. We could reconvene at any time,'' said one diplomat. ``We are in touch with our national capitals.'' </P>
+<P> Portugal frustrated final agreement in the dispute over fishing for Greenland halibut (turbot) off Newfoundland. </P>
+<P> Lisbon said it was not happy with the way the EU's catch quota had been shared out. ``We are against the deal,'' a Portuguese spokesman said. </P>
+<P> Portugal could in theory be outvoted by the other 14 EU states, but EU sources said this was unlikely to happen as this would only create more problems. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU004-0196.941208</DOCID>
+<TDTID>TDT007625</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 14:33</DATE>
+<TITLE> Egyptian relief sold after children identify it</TITLE>
+<HEADLINE> Egyptian relief sold after children identify it</HEADLINE>
+<SUBJECT> BC-BRITAIN-EGYPT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A teacher whose seven-year-old pupils helped her identify a 2,000-year-old Egyptian relief sold the stone slab for $183,300 at an auction Thursday. </P>
+<P> The teacher and her husband had used the relief as a garden decoration, standing geranium pots on it. </P>
+<P> ``It was only when my wife was doing a school project on hieroglyphics with her class that we began to look more closely at the stone, which is covered with a variety of different symbols and figures,'' said the husband who declined to be named. </P>
+<P> ``The group of seven-year-olds came to the house to take rubbings of the markings and were able to identify a few of them from library books,'' he said. The British Museum was then able to pinpoint the stone as an 1875 BC relief. </P>
+</TEXT>
+</DOC>

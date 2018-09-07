@@ -1,0 +1,36 @@
+<DOC>
+<DOCID>REU001-0427.941102</DOCID>
+<TDTID>TDT005971</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/02/94 20:57</DATE>
+<TITLE> Violence marks first day of newspaper strike</TITLE>
+<HEADLINE> Violence marks first day of newspaper strike</HEADLINE>
+<SUBJECT> BC-NEWSPAPERS-STRIKE (PICTURE) </SUBJECT>
+<AUTHOR>     By Adrian Croft </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  Vehicles were damaged, several people were injured and at least six strikers were arrested as violence marked the first day of a strike at San Francisco's newspapers Wednesday, police and management said. </P>
+<P> Unions representing 2,600 workers at the San Francisco Chronicle and San Francisco Examiner, the city's two main dailies, went on strike late Tuesday night after talks on a new labor contract deadlocked. </P>
+<P> It is the first strike at the two newspapers since 1968, when a strike lasted 52 days. </P>
+<P> Pickets immediately went up at the offices of the two newspapers and at printing plants around the San Francisco Bay area and several violent incidents were reported. </P>
+<P> The newspaper owners have pledged to continue producing the newspapers despite the strike, but neither the Chronicle, a morning paper, nor the Examiner, an afternoon paper, could be found on San Francisco streets Wednesday. </P>
+<P> Managers also said Wednesday that they were seeking to hire workers to replace strikers, possibly permanently. </P>
+<P> The strike is over pay and jobs. The Conference of Newspaper Unions, grouping eight unions at the two papers, have been without a contract since November 1993. </P>
+<P> Jim Hale, Chief Executive Officer of the San Francisco Newspaper Agency, the business arm of both newspapers, said Wednesday he was appalled by violent attacks made on drivers delivering the San Francisco Chronicle. </P>
+<P> ``A number of our replacement drivers have been physically attacked. One suffered a cracked skull when he was hit in the back of the head by a lead pipe,'' Hale said. ``Three drivers are in the hospital.'' </P>
+<P> Hale said 20 cars had been destroyed at a printing plant in Union City, 20 miles southeast of San Francisco, five trucks were disabled, and a printing press was sabotaged and disabled at Richmond, 15 miles northeast of San Francisco. </P>
+<P> Union spokesman Steve Chin said the unions had ``put out word that violence won't be condoned.'' </P>
+<P> But he said: ``There are a lot of jobs on the line here. We are talking about a very emotional issue.'' </P>
+<P> The most serious incident was in Union City, where some 200 strikers rushed the printing plant early Wednesday, according to police spokeswoman Captain Connie Van Putten. </P>
+<P> She said the strikers damaged numerous vehicles, broke windows and attacked several guards. Police arrested three people for vandalism or trespassing, she said. </P>
+<P> Police said two picketing workers were arrested on malicious mischief charges at a printing plant in San Francisco. </P>
+<P> Police in Richmond said a picket was arrested on an assault charge at a printing facility there. </P>
+<P> Hale said 350,000 copies of the San Francisco Chronicle were printed Tuesday night, but none were distributed in San Francisco itself. </P>
+<P> About 100,000 copies of the Examiner, out of a normal run of 130,000, had been printed Wednesday, he said. </P>
+<P> A key issue behind the strike decision was a management proposal to reduce the number of delivery truck drivers. </P>
+<P> The unions said this would mean 150 jobs being cut. Managers said reductions would be through attrition and no drivers would be laid off. </P>
+<P> The unions were seeking a wage rise of 3.5 percent a year, while the owners offered 2.5 percent. </P>
+<P> The two newspapers have different owners but share advertising, printing and distribution. </P>
+</TEXT>
+</DOC>

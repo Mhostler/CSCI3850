@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0001.950517</DOCID>
+<TDTID>TDT013915</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/17/95 13:25</DATE>
+<TITLE> Scientists find cells that nip leukemia in bud</TITLE>
+<HEADLINE> Scientists find cells that nip leukemia in bud</HEADLINE>
+<SUBJECT> BC-HEALTH-LEUKEMIA (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Release at 7 p.m. EDT)</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Scientists reported Thursday they had found a type of blood cell that seems to patrol the body on the lookout for pre-cancerous cells, destroying them before they can become malignant. </P>
+<P> The T-cells, important parts of the body's immune system, are specifically programmed to eradicate leukemia and other types of blood cancer, the scientists reported in the science journal Nature. </P>
+<P> Josef Martin Penninger of the Amgen Institute in Toronto and colleagues in the United States and Canada said they were working with specific T-cells known as gamma-delta T-cells. </P>
+<P> They genetically engineered mice to produce these types of T-cells and then injected them with cells known to cause leukemia in mice. </P>
+<P> The special mice did not develop leukemia, although they developed other kinds of cancer when injected with those cells, Penninger wrote in Nature. </P>
+<P> ``These results suggest that gamma-delta T-cells have the function of patrolling the blood on the look-out for pre-cancerous cells, which they then dispatch before they become malignant,'' Nature said in a statement. </P>
+</TEXT>
+</DOC>

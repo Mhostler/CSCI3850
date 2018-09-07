@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU018-0125.950428</DOCID>
+<TDTID>TDT013236</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/28/95 22:15</DATE>
+<TITLE> China's Deng reported ill, but out of danger</TITLE>
+<HEADLINE> China's Deng reported ill, but out of danger</HEADLINE>
+<SUBJECT> BC-CHINA-DENG-HONGKONG </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HONG KONG, April 29 (Reuter) </DATELINE>
+<P>  China's aged paramount leader Deng Xiaoping was ill with a high temperature earlier this week but was now out of danger, the South China Morning Post newspaper said on Saturday. </P>
+<P> Speculation about the frail 90-year-old leader's health intensified this week after reports that his children were staying close to home. </P>
+<P> The Post quoting unnamed sources as saying Deng's condition had been poor but had now stabilised. </P>
+<P> He was still able to walk with assistance but had trouble speaking, it said. </P>
+</TEXT>
+</DOC>

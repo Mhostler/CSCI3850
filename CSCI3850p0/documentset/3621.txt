@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0078.950107</DOCID>
+<TDTID>TDT008991</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/07/95 00:42</DATE>
+<TITLE> Mexico rebels extend truce but make demands</TITLE>
+<HEADLINE> Mexico rebels extend truce but make demands</HEADLINE>
+<SUBJECT> BC-MEXICO-CHIAPAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Maya Indian rebels in southern Mexico extended a temporary truce for another six days Friday but demanded major political concessions in exchange for a start to peace talks aimed at ending their year-old uprising. </P>
+<P> Guerrilla chief Subcomandante Marcos said in a statement that his Zapatista National Liberation Army will extend its truce until Jan. 12, promising to halt aggressive troop movements and avoid all contact with army units. </P>
+<P> The truce began on New Year's Day, exactly one year after the Zapatistas took up arms to demand democratic reforms and autonomy for Mexico's many indigenous groups. </P>
+<P> But Marcos said the proposed agreement of a formal truce and the opening of peace negotiations depends on the government first resolving post-electoral disputes in the states of Chiapas, Veracruz and Tabasco. </P>
+<P> In the case of Chiapas, the Zapatistas have repeatedly demanded that Gov. Eduardo Robledo of the ruling Institutional Revolutionary Party (PRI) resign his post and that formal recognition be given to the parallel ``rebel government'' of leftist opposition leader and Zapatista ally, Amado Avendano. </P>
+<P> Avendano and the rebels claim the PRI stole victory in August state elections through fraud. Likewise, leftist leaders in Tabasco and Veracruz said they, too, were robbed of victory in recent elections. </P>
+<P> Marcos said his rebel army ``is waiting for real signs, and not just declarations, that show a will for dialogue and peace from the federal government''. </P>
+<P> He also accused the army of making illegal detentions of suspected Zapatista supporters as well as continuing with ''intimidating and provocative'' military patrols on the ground and in the air near Zapatista positions. </P>
+<P> Both the Zapatistas and the government have, over the last 10 days, made light concessions boosting hopes for peace talks, although President Ernesto Zedillo has so far ignored rebel demands that he sacrifice Robledo. </P>
+<P> Last March, a first round of peace talks ended with a preliminary accord on judicial reforms and heavy investment in Chiapas' indigenous communities but the deal was later rejected by rebel fighters and their civilian supporters. </P>
+<P> At least 145 people were killed in the first 10 days of the rebellion but a cease-fire had held since Jan. 12 last year. </P>
+</TEXT>
+</DOC>

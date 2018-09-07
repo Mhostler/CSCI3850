@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0232.950408</DOCID>
+<TDTID>TDT012317</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/08/95 10:07</DATE>
+<TITLE> 100 feared drowned in Ghana boat accident</TITLE>
+<HEADLINE> 100 feared drowned in Ghana boat accident</HEADLINE>
+<SUBJECT> BC-GHANA-ACCIDENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ACCRA, Ghana (Reuter) </DATELINE>
+<P>  About 100 people were feared drowned after a boat in which they were travelling capsized on Ghana's Volta lake, the Ghana Times reported Saturday. </P>
+<P> It quoted district administrator Laud Sarfo as saying divers had retrieved 77 bodies by Friday night after the accident Wednesday in the Afram plains area of eastern Ghana. </P>
+<P> ``By Friday evening 19 bodies were still at the beach awaiting burial,'' Sarfo said, adding that it was impossible to identify most of the recovered bodies, which had since been buried in a mass grave. </P>
+<P> He said the boat carrying 250 passengers went down about 20 nautical miles up the lake near Kpando Torkor village. </P>
+<P> No official confirmation was immediately available from local officials in the remote and hardly accessible area about 450 miles from Accra, the capital of the west African nation. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU014-0239.950327</DOCID>
+<TDTID>TDT011768</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 08:42</DATE>
+<TITLE> Spain reports sinking of Cuban ship</TITLE>
+<HEADLINE> Spain reports sinking of Cuban ship</HEADLINE>
+<SUBJECT> BC-CUBA-SHIP </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MADRID, Spain (Reuter) </DATELINE>
+<P>  A Cuban ship sailing from Havana to Santander in northern Spain sank in the Atlantic on March 10 with the loss of all but one of the crew of 25, a Spanish Marine Rescue Services spokesman said Monday. </P>
+<P> Rescue efforts were launched from Spain after the ship failed to arrive in Santander on March 16 as scheduled. </P>
+<P> The spokesman said the surviving crew member was discovered in a life-raft Sunday by the Liberian ship Dole Africa 500 miles south of the Azores. </P>
+<P> The freighter Guantanamo was carrying 3,700 metric tons of scrap when it sank. The crew member said he had seen no other survivors. </P>
+<P> Rescue services from the Azores were continuing to search the area, the spokesman said. </P>
+</TEXT>
+</DOC>

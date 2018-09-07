@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU004-0455.950208</DOCID>
+<TDTID>TDT010253</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/08/95 23:13</DATE>
+<TITLE> World Trade Center bomb suspect seized in Pakistan</TITLE>
+<HEADLINE> World Trade Center bomb suspect seized in Pakistan</HEADLINE>
+<SUBJECT> BC-USA-PLOT-ARREST 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>  (adds more background, FBI comments, fixing age)</NOTES>
+<DATELINE>WASHINGTON, (Reuter) </DATELINE>
+<P>  An Iraqi fugitive wanted as the mastermind of the 1993 bombing of New York's World Trade Center, has been arrested in Pakistan and turned over to U.S. authorities, the White House said on Wednesday. </P>
+<P> He was expected to be arraigned in New York on Thursday morning. It was not immediately revealed where Yousef was being held, but a local New York TV station said he landed at John F. Kennedy airport Wednesday evening and it showed a convoy of cars apparently taking him away. </P>
+<P> Yousef was on the FBI's 10 Most Wanted List and a $2 million reward was offered for information leading to his arrest. Details of his arrest were not available. </P>
+<P> ``Yousef was apprehended in Pakistan and turned over to American authorities to face charges of taking part in a bombing that killed six persons and injured more than 1,000 others,'' Attorney General Janet Reno said in a statement. </P>
+<P> FBI Director Louis J. Freeh said: ``The FBI has conducted a worldwide search for Yousef since he was charged shortly after the bombing on February 26, 1993.'' </P>
+<P> A radical Muslim cleric and 10 of his followers are currently on trial in New York for what prosecutors say was a plan to ``levy a war of urban terrorism'' in the United States and bomb the World Trade Center, the United Nations building and other New York landmarks. Only the World Trade Center bombing was carried out. </P>
+<P> Prosecutors allege that defendant Egyptian Sheik Omar Abdel-Rahman, known for his fiery speeches, is the religious leader of the group and approved its plans. </P>
+<P> Yousef, an Iraqi, emerged in testimony and in the prosecutors' summations during the earlier World Trade Center bombing trial as the ``mastermind'' of the explosion. </P>
+<P> Prosecutors said Yousef arrived in the United States on September 1, 1992, on a valid Iraqi passport but without an American visa. </P>
+<P> He immediately applied for political asylum and his case was pending before immigration officials when he escaped using a false name on a plane to Iraq the night of the blast. </P>
+<P> Prosecutors said Yousef arrived in the United States with terrorist manuals and supplied another defendant with the money to open bank accounts were used to buy the chemicals believed used to make the bomb. </P>
+<P> Witnesses at the earlier trial identified Yousef as the man who shared an apartment with Mohammad Salameh, 26, a Jordanian citizen of Palestinian descent. In 1988, Salameh came to the United States on a tourist visa and stayed after it expired. </P>
+<P> The prosecution said Yousef got instructions as to their roles in the Trade Center bombing before leaving Peshawar, Pakistan, where he was trained in bomb-making courses. </P>
+<P> Yousef is believed to have lived most of his life in Kuwait. He also fought with Muslim rebels in Afghanistan. </P>
+<P> In the months before the blast, Yousef worked as a cab driver, worshipping at the Jersey City mosque where Abdel-Rahman preached. </P>
+<P> Yousef ``came here with one goal, to bomb targets in the United States,'' the prosecutor said in the earlier trial of Salameh and three other defendants. </P>
+<P> Those four defendants were convicted last March 4 of the World Trade Center bombing and sentenced to 240 years in prison without possibility of parole. </P>
+</TEXT>
+</DOC>

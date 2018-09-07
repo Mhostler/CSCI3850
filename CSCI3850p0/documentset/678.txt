@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU004-0391.940809</DOCID>
+<TDTID>TDT001675</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/09/94 16:54</DATE>
+<TITLE> FIRE THREATENS HOMES IN IDAHO SUBDIVISION</TITLE>
+<HEADLINE> FIRE THREATENS HOMES IN IDAHO SUBDIVISION</HEADLINE>
+<SUBJECT> BC-USA-WILDFIRES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOISE, Idaho (Reuter) </DATELINE>
+<P>  A rapidly spreading forest fire threatened an exclusive lakeside development in Idaho Tuesday, while firefighters sought to douse destructive blazes in Washington and California, officials said. </P>
+<P> Unusually hot weather in the high country of west-central Idaho fanned the flames of two major wildfires, including one that threatened about 100 homes in a subdivision of McCall, about 75 miles north of Boise, said Megan Reynolds of the U.S. Forest Service. </P>
+<P> ``They're watching it pretty close out there,'' Reynolds said. ``The problem is most of those homes are indefensible.'' </P>
+<P> She said many of the homes in the affluent subdivision have wood-shingle roofs and are surrounded by trees and other vegetation, making them prime fuel if the forest fire should approach. </P>
+<P> Residents have been warned of the potential danger, although no evacuations have been ordered, she said. </P>
+<P> The nearby Corral fire exploded to 32,000 acres Tuesday from about 10,000 the day before, threatening a lodge on the Salmon River, Reynolds said. </P>
+<P> Elsewhere firefighters were making progress in their efforts to contain wildfires that have destroyed some 61 homes and 89 other structures over the past two weeks. </P>
+<P> In northern California, officials said arson was the cause of a fire that destroyed 12 homes and scorched 860 acres near Kelsey before it was contained Monday night. </P>
+<P> The fire erupted Sunday in an area where half a dozen small fires are believed to have been deliberately set in recent days. </P>
+<P> Officials were still assessing the damage from a 500-acre fire in the town of Rough and Ready in the Sierra Nevada foothills. At least nine homes and 14 other buildings -- including a Civil-war era schoolhouse -- were destroyed in the fire, which was started by downed power lines. </P>
+<P> Nearly an inch of rain in parts of the Pacific Northwest overnight allowed firefighting teams to continue scaling back their efforts and work on controlling hot spots and suppressing fires in more remote regions, officials said. </P>
+<P> The huge 121,000-acre Tyee Creek fire in north-central Washington was expected to be fully contained by Wednesday. </P>
+<P> Officials were not able to estimate when they would be able to contain the Hatchery complex of fires near the Bavarian-style mountain town of Leavenworth. </P>
+<P> Altogether nearly 25,000 men and women, including more than 5,000 U.S. Army, Marine and National Guard troops, have been deployed to fight 36 major fires burning out of control over 330,000 acres in nine western states, said Joe Colwell of the National Interagency Fire Center. </P>
+<P> He said $186 million has been spent battling major uncontained wildfires over the past five weeks, and he estimated the total cost of firefighting efforts in the region at double or triple that. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU006-0285.940712</DOCID>
+<TDTID>TDT000444</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/12/94 14:48</DATE>
+<TITLE> MAINE TO ALLOW CAMERAS IN COURTS, WITH RESTRICTIONS</TITLE>
+<HEADLINE> MAINE TO ALLOW CAMERAS IN COURTS, WITH RESTRICTIONS</HEADLINE>
+<SUBJECT> BC-USA-CAMERAS </SUBJECT>
+<AUTHOR>     By Allan Dowd </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORTLAND, Maine (Reuter) </DATELINE>
+<P>  The Maine Supreme Court Tuesday eased the state's prohibition on television coverage in courtrooms but said cameras would still be barred from recording witnesses in criminal trials. </P>
+<P> The judges said increased media access gave the public ''valuable insights'' into the judicial system. But they indicated they were still concerned that witnesses were intimidated by the presence of cameras. </P>
+<P> The ruling allows cameras and microphones to record arraignments and sentencings in criminal cases. It will also allow camera and sound recordings of civil trials, including witness testimony. </P>
+<P> Maine previously allowed cameras only in Supreme Court hearings. </P>
+<P> ``I would say (the ruling) is a balance between the need for public information and the absolute necessity for justice,'' Chief Justice Daniel Wathen told Reuters. </P>
+<P> The ruling followed a two-year experiment in which broadcast coverage was permitted in Superior and District Court trials in Portland and Bangor -- the state's two largest television markets. </P>
+<P> A committee of lawyers, judicial officers and media representatives which studied the experiment for the Supreme Court issued a divided opinion last year recommending cameras be allowed in both civil and criminal trials. </P>
+<P> The seven Supreme Court judges said they were also divided on the issue but agreed that cameras ``did not significantly disrupt court proceedings'' and that greater access to the judicial process should be permitted. </P>
+<P> The court's eight-page ruling, however, noted that 42 percent of the non-professional witnesses who testified in trials covered by television told a survey they were uncomfortable with the presence of cameras. </P>
+<P> The ruling quoted several witnesses who said they were ridiculed and felt their reputations were damaged because they were recognized in public as having testified for unpopular defendants. </P>
+<P> The court noted that 20 percent of the jurors surveyed initially expressed concern about camera coverage, but only two percent reported they were distracted by the cameras. </P>
+<P> A broadcaster who helped spearhead efforts to get cameras in the courts expressed disappointment at the restrictions imposed on criminal trial coverage but called the ruling ``a foot in the door.'' </P>
+<P> ``This is obviously one step in a long process, not a final step in a short process,'' said Jeff Marks, general manager of WLBZ-TV in Bangor. </P>
+<P> The new coverage rules take effect August 1. </P>
+</TEXT>
+</DOC>

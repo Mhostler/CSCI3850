@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0030.950226</DOCID>
+<TDTID>TDT010772</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/26/95 11:24</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-TRADE-CHINA-PENALTIES -2 BEIJING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Deputy Trade Representative Charlene Barshefsky told a news conference China had agreed to abolish import quotas and many other import barriers for U.S. intellectual property, particularly recorded music and film, effective immediately. </P>
+<P> ``It (the accord) creates a system of task forces throughout the country which has brought authoritiy to search premises, review business records, preserve evidence, destroy goods, destroy equipment used in the manufacture of infringing goods, to order infringement to stop and to refer cases for criminal prosecution,'' she said. </P>
+<P> She said an intensive six-month period of raids would begin on March 1 against all suspected infringers, including compact disc, laser disc and CD-ROM factories. </P>
+<P> Those still in operation would be punished through seizure and forfeiture of infringing products, she said. </P>
+</TEXT>
+</DOC>

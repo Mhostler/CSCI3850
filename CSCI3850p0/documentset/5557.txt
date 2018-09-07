@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0006.950407</DOCID>
+<TDTID>TDT012263</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 12:00</DATE>
+<TITLE> Rep. Robert Dornan to seek Republican nomination</TITLE>
+<HEADLINE> Rep. Robert Dornan to seek Republican nomination</HEADLINE>
+<SUBJECT> BC-POLITICS-DORNAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Rep. Robert Dornan, a firebrand California conservative, said Friday he will formally announce his candidacy for the Republican presidential nomination next week. </P>
+<P> Dornan said he will make the announcement at the National Law Enforcement Officers memorial in downtown Washington next Thursday. He will join a field of five candidates, expected to expand to six Monday when the front-runner, Senate Majority Leader Bob Dole, officially enters the fray in Kansas. </P>
+<P> At least nine Republicans are eventually expected to fight for the nomination. The winner is expected to face President Clinton in November 1996. </P>
+<P> Dornan, 62, hits all the conservative buttons in his speeches, even though he does not show up as a factor in most polls. Few people outside of California know the congressional veteran, a hard-line foe of abortion and homosexual rights and a frequent and outspoken Clinton critic. </P>
+<P> ``America's a big, strong, vibrant country with a glorious history,'' he said in a speech in Des Moines, Iowa, last month. </P>
+<P> ``I'm going to bring out a lot of that history with this campaign and say we shouldn't allow ourselves to be poisoned by a bunch of people who mock faith, family and freedom.'' </P>
+</TEXT>
+</DOC>

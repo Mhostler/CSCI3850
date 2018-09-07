@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU017-0378.950428</DOCID>
+<TDTID>TDT013187</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/28/95 06:23</DATE>
+<TITLE> Pathologist says Arab died of torture</TITLE>
+<HEADLINE> Pathologist says Arab died of torture</HEADLINE>
+<SUBJECT> BC-MIDEAST-DEATH-DOCTOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM, April 28 (Reuter) </DATELINE>
+<P>  A Scottish doctor who performed an autopsy on a Palestinian prisoner held by Israel said on Friday the man died from torture. </P>
+<P> ``There is no doubt whatsoever about the cause of death and it's very clear that he has died from unnatural causes and that he has died from torture and we know how that was achieved,'' pathologist Derrick Pounder told Israel's army radio. </P>
+</TEXT>
+</DOC>

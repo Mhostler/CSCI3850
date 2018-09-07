@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0001.940811</DOCID>
+<TDTID>TDT001753</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/11/94 16:22</DATE>
+<TITLE> HIGH COURT BLOCKS ORDER ON LOUISIANA DISTRICTS</TITLE>
+<HEADLINE> HIGH COURT BLOCKS ORDER ON LOUISIANA DISTRICTS</HEADLINE>
+<SUBJECT> BC-USA-COURT-LOUISIANA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Supreme Court Thursday delayed a lower court order that would have redrawn lines for Louisiana's seven congressional districts, eliminating one of two districts where blacks are a majority. </P>
+<P> A three-judge federal court in Louisiana had redrawn the lines in a July 25 decision to change a district represented by Democrat Cleo Fields, a black, and force him to run in the same district as white Republican Richard Baker. </P>
+<P> The judges said Fields' current district was designed in an unusual shape to have a black majority. Their plan left intact another majority black district represented by black Democrat William Jefferson. </P>
+<P> The Supreme Court stayed the lower court's ruling pending a decision on whether it would hear an appeal of the ruling. The order maintains the current seven districts. </P>
+<P> If the Supreme Court decides to hear the appeal, the present districts should be continued through this November's congressional elections. Louisiana now has four Democrats and three Republicans in the House of Representatives. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU006-0220.950114</DOCID>
+<TDTID>TDT009284</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/14/95 06:30</DATE>
+<TITLE> Bomb damages telephone company office in Corsica</TITLE>
+<HEADLINE> Bomb damages telephone company office in Corsica</HEADLINE>
+<SUBJECT> BC-FRANCE-CORSICA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AJACCIO, Corsica (Reuter) </DATELINE>
+<P>  A series of bombings struck the French Mediterranean island of Corsica early Saturday, just hours before an official visit by Interior Minister Charles Pasqua, police said. </P>
+<P> In the most serious incident, a boobytrapped parked car blew up in front of an office of France Telecom, the state-owned telecommunications company, in the center of the northern Corsican town of Bastia. </P>
+<P> The blast, which occurred just after midnight, slightly wounded a passer-by, destroyed the front of the building and damaged three cars parked nearby. </P>
+<P> Pasqua arrived in Ajaccio on Corsica's western coast a few hours later to confer with elected officials and business leaders on the status and security of the island, which has been shaken by a debate over whether Corsica should be given more autonomy from mainland France. </P>
+<P> Corsica's main separatist group, the National Front for the Liberation of Corsica (FLNC), said in November it was ready to negotiate a compromise with Paris and was suspending all guerrilla attacks against civil servants in mainland France and French residents of Corsica. </P>
+<P> It also acknowledged having met French officials in search of a political settlement, saying the state had agreed to gradually free imprisoned militant separatists and hinting France might recognize Corsica as an overseas territory. </P>
+<P> Pasqua later said in a letter to associates in Corsica that he was open to an ``in-depth review of the evolution of Corsican institutions,'' angering Corsican leaders who oppose the separatists' efforts. </P>
+<P> No group claimed credit for the early-morning bombing attacks. Apart from the blast in Bastia, they caused little damage. </P>
+<P> Among the other bombing targets, police said, were a government office building in the central Corsican town of Corte and a tax office and an office of the Credit Agricole bank in the northern town of Saint Florent. </P>
+<P> A fifth bomb, disarmed before it could explode, was found by police in the window of a government building in the southern town of Sartene. </P>
+</TEXT>
+</DOC>

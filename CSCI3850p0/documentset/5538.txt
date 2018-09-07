@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU004-0293.950406</DOCID>
+<TDTID>TDT012226</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 19:09</DATE>
+<TITLE> Helms proposes new way to help foreign countries</TITLE>
+<HEADLINE> Helms proposes new way to help foreign countries</HEADLINE>
+<SUBJECT> BC-AID-HELMS </SUBJECT>
+<AUTHOR>     By David Brown </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHAPEL HILL, N.C. (Reuter) </DATELINE>
+<P>  Sen. Jesse Helms, the Republican chairman of the Senate Foreign Relations Committee, said Thursday aid to foreign governments should be replaced with block grants to private companies. </P>
+<P> ``Instead of a hand out, it's a hand up'' that could save billions, Helms said in reference to proposals to eliminate the U.S. Agency for International Development. </P>
+<P> The senator made the comments during a news conference at the University of North Carolina in an appearence with Anand Panyarachun, the former prime minister of Thailand who is also a former ambassador to the United States. </P>
+<P> The school's Kenan Institute of Private Enterprise is involved in channeling U.S. private investment in southeast Asia from its base in Thailand. </P>
+<P> With an $8-million grant from USAID, the Kenan Institute has formed partnerships with Thailand's oldest university and a private Thai foreign investment firm to redefine how the U.S. helps developing countries. </P>
+<P> Helms wants USAID replaced with a new International Development Foundation to handle foreign aid with block grants to non-government organizations. </P>
+<P> Anand, known for being friendly to the needs of foreign investors in rapidly modernizing Thailand, said the Kenan Institute and Helms want the same things. </P>
+<P> Solutions to health and environmental problems in his country lie with American and other foreign interests with the technology and the opportunity to profit, Anand said. </P>
+<P> ``When I first served as ambassador to the United States in the 1970s, our major exports included rice, tin and rubber,'' Anand said. ``Now they comprise computers, hard-disk drives, chemicals, intergrated circuits, jewelry and other manufactured goods.'' </P>
+<P> Jack Kasarda, director of the Kenan Institute cited the example of a Seattle company that helped a Thai company develop an HIV diagnostic kit as a replacement for a time consuming, often inaccurate test method. The company has sold more than 600,000 of the kits, whose results are available in five minutes. </P>
+<P> Kasarda said his agency can effect similar technology transfers with U.S. companies to help Thailand deal with environmental problems exacerbated by a fast-growing economy. </P>
+</TEXT>
+</DOC>

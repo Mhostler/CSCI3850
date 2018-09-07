@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU014-0333.940730</DOCID>
+<TDTID>TDT001251</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/30/94 15:34</DATE>
+<TITLE> GREENPEACE JOINS SPANISH FISHERMEN IN ``TUNA WAR''</TITLE>
+<HEADLINE> GREENPEACE JOINS SPANISH FISHERMEN IN ``TUNA WAR''</HEADLINE>
+<SUBJECT> BC-SPAIN-GREENPEACE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LA CORUNA, Spain (Reuter) </DATELINE>
+<P>  The Greenpeace flagship Rainbow Warrior arrived in the northern Spanish port of La Coruna Saturday to help local fishermen fight alleged French use of oversized drift nets to hunt tuna. </P>
+<P> Xabier Pastor, Greenpeace president in Spain, told a news conference on board the Rainbow Warrior that Spanish fishermen -- with the exception of 30 boats -- had the ``active support'' of the international environmental organization. </P>
+<P> ``Not because they are Spanish, but because they have just cause in this conflict,'' Pastor said. </P>
+<P> Spanish fishermen touched off a so-called ``tuna war'' two weeks ago when a crew boarded and seized a French trawler, La Gabrielle, and towed it into a Galician port to show that it was using drift nets longer than the European Union (EU) limit. </P>
+<P> Pastor said Greenpeace approved of the action, even though it was illegal, because it showed proof of their claim. </P>
+<P> ``The Spanish tuna fleet uses selective fish nets, the most ecological, while the French use destructive methods that cause serious damage to non-commercial species like dolphins, turtles, sperm whales and sea birds,'' Pastor said. </P>
+<P> The ``Rainbow Warrior'' which had traveled from New York, will accompany the Spanish fleet at undisclosed times and also monitor the Atlantic waters to ensure that French fishermen use nets adhering to EU limits of 1.6 miles. </P>
+<P> Greenpeace said there were some 30 Spanish boats based in Algeciras that violated EU net size norms. </P>
+</TEXT>
+</DOC>

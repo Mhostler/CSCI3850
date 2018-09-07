@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU011-0192.940824</DOCID>
+<TDTID>TDT002385</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/24/94 08:31</DATE>
+<TITLE> MAJOR BLACKOUT HITS SOUTHERN MAINLAND ITALY</TITLE>
+<HEADLINE> MAJOR BLACKOUT HITS SOUTHERN MAINLAND ITALY</HEADLINE>
+<SUBJECT> BC-ITALY-BLACKOUT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  A vast power failure hit many areas of southern Italy for more than 90 minutes Wednesday, blocking thousands of people in trains and elevators and knocking out traffic signals in many towns and cities, officials said. </P>
+<P> The blackout, which Italian state telvision said affected people in more than half of the mainland's southern regions, was caused by a failure in a power link in the Naples area which feeds electrical power from north to south. </P>
+<P> A spokesman for Italy's state electricy board said the problem had been repaired and the situation was slowly returning to normal. </P>
+</TEXT>
+</DOC>

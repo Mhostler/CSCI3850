@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0094.941105</DOCID>
+<TDTID>TDT006110</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/05/94 15:12</DATE>
+<TITLE> Arkansas governor favored for re-election</TITLE>
+<HEADLINE> Arkansas governor favored for re-election</HEADLINE>
+<SUBJECT> BC-ELECTION-ARKANSAS </SUBJECT>
+<AUTHOR>     By Steve Barnes </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LITTLE ROCK, Ark.(Reuter) </DATELINE>
+<P>  Jim Guy Tucker remained the favorite for re-election as Arkansas governor Tuesday, despite repeated predictions by his opponent that Tucker will be indicted in the Whitewater affair. </P>
+<P> A statewide poll published Friday by the Arkansas Democrat-Gazette indicated support for Tucker at 58 percent, with challenger Sheffield Nelson trailing at 29 percent, with 13 percent undecided. The poll's margin of error is 3.5 percent. </P>
+<P> The results are about the same from a mid-October poll for the newspaper. </P>
+<P> In interviews on news shows, Nelson, 56, a Republican, says Tucker will be indicted because of alleged Whitewater misdeeds. ``It's a question of when, not if'' Tucker will be indicted, he said. </P>
+<P> Tucker, 52, a Democrat, angrily said that Nelson is guilty of ``loathsome'' campaign behavior and has ``a long history of telling lies.'' </P>
+<P> ``I haven't done anything to be indicted for,'' Tucker said. </P>
+<P> Both Tucker and Nelson had business dealings during the 1980's with Jim McDougal, the friend of Bill and Hillary Clinton who controlled Little Rock thrift Madison Guaranty Savings and Loan. Madison Guaranty failed in 1989. </P>
+<P> The Resolution Trust Corp, which disposed of failed thrifts for the U.S., asked the Justice Department in 1993 to determine if Tucker had illegally diverted loan proceeds from Madison. </P>
+<P> There has been no determination by federal prosecutors, and Tucker denies any wrongdoing. </P>
+<P> Tucker claims, though, that Nelson reaped a substantial profit from a Canadian real estate venture that McDougal's savings and loan developed. </P>
+<P> Tucker's and Nelson's financial records have been subpoened by Whitewater special prosecutor Kenneth B. Starr. </P>
+</TEXT>
+</DOC>

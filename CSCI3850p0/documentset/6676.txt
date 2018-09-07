@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0064.950519</DOCID>
+<TDTID>TDT013971</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/19/95 02:12</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-KOREA-USA-MALAYSIA -2 KUALA LUMPUR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> The United States ratcheted up the pressure ahead of the talks in Malaysia that begin on Saturday. </P>
+<P> Secretary of State Warrren Christopher told Congress on Thursday that Washington had told North Korea it would delay oil shipments under the agreement until it is assured there will be no more diversions of the oil. </P>
+<P> Christopher said intelligence reports showed ``relatively minor'' diversions of oil intended solely for energy generation into the production of iron and steel. </P>
+<P> Hubbard said in his arrival statement: ``We look forward to meeting, beginning tomorrow (Saturday), with our North Korean counterparts and plan to work hard on resolving the remaining problems, which relate mainly to the... reactor. We don't anticipate discussing other issues.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU003-0088.941206</DOCID>
+<TDTID>TDT007505</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 14:00</DATE>
+<TITLE> Senate panel to examine regulatory reform</TITLE>
+<HEADLINE> Senate panel to examine regulatory reform</HEADLINE>
+<SUBJECT> BC-REPUBLICANS-REGULATIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Republicans preparing to take over the Senate signalled likely efforts to roll back government regulations opposed by business and others, announcing that a working group was being set up to study regulation reform. </P>
+<P> ``We would like to make sure that the benefits (of regulations) exceed the cost -- that will be a high priority,'' Sen. Don Nickles, R-Okla., told reporters. </P>
+<P> He mentioned labor and environmental regulations as among those that needed examination, and said that Republicans had been ``having a hard time with Democrats in the past getting some kind of cost-benefit analysis.'' </P>
+<P> Republicans campaigned for the Nov. 8 elections, in which they won both house of Congress, on a platform of smaller, less-intrusive government. </P>
+<P> The working group on regulation reform will be one of seven on congressional reorganization and legislative priorities that will make reommendations to Senate Republican Leader Bob Dole of Kansas. </P>
+<P> Nickles did not say who would serve in the regulatory reform group, but said there was a need to find out the cost of regulations. </P>
+<P> ``Some regulations might cost billions of dollars but have little health impact,'' he said. </P>
+<P> He said environmental, labor and health regulations had enormous impact, and although the goals were not objectionable the cost was often unreaonable. </P>
+<P> He said senators were looking at the possibility of the Congressional Budget Office examining certain regulations to see if they were cost-effective. </P>
+</TEXT>
+</DOC>

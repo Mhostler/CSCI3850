@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0152.940816</DOCID>
+<TDTID>TDT002013</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/16/94 18:09</DATE>
+<TITLE> REPUBLICANS TO ALLOW SENATE VOTE ON HEALTH REFORM</TITLE>
+<HEADLINE> REPUBLICANS TO ALLOW SENATE VOTE ON HEALTH REFORM</HEADLINE>
+<SUBJECT> BC-HEALTH-CONGRESS-VOTE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Senate Minority Leader Bob Dole said Senate Republicans will stop talking on health reform and allow a vote Tuesday night on the first amendment to the complex bill, avoiding an all-night session. </P>
+<P> ``We're prepared to have a vote at about 6:30 (p.m. EDT)'' on a pending amendment on child health care, Dole said following a Republican caucus. </P>
+</TEXT>
+</DOC>

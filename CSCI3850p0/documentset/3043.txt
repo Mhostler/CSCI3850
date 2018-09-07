@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU003-0281.941207</DOCID>
+<TDTID>TDT007552</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/07/94 08:48</DATE>
+<TITLE> Egyptian group reports 16 missing people in 1994</TITLE>
+<HEADLINE> Egyptian group reports 16 missing people in 1994</HEADLINE>
+<SUBJECT> BC-EGYPT-MISSING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO, Egypt (Reuter) </DATELINE>
+<P>  Egypt's main human rights organization reported a sharp increase Wednesday in the number of missing people in Egypt over the last year. </P>
+<P> The Egyptian Organization for Human Rights (EOHR) said that since December 1993 it had documented 16 cases of people who had disappeared, most after being arrested by security forces. </P>
+<P> ``EOHR regrets to announce that 1994 has witnessed an unprecendented, high rate of enforced disappearances,'' it said in a report distributed Wednesday. </P>
+<P> Last year it monitored just three cases, and four years ago the such disappearances were unknown in Egypt, the group said. </P>
+<P> It said some of the missing had vanished up to two years ago, but were not considered ``enforced disappearances'' until this year when EOHR ``lost all hope of being able either to find them, or to determine their places of detention.'' </P>
+<P> The increase in the number of disappearances was largely caused by the lack of accountability of the security forces, who sometimes took detainees blindfolded to unofficial prisons beyond any supervision or inspection, the report said. </P>
+<P> Interior Ministry officials were not immediately available to comment on the report, but the Egyptian government has said any violations by security forces will be punished. </P>
+<P> One of the 16 people on the list of disappeared was Mansour al-Kikhia, a Libyan dissident and former foreign minister who vanished in Cairo last December after telling a friend he was going to meet a Libyan official. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU014-0209.940831</DOCID>
+<TDTID>TDT002706</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/31/94 17:55</DATE>
+<TITLE> ARGENTINA ANNOUNCES SWEEPING PRIVATIZATION PLAN</TITLE>
+<HEADLINE> ARGENTINA ANNOUNCES SWEEPING PRIVATIZATION PLAN</HEADLINE>
+<SUBJECT> BC-ARGENTINA-ECONOMY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES (Reuter) </DATELINE>
+<P>  Argentina, tightening its public finances to shore up what it calls its ``economic miracle,'' announced Thursday a sweeping plan to sell off in 16 months all major concerns still in the hands of the state. </P>
+<P> By the end of 1995, all airports, the national post office, the mint and Argentina's biggest petrochemicals plant will be privatized, Economy Minister Domingo Cavallo told the annual meeting of the country's top bankers. </P>
+</TEXT>
+</DOC>

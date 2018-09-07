@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU001-0245.950103</DOCID>
+<TDTID>TDT008795</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/03/95 03:37</DATE>
+<TITLE> Israel upset with Arab summit, seeks details</TITLE>
+<HEADLINE> Israel upset with Arab summit, seeks details</HEADLINE>
+<SUBJECT> BC-MIDEAST-EGYPT-PERES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO, Egypt (Reuter) </DATELINE>
+<P>  Israel wants ``clarifications'' on strong Arab backing for Syria in Middle East peace talks, Israeli sources said Tuesday. </P>
+<P> They spoke as Israel's Foreign Minister Shimon Peres met President Hosni Mubarak in Cairo. </P>
+<P> ``Peres wants to hear clarifications, to have some kind of information on the Alexandria summit,'' one source said, referring to last week's meeting between Mubarak and the leaders of Syria and Saudi Arabia which gave unusually strong support to Damascus in its peace talks with Israel. </P>
+<P> ``Israel is not happy and it will tell this to Egyptians. It is not happy to have the peace process subjugated to the Syrian timetable,'' the source said. </P>
+<P> Peres is leading a delegation due to meet Palestinian officials later in the day on expanding self-rule authority to other areas of the West Bank and holding Palestinian elections. </P>
+<P> The Israeli sources said they feared Damascus was dragging Cairo into adopting a hard-line attitude toward Israel and delaying normalization of ties between the two countries. </P>
+<P> Egyptian Foreign Minister Amr Moussa told reporters talks would also cover Arab demands that Israel should sign the nuclear non-proliferation treaty. </P>
+<P> Israel is widely believed to have nuclear weapons but refuses to sign the treaty, insisting it should be part of a regional pact. </P>
+<P> Peres is due to meet Moussa separately before the talks with Palestinians. </P>
+</TEXT>
+</DOC>

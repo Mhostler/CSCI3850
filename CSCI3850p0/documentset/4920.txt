@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU007-0285.950314</DOCID>
+<TDTID>TDT011281</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/14/95 16:20</DATE>
+<TITLE> Day care lifts infection risk for infants</TITLE>
+<HEADLINE> Day care lifts infection risk for infants</HEADLINE>
+<SUBJECT> BC-HEALTH-DAYCARE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  Children under age two who attend day care centers are 36 times more lkely to be infected with a bacteria that causes pneumonia and meningitis than those who stay at home, researchers said Tuesday. </P>
+<P> Researchers at the National Public Health Institute in Helsinki, Finland, questioned parents of 433 children under the age of 15 between 1986 and 1989 and found 149 instances of invasive pneumococcal disease. </P>
+<P> Those most commonly infected were infants who presumably contracted it in collective environments with other children. </P>
+<P> The researchers also said the incidence of pneumococcal disease and streptococcus pneumonia -- which can trigger bouts of pneumonia, meningitis, blood poisoning, middle-ear infection and many fevers -- is more common in American children than Finnish children. </P>
+<P> The researchers, including Aino Takala, wrote in the Journal of the American Medical Association that children under age two in smaller groups in family day care were four-and-a-half times as likely to contract the disease than those who remained at home. Children with a sibling under age two were at twice the risk of contracting the disease. </P>
+<P> The researchers said they were surprised to find that breast-feeding seemed to protect against the risk of disease, although they said that result may be due to a small sample size. </P>
+<P> Vaccines that could prevent the disease are promising, the researchers said. </P>
+</TEXT>
+</DOC>

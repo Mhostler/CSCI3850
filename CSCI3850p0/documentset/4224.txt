@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU004-0293.950208</DOCID>
+<TDTID>TDT010226</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/08/95 11:11</DATE>
+<TITLE> Gingrich says intervening in baseball strike unwise</TITLE>
+<HEADLINE> Gingrich says intervening in baseball strike unwise</HEADLINE>
+<SUBJECT> BC-BASEBALL-GINGRICH -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> But Gingrich was decidedly cool to intervention. ``I think it's a very bad idea,'' he told reporters at his daily briefing. </P>
+<P> He said it would set a bad precedent. ``Are we then going to adopt binding arbitration for, say, the auto workers?'' Gingrich asked. </P>
+<P> But he did not totally rule out any government role, saying he would listen to what Usery had to say. ``We are not in a position today to rush into any decision,'' Gingrich said. </P>
+</TEXT>
+</DOC>

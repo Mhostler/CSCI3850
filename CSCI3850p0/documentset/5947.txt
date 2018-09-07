@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU014-0028.950422</DOCID>
+<TDTID>TDT012902</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/22/95 20:48</DATE>
+<TITLE> Germany trying to retrieve Hitler relics - paper</TITLE>
+<HEADLINE> Germany trying to retrieve Hitler relics - paper</HEADLINE>
+<SUBJECT> BC-BRITAIN-HITLER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A British newspaper said Sunday Germany is trying to retrieve some of Adolf Hitler's relics, including his last will and testament which is said to be in a London strongroom. </P>
+<P> The Sunday Telegraph said the relics also included Hitler's jawbone and part of his skull which it reported were in a cardboard box in Moscow. </P>
+<P> As the 50th anniversary of Hitler's suicide approached next weekend, a tussle had broken out over who owned the relics of the Third Reich, the newspaper said. </P>
+<P> It said the British government decided long ago that key Nazi documents and artifacts should be kept in Britain but bit by bit many were being returned at Germany's request. </P>
+<P> ``The transfer of documents back to Germany is a continuous process,'' Stephen Walton, curator at Britain's Imperial War Museum, was quoted as saying by the newspaper. </P>
+<P> ``It is logical to have the originals in one place for scholarly research,'' he said. </P>
+</TEXT>
+</DOC>

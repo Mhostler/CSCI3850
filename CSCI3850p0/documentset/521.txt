@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0107.940801</DOCID>
+<TDTID>TDT001308</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/01/94 13:45</DATE>
+<TITLE> ANOTHER PLANE CRASH IN STRATFORD</TITLE>
+<HEADLINE> ANOTHER PLANE CRASH IN STRATFORD</HEADLINE>
+<SUBJECT> BC-USA-CRASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>STRATFORD, Conn.(Reuter) </DATELINE>
+<P>  A plane has crashed during takeoff at Sikorsky Memorial Airport in Stratford, less than four months after an accident that killed eight people. </P>
+<P> The single engine Piper lost power during takeoff, crashing Sunday at 2.55 p.m. EDT. No one was injured and the passengers away from the accident, officials said Monday. </P>
+<P> Four members of a Norwalk family were aboard. </P>
+<P> ``They feel lucky,'' said Bridgeport Assistant Fire Chief Wallace Thomas. </P>
+<P> The pilot, William Krummel of Norwalk, was heading to Provincetown, Massachusetts, with his wife, Regina, a son and a daughter. </P>
+<P> In April, a plane returning in heavy fog on a chartered flight from Atlantic City, New Jersey, overshot the runway and crashed. Eight people were killed in what was the airport's worst accident. </P>
+</TEXT>
+</DOC>

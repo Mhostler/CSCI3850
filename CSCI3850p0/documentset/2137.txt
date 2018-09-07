@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0101.941020</DOCID>
+<TDTID>TDT005346</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/20/94 14:19</DATE>
+<TITLE> Government rejects racial violence law call</TITLE>
+<HEADLINE> Government rejects racial violence law call</HEADLINE>
+<SUBJECT> BC-BRITAIN-RACE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  The British government said Thursday it had rejected calls for a new criminal offense of racially motivated violence because it would be likely to create a new burden for police. </P>
+<P> Parliament's Home Affairs Committee made the call after an inquiry into racism in which it concluded there are 140,000 cases of racial attack and harassment every year in Britain, far more than the 8,000 reported to the police. </P>
+<P> But Home Office minister David Maclean said: ``The government believes that a specific offence of racial violence will create significant practical difficulties for the police and courts, giving them the burden of proving two offenses rather than one.'' </P>
+<P> Maclean said in a statement a new offense of intentional harassment proposed in a bill currently going through parliament would give police extra powers to tackle racial harassment. </P>
+</TEXT>
+</DOC>

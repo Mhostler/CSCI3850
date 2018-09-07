@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU005-0147.940911</DOCID>
+<TDTID>TDT003180</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/11/94 07:10</DATE>
+<TITLE> European Union office in Mostar hit by shell</TITLE>
+<HEADLINE> European Union office in Mostar hit by shell</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-ATTACK 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: adds details, quotes, background)</NOTES>
+<DATELINE>ZAGREB, Croatia (Reuter) </DATELINE>
+<P>  An anti-tank shell struck the headquarters of the European Union administration in the divided Bosnian city of Mostar Sunday, an EU spokesman said. </P>
+<P> The projectile was fired from the Croat-controlled side of Mostar and smashed into the highrise building close to the bedroom of EU administrator Hans Koschnick but he was not there at the time and no one was hurt, Rolf Weckesser, a spokesman for the European Union, told Reuters. </P>
+<P> Koschnick, who is to lead the reconstruction of the battered city, was in the hotel restaurant downstairs when the attack occurred just after midnight local time, Weckesser said in Zagreb. </P>
+<P> ``The shell penetrated the wall with the point of impact close to the bedroom of Herr Koschnick. But he was four stories below at the time. Nobody was injured. An investigation by EU and local police is under way,'' he said. </P>
+<P> A U.N. Protection Force spokesman in Sarajevo, Major Dacre Holloway, said it appeared a rocket-propelled grenade was fired directly at Koschnick's room at the Hotel Ero, which serves as the headquarters for the EU in Mostar. </P>
+<P> It was the first such incident since the EU took charge of Mostar in July after a peace settlement between Bosnian Croats and the Muslim-led Bosnian government army. </P>
+<P> German Foreign Minister Klaus Kinkel, speaking in Bansin, Germany, said the attack would not deter Koschnick from carrying out his job as administrator. </P>
+<P> ``I already spoke to him on the telephone and he told me that he will continue his task,'' the minister said. </P>
+<P> Kinkel said so far there was no indication who was responsible. ``This is a grave incident.'' </P>
+<P> Desperate street fighting between the mostly Muslim government army and Bosnian Croats battered the southwestern city for 10 months until a truce was agreed in February. </P>
+<P> Croats laid siege to the Muslim-held east side of the city, where Muslim civilians took shelter in basements from shelling and endured without a regular supply of water or electricity. </P>
+<P> Mostar remains partitioned between Croats on the west side of the Neretva river and Muslims on the east side. Unable to agree on a power-sharing accord, they invited the EU to administer the city for an interim two-year period of reconstruction. </P>
+<P> Mostar represents the most difficult test of reconciliation between Bosnia's Muslims and Croats, who have renewed their alliance against the Serbs and formed a common federation. </P>
+</TEXT>
+</DOC>

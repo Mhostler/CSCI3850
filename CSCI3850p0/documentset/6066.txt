@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU016-0316.950426</DOCID>
+<TDTID>TDT013100</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/26/95 14:05</DATE>
+<TITLE> Gingrich chides newspaper publishers</TITLE>
+<HEADLINE> Gingrich chides newspaper publishers</HEADLINE>
+<SUBJECT> BC-GINGRICH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW ORLEANS (Reuter) </DATELINE>
+<P>  House Speaker Newt Gingrich chided the nation's newspaper publishers Wednesday for loading the news with too much cynicism and not enough fact. </P>
+<P> Addressing the Newspaper Association of America's annual meeting via satellite, Gingrich said, ``I'm not complaining that the news media is biased -- although frankly it is.'' The real problem, he said, is cynicism which is destructive, rather than healthy skepticism. </P>
+<P> ``You need to look more at the facts. Far too many reporters and editorial writers just give opinions,'' often with no facts behind them, Gingrich said, citing discrepancies between news stories saying the school lunch program was cut and the GOP's position that the program's spending was increased. </P>
+<P> He criticized editorial writers and reporters for not understanding ``what it takes to operate in a free market and instead retreating into isolated prejudices.'' </P>
+<P> He urged publishers to get involved in sponsoring literacy programs. ``If we could establish literacy by the fourth grade for every American, we would see a dramatic decline in poverty.'' </P>
+<P> The speaker also asked journalists to consider whether the information they publish or broadcast is good public policy. ''Is it really good policy to show a SWAT team outside a farmhouse in Michigan before they go in?'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0081.941125</DOCID>
+<TDTID>TDT007043</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/25/94 22:50</DATE>
+<TITLE> Anchor from Khan's ship found off Japan</TITLE>
+<HEADLINE> Anchor from Khan's ship found off Japan</HEADLINE>
+<SUBJECT> BC-JAPAN-MONGOLS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Japanese archeologists have salvaged an anchor and pieces of a hull believed to be from one of the Mongolian ships sent by Kublai Khan to invade Japan in the 13th century, a newspaper reported Saturday. </P>
+<P> A stone anchor and wooden poles, with pieces of the hull, were found buried in mud under the shallow seabed off Takashima island in southwest Japan, the Asahi Shimbun said. </P>
+<P> Documents from the 13th century show that waters near the island were used as an anchorage by part of Kublai Khan's 4,400-ship fleet sent in 1281 to conquer Japan. Most of the fleet was sunk in a typhoon called ``kamikaze,'' or divine wind. It was the last attempt by Khan, the Mongol emperor of China, to subdue Japan. </P>
+</TEXT>
+</DOC>

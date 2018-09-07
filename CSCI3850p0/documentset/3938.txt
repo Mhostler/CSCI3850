@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU011-0096.950124</DOCID>
+<TDTID>TDT009715</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/24/95 21:48</DATE>
+<TITLE> Orange County agencies seek trust ruling, all funds</TITLE>
+<HEADLINE> Orange County agencies seek trust ruling, all funds</HEADLINE>
+<SUBJECT> BC-INVESTMENTS-COUNTY 1STLD </SUBJECT>
+<AUTHOR>     By Adam Entous </AUTHOR>
+<TEXT>
+<NOTES>(New throughout)</NOTES>
+<DATELINE>SAN FRANCISCO, (Reuter) </DATELINE>
+<P>  Three Orange County, Calif., water districts filed court motions Tuesday arguing that their investments in the bankrupt county pool were held in trust and should be returned in full. </P>
+<P> Meanwhile, in New York, Moody's Investors Service Inc. surveyed 17 participants in the county investment pool and concluded they can make February debt service payments. </P>
+<P> Ratings on those pool participants were placed under review because these issuers had invested money and suffered an estimated 22 percent loss in the pool, Moody's said. </P>
+<P> In Los Angeles, the U.S. trustee overseeing the bankruptcy case, Marcy Tiffany, said in a telephone interview that she has appointed a subcommittee to represent county employees. </P>
+<P> The appointment was made over the concerns of the county and the opposition of several of the county's creditors. </P>
+<P> For labor, it was a victory of recognition. </P>
+<P> ``It certainly is better to be in the ball game,'' said John Sawyer, general manager of the Orange County Employees Association, which represents about 11,000 county employees. </P>
+<P> Hundreds of workers face bankruptcy-related layoffs. </P>
+<P> Meanwhile, the Orange County Transportation Authority said it would sell $100 million in commercial paper by Feb. 22. The authority is likely to be the first pool investor to return to the bond markets since the county declared bankruptcy Dec. 6. </P>
+<P> Separately, county officials confirmed a federal grand jury in Los Angeles has subpoenaed the records of three Orange County departments Monday, seeking documents related to the county's issuance, marketing and sale of securities. </P>
+<P> Highly leveraged, Orange County's investment pool boasted high interest earnings for many years. </P>
+<P> These earnings, however, depended upon interest rates remaining low. When they rose sharply instead last year, the county's investments suffered heavy losses. </P>
+<P> These losses are now estimated at $1.7 billion. </P>
+<P> There are about 187 investors in the county pool. They include school districts, municipalities and the county itself as well as local water districts. </P>
+<P> In a court motion filed late Tuesday in Santa Ana, three of these water districts ask U.S. Bankruptcy Judge John Ryan to let a state court decide if they should receive all of their money back. </P>
+<P> ``We are motioning the court for the authority to go to state court for a determination that all funds held in the pool are held in trust, are not the property of the county or the investment pool,'' said attorney Ronald Rus. </P>
+<P> He represents the Municipal Water District of Orange County, Yorba-Linda Water District and Santiago County Water District. </P>
+<P> In court papers, the water districts contend that their investments are not the property of the county. ``The county is merely acting as a fiduciary or trustee,'' they argue. </P>
+<P> If a state court agrees, Rus said the water districts would be entitled to the full return of their investments. </P>
+</TEXT>
+</DOC>

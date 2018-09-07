@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU002-0063.941003</DOCID>
+<TDTID>TDT004394</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 15:34</DATE>
+<TITLE> Poland to bolster multi-national forces in Haiti</TITLE>
+<HEADLINE> Poland to bolster multi-national forces in Haiti</HEADLINE>
+<SUBJECT> BC-HAITI-POLAND </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WARSAW, Poland (Reuter) </DATELINE>
+<P>  The Polish government Monday voted to send a 50-man contingent to join multinational peacekeeping forces in Haiti, PAP news agency said. </P>
+<P> ``The Polish contingent will be dispatched shortly and its task will be to supervise the operations of the Haitian police,'' PAP quoted a government statement as saying. </P>
+<P> At a cabinet meeting last week, ministers were told the Poles would serve in motorized patrols of two Polish military gendarmes, a Haitian policeman and an interpreter. </P>
+</TEXT>
+</DOC>

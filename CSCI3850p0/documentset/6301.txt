@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU003-0420.950505</DOCID>
+<TDTID>TDT013460</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/05/95 05:18</DATE>
+<TITLE> Georgian militia leader warns of danger of war</TITLE>
+<HEADLINE> Georgian militia leader warns of danger of war</HEADLINE>
+<SUBJECT> BC-CIS-GEORGIA-MILITIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TBILISI, May 5 (Reuter) </DATELINE>
+<P>  The leader of a powerful Georgian paramilitary group sounded a warning on Friday that an order by leader Eduard Shevardnadze for his fighters to disarm had led to an ``explosive situation'' in the Transcaucasian country. </P>
+<P> But Jaba Ioseliani, leader of the Mkhedrioni (Horsemen), added that his men would put down their guns if parliament supported Shevardnadze's order. </P>
+<P> Speaking in parliament, Ioseliani questioned Shevardnadze's right to issue a decree to force the Mkhedrioni to lay down their arms. </P>
+<P> ``The situation is very explosive. We could be on the brink of civil war. A decision of parliament is needed as to whether the Mkhedrioni have weapons or not,'' he said. </P>
+<P> Shevardnadze on Thursday ordered the Mkhedrioni, which brought him to power in the former Soviet republic three years ago, to disarm its fighters. </P>
+<P> He revoked an earlier decree which had granted Mkhedrioni the status of ``protection force'' and had allowed its members to carry firearms. The group is believed to have several thousand fighters. </P>
+<P> Shevardnadze, the last Soviet foreign minister, came to power in the troubled Transcaucasian state of Georgia in early 1992 after Mkhedrioni had teamed up with other private militias to overthrow elected President Zviad Gamsakhurdia. </P>
+</TEXT>
+</DOC>

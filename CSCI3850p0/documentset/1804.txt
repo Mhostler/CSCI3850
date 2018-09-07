@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU002-0305.941004</DOCID>
+<TDTID>TDT004460</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/04/94 13:50</DATE>
+<TITLE> FRAPH chief arrested in northern Haiti city</TITLE>
+<HEADLINE> FRAPH chief arrested in northern Haiti city</HEADLINE>
+<SUBJECT> BC-HAITI-FRAPH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OUANAMINTE, Haiti (Reuter) </DATELINE>
+<P>  U.S. Green Beret special forces arrested the local chief of Haiti's leading paramilitary group on suspicion of several murders, an American military official said Tuesday. </P>
+<P> Captain Jon White, civil affairs specialist in this northern border city of 60,000, said Gracias Fleurant, who had fled the town when U.S. forces entered Saturday, was arrested when he showed up Monday at a meeting between the special forces and civilian officials to discuss water, power, sanitation and other civil matters. ``We couldn't believe he showed up,'' White said. </P>
+</TEXT>
+</DOC>

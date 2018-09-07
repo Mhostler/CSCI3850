@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU002-0131.941003</DOCID>
+<TDTID>TDT004426</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 20:43</DATE>
+<TITLE> Brazil's Cardoso has first-round victory - poll</TITLE>
+<HEADLINE> Brazil's Cardoso has first-round victory - poll</HEADLINE>
+<SUBJECT> BC-BRAZIL-ELECTION-EXIT 1STLD URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAO PAULO (Reuter) </DATELINE>
+<P>  Fernando Henrique Cardoso was headed for an easy first-round victory in Brazil's presidential election, exit poll results showed Monday. </P>
+<P> The results of the poll conducted by a private research firm, Ibope, showed Cardoso, a free-market advocate, headed for a victory of about seven percentage points over the combined total of all his opponents. </P>
+</TEXT>
+</DOC>

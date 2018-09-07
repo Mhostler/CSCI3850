@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU007-0317.950412</DOCID>
+<TDTID>TDT012468</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/12/95 06:56</DATE>
+<TITLE> Japan to introduce rapid earthquake-alert system</TITLE>
+<HEADLINE> Japan to introduce rapid earthquake-alert system</HEADLINE>
+<SUBJECT> BC-QUAKE-JAPAN-WARNING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO, April 12 (Reuter) </DATELINE>
+<P>  Japan's Meteorological Agency said it would introduce a nationwide fast-warning system on Thursday to alert authorities and the media about earthquakes within minutes of them happening. </P>
+<P> An agency statement said the system comprised 152 unmanned observatories around the country, double the previous number, enabling it to detect and automatically report moderate or stronger earthquakes within two minutes. </P>
+<P> Specific data on the strength and precise location of the earthquake and the tsunami, the post-quake tidal wave, will be automatically transmitted within five minutes after the tremor, twice as fast as previously. </P>
+<P> The agency said it moved to upgrade the warning system after tidal waves caused by an undersea earthquake measuring 7.8 on the open-ended Richter scale devastated the tiny island of Okushiri in northern Japan in July, 1993. </P>
+<P> More than 20o people were killed and hundreds injured. </P>
+<P> Last October the partially-completed system enabled authorities to evacuate coastal areas of Hokkaido, Japan's main northern island, after an undersea earthquake measuring 7.9 on the Richter scale. </P>
+<P> Seismographs detected the quake and automatically triggered a television flash alerting viewers of the danger of tidal waves just two minutes after the first rumble was felt. </P>
+<P> In January an earthquake measuring 7.2 on the Richter scale struck the port city of Kobe, killing some 5,500 people and making nearly 300,000 homeless. </P>
+</TEXT>
+</DOC>

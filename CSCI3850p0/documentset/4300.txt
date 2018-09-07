@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU006-0170.950211</DOCID>
+<TDTID>TDT010365</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/11/95 23:01</DATE>
+<TITLE> American hostage in Nicaragua freed</TITLE>
+<HEADLINE> American hostage in Nicaragua freed</HEADLINE>
+<SUBJECT> BC-NICARAGUA-KIDNAPPING 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Recasts with release of hostage)</NOTES>
+<DATELINE>MANAGUA, Nicaragua (Reuter) </DATELINE>
+<P>  A U.S. citizen kidnapped by a group of Nicaraguan bandits two days ago was freed Saturday night, the hostage's wife said. </P>
+<P> ``I've just received a call from the Organization of American States ... my husband is free,'' Raquel Lopez, the Nicaraguan wife of the kidnapped man, told Reuters. </P>
+<P> Gary Alan Hicks, a 50-year-old aid worker from San Francisco, was seized Thursday along with freelance reporter Susan Howard of Britain and five Nicaraguans by bandits led by a former Contra rebel leader known as ``Charro.'' </P>
+<P> Howard and the five Nicaraguans were released by the bandits Friday, authorities said. </P>
+<P> Lopez said her husband was freed following six hours of negotiations between Charro and a special commission including representatives from an Organization of American States mission, a local human rights group and the Catholic Church. </P>
+<P> The talks were held in San Jose de Bocay, the mountain town 220 miles north of Managua where the kidnappings took place. </P>
+<P> Lopez said she did not know if the bandits received anything in exchange for freeing her husband. </P>
+<P> ``We're going to find out,'' she said. ``The most important things is that he's free.'' </P>
+<P> Hicks, who has lived in Nicaragua for seven years, works with the New River Bocay Project, primarily building schools for poor Sumo Indians, Lopez said. </P>
+<P> Charro was a member of the Contra rebel force that was armed by the United States in the 1980s to fight the former Sandinista government, an army spokesman has said. </P>
+</TEXT>
+</DOC>

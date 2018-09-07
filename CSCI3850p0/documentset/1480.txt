@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU009-0260.940919</DOCID>
+<TDTID>TDT003652</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/19/94 10:37</DATE>
+<TITLE> Work outlook for women bleak, U.N. report finds</TITLE>
+<HEADLINE> Work outlook for women bleak, U.N. report finds</HEADLINE>
+<SUBJECT> BC-UN-WOMEN </SUBJECT>
+<AUTHOR>     By Robert Evans </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GENEVA (Reuter) </DATELINE>
+<P>  Women in Europe and North America face a bleak job outlook in the coming years as lower pay and rising unemployment combine with continuing barriers to their entry to key posts, a United Nations report said Monday. </P>
+<P> The report, from the world body's Economic Commission for Europe (ECE), also found women were emerging as a ``special underclass'' in poorly paid, part-time and temporary positions with little security or job protection. </P>
+<P> ``Women's remuneration has dropped since the 1980s, as has the general quality and choice of employment available to them,'' said a summary of the report, to be presented at a U.N. conference on women in Vienna next month. </P>
+<P> ``Women continue to be segregated into traditionally female occupations, particularly in the service sector, where they comprise about half of all employees in most countries ... largely in lower positions. </P>
+<P> ``While women's participation in the labor force has increased substantially over the past 20 years, the trend has not been accompanied by a significantly higher proportion of women in managerial or decision-making posts.'' </P>
+<P> The report was based on a detailed survey of 13 of the 54 member countries of the ECE -- which includes the United States, Canada, Israel and the Central Asian former Soviet republics -- and more general information from the others. </P>
+<P> It appeared as a Geneva-based monitoring group, U.N. Watch, said women faced major problems in winning important jobs in the world body itself and were effectively ``excluded from the United Nations upper power structure.'' </P>
+<P> Worldwide, the ECE said, women earned an average of 30 to 40 percent less than men for comparable work and the wage gap remained even in advanced states. In Norway between 1980 and 1992, women's average wage income was about half that of men. </P>
+<P> Adult women had a higher unemployment rate than men in almost two-thirds of the ECE member states, including Sweden, one of its richer countries, and Portugal, one of its poorest, and was at its highest in the former communist states. </P>
+<P> In key areas of Russia, women accounted for 90 percent of all unemployed last year, and in Bulgaria more than half of people without jobs, primarily in industry and agriculture, were women, the report said. </P>
+<P> Across the ECE region, a booming service sector was providing some cushioning against unemployment and the loss of female jobs in labor-intensive industries and had created many new positions for female workers. </P>
+<P> Women's share of service sector jobs rose 29 percent between 1989 and 1990 in France, Germany, Italy and Britain, by 33 percent in the United States and 38 percent in Canada, according to the report. </P>
+<P> But it said these jobs, many of them at entry-level and traditionally female in banking, insurance, retailing and public services, had not been well protected in recession and the outlook was not bright for the immediate future. </P>
+</TEXT>
+</DOC>

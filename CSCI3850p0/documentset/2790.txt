@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0064.941123</DOCID>
+<TDTID>TDT006920</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/23/94 11:11</DATE>
+<TITLE> U.S. consulting NATO on further Bihac action</TITLE>
+<HEADLINE> U.S. consulting NATO on further Bihac action</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-USA-STRIKES 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>    (Eds: Combines takes, editing)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Secretary of State Warren Christopher said Wednesday that U.S. officials were consulting with NATO allies following new air strikes in Bosnia on further action to prevent the fall of Bihac. </P>
+<P> ``We are contacting our colleagues in NATO about further action that might be taken in the Bihac pocket,'' said Christopher. He did not specify whether that might include further military strikes. </P>
+<P> Christopher said the United States was encouraging establishment of an exclusion zone against heavy weapons in Bihac and supporting the U.N. call for a cease-fire in the Bihac pocket. </P>
+<P> ``So we are encouraging each of those actions that might relieve the pressure on the Bihac pocket and the city of Bihac,'' Christopher said. </P>
+<P> ``We'll be working at that today,'' he said. ``It it is a serious situation.'' </P>
+</TEXT>
+</DOC>

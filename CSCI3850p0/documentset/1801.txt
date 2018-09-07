@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0268.941004</DOCID>
+<TDTID>TDT004451</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/04/94 11:55</DATE>
+<TITLE> Israeli court approves Haiti peacekeeping mission</TITLE>
+<HEADLINE> Israeli court approves Haiti peacekeeping mission</HEADLINE>
+<SUBJECT> BC-HAITI-ISRAEL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israel's Supreme Court gave the go-ahead Tuesday for 30 police officers to join a multinational peacekeeping force in Haiti, the Justice Ministry said. </P>
+<P> The court decided to lift an interim ban it imposed on the mission last week. An ultranationalist Jewish settler had petitioned the judges to keep the police at home, saying the decision to send them was politically motivated. </P>
+<P> ``The court rejected the petition without comment,'' a ministry spokeswoman said. </P>
+<P> Israel police spokesman Eric Bar-Chen said it was not yet known when the peacekeepers -- officially described as ``volunteers from the police force'' -- would leave for Haiti, where they are expected to stay up to three months. </P>
+<P> Poland said Monday it would soon send 50 men help join multi-national peace-keeping forces in Haiti. </P>
+</TEXT>
+</DOC>

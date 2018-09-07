@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU002-0244.940905</DOCID>
+<TDTID>TDT002885</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/05/94 04:49</DATE>
+<TITLE> Rescuers lose hope for crew of stricken ship</TITLE>
+<HEADLINE> Rescuers lose hope for crew of stricken ship</HEADLINE>
+<SUBJECT> BC-SAFRICA-SHIP </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE TOWN, South Africa (Reuter) </DATELINE>
+<P>  Rescuers were losing hope Monday of finding alive 24 seamen whose Greek-owned ore carrier sank in the South Atlantic during the weekend. </P>
+<P> ``We do not think they made it to the lifeboats,'' the head of sea rescue for South Africa's Department of Transport, Captain Bill Dernier, told Reuters. </P>
+<P> The crew sent out a distress call as the 48,756-ton Iron Antonis, heading from Brazil to China, sank halfway between the islands of Tristan da Cunha and St Helena Saturday. </P>
+<P> ``We last heard from the crew at 2.30 p.m. GMT Saturday when they said they were abandoning the ship and had set up the lifeboats,'' he said. </P>
+<P> The Iron Antonis was scheduled to rendezvous with a cargo ship, Dernier said. ``But when the Clipper Santos arrived five hours later there was no sign of them. They have sent no radio messages and no flares.'' </P>
+<P> Dernier said the Clipper Santos and another ship, Coral, were asked to search for the vessel over the weekend. They would be replaced by three other cargo ships Monday night. </P>
+<P> ``After that we will call it quits.'' </P>
+<P> South African rescue coordinators tried to call in American or British aircraft to help in the search, Dernier said. </P>
+<P> ``Unfortunately no one has aircraft available in the area close enough so that we can get there with sufficient search time.'' </P>
+</TEXT>
+</DOC>

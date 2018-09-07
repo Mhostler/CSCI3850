@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU005-0303.941011</DOCID>
+<TDTID>TDT004810</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/11/94 00:59</DATE>
+<TITLE> NFL-Vikings stop Giants to move into first place tie</TITLE>
+<HEADLINE> NFL-Vikings stop Giants to move into first place tie</HEADLINE>
+<SUBJECT> BC-NFL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>EAST RUTHERFORD, N.J. (Reuter) </DATELINE>
+<P>  Anthony Parker returned an interception 44 yards for a touchdown and Warren Moon threw for 299 yards and another score as the Minnesota Vikings beat the New York Giants 27-10 Monday. </P>
+<P> The victory moved the 4-2 Vikings into a first-place tie with Chicago in the NFC Central and put a damper on the celebratory atmosphere at Giants Stadium on a night when former great Lawrence Taylor's number 56 was retired. </P>
+<P> Parker's interception came less than two minutes into the third quarter, breaking a 10-10 deadlock and swinging the momentum in favor of Minnesota. </P>
+<P> New York quarterback Dave Brown had marched the Giants 94 yards in 80 seconds, capping the nine-play drive by running for a game-tying touchdown with just seven seconds left in the first half. </P>
+<P> That touchdown put the sellout crowd in a festive mood for the emotional ceremony honoring the retired superstar linebacker. During the entire ceremony for Taylor the fans were on their feet, cheering wildly and chanting ``LT, LT.'' </P>
+<P> Parker quieted the crowd on New York's first possession of the second half, however, when he picked off a Brown pass and galloped 44 yards untouched to put the Vikings ahead for good. </P>
+<P> Brown has thrown interceptions that were returned for scores in each of the last two games, both New York losses. </P>
+<P> Rodney Hampton, the All-Pro tailback who had missed New York's last two games with a bruised kidney, returned to the starting lineup but managed just 27 yards on 13 carries as the Vikings limited the Giants to 37 yards total rushing. </P>
+<P> Moon completed 23-of-33 passes, as he picked apart the Giants' zone defense. </P>
+<P> He connected with Cris Carter on a 20-yard touchdown pass that made it 24-10 with 2:48 left in the third period. The scoring toss capped a five-play, 71-yard drive. </P>
+<P> Faud Reveiz's second field goal of the game for the Vikings, a 24-yarder 1:40 into the fourth quarter, completed the scoring. </P>
+<P> Qadry Ismail had seven catches for 117 yards and Terry Allen rushed 21 times for 75 yards for the Vikings. </P>
+<P> Brown was 19-of-36 for 226 yards for the Giants (3-2), who have lost two straight games and fell one game behind Dallas and Philadelphia in the NFC East. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU006-0257.950509</DOCID>
+<TDTID>TDT013602</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/09/95 12:17</DATE>
+<TITLE> Health groups want tougher labels on cigarettes</TITLE>
+<HEADLINE> Health groups want tougher labels on cigarettes</HEADLINE>
+<SUBJECT> BC-HEALTH-CIGARETTES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Health organizations said Tuesday they want cigarette packages to contain a warning that smoking is an addiction and can kill you. </P>
+<P> Five health groups held a press conference to show that American manufacturers include such warnings on cigarettes exported to Canada, Australia and Thailand. </P>
+<P> ``Smoking can kill you'' and ``Cigarettes are addictive'' are two of the warnings listed in bold print on cigarettes sold in Canada, for example. By contrast, cigarettes sold in the United States carry warnings in small print on a side panel. </P>
+<P> The American Cancer Society, the American Heart Association, the American Lung Association, the American Medical Association and the Non-Smokers Rights Association said they will lobby Congress and the Food and Drug Administration to order stronger warning labels. </P>
+</TEXT>
+</DOC>

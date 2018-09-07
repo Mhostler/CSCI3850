@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0388.940726</DOCID>
+<TDTID>TDT001051</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/26/94 11:54</DATE>
+<TITLE> RUSSIA AND ESTONIA AGREE ON TROOPS PULLOUT</TITLE>
+<HEADLINE> RUSSIA AND ESTONIA AGREE ON TROOPS PULLOUT</HEADLINE>
+<SUBJECT> BC-CIS-ESTONIA-RUSSIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Russia and Estonia agreed Tuesday that Moscow would pull its troops out of the Baltic state by August 31, Itar-Tass news agency quoted President Boris Yeltsin as saying. </P>
+<P> Yeltsin also said the thorny issue of the rights of ex-Soviet military pensioners in Estonia had been resolved during what he called difficult talks with visiting Estonian President Lennart Meri. </P>
+<P> ``The presidents of Russia and Estonia signed an agreement today that the rights of the Russian military penisoners would be respected equally to the rights of Estonian citizens,'' Tass quoted Yeltsin as saying after lengthy talks in the Kremlin. </P>
+<P> ``They also signed an agreement in accordance with which Russian troops are withdrawn from Estonia before August 31.'' </P>
+<P> Russia has withdrawn the troops it inherited from the Soviet army from Lithuania and has agreed to quit Latvia by August 31. But agreement to pull its remaining 2,000 men out of Estonia, the third Baltic state, has been stalled by disagreement over the status of ethnic Russians settled there. </P>
+<P> The main difficulty was over some 9,000 retired army officers who settled in Estonia after the Baltic state was annexed by Moscow in 1940. Some Estonians see the officers, many of them in their 40s and 50s, as a potential fifth column. </P>
+</TEXT>
+</DOC>

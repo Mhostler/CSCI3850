@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU008-0145.950511</DOCID>
+<TDTID>TDT013704</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/11/95 16:28</DATE>
+<TITLE> Yachting-Stars &AMP; Stripes first at start in America's Cup Race 4</TITLE>
+<HEADLINE> Yachting-Stars &AMP; Stripes first at start in America's Cup Race 4</HEADLINE>
+<SUBJECT> BC-YACHTING-AMERICAS RACE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN DIEGO (Reuter) </DATELINE>
+<P>  Dennis Conner's Stars & Stripes team aboard Young America crossed the start line 7 seconds ahead of Peter Blake's Team New Zealand aboard Black Magic I in Race 4 of the best-of-nine America's Cup series on Thursday. </P>
+<P> Stars & Stripes took the righthand side with Team New Zealand taking the left and sailing with greater speed. </P>
+<P> Team New Zealand leads the series 3-0. </P>
+</TEXT>
+</DOC>

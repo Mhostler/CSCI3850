@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU005-0271.950310</DOCID>
+<TDTID>TDT011151</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/10/95 09:58</DATE>
+<TITLE> Australian state proposes ``three strikes'' law</TITLE>
+<HEADLINE> Australian state proposes ``three strikes'' law</HEADLINE>
+<SUBJECT> BC-AUSTRALIA-LAW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SYDNEY, Australia (Reuter) </DATELINE>
+<P>  Australia's most populous state has proposed tough sentencing laws for habitual criminals in what opponents described Friday as similar to California's ``three strikes, you're out'' legislation. </P>
+<P> Dubbed ``three strikes, you're in,'' the New South Wales government's version aims to ensure that offenders convicted of a third serious crime will be jailed for life unless a judge can give good reasons for a lesser sentence. </P>
+<P> ``For repeat violent and drug offenders, it's three strikes and you're in, that is in jail, to stay,'' New South Wales Premier John Fahey said in announcing the proposal Thursday. </P>
+<P> The announcement followed the controversial release last week of a convicted rapist whose 20-year sentence was more than halved because he informed on other criminals. </P>
+<P> His release sparked a public outcry over criminal justice as the state prepared for an election this month in which both sides have been striving to appear tougher on crime. </P>
+<P> ``I think it's a deliberate copying of a system in a country that's completely different,'' said the state's Council for Civil Liberties spokesman Ken Buckley. </P>
+<P> ``There's a great deal more violent crime in the United States than there is in Australia,'' he told Reuters. </P>
+<P> In California, one of several U.S. states to adopt ``three strikes'' legislation, a court this month sentenced a man to 25 years to life in prison for stealing a slice of pizza from children. It was the man's third felony. </P>
+<P> ``The U.S. has one of the most appalling crime rates in the world, particularly for violent crime. It's not the place to go looking for solutions,'' Australian Law Reform Commission spokesman Chris Sidoti told Reuters. </P>
+</TEXT>
+</DOC>

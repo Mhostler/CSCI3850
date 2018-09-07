@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0064.940920</DOCID>
+<TDTID>TDT003720</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/20/94 11:55</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-HAITI-ARISTIDE-SHALIKASHVILI -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Shalikashvili, speaking to reporters at the White House, said: ``if I can break away after this I will certainly be delighted to meet with (Aristide).'' </P>
+<P> The purpose of a meeting would be to brief Aristide ``on what has happened so far and for the days ahead to make him fully aware and feel more comfortable about how this is progressing.'' </P>
+<P> Aristide, exiled in the United States since he was ousted by a coup three years ago, was meeting with advisers at his Washington apartment after issuing a statement which pointedly failed to endorse President Clinton's agreement with the military on transferring power back to him. </P>
+<P> The deal, which prevented a U.S. invasion of Haiti that could have led to casualties on both sides, provides for a sweeping amnesty and allows the country's military rulers to remain in the country once they are removed from office. </P>
+</TEXT>
+</DOC>

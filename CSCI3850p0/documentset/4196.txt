@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU004-0075.950207</DOCID>
+<TDTID>TDT010189</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 15:18</DATE>
+<TITLE> Evangelist Graham plans huge satellite crusade</TITLE>
+<HEADLINE> Evangelist Graham plans huge satellite crusade</HEADLINE>
+<SUBJECT> BC-GRAHAM </SUBJECT>
+<AUTHOR>     By Grant McCool </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Christian evangelist Billy Graham announced plans Tuesday for his most ambitious project -- an attempt to reach 1 billion people worldwide by satellite and video. </P>
+<P> ``In our message of hope, what we are trying to do is set an example as Christians that we are doing something for them, for their physical and psychological suffering,'' Graham said in an interview, explaining that his ``Global Mission'' in March would reach such diverse people and places as the 1.8 million Rwandan refugees in tent camps in Goma, Zaire and earthquake victims in Kobe, Japan. </P>
+<P> Graham, 76, who still preaches to full stadiums in the United States despite his age and physical problems that limit his travels, said he would preach March 16 to 18 in the satellite broadcast to be beamed from San Juan, Puerto Rico. </P>
+<P> Officials for the Billy Graham Evangelistic Association said the project cost $26 million over three years and that the group was paying for the satellite time in some countries, but in others the time was being given to them. </P>
+<P> ``I think the world is just about the way it's always been,'' Graham told a news conference to announce the satellite broadcast that will be translated into 80 languages. ``The good on the one side seems to be getting better and evil that's getting worse.'' </P>
+<P> However, in prepared remarks Graham said that the mission theme ``The Time is Now'' reflected his belief that an oppurtunity to spread the gospel may never come again in this generation. </P>
+<P> ``Technology has increased the evil and it has also increased the good,'' Graham told reporters. </P>
+<P> More than eight million people are expected to attend the satellite and video ``crusades'' in 100 countries and one billion are expected to watch a television program in the weeks after the broadcast, the evangelist said. </P>
+<P> The mission would use use 10 transmission antenna to send out 300 hours of programming across 29 time zones, using 30 different satellites. </P>
+</TEXT>
+</DOC>

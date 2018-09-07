@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU010-0205.950221</DOCID>
+<TDTID>TDT010622</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/21/95 11:56</DATE>
+<TITLE> UN hopes to eradicate polio by year 2000</TITLE>
+<HEADLINE> UN hopes to eradicate polio by year 2000</HEADLINE>
+<SUBJECT> BC-HEALTH-POLIO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GENEVA (Reuter) </DATELINE>
+<P>  Polio is continuing to decline across the world, but African countries must step up immunization if the disease is to be eradicated by the year 2000, the World Health Organization said Tuesday. </P>
+<P> The United Nations agency said 4,147 cases had been reported for 1994, but it expected the final figure to climb to between 6,000 and 8,000. In 1993, 7,898 cases were reported. </P>
+<P> But epidemiological experts believe barely one case in 10 is actually reported, meaning the true annual figure is closer to 100,000, according to WHO sources who declined to be named. </P>
+<P> The Geneva-based WHO, widely credited with a successful campaign to eradicate smallpox in the late 1970s, aims to eradicate polio by the end of the century. </P>
+<P> ``The global incidence of poliomyelitis has been steadily declining in recent years,'' WHO said in a statement. </P>
+<P> ``Urgent action is needed to increase political commitment and to raise funds if the polio eradication initiative is to succeed,'' it said. </P>
+<P> Eighteen countries, mostly in Africa, have failed to immunize at least 50 percent of their infants against polio, according to WHO. It did not name the countries. </P>
+<P> The whole of the Western hemisphere is polio-free, while the Western Pacific region was striving toward becoming the second polio-free area by the end of 1995, according to WHO. </P>
+</TEXT>
+</DOC>

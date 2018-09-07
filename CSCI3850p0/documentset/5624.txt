@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0236.950410</DOCID>
+<TDTID>TDT012374</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/10/95 10:39</DATE>
+<TITLE> Republican leader Dole enters White House race</TITLE>
+<HEADLINE> Republican leader Dole enters White House race</HEADLINE>
+<SUBJECT> BC-USA-POLITICS-DOLE-ANNOUNCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOPEKA, Kansas (Reuter) </DATELINE>
+<P>  U.S. Senate Majority Leader Bob Dole formally entered the 1996 presidential race on Monday, starting off with big opinion poll leads over five declared rivals in the battle for the Republican nomination. </P>
+<P> Dole, 71, and a partially crippled World War Two combat veteran, chose the capital of his home state to declare his candidacy -- his third White House run and his strongest -- as a leader ``tempered by adversity, seasoned by experience, mindful of the world as it is.'' The Democratic nominee is expected to be President Bill Clinton. </P>
+</TEXT>
+</DOC>

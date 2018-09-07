@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU007-0049.941114</DOCID>
+<TDTID>TDT006491</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/14/94 12:53</DATE>
+<TITLE> Tropical storm kills at least 47 in Haiti</TITLE>
+<HEADLINE> Tropical storm kills at least 47 in Haiti</HEADLINE>
+<SUBJECT> BC-HAITI-DEATHS </SUBJECT>
+<AUTHOR>     By Andrew Downie </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORT-AU-PRINCE, Haiti (Reuter) </DATELINE>
+<P>  Torrential rains battered Haiti over the weekend, unleashing floods and mudslides that killed at least 47 people and destroyed scores of homes, roads and businesses, witnesses and radio reports said Monday. </P>
+<P> The rains from Tropical Storm Gordon caused widespread destruction across the country, particularly in the south where 24 people were reported killed in the town of Jacmel. </P>
+<P> U.S. troops in helicopters flew to the countryside to assess the damage and identify the worst hit areas needing assistance. </P>
+<P> ``It only stopped raining just a few hours ago, the main thing we are doing is assessing,'' army spokesman Col. Barry Willey said. </P>
+<P> In many parts of the country electrical posts were felled, trees were pulled out by the roots and poorly constructed houses were washed away. Some areas were cut off when roads were flooded or washed away after rivers burst their banks. </P>
+<P> Officials at Port-au-Prince's general hospital said 23 bodies were brought to the city morgue. The victims included 13 residents of the capital's slum of Martissant, two of them infants and eight children, who died when houses collapsed, a resident of the area told Radio Quisqueya. </P>
+<P> In another part of the capital, three children died when a mudslide brought down the walls of their house. </P>
+<P> ``It is a natural catastrophe,'' said Haitian police chief Col. Pierre Neptune. </P>
+<P> Some 14 inches of rain fell on the southern town of Les Cayes between Sunday and Monday morning, compared to 9.35 inches in the capital, Maj. Marty Culp said. </P>
+<P> The heavy rain started Saturday afternoon and together with fierce electrical storms did not let up until Monday morning. Long-term residents said it was the heaviest downpour ever seen in Haiti. </P>
+<P> The storm swept across the southeastern tip of Cuba Sunday and headed northeast to the Bahamas and south Florida. On its way it brushed past Haiti, which is separated from Cuba by the Windward Passage. </P>
+</TEXT>
+</DOC>

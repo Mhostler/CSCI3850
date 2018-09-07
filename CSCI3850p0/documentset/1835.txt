@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU003-0363.941006</DOCID>
+<TDTID>TDT004552</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/06/94 15:58</DATE>
+<TITLE> House chairman attacks federal gun agency</TITLE>
+<HEADLINE> House chairman attacks federal gun agency</HEADLINE>
+<SUBJECT> BC-USA-GUNS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The chairman of the House Judiciary Committee Thursday said Congress should curb the power of the federal Bureau of Alcohol, Tobacco and Firearms to take guns away from Americans. </P>
+<P> ``Time has run out on a runaway agency,'' Texas Democrat Jack Brooks told a news conference. ``We need to coordinate this run-amok agency.'' </P>
+<P> Brooks said he would hold hearings next year on several cases where he believed the ATF had violated the constitutional right of citizens to own guns and the protection against unreasonable searches and seizures. </P>
+<P> ``I guess the Bill of Rights is not part of their reading material,'' he said. </P>
+<P> As an example of what he said were ATF's abuses, Brooks introduced Louis and Kimberly Katona of Bucyrus, Ohio, who described an ATF raid on their House in 1990 to seize more than $100,000 worth of weapons they had collected. </P>
+<P> Kimberly Katona said she suffered a miscarriage after she was shoved during the raid and her husband was indicted on 19 federal firearms violations. A federal judge dismissed the charges and ordered the weapons returned. </P>
+<P> ``It's been 2 3/8 years of hell,'' Louis Katona said. He said he is suing the agency. </P>
+<P> Brooks is a strong opponent of gun control legislation who failed this year to keep Congress from banning 19 types of semi-automatic assault weapons as part of the crime bill. He said legislation he might introduce next year included a bill to require that Congress approve any additional weapons the ATF wanted to ban. </P>
+<P> The ATF was strongly criticized last year for its raid on the Branch Davidian religious sect near Waco, Texas, when four agents and six cult members were killed in a shootout. </P>
+<P> The FBI took over the seige at the compound that ended 51 days later when the building was set on fire by cult members after agents fired tear gas into it. At least 80 people died in the blaze including cult leader David Koresh. </P>
+</TEXT>
+</DOC>

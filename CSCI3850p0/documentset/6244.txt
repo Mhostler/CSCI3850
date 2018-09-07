@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU002-0391.950503</DOCID>
+<TDTID>TDT013392</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 15:30</DATE>
+<TITLE> Glickman hints how to trim U.S. farm supports</TITLE>
+<HEADLINE> Glickman hints how to trim U.S. farm supports</HEADLINE>
+<SUBJECT> BC-FARM-CUTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Clinton administration wants to end subsidies to farmers with high off-farm incomes and may suggest making more land ineligible for price supports, Agriculture Secretary Dan Glickman said Wednesday. </P>
+<P> Glickman told a Senate Appropriations subcommittee the administration was looking at several ways to trim the cost of the farm program. But he warned that large-scale cuts ``would have a genuinely profound effect on agriculture'' and added that ``We are going to try to resist those.'' </P>
+<P> Some congressional leaders have suggested cutting farm spending by as much as $15 billion over five years. The White House, which says high market prices will drive down farm subsidy costs the rest of this decade, has suggested $1.5 billion in cuts. </P>
+<P> Glickman said possible cuts included denying payments to people with more than $100,000 in off-farm income, a modest increase in land ineligible for subsidies, termination of two programs that pay farmers 85 percent of their usual subsidies if they reduce or eliminate plantings, and higher assessments on commodities where the government sets the minimum price. </P>
+</TEXT>
+</DOC>

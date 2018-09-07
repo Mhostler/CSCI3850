@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU003-0310.950306</DOCID>
+<TDTID>TDT011040</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/06/95 16:41</DATE>
+<TITLE> Bomb squad summoned to Simpson trial courthouse</TITLE>
+<HEADLINE> Bomb squad summoned to Simpson trial courthouse</HEADLINE>
+<SUBJECT> BC-SIMPSON-BOMBSCARE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  A police bomb squad was called out and the first floor of the courthouse where the O.J. Simpson trial is taking place evacuated Monday after a ''suspicious-looking'' briefcase was found, police said. </P>
+<P> The unattended briefcase was discovered near the first-floor elevators during the lunch break in the double-murder trial, and the elevators were shut down as a precaution, said Officer Sandra Castello, a police spokeswoman. </P>
+<P> Police bomb experts were summoned to the downtown courthouse to check whether the briefcase contained explosives. Castello said authorities were awaiting word from the bomb squad before deciding whether further evacuations were needed. </P>
+</TEXT>
+</DOC>

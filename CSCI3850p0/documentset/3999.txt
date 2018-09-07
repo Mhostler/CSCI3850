@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0306.950127</DOCID>
+<TDTID>TDT009820</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/27/95 10:00</DATE>
+<TITLE> Mexico aid package proving hard sell - Gingrich</TITLE>
+<HEADLINE> Mexico aid package proving hard sell - Gingrich</HEADLINE>
+<SUBJECT> BC-MEXICO-USA-GINGRICH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  House of Representatives Speaker Newt Gingrich said on Friday that winning congressional approval of a $40 billion U.S. bailout for Mexico has proved much harder than expected but he still thought it possible. </P>
+<P> The Georgia Republican said President Bill Clinton had not yet made a persusaive case for the rescue plan but added: ``I don't want to be pessimistic. I think that it is possible to get something done but it is much harder work than I thought it would be.'' </P>
+</TEXT>
+</DOC>

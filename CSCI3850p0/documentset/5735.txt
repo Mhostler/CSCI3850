@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0420.950414</DOCID>
+<TDTID>TDT012546</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/14/95 01:32</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CIS-CHECHNYA-SHELLING -2 SLEPTSOVSK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Bamut is located some 50 km (30 miles) west of the regional capital Grozny. Journalists who visited the village recently say it has been almost abandoned by its residents, although Chechen fighters are holed up in concrete bunker in an old missile site. </P>
+<P> There have been frequent fighter plane sorties over the village in the last few days, but the intensity of raids and shelling increased overnight, rattling windows in Sleptsovsk. </P>
+<P> For one hour just after midnight witnesses said the shells were launched so frequently that the rumble of explosions sounded like a drum roll. </P>
+<P> Itar-Tass news agency said on Thursday that Russian troops had launched an all-out assault on Bamut. </P>
+</TEXT>
+</DOC>

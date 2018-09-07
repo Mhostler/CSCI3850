@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU002-0400.940804</DOCID>
+<TDTID>TDT001481</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/04/94 15:39</DATE>
+<TITLE> LIGHTNING STORMS SPARK NEW FIRES IN NORTHWEST</TITLE>
+<HEADLINE> LIGHTNING STORMS SPARK NEW FIRES IN NORTHWEST</HEADLINE>
+<SUBJECT> BC-USA-WILDFIRES </SUBJECT>
+<AUTHOR>     By Michael McCarthy </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEATTLE (Reuter) </DATELINE>
+<P>  Rainless lightning storms, sweeping over the Pacific Northwest and continuing through Thursday, have sparked hundreds of new fires in tinder-dry forests and rangeland, fire officials said Thursday. </P>
+<P> Most of the new fires in Washington, Idaho and British Columbia are small, but one range fire in Eastern Oregon has grown to 35,000 acres in just two days. </P>
+<P> ``We had a lot of lightning and we've had a lot of new starts,'' Joe Colwell, a spokesman for the National Interagency Fire Center in Boise, Idaho, said. ``It's a continuation of the same pattern that we've had for the past several weeks.'' </P>
+<P> More than 40,000 lightning strikes were recorded in 24 hours early Thursday in the Canadian provinces of Alberta and British Columbia and the state of Washington -- the most in recent memory, the Canadian weather service said. </P>
+<P> Some 18,000 men and women, including two battalions of U.S. Marines and two Army battalions, were fighting 26 major blazes and hundreds of small fires in Oregon, Washington, Idaho, Montana, California, Utah and Nevada. </P>
+<P> Fires covering more than 233,000 acres continue to burn out of control including more than 159,000 acres in Washington state alone, where Interior Secretary Bruce Babbit joined native Americans fighting a fire on the Yakama reservation. </P>
+<P> ``We have a big problem out here. We want to make sure we stay on top of it,'' Babbit told reporters when he arrived on the reservation late Wednesday. </P>
+<P> Washington's two major fires, the Tyee Creek fire near the resort town of Chelan and the Hatchery Creek Fire Complex near the town of Leavenworth, continued to grow but were slowed by cooler weather and higher humidity. </P>
+<P> Firefighters have used the respite to extend fire lines protecting dozens of small communities threatened by the fires, said Chris Strebig of the Multiagency Coordinating Center. </P>
+<P> The Tyee Creek Fire, which rages over heavily forested mountain terrain, may be as large as 120,000 acres , and firefighters fear it could grow rapidly if winds pick up as predicted, Strebig said. </P>
+<P> ``It has all the fuel it needs up there,'' he said. </P>
+<P> Strebig said the cost of fighting the Washington state fires alone already has topped $30 million and is rising at more than $2 million a day. </P>
+<P> The fires, which broke out a week and half ago, have driven hundreds from their homes, forced the closure of major state highways and destroyed at least 37 houses and more than 75 other structures, Strebig said. </P>
+<P> So far this year in the West more than 2 million acres timber and grassland have been burned, 200,000 acres more than were burned in all of 1993. </P>
+</TEXT>
+</DOC>

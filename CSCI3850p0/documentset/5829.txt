@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0012.950418</DOCID>
+<TDTID>TDT012678</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/18/95 14:47</DATE>
+<TITLE> Sewer jobs draw 5,000 applicants</TITLE>
+<HEADLINE> Sewer jobs draw 5,000 applicants</HEADLINE>
+<SUBJECT> BC-JOB </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  About 5,000 people lined up to apply for sewage treatment jobs billed as work in ``unpleasant surroundings and ... very unpleasant odors,'' officials said Tuesday. </P>
+<P> What the job seekers apparently smelled was the pay -- $12.88 an hour. </P>
+<P> The Metropolitan Water Reclamation District of Greater Chicago said the one-day application period Monday drew 5,000 people who will be given a shot at the jobs through a lottery. </P>
+<P> The number of jobs, perhaps a dozen or so, will depend on budget considerations. </P>
+<P> The scene called to mind the winter of 1992 when 3,000 people lined up in bitter cold outside a new Chicago hotel to apply for jobs. Those positions, by contrast, paid from $5.75 to $9 an hour. </P>
+</TEXT>
+</DOC>

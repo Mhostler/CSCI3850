@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU007-0437.950412</DOCID>
+<TDTID>TDT012477</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/12/95 12:05</DATE>
+<TITLE> U.S., industry fight ``clone'' cell phone fraud</TITLE>
+<HEADLINE> U.S., industry fight ``clone'' cell phone fraud</HEADLINE>
+<SUBJECT> BC-CELLULAR-FRAUD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The cellular telephone industry Wednesday donated $50,000 worth of advanced technical testing equipment to the U.S. Secret Service to help fight wireless fraud it says costs $500 million a year. </P>
+<P> The equipment can analyze ``cloned'' phones -- wireless phones illegally reprogrammed with a stolen account code to trick a cellular system into billing customers for calls they do not make -- and help authorities track down the cloners. </P>
+<P> ``We are dealing with a half billion dollar problem for the industry and consumers,'' Cellular Telecommunications Industry Association president Thomas Wheeler told a news conference. </P>
+<P> The industry's fraud task force said the equipment would track down criminal cloners, often key players in drug dealing and other organized crimes. </P>
+<P> Wheeler said the equipment ``is part of a tighter noose around the necks of high-tech crooks'' and Secret Service Director Eljay Bowron said the new equipment would boost the service's forensic capabilities and help it keep ahead of criminal cloning methods. </P>
+<P> Industry officials said typically a fraud is committed by a criminal stealing a cellular phone, taking it apart and replacing its Electronic Serial Number or Mobile Identification Number with a phony code to trick the cellular system into thinking the call is legitimate. </P>
+<P> They said it was the policy of companies not to charge customers for fraudulent calls but the fraud was not a victimless crime because fraudulent calls add to the cost of doing business and legitimate customers are inconvenienced by having to get their numbers changed and phones reprogrammed. </P>
+<P> The officials said cloners often intercept numbers when the cellular phone is switched on and the number sent to a monitoring point for registration and approval. They said criminals often wait at the end of highway tunnels or at airports where customers are apt to switch on their phones and start making calls. </P>
+</TEXT>
+</DOC>

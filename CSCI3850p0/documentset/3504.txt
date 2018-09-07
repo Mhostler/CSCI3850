@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU013-0147.941231</DOCID>
+<TDTID>TDT008704</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 08:35</DATE>
+<TITLE> Gambian women may have rare AIDS immunity - doctors</TITLE>
+<HEADLINE> Gambian women may have rare AIDS immunity - doctors</HEADLINE>
+<SUBJECT> BC-AIDS-IMMUNITY </SUBJECT>
+<AUTHOR>     By Maggie Fox </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  British doctors reported they had found a group of Gambian prostitutes who seemed to have some kind of natural immunity to the virus that causes AIDS. </P>
+<P> Dr Sarah Rowland-Jones of Britain's Medical Research Council said the discovery could help researchers find a vaccine against the deadly HIV virus. </P>
+<P> She reported in Sunday's edition of the journal Nature Medicine that the women, regular visitors to a British-run clinic, were known prostitutes who did not regularly use condoms. </P>
+<P> ``We know they have been infected with the virus but we can't find it now,'' she said in a telephone interview. ``They probably get exposed to HIV (the virus that causes AIDS) at least once a month.'' </P>
+<P> The six women all had T-cells specific to HIV. T-cells are white blood cells that kill other cells infected with viruses. </P>
+<P> ``People are beginning to feel they (T-cells) are the most important defense against HIV,'' Rowland-Jones said. ``They are probably the main reason that people stay well for as long as they stay well during HIV infection.'' </P>
+<P> It can take years to show any symptoms of AIDS. </P>
+<P> The women showed no sign of HIV infection and were very healthy. They did not have any of the symptoms associated with AIDS such as diarrhea, weight loss or a lack of energy. </P>
+<P> ``Yet we could detect fairly high levels of these T-cells against HIV,'' Rowland-Jones said. ``What we hope it means is that they may be immune.'' </P>
+<P> She added: ``The best hope is that they have cleared it but it is possible that they have a low-level infection that we cannot find.'' </P>
+<P> Rowland-Jones, an immunologist at the Institute of Molecular Medicine in Oxford, said she would compare her group's findings with similar research. </P>
+<P> In October 1993, Kenyan and Canadian scientists in Nairobi reported 25 prostitutes who seemed to have developed a natural immunity to HIV. They said they thought the women had an ability to make antibodies that neutralize the virus. </P>
+<P> Rowland-Jones said her group would start working with the Nairobi team. </P>
+<P> ``We and some other groups have found the same kind of thing in babies born to infected mothers,'' she added. ``We think the same thing is happening in those.'' </P>
+</TEXT>
+</DOC>

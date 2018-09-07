@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU010-0301.941122</DOCID>
+<TDTID>TDT006859</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/22/94 12:54</DATE>
+<TITLE> Gramm calls for smaller government, new tax cuts</TITLE>
+<HEADLINE> Gramm calls for smaller government, new tax cuts</HEADLINE>
+<SUBJECT> BC-POLITICS-GRAMM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Texas Sen. Phil Gramm, in an interview published Tuesday, chastised fellow Republicans for being too timid in efforts to shrink the government and called on Congress to make huge reductions in social programs to pay for new tax cuts. </P>
+<P> In an interview with The Los Angeles Times, Gramm, seen as a presidential contender, said the new GOP-dominated Congress would create an unnecessary and potentially damaging controversy if it tried to use creative accounting to finance tax cuts for investors and middle class families. </P>
+<P> Instead, Gramm, considered a possible candidate for the Republican presidential nomination in 1996, urged the adoption of a budget that would simultaneously cut taxes and slash discretionary spending, a category that includes education aid, public health and highway construction. </P>
+<P> ``There are many Republicans who want the blessings of limited government but who are unwilling to vote for limited government to make those blessings possible. And I think we're coming to the moment of truth,'' Gramm said. </P>
+<P> Under Gramm's plan, Congress would pay up front for a family tax cut by cutting funds from the Departments of Education, Housing and Urban Development and Health and Human Resources. </P>
+<P> To offset a capital gains tax cut, Gramm called for cuts in ``corporate subsidies,'' including subsidized interest rates and direct loans from the Small Business Administration. </P>
+<P> But only when tax cuts start creating wealth and bringing in revenue should Republicans take credit for them, Gramm said. </P>
+<P> ``I think if we can do it, we're going to have to do it now, while the public is ready for dramatic change. This is not a time for incremental thinking. This is a time to be bold,'' he said. </P>
+</TEXT>
+</DOC>

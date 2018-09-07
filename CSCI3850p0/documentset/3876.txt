@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU009-0288.950121</DOCID>
+<TDTID>TDT009600</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/21/95 04:06</DATE>
+<TITLE> Medium earthquake shakes northern Japan</TITLE>
+<HEADLINE> Medium earthquake shakes northern Japan</HEADLINE>
+<SUBJECT> BC-QUAKE-JAPAN-HOKKAIDO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  An earthquake measuring 6.2 on the Richter scale shook Japan's northern Hokkaido Island Saturday, the Meteorological Agency said. </P>
+<P> The quake was strongest in Kushiro, an earthquake-prone port city on the Pacific coast of Hokkaido, but the focal point was far out under the ocean. There was no fear of a tidal wave, the agency said. </P>
+<P> There were no immediate reports of damages or casualties. </P>
+</TEXT>
+</DOC>

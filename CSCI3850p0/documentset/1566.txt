@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0307.940923</DOCID>
+<TDTID>TDT003879</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/23/94 11:39</DATE>
+<TITLE> Christopher to visit Mideast in October</TITLE>
+<HEADLINE> Christopher to visit Mideast in October</HEADLINE>
+<SUBJECT> BC-MIDEAST-USA-CHRISTOPHER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  U.S. Secretary of State Warren Christopher said Friday he would visit Israel and Syria in early October to try to advance peace negotiations between the two countries. </P>
+<P> ``I think a trip is well justified at the present time. The parties are serious about their negotiations,'' Christopher told reporters at a photo opportunity with Egyptian Foreign Minister Amr Moussa. </P>
+<P> Christopher said details of the trip were not final but he expected to be in the Middle East in the second week of October. He said he would also visit Egypt and possibly Jordan. </P>
+<P> Christopher said he will attend the meeting of the United Nations General Assembly in New York next week but would not try to arrange a meeting between Israeli Foreign Minister Shimon Peres and Syrian Foreign Minister Farouk al-Sharaa, who will also attend. </P>
+<P> Al-Sharaa will visit Washington on October 5-6 before Christopher goes to the Middle East, the secretary said. </P>
+</TEXT>
+</DOC>

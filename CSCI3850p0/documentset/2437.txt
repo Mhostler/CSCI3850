@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0181.941106</DOCID>
+<TDTID>TDT006134</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/06/94 06:22</DATE>
+<TITLE> Peres dismisses conciliatory Iraqi statement</TITLE>
+<HEADLINE> Peres dismisses conciliatory Iraqi statement</HEADLINE>
+<SUBJECT> BC-MIDEAST-IRAQ-ISRAEL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israeli Foreign Minister Shimon Peres said Sunday that Israel's problems with Iraq were with President Saddam Hussein, not the Iraqi people. </P>
+<P> He was commenting on a statement by Iraqi Deputy Prime Minister Tareq Aziz that Baghdad had no problems with the Jewish state and was no longer at war with it. </P>
+<P></P>
+<P> ``Our enemy is not Iraq, not as a state and not as a people. We have a real problem with Saddam Hussein, who is a man who cannot be trusted -- not his words, not his promises, and not his positions,'' Peres said. </P>
+<P></P>
+<P> ``There are no negotiations... Direct or indirect negotiations are not being conducted and will not be conducted between Iraq and Israel.'' </P>
+<P> Aziz made his remarks in an interview with the French monthly Le Monde Diplomatique. Asked why Baghdad had kept silent about the Middle East peace process, Aziz replied: </P>
+<P> ``We believe that we do not have to meddle in an issue to which we have not been associated.'' </P>
+<P> ``We have no bilateral conflict with Israel,'' he said in the brief interview with writer Eric Rouleau, a former French ambassador to Libya, published in the newspaper's November issue. </P>
+<P> Iraq fired dozens of Scud missiles into Israel during the 1991 Gulf War in a failed attempt to drag the Jewish state into the conflict. </P>
+<P> ``Since our Arab brothers have decided to settle their disputes with Israel through negotiation, Iraq no longer regards itself as a 'confrontation state','' Aziz said. </P>
+</TEXT>
+</DOC>

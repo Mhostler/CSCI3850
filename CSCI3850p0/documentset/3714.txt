@@ -1,0 +1,32 @@
+<DOC>
+<DOCID>REU005-0053.950111</DOCID>
+<TDTID>TDT009187</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/11/95 16:27</DATE>
+<TITLE> Mexican stocks recover after third day of chaos</TITLE>
+<HEADLINE> Mexican stocks recover after third day of chaos</HEADLINE>
+<SUBJECT> BC-MEXICO-ECONOMY 3RDLD </SUBJECT>
+<AUTHOR>     By Martin Langfield </AUTHOR>
+<TEXT>
+<NOTES>(Eds: updates with closing prices)</NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Mexican stocks plummeted for a third day in a row Wednesday and then recovered after President Clinton made a strong statement of support for Mexico. </P>
+<P> Mexican leader Ernesto Zedillo said he was sure stability would return soon. </P>
+<P> The main stock price index had dived more than 6 percent in early trade as investors appeared to give up completely on Mexican shares and financial authorities, battling to ride out a three-week economic crisis, raised interest rates to five-year highs. </P>
+<P> The losses added to a 13 percent slide on the stock exchange in the first two days of the week. </P>
+<P> Clinton's remarks, backed by Zedillo's expression of confidence in the economy and some discreet buying of shares by Mexico's development bank Nafin, then reversed the trend. </P>
+<P> The key IPC stock market index closed 2.2 percent higher according to preliminary data. </P>
+<P> Clinton, speaking in Washington, said Mexico's stability is in America's interests and that the United States is ready to extend and expand its $9 billion lifeline for its Latin American neighbor. He also called on the International Monetary Fund and the World Bank to put together a big loan package for Mexico. </P>
+<P> Zedillo said that recent market chaos ``does not correspond to the real strength of our economy'' and that an existing $18 billion international support fund for Mexico, which includes the $9 billion Clinton spoke of, may be expanded soon with funds from international institutions. </P>
+<P> He gave no details, but IMF envoys are currently meeting government officials in Mexico City. </P>
+<P> ``There was some buying after Clinton's remarks and it seems Zedillo's comments were considered positive,'' one stocks trader said. ``Nafin is also helping the market.'' </P>
+<P> Zedillo said he was confident stability would return to Mexico's financial markets ``in a few days.'' </P>
+<P> The Mexican new peso -- so called after the government slashed three zeroes off the old currency in 1993 -- appeared to be under less pressure Wednesday, gaining slightly to close at 5.55/5.75 to the dollar. </P>
+<P> It stood at 3.47 to the dollar before the government decided to devalue the currency Dec. 20 and then allow it to float on international markets, exacerbating a crisis sparked by a slowdown of vital inflows of foreign capital. </P>
+<P> Earlier, Mexican financial authorities, fighting to keep investors' money in the country, hiked key domestic interest rates to 40 percent, the highest since May 1990. </P>
+<P> Investors had delivered a slap in the face to Mexican authorities Tuesday, staying away in droves from an issue of dollar-denominated securities known as Tesobonos which the central bank had hoped would keep money in the country. </P>
+<P> The central bank had more luck Wednesday, but only by cranking the key 28-day Cetes interest rate, which is used to set other rates throughout the economy, to 40 percent from 33 percent last week. </P>
+<P> Demand for investors handily outstripped the 800 million new pesos offered by the bank in the peso-denominated securities, suggesting that investors were prepared to hold on to their Mexican government securities if the price is right, rather than fleeing into dollars. </P>
+<P> Mexico desperately needs to keep money coming into government coffers if it is to convince international markets that it can meet its existing debt obligations. </P>
+</TEXT>
+</DOC>

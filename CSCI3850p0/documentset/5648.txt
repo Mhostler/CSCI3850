@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU006-0447.950411</DOCID>
+<TDTID>TDT012425</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/11/95 04:53</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-MIDEAST-SENTENCE -2 GAZA (REOPENS) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Prosecutor General Khaled al-Kidra told Reuters that Omar Shallah, 29, ``was sentenced to life. The charges were he was inciting people to suicide operations and also tempting them to commit crimes inside the self-rule areas and outside them.'' </P>
+<P> Kidra said Shallah was arrested by police after the January 22 suicide bombing by Islamic Jihad guerrillas that killed 21 Israelis north of Tel Aviv. </P>
+<P> Shallah was the second Islamist to be jailed by the military court since it was set up after calls by Israel and Washington for action against militants. The first man, also from Islamic Jihad, was sentenced on Monday to 15 years in jail. </P>
+<P> A crack down has been under way in Gaza since Sunday when Islamic Jihad and Hamas suicide bombers carried out separate attacks near Jewish settlements in the strip in which eight Israelis were killed. About 150 people have been arrested. </P>
+</TEXT>
+</DOC>

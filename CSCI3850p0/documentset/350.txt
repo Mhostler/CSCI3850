@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU011-0130.940722</DOCID>
+<TDTID>TDT000906</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/22/94 12:01</DATE>
+<TITLE> GAMBIAN TROOPS RIOT, AIRPORT CLOSED - WITNESSES</TITLE>
+<HEADLINE> GAMBIAN TROOPS RIOT, AIRPORT CLOSED - WITNESSES</HEADLINE>
+<SUBJECT> BC-GAMBIA-MUTINY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DAKAR, Senegal (Reuter) </DATELINE>
+<P>  Gambian infantrymen protesting over unpaid wages rampaged through the capital Banjul Friday, seizing cars and looting shops, witnesses said. </P>
+<P> The airport in Banjul was closed and some public buildings were occupied by mutineers but the witnesses, arriving overland in neighboring Senegal, did not report any shooting. </P>
+<P> Gambia's 800-strong army is led by a Nigerian colonel under a 1992 agreement between the two former British colonies. Banjul could not be reached by telephone and the city's public telex office appeared to have been abandoned. </P>
+</TEXT>
+</DOC>

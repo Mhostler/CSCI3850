@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU005-0068.940709</DOCID>
+<TDTID>TDT000320</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/09/94 08:52</DATE>
+<TITLE> THIRTY SIX PEOPLE KILLED IN TURKEY'S SOUTHEAST</TITLE>
+<HEADLINE> THIRTY SIX PEOPLE KILLED IN TURKEY'S SOUTHEAST</HEADLINE>
+<SUBJECT> BC-TURKEY-KURDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ISTANBUL, Turkey (Reuter) </DATELINE>
+<P>  Turkish troops killed 33 rebel Kurds in clashes in the southeast and three soldiers died during the operations, the Anatolian news agency reported Saturday. </P>
+<P> It quoted the regional governor's office in Diyarbakir as saying the rebels were members of the Kurdistan Workers Party. Three troops were shot dead by the seperatist Kurds in clashes in Diyarbakir and other regions of the southeast. </P>
+<P> More than 12,000 people have been killed in Turkey since 1984, when the outlawed party began its armed struggle for an independent Kurdish state in the southeast. </P>
+</TEXT>
+</DOC>

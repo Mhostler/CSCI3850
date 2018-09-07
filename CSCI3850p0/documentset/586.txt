@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU002-0204.940803</DOCID>
+<TDTID>TDT001437</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 20:14</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-USA-EXECUTIONS-STAY 1STLD -2 LITTLE ROCK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> An Arkansas Department of Correction spokesman said it was uncertain whether a final appeal to the U.S. Supreme Court would follow. </P>
+<P> The U.S. Supreme Court has notified the state it will not consider appeals for the other two men scheduled to die by lethal injection. </P>
+<P> The victim, Donald Lehman, a prosperous contractor, was beaten with a bicycle chain at his home as his wife and daughter were forced to watch. The intruders ransacked the home and fatally shot Lehman as they left. </P>
+</TEXT>
+</DOC>

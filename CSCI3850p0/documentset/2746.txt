@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0052.941121</DOCID>
+<TDTID>TDT006803</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/21/94 10:34</DATE>
+<TITLE> Yeltsin ``outraged'' by US stance on arms embargo</TITLE>
+<HEADLINE> Yeltsin ``outraged'' by US stance on arms embargo</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-RUSSIA-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  President Boris Yeltsin said Monday Moscow is ``outraged'' by the possibility that the United States will lift an arms embargo against Bosnian Muslims. </P>
+<P> ``(Foreign Minister Andrei) Kozyrev recently visited France. He talked to the foreign ministers of other European countries, who were also outraged by the U.S. action,'' he told reporters. ``I think we will act together with them to ensure peace in the Balkans.'' </P>
+</TEXT>
+</DOC>

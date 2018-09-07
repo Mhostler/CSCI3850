@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0166.940927</DOCID>
+<TDTID>TDT004044</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/27/94 13:37</DATE>
+<TITLE> Haitians loot food warehouse, woman trampled</TITLE>
+<HEADLINE> Haitians loot food warehouse, woman trampled</HEADLINE>
+<SUBJECT> BC-HAITI-LOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORT-AU-PRINCE, (Reuter) </DATELINE>
+<P>  Thousands of hungry Haitians looted a European-funded food warehouse Tuesday and carried off bags of rice and beans in an impoverished slum of the Haitian capital, eyewitnesses said. </P>
+<P> A elderly woman was seriously injured when the crowd of people running from the building trampled over her, a Reuter photographer on the scene said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU017-0420.950428</DOCID>
+<TDTID>TDT013193</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/28/95 09:51</DATE>
+<TITLE> Slovak nuclear plant shut down after alarm hitch</TITLE>
+<HEADLINE> Slovak nuclear plant shut down after alarm hitch</HEADLINE>
+<SUBJECT> BC-NUCLEAR-SLOVAKIA 1STLD </SUBJECT>
+<AUTHOR>     By Chris Sulavik </AUTHOR>
+<TEXT>
+<NOTES> (Updates with shutting part of plant, fresh alarm, quotes)</NOTES>
+<DATELINE>BRATISLAVA, Slovakia (Reuter) </DATELINE>
+<P>  A nuclear power station in western Slovakia was partially shut down early Friday after a glitch in the safety monitoring system set off an alarm, plant officials said. </P>
+<P> One of the four reactors was closed at the Soviet-designed Bohunice station, about 30 miles from the Austrian border, power utility Slovenske Elektrarne a.s. (SE) which owns and operates the plant, said in a statement. </P>
+<P> The reactor is expected to be reopened May 2 at the earliest, the statement said. </P>
+<P> Polish radio reported Friday that rumors of an accident had circulated in southern Poland, but Slovak officials said there had been no release of radioactivity. </P>
+<P> Stefan Rohar, chief of the Slovak Nuclear Power Supervisory Bureau, told Reuters Friday the shut-down was standard procedure after an alarm goes off for any reason, until the plant produces an official report on the cause. </P>
+<P> ``There was a localized electrical problem with the monitoring system which automatically tripped the alarm, which is the same (alarm) used when there is any accident within the plant,'' Rohar said. </P>
+<P> He said the monitoring system is called the Reactor Trip System and the plant's alarm is triggered by such glitches up to four times a year. </P>
+<P> Earlier Friday, SE officials said the rumors probably resulted from a routine test alarm sounded April 25. </P>
+<P> Anna Prochazkova, director of the air monitoring department at the Bohunice station, said: ``Our detectors show no increase in radioactivity in the air. All of our indicators are showing standard levels.'' </P>
+<P> Officials said the alarm rings in a 19 mile range around the Soviet-designed Bohunice nuclear power station, the country's sole operating nuclear plant. </P>
+<P> Officials from the Air Protection Department of the Environmental Bureau in the city of Trnava, the closest city to the Bohunice station, told Reuters their air monitors showed no indication of a nuclear accident. </P>
+</TEXT>
+</DOC>

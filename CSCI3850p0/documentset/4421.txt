@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU009-0161.950218</DOCID>
+<TDTID>TDT010542</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/18/95 05:51</DATE>
+<TITLE> Two die as ``suicide'' car hits Serb bus in Austria</TITLE>
+<HEADLINE> Two die as ``suicide'' car hits Serb bus in Austria</HEADLINE>
+<SUBJECT> BC-AUSTRIA-CRASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VIENNA, Austria (Reuter) </DATELINE>
+<P>  Two people were killed and 27 were injured when a car deliberately crashed into a busload of Serbians early Saturday in southeastern Austria, police said. </P>
+<P> A police spokesman said the 22-year-old Austrian car driver, apparently on a suicide mission, crashed into the front of the bus on a state highway between Altenmarkt and Fuerstenfeld near the Hungarian border. </P>
+<P> The car driver and one bus passenger were killed. The car and bus were destroyed in a fire that followed the crash. </P>
+<P> A friend of the motorist reported to a local police station after the crash that he had talked of killing himself. </P>
+<P> Initial police reports said the bus had Swiss license plates and was headed toward Serbia. </P>
+</TEXT>
+</DOC>

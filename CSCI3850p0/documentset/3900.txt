@@ -1,0 +1,37 @@
+<DOC>
+<DOCID>REU010-0258.950123</DOCID>
+<TDTID>TDT009661</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/23/95 19:09</DATE>
+<TITLE> Progress on Mexico aid seen as negotiations go on</TITLE>
+<HEADLINE> Progress on Mexico aid seen as negotiations go on</HEADLINE>
+<SUBJECT> BC-MEXICO-USA 3RDLD </SUBJECT>
+<AUTHOR>     By Gene Gibbons </AUTHOR>
+<TEXT>
+<NOTES>(Recasts and edits, adds new quotes)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House said Monday that good progress was being made in lining up congressional support for up to $40 billion loan guarantees to Mexico, but statements by members of Congress indicated that legislation to implement the plan was still some way off. </P>
+<P> ``Obviously, significant differences remain ... We're not there yet,'' said Rep. Jim Kolbe, R-Ariz., chairman of a House task force seeking support for the financial rescue. </P>
+<P> The White House said President Clinton spoke with Mexican President Ernesto Zedillo by telephone Monday concerning Mexico's progress in implementing its economic stabilization package and the loan guarantee legislation in the U.S. Congress. </P>
+<P> It added that Clinton told Zedillo ``he expects (that) the bipartisan commitment of the congressional leadership to address this issue will be fulfilled.'' </P>
+<P> ``The president said he will continue to work closely with Congress and urge it to to act expeditiously,'' the statement said. </P>
+<P> In the Senate, a group of conservative Republicans appeared to be swayed by economists' arguments for linking the Mexican peso to the dollar at a fixed exchange rate, an idea that Treasury Secretary Robert Rubin said caused ``a lot of very serious concerns.'' </P>
+<P> An aide to the Senate Republican Policy Committee said: ''Four different drafts (of possible legislation) are floating around ... no one has come to closure.'' </P>
+<P> And Sen. John McCain, R-Ariz., said he believed that there was not enough Republican support at this time to approve a guarantee package. </P>
+<P> But White House spokesman Mike McCurry, along with Kolbe and task force co-chairman Rep. Robert Matsui, D-Cal., voiced confidence of eventual congressional approval. </P>
+<P> McCurry said the discussions were going very well and he believed the package ``will be produced and passed quickly.'' </P>
+<P> House Speaker Newt Gingrich told reporters at a news conference he might be able to bring up the guarantees as early as Friday. </P>
+<P> But he said: ``I don't think whether it is Friday or next Monday is a critical issue. I think knowing that we are committed to bringing up a bipartisan agreement and try to pass it on a bipartisan basis sends a key signal to money markets.'' </P>
+<P> The idea of setting up a currency board in Mexico, similar to one in Argentina, and trying to gradually peg the peso to about 3.5 to the dollar was raised Sunday by Senate Republican leader Bob Dole in a television interview. </P>
+<P> The idea seemed to gain support when more than a dozen conservative Republican senators met four economists behind closed doors. </P>
+<P> McCain said that Rubin, by opposing pegging the Mexican peso to the dollar, was ignoring Argentina's economic success in pursuing such a policy. </P>
+<P> Senate Republican Whip Trent Lott of Mississippi said there was ``a lot of interest'' in the idea of a Mexican currency board on the Argentine model. </P>
+<P> ``I find Mr. Rubin's belief, that he can make progress in the Congress based on his experience in Wall Street, to be an ill-founded basis,'' McCain said. </P>
+<P> ``I think he should probably modify his attitude to some degree.'' </P>
+<P> Kolbe said Republicans wanted to see stronger political conditions on the guarantees, while Democrats sought conditions on Mexican labor rights and productivity. </P>
+<P> At a briefing for reporters Rubin said Mexican economic upheaval might spur illegal Mexican immigration to the United States and spread to other countries. </P>
+<P> ``If this loan guarantee program is not put together, then you face the potential of a vastly more difficult situation in Mexico and ... that has the very real potential for a spillover effect on developing and transitional economies around the world,'' Rubin said. </P>
+<P> Kolbe indicated that finding collateral for the loan guarantees was less of a problem now. He said the language on collateralization would be in general terms so the United States would be able to require collateral as necessary. </P>
+<P> A Mexican debt auction on Tuesday would be ``critical'' in terms of a market judgment that Washington was moving ahead on the loan guarantees, Kolbe said, adding, ``I think we'll be watching that very, very closely.'' </P>
+</TEXT>
+</DOC>

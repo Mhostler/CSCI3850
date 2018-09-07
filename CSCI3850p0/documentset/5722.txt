@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0334.950413</DOCID>
+<TDTID>TDT012525</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/13/95 16:21</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-KOREA-USA-TALKS -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Burns told reporters he had limited information from the U.S. delegation in Berlin about the recess but said: ``There's no reason to think it's bad. It's consistent, in fact, with what happened during the last round of talks. </P>
+<P> ``We had a very good and full exchange with the North Koreans. It was felt by both sides and agreed by both sides this time that there was need for another recess so that the two sides could have consultations in (their) capitals. And so that's why they're returning. But it is a recess, it's not a cancellation of the talks,'' he said. </P>
+<P> The two sides are trying to settle a dispute over the type of nuclear reactor North Korea will receive as part of a landmark agreement with the United States last October. </P>
+<P> Washington insists that South Korea, North Korea's archenemy, must be the primary financer, designer and builder of the reactors, but Pyongyang is demanding an alternative supplier. </P>
+</TEXT>
+</DOC>

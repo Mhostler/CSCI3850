@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0065.950305</DOCID>
+<TDTID>TDT011006</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/05/95 04:50</DATE>
+<TITLE> Japanese premier attends mass funeral in Kobe</TITLE>
+<HEADLINE> Japanese premier attends mass funeral in Kobe</HEADLINE>
+<SUBJECT> BC-QUAKE-JAPAN-CEREMONY (PICTURE) </SUBJECT>
+<AUTHOR>     By Velisarios Kattoulas </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KOBE, Japan (Reuter) </DATELINE>
+<P>  Japan's prime minister joined members of the royal family in Kobe Sunday to pay respects to the nearly 5,500 people killed in the massive earthquake that struck central Japan in January. </P>
+<P> ``Standing before this altar, I feel even more sharply the weight of my duty to protect people's lives from disasters,'' Prime Minister Tomiichi Murayama told about 7,000 people gathered in a large Kobe auditorium. </P>
+<P> Murayama was joined by local leaders, cabinet ministers and by Crown Prince Naruhito and Princess Masako at a solemn mass funeral for earthquake victims. </P>
+<P> ``It's impossible even to find the words to say when I try to imagine the grief in the hearts of those who have lost their loved ones,'' said Takako Doi, speaker of the lower house of parliament, who hails from Kobe. </P>
+<P> Many of the mostly elderly mourners carried Buddhist prayer beads and photographs of their dead relatives mounted in austere black wooden frames. A sea of black funereal apparel in the auditorium was broken up by a few women in traditional kimonos. </P>
+<P> One woman who appeared to be in her 50s struggled to hold back tears as she held the photograph of her deceased daughter in one hand and the hand of her recently orphaned granddaughter in the other. </P>
+<P> A few aisles away, an old man with short-cropped white hair, trembling and weeping, covered his face and buried his head in his lap. </P>
+<P> After the memorial service, Murayama and fellow ministers briefly visited several refugee centers in Kobe, where nearly 200,000 people are still living in temporary shelters. </P>
+<P> Despite the solemn atmosphere there was some cynicism. </P>
+<P> ``I'd like to ask Murayama if he's here because he cares about the people who died or if he came just because he's a politician and has to,'' said Tsutomu Miyagawa, 43, a Kobe bus driver whose mother perished in the January 17 earthquake. </P>
+<P> The earthquake killed a total of 5,464 people in Kobe and surrounding areas, making it Japan's worst natural disaster in the postwar period. </P>
+</TEXT>
+</DOC>

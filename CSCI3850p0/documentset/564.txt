@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU002-0029.940803</DOCID>
+<TDTID>TDT001378</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 05:22</DATE>
+<TITLE> TURKISH PLANES STRIKE REBEL KURDS IN NORTH IRAQ</TITLE>
+<HEADLINE> TURKISH PLANES STRIKE REBEL KURDS IN NORTH IRAQ</HEADLINE>
+<SUBJECT> BC-TURKEY-KURDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANKARA, Turkey (Reuter) </DATELINE>
+<P>  Turkish warplanes struck rebel Kurdish targets in northern Iraq, a military official said Wednesday. </P>
+<P> ``There has been a raid on separatist targets across the border at the Hakurk region,'' he told Reuters. He did not say when the raid took place. Hakurk is about 12 miles south of the Turkish border town of Hakkari. </P>
+<P> It was Turkey's second air foray into north Iraq since July 26 when planes hit Mezi, also close to the border. Turkey then said at least 70 guerrilals of the Kurdistan Workers Party (PKK) had been killed. </P>
+</TEXT>
+</DOC>

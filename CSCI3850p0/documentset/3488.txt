@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU012-0376.941229</DOCID>
+<TDTID>TDT008626</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/29/94 17:15</DATE>
+<TITLE> Judge dismisses indictment against MIT computer whiz</TITLE>
+<HEADLINE> Judge dismisses indictment against MIT computer whiz</HEADLINE>
+<SUBJECT> BC-COMPUTER-WHIZKID </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  A judge Thursday dismissed an indictment against an MIT student accused of using university computers to distribute pirated software over the Internet, the global computer network. </P>
+<P> The student, David LaMacchia, 20, was indicted March 7 on a charge of conspiracy to commit wire fraud. </P>
+<P> At the time the U.S. Attorney in Boston, Donald Stern, called it the largest single case of software piracy to date. </P>
+<P> U.S. District Court Judge Richard Stearns was critical of LaMacchia's actions, but ruled that he could not be prosecuted under a wire fraud statute as that could result in a flood of prosecutions of home computer users to copying even single software programs for their own use. </P>
+<P> But the judge described LaMacchia at best as ``heedlessly irresponsible, and at worst as nihilistic, self-indulgent and lacking in any fundamental sense of values.'' </P>
+<P> According to the indictment, LaMacchia -- an electrical engineering and computer science student at the Massachusetts Institute of Technology, one of the nation's top schools for science and technology studies -- used two of MIT's computers to create bulletin boards from which Internet users could post or copy commercial copyrighted software worth close to $1 million. </P>
+<P> He was accused of using the computer aliases ``John Gaunt'' and ``Grimjack'' to operate the bulletin board from November 1993 to January 1994. </P>
+<P> LaMacchia was not accused of profiting from the scheme, nor was he accused of personally posting or copying any software on the bulletin board. </P>
+<P> The Software Publishers Association, a trade group representing software makers, estimates that software piracy cost manufacturers about $1.6 billion last year. </P>
+</TEXT>
+</DOC>

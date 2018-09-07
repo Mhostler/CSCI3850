@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU011-0015.950516</DOCID>
+<TDTID>TDT013861</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/16/95 11:07</DATE>
+<TITLE> South Africa tackles black housing crisis</TITLE>
+<HEADLINE> South Africa tackles black housing crisis</HEADLINE>
+<SUBJECT> BC-SAFRICA-HOUSING </SUBJECT>
+<AUTHOR>     By Brendan Boyle </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE TOWN, South Africa (Reuter) </DATELINE>
+<P>  South Africa, which has still not built a single house not already planned by former white rulers, unveiled Tuesday a program to accelerate a post-apartheid campaign to house seven million homeless blacks. </P>
+<P></P>
+<P> ``We now have the policies in place...to repair the torn fabric of South Africa's cities and towns.'' </P>
+<P> She announced a package of sanctions and subsidies designed to break the logjam in addressing a backlog of 1.5 million homes, which is growing by 200,000 a year. </P>
+<P> The program beginning June 5 will include a crackdown on people who refuse to pay for housing, a deal with banks to provide mortgages as low as $2,775 and the extension of existing project-based subsidies to individuals. </P>
+<P> ``Across the country, people now have a significant range of choices... The money is there. The plans are there. The structures are there. </P>
+<P> ``Only the people of South Africa can decide whether we are to get to work building or not. They can decide...by paying for housing and services,'' she said. </P>
+<P> President Nelson Mandela's African National Congress (ANC) promised to build a million homes in the first five years of democracy as a central plank of its campaign for the first all-race elections in April last year. </P>
+<P> The ANC swept to victory with almost 63 percent of the vote. </P>
+<P> Under popular housing minister and white communist Joe Slovo, who died in January, the government set up a subsidy scheme for families with a joint monthly income below $970 and focused on providing serviced building sites rather than completed houses. </P>
+<P> Mthembi Nkondo said 203,000 subsidies of up to $4,165 per family had been approved in the past year, though, according to an aide, only 10,000 had been paid out. </P>
+<P> ``The subsidies tell us the most massive housing program this country has ever seen is under way. But...nothing will move, nothing, if we do not take responsibility for ourselves,'' she said. </P>
+<P> ``For people of good will, there will be a fresh start,'' she said, but in a warning to blacks continuing anti-apartheid mortgage boycotts, she warned that debts would have to be addressed and defaulters would face legal action. </P>
+</TEXT>
+</DOC>

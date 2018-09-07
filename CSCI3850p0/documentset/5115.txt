@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0072.950323</DOCID>
+<TDTID>TDT011589</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 03:32</DATE>
+<TITLE> Christopher, Kozyrev begin day-long Geneva talks</TITLE>
+<HEADLINE> Christopher, Kozyrev begin day-long Geneva talks</HEADLINE>
+<SUBJECT> BC-USA-RUSSIA-START </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GENEVA, March 23 (Reuter) </DATELINE>
+<P>  U.S. Secretary of State Warren Christopher and Russian Foreign Minister Andrei Kozyrev began a day of talks on Thursday to prepare the groundwork for a May summit in Moscow. </P>
+<P> The two men, who met for dinner on Wednesday night, were expected to focus on Russia's relations with the NATO alliance and on the conflicts in former Yugoslavia and the breakaway Russian Caucasus region of Chechnya. </P>
+</TEXT>
+</DOC>

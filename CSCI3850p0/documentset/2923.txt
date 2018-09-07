@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU014-0013.941130</DOCID>
+<TDTID>TDT007263</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/30/94 17:21</DATE>
+<TITLE> Quayle improving, doctors say</TITLE>
+<HEADLINE> Quayle improving, doctors say</HEADLINE>
+<SUBJECT> BC-QUAYLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>INDIANAPOLIS (Reuter) </DATELINE>
+<P>  Former Vice President Dan Quayle was reported in improved condition Wednesday as treatment continued for a blood clot in one lung. </P>
+<P> ``He's improving,'' said Pam Perry, spokeswoman for Indiana University Medical Center. </P>
+<P> ``His color is back to normal. He's in good spirits. His doctors say he was up and moving about his room. And he's back on a normal diet,'' she added. </P>
+<P> Quayle, 47, entered the hospital Monday suffering from a progressive shortness of breath. He was diagnosed as having a pulmonary embolism and is being treated with blood thinners and rest. </P>
+<P> Doctors said they expect him to be released in about a week and to make a complete recovery. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0112.950226</DOCID>
+<TDTID>TDT010778</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/26/95 19:30</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BANK-MARKETS-JAPAN -2 TOKYO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Barings, London bankers to customers including Queen Elizabeth II, went bust Sunday under losses of more than $750 million that were run up in speculative trade by a maverick Singapore-based trader. </P>
+<P> Banking sources said the trader apparently ran up losses on trading in derivatives based on Tokyo share prices. </P>
+<P> Derivatives -- futures, options and swaps -- are contracts linked to values of commodities, currencies, shares or bonds. </P>
+<P> They were designed as hedges against price fluctuation but profit on speculative trade in them can be huge. So can losses. </P>
+</TEXT>
+</DOC>

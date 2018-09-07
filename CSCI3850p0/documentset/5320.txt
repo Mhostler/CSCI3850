@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU016-0204.950330</DOCID>
+<TDTID>TDT011902</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/30/95 06:59</DATE>
+<TITLE> Egyptian police kill five suspected militants</TITLE>
+<HEADLINE> Egyptian police kill five suspected militants</HEADLINE>
+<SUBJECT> BC-EGYPT-MILITANTS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Adds farmer killed, updates death toll in three years)</NOTES>
+<DATELINE>ASSIUT, Egypt, March 30 (Reuter) </DATELINE>
+<P>  Police shot dead five men thought to be Moslem militants in southern Egypt on Thursday morning, security sources said. </P>
+<P> Police said the men were killed in an exchange of fire after police went to arrest them at a house in the village of Abu Khuzam, in the Nile valley 280 km (175 miles) south of Cairo, they said. There were no police casualties. </P>
+<P> The government says its policy is to capture militants alive but human rights groups said police shoot to kill, without giving militants a chance to surrender. </P>
+<P> The sources said police were identifying the dead but believed them to be members of the Gama'a al-Islamiya, the largest militant group fighting to overthrow the government and set up a strict Islamic state. </P>
+<P> Also on Thursday, suspected members of al-Gamaa killed a 45-year-old farmer for alleged cooperation with the police. </P>
+<P> Police said suspected militants shot dead Shehata Fahmy Sakran in the market of a village near Minya, 260 km (160 miles) south of Cairo. A woman at the scene was wounded, police added. </P>
+<P> More than 700 people have been killed in political violence since the Gama'a took up arms three years ago. </P>
+</TEXT>
+</DOC>

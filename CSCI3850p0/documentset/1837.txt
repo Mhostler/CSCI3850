@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU003-0372.941006</DOCID>
+<TDTID>TDT004554</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/06/94 16:19</DATE>
+<TITLE> Plague has not spread beyond India - U.S. officials</TITLE>
+<HEADLINE> Plague has not spread beyond India - U.S. officials</HEADLINE>
+<SUBJECT> BC-PLAGUE-USA (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>Release at 5 p.m. EDT</NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  U.S. health officials said Thursday that no cases of suspected pneumonic or bubonic plague have been reported outside of India since an outbreak began in late August. </P>
+<P> Three air passengers who exhibited coughing and other possible symptoms were evaluated as part of increased surveillance of flights arriving in the U.S. from India, but none were found to have plague, the U.S. Centers for Disease Control and Prevention (CDC) said Thursday. </P>
+<P> Written information about plague is being provided to air travelers from India to the U.S., stressing the need for prompt medical attention if symptoms occur. </P>
+<P> The CDC said a total of 167 plague cases had been confirmed in India through Wednesday, out of a total of 5,150 suspected cases. This suggests that many suspected cases were not true plague cases, the CDC said in its weekly report on health issues. </P>
+<P> The most worrisome cases were of pneumonic plague, caused by a bacterium that invades the lungs and can be easily spread through airborne droplets. Bubonic plague, caused by the same bacterium but far less infectious, is spread by fleas who have bitten infected rats. </P>
+<P> Indian authorities have advised doctors not to refer patients to plague facilities because of the number of people who have been misdiagnosed. Schools have re-opened in India and doctors have said the outbreak is under control. </P>
+<P> Dr Duane Gubler, director of the CDC's division of Vectorborne Infectious Diseases, said his agency has not advised Americans to cancel any trips to India, adding that travelers were at little risk ``especially if they don't go into the epidemic areas.'' </P>
+</TEXT>
+</DOC>

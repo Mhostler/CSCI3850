@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU007-0277.940815</DOCID>
+<TDTID>TDT001918</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/15/94 08:31</DATE>
+<TITLE> WHITE HOUSE READY FOR CRIME BILL COMPROMISE</TITLE>
+<HEADLINE> WHITE HOUSE READY FOR CRIME BILL COMPROMISE</HEADLINE>
+<SUBJECT> BC-USA-CRIME-COMPROMISE 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: adds quotes, background)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  White House Chief of Staff Leon Panetta said Monday that the Clinton administration was open to unspecified compromises with Republican critics of the crime bill that was defeated in the House last week. </P>
+<P> Panetta, speaking from the White House lawn on NBC's ''Today'' show, said President Clinton remained committed to preserving key elements of the $30 billion legislation, including a ban on military-style weapons. </P>
+<P> Panetta said Clinton also wanted to protect the bill's plan to put 100,000 more police officers on the streets, the three strikes-and-you're-out punishment provisions and ``some of the money for prevention plans'' that Republicans have blasted as pork barrel. </P>
+<P> ``But obviously, if there are ways to find some revisions that can get us back to the floor and to a crime program, we're willing to work with Republicans and Democrats, whoever, to get that done,'' the chief of staff said. </P>
+<P> His remarks seemed to suggest a new White House openness to compromise on the $7 billion in crime-prevention programs that have created the most controversy, including such things as midnight basketball leagues for inner-city youths. </P>
+<P> Senate Minority leader Bob Dole of Kansas said Sunday that the bill contained $9 billion in spending programs that have ''nothing to do with crime.'' </P>
+<P> The Republicans have pointed in particular to a $10 million grant for a criminal justice center at Lamar University in Beaumont, Texas, the alma mater of Representative Jack Brooks, chairman of the Judiciary Committee and head of the House conference on the bill. </P>
+<P> ``We are willing to work with both sides to try to find the compromises necessary to bring this crime bill back,'' Panetta said. ``There's no question about that.'' </P>
+<P> He added, however, that the administration would not accept a stripping out of the assault weapon ban as part of a possible compromise. </P>
+<P> ``We can't gut this crime bill. You can't just strip out the assault weapons ban. You can't just strip out the three strikes-you're-out. You've got to look at those kinds of revisions that can get you the votes to bring it back to the floor. That's what we care about.'' </P>
+<P> Clinton has launched an all-out campaign to recapture at least eight of the 225 House members -- 58 Democrats among them -- who voted to block consideration of the bill Thursday. </P>
+<P> On Sunday, the president, pressing what has come to be seen as a crucial test of his political strength, said that violence was ``eating out the heart of the country.'' </P>
+</TEXT>
+</DOC>

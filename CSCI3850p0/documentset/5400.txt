@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU001-0361.950402</DOCID>
+<TDTID>TDT012041</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/02/95 22:15</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-MARKETS-JAPAN-TURMOIL -2 TOKYO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> But intervention by both the U.S. central bank and the Bank of Japan had little effect on the market, which still doubts the United States' determination to defend its currency, bankers said. </P>
+<P> At 0206 GMT, the dollar stood at 86.77/87 yen and 1.3755/65 marks compared to its New York close on Friday of 86.55/65 yen and 1.3725/35 marks. The U.S. currency had hit a post-World War Two global low of 86.30 yen in New York. </P>
+<P> The Tokyo stock market's Nikkei average ended the morning down 4.40 percent or 709.98 points to 15,429.97, as the yen's strength threatened to squeeze Japanese exporters' profits and suffocate a shaky economic recovery. </P>
+</TEXT>
+</DOC>

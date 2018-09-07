@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0103.940918</DOCID>
+<TDTID>TDT003618</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/18/94 17:04</DATE>
+<TITLE> Nigerian soccer champions in Algeria plane crash</TITLE>
+<HEADLINE> Nigerian soccer champions in Algeria plane crash</HEADLINE>
+<SUBJECT> BC-NIGERIA-CRASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TUNIS, Tunisia (Reuter) </DATELINE>
+<P>  An aircraft carrying Nigeria's soccer club champions home from an African Champions' Cup match in Tunisia crashed in southern Algeria Sunday, killing four people and injuring 24, Algerian radio reported. </P>
+<P> The soccer player was named later as Omalie Aimuanmwosa. The three other people who died were identified as the aircraft's captain, his co-pilot and the flight attendant. </P>
+<P> Hospital officials told the Algerian news agency APS that the 24 injured were out of danger. Two of them had already left hospital. </P>
+<P> The Nigerian plane, an Oriental Airlines BAC 111 flying from Tunis to Lagos with 32 passengers and seven crew members on board, crashed while attempting an emergency landing at Tamanrasset's Aganat airport, the radio and APS said. </P>
+</TEXT>
+</DOC>

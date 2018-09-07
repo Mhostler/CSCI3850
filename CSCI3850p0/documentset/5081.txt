@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU011-0123.950321</DOCID>
+<TDTID>TDT011533</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/21/95 18:51</DATE>
+<TITLE> Tax cuts losing steam in Congress</TITLE>
+<HEADLINE> Tax cuts losing steam in Congress</HEADLINE>
+<SUBJECT> BC-TAXES 1STLD </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES>(New throughout; White House, Dole &AMP; Gingrich comment)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Republican promise to cut taxes began losing steam in both houses of Congress Tuesday as members sought to cut back or eliminate tax cuts that might interfere with a balanced budget. </P>
+<P> The squabbling provided a wedge for the White House to try to exploit increased dissatisfaction with Republican proposals to cut spending. </P>
+<P> The House is soon to consider $188 billion in tax cuts over five years, which would require spending cuts at a time of public doubt over Republican plans to cut spending. </P>
+<P> A Washington Post poll published Tuesday found 59 percent of those surveyed believe Republican spending cuts will go too far in helping the rich and in cutting needed government services. Earlier polls have also shown resistance to tax cuts. </P>
+<P> Senate Finance Commitee Chairman Bob Packwood has said repeatedly this week that cutting red ink is his top priority, and cutting taxes the last on his list. </P>
+<P> But on Tuesday, Senate Majority Leader Bob Dole, R-Kan., pooh-poohed the idea that tax cuts might be out of the picture. </P>
+<P> ``In my view we are going to have a tax cut,'' Dole told reporters, giving no figures. ``It's going to be substantial'' and include capital gains cuts and family oriented cuts, he said. </P>
+<P> Meanwhile, two House Republicans led a rebellion against provisions of the ``Contract with America'' and tried to rein in one tax cut for the rich. </P>
+<P> Greg Ganske of Iowa and Pat Robertson of Kansas gathered 102 signatures from Republican colleagues, including 35 freshmen and 10 committee chairmen, seeking to deny the wealthy a $500-per-child tax cut. Their letter said House members should be allowed to vote to exclude families earning more than $95,000 in adjusted gross income from the tax break. </P>
+<P> Adjusted gross income usually includes only about two-thirds of a family's total income. Under the bill as approved in committee, families earning up to $200,000 in adjusted gross income get the break. </P>
+<P> White House Budget Director Leon Panetta seized on the letter, saying it moved Republicans in the direction of President Clinton's proposed tax cuts -- which Panetta and Treasury Secretary Robert Rubin continued to promote. </P>
+<P> ``We want to take this time to commend those Republicans who signed the letter,'' Panetta said. </P>
+<P> House Speaker Newt Gingrich moved immediately to squelch the rebellion. After meeting with him Monday night, Ganske and Roberts abruptly canceled a news conference to discuss their letter. </P>
+<P> Gingrich wrote in the Wall Street Journal Tuesday that the tax credit should include those who earn $200,000 because Americans ``should be equal in the eyes of the Internal Revenue Service.'' </P>
+<P> But 102 Republicans, combined with the 204 Democrats in the 435-member House, would constitute more than a majority against him. Bowing to that majority, Gingrich conceded: </P>
+<P> ``Some members feel strongly that they would like to have it targeted a little more than it is now and I don't think that's out of the question.'' </P>
+<P> In the Senate there is much less timidity about tossing out tax cuts. Packwood went to a retreat with members of his committee over the weekend and found most of them from both parties sympathetic to balancing the budget. He said a constitutional balanced budget amendment was unnecessary. </P>
+<P> ``We can do it,'' he told a business audience Monday. ``We don't need a balanced budget amendment.'' </P>
+<P> Any proposed tax cut would have to clear Packwood's committee. He said $700 billion of the $1 trillion in cuts needed to balance the budget by 2002 would be in his committee's jurisdiction, including welfare and Medicare. </P>
+</TEXT>
+</DOC>

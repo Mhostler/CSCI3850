@@ -1,0 +1,43 @@
+<DOC>
+<DOCID>REU010-0126.950515</DOCID>
+<TDTID>TDT013828</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/15/95 11:09</DATE>
+<TITLE> Schedule of forthcoming world elections</TITLE>
+<HEADLINE> Schedule of forthcoming world elections</HEADLINE>
+<SUBJECT> BC-REUTER WORLD ELECTIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> National and local elections scheduled to take place around the world during the next six months. </P>
+<P> BELGIUM - General elections. </P>
+<P> TUNISIA - Municipal elections. </P>
+<P> SCOTLAND - British parliamentary by-election for the Scottish seat of Perth and Kinross caused by the death of sitting Conservative MP Sir Nicholas Fairbairn. </P>
+<P> INDIA - By-elections due for nine seats of the lower house (Lok Sabha) in Andhra Pradesh, Haryana, Madhya Pradesh, Tamil Nadu, Uttar Pradesh and Delhi. </P>
+<P> Also state assembly by-elections for total of 20 seats in Andhra Pradesh, Himachal Pradesh, Kerala, Madhya Pradesh, Manipur, Nagaland, Punjab, Rajasthan, Uttar Pradesh and West Bengal. </P>
+<P> SPAIN - Nationwide municipal elections. </P>
+<P> MEXICO - State elections in Yucatan and Guanajuato. </P>
+<P> CHAD - Much-delayed transition to democracy begins with a month-long electoral census beginning June 1. </P>
+<P> UNITED STATES - Runoff round in mayoral election in Denver, Colorado between Denver city councilwoman Mary DeGroot and incumbent Wellington Webb. </P>
+<P> CANADA - Ontario province holds legislative elections. </P>
+<P> FRANCE - First round of French nationwide municipal elections. </P>
+<P> ITALY - TV anti-trust referendum held, to ask voters if they want to repeal an article of the so-called Mammi Law in 1990, which allowed private individuals to own more than one television network and which sanctioned media mogul Silvio Berlusconi's ownership of three private channels. </P>
+<P> GUINEA - Country's first multi-party parliamentary elections (election has been postponed several times). The two million Guineans living abroad not allowed to vote. </P>
+<P> FRANCE - Second, runoff round of French nationwide municipal elections. </P>
+<P> HAITI - First round of voting in general elections now to take place on June 25 (postponed from June 4); runoff round set for July 16. </P>
+<P> SOUTH KOREA - Local elections for heads and council members of main cities and provincial governments. </P>
+<P> JORDAN - Municipal elections planned in major centers, including Amman, neighboring Zarqa and Akaba. </P>
+<P> MEXICO - State elections in Queretaro. </P>
+<P> ARMENIA - Parliamentary elections and referendum on new constitution. </P>
+<P> CUBA - First round of municipal council elections; second round July 16. Local councillors hold their posts for two and a half years. </P>
+<P> HAITI - Runoff second round in general elections for undecided parliamentary seats (postponed from June 25). </P>
+<P> CUBA - Second and final round of municipal council elections. Local councillors hold their posts for two and a half years. </P>
+<P> JAPAN - National Upper House elections for half the chamber. </P>
+<P> MEXICO - State elections in Baja California. </P>
+<P> HONG KONG - Legislative Council elections. </P>
+<P> UNITED STATES - Open primary election in state of Louisiana for governor, state house and state senate seats; November 18, 1995 is the general election. </P>
+<P> SWITZERLAND - General elections. </P>
+<P> LIBERIA - (TENTATIVE) Presidential and parliamentary elections rescheduled; Nov 14 is new date set by Liberian treaty, signed on Dec 21. (Delayed from Oct 10). </P>
+</TEXT>
+</DOC>

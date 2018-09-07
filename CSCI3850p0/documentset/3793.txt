@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU007-0043.950116</DOCID>
+<TDTID>TDT009336</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/16/95 04:37</DATE>
+<TITLE> Spain's baby Jesus loses three week fight for life</TITLE>
+<HEADLINE> Spain's baby Jesus loses three week fight for life</HEADLINE>
+<SUBJECT> BC-SPAIN-BABY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEVILLE, Spain (Reuter) </DATELINE>
+<P>  A baby named Jesus, pronounced still-born on Christmas Day and then rushed to a hospital when his father found he was still alive, has died after three weeks in intensive care. </P>
+<P> Jesus Perejon, born 24 weeks after conception and weighing just 24.7 ounces, developed liver complications and died Saturday night, a hospital spokesman said. </P>
+<P> Doctors first pronounced the baby dead shortly after his birth Dec. 25. His father gave permission for an autopsy but asked to see the baby one last time and was amazed to see him move. Jesus was rushed from the mortuary to Seville's Infant Hospital but doctors could not save him. </P>
+</TEXT>
+</DOC>

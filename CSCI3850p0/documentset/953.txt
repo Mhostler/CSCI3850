@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU011-0058.940823</DOCID>
+<TDTID>TDT002345</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/23/94 15:55</DATE>
+<TITLE> MASSACHUSETTS INDIANS TO BUILD $175 MILLION CASINO</TITLE>
+<HEADLINE> MASSACHUSETTS INDIANS TO BUILD $175 MILLION CASINO</HEADLINE>
+<SUBJECT> BC-USA-GAMBLING </SUBJECT>
+<AUTHOR>     By Michael Ellis </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  The 175-member Wampanoag Indian tribe reached agreement Tuesday with Massachusetts to build a $175 million casino and theme park in New Bedford. </P>
+<P> The agreement with the state would create only the second gambling facility in New England on the location 50 miles south of Boston. </P>
+<P> The tribe, which depends on federal assistance to support their reservation on Martha's Vineyard, an island off the Massachusetts coast, will take into trust a golf course on the mainland for a casino. </P>
+<P> Beverley Wright, head of Wampanoag executive council, said the casino and theme park mean ``economic stability for the tribe.'' </P>
+<P> The gambling center and theme park, including a 400-bed hotel, will cover more than 75,000 square feet and is expected to create 5,000 to 7,000 jobs. </P>
+<P> The state and Bristol County, where New Bedford is located, will collect a targetted $105 million annually from the casino. </P>
+<P> Under the deal, Massachusetts will get 25 percent of the annual gross revenues and Bristol County, which has suffered from the downturn in the fishing industry, will get another 10 percent. </P>
+<P> The New Bedford casino is expected to spur other gambling operations to open in the state and New England. </P>
+<P> Horse-racing tracks will be allowed to install up to 400 slot machines under the terms of the state's agreement with the Wampanoag tribe. ``Obviously the tracks would need something to compete with the casinos, otherwise we would be in danger of going out of business,'' T.D. Thornton, a spokesman for the Suffolk Downs track in Boston told Reuters. </P>
+<P> Riverside Park in Agawam, Massachusetts, the largest amusement park in New England, also said today it is planning to launch a riverboat casino. </P>
+<P> The agreement for the Wampanoags represents a potential bonanza for a tribe that more than 300 years ago was nearly wiped out by settlers. </P>
+<P> Their planned development may rival the other casino in New England, the Foxwoods Casino in Connecticut, operated by the Mashantucket Pequot Indians who are raking in nearly $800 million a year. </P>
+</TEXT>
+</DOC>

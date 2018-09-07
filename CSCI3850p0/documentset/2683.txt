@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0437.941118</DOCID>
+<TDTID>TDT006689</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/18/94 06:22</DATE>
+<TITLE> Sarajevo airlift down after Canadian plane hit</TITLE>
+<HEADLINE> Sarajevo airlift down after Canadian plane hit</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-AIRLIFT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GENEVA (Reuter) </DATELINE>
+<P>  The international humanitarian airlift to Sarajevo has been suspended after a Canadian plane was hit by small arms fire Thursday, a United Nations spokeswoman said Friday. </P>
+<P> The bullet holes were only noticed after the C-130 Transall aircraft had returned safely to Italy's Ancona air base. </P>
+<P> ``The airlift is down,'' a spokeswoman for the U.N. High Commissioner for Refugees (UNHCR), the main relief organization in former Yugoslavia, told a news briefing in Geneva. </P>
+<P> Military officials from the five countries -- Canada, U.S. France, Britain and Germany -- participating in the airlift will discuss later Friday whether to resume the operation Saturday, according to the spokeswoman. </P>
+<P> The airlift is the main lifeline for the Bosnian capital's 400,000 residents, who are surrounded by Bosnian Serb forces. About 15 flights land each day, depending on the weather. </P>
+<P> Last week the airlift and land convoys brought some 2,350 metric tons of food and winter supplies to Sarajevo. </P>
+</TEXT>
+</DOC>

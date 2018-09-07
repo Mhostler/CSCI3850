@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU014-0268.941031</DOCID>
+<TDTID>TDT005821</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/31/94 16:15</DATE>
+<TITLE> Brazil president orders troops to fight Rio crime</TITLE>
+<HEADLINE> Brazil president orders troops to fight Rio crime</HEADLINE>
+<SUBJECT> BC-BRAZIL-RIO-TROOPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRASILIA, Oct 31 (Reuter) </DATELINE>
+<P>  Brazilian President Itamar Franco has ordered a military-led crackdown on drug gangs terrorizing Rio de Janeiro, Justice Minister Alexandre Dupeyrat said on Monday. </P>
+<P> Dupeyrat, accompanied by Rio governor Nilo Batista, said the military would oversee a joint command of police forces in the city, provide ``operation support'' to police and tackle the smuggling of drugs and arms. </P>
+<P> ``We believe this measure will allow us, if not in short term, then in the medium term to significantly reduce the violence that is affecting above all innocent people,'' he told reporters. </P>
+</TEXT>
+</DOC>

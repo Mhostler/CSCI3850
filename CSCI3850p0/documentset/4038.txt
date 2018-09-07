@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU013-0312.950129</DOCID>
+<TDTID>TDT009893</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/29/95 21:00</DATE>
+<TITLE> Sundance Film Festival closes with record attendance</TITLE>
+<HEADLINE> Sundance Film Festival closes with record attendance</HEADLINE>
+<SUBJECT> BC-SUNDANCE </SUBJECT>
+<AUTHOR>     By John Gutman </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARK CITY, Utah (Reuter) </DATELINE>
+<P>  The Sundance Film Festival, the pet project of actor-director Robert Redford, closed its 11-day run Sunday, racking up record attendance, officials said. </P>
+<P> Some 8,000 tickets were sold to producers, directors and film lovers, up from about 6,500 last year, a festival official said. </P>
+<P> ``Every single show sells out and there are waiting lists to get in every film,'' said Joan Calder, spokeswoman for the Park City Chamber of Commerce and liaison to the festival. </P>
+<P> Sunday's showing focused on the winners of the grand prizes awarded Saturday night to ``The Brothers McMullen,'' a dramatic film about three Irish-Catholic brothers in New York and the documentary ``Crumb'' about 1960s cartoonist R. Crumb. </P>
+<P> The festival, which is seen as the single most important showcase of American independent cinema, honors independent, often non-mainstream film projects and has been growing in popularity through the years. </P>
+<P> ``The Brothers McMullen,'' directed by Edward Burns, chronicles the lives and relationships of three brothers who find themselves living together again as adults. </P>
+<P> ``Crumb,'' by Terry Zwigoff, which also won the Cinematography Award, is a study of the life and work of cartoonist and pop artist R. Crumb, best known for his ``Keep on Truckin''' pop art work, Janis Joplin's ``Cheap Thrills'' album cover and the cartoon character Fritz the Cat. </P>
+<P> Other past winners at the festival include the documentary ''Paris is Burning'' and the commercially successful ``sex, lies and videotape.'' </P>
+<P> The hugely popular ``Four Weddings and a Funeral,'' filmed in the United Kingdom and starring Hugh Grant and Andie MacDowell was shown here last year. </P>
+<P> The Audience Award, which goes to the independent film that will likely be showcased the most, went to ``Picture Bride,'' directed by Kayo Hatta. </P>
+<P> Set in colonial Hawaii, it is the story of a young Japanese woman who prepares to marry a man she doesn't know and work on a sugar cane plantation. It is a look at a generation of migrant women in the South Pacific early in the twentieth century. </P>
+</TEXT>
+</DOC>

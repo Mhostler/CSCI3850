@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU003-0194.940805</DOCID>
+<TDTID>TDT001536</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/05/94 19:20</DATE>
+<TITLE> FIDEL CASTRO SAYS TWO POLICEMEN KILLED IN EXIT ATTEMPT</TITLE>
+<HEADLINE> FIDEL CASTRO SAYS TWO POLICEMEN KILLED IN EXIT ATTEMPT</HEADLINE>
+<SUBJECT> BC-CUBA-DISTURBANCE-CASTRO 1STLD URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  Cuban President Fidel Castro said Friday two policemen were killed Thursday in an illegal attempt to leave the country, the Cuban news agency Prensa Latina reported. </P>
+<P> Prensa Latina quoted Castro as giving the news while he was visiting the scene of disturbances that had taken place earlier in the day in a district of Havana. </P>
+<P> Small groups of people throwing stones had clashed with police in a seafront district of the Cuban capital. </P>
+</TEXT>
+</DOC>

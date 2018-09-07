@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU009-0275.941119</DOCID>
+<TDTID>TDT006768</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/19/94 16:53</DATE>
+<TITLE> Baseball talks recess until after Thanksgiving</TITLE>
+<HEADLINE> Baseball talks recess until after Thanksgiving</HEADLINE>
+<SUBJECT> BC-BASEBALL 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Updates with talks recessing)</NOTES>
+<DATELINE>HERNDON, Va.(Reuters) </DATELINE>
+<P>  Talks between the striking Major League Baseball Players Association and the owners recessed Saturday afternoon with no response from players to the 102-page luxury tax proposal submitted by the owners Thursday. </P>
+<P> Federal Mediator Bill Usery scheduled the next round of talks for Nov. 28 -- the Monday after Thanksgiving. </P>
+<P> Donald Fehr, executive director of the Players Association, said he needed more time to evaluate the luxury tax proposal. ''It is very long and very complicated. You can't evaluate it completely if you don't understand it,'' Fehr said earlier in the day. </P>
+<P> ``We have our economists looking at it, but we have many questions.'' </P>
+<P> Usery, appointed by President Clinton after the players Aug. 12 walkout wiped out post-season play and the World Series for the first time since 1904, was less optimistic Saturday morning than when the meetings started Thursday. </P>
+<P> Usery said, ``The pressure is on both sides to reach an agreement. I didn't think when we came in here this weekend that we would reach an agreement yet. We will keep on talking. The players have numerous questions about the proposal.'' </P>
+<P> John Harrington, the CEO of the Boston Red Sox and the chief negotiator for the owners, said, ``We have had two positive meetings. The players are asking a lot of questions, which we are trying to address.'' </P>
+<P> Reports have indicated that under the plan, any team whose aggregate salaries exceeded $34 million would be subject to a stiff luxury tax -- which would go into a fund to be distributed among money-losing teams. </P>
+<P> On that basis if a team signed a player for $5 million and had already reached the $34 million-cap, the team would have to funnel an additional $3.5 million into the fund. </P>
+</TEXT>
+</DOC>

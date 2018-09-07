@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU013-0304.950325</DOCID>
+<TDTID>TDT011715</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/25/95 17:10</DATE>
+<TITLE> Canada threatens action as fishing talks stall</TITLE>
+<HEADLINE> Canada threatens action as fishing talks stall</HEADLINE>
+<SUBJECT> BC-FISH-CANADA </SUBJECT>
+<AUTHOR>     By Tanya Willmer </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ST. JOHN'S, Newfoundland (Reuter) </DATELINE>
+<P>  Canada raised the threat of further action against Spanish trawlers fishing in disputed waters off the coast of Newfoundland Saturday as talks with the European Union to settle their bitter fish dispute appeared destined for failure. </P>
+<P> ``It is with a deep sense of regret that we consider again the possibility of having to take any direct measures,'' Canadian Fisheries Minister Brian Tobin told reporters Saturday. </P>
+<P> ``We are looking at the strong possibility that at least this round of discussions have left us without a negotiated solution. If that is the case then we will have to look at our operational options that are open to us, including the use of the warp cutters.'' </P>
+<P> Two Canadian patrol boats equipped with warp cutters -- used to cut cables that connect fishing nets to the trawlers -- headed out Saturday from St. John's to the Grand Banks of the north Atlantic just outside Canada's 200 mile limit where Spanish vessels have resumed fishing. </P>
+<P> The dispute was sparked March 9 when Canada seized a Spanish factory trawler, the Estai, in international waters and charged its captain with illegal fishing for Greenland halibut, also known as turbot. Canada released the seized trawler. </P>
+<P> Canada has so far resisted taking further action while talks are going on even though 12 Spanish trawlers are again fishing in the disputed area off the nose of the Grand Banks. </P>
+<P> ``We are considering all options. The options range from arrest to use of warp cutter to use of techniques to prevent these vessels from having a succesful day of fishing,'' Tobin said. </P>
+<P> ``We shall see in the next few days which ones are employed and where and how they are employed...,'' he said. </P>
+<P> ``It is equally clear that Canada has not been able to reach an agreement at this stage ... on effective rules and that Canada will now have to examine other options.'' </P>
+<P> Ottawa, which imposed a 60-day moratorium on fishing on the Grand Banks, is waiting to assess the progress of the latest round of the high-level negotiations with the EU which started in Vancouver Thursday night. </P>
+<P> Canada has accused European fleets, mainly Spanish vessels, of overfishing for turbot and is pushing for tougher conservation measures. The EU has accused Ottawa of piracy over its seizure of the Estai and wants a greater share of the international 27,000 ton turbot quota. </P>
+</TEXT>
+</DOC>

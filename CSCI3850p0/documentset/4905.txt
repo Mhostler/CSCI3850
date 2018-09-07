@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0170.950314</DOCID>
+<TDTID>TDT011263</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/14/95 07:02</DATE>
+<TITLE> Britain to make N.Ireland troop cuts-sources</TITLE>
+<HEADLINE> Britain to make N.Ireland troop cuts-sources</HEADLINE>
+<SUBJECT> BC-IRISH-TROOPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain will announce a reduction in the number of its troops on duty in Northern Ireland later Tuesday, British government sources said. </P>
+<P> The government has been steadily lowering the profile of security forces on the streets of the British-ruled province since the Irish Republican Army and Protestant guerrilla groups declared cease-fires six months ago. </P>
+</TEXT>
+</DOC>

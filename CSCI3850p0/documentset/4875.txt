@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0230.950312</DOCID>
+<TDTID>TDT011221</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/12/95 15:13</DATE>
+<TITLE> Christopher to visit Paris for Yugoslavia talks</TITLE>
+<HEADLINE> Christopher to visit Paris for Yugoslavia talks</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-CHRISTOPHER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Secretary of State Warren Christopher will visit Paris this week for talks on arranging a summit on former Yugoslavia, French Foreign Minister Alain Juppe said Sunday. </P>
+<P> Juppe said on Radio Luxembourg that Christopher would stop over on his way back from the Middle East to discuss a five-power plan for a summit of leaders of Serbia, Bosnia and Croatia, which has run into trouble. </P>
+<P> ``Alas, I am having great difficulty in bring about this initiative,'' Juppe said. ``Croatia and Bosnia have given their agreement in principle. For the moment things are still stuck in Serbia.'' </P>
+<P> Serbian President Slobodan Milosevic has demanded relief from U.N. economic sanctions and international recognition for his rump Yugoslav republic before a summit, proposed by the mutinatiional contact group comprising the United States, Russia, France, Britain and Germany. </P>
+<P> ``We must not allow ourselves to get discouraged. We must keep up the pressure. If we do not manage to carry out this initiative, there is a great risk that the war will resume,'' Juppe said. </P>
+<P> He said Russian leaders had assured him of their support for the initiative in Moscow last week and the next step would be to discuss it with Christopher while continuing negotiations with Belgrade. </P>
+</TEXT>
+</DOC>

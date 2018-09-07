@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0278.940810</DOCID>
+<TDTID>TDT001727</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/10/94 23:02</DATE>
+<TITLE> SENATE VOTES TO LIMIT MARINES' SOMALIA STAY</TITLE>
+<HEADLINE> SENATE VOTES TO LIMIT MARINES' SOMALIA STAY</HEADLINE>
+<SUBJECT> BC-SOMALIA-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Senate voted Wednesday night to keep 58 anti-terror U.S. Marine specialists in Somalia no later than October 30. </P>
+<P> It approved 54-44 the time limit proposed by Senator Dirk Kempthorne, an Idaho Republican. </P>
+<P> The Defense Department had planned to take the 58 Marine anti-terrorism security team members out of Somalia August 14 but has announced they will stay longer, a tacit admission that a contract security force has not been formed so far to take their place in Mogadishu. </P>
+<P> Kempthorne was among 12 Senate Armed Services Committee members who urged President Clinton in July to withdraw all U.S. troops and diplomats from Somalia by August 14 because of increasing violence and poor prospects of achieving a peace agreement among clans in Mogadishu. </P>
+<P> But Kempthorne said the measure approved by the Senate Wednesday night would only require that the 58 Marines be withdrawn by October 30. </P>
+<P> He said it would not bar the Clinton administration from replacing them with other U.S. troops. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU012-0160.941228</DOCID>
+<TDTID>TDT008558</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/28/94 11:02</DATE>
+<TITLE> Liberia cease-fire set for midnight</TITLE>
+<HEADLINE> Liberia cease-fire set for midnight</HEADLINE>
+<SUBJECT> BC-LIBERIA-CEASEFIRE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MONROVIA, Liberia (Reuter) </DATELINE>
+<P>  A cease-fire agreed by Liberia's civil war foes was due to take effect at midnight (7 p.m. EST) Wednesday, but U.N. observers and an African peace force said a monitoring system had yet to be completed. </P>
+<P> The United Nations mission, set up in September 1993 to monitor a previous accord, was slashed from 360 men to 80 after 43 observers were seized by warring militiamen. </P>
+<P> A multilateral African peace force was sent to Liberia by a group of West African States in August 1990, eight months after Charles Taylor launched the civil war. </P>
+<P> Liberia, Africa's oldest independent republic, was set up by freed American slaves in 1847. An estimated 150,000 people have died in civil war and related violence since Taylor's rebels invaded. </P>
+<P> The African force, named ECOMOG, numbered about 3,000 troops but was enlarged to some 12,000, including troops from Uganda and Tanzania, to supervise disarmament of up to 60,000 militia fighters under the July 1993 peace accord. </P>
+<P> But few gunmen have disarmed. </P>
+<P> Many Liberians fear the latest agreement signed last week in Ghana may go the way of the prior accord in which the timetable for disarmament and elections fell apart, partly due to delays in funding and deploying the U.N. and ECOMOG forces. </P>
+<P> Already one of the parties to the Dec. 21 Accra treaty is saying he wants no more part of it. </P>
+<P> ``This is not the kind of agreement I can live with. It was forced down our throats by the Ghanaians,'' Lofa Defense Force leader Francois Massaquoi told a news conference Tuesday. </P>
+<P> The accord divides power in an interim government between a civilian national conference, Taylor's National Patriotic Front of Liberia, a local militia, a tribal chief chosen jointly by the National Patriotic Front and the militia and coalition of clan leaders, among them Massaquoi. </P>
+<P> Under the agreement, the new rulers take office 14 days after the start of the cease-fire but do not disarm their men until next April. Elections are scheduled for Nov. 14. </P>
+</TEXT>
+</DOC>

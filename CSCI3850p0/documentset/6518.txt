@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU009-0099.950513</DOCID>
+<TDTID>TDT013756</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/13/95 05:10</DATE>
+<TITLE> Explosion reported at Tokyo Narita Airport - NHK</TITLE>
+<HEADLINE> Explosion reported at Tokyo Narita Airport - NHK</HEADLINE>
+<SUBJECT> BC-JAPAN-EXPLOSION URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO, May 13 (Reuter) </DATELINE>
+<P>  A loud explosion shook a men's rest room at Tokyo's Narita International Airport on Saturday afternoon and caused a small fire but no injuries, NHK public broadcasting reported. </P>
+<P> Investigators found a long iron pipe in a third floor men's room of the second terminal of Narita Airport, suggesting the perpetrators were attempting to fire a projectile, NHK said. </P>
+</TEXT>
+</DOC>

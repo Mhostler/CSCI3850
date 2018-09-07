@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU006-0129.940912</DOCID>
+<TDTID>TDT003260</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/12/94 21:07</DATE>
+<TITLE> FAA, Boeing knew of thrust reverser problem on 737s</TITLE>
+<HEADLINE> FAA, Boeing knew of thrust reverser problem on 737s</HEADLINE>
+<SUBJECT> BC-USA-CRASH-THRUST </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A federal agency and the maker of the USAir plane that crashed near Pittsburgh both knew the model involved had a dangerous machinery problem, ABC News reported Monday. </P>
+<P> The network said the Federal Aviation Administration and plane manufacturer Boeing were both aware that thrust reversers on 737's could make them unsafe. </P>
+<P> Investigators are looking closely at piece of the plane recovered from the site in Pennsylvania where USAir flight 47 crashed last Thursday, killing 132. </P>
+<P> Wreckage suggests half of the thrust reverser on the right side engine may have improperly engaged in mid-air, ABC said. </P>
+<P> The crash occured as the USAir plane approached Pittsburgh International Airport. Thrust reversers, which help a plane slow down, have safety devices to keep them from engaging and sending the aircraft veering sharply. </P>
+<P> ABC noted that a Boeing 767, with a similar engine configuration to the 737, plunged into the jungle in Thailand, killing 223 people. The Thai government investigation said the cause of the crash was the mid-air engagement of the thrust reverser. </P>
+<P> Boeing and other manufacturers started redesigning thrust reversers after that accident. </P>
+<P> In December, 1992 Boeing issued a bulletin to operators of its 737 recommending changes to the thrust reverser system. </P>
+<P> USAir said it began modifications on the 737 that crashed last week, but stopped the work because Boeing said the new design was not working properly. </P>
+<P> In July, Boeing issued another design, but the FAA has not made the modifications mandatory. </P>
+<P> Senator Frank Lautenberg, a New Jersey Democrat, has asked the Transportation Department to investigate safety procedures at USAir Air Group Inc following the airline's fifth fatal crash in five years Thursday. </P>
+<P> ``If there is a problem, it needs to be identified and corrected. If USAir is operating in accordance with all safety procedures, the American public needs to know that too,'' Lautenberg wrote Transportation Secretary Federico Pena. </P>
+</TEXT>
+</DOC>

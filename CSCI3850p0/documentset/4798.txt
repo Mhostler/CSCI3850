@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU004-0386.950308</DOCID>
+<TDTID>TDT011099</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/08/95 19:12</DATE>
+<TITLE> House votes to restrict shareholder lawsuits</TITLE>
+<HEADLINE> House votes to restrict shareholder lawsuits</HEADLINE>
+<SUBJECT> BC-SECURITIES-VOTE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The House Wednesday voted to make it harder for shareholders of companies to file fraud suits because the price of their stock dropped sharply. </P>
+<P> The bill, which passed 325-99, is aimed at ``strike'' suits filed on behalf of shareholders who allege that the companies they invested in misrepresented their financial prospects. It would set stricter standards of proof for securities fraud lawsuits, impose a loser-pays rule and establish plaintiff steering committees for class-action suits. </P>
+</TEXT>
+</DOC>

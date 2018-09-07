@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0409.940915</DOCID>
+<TDTID>TDT003465</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/15/94 19:00</DATE>
+<TITLE> NBC says U.S. to send emissary to Haiti</TITLE>
+<HEADLINE> NBC says U.S. to send emissary to Haiti</HEADLINE>
+<SUBJECT> BC-HAITI-USA-EMISSARY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton will send a special emissary to Haiti for one final warning to the country's military leaders, NBC News reported Thursday. </P>
+<P> It also said that military leader Lieutenant-General Raoul Cedras has offered to resign but laid out conditions that the United States found unacceptable. </P>
+<P> It said Cedras made the offer within the last 48 hours, using former Jamaican Prime Minister Edward Seaga as a go-between. </P>
+<P> NBC said Cedras offered to hold new elections right away, but insisted that President Jean-Bertrand Aristide, who was ousted in a coup three years ago, could not take part. </P>
+<P> Cedras also reportedly demanded that the United States recognize the de facto government and allow him to remain in the country. </P>
+</TEXT>
+</DOC>

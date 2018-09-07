@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU009-0349.941220</DOCID>
+<TDTID>TDT008246</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/20/94 21:04</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-MEXICO-CHIAPAS -2 SIMOJOVEL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The large, heavily armed force drove into the town without incident and were greeted by residents who lined the streets and applauded their arrival. </P>
+<P> Townspeople told Reuters about 40 armed men moved into Simojovel Monday, burned records in the city hall, then left Monday afternoon. The men wore the trademark masks of the Zapatistas, but denied they were rebel troops, the townspeople said. </P>
+<P> Despite their claims, the takeovers appeared to be part of widespread troop movements by the Zapatistas, who are threatening to renew fighting in troubled Chiapas. </P>
+</TEXT>
+</DOC>

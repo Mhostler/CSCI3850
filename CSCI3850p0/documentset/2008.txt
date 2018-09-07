@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU007-0150.941014</DOCID>
+<TDTID>TDT005022</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/14/94 04:49</DATE>
+<TITLE> Italian unions go on strike in bid to block budget</TITLE>
+<HEADLINE> Italian unions go on strike in bid to block budget</HEADLINE>
+<SUBJECT> BC-ITALY </SUBJECT>
+<AUTHOR>     By Yann Tessier </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  A general strike against Italy's 1995 cost-cutting budget brought parts of the country to a standstill Friday, hitting transport, public services and government offices. </P>
+<P> Trade unions, which represent some 11 million workers, had called for a four-hour stoppage but members in many cities said they would strike for the whole day. </P>
+<P> Garbage remained in the streets, banks were closed and newspapers were not published as part of a protest aimed at persuading Prime Minister Silvio Berlusconi to rewrite the budget. </P>
+<P> Rail and air transport were scaled back to skeleton services while hospitals were handling only emergency cases. </P>
+<P> Italy's three big trades unions -- the CGIL, CISL and UIL -- expected some three million of the country's 20 million workers to march in demonstrations in some 20 cities. </P>
+<P> Confapi, a group which represents small businesses, estimated that the strike would cost Italy's debt-laden economy some five trillion lire ($3.3 billion). </P>
+<P> ``These trillions will be burned on the altar of a protest at a budget which is as unavoidable as it is painful,'' it said. </P>
+<P> Thousands of police were called out to provide security at the demonstrations amid fears that they could turn violent. </P>
+<P> The largest protests were expected in Rome and Milan. </P>
+<P> Unions intend to continue to fight the budget, which must be passed by parliament by the end of the year. </P>
+<P> ``The strike will be a first decisive step in the fight ... to force a radical change in the government's economic policy and the 1995 budget,'' the unions said in a joint statement. </P>
+<P> Berlusconi wants to cut 27 trillion lire ($18 billion) from next year's government spending with savings in pensions, health and defense. </P>
+<P> Berlusconi, who owns a $7 billion a year business empire, flew to Moscow for a previously scheduled official visit on the eve of the stoppage. </P>
+<P> He plans to supplement the spending cuts with some 21 trillion lire ($14 billion) of increases in non-tax revenue to help cut Italy's $1.1 trillion debt mountain. </P>
+</TEXT>
+</DOC>

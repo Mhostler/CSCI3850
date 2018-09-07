@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU015-0042.940930</DOCID>
+<TDTID>TDT004238</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/30/94 09:13</DATE>
+<TITLE> Former French premier probed in AIDS scandal</TITLE>
+<HEADLINE> Former French premier probed in AIDS scandal</HEADLINE>
+<SUBJECT> BC-AIDS-FRANCE-PREMIER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  French Socialist former prime minister Laurent Fabius was placed under investigation Friday for being an accomplice to poisoning in a test of whether the government can be blamed for AIDS-tainted blood transfusions. </P>
+<P> Judges ordered Fabius, 48, to be probed over his role in the 1985 scandal in which half of France's 2,500 hemophiliacs were infected with the AIDS virus by transfusions from state blood banks. More than 400 haemophiliacs have died from the tainted transfusions. </P>
+<P> Fabius, whom the victims of contamination accuse of stalling the introduction of tests for blood donations when he was prime minister in 1984-86, denied any guilt as he left the courthouse. ``I took the decision that was needed,'' he said. </P>
+<P> Fabius is the highest-ranking official to be probed in the emotionally charged scandal, which contributed to the Socialists 1993 election rout. A similar investigation was opened earlier this week into his former ministers of social affairs, Georgina Dufoix, and health, Edmond Herve. </P>
+<P> The three face possible charges carrying a maximum penalty of 30 years in jail. But the investigation does not automatically lead to prosecution. </P>
+</TEXT>
+</DOC>

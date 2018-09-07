@@ -1,0 +1,60 @@
+<DOC>
+<DOCID>REU008-0343.941017</DOCID>
+<TDTID>TDT005164</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/17/94 11:46</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-REUTER WORLD ELECTIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> National and local elections scheduled to take place around the world during the six months beginning Friday October 21. </P>
+<P> MOSCOW - Russia's State Duma (parliament lower house) to take a formal vote of confidence in Prime Minister Viktor Chernomyrdin's government, following outcry over crash of rouble earlier this month. </P>
+<P> KYRGYZSTAN - Referendum on shape of new parliament. </P>
+<P> SPAIN - Basque regional elections. </P>
+<P> GREECE - Second round of nationwide municipal elections -- a run-off for candidates who did not receive over 50% of the vote. </P>
+<P> AFGHANISTAN - Grand assembly scheduled to elect new government leadership. </P>
+<P> PAKISTAN - Local council election in Northern Areas. </P>
+<P> MOZAMBIQUE - Country holds its first multi-party general elections (To October 28). </P>
+<P> COLOMBIA - Elections for provincial governors, mayors, town and city councillors and deputies to provincial assemblies. </P>
+<P> TAJIKISTAN - Presidential election and referendum on a new constitution. </P>
+<P> AUSTRIA - Salzburg province local council elections. </P>
+<P> UNITED STATES - Elections to 35 of the 100 seats in the Senate, all 435 seats in the House of Representatives and 36 state governors' seats. </P>
+<P> SRI LANKA - Presidential election. </P>
+<P> SWEDEN - National referendum on joining the European Union. </P>
+<P> NEPAL - National elections. </P>
+<P> ITALY - First round of city/town elections begin, and continue to December 15. Also three provincial elections in Trieste, Massa Carrara and Foggia. </P>
+<P> BRAZIL - Second round of national elections. </P>
+<P> GOA, India - Elections to state assembly. </P>
+<P> SIKKIM, India - Elections to state assembly. </P>
+<P> CZECH REPUBLIC - Local government elections (To Nov 19). </P>
+<P> UKRAINE - Parliamentary by-elections to fill 55 vacant seats. </P>
+<P> FINLAND - Finnish Aaland Islands hold own advisory referendum on joining the European Union. </P>
+<P> ITALY - First round of local elections in 17 towns in Sicily; citizens elect mayors and town councils. (Run-off elections on Dec 4.) </P>
+<P> HANOI - People's Council (local) elections throughout Vietnam. </P>
+<P> BANGALORE, India - First round of state assembly elections in Karnataka. </P>
+<P> NORWAY - National referendum on joining the European Union. </P>
+<P> BANGALORE, India - Second round of state assembly elections in Karnataka. </P>
+<P> TAIWAN - Elections for provincial assembly, along with first-ever polls for Taiwan provincial governor and city mayors including Taipei and Kaohsiung. </P>
+<P> TURKEY - By-elections in 15 constituencies in 13 provinces scheduled; polls will be held for 22 vacant seats of the 450-member parliament. </P>
+<P> ITALY - Run-off local elections in 17 towns in Sicily (first round took place Nov 20). </P>
+<P> NAMIBIA - (TENTATIVE) General elections (To Dec 7). Date yet to be formally endorsed by parliament. </P>
+<P> HUNGARY - Municipal government elections. </P>
+<P> ROME - Final day of city/town elections which started on November 15. </P>
+<P> KYRGYZSTAN - Parliamentary elections. </P>
+<P> EUROPE - Target date for admitting Austria, Sweden, Finland and Norway into the European Union. </P>
+<P> BENIN - Parliamentary elections. </P>
+<P> MOROCCO - (TENTATIVE) Self-determination referendum in Western Sahara. </P>
+<P> ESTONIA - Parliamentary elections. </P>
+<P> AUSTRIA - Lower Austria province local council elections. </P>
+<P> HONG KONG - Elections for the two regional councils. </P>
+<P> FINLAND - Parliamentary elections. </P>
+<P> UNITED STATES - Mayoral election in Chicago. </P>
+<P> PERU - General elections. </P>
+<P> FRANCE - First stage of presidential election to find successor to Socialist President Francois Mitterrand, stepping down after two seven-year terms. </P>
+<P> FRANCE - Second stage of presidential election. </P>
+<P> ARGENTINA - Presidential election. </P>
+</TEXT>
+</DOC>

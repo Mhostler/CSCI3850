@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0291.941108</DOCID>
+<TDTID>TDT006244</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/08/94 22:43</DATE>
+<TITLE> GOP Sen. Hutchison wins Texas Senate race</TITLE>
+<HEADLINE> GOP Sen. Hutchison wins Texas Senate race</HEADLINE>
+<SUBJECT> BC-ELECTION-TEXAS-SENATE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HOUSTON (Reuter) </DATELINE>
+<P>  Republican U.S. Sen. Kay Bailey Hutchison defeated Democrat Richard Fisher in the Texas U.S. Senate race, according to CBS and Dallas ABC affiliate WFAA TV. </P>
+<P> Hutchison led Fisher by 62 percent to 37 percent with about 10 percent of precincts reporting. </P>
+<P> Hutchison, a Dallas lawyer, was first elected to the Senate in a landslide victory in 1993 to fill the former seat of Democrat Lloyd Bentsen, who became President Clinton's Treasury Secretary. </P>
+<P> Within months of her election, Hutchison was indicted for allegedly misusing state employees and equipment while serving as State Treasurer, in charges she labelled a political vendetta by Democrats. </P>
+<P> She was acquitted last February when Austin Democratic District Attorney Ronnie Earle declined to present a case after losing a procedural argument. </P>
+<P> Fisher, a Dallas businessman, is a former Ross Perot adviser who won an upset victory in last spring's Democratic Senate primary. </P>
+</TEXT>
+</DOC>

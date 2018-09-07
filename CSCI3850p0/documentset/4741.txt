@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU003-0193.950306</DOCID>
+<TDTID>TDT011025</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/06/95 04:03</DATE>
+<TITLE> Bomb kills SLA soldier in south Lebanon</TITLE>
+<HEADLINE> Bomb kills SLA soldier in south Lebanon</HEADLINE>
+<SUBJECT> BC-LEBANON-SOUTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MARJAYOUN, Lebanon (Reuter) </DATELINE>
+<P>  One South Lebanon Army (SLA) militiaman was killed and two were wounded when a roadside bomb exploded in Israel's South Lebanon occupation zone Monday, SLA security sources said. </P>
+<P> The sources said the bomb exploded near an SLA post in the village of Houla. No group claimed responsibility for the attack. </P>
+<P> Muslim guerrillas, seeking to oust the Israelies from Lebanon, have been attacking the SLA which helps Israel defend the occupation zone. </P>
+</TEXT>
+</DOC>

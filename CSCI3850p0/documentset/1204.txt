@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0230.940907</DOCID>
+<TDTID>TDT002994</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/07/94 09:22</DATE>
+<TITLE> Cuba cuts demand for visas</TITLE>
+<HEADLINE> Cuba cuts demand for visas</HEADLINE>
+<SUBJECT> BC-CUBA-TALKS-REPORT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  The Cuban government has substantially reduced its demand for U.S. visas but is demanding that Washington lift its recent ban on cash remittances to Cuba, the Miami Herald reported Wednesday. </P>
+<P> Unnamed sources close to the week-long talks said Havana has offered to settle for around 28,000 U.S. visas for would-be Cuban immigrants, the newspaper said. Earlier this week, the Cuban government indicated it wanted at least 100,000 visas. </P>
+<P> The United States had countered with an offer to let in about 20,000 Cubans annually if Cuban President Fidel Castro would act to halt the exodus of rafters trying to cross the 90-mile stretch of water separating Cuba and Florida. </P>
+<P> One U.S. official told the Herald Cuba's latest proposal is ''a serious effort and a basis for discussion.'' </P>
+<P> The proposal also includes demands that the United States restrict its radio broadcasts to Cuba and lift the recent ban on most cash transfers by U.S. families to Cuba, the report said. The cash remittances accounted for an estimated $400 million annual infusion into Cuba's economy. </P>
+<P> On Tuesday, U.S. and Cuban officials ended a fifth round of talks about the immigration crisis. More than 6,000 Cuban migrants have been rescued at sea during the past week and are being taken to the U.S. naval base at Guantanamo Bay, Cuba. </P>
+</TEXT>
+</DOC>

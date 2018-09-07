@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0099.950213</DOCID>
+<TDTID>TDT010420</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/13/95 20:11</DATE>
+<TITLE> Dog World magazine assigns reporter to Simpson case</TITLE>
+<HEADLINE> Dog World magazine assigns reporter to Simpson case</HEADLINE>
+<SUBJECT> BC-SIMPSON-DOG </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Every dog is supposed to have his day. But in this case the dog is going to have its own reporter. </P>
+<P> Dog World magazine said it will assign a reporter to cover the O.J. Simpson double murder trial, joining the hundreds of reporters from news organizations around the world that have convened here to cover the celebrated trial. </P>
+<P> ``Due to this trial and its immense coverage, I felt that there was heightened interest about dogs, particularly Akitas, and their sense of awareness, keen loyalty and popularity,'' editor-in-chief Donna Marcel said. </P>
+<P> The Akita that belonged to murder victim Nicole Brown Simpson has played a key role in the prosecution's case against O.J. Simpson. </P>
+<P> The dog, which was found wandering the neighborhood the night of the muders with bloody paws, is being used by the prosecution to help determine the time of the murders of Nicole Brown Simpson and her friend Ronald Goldman. </P>
+</TEXT>
+</DOC>

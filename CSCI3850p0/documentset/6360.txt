@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0202.950508</DOCID>
+<TDTID>TDT013549</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/08/95 03:01</DATE>
+<TITLE> Company denies Swedes freed in Colombia</TITLE>
+<HEADLINE> Company denies Swedes freed in Colombia</HEADLINE>
+<SUBJECT> BC-COLOMBIA-KIDNAP-SWEDEN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Lennart Hallberg, spokesman for engineering concern Skanska, denied the French news agency report. </P>
+<P> Hallberg said a rumour had spread that two western-looking men had been seen in the Colombian countryside and a local radio station had broadcast the news that they were Swedes Danny Applegate and Tommy Tyrving. </P>
+<P> ``For an unknown reason a local radio station stated that the two men were Danny and Tommy. The information was later retracted by the radio station,'' Hallberg said. </P>
+<P> Applegate and Tyrving, working on a dam project, were kidnapped in December by guerrillas from the Revolutionary Armed Forces of Colombia (FARC) near the construction site of a hydroelectric plant near the town of Tierralta, about 250 miles (420 km) northwest of Bogota. </P>
+</TEXT>
+</DOC>

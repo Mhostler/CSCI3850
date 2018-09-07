@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU010-0335.950221</DOCID>
+<TDTID>TDT010635</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/21/95 21:34</DATE>
+<TITLE> Two avalanches kill one, closes highway</TITLE>
+<HEADLINE> Two avalanches kill one, closes highway</HEADLINE>
+<SUBJECT> BC-AVALANCHE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANCHORAGE, Alaska (Reuter) </DATELINE>
+<P>  An avalanche on Kodiak Island killed a man on a snowmobile and buried his companion, while another avalanche near Anchorage swept a truck off the highway, Alaska state troopers said Tuesday. </P>
+<P> In the Kodiak avalanche, troopers and other officials were notified around 5 p.m. (9 p.m. EST) Monday that two people were buried by snow near Crown Mountain, an area where 14 local people were riding snowmobiles. </P>
+<P> One man, John Thomas Abell Sr., 45, of Kodiak, was found and brought to a Coast Guard ski chalet, then to a clinic from which he was later released, the troopers said. </P>
+<P> But his friend Rick Gunderson, 43, also of Kodiak, was not found until about 7:40 p.m. (11:40 p.m. EST). He was discovered under his snowmobile by rescuers, the troopers said. </P>
+<P> Gunderson was taken by helicopter to a nearby hospital, where he was declared dead, the troopers said. </P>
+<P> The Anchorage avalanche occurred about 20 miles south of the city Monday, after a day of heavy snowfall. </P>
+<P> The avalanche swept a truck off the road, but the driver was uninjured, troopers said. The avalanche forced officials to close the highway until midafternoon Tuesday, a trooper spokeswoman said. </P>
+</TEXT>
+</DOC>

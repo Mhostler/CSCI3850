@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU008-0433.941218</DOCID>
+<TDTID>TDT008148</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/18/94 21:13</DATE>
+<TITLE> Plane crash in Papua New Guinea kills 28</TITLE>
+<HEADLINE> Plane crash in Papua New Guinea kills 28</HEADLINE>
+<SUBJECT> BC-PAPUA-CRASH 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>   (Updates with details)</NOTES>
+<DATELINE>SYDNEY (Reuter) </DATELINE>
+<P>  A twin-engined aircraft crashed into a cliff face in a remote area of Papua New Guinea Saturday, killing all 20 adults and eight children on board, emergency officials in Port Moresby said Monday. </P>
+<P> The Twin Otter aircraft disappeared shortly after take-off from Tabubil, near the giant Australian-operated Ok Tedi copper and gold mine in the far west of the country, on Saturday afternoon, a spokesman for the National Disaster and Emergency Services in Port Moresby said. </P>
+<P> He said the aircraft, carrying a crew of two and 26 passengers, was bound for Selbang, a village 25 miles east of Tabubil and the home of most of the passengers. </P>
+<P> Rescuers found the wreckage in dense mountainous jungle late Saturday. There were no survivors. </P>
+<P> ``It had crashed into a cliff face,'' said Ron Kingsley, a spokesman in Australia for the operator, the Missionary Aviation Fellowship. ``At this stage there has been no formal investigation into what happened.'' </P>
+<P> Kingsley said the 18 adult and eight children passengers were local people heading home for Christmas. The pilot was an Australian. </P>
+<P> A spokesman for Ok Tedi Mining said police had not yet released the names of the passengers and it was not clear if any mine employees were on board. </P>
+<P> Emergency officials in Papua New Guinea said it was the worst aircraft crash in the country since 1948. </P>
+</TEXT>
+</DOC>

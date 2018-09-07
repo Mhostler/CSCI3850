@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0330.941128</DOCID>
+<TDTID>TDT007087</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/28/94 01:28</DATE>
+<TITLE> Norway set to go it alone with ``No'' to Europe</TITLE>
+<HEADLINE> Norway set to go it alone with ``No'' to Europe</HEADLINE>
+<SUBJECT> BC-EUROPE-NORWAY </SUBJECT>
+<AUTHOR>     By Simon Haydon </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OSLO, Norway (Reuter) </DATELINE>
+<P>  Norwegians appear set to reject membership in the European Union Monday, despite a late surge in support for a ``Yes'' vote. </P>
+<P> Opinion polls indicated that the pro-Europe share of the vote was rallying as two days of balloting began Sunday. But as in a similar referendum in 1972, a majority of the 3.2 million voters remained opposed to joining the EU. </P>
+<P> Polls gave the opponents of membership a lead of between two and eight percentage points. </P>
+<P> Half of Norway's 435 communes opened their polling stations Sunday and electoral officials reported an unusually heavy turnout, despite arctic conditions in the far north and freezing fog around the capital. </P>
+<P> Polling booths were scheduled to open again at nine a.m. (3 a.m. EST) Monday and close at nine p.m. (3 p.m. EST). Television stations are expected to broadcast exit polls soon after stations close, although full results could take hours to be registered. </P>
+<P> Unlike neighboring Sweden and Finland, which both voted to join the EU from Jan. 1 in votes in the past six weeks, a passionate debate over Norway's relationship with the rest of Europe has split the country down the middle. </P>
+<P> As in Sweden and Finland, Norway's arctic north and the fishing communities along its sprawling coastline are expected to resoundingly reject joining the EU, fearing a loss of sovereignty to a far-away bureaucracy in Brussels. </P>
+<P> EU supporters in Sweden and Finland found enough backing in cities -- where anti-EU sentiment is weaker -- to swing the vote their way, but polls predict sentiment in Norway's small urban communities is evenly split. </P>
+<P> They predict that Oslo and its suburbs are the only areas of Norway that will say a clear ``Yes'' to Europe. </P>
+<P> With Sweden, Finland and Austria already set to join the EU from January, Brussels sees its enlargement project as a success and diplomats there say Norway will be the main loser if it rejects membership. </P>
+</TEXT>
+</DOC>

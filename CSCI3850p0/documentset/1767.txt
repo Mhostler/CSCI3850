@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0357.941003</DOCID>
+<TDTID>TDT004371</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 07:46</DATE>
+<TITLE> Gen. Shelton says top four Haitian ``thugs'' arrested</TITLE>
+<HEADLINE> Gen. Shelton says top four Haitian ``thugs'' arrested</HEADLINE>
+<SUBJECT> BC-HAITI-USA-SHELTON URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The commander of United States forces in Haiti said Monday that four of the Caribbean nation's ``top thugs'' were in custody, but efforts to disarm all the country's paramilitary force, known as ``attaches,'' are going slower than planned. </P>
+<P> Lieutenant General Hugh Shelton told CBS-TV's ``This Morning'' that: ``Here in (Port-au-Prince) the last couple of days we've picked up four of the top thugs or Ninjas or attaches that we were looking for on the street.'' </P>
+</TEXT>
+</DOC>

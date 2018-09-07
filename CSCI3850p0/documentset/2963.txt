@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0283.941202</DOCID>
+<TDTID>TDT007358</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/02/94 08:38</DATE>
+<TITLE> Unemployment rate falls to four-year low in November</TITLE>
+<HEADLINE> Unemployment rate falls to four-year low in November</HEADLINE>
+<SUBJECT> BC-ECONOMY-JOBS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The unemployment rate unexpectedly tumbled to its lowest level in more than four years in November, the government said Friday, as a vibrant economy created far more new jobs than anticipated. </P>
+<P> The Labor Department said the jobless rate fell to 5.6 percent from 5.8 percent in October. It was the lowest level since August 1990 and put the unemployment rate further below the 6-percent level many economists consider ``full employment'' -- the level at which wage pressures can fuel inflation. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU011-0354.941124</DOCID>
+<TDTID>TDT006989</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/24/94 18:20</DATE>
+<TITLE> Argentine Senate asks U.S. ambassador to explain threats</TITLE>
+<HEADLINE> Argentine Senate asks U.S. ambassador to explain threats</HEADLINE>
+<SUBJECT> BC-ARGENTINA-USA-THREATS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES (Reuter) </DATELINE>
+<P>  Angry Argentine Senators Thursday demanded that the U.S. ambassador here explain remarks in which he threatened retaliation if a controversial postal privatization bill was passed. </P>
+<P> Senators issued a statement calling on outspoken Ambassador James Cheek to ``clarify'' remarks he made earlier in the week, when he declared U.S. firms would suffer if a bill to deregulate and privatize postal services made it onto the statute books. </P>
+<P> ``We are going to respond the moment it (the bill) passes. We are not a country that does not respond, and we know how to defend our interests,'' Cheek said, according to the local DyN news agency. </P>
+<P> The Senate also defended itself from accusations by Economy Minister Domingo Cavallo that changes it made to the bill to forbid any postal vehicle from being stopped or searched without a court order would encourage drug trafficking. </P>
+<P> ``The Minister said that postal transport or vehicles would cover up sending marijuana or cocaine, but we do not protect drug smuggling,'' opposition senator Fernando de la Ra said. </P>
+<P> Under great pressure from Cavallo, the Lower House of Congress Tuesday postponed further debate on the bill until May. </P>
+<P> The bill would ensure that the state postal company to be privatized, Encotesa, would end up controlled by existing private Argentine postal companies, limiting competition, Cavallo says. </P>
+</TEXT>
+</DOC>

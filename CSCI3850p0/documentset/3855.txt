@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU009-0019.950119</DOCID>
+<TDTID>TDT009537</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/19/95 17:58</DATE>
+<TITLE> King family rejects Rep. Lewis as mediator in dispute</TITLE>
+<HEADLINE> King family rejects Rep. Lewis as mediator in dispute</HEADLINE>
+<SUBJECT> BC-KING </SUBJECT>
+<AUTHOR>     By Mike Cooper </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  Rep. John Lewis, the veteran civil rights leader from Georgia, is an unacceptable mediator in the dispute between the family of Martin Luther King Jr. and the National Park Service, King's son said Thursday. </P>
+<P> Dexter King said he will not participate in a meeting scheduled to take place Saturday if Lewis acts as mediator. </P>
+<P> ``He has stated his position, and because he has, he's going in biased,'' King said. ``We're looking for an unbiased person.'' </P>
+<P> Lewis, a Democrat, has been planning the meeting between the two parties for over a month, since the King family publicly criticized park service construction of a new $11 million visitors' center intended to open in time for the 1996 Olympics. </P>
+<P> Lewis is a longtime civil rights leader who was beaten by police during a 1965 demonstration in Selma, Ala. </P>
+<P> King, who said he has not spoken with Lewis since the dispute became public, said the congressman failed to deliver on a promise to halt park service construction for 30 days so that negotiations could take place. </P>
+<P> ``Congressman Lewis was supporting the King Center's position up until about a month ago, and then all of a sudden, he did an about-face,'' King said. </P>
+<P> King family members contend they were intentionally excluded from park service plans for the visitors' center. The Park Service has said the King Center participated in a series of planning meetings during the past year. </P>
+<P> The King Center proposes its own multimedia museum honoring King but has not obtained funding for the idea. </P>
+</TEXT>
+</DOC>

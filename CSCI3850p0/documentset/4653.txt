@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU001-0124.950301</DOCID>
+<TDTID>TDT010891</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 11:44</DATE>
+<TITLE> Europe linked by volcanic source, study finds</TITLE>
+<HEADLINE> Europe linked by volcanic source, study finds</HEADLINE>
+<SUBJECT> BC-SCIENCE-EUROPE (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Release at 7 p.m. EST)</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  More than the European Union binds Europe together, geologists reported Wednesday -- the whole region is affected by a single swelling in the earth's mantle, the molten layer of rock and metal that lies below the crust. </P>
+<P> As it rolls underneath the thin crust, the mantle is responsible for such geologic events as earthquakes and volcanoes and the creation of mountain ranges. </P>
+<P> Kaj Hoernle and colleagues at the University of California and Oregon State University found evidence of a large, sheet-like upwelling in the mantle. </P>
+<P> It extends from the Canary Islands in the eastern Atlantic, through central Europe and across to the western Mediterranean, they wrote in the science journal Nature. </P>
+<P> The upwelling, they wrote, is responsible for volcanoes like Vesuvius and Mount Etna in Italy and for volcanic activity on the Canaries. </P>
+<P> ``Considering the possible age and large size of this upwelling region, an important question is why continental riftingin central Europe has not progressed further, and why volcanism has not been more widespread,'' they wrote. </P>
+<P> The researchers combined seismic tomography, a kind of x-ray of the earth's surface, with chemical analysis of the rocks to reach their findings. </P>
+</TEXT>
+</DOC>

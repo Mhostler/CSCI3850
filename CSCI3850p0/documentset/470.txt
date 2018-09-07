@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU014-0068.940729</DOCID>
+<TDTID>TDT001191</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/29/94 08:46</DATE>
+<TITLE> ECONOMY GROWS IN SECOND QUARTER, THOUGH SPENDING SLOWS</TITLE>
+<HEADLINE> ECONOMY GROWS IN SECOND QUARTER, THOUGH SPENDING SLOWS</HEADLINE>
+<SUBJECT> BC-USA-ECONOMY 1STLD </SUBJECT>
+<AUTHOR>     By Glenn Somerville </AUTHOR>
+<TEXT>
+<NOTES> Eds: Adds details, background)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The U.S. economy grew at a healthy pace in the second quarter, the Commerce Department said Friday, but the seeds of slower growth were evident in weaker consumer spending and rising inventories. </P>
+<P> In its first look at gross domestic product during the spring quarter from April through June, the department said the economy expanded at a 3.7 percent annual rate -- less than the four percent rate forecast by Wall Street economists. </P>
+<P> Growth was stronger than the revised 3.3 percent rate recorded in the first quarter, but weaker consumer spending suggests the expansion may cool in the rest of the year and dampen inflationary concerns. </P>
+<P> Previously, the department said first-quarter GDP expanded at a 3.4 percent annual rate. But it trimmed that fractionally as part of a sweeping series of revisions. </P>
+<P> GDP measures the value of all goods and services produced by workers and capital within U.S. borders. </P>
+<P> Consumer spending -- which accounts for 30 percent of economic activity and is the biggest single influence on GDP -- grew at only a $10.8 billion annual rate in the second quarter, down from $40.1 billion in the first three months this year. </P>
+<P> Business inventories swelled at a $28.6 billion annual rate, double the $14.6 billion rate in the first quarter. Production for inventories contributes to GDP, but growth from this source will fade in the remaining months of the year if sales remain low because companies will curb production. </P>
+<P> Department officials said it was the biggest increase in stocks of unsold goods since the third quarter of 1991. </P>
+<P> The department also issued revised estimates of GDP for the 1991-93 period on an annual and quarter-by-quarter basis. Changes were minor, although they showed the economy surging upward at a slightly more modest 6.3 percent annual rate in the final quarter last year instead of the seven percent previously estimated. </P>
+<P> After the exceptional burst of growth in the final quarter last year, the Federal Reserve began pushing interest rates higher in February. So far, the central bank has raised rates a total of four times this year in a bid to head off inflationary pressures and prolong expansion. </P>
+<P> Fed Chairman Alan Greenspan told Congress last week it was ''an open question'' whether rates are high enough yet to cool the economic pace and forestall production bottlenecks like shortages of supplies or skilled labor that can drive prices higher. </P>
+<P> The evidence of slower consumer spending -- which was lower than in the first quarter for both durable goods, such as cars and planes, nondurables and for services -- may ease some immediate pressure for more rate rises since it implies the economic pace already is cooling. </P>
+</TEXT>
+</DOC>

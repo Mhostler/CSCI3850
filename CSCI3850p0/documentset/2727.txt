@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU009-0295.941119</DOCID>
+<TDTID>TDT006773</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/19/94 19:23</DATE>
+<TITLE> NATO backs U.N. decision on air strikes</TITLE>
+<HEADLINE> NATO backs U.N. decision on air strikes</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-NATO-ENDORSEMENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRUSSELS (Reuter) </DATELINE>
+<P>  NATO Saturday endorsed a Security Council decision to authorize air strikes against targets in Croatia used by Serbs to launch air raids on U.N.-designated safe areas in Bosnia, alliance sources said. </P>
+<P> NATO envoys took the decision at an emergency session in Brussels. The Security Council unanimously authorized strikes in response to air attacks from the Serb-controlled Krajina area of Croatia against the Muslim enclave of Bihac in north Bosnia. </P>
+</TEXT>
+</DOC>

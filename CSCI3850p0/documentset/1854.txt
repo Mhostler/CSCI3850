@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU004-0119.941007</DOCID>
+<TDTID>TDT004590</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/07/94 11:35</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-IRAQ-KUWAIT-TROOPS -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``There are troop movements going on. It is not unusual for them to rotate their forces as we do,'' said one official, who asked not to be identified. </P>
+<P> The officials said the troop movements were in southern Iraq but it was not clear whether forces already stationed along the border with Kuwait were being moved out of the area to be replaced by other forces. </P>
+<P> ``This time, there are indicators there is some support equipment that they are moving,'' said an official, who said he could not provide details of what equipment was being moved. </P>
+</TEXT>
+</DOC>

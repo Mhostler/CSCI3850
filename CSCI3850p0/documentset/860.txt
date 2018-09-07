@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0011.940818</DOCID>
+<TDTID>TDT002104</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/18/94 10:17</DATE>
+<TITLE> U.S.-RUSSIA TROOPS IN PEACEKEEPING EXERCISE</TITLE>
+<HEADLINE> U.S.-RUSSIA TROOPS IN PEACEKEEPING EXERCISE</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-USA-MILITARY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  U.S. and Russian troops will conduct a joint peacekeeping exercise September 2-10 in Russia that may lead to real joint peacekeeping operations in the future, the Defense Department said Thursday. </P>
+<P> It said about 250 U.S. and 250 Russian soldiers will conduct the exercise, called Peacekeeper 94, in Totskoye, Russia. </P>
+<P> It said U.S. and Russian division staffs have been planning the exercise since September 1993 and have developed a guide for joint U.S.-Russia tactics, techniques and procedures. </P>
+<P> A second such exercise will be conducted in the United States next year, the Defense Department said. </P>
+</TEXT>
+</DOC>

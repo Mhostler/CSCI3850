@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0145.940816</DOCID>
+<TDTID>TDT002006</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/16/94 17:28</DATE>
+<TITLE> IDB BANK, BRAZIL SIGN $20.5 MLN STREETCHILD PLAN</TITLE>
+<HEADLINE> IDB BANK, BRAZIL SIGN $20.5 MLN STREETCHILD PLAN</HEADLINE>
+<SUBJECT> BC-BRAZIL-KIDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRASILIA (Reuter) </DATELINE>
+<P>  The Interamerican Development Bank (IDB) and Brazilian officials were due to sign Tuesday night a $20.5 million agreement to help streetchildren and minors at risk of leaving home for the streets, Brazil's Foreign Affairs Ministry said. </P>
+<P> The money, $18 million of which is provided by the IDB, will be spent on schools, creches, training centers, homes and other schemes in six cities across Brazil. </P>
+</TEXT>
+</DOC>

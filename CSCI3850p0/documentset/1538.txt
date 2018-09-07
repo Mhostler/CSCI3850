@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0059.940922</DOCID>
+<TDTID>TDT003820</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/22/94 08:47</DATE>
+<TITLE> Czech editor gets suspended sentence for racism</TITLE>
+<HEADLINE> Czech editor gets suspended sentence for racism</HEADLINE>
+<SUBJECT> BC-CZECH-RACISM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PRAGUE, Czech Republic (Reuter) </DATELINE>
+<P>  A Prague court gave a seven-month suspended jail sentence Thursday to the editor of the now-defunct weekly Politika for disseminating racial hatred against Jews and defaming the nation, the CTK news agency reported. </P>
+<P> Criminal action was opened against Josef Tomas after Politika published a list of Czech ``Jews and half-breeds'' in December 1992 and started a campaign to brand the Talmud, the basic code of Jewish civil and religious law, a racist document. </P>
+<P> Public outrage erupted when Politika published the list of 168 people it identified as Jews involved in the Czech cultural world, and an editorial saying ``the stupid Czech nation merely sits back and watches this Jewish looting going on.'' </P>
+<P> The issue was confiscated and Politika was closed down the next day. </P>
+</TEXT>
+</DOC>

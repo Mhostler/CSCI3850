@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0063.941210</DOCID>
+<TDTID>TDT007719</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/10/94 03:39</DATE>
+<TITLE> Bosnian Serbs release remaining 187 U.N. hostages</TITLE>
+<HEADLINE> Bosnian Serbs release remaining 187 U.N. hostages</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-PEACEKEEPERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  Bosnian Serb forces have released the remaining 187 U.N. peacekeepers they had detained last month in retaliation for NATO air strikes, a U.N. official said Saturday. </P>
+<P> ``They have been released,'' said spokesman Col. Jan-Dirk Merveldt. </P>
+</TEXT>
+</DOC>

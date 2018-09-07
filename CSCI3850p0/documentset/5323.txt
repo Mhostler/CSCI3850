@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU016-0233.950330</DOCID>
+<TDTID>TDT011905</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/30/95 09:32</DATE>
+<TITLE> Turkey launches internal offensive against Kurds</TITLE>
+<HEADLINE> Turkey launches internal offensive against Kurds</HEADLINE>
+<SUBJECT> BC-TURKEY-KURDS 1STLD </SUBJECT>
+<AUTHOR>     By Ferit Demir </AUTHOR>
+<TEXT>
+<NOTES> (Adds details)</NOTES>
+<DATELINE>TUNCELI, Turkey (Reuter) </DATELINE>
+<P>  Up to 15,000 Turkish troops have launched an offensive against Kurdish guerrillas in eastern Turkey, military officials said Thursday as Turkish forces continued an 11-day-old incursion into northern Iraq. </P>
+<P> Convoys of military vehicles blocked the roads in and around mountainous Tunceli province for an expected assault on well-entrenched Kurdistan Workers Party (PKK) positions there. </P>
+<P> ``This is going to be like the north Iraq offensive,'' a military official told Reuters. </P>
+<P> Troops, including airborne units and special forces, backed by long-range artillery have been converging on the province from other parts of the country for the last three days. </P>
+<P> Security officials reported clashes taking place on the mountainous border between Tunceli and neighboring Erzincan province. It was unclear if this was part of the new drive. </P>
+<P> The total number of soldiers posted in Tunceli may reach over 30,000, they said. About 35,000 troops have been hunting the PKK in northern Iraq since March 20. </P>
+<P> Turkey launched a huge offensive on the PKK in Tunceli over the winter which the military later acknowledged had produced few results. </P>
+<P> The guerrillas, ensconced in mountains towering more than 10,000 feet, ambushed a military convoy in Tunceli in mid-March, killing 18 soldiers. </P>
+<P> The attack cast doubt on Turkish assurances that the PKK was all but defeated inside Turkey. </P>
+</TEXT>
+</DOC>

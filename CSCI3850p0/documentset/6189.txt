@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU001-0155.950501</DOCID>
+<TDTID>TDT013313</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 13:28</DATE>
+<TITLE> N.Korea, U.S. to hold new round of nuclear talks</TITLE>
+<HEADLINE> N.Korea, U.S. to hold new round of nuclear talks</HEADLINE>
+<SUBJECT> BC-KOREA-USA URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  North Korea has agreed to hold a new round of talks with the United States on carrying out their landmark 1994 nuclear agreement, the State Department announced Monday. </P>
+</TEXT>
+</DOC>

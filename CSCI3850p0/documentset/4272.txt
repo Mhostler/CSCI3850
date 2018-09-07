@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU005-0337.950210</DOCID>
+<TDTID>TDT010299</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/10/95 06:28</DATE>
+<TITLE> Firm consolidating auto dealerships - report</TITLE>
+<HEADLINE> Firm consolidating auto dealerships - report</HEADLINE>
+<SUBJECT> BC-DEALERSHIPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Investment bankers and venture capitalists are buying up auto dealerships, which have mostly been family businesses, and consolidating them, the Wall Street Journal reported Monday. </P>
+<P> About 22,000 auto dealerships in the United States are split up among 16,000 different owners, the paper said. </P>
+<P> But the industry, with $350 billion in sales, is expected to shrink to 8,000 owners within a decade, the paper said, citing an estimate from auto industry consultants J.D. Power & Associates. </P>
+<P> Firms like former advertising executive Carl Spielvogel's United Auto Group bought up 39 dealerships in New York, New Jersey and Connecticut and is expected to add enough to push its $800 million in annual sales to $2 billion in sales within a year, the paper said. </P>
+<P> Distribution and marketing costs account for 25 percent to 30 percent of the retail price of a new car, the paper said. </P>
+<P> These costs could fall from consolidation, however. </P>
+<P> The investment bankers anticipate buying advertising in bulk, consolidating parts and service operations and installing systems that would cut clerical staff, the paper said. </P>
+<P> Car sales are cyclical and the dealerships need additional capital to expand and provide broader service operations, the paper said. </P>
+<P> Many auto dealers entered the business after World War II and are thinking about retirement, industry consultants told the paper. </P>
+</TEXT>
+</DOC>

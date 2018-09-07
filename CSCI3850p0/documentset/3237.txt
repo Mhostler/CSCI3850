@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU007-0239.941215</DOCID>
+<TDTID>TDT008000</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 13:42</DATE>
+<TITLE> Contempt case filed against Hawaii</TITLE>
+<HEADLINE> Contempt case filed against Hawaii</HEADLINE>
+<SUBJECT> BC-HEALTH-HAWAII </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Justice Department said Thursday that Hawaii's state mental hospital is chaotic and filed suit in U.S. District Court in Honolulu to hold the state in contempt for failing to improve conditions there. </P>
+<P> The department's filing claimed that staff members physically abuse patients and retaliate against those who report the abuses. </P>
+<P> The state was accused of failing to comply with a September, 1991 agreement in which it promised to upgrade conditions at the Hawaii State Hospital in Kaneohe. It was cited in 1990 by the National Alliance for the Mentally Ill as worst in the nation. </P>
+<P> The advocacy group said it found pools of urine on the floor, cockroaches and other signs of filth and mistreatment at the hospital, which houses mentally ill and the criminally insane. </P>
+<P> The group's report prompted the Justice Department to sue Hawaii in March, 1991. </P>
+<P> The Justice Department said in court papers that the hospital is so critically understaffed that patients do not receive appropriate psychiatric treatment, remain unattended while in restraints and are not prevented from assaulting each other. </P>
+<P> The court was asked to assign an independent monitor to oversee the state's compliance efforts, force the state to hire additional staff and reduce the number of patients. </P>
+</TEXT>
+</DOC>

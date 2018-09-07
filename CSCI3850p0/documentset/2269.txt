@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU013-0041.941027</DOCID>
+<TDTID>TDT005660</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/27/94 16:35</DATE>
+<TITLE> Senate report critical of Woolsey in Ames case</TITLE>
+<HEADLINE> Senate report critical of Woolsey in Ames case</HEADLINE>
+<SUBJECT> BC-CIA-SENATE-REPORT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Senate Intelligence Committee is to issue a report critical of CIA Director James Woolsey's disciplinary actions stemming from the Ames spy case, a committee spokesman said Thursday. </P>
+<P> The report, supported by all 17 members of the committee, is due to be issued next Tuesday. </P>
+<P> Woolsey reprimanded 11 former and current senior officials for failing to unmask confessed CIA turncoat Aldrich Ames who spied for Moscow for eight years starting in the mid-1980s. </P>
+<P> The CIA chief rejected calls for harsher punishment. Most of the officials found at fault had already left the CIA. </P>
+<P> Woolsey has testified to the intelligence panel on the Ames case and members have criticized his handling of it. </P>
+<P> The spokesman said that although the report criticized Woolsey for the disciplinary actions, there had been no particular committee consensus on what he should have done. </P>
+<P> In a related matter, a CIA spokesman confirmed Woosley had named Jack Devine, chief of the operations directorate's Latin American division, as No. 2 official in the directorate, replacing Hugh Price, one of those reprimanded. </P>
+<P> Devine supervised Ames for a year when both were in Rome in the late 1980s. </P>
+<P> CIA spokesman Mark Mansfield called Devine a talented officer with superb leadership skills who was ``committed to change at the CIA.'' </P>
+</TEXT>
+</DOC>

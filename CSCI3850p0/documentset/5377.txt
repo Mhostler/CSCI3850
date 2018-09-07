@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU001-0110.950401</DOCID>
+<TDTID>TDT012001</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/01/95 13:12</DATE>
+<TITLE> Christopher proposes tighter curbs on Iran - paper</TITLE>
+<HEADLINE> Christopher proposes tighter curbs on Iran - paper</HEADLINE>
+<SUBJECT> BC-USA-IRAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Secretary of State Warren Christopher has recommended the United States ban most trade with Iran after concluding the American strategy for isolating Iran is not working, the New York Times said Saturday. </P>
+<P> A State Department spokeswoman would not comment on the newspaper report. </P>
+<P> Citing unidentified senior Administration officials, the Times said Christopher's recommendation was presented in a recent meeting at the White House by Deputy Secretary of State Strobe Talbott. </P>
+<P> The proposal would prohibit American companies from buying Iranian oil on the open market and from investing in projects in Iran, the unidentified officials said, according to the newspaper. </P>
+<P> Christopher's recommendation met with fierce opposition from senior officials at the Defense, Commerce, Treasury and Energy departments, the newspaper said. </P>
+<P> Those departments argued at the White House meeting that curbing American trade would have little effect on Iran and could hurt American companies, the New York Times said. </P>
+<P> President Clinton last month blocked Conoco Inc. from developing a pair of Iranian oilfields. </P>
+<P> Current U.S. restrictions on trade with Iran do not stop U.S. companies trading in Iranian oil overseas. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU009-0158.950415</DOCID>
+<TDTID>TDT012577</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/15/95 00:31</DATE>
+<TITLE> Agreement reached to end supermarket strike</TITLE>
+<HEADLINE> Agreement reached to end supermarket strike</HEADLINE>
+<SUBJECT> BC-STRIKE-SUPERMARKETS </SUBJECT>
+<AUTHOR>     By Adrian Croft </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  Employers and unions said Friday they had reached a tentative agreement to end an eight-day strike and lockout affecting 32,000 workers at more than 400 northern California supermarkets. </P>
+<P> Safeway, Lucky and Save Mart supermarket chains said an agreement had been reached with the United Food and Commercial Workers (UFCW) union on labor contracts for clerks and butchers at many of their northern California stores, ending the dispute. </P>
+<P> UFCW spokesman Greg Denier also said that a tentative agreement had been reached Friday evening. </P>
+<P> Although the agreement still has to be ratified by union members, he said pickets at strike-hit stores would come down Friday night. </P>
+<P> It was the first major supermarket strike in northern California since 1980. </P>
+<P> Employees at 208 Safeway stores in northern California went on strike April 6 after negotiations on a new labor contract broke down. </P>
+<P> In response, Lucky Stores, a unit of American Stores Co, and Save Mart, negotating jointly with Safeway, locked out workers at scores more northern California stores. Some 180 Lucky Stores and 17 Save Marts were affected. </P>
+<P> The stores remained open, using management and replacement staff, but many customers shopped elsewhere and the companies acknowledged that sales were down. </P>
+<P> The lockout was also expected to end Friday night. </P>
+<P> Denier said the new three-year contract would basically have the same terms as the previous contract which expired March 4, with no pay increases. </P>
+<P> But he said union members had won their fight to keep health benefits. </P>
+<P> While not disclosing terms of the agreement, the employers said in their statement that the settlement met the companies' goal of achieving an agreement which would not increase their costs. </P>
+<P> Employers had initially demanded concessions from the union, including cuts in health benefits, saying they faced fierce competition from warehouse stores with non-union labor. </P>
+<P> The employers said they would withdraw an unfair labor practice charge against the union filed with the National Labor Relations Board earlier Friday, which sought an injunction to end the strike. </P>
+<P> The complaint accused the UFCW of failing to bargain in good faith and of trying to repudiate a settlement which the employers say was reached at a negotiating session Thursday, employer spokesman Steve Hill said. The union denied the allegation. </P>
+</TEXT>
+</DOC>

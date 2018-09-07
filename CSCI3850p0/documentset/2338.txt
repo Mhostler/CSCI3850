@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU001-0045.941101</DOCID>
+<TDTID>TDT005867</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/01/94 06:21</DATE>
+<TITLE> Delta rocket lofts solar probe for NASA</TITLE>
+<HEADLINE> Delta rocket lofts solar probe for NASA</HEADLINE>
+<SUBJECT> BC-SPACE-ROCKET </SUBJECT>
+<AUTHOR>     By Beth Dickey </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla.(Reuter) </DATELINE>
+<P>  A McDonnell Douglas Delta 2 rocket brightened the Florida predawn sky Tuesday, streaking into space with a $173 million NASA probe made to study the sun. </P>
+<P> The small Martin Marietta satellite, nicknamed Wind, will spend at least three years observing the solar wind -- a hot, electrified gas that blows off the sun and envelops Earth and the other planets at the rate of a million miles per hour. </P>
+<P> A magnetosphere shields Earth from the full blast, but the effects of the energetic breeze still can be felt in occasional geomagnetic storms that black out power, disrupt radio and television broadcasts and wreak havoc on communications satellites. </P>
+<P> Wind is the first of two missions in the U.S. Global Geospace Science initiative, which the National Aeronautics and Space Administration hopes will benefit the public by teaching scientists how to predict detrimental solar activity. </P>
+<P> ``Suppose we had a large geomagnetic storm during the Super Bowl ... the man on the street would immediately notice. He doesn't know what caused it, but he will certainly care,'' said NASA scientist Mario Acuna. </P>
+<P> The second satellite, called Polar, is to be placed in orbit above Earth's poles in November 1995. </P>
+<P> The Delta 2, purchased from McDonnell Douglas at an undisclosed price, rose from Cape Canaveral Air Station at 4:31 a.m. EST Tuesday. The rocket released Wind, a one-ton, drum-shaped satellite, after an 81-minute ride. </P>
+<P> ``The Wind spacecraft is on its own as it seeks out the mysteries of the solar wind and their effects upon the Earth. Everything continues to go well. Absolutely no problems,'' said NASA spokesman Bruce Buckingham. </P>
+<P> Most satellites circle Earth, but Wind is destined to make an odd figure-eight path for more than two years, using the gravity of the Moon to propel itself from a near point of 18,000 miles deeper into space. </P>
+<P> The satellite -- eight feet tall and six feet in diameter, finally will settle into a circular orbit between Earth and the sun about 1.1 million miles from the planet. </P>
+<P> The complex orbit was designed to suspend the probe ''upwind'' of Earth at a libration point -- a region where the gravitational forces of the sun and the planet are equal. </P>
+<P> Wind carries eight scientific instruments -- six from the United States, one from France and the first from Russia ever to fly on a U.S. satellite. </P>
+<P> After a 30-day checkout period, the instruments are to begin beaming back data. Wind will begin its observations in the supersonic shock wave that forms as wind is deflected by Earth's magnetic field, then move to the distant libration point where it can sample the wind before it hits the magnetosphere. </P>
+</TEXT>
+</DOC>

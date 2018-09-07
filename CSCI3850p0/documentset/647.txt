@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0034.940807</DOCID>
+<TDTID>TDT001598</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/07/94 22:46</DATE>
+<TITLE> SEVEN ESCAPE FROM PRISON, THREE CAUGHT</TITLE>
+<HEADLINE> SEVEN ESCAPE FROM PRISON, THREE CAUGHT</HEADLINE>
+<SUBJECT> BC-USA-PRISON 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: adds details, updates that four still at large)</NOTES>
+<DATELINE>IMMOKALEE, Fla (Reuter) </DATELINE>
+<P>  Seven convicts escaped from prison here Sunday, stabbing a guard six or seven times before fleeing, officials said. </P>
+<P> A spokesman for the Hendry Correctional Institute, which is in southwest Florida, said the convicts had used a homemade knife to stab the guard at about 4:30 a.m. EDT Sunday morning, but that his wounds were minor. </P>
+<P> ``He is just fine,'' the spokesman said Sunday evening. </P>
+<P> Three of the escapees were captured later Sunday. They were found hiding in the bushes in the alligator-infested swampland not far from the high security prison. </P>
+<P> Four others were still at large late Sunday night. </P>
+<P> Officials said three of the four still at large were serving life sentences, on charges of sexual battery, first degree murder and second degree murder, respectively. The fourth was serving a 25-year sentence for robbery with a deadly weapon. </P>
+</TEXT>
+</DOC>

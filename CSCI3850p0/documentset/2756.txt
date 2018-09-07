@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0176.941121</DOCID>
+<TDTID>TDT006829</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/21/94 20:14</DATE>
+<TITLE> Haagen-Dazs to settle for misleading ads</TITLE>
+<HEADLINE> Haagen-Dazs to settle for misleading ads</HEADLINE>
+<SUBJECT> BC-HAAGEN-DAZS-SETTLEMENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: also moved to financial news desks)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Federal Trade Commission said Monday that Haagen-Dazs Co. Inc. has agreed to settle agency charges it made false and misleading low-fat claims for its line of frozen yogurt products. </P>
+<P> Haagen-Dazs, based in Teaneck, N.J., represented that its entire frozen yogurt line was 98 percent fat-free and its line of frozen yogurt bars contined 100 calories and one gram of fat per serving, the FTC said. </P>
+<P> ``These claims were false for many items in each product line,'' the FTC said. </P>
+<P> The settlement would prohibit Haagen-Dazs from misrepresenting the fat, saturated fat, cholestrol or calorie content of any of its frozen food products. </P>
+</TEXT>
+</DOC>

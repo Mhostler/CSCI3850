@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU009-0047.941219</DOCID>
+<TDTID>TDT008167</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/19/94 12:20</DATE>
+<TITLE> Czechs seize suspected weapons-grade uranium</TITLE>
+<HEADLINE> Czechs seize suspected weapons-grade uranium</HEADLINE>
+<SUBJECT> BC-NUCLEAR-CZECH </SUBJECT>
+<AUTHOR>     By Alice Zakova </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PRAGUE, Czech Republic (Reuter) </DATELINE>
+<P>  Czech police have made a major seizure of what they believe is weapons-grade uranium and detained three people, including a local nuclear physicist, the Interior Ministry said Monday. </P>
+<P> Ministry spokesman Jan Subert said Czech experts were still running tests on the 6.6 pounds of radioactive material, which was seized in Prague last Wednesday. </P>
+<P> But they were almost positive that it was a highly-enriched isotope of uranium 235 and results from the tests should be available Tuesday, Subert told reporters. </P>
+<P> Police across Europe have intercepted scores of smugglers this year with mostly small amounts of nuclear materials. But this seizure is remarkable for its size and likely quality. </P>
+<P> The material, which was safely packed, had carried a certificate in Russian. ``According to the certificate it is highly-enriched uranium,'' Subert said. ``Uranium 235 functions as an explosive and it is used in the warhead of rockets.'' </P>
+<P> The three people arrested were described as a Czech expert in nuclear physics and two citizens of the former Soviet Union. Subert refused to say which country they came from. </P>
+<P> Police caught the three, who were unarmed, as they drove drown a main road in the district of Holesovice, he added. </P>
+<P> Subert said uranium 235 is worth tens of millions of dollars a pound and that last Wednesday's seizure was the biggest yet of such material in the Czech Republic. The material was probably from the former Soviet Union, he added. </P>
+<P> In Vienna, the International Atomic Energy Agency expressed concern about the kind of material found even though it was not enough to make a bomb. </P>
+<P> CIA Director James Woolsey said Sunday that the United States was concerned about the possibility of extremists getting their hands on nuclear materials in Russia and other former Soviet republics. </P>
+<P> Asked if the world would soon see a ``terrorist-owned'' nuclear weapon, Woolsey told CNN: ``It's not impossible and it is one of our greatest concerns.'' </P>
+<P> Washington has expressed concern before about lax controls on plutonium by-products of nuclear power plants or materials from research reactors in the former Soviet Union. </P>
+</TEXT>
+</DOC>

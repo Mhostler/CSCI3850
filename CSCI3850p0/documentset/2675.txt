@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0372.941117</DOCID>
+<TDTID>TDT006672</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/17/94 19:07</DATE>
+<TITLE> Human rights group urges UN to investigate in Cuba</TITLE>
+<HEADLINE> Human rights group urges UN to investigate in Cuba</HEADLINE>
+<SUBJECT> BC-RIGHTS-CUBA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Human Rights Watch said Thursday it had asked a United Nations high commissioner to investigate possible violations in Cuba. </P>
+<P> The organization, formerly known as Americas Watch, said in a news release that it wrote to UN High Commissioner for Human Rights Jose Ayala Lasso urging him to raise concerns with Cuba's government during his visit to Havana this week. </P>
+<P> Ayala arrived in Havana Tuesday at the Communist government's invitation four a four-day visit. </P>
+<P> ``Given the status of your office and the expressed intention of the Cuban government to allow you full access to any places or people you choose to visit, we have high hopes that your mission will contribute substantially to the protection of human rights in Cuba,'' the letter stated. </P>
+<P> Human Rights Watch said it had urged Ayala to check for violations of human rights in the cases of hundreds of Cubans jailed for trying to leave Cuba without the government's consent as well as the beating and detention of political dissidents and human rights activists. </P>
+<P> It also asked him to inspect prisoners' conditions in Cuban jails and to raise the issue of people punished for crimes as ''illicit association'', ``clandestine printing'', ``spreading enemy propaganda'' and ``disrespect to the head of state''. </P>
+<P> Cuba, a one-party state, has been headed since 1959 by former guerrilla leader Fidel Castro. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0050.950504</DOCID>
+<TDTID>TDT013406</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 03:16</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CIS-CHECHNYA-FIGHTING -2 MOSCOW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Tass gave no more details about the fighting in Grozny, though Interfax news agency said Chechen rebels had attacked federal positions five times during the night, bringing the total to 92 attacks since President Boris Yeltsin imposed a unilateral ceasefire in the Caucasus region on April 28. </P>
+<P> Interfax quoted the press centre for Russian forces in Chechnya as saying nine soldiers have been killed and 33 wounded in the rebel region since then. </P>
+<P> Rebels are planning an insurrection in the city from May 8 to May 10, Interfax said. May 9 is the day of official Victory Day ceremonies in Moscow with almost 50 world leaders attending. </P>
+<P> Thousands of people have been killed and many more have fled their homes since Russia sent troops into Chechnya last December to end the region's three-year fight for independence. </P>
+</TEXT>
+</DOC>

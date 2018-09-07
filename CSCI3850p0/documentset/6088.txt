@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU017-0073.950427</DOCID>
+<TDTID>TDT013140</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/27/95 07:52</DATE>
+<TITLE> Horses suffer ringing in their ears</TITLE>
+<HEADLINE> Horses suffer ringing in their ears</HEADLINE>
+<SUBJECT> BC-SCIENCE-HORSES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Horses who repeatedly shake their heads without reason may be plagued by chronic ringing in their ears, New Scientist magazine reported Thursday. </P>
+<P> The news follows an operation on a pony during which vets heard a high pitched humming noise coming from the animal's ears. The noise was first reported by a stable maid. </P>
+<P> Her complaint was dismissed by vets. But when the five-year-old pony was operated on for a tumor on its lip, the surgical team at the Animal Health Trust in the eastern town of Newmarket, including people standing one metre away from the animal, could hear the noise. </P>
+<P> Joe Mayhew, head of the team, was quoted by New Scientist as saying this could have been caused by a reversal of the normal hearing system during which nerves vibrated spontaneously, making the eardrum vibrate and creating the sound. </P>
+<P> Mayhew, who first reported the case in a professional newsletter, the Veterinary Record, said it was impossible to tell whether animals experience the same conditions as human sufferers of tinnitis, the medical name for ringing in the ears. </P>
+<P> ``But he thinks that the condition could explain why some horses repeatedly shake their heads for no obvious reason,'' New Scientist said. </P>
+</TEXT>
+</DOC>

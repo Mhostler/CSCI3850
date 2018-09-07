@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0140.950420</DOCID>
+<TDTID>TDT012750</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/20/95 07:20</DATE>
+<TITLE> France's election is a two-stage battle</TITLE>
+<HEADLINE> France's election is a two-stage battle</HEADLINE>
+<SUBJECT> BC-FRANCE-VOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS, April 20 (Reuter) </DATELINE>
+<P>  France's presidential election begins on Sunday with the first stage in a two-round battle to choose a successor to Socialist President Francois Mitterrand. </P>
+<P> Assuming that none of the nine candidates wins outright by securing more than 50 percent of the vote, the top two contenders will go on to a run-off on May 7. </P>
+<P> Mitterrand's second seven-year term ends at the latest on May 20, but he may stand down earlier by mutual consent with the incoming president once the Constitutional Council has officially validated the result. </P>
+<P> There are 39,869,381 million registered voters, of whom nearly 1.2 million live in France's overseas departments and territories. The minimum voting age is 18. </P>
+<P> On Sunday, polling stations will be open from 8 a.m. to 6 p.m. (0600 to 1600 GMT) in most areas but stay open until 8 p.m. (1800 GMT) in main cities. The publication of opinion polls is banned in the final week of the campaign. </P>
+<P> Broadcasters will give reliable computer projections based on first returns at 8 p.m. (1800 GMT), followed by an official estimate from the Interior Ministry usually about one hour later. </P>
+<P> The provisional final result of the first ballot is expected around 5 a.m. (0300 GMT) on April 24. The official result of the first round must be issued by 8 p.m. (2000 GMT) on April 26. </P>
+<P> Voting hours for the May 7 run-off are the same as for the first round. Television and radio will reliably project the winner as soon as the last polls close at 8 p.m. (2000 GMT). </P>
+<P> Turnout in past presidential elections has been high. More than 80 percent of voters cast ballots in both rounds of the past three presidential elections. </P>
+<P> In the first presidential election by universal suffrage in 1965, there were six candidates. In 1969 there were seven, in 1974, 12, in 1981, 11 and in 1988, nine as in the current election. </P>
+</TEXT>
+</DOC>

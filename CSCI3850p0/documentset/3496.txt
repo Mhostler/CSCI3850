@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0037.941230</DOCID>
+<TDTID>TDT008656</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/30/94 11:35</DATE>
+<TITLE> Gunman kills one, wounds at least six at abortion clinics</TITLE>
+<HEADLINE> Gunman kills one, wounds at least six at abortion clinics</HEADLINE>
+<SUBJECT> BC-ABORTION-SHOOTING 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  One person was shot dead and at least six others were wounded Friday, when a gunman, dressed in black and wielding a rifle, opened fire on staff and patients at two separate abortion clinics in the Boston suburb of Brookline, police and eyewitnesses said. </P>
+<P> Police and ambulances raced to the scenes of the shootings which occurred at the Planned Parenthood clinic and the Preterm Health Services clinic, located a short distance apart in the same street. The killing would be the fourth at abortion clinics in the U.S. </P>
+</TEXT>
+</DOC>

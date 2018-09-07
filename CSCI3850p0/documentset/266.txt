@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0412.940717</DOCID>
+<TDTID>TDT000660</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/17/94 07:58</DATE>
+<TITLE> IRA SAYS IT KILLED NORTHERN IRELAND WOMAN</TITLE>
+<HEADLINE> IRA SAYS IT KILLED NORTHERN IRELAND WOMAN</HEADLINE>
+<SUBJECT> BC-IRISH-EXECUTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELFAST (Reuter) </DATELINE>
+<P>  Irish Republican Army (IRA) guerrillas said on Sunday they killed a Northern Ireland woman suspected of being a police informer and dumped her body close to the border with Ireland. </P>
+<P> In a statement issued to local media the IRA, fighting a 25-year guerrilla war to end British rule in the province, said it had executed the Belfast woman. </P>
+<P> They claimed she was a police informer. </P>
+<P> The body was found by a roadside in County Fermanagh, in the south of the British province. Villagers close to the scene said they heard gunshots in the early hours. </P>
+<P> Police said they were checking for booby-traps before they removed the body. </P>
+</TEXT>
+</DOC>

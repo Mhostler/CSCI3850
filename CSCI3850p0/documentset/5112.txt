@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU012-0057.950323</DOCID>
+<TDTID>TDT011586</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 01:20</DATE>
+<TITLE> S.Korean police blame gas casualties on exhaust</TITLE>
+<HEADLINE> S.Korean police blame gas casualties on exhaust</HEADLINE>
+<SUBJECT> BC-KOREA-GAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, March 23 (Reuter) </DATELINE>
+<P>  South Korean police said on Thursday a backflow of carbon monoxide into a boiler vent was probably responsible for the collapse of 20 people at a city office block. </P>
+<P> ``After hours of investigation in cooperation with a military anti-chemical team and medical doctors, we have tentatively reached the conclusion that the leakage of exhaust fumes of carbon monoxide from heating boilers at the building was the cause of the incident,'' a police spokesman said. </P>
+<P> He said an advertising billboard, installed on the roof in front of a boiler vent, caused exhaust fumes to flow back into the building through the air-conditioning system. </P>
+<P> ``We could not find any evidence the gas was sprayed into the building by an outside source,'' the spokesman said. </P>
+<P> But he said police would continue investigating the possibility of sabotage. </P>
+<P> Around 20 people were taken to hospital on Wednesday after gas leaked through several floors of a 19-storey building in southern Seoul, fuelling fears among South Koreans already shaken by a subway gas attack in neighbouring Japan. </P>
+<P> The police spokesman said several gas-affected patients had been released from hospital and the rest were stable. </P>
+<P> The incident happneed shortly after police were ordered to step up checks on crowded areas, including subway stations, in the wake of the Monday's attack on the Tokyo subway, which killed 10 people and affected another 5,500. </P>
+</TEXT>
+</DOC>

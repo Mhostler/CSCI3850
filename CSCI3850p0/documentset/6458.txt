@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0408.950511</DOCID>
+<TDTID>TDT013673</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/11/95 06:20</DATE>
+<TITLE> Manila begins peace talks with Marxists in June</TITLE>
+<HEADLINE> Manila begins peace talks with Marxists in June</HEADLINE>
+<SUBJECT> BC-PHILIPPINES-COMMUNISTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANILA, May 11 (Reuter) </DATELINE>
+<P>  The Philippine government will open formal peace talks with the communist-led National Democratic Front (NDF) next month in Brussels, Manila's chief negotiator said on Thursday. </P>
+<P> Howard Dee, head of the government negotiating panel, said the talks, originally set for June 1, were moved to June 26 to give both sides more time to prepare. </P>
+<P> Talks aimed at ending the 26-year-old communist insurgency have long been planned but disagreements over venue, security arrangements for the NDF negotiators and other issues have delayed their start. </P>
+<P> Another government panel is scheduled to sit down with representatives from the Moro National Liberation Front (MNLF) in Indonesia next month in the second stage of formal peace talks. </P>
+<P> The MNLF is seeking self-rule for more than five million Moslems in the south. </P>
+</TEXT>
+</DOC>

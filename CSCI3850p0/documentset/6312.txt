@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0067.950505</DOCID>
+<TDTID>TDT013472</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/05/95 11:19</DATE>
+<TITLE> New Jersey businessman held in Caymans on fraud</TITLE>
+<HEADLINE> New Jersey businessman held in Caymans on fraud</HEADLINE>
+<SUBJECT> BC-HOLD CAYMAN-BUSINESSMAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GEORGE TOWN, Cayman Islands, (Reuter) </DATELINE>
+<P>  U.S. businessman Charles Cugliari, wanted in New Jersey on federal fraud charges, has been granted a total bail of $2.5 million, the largest ever granted in the Cayman Islands, officials said Friday. </P>
+<P> Cugliari, 63, has been in custody in the British territory since Feb. 28 when local authorities arrested him on a U.S. warrant. The fraud charges could total more than $87 million. An extradition hearing on the U.S. request for Cugliari is pending. </P>
+<P> The bail amount, which was set Thursday, is for $1.25 million in cash and two sureties, or guarantees, of $625,000 each. </P>
+<P> Cugliari's attorney said it would take several days for his client to raise bail. He had argued in a court hearing Thursday that the Cugliari needed bail because he had suffered a heart attack since being jailed and has high blood pressure. </P>
+<P> But prosecutors objected, noting Cugliari told police he came to the Caymans because he had been told the Caymans had no extradition treaty with the United States, and thus had intended to evade U.S. justice. </P>
+<P> The U.S. Attorney's office in Newark, N.J., has alleged that Cugliari, from Voorhees, N.J., defrauded more than 2,000 people who invested in CNC Trading, a company he controlled. </P>
+</TEXT>
+</DOC>

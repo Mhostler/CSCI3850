@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU004-0030.950109</DOCID>
+<TDTID>TDT009082</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/09/95 19:26</DATE>
+<TITLE> Panetta: budget amendment may add to 'cynicism'</TITLE>
+<HEADLINE> Panetta: budget amendment may add to 'cynicism'</HEADLINE>
+<SUBJECT> BC-BUDGET </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  White House Chief of Staff Leon Panetta said Monday that backers of the balanced budget amendment will ``add to the cynicism of the American people'' unless they explain how they would end the deficit. </P>
+<P> ``If we wind up passing a constitutional amendment (and) then failing to pass a specific plan, it would just add to the cynicism of the American people about government,'' Panetta told reporters. </P>
+<P> He said the message of the last election was ``Don't kid us any more ... be honest with us about what needs to be done.'' </P>
+<P> Many members in both parties support the constitutional amendment, which needs two-thirds support when it is voted Jan. 19 in the House and later this month in the Senate. </P>
+<P> House Republicans have proposed balancing the budget and cutting taxes in their ``Contract with America,'' but have refused to spell out spending cuts they would make to get the deficit to zero by 2002. </P>
+<P> ``The fact of the matter is once members of Congress know exactly, chapter and verse, the pain that the government must live with in order to get to a balanced government, their knees will buckle,'' House Majority Leader Dick Armey, R-Texas, said Sunday on NBC's ``Meet the Press.'' </P>
+<P> That left an opening for a respected liberal think tank, the Center for Policy and Budget Priorities, to lay out its analysis of what would be necessary to balance the budget. </P>
+<P> Robert Greenstein, director of the center, said it estimates $1.4 trillion in spending cuts must be made by 2002, once the effect of Republican tax cuts are taken into effect. </P>
+<P> A report from the center notes Republicans have said they will not cut Social Security, military spending or interest payments on the debt. </P>
+<P> ``That's half the budget,'' said Greenstein. </P>
+<P> Costs of federal prisons are going up because of stiffer sentences, and that the FBI and such functions as protecting the borders, operating the Internal Revenue Service and fighting forest fires are unlikely to be cut. </P>
+<P> There is also not much to be saved from Aid to Families With Dependent Children, traditionally known as welfare, because it accounts for only about 1 percent of the budget. </P>
+<P> Greenstein said remaining programs would have to be cut by 50 percent or more. </P>
+<P> Aid to states is a prime candidate is certain to face large cuts. The Medicare health program for the elderly will also face cuts. </P>
+<P> As matters stand, Medicare is expected to become insolvent in 2001. Medicare's problems were supposed to be solved by health reform, but it died last year in Congress. </P>
+</TEXT>
+</DOC>

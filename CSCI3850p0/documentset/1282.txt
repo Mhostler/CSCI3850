@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU005-0171.940911</DOCID>
+<TDTID>TDT003183</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/11/94 10:21</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-HAITI-USA -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``We have exhausted every diplomatic endeavor,'' said Christopher. </P>
+<P> U.S. policy is to restore Haiti's popularly elected president Jean-Bertrand Aristide to power. He was ousted in a coup in 1991 and now lives in exile in Washington. </P>
+<P> But despite threats by the United States of an invasion, including a show of force in the Caribbean, there has been no public indication that Haiti's military leaders intend to give up power. </P>
+</TEXT>
+</DOC>

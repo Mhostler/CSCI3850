@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU009-0092.941118</DOCID>
+<TDTID>TDT006724</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/18/94 18:06</DATE>
+<TITLE> Winner, loser in congressional race appeal result</TITLE>
+<HEADLINE> Winner, loser in congressional race appeal result</HEADLINE>
+<SUBJECT> BC-POLITICS-CONNECTICUT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HARTFORD, Conn.(Reuter) </DATELINE>
+<P>  Two contenders for a House seat -- separated by four votes -- filed court appeals Friday seeking a second recount. </P>
+<P> Incumbent Democrat Sam Gejdenson, who won the re-election by a four-vote margin following the first recount, and his Republican opponent, Edward Munster, both filed appeals to the state Supreme Court challenging the accuracy of the recount. </P>
+<P> Gejdenson, a seven-term incumbent, asked the court to take a look at votes in one town, Norwich, where his attorney said there was a total drop-off in votes for all of the candidates. </P>
+<P> Munster, on the other hand, is asking the Supreme Court to guarantee that all of the residents who were eligible to vote in the second congressional district were allowed to vote and that their votes were counted properly. </P>
+<P> Chief Court Administrator Aaron Ment said Munster is allowed to select one of the three justices who will hear the appeal. </P>
+<P> Ment will select the remaining two. The deadline for filing the appeal was Friday because after that date, towns and cities are allowed to remove the seals on their voting machines. </P>
+<P> Gejdenson had been declared the winner on election night by two votes, which automatically set the stage for a recount. </P>
+<P> Recounts are held in all races where the margin of victory is less than one-half of one percent of the vote. The official results of the recount showed Gejdenson with 79,160 votes and Munster with 79,156. </P>
+<P> A third party candidate, David Bingham, had 27,716 votes. </P>
+<P> Whatever the high court decides, the results may be challenged before the new Republican-controlled Congress when it convenes in January. </P>
+</TEXT>
+</DOC>

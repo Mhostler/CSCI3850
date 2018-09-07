@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0189.941112</DOCID>
+<TDTID>TDT006426</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/12/94 17:26</DATE>
+<TITLE> Four Costa Rican bankers suspended in loan probe</TITLE>
+<HEADLINE> Four Costa Rican bankers suspended in loan probe</HEADLINE>
+<SUBJECT> BC-COSTA RICA-BANK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN JOSE, Costa Rica (Reuter) </DATELINE>
+<P>  Costa Rican authorities suspended four directors of state bank Banco Nacional on Saturday to investigate a suspicious loan, a government spokesman said. </P>
+<P> The Government Council of President Jose Maria Figueres debated the suspension of the four officials for six hours Friday night before reaching its decision. </P>
+<P> Government spokesman Elias Soley named the four directors as Alban Ugarte, Jose Jimenez, Oscar Avila and Oscar Cadet. He said they allegedly granted a $9 million loan to the private rice-growing firm La Gilda between 1991 and 1992 when it was already heavily in debt. </P>
+<P> The suspensions follow the closing of Costa Rica's Banco Anglo on Sept. 15 after it lost about $100 million, mostly because of bad bets on Venezuelan bonds. </P>
+<P> Banco Nacional is Costa Rica's largest state-owned bank. </P>
+</TEXT>
+</DOC>

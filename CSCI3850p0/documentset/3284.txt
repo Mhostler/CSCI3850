@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0150.941217</DOCID>
+<TDTID>TDT008097</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/17/94 03:52</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-KOREA-HELICOPTER-PILOTS -2 SEOUL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``The report said relevant North Korean authorities were questioning the pilots of the downed helicopter to determine the background leading to the violation of the air space,'' Yonhap quoted the North Korean Central Radio as saying. </P>
+<P> It also quoted an officer of the South Korea-U.S. combined forces command in Seoul as saying the two crewmen in the helicopter were believed to have escaped injury. </P>
+<P> Both U.S. military officials and South Korean Defense Ministry officials in Seoul said they could not confirm the report. </P>
+<P> An OH-58 helicopter, carrying a crew of two, was on a routine training orientation when contact was lost at about 11:30 a.m. Saturday (9:30 p.m. EST Friday). </P>
+<P> North Korea's Central News Agency, monitored in Tokyo, said the helicopter was shot down. </P>
+</TEXT>
+</DOC>

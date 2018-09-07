@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0087.950407</DOCID>
+<TDTID>TDT012280</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 16:34</DATE>
+<TITLE> Peru electoral chief says Sunday vote will be clean</TITLE>
+<HEADLINE> Peru electoral chief says Sunday vote will be clean</HEADLINE>
+<SUBJECT> BC-PERU-ELECTIONS-FRAUD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LIMA, Peru (Reuter) </DATELINE>
+<P>  The head of the National Elections Board Friday rejected the possiblity of fraud in Sunday's election even though officials in a northeastern province said they had seized 500 vote tally sheets that had already been filled in. </P>
+<P> ``We roundly reject the possibility of electoral fraud,'' Ricardo Nugent told a news conference. </P>
+<P> Ricardo Robles, head of the provincial electoral board in Huanuco, some 150 miles northeast of Lima, said police Thursday arrested 11 people who had filled out about 500 tally sheets of 3,000 sheets found in a center. </P>
+<P> Nugent said an investigation had been launched to find out how the people arrested had otained the electoral materials. </P>
+<P> Peru's Attorney General Blanca Nelida Colan said she was travelling to the area to investigate the incident. </P>
+<P> The opposition newspaper La Republica Friday said the sheets were being filled out in favor of President Alberto Fujimori, who is standing for a second term. Officials did not comment on the allegation. </P>
+</TEXT>
+</DOC>

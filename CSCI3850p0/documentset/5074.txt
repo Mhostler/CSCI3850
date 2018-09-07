@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU011-0081.950321</DOCID>
+<TDTID>TDT011525</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/21/95 16:12</DATE>
+<TITLE> House leader switches vote in favor of term limits</TITLE>
+<HEADLINE> House leader switches vote in favor of term limits</HEADLINE>
+<SUBJECT> BC-CONGRESS-LIMITS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A House Republican leader who personally opposes a constitutional amendment to limit House and Senate terms said Tuesday he would vote for the measure because of its strong public support. </P>
+<P> ``I have long held the view that term limits are not needed or necessary,'' Ohio Rep. John Boehner, chairman of the House Republican conference, said at a news conference. </P>
+<P> But Boehner said Americans across the country, including 70 percent of the voters of his district, supported the idea of limiting congressional terms to six to 12 years. </P>
+<P> ``As their representative, I feel I have an obligation to respect their judgment,'' Boehner said. </P>
+<P> ``Term limits may be a bad idea whose time has come,'' he added. He said term limits would help restore public confidence in Congress. </P>
+<P> Supporters of term limits say they will make Congress more responsive to the public and keep a small group of long-term incumbents from controlling legislation. Opponents say voters can remove incumbents at any election, as they did in 1994 when several senior members were defeated. </P>
+<P> The House is scheduled to vote on several versions of the amendment next week, but it is uncertain if any of them will get the two-thirds majority needed for passage. </P>
+<P> A constitutional amendment on term limits is one of the promises in the House Republicans' ``Contract with America,'' but the issue has split the party. </P>
+<P> Several Republicans oppose the idea, including Assistant Majority Leader Tom DeLay of Texas and House Judiciary Chairman Henry Hyde of Illinois. </P>
+<P> Other Republicans support different amendments, with some favoring a six-year limit for House members while others back 12 years. Another version would let states set different limits. All the amendments include a 12-year Senate term limit. </P>
+<P> ``We strongly urge all Republican members to work for the version you prefer, but join us in strong support of whichever version stands for final passage,'' Speaker Newt Gingrich of Georgia and Rep. Dick Armey of Texas wrote colleagues. </P>
+<P> Republicans have a 230-204 House majority with one independent, so more than 60 Democratic votes would be needed for passage. Most Democrats are against the amendment. </P>
+<P> If it passes the House, the amendment would also have to be approved by a two-thirds majority in the Senate and ratified by 38 of the 50 states to become part of the Constitution. </P>
+</TEXT>
+</DOC>

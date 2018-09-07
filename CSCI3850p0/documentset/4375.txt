@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0166.950216</DOCID>
+<TDTID>TDT010486</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/16/95 06:41</DATE>
+<TITLE> U.S. official to visit Turkey</TITLE>
+<HEADLINE> U.S. official to visit Turkey</HEADLINE>
+<SUBJECT> BC-TURKEY-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANKARA (Reuter) </DATELINE>
+<P>  U.S. Assistant Secretary of State Richard Holbrooke is to visit Ankara on February 20 for a day of talks with the Turkish government, the U.S. embassy said in a statement Thursday. </P>
+<P> He had been scheduled to visit to discuss the divided island of Cyprus last month but the trip was put off when his plane broke down in Athens. </P>
+</TEXT>
+</DOC>

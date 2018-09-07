@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU005-0117.940911</DOCID>
+<TDTID>TDT003176</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/11/94 01:27</DATE>
+<TITLE> Storm kills at least one in Caribbean</TITLE>
+<HEADLINE> Storm kills at least one in Caribbean</HEADLINE>
+<SUBJECT> BC-WEATHER-USA 3RDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Updates with 11 p.m. EDT data, reference to Guantanamo)</NOTES>
+<DATELINE>CORAL GABLES, Fla (Reuter) </DATELINE>
+<P>  Tropical Storm Debby moved through the eastern Caribbean Saturday, causing heavy rains that left at least one dead and two missing on the island of Saint Lucia, the National Hurricane Center here said. </P>
+<P> At 11 p.m. EDT, the storm's center was located about 230 miles southeast of Santo Domingo, in the Dominican Republic. </P>
+<P> Debby was moving west-northwest at about 20 mph and forecasters said it was expected to continue on that course with some weakening of forward speed Sunday. </P>
+<P> Tropical storm warnings were in effect for Puerto Rico and the U.S. Virgin Islands, and the south coasts of both the Dominican Republic and Haiti on the island Hispaniola. A tropical storm watch was issued Saturday night for Jamaica. </P>
+<P> Forecasters also warned that if the storm remains on its current course and does not disperse, it will reach the U.S. Naval Base at Guantanamo in southeastern Cuba in two days. </P>
+<P> The United States now is housing more than 45,000 Haitian and Cuban refugees in tent cities at the base, in addition to several thousand U.S. military personnel. </P>
+<P> Maximum sustained winds were nearly 45 mph, making Debby a weak tropical storm. </P>
+<P> Forecasters said no significant change in strength was expected over the next 24 hours. </P>
+<P> Heavy rains associated with the storm brought with them the risk of flash flooding and mudslides, forecasters said. But heavy rains likely would be welcomed in Puerto Rico, which has been hit hard by drought for much of this year. </P>
+<P> Tropical storms become hurricanes when sustained winds reach 74 mph. Tropical depressions become tropical storms when sustained winds reach 39 mph. </P>
+<P> Debby had been the sixth tropical depression of the Atlantic hurricane season, which began June 1. </P>
+</TEXT>
+</DOC>

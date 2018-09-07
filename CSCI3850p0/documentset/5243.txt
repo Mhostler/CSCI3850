@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU014-0399.950327</DOCID>
+<TDTID>TDT011796</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 19:16</DATE>
+<TITLE> White House opposes repeal of broadcast tax break</TITLE>
+<HEADLINE> White House opposes repeal of broadcast tax break</HEADLINE>
+<SUBJECT> BC-HEALTH-TAX </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House said Monday it opposes repeal of a tax break for businesses selling broadcast properties to minorities, which is likely to scuttle Viacom's planned $2.3 billion sale of its cable systems. </P>
+<P> The Office of Management and Budget said in a statement it would be willing to consider modification to the tax break as part of its review of affirmative action programs. It could possibly accept a cap on the amount of gain companies could defer from taxes and changes in the ownership and holding period requirements. </P>
+<P> The House and Senate have both approved legislation to repeal the tax break as a way to pay for a permanent tax deduction for health insurance premiums paid by the self-employed. The previous law allowing a 25 percent deduction expired in 1993. </P>
+<P> Viacom said in a statement earlier this month that the deal to sell its cable systems would not make financial sense without a tax deferment. </P>
+<P> The White House said it supports the health insurance tax break. It also supports a provision in the bill that would permit taxing expatriate citizens on their capital gains. Regarding a limit on the earned income tax credit eligibility, the cap on investment income should be indexed for inflation. </P>
+<P> According to OMB, the entire legislation would raise $2.5 billion over the 1995-2000 period. </P>
+<P> The Senate version would permit a 30 percent health insurance deduction while the House would allow a 25 percent break back to 1994 and raise it to 30 percent in later years. </P>
+</TEXT>
+</DOC>

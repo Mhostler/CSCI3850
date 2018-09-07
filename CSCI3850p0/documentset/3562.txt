@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU001-0351.950103</DOCID>
+<TDTID>TDT008837</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/03/95 18:59</DATE>
+<TITLE> Training no guarantee of safe gun storage</TITLE>
+<HEADLINE> Training no guarantee of safe gun storage</HEADLINE>
+<SUBJECT> BC-GUNS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  Gun owners trained in using firearms are more likely to keep their loaded guns unlocked than untrained owners, suggesting training may be insufficient to cut the risk of accidental shootings, researchers said Tuesday. </P>
+<P> More than one-quarter of 451 gun owners surveyed who had received firearms training kept a gun loaded but in an unlocked place in their homes, against 14 percent of those who never had formal training. </P>
+<P> ``A keen interest in firearms could lead both to receiving training and to keeping guns ready for use,'' wrote study author David Hemenway of the Harvard School of Public Health in the Journal of the American Medical Association. </P>
+<P> ``One plausible explanation is that training increases owners' confidence in their ability to handle a loaded weapon without fear of unintentional injury. Another explanation is that some training programs instruct owners that it is sometimes appropriate to keep their guns ready for immediate use,'' he wrote. </P>
+<P> One government study found that 84 percent of unintentional firearm fatalities involved clear violations of good gun-handling practices. </P>
+<P> The Harvard researchers suggested modifications in gun design, community handgun safety campaigns and the adoption of laws that would hold adults criminally liable for a child's death resulting from negligent storage. </P>
+<P> ``Two devices -- a childproof safety mechanism and a mechanism that indicates whether a gun is loaded -- could reduce unintentional firearm fatalities by more than 30 percent,'' they wrote. </P>
+</TEXT>
+</DOC>

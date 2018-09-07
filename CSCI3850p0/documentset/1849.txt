@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU004-0056.941007</DOCID>
+<TDTID>TDT004578</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/07/94 04:52</DATE>
+<TITLE> Romania says stolen uranium from outside country</TITLE>
+<HEADLINE> Romania says stolen uranium from outside country</HEADLINE>
+<SUBJECT> BC-NUCLEAR-ROMANIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUCHAREST, Romania (Reuter) </DATELINE>
+<P>  A cache of stolen uranium seized in Romania last week came from outside the country, Romanian authorities said Friday. </P>
+<P> Six people, including two military officers, were arrested with the haul of almost ten pounds of uranium 235-238 in a villa at the resort of Snagov, north of Bucharest. </P>
+<P> The haul adds to international concern that nuclear materials are finding their way out of the former communist East Bloc through well established channels of organized crime. </P>
+<P> As a signatory to the Nuclear Non-Proliferation Treaty, Romania has been quick to deny the uranium seized last Saturday could have come from one of its civilian nuclear plants. </P>
+<P> ``The authorities in Bucharest did not panic and our country respects the treaty,'' Romanian police said in a statement. ``The uranium captured by the police does not come from the Romanian laboratories but was brought from outside.'' </P>
+<P> The uranium, said by defense officials to be non-fissionable, was seized by the organized crime squad of the Romanian police. Police declined to say where they thought the uranium came from, saying the probe was continuing with more arrests expected. </P>
+<P> Military authorities named two officers as among those picked up in the Snagov raid. They said one, named as Captain Alexandru Halauca, seemed to have been trying to take the uranium to Hungary. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0127.941231</DOCID>
+<TDTID>TDT008695</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 02:01</DATE>
+<TITLE> Indian train derails, 10 feared killed</TITLE>
+<HEADLINE> Indian train derails, 10 feared killed</HEADLINE>
+<SUBJECT> BC-INDIA-TRAIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BANGALORE, India (Reuter) </DATELINE>
+<P>  At least 10 people were feared killed and dozens injured when a train went off the rails near the southern city of Bangalore in India Saturday, a police official said. </P>
+<P> Five cars of the Udyan Express, a Bangalore-bound train from Bombay, derailed 12 miles outside the city near Yelahanka village, he said. </P>
+<P> Two cars carrying 140 passengers were severely damaged in the accident, which occurred minutes before the train was to arrive in Bangalore, officials said. </P>
+<P> Three bodies have been recovered and senior officials said they expected the death toll to rise. </P>
+<P> The chief minister of the southern state of Karnataka, H.D. Deve Gowda, and top officials rushed to the accident site. Bangalore is Karnataka's capital. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0152.950126</DOCID>
+<TDTID>TDT009785</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/26/95 15:13</DATE>
+<TITLE> Two killed, four wounded by Chapel Hill sniper</TITLE>
+<HEADLINE> Two killed, four wounded by Chapel Hill sniper</HEADLINE>
+<SUBJECT> BC-GUNMAN URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHAPEL HILL, N.C., Jan 26 (Reuter) </DATELINE>
+<P>  Two people were killed and four wounded including one police officer Thursday when a lone gunman fired a high-powered rifle at police and passersby in the downtown area. </P>
+<P> Police reported two killed and four wounded when the unidentified man, about 25 years old, opened fire on passing cars at approximately 2 P.M. EST from the corner of Henderson Street and Rosemary Street. </P>
+<P> He exchanged fire with officers who were across the street behind a tree for five minutes before a bystander, Bill Leone, a college senior and Gulf War Marine veteran, ran across the street and disarmed the gunman, police said. Leone was wounded by gunfire during the struggle. The gunman had been previously wounded by police. </P>
+</TEXT>
+</DOC>

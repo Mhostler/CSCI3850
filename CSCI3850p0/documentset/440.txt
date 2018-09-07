@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU013-0222.940727</DOCID>
+<TDTID>TDT001123</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/27/94 19:12</DATE>
+<TITLE> HEALTH OFFICIALS SAY E.COLI BACTERIA SPREADING</TITLE>
+<HEADLINE> HEALTH OFFICIALS SAY E.COLI BACTERIA SPREADING</HEADLINE>
+<SUBJECT> BC-USA-BACTERIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TRENTON, NJ (Reuter) </DATELINE>
+<P>  An outbreak of E. coli poisoning believed to be linked to ground beef has spread beyond sparsely populated northwest New Jersey counties, health authorities said Wednesday. </P>
+<P> Dr William Parkin, assistant health commissioner, said 35 cases in 10 counties have been reported in New Jersey and another dozen are being investigated. </P>
+<P> Two cases have reached a serious stage involving kidney failure, he added, saying that New Jerseyans were still being exposed ``to something out there.'' </P>
+<P> Ann McGuigan of the U.S. Department of Agriculture said the contamination was limited to ground beef. It probably originated in a slaughterhouse, she said, but the department does not know which one. </P>
+<P> Supermarkets are not required to keep records on their meat suppliers, she added. </P>
+<P> To avoid E. coli contamination, ground beef should be cooked thoroughly ``until the juices run clear,'' McGuigan recommended. </P>
+<P> Similar outbreaks are being investigated in Buffalo and Messina, New York, in Vermont and near Hartford, Connecticut, by the Department of Agriculture. ``So far, no deaths have resulted,'' she said. </P>
+</TEXT>
+</DOC>

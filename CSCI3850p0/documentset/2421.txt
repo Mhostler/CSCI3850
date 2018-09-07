@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU002-0443.941104</DOCID>
+<TDTID>TDT006087</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/04/94 19:53</DATE>
+<TITLE> Man missing in harbor after dock collapses</TITLE>
+<HEADLINE> Man missing in harbor after dock collapses</HEADLINE>
+<SUBJECT> BC-DOCK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SKAGWAY, Alaska (Reuter) </DATELINE>
+<P>  The Coast Guard on Friday was searching for a worker washed into an Alaska harbor when a dock collapsed after an apparent underwater landslide. </P>
+<P> The man, whose name was being withheld by authorities pending notification of his family, was one of five dock workers who fell into the harbor when a loading dock collapsed Thursday night. </P>
+<P> The other four workers were rescued and none were injured, the Coast Guard said. </P>
+<P> Damage to the dock and nearby state ferry terminal was extensive, amounting to millions of dollars, said Skagway City Manager Jim Filip. </P>
+<P> The dock section that broke off ``all disappeared into the harbor,'' Filip said in an interview. </P>
+<P> The wave produced by the dock collapse hit the ferry terminal's barge-loading platform ``and ripped it apart, and then that hit into the passenger ramp going into the ferry terminal,'' Filip said. </P>
+<P> The former gold-rush town is at the north end of southeast Alaska's famous Inside Passage and is a major tourist destination. </P>
+<P> The Coast Guard said it had launched a helicopter search for the missing man and that a cutter was aiding rescue crews. </P>
+<P> Officials believe the collapse was caused by a mud slide or rock slide that occurred underwater, Gazaway said. </P>
+<P> ``Apparently, it wasn't like an avalanche. It was like a subsurface, and urderwater situation,'' he said. ``This is fjord country, and fjords have very steep sides. Apparently, something gave way.'' </P>
+</TEXT>
+</DOC>

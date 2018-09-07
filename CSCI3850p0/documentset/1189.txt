@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0097.940906</DOCID>
+<TDTID>TDT002947</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/06/94 16:07</DATE>
+<TITLE> Blacks with rogue gene run risk of hypertension</TITLE>
+<HEADLINE> Blacks with rogue gene run risk of hypertension</HEADLINE>
+<SUBJECT> BC-HEALTH-GENE (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Release at 6:30 p.m. EDT (2230 GMT)</NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  Blacks who carry a rogue gene that helps regulate the body's salt and water balance were found to have a greater risk of high blood pressure, a study published Tuesday said. </P>
+<P> The presence of the gene, which directs the conversion of a blood enzyme, may only cause high blood pressure among blacks but not whites, though more study is needed, a group of researchers wrote in the American Journal of Hypertension. </P>
+<P> The researchers drew their conclusions after screening the genetic makeup of 37 African-Americans with normal blood pressure and 52 who suffered from high blood pressure, which is often a precursor to heart attacks or strokes. </P>
+<P> The gene is part of the renin-angiotensin system that regulates the body's salt and water balance. The system is activated by renin, an enzyme secreted by the kidneys into the bloodstream. Conversion of the enzyme is considered a pivotal part of the process. </P>
+<P> High blood pressure, or hypertension, can cause permanent damage to the heart and vascular system. </P>
+<P> The research was done by Kenrik Duru, Jia-Ming Wang and Theodore Kurts of the University of California at San Francisco, and Stephen Farrow and Warren Lockette of Wayne State University. </P>
+</TEXT>
+</DOC>

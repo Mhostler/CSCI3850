@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU007-0245.950314</DOCID>
+<TDTID>TDT011276</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/14/95 13:46</DATE>
+<TITLE> Dole questions U.S.-North Korea agreement</TITLE>
+<HEADLINE> Dole questions U.S.-North Korea agreement</HEADLINE>
+<SUBJECT> BC-KOREA-USA-DOLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Senate Majority Leader Bob Dole asked the State Department Tuesday to justify its decision to treat the U.S.-North Korean nuclear accord as a political agreement rather than a treaty. </P>
+<P> North Korea reached agreement with the United States last October to freeze its graphite nuclear program in return for light-water reactors, alternative energy supplies and steps for diplomatic ties with the United States. </P>
+<P> Washington and its allies had feared North Korea's graphite reactors could be used to develop nuclear weapons. </P>
+<P> If the agreed framework was considered to be a treaty, it would require ratification by the Senate. </P>
+<P> ``Numerous questions have been raised by the decision to treat the agreed framework as a non-binding 'political' agreement rather than as an international agreement, an executive agreement or a treaty,'' Dole, a Kansas Republican, said in a letter to Secretary of State Warren Christopher. </P>
+<P> Dole said the chairmen of the Senate committees on foreign relations, intelligence and energy had asked that the framework be considered a treaty. </P>
+<P> He asked Christopher to provide all legal memoranda and opinions concerning the framework to the Senate. </P>
+<P> ``At what point, and by whom, was the decision made to handle the agreed framework as a political agreement rather than as a treaty or an executive agreement? Was there any consultation with Congress on this issue?'' Dole asked Christopher. </P>
+<P> He also asked what the administration's position would be on submitting the agreement to the Senate as a treaty. </P>
+</TEXT>
+</DOC>

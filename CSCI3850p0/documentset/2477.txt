@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU004-0172.941108</DOCID>
+<TDTID>TDT006216</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/08/94 12:36</DATE>
+<TITLE> Cowlings not to be charged in Simpson case</TITLE>
+<HEADLINE> Cowlings not to be charged in Simpson case</HEADLINE>
+<SUBJECT> BC-SIMPSON-COWLINGS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Al Cowlings, the long-time friend of O.J. Simpson who took him on a wild freeway drive on the day of his June 17 arrest on double murder charges, will not be charged with aiding the flight of a fugitive, District Attorney Gil Garcetti said Tuesday. </P>
+<P> ``The evidence was insufficient to warrant prosecution. There is no developing investigation under way. We cannot prove the case. It does not meet our filing standards,'' Garcetti said. </P>
+</TEXT>
+</DOC>

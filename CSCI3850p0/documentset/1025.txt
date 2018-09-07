@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU012-0405.940827</DOCID>
+<TDTID>TDT002545</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/27/94 12:56</DATE>
+<TITLE> GRENADE KILLS TWO PEOPLE IN S.AFRICAN TAVERN</TITLE>
+<HEADLINE> GRENADE KILLS TWO PEOPLE IN S.AFRICAN TAVERN</HEADLINE>
+<SUBJECT> BC-SAFRICA 1STLD </SUBJECT>
+<AUTHOR>      By Craig Doonan </AUTHOR>
+<TEXT>
+<NOTES>(Eds: updates death toll)</NOTES>
+<DATELINE>DURBAN, South Africa (Reuter) </DATELINE>
+<P>  A hand grenade hurled into a crowded tavern in a black workers' hostel killed two people and wounded 38, many seriously, in South Africa's Zulu heartland, police said Saturday. </P>
+<P> One person died instantly and the second died in a hospital, police spokesman Henry Budham said. </P>
+<P> He said police had no clue as to who threw the grenade into the tavern, locaated in a migrant workers' hostel in the battle-scarred township of Umlazi Friday night. </P>
+<P> Budham said 24 people were seriously wounded. One man lost both legs. </P>
+<P> Violent crime is soaring in black townships, taking over from political killings that tormented South Africa until elections in April that gave power to the black majority. </P>
+<P> Umlazi is one of several KwaZulu-Natal townships where hundreds of people perished in a power struggle between president Nelson Mandela's ruling African National Congress (ANC) and the Zulu-based Inkatha Freedom Party. </P>
+<P> A policeman at the scene said: ``There were limbs on the floor when I got there. At least one person was blown apart.'' </P>
+<P> ``We don't know the motive. We have no suspects at this stage,'' added Constable Dewald Venter. </P>
+<P> Standing in a pool of blood at the doorway of the beer hall, Thandazile Maphumulo said she also had no idea what the motive was for the attack. </P>
+<P> ``I was visiting downstairs and I heard a loud bang. Then I heard screaming and I saw people running out. They were crying and bleeding,'' she said. </P>
+<P> Glebelands hostel is a sprawling multistory complex on the outskirts of Umlazi, where scores of residents have been killed each year in criminal and political violence. </P>
+<P> The independent Human Rights Commission said recently that although most of South Africa's townships had been relatively calm since April's first democratic elections, killings had continued in those in KwaZulu-Natal province. </P>
+<P> About 10,000 people have died in the province since 1984 in fighting between the ANC and Inkatha. </P>
+<P> Nationwide, more than 15,000 people are estimated to have died in political violence since then-President F.W. de Klerk lifted a ban on the ANC and freed Mandela in February 1990. Almost all the deaths were before the elections. </P>
+</TEXT>
+</DOC>

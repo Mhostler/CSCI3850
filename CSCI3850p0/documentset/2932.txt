@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU014-0056.941130</DOCID>
+<TDTID>TDT007276</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/30/94 19:42</DATE>
+<TITLE> Britain basks in mildest November on record</TITLE>
+<HEADLINE> Britain basks in mildest November on record</HEADLINE>
+<SUBJECT> BC-BRITAIN-WEATHER </SUBJECT>
+<AUTHOR>     By Andrew Gray </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain's warmest November in more than 300 years has caused havoc among plants and animals and left many citizens hankering for the first cold snap of winter. </P>
+<P> Normally November brings chill winds and lashing rain storms, but this year the country has basked in average temperatures of around 50 degrees, nearly seven degrees above normal. </P>
+<P> Plants still think it's endless summer. Hibernating animals and birds that usually head south for winter are sticking around. </P>
+<P> A London Weather Center spokesman said the average November temperature for central England was the highest since records began in 1659. </P>
+<P> ``The reason we've had the mildest November we know of is because we have had a prolonged series of southwesterly winds, carrying warm air up from the Azores (islands in the mid-Atlantic),'' he said. </P>
+<P> Jim Keesing, a scientific officer at Kew botanic gardens in London said he had never known so many plants bloom early in his 27 years at the world-famous gardens. </P>
+<P> ``There are also a number of plants, such as begonias and geraniums, still hanging on from the summertime,'' Keesing added. </P>
+<P> The Royal Society for the Protection of Cruelty to Animals said hedgehogs were delaying hibernation because of the mild weather. </P>
+<P> ``We are receiving a large number of calls from people finding hedgehogs who have not yet hibernated. They can't find anywhere because it's so warm,'' a spokeswoman said. </P>
+<P> She warned the hedgehogs were losing bodyweight as food became harder to find, and could die when the cold snap hits. </P>
+<P> The warm weather could spell disaster for Britain's flowers when spring arrives. </P>
+<P> ``If they all open their buds now, there will not be so much flowering next year, and less of a lovely spring than we're used to,'' Keesing said. ``Not everything in the garden is rosy.'' </P>
+</TEXT>
+</DOC>

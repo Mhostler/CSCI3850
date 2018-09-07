@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU002-0369.941004</DOCID>
+<TDTID>TDT004489</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/04/94 17:58</DATE>
+<TITLE> Nigerian ruler cuts fuel price hike slightly</TITLE>
+<HEADLINE> Nigerian ruler cuts fuel price hike slightly</HEADLINE>
+<SUBJECT> BC-NIGERIA </SUBJECT>
+<AUTHOR>     By James Jukwey </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LAGOS, Nigeria (Reuter) </DATELINE>
+<P>  Nigerian military ruler General Sani Abacha slightly reduced a sudden four-fold increase in fuel prices and promised Tuesday a new welfare package to cushion the effects. </P>
+<P> In a radio and television broadcast, Abacha said a litre of petrol would now sell for 50 cents instead of the 68-cent price set by state-owned Nigeria National Petroleum Corporation on Sunday. </P>
+<P> Past fuel price hikes have triggered unrest in Nigeria, a major oil producer used to pump prices that are among the world's lowest. </P>
+<P> The jump in pump prices, from 15 cents per quart, pushed up prices for food and transport and triggered some protest in the north of this West African oil-producing country. </P>
+<P> Abacha said the government could not continue to subsidize fuel prices and would use the revenue to develop an economy and infrastructure that is near collapse. </P>
+<P> Abacha's broadcast did not mention Moshood Abiola, the undeclared winner of last year's annulled presidential vote, whose detention sparked unrest and strikes by oil workers in July and August. </P>
+<P> The nation has been in turmoil since former military rulers scrapped the vote. Abiola was arrested in June for proclaiming himself president and charged with treason. </P>
+<P> In his broadcast, Abacha announced more allowances for workers as part of a welfare package for people in this country that is Africa's most populous. </P>
+<P> With a per capita income of less than $330 Nigeria is now one of the world's poorest nations despite its oil wealth. </P>
+</TEXT>
+</DOC>

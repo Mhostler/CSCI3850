@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU012-0222.940725</DOCID>
+<TDTID>TDT001007</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/25/94 16:07</DATE>
+<TITLE> DELAYS SEEN IN GETTING WATER TO RWANDAN REFUGEES</TITLE>
+<HEADLINE> DELAYS SEEN IN GETTING WATER TO RWANDAN REFUGEES</HEADLINE>
+<SUBJECT> BC-RWANDA-USA-WATER </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The coordinator of U.S. forces around the world told a congressional panel Monday it would take a month to build a system to provide water for all Rwandan refugees in Zaire. </P>
+<P> Lieutenant General John Sheehan, director for operations of the Joint Chiefs of Staff, told the Senate Armed Services Committee that within two or three days purifiers will be in place that can filter one million gallons a day from the polluted waters of Lake Kivu. </P>
+<P> The area near the Zaire city of Goma has become swollen with an estimated 1.2 million refugees from the Rwandan civil war, who face death from cholera by drinking polluted water. The polluted waters also threaten the 200,000 Zairian residents of Goma. </P>
+<P> Sheehan said it would take ``25 to 30 days'' to complete a system that can purify and deliver adequate water to the far-flung camps of the refugees. </P>
+<P> ``What is the limiting factor?'' asked Sam Nunn, a Georgia Democrat. ``Can this be done faster?'' </P>
+<P> Sheehan said the airport with its single, 9,000-foot runway operates only during daylight, limiting operations. On Monday, for example, he said only 22 flights would land. </P>
+<P> ``We are working to make it 24 hours,'' he said, by adding controllers, lights and other equipment. In addition, he said, the military will be putting equipment on pallets to permit planes to unload quickly. </P>
+<P> Some of the equipment is also being brought in by ship and overland. The U.S. military is importing water trucks and pipelines, combined with water purification systems, from the United States and Germany. </P>
+<P> Sheehan said a water purification system capable of handling 51,000 gallons per hour was on a nonstop 22-hour air journey with in-flight refueling from San Francisco. </P>
+<P> ``It's not just producing water,'' Sheehan said in an interview after his testimony. ``You've got to produce a distribution system of trucks and pipes ... for the equivalent of a large city ... To build a water system for two million people is a tough business.'' </P>
+<P> To underscore the high priority the military has given the operation, Sheehan said he was reporting every four hours to the chairman of the military's Joint Chiefs of Staff, John Shalikashvili. </P>
+<P> Cholera causes severe dehydration and diarrhea that can kill within hours if not treated. Sheehan said the military is bringing in six million kits that will have needed salts that can be added to water to treat dehydration. </P>
+</TEXT>
+</DOC>

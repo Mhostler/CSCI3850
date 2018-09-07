@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU013-0187.950129</DOCID>
+<TDTID>TDT009877</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/29/95 02:03</DATE>
+<TITLE> Sundance Film Festival bestows top awards</TITLE>
+<HEADLINE> Sundance Film Festival bestows top awards</HEADLINE>
+<SUBJECT> BC-FILM-SUNDANCE </SUBJECT>
+<AUTHOR>     By John Gutman </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARK CITY, Utah (Reuters) </DATELINE>
+<P>  ``The Brothers McMullen,'' a dramatic film about three Irish-Catholic brothers in New York and the documentary ``Crumb'' about the cartoonist R. Crumb won top prizes Saturday night at this year's Sundance Film Festival. </P>
+<P> The festival, the brainchild and pet project of actor- director Robert Redford, who makes his home in Utah, honors independent, often non-mainstream film projects and has been growing in popularity through the years. </P>
+<P> The event is internationally recognized as the single most important showcase of American independent cinema. </P>
+<P> ``The Brothers McMullen,'' directed by Edward Burns chronicles the lives and relationships of the three brothers who find themselves living together again as adults. It was produced by Burns and Dick Fisher. </P>
+<P> ``Crumb,'' by Terry Zwigoff, which also won the Cinematography Award, is a study of the life and work of cartoonist and pop artist R. Crumb, best known for his ``Keep on Truckin''' pop art work, the Janis Joplin ``Cheap Thrills'' album cover and Fritz the Cat cartoon. </P>
+<P> It was produced by Zwigoff and Lynn O'Donnell. </P>
+<P> Other past winners at the festival include ``Paris is Burning,'' and the commercially successful ``sex, lies and videotape.'' </P>
+<P> The hugely popular ``Four Weddings and a Funeral,'' filmed in the United Kingdom and starring Hugh Grant and Andie MacDowell was shown last year. </P>
+<P> The Audience Award, which goes to the independent film that will likely be showcased the most, went to ``Picture Bride,'' directed by Kayo Hatta. </P>
+<P> Set in colonial Hawaii, it is the story of a young Japanese woman who prepares to marry a man she doesn't know and work on a sugar cane plantation. It is a look at a generation of migrant women in the South Pacific early in the twentieth century. </P>
+<P> The popularity of the festival has grown through the years and nearly every film shown this year was a sellout. </P>
+<P> The festival, which runs through Sunday, is held in Park City, 40 miles east of Salt Lake City; in downtown Salt Lake City; and at Redford's Sundance ski resort near Orem, 50 miles south of Salt Lake. </P>
+</TEXT>
+</DOC>

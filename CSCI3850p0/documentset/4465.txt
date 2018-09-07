@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0297.950221</DOCID>
+<TDTID>TDT010630</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/21/95 17:52</DATE>
+<TITLE> Clinton names new domestic policy counselor</TITLE>
+<HEADLINE> Clinton names new domestic policy counselor</HEADLINE>
+<SUBJECT> BC-CLINTON-COUNSELOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton named William Curry Jr., a Democrat who lost the 1994 Connecticut gubernatorial election, to be a new counselor to the president specializing in domestic and political issues, the White House said Tuesday. </P>
+<P> Curry served as Connecticut state comptroller from 1991 to 1995 and as a state senator from 1979 to 1983. He is 43 years old and a lawyer who attended Georgetown University. </P>
+<P> ``The president is looking forward to having the benefit of Bill Curry's advice,'' White House chief of staff Leon Panetta said in a White House statement. </P>
+<P> ``He brings to the White House the experience and the perspective of another former state official who has dealt with the federal government from the other side of the fence,'' Panetta said of Curry. </P>
+<P> Clinton campaigned for Curry in the governor's race, which Curry lost to Republican John Rowland. </P>
+</TEXT>
+</DOC>

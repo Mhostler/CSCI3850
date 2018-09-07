@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0059.940920</DOCID>
+<TDTID>TDT003719</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/20/94 11:29</DATE>
+<TITLE> U.S. military officials plan to meet Aristide</TITLE>
+<HEADLINE> U.S. military officials plan to meet Aristide</HEADLINE>
+<SUBJECT> BC-HAITI-ARISTIDE-SHALIKASHVILI </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  U.S. military officials plan to meet with exiled Haitian President Jean-Bertrand Aristide Tuesday to try to allay his concerns about terms of the armed intervention in Haiti, the U.S. military chief said. </P>
+<P> ``I have a plan for our folks to go over there and meet with him today,'' General John Shalikashvili, chairman of the Joint Chiefs of Staff, said. He said he also would like to talk with Aristide, who has given a frosty reception to the deal allowing Haiti's military rulers to remain in the country. </P>
+</TEXT>
+</DOC>

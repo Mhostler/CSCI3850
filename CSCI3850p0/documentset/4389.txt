@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0326.950216</DOCID>
+<TDTID>TDT010504</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/16/95 16:58</DATE>
+<TITLE> Transport unions outline congressional battles</TITLE>
+<HEADLINE> Transport unions outline congressional battles</HEADLINE>
+<SUBJECT> BC-BUDGET-UNIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Transportation unions called on Congress and President Clinton Thursday to fight the balanced budget amendment and other proposals that would cut Amtrak and transit funding and jeopardize airline safety. </P>
+<P> The 30 unions of the AFL-CIO Transportation Trade Department (TTD), representing workers in air, rail, transit, trucking and related industries, said Congress and Clinton two years ago vowed to revitalize the U.S. transportation system. </P>
+<P> ``But today,'' said TTD President Ron Carey, ``we face a mindless rush to slash vital transportation programs and expose the public and transportation workers to great harm and the loss of service and jobs.'' </P>
+<P> The TTD executive committee, meeting in Bal Harbour, Fla., said proposed cuts in mass transit spending would lead to service reductions, fare increases and lost jobs. The Amtrak cuts could end in the destruction of passenger rail service in America, it warned. </P>
+<P> The TTD also said proposals to corporatize or privatize the nation's air traffic control system, now part of the Federal Aviation Administration, could jeopardize government safety oversight of air travel. </P>
+<P></P>
+</TEXT>
+</DOC>

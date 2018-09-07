@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU007-0430.950117</DOCID>
+<TDTID>TDT009420</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/17/95 18:35</DATE>
+<TITLE> Congress clears bill lifting exemption to work laws</TITLE>
+<HEADLINE> Congress clears bill lifting exemption to work laws</HEADLINE>
+<SUBJECT> BC-CONGRESS-LAWS </SUBJECT>
+<AUTHOR>     By William Scally </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A bill subjecting Congress to the same workplace laws that apply to private business cleared the House Tuesday and headed to President Clinton for signature. </P>
+<P> House passage on a unanimous vote of 390-0 followed Senate approval of the bill last week by 98-1. </P>
+<P> The House had passed a slightly different version of the high-priority measure on the first day of the new Republican-controlled Congress Jan. 4. </P>
+<P> The so-called congressional accountability bill meets complaints that Congress is arrogant and out of touch because it enacts costly laws for others which it does not observe. </P>
+<P> Some proponents of the bill have said that applying the laws to Congress would make lawmakers think twice before enacting new workplace laws. </P>
+<P> The measure would require Congress to comply with 11 laws, including those dealing with fair labor standards, age discrimination and family and medical leave. </P>
+<P> Some Democrats complained that the measure was being considered under rules that allowed no amendments, in conflict with Republican promises of greater openness in the legislative process. </P>
+<P> The brief House debate was in contrast to a five-day debate in the Senate, where Democrats sought unsucsessfully to use it as a vehicle for other congressional reforms. </P>
+<P> The Senate did, however, codify a ban on senators' use of ''frequent flier'' airline miles on personal trips. </P>
+<P> Asked why the House did not institute the same restriction, Speaker Newt Gingrich told reporters the question should be examined but it was ``not a simple issue.'' </P>
+<P> ``The House Oversight Committee ought to look at it from a profamily standpoint,'' he said, adding that frequent flier awards could help the families of members who lived far from Washington and whose resources were meager. </P>
+<P> ``I often used them for my wife and children,'' he said. </P>
+<P> Gingrich chided reporters for what he called ``nitpicking'' on the frequent flier issue. </P>
+<P> He said the bill was being sent to the president at the earliest point in a new Congress since 1933 and termed the action ``a pretty good first step.'' </P>
+</TEXT>
+</DOC>

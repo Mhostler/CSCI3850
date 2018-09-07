@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0357.950106</DOCID>
+<TDTID>TDT008945</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/06/95 04:20</DATE>
+<TITLE> Russian paratroopers advance on Grozny - deputy</TITLE>
+<HEADLINE> Russian paratroopers advance on Grozny - deputy</HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA-PARATROOPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  A division of Russian paratroopers was moving toward Grozny Friday from the army's main headquarters just outside Chechnya, a Russian parliamentarian was quoted as saying. </P>
+<P> Aivars Lezdinsh told Interfax news agency from Ingushetia, west of Chechnya, that the troops were on the move from their headquarters in the town of Mozdok. A division generally consists of several thousand soldiers. </P>
+<P> The vice-president of Ingushetia, Boris Agapov, told Reuters by telephone that large numbers of troops were slowly on the move about three to five miles outside Grozny. </P>
+<P> ``It looks like the Russian troops are now acting according to the rules from a military standpoint,'' he said from the Ingush capital Narzan. </P>
+<P> Russia sent troops into Chechnya Dec. 11 to end the region's bid for independence. But Kremlin leaders have been heavily criticized for a New Year's Eve tank-led push on the city which incurred heavy losses. </P>
+</TEXT>
+</DOC>

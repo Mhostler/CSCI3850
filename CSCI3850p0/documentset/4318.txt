@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0003.950213</DOCID>
+<TDTID>TDT010398</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/13/95 13:13</DATE>
+<TITLE> Big shark puts little village on the map:</TITLE>
+<HEADLINE> Big shark puts little village on the map:</HEADLINE>
+<SUBJECT> BC-CHILE-SHARK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SANTIAGO (Reuter) </DATELINE>
+<P>  A 26-foot long shark caught by fishermen who accused it of chewing up their nets has turned a tiny Chilean village into an unexpected tourist attraction, local television reported Monday. </P>
+<P> Fishermen netted the basking shark -- the biggest of its kind ever seen in the area -- and used ropes to haul it on to the beach at Coliumo, near the southern city of Concepcion. The shark drew carloads of summer vacation tourists, said Chilean television, which showed children climbing onto the giant carcass and posing for snapshots. </P>
+</TEXT>
+</DOC>

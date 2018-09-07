@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0397.950317</DOCID>
+<TDTID>TDT011364</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/17/95 00:29</DATE>
+<TITLE> Tanker overturns on Washington beltway</TITLE>
+<HEADLINE> Tanker overturns on Washington beltway</HEADLINE>
+<SUBJECT> BC-TANKER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A tanker overturned on Interstate 495 late Thursday, spilling its load of 8,900 gallons of gasoline and stranding hundreds of motorists heading home to the Virginia suburbs of the nation's capital. </P>
+<P> Local television reports said the accident occurred around 6 p.m., shutting down part of one of the main highways in the area at the height of afternoon rush hour. </P>
+<P> The stations, citing reports by witnesses, said the tanker overturned as it entered the beltway in Annadale, Va. </P>
+<P> A Fairfax County fire official told the local ABC affiliate WJLA-TV the highway would likely reopen in time for the morning commute back to Washington. </P>
+<P> He said officials were trying to contain the gasoline, some of which spilled into a small river in the area. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0352.950310</DOCID>
+<TDTID>TDT011164</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/10/95 15:30</DATE>
+<TITLE> U.S. welcomes tough Mexican fiscal plan</TITLE>
+<HEADLINE> U.S. welcomes tough Mexican fiscal plan</HEADLINE>
+<SUBJECT> BC-MEXICO-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House Friday welcomed ''tough monetary and fiscal measures'' announced by the Mexican government to help repair Mexico's economy. </P>
+<P> Spokesman Mike McCurry said the measures demonstrate Mexico's willingness to take necessary yet painful steps to put itself back on the road to long-term economic health. </P>
+<P> ``We do welcome the tough monetary and fiscal measures that were announced by the government of Mexico ... They demonstrate Mexico's resolve to restore financial stability and to restore confidence in the markets,'' McCurry told reporters. </P>
+<P> The plan, announced Thursday, called for tax hikes, price rises and other stiff medicine to tackle the nearly three-month-old crisis which has plunged the economy into recession, wiped more than 40 percent off the value of the national currency and thrown hundreds of thousands of people out of work. </P>
+</TEXT>
+</DOC>

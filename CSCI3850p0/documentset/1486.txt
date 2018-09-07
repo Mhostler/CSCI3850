@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU009-0301.940919</DOCID>
+<TDTID>TDT003676</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/19/94 13:03</DATE>
+<TITLE> Bad weather delays space shuttle landing</TITLE>
+<HEADLINE> Bad weather delays space shuttle landing</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  NASA said it was delaying the space shuttle's return by at least 90 minutes Monday because of cloudy skies and a forecast for thunderstorms in Florida. </P>
+<P> The next landing opportunity for Discovery and its crew will come at 3:55 p.m. EDT, after one more orbit of Earth, the space agency said. </P>
+</TEXT>
+</DOC>

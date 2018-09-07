@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0204.950224</DOCID>
+<TDTID>TDT010725</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/24/95 20:44</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-TRADE-CHINA-TALKS -2 BEIJING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``There were meetings that were held last night,'' U.S. Deputy Trade Representative Charlene Barshefsky told reporters. ``There was no progress made.'' </P>
+<P> ``If there is going to be agreement there will have to be very significant progress made today,'' she said as she left for a final day of talks at the Ministry of Foreign Trade and Economic Cooperation. </P>
+<P> ``Whether that is possible or not, I can't predict,'' she said. </P>
+<P> Tit-for-tat sanctions worth more than $2 billion are due to take effect Sunday if the two sides fail to reach agreement over preventing counterfeiting of copyrights, trademarks and patents in China. </P>
+</TEXT>
+</DOC>

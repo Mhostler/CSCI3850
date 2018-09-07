@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU008-0404.950317</DOCID>
+<TDTID>TDT011365</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/17/95 02:01</DATE>
+<TITLE> Reich set up GOP monitors at Labor Dept-report</TITLE>
+<HEADLINE> Reich set up GOP monitors at Labor Dept-report</HEADLINE>
+<SUBJECT> BC-REICH-CONTRACT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Labor Secretary Robert Reich set up a monitoring group in the Labor Department to gather information on the Republican agenda in Congress and its supporters, the Washington Times reported Friday. </P>
+<P> The paper said it had obtained internal Labor Department memos which showed for the first time that there were broad inquiries and data-gathering of a political nature concerning the Republican ``Contract with America'' agenda. </P>
+<P> It said the memos also flew in the face of Reich's earlier denial, in a letter to Sen. Connie Mack, R-Fla., that he had issued memos assigning Labor Department agencies and employees to carry out political intelligence gathering for the Clinton administration. </P>
+<P> The latest disclosures follow similar criticism against the Environmental Protection Agency. House Republicans have accused EPA Administrator Carol Browner of keeping possibly illegal lists of GOP opponents and activitating grassroots opposition to the GOP's ``Contract.'' </P>
+<P> The paper quoted from one memo entitled ``Assignments to Oversight Team'', in which Labor Department workers were asked to collect information on the GOP agenda, including writing up responses for the secretary to each Republican recommendation aimed at their specific area, as well as ``worst horror stories'' written up in Republican statements. </P>
+<P> ``This latest memo shows that their activity was much more political and much more aggressive in combating the Contract with America agenda than anyone realized,'' it quoted a Joint Economic Committee official as saying. </P>
+<P> When news reports about the ``Oversight'' committee first surfaced, Reich denied that there had been any memo circulated that directed employees to engage in political information gathering. But he agreed to dismantle the group to avoid any possible misunderstanding about the objectivity of the Bureau of Labor Statistics. </P>
+<P> The paper quoted a spokesman for the Labor Department saying that the memo was a set of assignments given to the agencies to prepare for congressional hearings. </P>
+</TEXT>
+</DOC>

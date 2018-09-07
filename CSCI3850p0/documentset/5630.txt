@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU006-0312.950410</DOCID>
+<TDTID>TDT012385</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/10/95 14:33</DATE>
+<TITLE> Mexico City transport chief found dead</TITLE>
+<HEADLINE> Mexico City transport chief found dead</HEADLINE>
+<SUBJECT> BC-MEXICO-TRANSPORT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  The Mexico City transport chief was found dead of gunshot wounds Monday, adding to a city transport crisis that has included the bankruptcy of the public bus company and the arrest of a prominent union leader. </P>
+<P> The body of Luis Miguel Moreno, the capital's Secretary of Transport and Highways, was discovered in his office in Mexico City's fashionable Zona Rosa district. </P>
+<P> Initial reports indicated Moreno killed himself, but a senior official at the Mexico City attorney general's office said in a television interview there was no suicide note and the gun used apparently belonged to a police security guard at the site. </P>
+<P> The official, Ricardo Najera, said Moreno died from one or two bullets to the chest. </P>
+<P> The death adds to a transport crisis in this city of about 20 million people. On Saturday, city authorities declared Mexico City's Ruta 100 public bus company bankrupt, and since police have arrested six anti-government Ruta 100 labor leaders on charges of stealing almost $1.5 million from union funds. </P>
+<P> Those arrested include union strongman Ricardo Barco, who was caught by police Sunday at a Mexico City restaurant. </P>
+<P> The union is one of Mexico's most combative and has recently been accused of secretly channelling funds to rebels of the Zapatista National Liberation Army in the southern state of Chiapas. </P>
+<P> Union members have accused the government of attacking it for its independent stance. However, there have been persistent reports of corruption in the union and the Ruta 100 administration. </P>
+<P> The union claims the company's shutdown violates federal work laws and are demanding Barco's release. </P>
+<P> City authorities have hired 1,400 private buses to provide free service for two weeks while a new system is set up. </P>
+</TEXT>
+</DOC>

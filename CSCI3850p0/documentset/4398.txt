@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0421.950217</DOCID>
+<TDTID>TDT010514</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/17/95 06:19</DATE>
+<TITLE> Muslim militants kill Egyptian policemen</TITLE>
+<HEADLINE> Muslim militants kill Egyptian policemen</HEADLINE>
+<SUBJECT> BC-EGYPT-MILITANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ASSIUT, Egypt (Reuter) </DATELINE>
+<P>  Gunmen thought to be Muslim militants shot and killed two police sentries in southern Egypt Friday morning, security sources said. </P>
+<P> The killings bring the death toll from political violence in Egypt to more than 660 since the militants, demanding a strict Islamic state, took up arms against the government in 1992. </P>
+<P> The sentries, Lutfi Hifzi, 35, and Mohamed Gamal Sayyed, 45, were walking along a drainage canal near the village of Itqa when the gunmen opened fire, the sources said. </P>
+<P> Unarmed and in civilian clothes, the sentries were on their way to work at a local police station, they added. </P>
+<P> Itqa is near the Nile Valley town of Mallawi, 160 miles south of Cairo and one of the centers of the conflict between the police and the militant Gama'a al-Islamiya. </P>
+<P> The security sources said police suspected the gunmen were members of the Gama'a (Islamic Group), the largest militant group attacking policemen. The gunmen fled. </P>
+</TEXT>
+</DOC>

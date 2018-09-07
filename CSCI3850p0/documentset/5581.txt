@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU005-0182.950408</DOCID>
+<TDTID>TDT012306</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/08/95 03:12</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-KOREA-REACTOR -2 SEOUL (REOPENS) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:    Pyongyang underscored its refusal again on Saturday.</NOTES>
+<DATELINE></DATELINE>
+<P> ``South Korea will never be allowed to play a 'pivotal role' in the provision of the light-water reactors and the scheme to provide South Korean-model light-water reactors will eventually go bankrupt,'' the state-run Korean Central News Agency said in report monitored in Tokyo. </P>
+<P> ``The DPRK (Democratic People's Republic of Korea) has never invited South Korea to take part in the delivery of the light-water reactors nor expected it to play a 'role','' it said. </P>
+<P> ``The South Korean puppets have no justification nor qualification to poke their nose into the DPRK-U.S. negotiations,'' it said. </P>
+<P> North Korea's latest refusal comes after South Korea, the United States and Japan, the founding members of the Korean Peninsula Energy Development Organization (KEDO), confirmed on Friday their intention to supply South Korean reactors. </P>
+<P> The U.S.-based KEDO is the international consortium established to implement the nuclear agreement. </P>
+<P> The United States and North Korea are set to resume talks on the nuclear reactor dispute in Berlin on April 12 and aim to complete a specific agreement by April 21. </P>
+<P> North Korea has threatened to resume its nuclear programme if no agreement is reached by the deadline. </P>
+</TEXT>
+</DOC>

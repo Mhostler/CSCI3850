@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU005-0411.940912</DOCID>
+<TDTID>TDT003234</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/12/94 12:14</DATE>
+<TITLE> Saudia moving closer to finalize $6 billion aircraft deal</TITLE>
+<HEADLINE> Saudia moving closer to finalize $6 billion aircraft deal</HEADLINE>
+<SUBJECT> BC-SAUDI-USA-AIRCRAFT </SUBJECT>
+<AUTHOR>     By Ashraf Fouad </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Saudi Arabia's national flag carrier Saudia is moving closer to completing a more than $6 billion deal with U.S. commercial aircraft and engine makers but industry experts said Monday Britain's Rolls-Royce could win part of the lucrative deal. </P>
+<P> Arab and American experts said Saudia has almost completed a technical evaluation of offers following complex talks earlier this year with two U.S. aircraft makers and international engine manufacturers. </P>
+<P> An Arab expert familiar with the talks told Reuters Saudia now appears more inclined to order from 29 Boeing Co 737 aircraft, 14 next-generation 777s and four to six 747s while McDonnell Douglas Corp could earn an order for between 11 and 14 of its tri-engine long body MD-11. </P>
+<P> ``I think one of the things holding back the deal is not monetary but some in Saudia are not in favor of the MD-11s and do not want to add a new plane to the fleet,'' said one American aviation industry expert. </P>
+<P> The MD-11s are flown by the Saudi Arabian Royal Fleet and experts say a decision by Saudia to acquire the aircraft could involve political considerations to help the American airframe maker. </P>
+<P> ``It will certainly help the MD-11 production line which is in trouble. Saudia's concerns are legitimate,'' said the expert who closely follows the talks. ``I believe some in Saudia would rather increase the number of 747s and 777s instead of having to worry about an aircraft by a different maker.'' </P>
+<P> Political considerations played a major role in Saudi Arabia's decision in February to buy more than 50 new aircraft from Boeing and McDonnell Douglas of the U.S. after intense lobbying by American and European aircraft makers and several heads of state. </P>
+<P> Saudia has yet to announce its much-awaited decision. No deadline for the announcement has been set and experts said a deal this size would probably have to be approved by the Saudi Arabian cabinet which is headed by King Fahd. </P>
+<P> About 60 percent of the engine contracts are expected to go to General Electric Co while Pratt and Whitney and Rolls-Royce Plc could share the rest, experts said. </P>
+<P> Originally, Saudia, like British Airways before it, was looking to power the new 747 jumbo jets with Pratt and Whitney engines rather than Rolls-Royce engines which are already in service with its fleet. </P>
+<P> ``I think Saudia will after all go with the Rolls engines for the 747s although there are still some reservations,'' one Arab expert said. </P>
+<P> Engines account for 20 to 25 percent of the value of an aircraft. </P>
+<P> Saudia, which flies non-stop to the U.S. and the Far East, appears to have scaled down a requirement for long-haul jumbo jets in favor of increasing the number of 777s, the world's largest twin-engine which was unveiled in April and is already on order by regional carrier Gulf Air and Dubai's Emirates airline. </P>
+<P> Experts said Saudia was strongly in favor of the Boeing 737s over McDonnell Douglas's Md-90. The new aircraft will be powered by engines from CFM International, a 50-50 joint venture between General Electric and France's state-owned Snecma. </P>
+</TEXT>
+</DOC>

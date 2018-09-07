@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0027.950411</DOCID>
+<TDTID>TDT012430</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/11/95 07:12</DATE>
+<TITLE> Crime falls in England, Wales for second year</TITLE>
+<HEADLINE> Crime falls in England, Wales for second year</HEADLINE>
+<SUBJECT> BC-BRITAIN-CRIME </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Recorded crime dropped by 5 percent in England and Wales in 1994 for a second successive annual fall, providing the Conservative government with much-needed good news Tuesday. </P>
+<P> Law and order has become a hot political issue between the deeply unpopular Conservatives and a revived opposition Labour Party. </P>
+<P> Official figures showed there were 5.25 million crimes in England and Wales, one for every 10 people. Crime fell one percent in 1993 and the Home Office (interior ministry) said the fall over two years was the largest in more than 40 years. </P>
+<P> The ministry said police attempts to combat burglary and car crime were particularly successful. Burglary was down eight percent in 1994, the first annual fall since 1988, and vehicle crime fell 10 percent. </P>
+<P> The Conservatives made the fight against crime one of the pillars of their legislative program after winning the 1992 election. Fear of crime is particularly high among middle-class voters who traditionally vote Conservative and believe that crime is almost out of control, according to opinion polls. </P>
+<P> But Tuesday's figures also contained worrying items. Violent and sexual crimes rose 6 percent with rapes up 11 percent, partly because victims are more willing to report offences. Only one in four crimes were solved. </P>
+</TEXT>
+</DOC>

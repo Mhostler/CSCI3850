@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU002-0292.950503</DOCID>
+<TDTID>TDT013377</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 10:53</DATE>
+<TITLE> Greenpeace sounds alarm for Venice lagoon</TITLE>
+<HEADLINE> Greenpeace sounds alarm for Venice lagoon</HEADLINE>
+<SUBJECT> BC-ITALY-VENICE </SUBJECT>
+<AUTHOR>     By Melanie Goodfellow </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  The environmental group Greenpeace sounded the alarm for the Venice lagoon Wednesday, saying its waters are a hundred times more toxic than some of Europe's most industrially polluted rivers. </P>
+<P> ``The level of dioxin around Venice's petrochemical district of Marghera is double that found in the Rhine -- one of the world's most polluted ecosystems -- and some 10 to 100 times higher than those of other European industrial areas,'' a Greenpeace report said. </P>
+<P> Dioxin is a highly toxic poison found in weedkillers and bleaching agents. It is known to cause cancer, liver and kidney diseases and birth defects. </P>
+<P> The report, issued at a news conference, said other forms of poisonous industrial by-products such as PCBs and HCBs - both highly toxic chemical compounds -- had also been found in the lagoon. High dioxin levels were found in the Grand Canal. </P>
+<P> The report, called ``Death In Venice,'' was based on a study of samples of sediment collected close to the site of state-owned petrochemical company Enichem. </P>
+<P> Fabrizio Fabbri, who conducted the study, said its findings corresponded with two other recent research projects on lagoon contamination by private and state health institutes. </P>
+<P> ``Those two studies didn't consider the area close to the petrochemical plants but their results were depressing enough,'' Fabbri said. </P>
+<P> ``There is a growing conflict between the tourism and fishing industries and the activities of the petrochemical plants.'' </P>
+<P> The report said the poisonous waste could ultimately find its way back into the food chain. </P>
+<P> It said levels of contamination in mussels from the lagoon eclipsed by far those found in a similar study in Greece. </P>
+<P> The report was released a day before the start of a United Nations meeting in Sicily which will review a draft convention on pollution in the Mediterranean. </P>
+<P> Greenpeace said they feared fierce lobbying by industry would erode a pledge by the Italian government to eliminate the discharge of poisonous industrial compounds into the Mediterranean by 2005. </P>
+<P> ``Industry has said that our demands to stop the discharge of toxic waste in the Mediterranean will lead to the closure of factories and chemical plants in Europe and a loss of jobs,'' Fabbri said. </P>
+<P> ``But we are not asking industry for the impossible. There are a number of techniques through which production processes can be cleaned up. Of course their implementation costs money but the eventual benefits far outweight the costs,'' he said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU018-0090.950428</DOCID>
+<TDTID>TDT013226</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/28/95 17:47</DATE>
+<TITLE> Food stamp list smallest total since January 1993</TITLE>
+<HEADLINE> Food stamp list smallest total since January 1993</HEADLINE>
+<SUBJECT> BC-FOODSTAMPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Food stamp enrollment reached its lowest level in two years with 26.76 million Americans registered, the Agriculture Department said Friday. </P>
+<P> Food stamps are the major U.S. anti-hunger program, helping poor people buy groceries. Maximum benefit for a family of four is $386 per month. </P>
+<P> Participation in February, the latest month for which figures were available, was the lowest since January 1993, a department spokesman said. The number of Americans enrolled was 26.76 million. </P>
+<P> ``It's certainly encouraging,'' said the spokesman. ``It could signal an improvement in the economy.'' </P>
+<P> Enrollment usually is highest during winter and periods of economic stress. The record enrollment was 27.97 million in March 1994. Participation last January was 27.08 million. </P>
+<P> California led the nation with 3.18 million participants, followed by Texas with 2.58 million and New York with 2.2 million. </P>
+<P> States with more than one million enrolled were Florida with 1.37 million, Ohio and Pennsylvania with 1.17 million, and Illinois with 1.14 million. </P>
+</TEXT>
+</DOC>

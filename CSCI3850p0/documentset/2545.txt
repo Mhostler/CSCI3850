@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0449.941111</DOCID>
+<TDTID>TDT006375</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/11/94 06:06</DATE>
+<TITLE> China urges lifting of sanctions against Iraq</TITLE>
+<HEADLINE> China urges lifting of sanctions against Iraq</HEADLINE>
+<SUBJECT> BC-IRAQ-CHINA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  China welcomed Friday Iraq's announced recognition of Kuwait and called on the international community to consider the gradual lifting of sanctions. </P>
+<P> ``We welcome Iraq's official recognition of Kuwait's sovereignty and Iraqi-Kuwaiti border. This is a major step toward the final settlement of the issues left over from the Gulf War,'' foreign ministry spokesman Shen Guofang said. </P>
+<P> China hopes Iraq will continue to cooperate with the United Nations and make positive efforts for an early realization of peace and stability in the Gulf region on the basis of a full compliance with the relevant U.N. Security Council resolutions, Shen said. </P>
+<P> ``China maintains that, given the recent developments, the international community shall now consider the gradual lifting of sanctions against Iraq so as to ease the Iraqi people's sufferings,'' the Xinhua news agency quoted Shen as saying. </P>
+</TEXT>
+</DOC>

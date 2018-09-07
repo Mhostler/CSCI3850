@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0020.941216</DOCID>
+<TDTID>TDT008065</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/16/94 12:34</DATE>
+<TITLE> Russia's security chiefs meet over Chechen crisis</TITLE>
+<HEADLINE> Russia's security chiefs meet over Chechen crisis</HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA-SECURITY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Members of Russia's Security Council met Friday for emergency talks over breakaway Chechnya, President Boris Yeltsin's press office said. </P>
+<P> Defense Minister Pavel Grachev, counter-intelligence chief Sergei Stepashin and Interior Minister Viktor Yerin have been summoned to Moscow to attend the meeting, chaired by Prime Minister Viktor Chernomyrdin, a spokesman for Stepashin said. </P>
+<P> The presidential press office gave no details on the meeting or its participants. Yeltsin, who has been in hospital since Sunday after minor nose surgery, will not attend the meeting, his office said. </P>
+<P> Shortly before the meeting started Chernomyrdin said he was ready to meet Chechen leader Dzhokhar Dudayev for talks. But he insisted Chechen fighters must disarm by midnight (4 p.m. EST) Saturday or face an assault ``to the very end.'' </P>
+<P> Dudayev Friday ordered his forces to pull back half a mile from all frontline positions and stop firing at Russian troops, who entered the southern rebel region Sunday to crush its three-year independence bid. </P>
+<P> Dudayev said he was ready for talks with Moscow but insisted Russia must first withdraw its forces from Chechnya. </P>
+</TEXT>
+</DOC>

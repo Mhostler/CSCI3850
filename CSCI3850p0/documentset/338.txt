@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0390.940721</DOCID>
+<TDTID>TDT000852</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/21/94 13:28</DATE>
+<TITLE> NORTH AMERICAN ZOOS TO HELP CHINA SAVE PANDAS</TITLE>
+<HEADLINE> NORTH AMERICAN ZOOS TO HELP CHINA SAVE PANDAS</HEADLINE>
+<SUBJECT> BC-USA-PANDAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A coalition of zoos in the United States and Canada said Thursday they hope to raise $30 million to fund China's efforts to save the giant panda. </P>
+<P> ``This is an investment in a long-term cooperative program between North American zoos and the Chinese toward conservation of the panda and its dwindling habitat,'' said Sydney Butler, executive director of the American Zoo and Aquarium Association. </P>
+<P> He told a news conference at the National Zoo that he had recently completed arrangements in Beijing to deliver an initial $100,000 in equipment and money to help China's panda preservation program. </P>
+<P> A group 26 U.S. and Canadian zoos have signed on to the cooperative program that they hope will eventually provide $30 million to China to help the panda. </P>
+<P> Fewer than 1,000 pandas are thought to be left in the wild. Their numbers have dwindled as their bamboo highland habitat has been reduced and hunters illegally sell their pelts for large amounts. </P>
+</TEXT>
+</DOC>

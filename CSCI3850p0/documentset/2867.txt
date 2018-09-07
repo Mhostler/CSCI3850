@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0427.941128</DOCID>
+<TDTID>TDT007114</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/28/94 15:08</DATE>
+<TITLE> Exit polls predict Norway to reject EU</TITLE>
+<HEADLINE> Exit polls predict Norway to reject EU</HEADLINE>
+<SUBJECT> BC-EUROPE-NORWAY-EXIT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OSLO, Norway (Reuter) </DATELINE>
+<P>  Norwegians voted to reject membership in the European Union Monday, according to two exit polls broadcast on television moments after polls closed. </P>
+<P> One poll, on the private TV2 channel, forecast a wafer-thin majority of 50.2 to 49.8 percent against membership, while an exit poll broadcast on state NRK television forecast a more solid majority against the EU of 52.6 percent to 47.4 percent. </P>
+</TEXT>
+</DOC>

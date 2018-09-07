@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU011-0038.950124</DOCID>
+<TDTID>TDT009704</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/24/95 17:17</DATE>
+<TITLE> Berlusconi bloc to abstain in Italian vote</TITLE>
+<HEADLINE> Berlusconi bloc to abstain in Italian vote</HEADLINE>
+<SUBJECT> BC-ITALY 1STLD </SUBJECT>
+<AUTHOR>     By Samantha Conti </AUTHOR>
+<TEXT>
+<NOTES>(Updates with ``Freedom Alliance'' decision to abstain)</NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  Silvio Berlusconi virtually guaranteed victory for Prime Minister Lamberto Dini's new government in a key parliamentary confidence vote by saying Tuesday that his conservative ``Freedom Alliance'' would abstain. </P>
+<P> The media tycoon and former premier, speaking to the Chamber of Deputies (lower house) during a debate before Wednesday's vote, said the choice to abstain was a ``benevolent vote of confidence, a 'Yes' with reservations'' because Dini had not made a clear commitment to early elections. </P>
+<P> The Freedom Alliance said it would have voted for Dini had he made such a commitment. </P>
+<P> Abstention should hand Dini victory by lowering the number of votes needed to win the confidence of the 630-seat Chamber. </P>
+<P> It will, however, leave the new prime minister dependent on votes from the left and centrist opposition and the federalist Northern League, which toppled Berlusconi's government by pulling out of his coalition last month. </P>
+<P> The centrist Popular Party, the ex-communist Democratic Party of the Left and the League have already pledged their support for Dini. </P>
+<P> Berlusconi also repeated his demand for early elections. </P>
+<P> ``A government of technocrats can help the country regain its stability on one condition ... that it is clear to everyone that elections must be held by the end of the spring or, at the very latest, in June.'' </P>
+<P> Gianfranco Fini, leader of the hard-right National Alliance which is part of Berlusconi's bloc, also told parliament that his party would abstain from the vote. </P>
+<P> In a bid to win the support of the ``Freedom Alliance,'' Dini told the Chamber of Deputies in a policy address Monday that his non-partisan government of professors and technocrats would resign as soon as it had carried out limited economic and political reforms. </P>
+<P> He also said that his ``government of experts'' -- made up of university professors, lawyers, and bankers -- would resign if what he called insuperable obstacles prevented it from carrying out its agenda. </P>
+<P> Dini said he hoped that two points in his program -- a new voting system for regional elections this spring and rules on equal access for political parties to television and radio -- could be implemented by the end of February. </P>
+<P> He said the Cabinet would also draw up a mini-budget to keep Italy's 1995 deficit in check and propose reforms to the costly government pensions system in a ``very short time.'' </P>
+<P> If Dini wins the vote, he will have to face a second one in the Senate (upper house) Jan. 31 before his government is fully empowered. </P>
+</TEXT>
+</DOC>

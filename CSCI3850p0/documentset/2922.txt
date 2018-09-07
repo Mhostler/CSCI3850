@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU014-0011.941130</DOCID>
+<TDTID>TDT007262</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/30/94 17:12</DATE>
+<TITLE> Radiation effective for some prostate cancers</TITLE>
+<HEADLINE> Radiation effective for some prostate cancers</HEADLINE>
+<SUBJECT> BC-HEALTH-PROSTATE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  Localized prostate cancer can be controlled with radiation treatment and contained in a way comparable to what surgical removal accomplishes, it was reported Wednesday. </P>
+<P> A researcher at Washington University in St. Louis said he based the conclusion on a study of 963 men treated with radiation therapy from 1969 to 1991. </P>
+<P> ``Following radiation therapy, the estimated 10-year survival for patients with the earliest stage (of the) disease was 100 percent,'' said Carlos Perez. </P>
+<P> The earliest stage of the disease involves tumors confined to the prostate which cannot be detected with a digital rectal examination. </P>
+<P> The survival rates fell as the tumors progressed, he said, but the rates were comparable in the early stages to those following surgery, which has more side effects. </P>
+<P> He said radiation treatment, compared to surgery, results in lower rates of urinary incontinence and is slightly less likely to cause impotency. </P>
+<P> The report, released at the annual meeting of the Radiological Society of North America, also said that a blood test introduced during the last few years to detect prostate cancer appears to be the most cost-effective way to determine which patients need treatment and which should wait and see whether the disease advances. </P>
+</TEXT>
+</DOC>

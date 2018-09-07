@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0193.950413</DOCID>
+<TDTID>TDT012510</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/13/95 08:50</DATE>
+<TITLE> FBI in Israel for briefing on U.S. woman's death</TITLE>
+<HEADLINE> FBI in Israel for briefing on U.S. woman's death</HEADLINE>
+<SUBJECT> BC-MIDEAST-FBI-ARRIVAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  A U.S. Federal Bureau of Investigation team arrived in Israel Thursday to look into the death of a New Jersey woman in a suicide bombing in Gaza, Israeli police said. </P>
+<P> An official of the Palestinian secret police in Gaza said the team would be briefed on Sunday's suicide bombing that killed the 20-year-old Alisa Flatow and seven Israeli soldiers but would not conduct its own investigation. </P>
+<P> Israeli police said the FBI initiated the trip under a U.S. law that allows Washington to investigate deaths of citizens abroad. </P>
+<P> Flatow was buried Wednesday in West Orange, N.J. in a funeral attended by about 2,000 people. </P>
+</TEXT>
+</DOC>

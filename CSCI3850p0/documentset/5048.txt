@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU010-0294.950320</DOCID>
+<TDTID>TDT011491</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/20/95 20:15</DATE>
+<TITLE> Seven percent of population has drinking problems</TITLE>
+<HEADLINE> Seven percent of population has drinking problems</HEADLINE>
+<SUBJECT> BC-HEALTH-ALCOHOL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Nearly 14 million American adults -- more than seven percent of the population -- has a problem with alcohol, federal researchers said Monday. </P>
+<P> The problem was worse among men than women and more common among young people ages 18 to 29 than among older segments of the population, the National Institute on Alcohol Abuse and Alcoholism found. </P>
+<P> Older people -- above age 65 -- had the fewest problems with alcohol, possibly because people with severe drinking problems don't live that long. </P>
+<P> The study, the first report based on the National Longitudinal Alcoholic Epidemiologic Survey, is the most detailed ever on alcohol abuse. It draws on the most recent available data, from 1992. </P>
+<P> It found that 13.7 million adults had alcohol problems. That amounts to 7.41 percent of the adult population. That group was divided into 4.38 percent with alcohol dependence, and 3.03 percent with alcohol abuse. </P>
+<P> Young non-black males were almost twice as likely to have a drinking problem than young black males. </P>
+<P> However, the gap between young black men and women was lower than among other groups, suggesting that alcohol use disorders may be on the rise with young black women, who may also be at risk from age 30-44. </P>
+<P> ``Because the sample is truly representative of the U.S. population, we can be confident about generalizing its findings,'' said institute director Dr. Enoch Gordis. </P>
+<P> He said the study is the first to use current diagnostic criteria set by the American Psychiatric Association. The estimate does not differ significantly from other studies conducted in the 1980s. </P>
+</TEXT>
+</DOC>

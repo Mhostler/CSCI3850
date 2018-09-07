@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0389.950307</DOCID>
+<TDTID>TDT011046</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/07/95 00:51</DATE>
+<TITLE> Anti-affirmative action measure popular, poll finds</TITLE>
+<HEADLINE> Anti-affirmative action measure popular, poll finds</HEADLINE>
+<SUBJECT> BC-POLITICS-POLL (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>Release at 9 a.m. EST</NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  An opinion poll released Tuesday found strong early support for a proposed California ballot initiative which would effectively ban state programs which increase opportunities for racial minorities and women. </P>
+<P> The independent Field Institute said the proposed anti-affirmative action measure has already created ``an unusually high degree of public awareness and support'' even though supporters have not yet begun gathering signatures to put it on the ballot. </P>
+<P> The proposed California Civil Rights Initiative would bar the state of California from either discriminating against, or granting preferential treatment to, anyone on the grounds of race or sex in public education, hiring for government jobs and in the award of public contracts. </P>
+<P> It would effectively bar affirmative action programs by the state. The authors of the initiative plan to put the measure before California voters in either March or November 1996. </P>
+<P> A statewide Field Poll found that more than three in five of the state's registered voters have seen or heard of the proposed initiative, which has been endorsed by California Gov. Pete Wilson, a Republican. </P>
+<P> Of the 62 percent aware of the initiative, those initially inclined to support it outnumber those opposed by 31 percent to 18 percent, with 13 percent undecided, it said. </P>
+<P> When a summary of the proposition was read to all registered voters in the sample, 60 percent are disposed to vote in favor, 35 percent are against, and 5 percent are undecided, the poll found. </P>
+<P> The telephone poll of 725 registered voters was carried out between Febr. 23 and March 1 and has a margin of error of plus or minus 3.8 percentage points, meaning results could vary that much either way. </P>
+<P> The future of affirmative action programs is shaping up as a key national issue in 1996. </P>
+<P> Supporters of affirmative action say the programs are essential to help compensate for a long history of discrimination against blacks and other minorities. </P>
+<P> Opponents say whites are now suffering discrimination because of the policies. </P>
+</TEXT>
+</DOC>

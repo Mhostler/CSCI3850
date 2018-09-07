@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0239.941021</DOCID>
+<TDTID>TDT005395</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/21/94 07:13</DATE>
+<TITLE> Rockets fired from Lebanon hit Israel again</TITLE>
+<HEADLINE> Rockets fired from Lebanon hit Israel again</HEADLINE>
+<SUBJECT> BC-MIDEAST-ISRAEL-ROCKETS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Another round of Katyusha rockets fired by guerrillas in Lebanon hit northern Israel Friday, security sources said. </P>
+<P> The salvo caused a small fire in a field but there were no casualties or damage. </P>
+</TEXT>
+</DOC>

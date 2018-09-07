@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU018-0231.950429</DOCID>
+<TDTID>TDT013243</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/29/95 11:02</DATE>
+<TITLE> Bolivian unions end month-old general strike</TITLE>
+<HEADLINE> Bolivian unions end month-old general strike</HEADLINE>
+<SUBJECT> BC-BOLIVIA-STRIKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LA PAZ, Bolivia (Reuter) </DATELINE>
+<P>  Bolivia's trade unions called off a month-old general strike early Saturday in return for a government promise to free scores of jailed labor leaders. </P>
+<P> Union and government representatives reached agreement in the early hours of Saturday at a secret meeting mediated by the Roman Catholic Church. </P>
+<P> An official communique said Bolivia's General Confederation of Labor (COB) had instructed all members to return to work immediately, ending a general strike launched a month ago in support of teachers' demands. </P>
+<P> The stoppage had little impact on industry but prompted civil protests across Bolivia which led President Gonzalo Sanchez de Lozada to declare a state of siege on April 18 and to arrest scores of union leaders. </P>
+<P> These leaders will be freed Tuesday under the new pact. The government also said it would now consider lifting the state of siege, which restricts civil rights and gives officials broad powers to hold people without trial. </P>
+</TEXT>
+</DOC>

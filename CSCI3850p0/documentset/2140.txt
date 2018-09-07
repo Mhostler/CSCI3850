@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU010-0114.941020</DOCID>
+<TDTID>TDT005352</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/20/94 15:22</DATE>
+<TITLE> Polls give narrow leads to North, George W. Bush</TITLE>
+<HEADLINE> Polls give narrow leads to North, George W. Bush</HEADLINE>
+<SUBJECT> BC-POLITICS-POLLS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  New public opinion polls Thursday gave narrow leads to Virginia Republican Senate candidate Oliver North and Texas Republican George W. Bush who is running for governor. </P>
+<P> A third poll in Massachusetts showed Senator Edward Kennedy opening a 10-point lead over his Republican rival Mitt Romney. </P>
+<P> Thirty-five Senate seats, all 435 House seats and 36 governors' slots will be decided on Election Day, Nov. 8. The Republicans could take control of Congress by capturing seven Senate seats and 40 House seats now held by Democrats. </P>
+<P> In the bitterly contested Virginia Senate race, a Mason-Dixon/Media Research poll of likely voters gave North 37 percent, four points ahead of Democratic incumbent Charles Robb. Independent candidate Marshall Coleman had 16 percent and 14 percent were undecided. The statistical margin of error was plus or minus 3.5 percent. </P>
+<P> Last week, the previous poll showed Robb and North tied at 39 percent. </P>
+<P> Another Mason-Dixon poll in Texas gave Bush, the son of former President Bush 47 percent support. Democratic Gov. Ann Richards had 44 percent and nine percent were undecided. This survey also had a 3.5 percent margin of error. </P>
+<P> In Massachusetts, a Boston Herald/WCVB-TV poll gave Kennedy 50 percent and Romney 40 percent. Ten percent of voters were still undecided and the poll has a margin of error of 4.9 percent. </P>
+</TEXT>
+</DOC>

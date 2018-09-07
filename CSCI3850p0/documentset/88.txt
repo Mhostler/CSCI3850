@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU003-0254.940706</DOCID>
+<TDTID>TDT000201</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/06/94 08:20</DATE>
+<TITLE> MAN LOSES $186,000 ON WORLD CUP FOOTBALL BET</TITLE>
+<HEADLINE> MAN LOSES $186,000 ON WORLD CUP FOOTBALL BET</HEADLINE>
+<SUBJECT> BC-CUP-BRITAIN-BET </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON, July 6 (Reuter) </DATELINE>
+<P>  A British betting firm said on Wednesday that a man lost 121,000 pounds ($186,000) by backing Mexico to beat Bulgaria in a World Cup football match, but that it expected him to bet with them again. </P>
+<P> Bookmakers William Hill would only say the man was Malaysian and would have won 255,000 pounds ($393,700) if Mexico had won. </P>
+<P> But Bulgaria won the Tuesday match on a penalty shoot-out. The two teams had been level 1-1 after extra time. </P>
+<P> ``When you bet that amount of money you tend to be philosophical about losing, rather than upset. We expect to hear from him again soon,'' said Graham Sharpe, a William Hill spokesman. </P>
+<P> He said it was the biggest loss on a soccer bet that he could remember. </P>
+</TEXT>
+</DOC>

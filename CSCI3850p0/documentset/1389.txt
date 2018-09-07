@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU007-0326.940915</DOCID>
+<TDTID>TDT003430</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/15/94 12:42</DATE>
+<TITLE> Three feared dead in Berlin street blast</TITLE>
+<HEADLINE> Three feared dead in Berlin street blast</HEADLINE>
+<SUBJECT> BC-GERMANY-EXPLOSION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BERLIN (Reuter) </DATELINE>
+<P>  Three people were feared dead and several others were injured, some seriously, when an explosion rocked a big shopping avenue in Berlin on Thursday, police said. </P>
+<P> A spokesman said the number of dead in the blast in eastern Berlin's Frankfurter Allee was probably three but the situation was still confused. </P>
+<P> The blast, which occured at about 1640 local time (10.40 a.m. EDT), may have been caused by a gas leak or a buried World War II bomb set off by roadworks on the street, the spokesman said. </P>
+</TEXT>
+</DOC>

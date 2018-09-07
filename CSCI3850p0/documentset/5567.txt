@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU005-0104.950407</DOCID>
+<TDTID>TDT012286</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 18:15</DATE>
+<TITLE> Solution recedes on EU-Canada fish dispute</TITLE>
+<HEADLINE> Solution recedes on EU-Canada fish dispute</HEADLINE>
+<SUBJECT> BC-FISH-TALKS 2NDLD </SUBJECT>
+<AUTHOR>     By Janet McEvoy </AUTHOR>
+<TEXT>
+<NOTES>(Updates with no talks so far)</NOTES>
+<DATELINE>BRUSSELS, Belgium (Reuter) </DATELINE>
+<P>  Hopes of resolving a bitter fisheries row between the European Union and Canada by Monday receded when fresh talks failed to take place. </P>
+<P> EU sources had said Friday that talks on a draft agreement were imminent but Canadian officials said they were still awaiting EU endorsement of a package already worked out. </P>
+<P> ``We are still waiting to hear from the EU,'' a Canadian official told Reuters. </P>
+<P> An official from Spain, which fiercely opposes the draft deal in the North Atlantic dispute, said he expected the whole issue to be postponed until Monday when EU foreign ministers meet. </P>
+<P> A Commission spokesman said earlier the EU was ready to resume talks but Canadian officials said there was no longer anything to negotiate and it was up to the EU to sort itself out. </P>
+<P> ``We believe a deal has been negotiated, it's on the table, there's nothing more to negotiate,'' Canadian External Affairs Department spokeswoman Jennifer Sloan said. </P>
+<P> ``We're waiting for an EU endorsement to the...package which is the result of intensive negotiations over the past month,'' she said. ``We feel it is a good package and fair to everyone.'' </P>
+<P> Fisheries Commissioner Emma Bonino hinted Thursday that after an incident in which a Canadian patrol boat cut the nets of a Spanish trawler off Newfoundland Wednesday, hopes had faded of finalizing the accord by Monday. </P>
+<P> But her spokesman told a news briefing Friday talks were expected to resume later in the day and continue over the weekend in the hope of finalizing a text which EU foreign ministers could discuss in Luxembourg Monday. </P>
+<P> According to a text agreed between the Commission and Canada, which was obtained by Reuters, the two sides still have to agree one of the central issues -- just how much Greenland halibut (turbot), the fish the two sides are arguing about, EU boats can catch in 1995. </P>
+<P> Canada says that unless catches are strictly limited there is a risk that the Greenland halibut, the last commercially viable fish in once-rich fishing grounds, will be wiped out. </P>
+<P> Canada estimates that Spanish vessels, which take 80 percent of the EU catch, have already caught the 10,000 tons the draft proposes as the EU's quota. </P>
+<P> The EU says only 7,000 tons have been caught so far this year and Thursday set its own quota of 18,630 tons, almost 70 percent of the total catch set by the Northwest Atlantic Fisheries Organization (NAFO) which regulates fishing in the area. </P>
+<P> Spain welcomed the decision but it objects strongly to part of the draft accord which creates a ``box'' or fishing area, partly located in northern international waters, where Canadian fishermen, and only Canadians, would be allowed to take 7,000 tons of Greenland halibut in 1995. </P>
+<P> The EU fleet, essentially Spanish and Portuguese boats, would get 10,000 tons and other NAFO members 7,000 tons in southern waters where Canada would have a further quota of 3,000 tons. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU014-0187.950521</DOCID>
+<TDTID>TDT014050</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/21/95 09:40</DATE>
+<TITLE> Belgians vote in general election</TITLE>
+<HEADLINE> Belgians vote in general election</HEADLINE>
+<SUBJECT> BC-BELGIUM </SUBJECT>
+<AUTHOR>     By Sue Pleming </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRUSSELS, Belgium (Reuter) </DATELINE>
+<P>  About seven million Belgians cast their ballots Sunday in a general election dominated by voter indecision and predictions the far-right will make gains. </P>
+<P> Polling stations closed officially at 3 p.m. (9 a.m. EDT) and the Interior Ministry said the first results were expected to start trickling in from the main centers from 5 p.m. (11 a.m.). </P>
+<P> Prime Minister Jean-Luc Dehaene was confronted by dozens of homeless people when he cast his vote in the outer Brussels area of Vilvoorde. </P>
+<P> The protesters, who gave Dehaene a cup of coffee, complained they could not vote because they did not have fixed addresses. </P>
+<P> Dehaene refused comment to reporters on the possible outcome of the election and said he planned to spend the afternoon gardening until the results were released. </P>
+<P> An opinion poll just days before the election indicated that one in three voters had yet to decide who they would support, a striking statistic in a country where voting is compulsory. </P>
+<P> Dimanche Matin newspaper urged voters not to translate their discontent into ``reject votes.'' </P>
+<P> ``They (politicians) are reminding people that reject votes will serve nothing and that, just about everywhere there are men and women who are prepared to do something on the condition that we give them our votes,'' the Sunday newspaper said. </P>
+<P> In the run up to the poll, politicians from the mainstream parties echoed an earlier appeal from King Albert II for people not to cast a protest vote to the right. </P>
+<P> A string of scandals implicating the country's two socialist parties has dented the image of the four-party coalition in which the socialists serve with the Christian Democrats. </P>
+<P> Dehaene's Dutch-speaking Christian Democrat party and its francophone partner are expected to stay in the coalition, but political analysts say the Socialists' position is less certain. </P>
+<P> Dimanche Matin said the main contest would be between Dehaene's party and the Dutch-speaking liberal party, led by Guy Verhofstadt. </P>
+<P> ``On a federal level, it is clear that it will either be Verhofstadt I or Dehaene II (for prime minister),'' it said. </P>
+<P> Months of political horse-trading is expected after the election before a new government is announced. After the last election in 1991, it took three months to form a government. </P>
+<P> The far-right is expected to make the most gains in Dutch-speaking Flanders where the strongly anti-immigrant Vlaams Blok hopes to get 15 percent of the vote against the 10.3 percent it had in the 1991 election. </P>
+<P> In the French-speaking Wallonia region, the extreme right is more divided. The biggest far-right francophone party, the National Front, is seen getting six percent of the vote there. </P>
+<P> Belgians vote according to their linguistically divided regions. The process is more complicated this time following reforms in 1993 which in a bid to reduce linguistic tension granted more autonomy to the regions. </P>
+<P> Voters cast their ballots three times, once for the lower house of parliament, then for the senate and finally for regional councils in Dutch-speaking Flanders, francophone Wallonia, bilingual Brussels and a German-speaking zone. </P>
+<P> The number of seats in the federal parliament will be slashed after the poll. In the lower house, which is the decision-making chamber, there will be 150 members against 212 now. The Senate will be downgraded to a ``chamber of reflection,'' with 71 seats against the current 184. </P>
+</TEXT>
+</DOC>

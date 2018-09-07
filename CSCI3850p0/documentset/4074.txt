@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0033.950201</DOCID>
+<TDTID>TDT009959</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/01/95 04:22</DATE>
+<TITLE> Jordan ratifies cooperation accord with PLO</TITLE>
+<HEADLINE> Jordan ratifies cooperation accord with PLO</HEADLINE>
+<SUBJECT> BC-JORDAN-PALESTINIANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AMMAN, Jordan (Reuter) </DATELINE>
+<P>  Jordan has ratified a cooperation accord concluded last week with the Palestinian self-rule authority, officials said Wednesday. </P>
+<P> Officials said the accord, which ends a year of tension between Jordan and the PLO over their separate peace deals with Israel, was ratified by the Jordanian cabinet late Tuesday. </P>
+<P> PLO leader Yasser Arafat and Prime Minister Sharif Zeid Bin Shaker signed the accord last Thursday in Amman during Arafat's first visit to see King Hussein since May. </P>
+<P> The accord has seven detailed annexes on economic, cultural and political cooperation and a preamble designed to end a bitter debate over custody of Islamic shrines in Arab East Jerusalem. </P>
+</TEXT>
+</DOC>

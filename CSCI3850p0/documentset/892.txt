@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU009-0298.940819</DOCID>
+<TDTID>TDT002192</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/19/94 14:13</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CLINTON-HEALTH -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Clinton sounded encouraged by the efforts of a group of Senate Republicans and Democrats working on a bipartisan agreement. The group is expected to unveil its plan Friday afternoon. Clinton said there was a chance that health reform could be completed this year. </P>
+<P> ``We need to let this thing unfold a little more,'' Clinton added. ``I wouldn't prejudge it.'' </P>
+<P> The bipartisan group of about 15 to 20 Senators has said it is working on a compromise plan that would scale-back some of the initiatives in the Democratic leadership bill endorsed by Clinton. </P>
+<P> But the president said that doing too little on health reform may add to insurance costs. </P>
+<P> The ``so-called something less approach often does more harm than good,'' Clinton said. </P>
+</TEXT>
+</DOC>

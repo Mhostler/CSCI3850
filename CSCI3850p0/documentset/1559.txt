@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU011-0213.940922</DOCID>
+<TDTID>TDT003865</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/22/94 20:40</DATE>
+<TITLE> Nigerian Nobel laureate says his passport seized</TITLE>
+<HEADLINE> Nigerian Nobel laureate says his passport seized</HEADLINE>
+<SUBJECT> BC-NIGERIA-SOYINKA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LAGOS, Nigeria (Reuter) </DATELINE>
+<P>  Wole Soyinka, Nigeria's Nobel laureate, said security men seized his passport Thursday at Lagos airport and stopped him from travelling out of the country. </P>
+<P> ``I was on my way to give lectures in Germany and Sweden when they took away my passport,'' Soyinka told Reuters. </P>
+<P> ``They were polite about it but they didn't tell me why they were doing this,'' he added. </P>
+<P> Soyinka, a vocal critic of military rule in Nigeria is currently challenging the legality of the Gen. Sani Abacha- led government in a suit at a Lagos high court. </P>
+<P> Early this week, he denied reports that he had been arrested but said there was security surveillance around him. </P>
+<P> Abacha's government recently smashed strikes and riots to force it to surrender power to Moshood Abiola, the undeclared winner of last year's annulled presidential election. </P>
+<P> Abiola remains in detention and is on trial for proclaiming himself president while the government has passed decrees allowing it to detain opponents without trial. </P>
+</TEXT>
+</DOC>

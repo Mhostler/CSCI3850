@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU006-0382.940913</DOCID>
+<TDTID>TDT003322</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/13/94 19:16</DATE>
+<TITLE> Workers throwing away pension benefits, says study</TITLE>
+<HEADLINE> Workers throwing away pension benefits, says study</HEADLINE>
+<SUBJECT> BC-USA-PENSIONS </SUBJECT>
+<AUTHOR>     By Henry Tricks </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Workers at large companies are throwing away money by failing to take advantage of the growing number of pension plans available to them, according to a study released Tuesday. </P>
+<P> The study by accountants KPMG Peat Marwick calls employee participation in some retirement plans ``distressingly low,'' a growing concern as baby boomers get older. </P>
+<P> In the random survey of 993 companies with more than 200 employees, 401(k) retirement plans proved to be the most frequently offered to workers. </P>
+<P> Only 61 percent of eligible employees participated in 401(k) plans, the same number as last year, the survey showed. </P>
+<P> Yet the number of firms that offer retirement benefits including 401(k)s rose to 89 percent from 78 percent in the same period, it showed. </P>
+<P> ``A significant amount of employees are throwing away tax-deferred money by not using 401(k),'' said Martha Priddy Patterson, head of employee benefits policy at Peat Marwick, at a news conference. </P>
+<P> Underusing the 401(k) option could spell ``big problems when people get to retirement age,'' she said. </P>
+<P> A typical 401(k) plan asks employees to set aside a part of their annual income for retirement, with the employer contributing half as much. There are several investment options, and taxes are deferred until retirement. </P>
+<P> Other employees are covered by so-called defined benefit plans, which do not require workers to make contributions but provide far less income at retirement age. </P>
+<P> There are other trouble spots, Patterson said. </P>
+<P> Employees often opt for investment strategies under 401(k)s that are too conservative to meet their needs when they retire. </P>
+<P> They contribute on average only half of the total amount allowed, and they may be saving far less than their lifestyle requires, she said. </P>
+<P> Currently, workers who have spent their whole life in one company receive only a little over half their annual income when they retire, she said. </P>
+<P> ``Basically, when you retire, your expenses don't change much,'' she cautioned. She reckoned workers should aim for at least as much money when they retire as they earned when working. </P>
+<P> While employers are offering more retirement options to workers than they were a year ago, they are failing to convey the importance of retirement planning, she said. </P>
+<P> ``Very few employers regularly provide any kind of retirement savings advice,'' she said. ``That's really quite frightening.'' </P>
+</TEXT>
+</DOC>

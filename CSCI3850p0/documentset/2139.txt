@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0113.941020</DOCID>
+<TDTID>TDT005351</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/20/94 15:15</DATE>
+<TITLE> U.N. council members deplore ``terrorist outrage''</TITLE>
+<HEADLINE> U.N. council members deplore ``terrorist outrage''</HEADLINE>
+<SUBJECT> BC-ISRAEL-UN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  Members of the Security Council condemned the bombing of a bus in Tel Aviv which killed 21 people and felt the international community must encourage steps ``to curb such terrorist outrages,'' council President Sir David Hannay of Britain said Thursday. </P>
+<P> He was briefing reporters after council consultations on a number of issues during which Wednesday's bus bombing, in which more than 40 people were also wounded, was raised. </P>
+<P> Hannay, whose strongly-worded comments were authorized by council members although they were not formally a council statement, said: ``I think the members were really shocked by this terrible terrorist outrage, and they deplore and they condemn it in the strongest terms.'' </P>
+<P> ``They express their abhorrence of this act of terrorism and they extend their condolences to the families of all those killed and their sympathy to the wounded.'' </P>
+<P> He added: ``The members of the council feel that the whole world community has to condemn criminal actions of this sort and encourage everyone to take steps to curb such terrorist outrages, and that there is no justification whatsoever for committing acts of this sort to achieve political ends like preventing the peace process from continuing.'' </P>
+<P> All council members supported the Middle East peace process, ``and they support very strongly the decision of the government of Israel to continue the peace process despite this outrage,'' Hannay said. </P>
+</TEXT>
+</DOC>

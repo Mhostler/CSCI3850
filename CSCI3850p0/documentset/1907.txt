@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0196.941010</DOCID>
+<TDTID>TDT004760</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/10/94 12:50</DATE>
+<TITLE> Italy police arrest 116 in Mafia sweep</TITLE>
+<HEADLINE> Italy police arrest 116 in Mafia sweep</HEADLINE>
+<SUBJECT> BC-ITALY-MAFIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>COSENZA, Italy (Reuter) </DATELINE>
+<P>  More than 100 suspected Mafiosi were arrested in police raids in southern Italy Monday as Prime Minister Silvio Berlusconi reaffirmed his government's commitment to fight organized crime. </P>
+<P> The arrests targeted two clans of the 'Ndrangheta crime group in the Calabria region whose 20-year rivalry resulted in 40 murders, police said. They said 116 people were arrested in the sweep on charges of Mafia association. </P>
+<P> As police officials were announcing the arrests at a news conference in Cosenza, on the toe of Italy, Berlusconi addressed an international law enforcement meeting in the Sicilian capital of Palermo. </P>
+<P> ``The fight against the Mafia is one of the most important points of our program,'' he told delegates from 40 countries meeting to prepare for a major U.N. conference on organized crime to be held in Naples from November 21 to 23. </P>
+<P> ``Only a coordinated response -- a response of international cooperation of all states -- can stop the advance of organized crime,'' Berlusconi said. </P>
+</TEXT>
+</DOC>

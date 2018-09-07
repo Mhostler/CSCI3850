@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU008-0279.940817</DOCID>
+<TDTID>TDT002046</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/17/94 10:07</DATE>
+<TITLE> BONN WANTS EURO-POLICE TO THWART NUCLEAR SMUGGLERS</TITLE>
+<HEADLINE> BONN WANTS EURO-POLICE TO THWART NUCLEAR SMUGGLERS</HEADLINE>
+<SUBJECT> BC-NUCLEAR-GERMANY </SUBJECT>
+<AUTHOR>     By Tom Heneghan </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BONN, Germany (Reuter) </DATELINE>
+<P>  German Foreign Minister Klaus Kinkel proposed Wednesday that Europe's fledgling police agency, Europol, should be used as a clearing house for information on nuclear smuggling from the former Soviet Union. </P>
+<P> He also appealed to his counterparts in Russia, Ukraine, Belarus and Kazakhstan to help thwart any more atomic contraband and offered the European Union's help to do this. </P>
+<P> Kinkel's suggestion came as another senior Bonn official, Chancellery Minister Friedrich Bohl, called for wider powers for Germany's spies to help combat nuclear smuggling. </P>
+<P> A German television program named a nuclear research laboratory in Moscow as the suspected source of some smuggled plutonium seized in Germany last May and said it had a secret report detailing the slack security measures there. </P>
+<P> Officials declined to comment on the source of the four batches of nuclear contraband -- three of plutonium-239 and one of weapons-grade uranium -- seized in the past four months. </P>
+<P> ``We should think of building up Europol into a data collection and exchange at the European level and use it more in cases of international nuclear smuggling,'' Kinkel said. </P>
+<P> ``Nuclear smuggling must be fought where it starts, at the origin of this deadly trade,'' he said. </P>
+<P> The Hague-based Europol, which is wholly independent of the long-established Interpol, began operating last January and has been used as a clearing house for European police forces for intelligence on drugs smuggling. Nuclear smuggling would be a major new extension of its responsibilities. </P>
+<P> The United States said Tuesday it had contacted Russia to stress its concern about the nuclear smuggling reports and said Bonn was ``very wise'' to send Bernd Schmidbauer, Chancellor Helmut Kohl's coordinator for intelligence services, to Moscow. </P>
+<P> According to the North German Television program Panorama, German investigators have named the Kurchatov Institute, a Moscow nuclear research laboratory, as the source of six grams of plutonium seized in May. </P>
+</TEXT>
+</DOC>

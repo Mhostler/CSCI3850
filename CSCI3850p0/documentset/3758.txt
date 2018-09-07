@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU006-0151.950113</DOCID>
+<TDTID>TDT009276</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/13/95 18:46</DATE>
+<TITLE> Plane in St. Louis crash was on wrong runway</TITLE>
+<HEADLINE> Plane in St. Louis crash was on wrong runway</HEADLINE>
+<SUBJECT> BC-AVIATION-COLLISION </SUBJECT>
+<AUTHOR>     By Peter Szekely </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A small plane that collided with a TWA jetliner on the ground in St. Louis in November was supposed to be on a different runway at the time of the fatal crash, according to radio communications made public Friday. </P>
+<P> But seconds after being told by an air traffic controller to hold its position, the Cessna Conquest 441 twin-engine turbo prop appeared in the path of the TWA jet that had just started its takeoff on a runway next to where the Cessna should have been. </P>
+<P> The pilot of TWA Flight 427, a McDonnell Douglas MD-80 bound for Denver with 137 people on board, swerved to the left to avoid the Cessna, but its wing clipped the roof off of the smaller plane, killing its two occupants. </P>
+<P> There were no deaths on the jetliner, but eight passengers received minor injuries during the evacuation. </P>
+<P> The transcript of radio communications on Nov. 23, 1994, at Lambert St. Louis International Airport released by the Federal Aviation Administration (FAA) failed to explain why the Cessna wound up in front of the approaching jetliner. </P>
+<P> In releasing the transcript, the FAA declined to comment on it or to interpret it, since the crash is still under investigation by the National Transportation Safety Board. </P>
+<P> At about 9:58 p.m. CST (10:58 p.m. EST), according to the transcript, the Cessna was told to taxi into takeoff position at the end of Runway 31, a smaller runway that runs parallel to Runway 30R, which was being used by Fight 427 and other commercial aircraft. The pilot of the Cessna acknowledged the instruction. </P>
+<P> Three minutes later, the Cessna pilot radioed that he was ready for departure and was told to continue holding his position, which the pilot acknowledged. </P>
+<P> But instead of holding at the end of Runway 31, investigators said the Cessna had apparently taken a ramp at the end of the runway, which left it part way down Runway 30R. </P>
+<P> Just before 10:02 p.m. CST(11:02 p.m. EST), Flight 427 was cleared for takeoff. </P>
+<P> About a half-minute later, the Cessna's pilot radioed again that he was ready for takeoff. </P>
+<P> The air traffic controller responded: ``Roger. I can't roll you simultaneously with the uh traffic departing the right. Just continue holding in position. I'll have something for you in just a second.'' </P>
+<P> The Cessna acknowledged the instruction. </P>
+<P> A few seconds later the control tower gave the Cessna its takeoff instructions and warned it to ``use caution'' for possible air turbulence from the wake of the TWA jetliner taking off on Runway 30R. The Cessna was instructed again to hold position. </P>
+<P> But the instruction was never acknowledged. </P>
+<P> The next transmission was from Flight 427 at 10:03 p.m. CST (11:03 p.m. EST). </P>
+<P> ``TWA four hundred and twenty-seven hit the other airplane on the uh runway. Roll the emergency equipment!'' the pilot said. ``Do you hear me? Do you hear me?'' </P>
+</TEXT>
+</DOC>

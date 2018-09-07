@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU002-0441.941104</DOCID>
+<TDTID>TDT006086</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/04/94 19:37</DATE>
+<TITLE> Ford recalls 893,000 1992-94 model trucks</TITLE>
+<HEADLINE> Ford recalls 893,000 1992-94 model trucks</HEADLINE>
+<SUBJECT> BC-AUTOS-RECALL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Also moved to business news desks)</NOTES>
+<DATELINE></DATELINE>
+<P> DETROIT - Ford Motor Co. said Friday it is recalling 893,000 Ford Bronco, Ranger, F-series and Explorer trucks to fix a problem with the parking brakes. </P>
+<P> Ford said the parking brakes on certain 1992-94 model F-Series and Broncos and 1993-4 model Rangers and Explorers equipped with manual transmissions may not engage when the pedals are depressed, which could allow the vehicles to roll. </P>
+<P> Ford said it has received 44 reports alleging the condition resulted in accidents causing property damage and at least one injury. </P>
+<P> About 45,000 of the trucks are in Canada, it said. </P>
+<P> Ford said owners are being notified to return the trucks to dealers for installation of a wedge in the parking brake control at no charge. </P>
+<P> The service requires about 30 minutes, but Ford said some dealerships may need to keep vehicles longer to fit them into service schedules. </P>
+<P> In a related development Friday, the National Highway Traffic Safety Administration upgraded its investigation into the safety of motorized seat belt systems in 1990-91 model Ford Probe cars after receiving hundreds of complaints from consumers. </P>
+<P> According to the agency's monthly vehicle defect report, the NHTSA has received 828 complaints about malfunctions of the seat belt systems. In some cases, drivers have complained the automatic seat belt guide fails to go all the way to the top of the track along the door. </P>
+<P> NHTSA spokesman Tim Hurd said the problem has been associated with 27 crashes, 23 injuries and five fatalities. Some 183,340 Probe cars use the system. </P>
+<P> A Ford spokeswoman said the company is cooperating with the NHTSA investigation but believes there is nothing wrong with the seat belt system. </P>
+</TEXT>
+</DOC>

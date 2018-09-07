@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU015-0152.950424</DOCID>
+<TDTID>TDT013000</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 19:20</DATE>
+<TITLE> Honduran minister resigns over sister scandal</TITLE>
+<HEADLINE> Honduran minister resigns over sister scandal</HEADLINE>
+<SUBJECT> BC-HONDURAS-MINISTER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TEGUCIGALPA, Honduras (Reuter) </DATELINE>
+<P>  Honduran Foreign Minister Ernesto Paz has resigned over a passports-for-cash scandal involving his sister, President Carlos Reina said Monday. </P>
+<P> ``The minister has announced to me his resignation upon his return from his current trip,'' Reina said. </P>
+<P> Paz was in Indonesia at a meeting of non-aligned nations and was due back in Honduras later Monday, officials said. Reina did not say who would replace him. </P>
+<P> ``It is his decision in view of the difficulties he has had that we all know about on the emotional side, a sister on trial,'' Reina said. </P>
+<P> Maria de los Angeles Paz is on jail facing charges of influence trafficking to obtain passports and visas for travel to the United States in return for cash. </P>
+<P> Paz has denied any involvement in the scandal and Reina, after announcing his resignation, called him ``a very respectable man.'' </P>
+</TEXT>
+</DOC>

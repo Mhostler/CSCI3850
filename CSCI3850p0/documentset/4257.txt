@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0198.950209</DOCID>
+<TDTID>TDT010280</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/09/95 16:14</DATE>
+<TITLE> Leeches find love in intimate hippo reaches</TITLE>
+<HEADLINE> Leeches find love in intimate hippo reaches</HEADLINE>
+<SUBJECT> BC-SCIENCE-LEECHES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Biologists have found the secret trysting place for one species of South African leech and their discovery explains why it remained unrevealed for so long -- it is inside a hippopotamus's rectum. </P>
+<P> The leech, Placobdelloides jaegerskioeldi, is closely associated with the hippos. It does not attach itself to any other animal and is the same color as the hippo's thick hide. </P>
+<P> New Scientist magazine quoted the scientists -- Jan Oosthuizen of the University of Pretoria and Ronald Davies of the University of Calgary in Canada -- as saying they found many leeches inside the rectums of hippos that had been killed and dissected. </P>
+<P> The leeches were swimming around freely, rather than sucking blood, and had bulky sperm cases sticking out from their bodies, leading the biologists to believe they were mating. Leeches are hermaphrodites, carrying both male and female sexual organs. </P>
+<P> ``There are obviously some very interesting adaptations,'' Oosthuizen said. ``But to find out more it would be necessary to work with a live hippopotamus and that's a very dangerous creature.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0080.950126</DOCID>
+<TDTID>TDT009773</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/26/95 10:45</DATE>
+<TITLE> World championships postponed until 1996</TITLE>
+<HEADLINE> World championships postponed until 1996</HEADLINE>
+<SUBJECT> BC-SKIING-POSTPONEMENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SIERRA NEVADA, Spain (Reuter) </DATELINE>
+<P>  The 1995 Alpine skiing world championships, due to start next Monday in the Spanish resort of Sierra Nevada, were officially postponed Thursday because of lack of snow. </P>
+<P> Gianfranco Kasper, Secretary General of the International Ski Federation (FIS), told a news conference the championships would be staged in the same resort in 1996. </P>
+<P> ``We came to the conclusion that because of force majeure the Alpine world ski championships cannot be carried out in February 1995 in the Sierra Nevada,'' Kasper said. </P>
+<P> They will be held in the same resort at the same time next year ``with even greater improvements,'' Kasper said, reading a joint statement from FIS and the Spanish organizing committee headed by Jeronimo Paez. </P>
+</TEXT>
+</DOC>

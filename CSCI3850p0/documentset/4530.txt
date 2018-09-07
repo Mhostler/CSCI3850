@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0104.950224</DOCID>
+<TDTID>TDT010707</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/24/95 11:59</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BUDGET-RUBIN -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Rubin, White House Budget Director Alice Rivlin and economic policy adviser Laura Tyson told reporters the massive spending cuts that would be needed to bring the budget into balance by the year 2002 could destablize the economy and perhaps push the country into recession. </P>
+<P> ``This is bad economic policy,'' Tyson said. </P>
+<P> Rubin said the proposed constitutional amendment, which would require three-fifths of the members of both the House and Senate to agree to an annual budget deficit or to raise the nation's credit line, would hurt the government's ability to fight recession and could make unemployment worse. </P>
+<P> If the amendment had been in effect during the past economic slowdown, when unemployment peaked at 7.7 percent in 1992, he said, the level could have topped nine percent. </P>
+<P> The amendment has been approved by the House and is pending in the Senate, where supporters say they are short one vote of the 67 necessary to approve it when it comes to a vote Tuesday. The amendment, which does not require the president's approval, would go to the states for ratification. </P>
+</TEXT>
+</DOC>

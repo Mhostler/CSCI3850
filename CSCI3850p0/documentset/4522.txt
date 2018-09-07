@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0041.950224</DOCID>
+<TDTID>TDT010698</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/24/95 05:27</DATE>
+<TITLE> Russian toll in Chechnya 1,146 dead, 5,000 wounded</TITLE>
+<HEADLINE> Russian toll in Chechnya 1,146 dead, 5,000 wounded</HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA-TOLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Russian officials said Friday that 1,146 servicemen had been killed and a further 5,000 had been wounded or fallen ill in the 11-week Chechen conflict. </P>
+<P> Col. Gen. Dmitry Volkogonov, head of the presidential commission on prisoners of war, also told a news conference that 374 soldiers were missing. This figure also included some unidentified corpses. </P>
+<P> ``An officer and a soldier died overnight in Chechen shelling. They are included in the death toll,'' he said. </P>
+<P> Estimates for Russian dead vary wildly, with some putting the total significantly higher. The Russian human rights commission says 25,000 civilians have died in the conflict. </P>
+<P> ``I work with the people who have the details... I have the most accurate figures,'' Volkogonov said. ``I respect the figures the mass media has passed onto the public, but they are not always accurate.'' </P>
+<P> Volkogonov said his commission had rough data which indicated around 1,000 Chechen rebels had died so far, but said the information had to be checked thoroughly. </P>
+<P> Defense ministry medical expert Yuli Sosedko said nine doctors had been killed and 20 had been wounded among the 1,500 medical staff working in and around Chechnya. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0427.950503</DOCID>
+<TDTID>TDT013396</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 17:49</DATE>
+<TITLE> Puerto Rico resumes water rationing</TITLE>
+<HEADLINE> Puerto Rico resumes water rationing</HEADLINE>
+<SUBJECT> BC-WATER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN JUAN, May 3 (Reuter) </DATELINE>
+<P>  Sparse rainfall and creaking infrastructure have forced the Puerto Rico government to ration water for the second time in two years, officials said Wednesday. </P>
+<P> Beginning May 9, 1.4 million residents of this seaside city will endure dry taps for 12 hours every other day. The rationing is expected to be tightened if rainfall does not increase soon. There has been little rain since March. </P>
+<P> Puerto Rico, a U.S. territory, has had a water shortage since May 1994. A drought last year, combined with years of neglect and a lack of maintenance at the Carraizo Reservoir, has brought water reserves to alarming lows. </P>
+<P> Carraizo, which provides water to most of the the capital city of San Juan, has lost 65 percent of its capacity over the years due to unchecked accumulation of sediment. </P>
+<P> To alleviate the shortage, the government-run Aqueduct & Sewers Authority plans to build a ``Super-Aqueduct'' to bring water from the west of the island to San Juan, where nearly one-third of the Caribbean island's population lives. But the aqueduct is not slated to open till May 1998. </P>
+</TEXT>
+</DOC>

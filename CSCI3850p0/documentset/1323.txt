@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU006-0085.940912</DOCID>
+<TDTID>TDT003253</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/12/94 17:42</DATE>
+<TITLE> State official to visit Greece, Turkey</TITLE>
+<HEADLINE> State official to visit Greece, Turkey</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-TARNOFF </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Peter Tarnoff, the State Department's third-ranking official, will visit Greece and Turkey later this month for talks on the Balkans and other matters, the State Department said Monday. </P>
+<P> It said in a statement that Tarnoff, undersecretary of state for political affairs, will be in Athens September 14 and in Ankara on September 15. </P>
+<P> He will carry letters from President Clinton to Greek Prime Minister Georges Papandreou and to Turkish Prime Minister Tansu Ciller which ``express the desire of the United States to work with Greece and Turkey to enhance peace and stability in the eastern Mediterranean,'' the statement said. </P>
+<P> His agenda includes the Balkans, Aegean matters, Cyprus and humanitarian issues. </P>
+</TEXT>
+</DOC>

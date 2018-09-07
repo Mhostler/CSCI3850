@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0232.950320</DOCID>
+<TDTID>TDT011484</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/20/95 15:52</DATE>
+<TITLE> Library of philosopher Karl Popper to be auctioned</TITLE>
+<HEADLINE> Library of philosopher Karl Popper to be auctioned</HEADLINE>
+<SUBJECT> BC-BRITAIN-POPPER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  The working library of Sir Karl Popper, one of the world's most influential modern philosophers, is expected to sell for $317,000 when it is auctioned in May, Sotheby's said Monday. </P>
+<P> The Austrian-born British thinker, who died in September at the age of 92, had a profound influence on contemporary political ideas. His most controversial work ``The Poverty of Historicism'' rejected historical determinism. </P>
+<P> ``Popper's vast working library of books by other authors, accumulated for the most part since his arrival in England after the War, reflects the genesis of this and his other key ideas and their growth and fruition in his published works,'' the auction house said in a statement. </P>
+<P> Popper, who had a passion for science and a hatred of Marxism, argued that the enemies of an ``open society'' were thinkers like Plato and Karl Marx. </P>
+<P> ``The Poverty of Historicism,'' his critique of Marxism and ``The Open Society and its Enemies'' are among his best-known works. </P>
+</TEXT>
+</DOC>

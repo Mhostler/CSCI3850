@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU008-0430.941118</DOCID>
+<TDTID>TDT006688</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/18/94 05:32</DATE>
+<TITLE> Indian army chief dies after heart attack</TITLE>
+<HEADLINE> Indian army chief dies after heart attack</HEADLINE>
+<SUBJECT> BC-INDIA-ARMY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, India (Reuter) </DATELINE>
+<P>  India's army chief, Bipin Chandra Joshi, died Friday after a heart attack, the Press Trust of India news agency said. </P>
+<P> Joshi, 58, had complained of breathlessness earlier Friday, the agency reported. He died later at a New Delhi military hospital, it quoted an army spokesman as saying. </P>
+<P> Joshi was the first Indian chief of army staff to die in office. He became army chief in July 1993. </P>
+</TEXT>
+</DOC>

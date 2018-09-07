@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU003-0152.941105</DOCID>
+<TDTID>TDT006131</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/05/94 23:05</DATE>
+<TITLE> Japanese said planning replica Titanic as hotel</TITLE>
+<HEADLINE> Japanese said planning replica Titanic as hotel</HEADLINE>
+<SUBJECT> BC-BRITAIN-JAPAN-TITANIC </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A full-size replica of the doomed liner Titanic is to be built in Asia for a Japanese company to use as a floating hotel, Britain's Independent Sunday newspaper said. </P>
+<P> ``The plans are being provided by a construction company in Northern Ireland where the original ship was launched in 1911,'' it said. </P>
+<P> ``Mivan Marine, which specializes in refitting cruise ships, has just finished drawing up interior plans for the new vessel. It refuses to name the Japanese client.'' </P>
+<P> A spokesman for the firm said, ``It will be full scale, exactly like the original, except there will be no engines or steering mechanism.'' </P>
+<P> ``It is the most horrible idea,'' said 82-year-old Briton Millvina Dean, a survivor from the Titanic which sank in 1912 after hitting an iceberg on its maiden voyage from Southampton to New York. More than 1,500 people died. </P>
+</TEXT>
+</DOC>

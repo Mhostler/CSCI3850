@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU005-0189.941110</DOCID>
+<TDTID>TDT006326</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/10/94 05:44</DATE>
+<TITLE> China art auction raises record $7 million</TITLE>
+<HEADLINE> China art auction raises record $7 million</HEADLINE>
+<SUBJECT> BC-CHINA-AUCTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  A Chinese auction house sold a record 59 million yuan ($7 million) worth of paintings and antiques in a three-day sale dominated by local collectors, a company official said Thursday. </P>
+<P> Oil paintings, traditional Chinese paintings and calligraphy and rare books, porcelain, jade carvings and snuff bottles went under the hammer in the auction by the Guardian Company, a Guardian spokesman told Reuters. </P>
+<P> The highest price of $600,000 was paid for a landscape painting by modern artist Qi Baishi, who died in 1957 and is renowned for his traditional ink-brush paintings of animals and flowers. It was the highest sum ever paid for a Qi Baishi painting, the spokesman said. </P>
+<P> Among six paintings sold for more than $116,000, only one was bought by a foreign buyer. </P>
+<P> An oil painting by modern artist Chen Yifei was bought for $334,000 by a group of stock market investors who have decided to diversify into investment in the art market, the spokesman said. It was a record for a Chinese oil painting, he said. </P>
+<P> Another Qi Baishi painting was bought by a local real estate company, he said, adding that most buyers had insisted on anonymity. </P>
+<P> The oldest item in the sale was a jade carving dating from the Yuan dynasty (1271-1368). About 86 percent of the 848 items in the auction found buyers. </P>
+<P> The auction was the second to be held by Guardian, which takes a 10 percent commission for handling the sale of items. </P>
+</TEXT>
+</DOC>

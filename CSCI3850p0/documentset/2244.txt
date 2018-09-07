@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0265.941026</DOCID>
+<TDTID>TDT005602</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/26/94 14:38</DATE>
+<TITLE> Breakdown of UN vote against US embargo on Cuba</TITLE>
+<HEADLINE> Breakdown of UN vote against US embargo on Cuba</HEADLINE>
+<SUBJECT> BC-CUBA-UN-BREAKDOWN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  The United States was defeated in the U.N. General Assembly Wednesday when a resolution aimed at ending its increasingly tough economic embargo against Cuba was adopted by a vote of 101 to two, with 48 abstentions and 33 countries absent or not voting. Following is the breakdown of votes among the 184 members: </P>
+<P> IN FAVOR (101): Afghanistan, Algeria, Andorra, Angola, Antigua-Barbuda, Australia, Austria, Bahamas, Bangladesh, Barbados, Belarus, Belgium, Belize, Benin, Bolivia, Botswana, Brazil, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Chile, China, Colombia, Congo, Costa Rica, Cuba, Cyprus, North Korea, Denmark, Ecuador, Ethiopia, Finland, France, Ghana, Greece, Guinea, Guyana, Haiti, Honduras, India, Indonesia, Iran, Iraq, Jamaica, Jordan, Kenya, Laos, Libya, Liechtenstein, Luxembourg, Madagascar, Malawi, Malaysia, Mali, Mauritania, Mexico, Monaco, Mongolia, Myanmar, Namibia, New Zealand, Nicaragua, Niger, Nigeria, Norway, Pakistan, Panama, Papua-New Guinea, Paraguay, Peru, Philippines, Russia, St. Lucia, St. Vincent-Grenadines, Samoa, Seychelles, South Africa, Spain, Sri Lanka, Sudan, Suriname, Sweden, Syria, Tajikistan, Thailand, Togo, Trinidad and Tobago, Tunisia, Uganda, Ukraine, Tanzania, Uruguay, Venezuela, Vietnam, Yemen, Zaire, Zambia and Zimbabwe. </P>
+<P> AGAINST (2): United States and Israel. </P>
+<P> ABSTENTIONS (48): Albania, Argentina, Armenia, Bhutan, Britain, Brunei Dar-Salam, Bulgaria, Ivory Coast, Czech Republic, El Salvador, Eritrea, Estonia, Fiji, Gabon, Georgia, Germany, Guatemala, Hungary, Iceland, Ireland, Italy, Japan, Kazakhstan, Kuwait, Kyrgyzstan, Latvia, Lithuania, Maldives, Malta, Marshall Islands, Micronesia, Morocco, Nepal, Netherlands, Poland, Portugal, South Korea, Moldova, Romania, Rwanda, San Marino, Singapore, Slovakia, Slovenia, Swaziland, Macedonia, Turkey, and Vanuatu. </P>
+<P> NOT VOTING (33): Azerbaijan, Bahrain, Bosnia-Herzegovina, Central African Republic, Chad, Comoros, Croatia, Djibouti, Dominica, Dominican Republic, Egypt, Equatorial Guinea, Gambia, Grenada, Guinea-Bissau, Lebanon, Lesotho, Liberia, Mauritius, Mozambique, Oman, Qatar, St. Kitts-Nevis, San Tome and Principe, Saudi Arabia, Senegal, Sierra Leone, Solomon Islands, Somalia, Turkmenistan, United Arab Emirates, Uzebekistan and Yugoslavia, which has been suspended from the General Assembly. </P>
+</TEXT>
+</DOC>

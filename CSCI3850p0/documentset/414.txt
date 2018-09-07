@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0444.940726</DOCID>
+<TDTID>TDT001063</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/26/94 16:29</DATE>
+<TITLE> EGYPTIAN PRESIDENT RATIFIES DEATH FOR MILITANTS</TITLE>
+<HEADLINE> EGYPTIAN PRESIDENT RATIFIES DEATH FOR MILITANTS</HEADLINE>
+<SUBJECT> BC-EGYPT-MILITANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO, Egypt (Reuter) </DATELINE>
+<P>  Egyptian President Hosni Mubarak has ratified the death sentences on five Muslim militants convicted of trying to assassinate the interior minister, an official statement said Tuesday. </P>
+<P> It said Mubarak ratified the sentences Sunday. </P>
+<P> Under Egyptian law the president ratifies such sentences and the execution takes place within 15 days of the date on which the convicts are notified. </P>
+<P> Egypt's supreme military court passed the death sentences on July 16 and at the same time sentenced 10 other men to prison terms of between three and five years for belonging to the outlawed militant group Jihad, possession of illegal arms and supplying the militants with weapons. Two men were acquitted. </P>
+<P> Egyptian authorities have sentenced 56 militants to death for acts of political violence in the past two years and 36 of them have been executed. Fifteen others are on the run. </P>
+<P> Interior Minister Hassan al-Alfi escaped death in central Cairo on August 18 last year when a bomb exploded just before his motorcade passed, killing two militants and three civilians. </P>
+<P> The death sentences were the first in a military trial of militants since March. The level of violence has since fallen sharply and the police now say they have the Muslim militant movements well under control. </P>
+</TEXT>
+</DOC>

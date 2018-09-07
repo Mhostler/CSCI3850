@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU005-0187.950508</DOCID>
+<TDTID>TDT013547</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/08/95 00:31</DATE>
+<TITLE> Surprise Tamil Tiger attack kills 12 soldiers</TITLE>
+<HEADLINE> Surprise Tamil Tiger attack kills 12 soldiers</HEADLINE>
+<SUBJECT> BC-SRILANKA-FIGHTING-TOLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>COLOMBO, May 8 (Reuter) </DATELINE>
+<P>  A surprise attack by Tamil Tiger rebels on Monday killed 12 special task force commandos on jungle patrol near the eastern town of Amparai, police and army sources said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU011-0318.950419</DOCID>
+<TDTID>TDT012723</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/19/95 11:12</DATE>
+<TITLE> Gore urges indefinite extension of NPT</TITLE>
+<HEADLINE> Gore urges indefinite extension of NPT</HEADLINE>
+<SUBJECT> BC-NUCLEAR-GORE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  Vice President Al Gore Wednesday urged 178 countries to seize a ``one-time option'' and extend the nuclear Non-Proliferation Treaty (NPT) indefinitely. </P>
+<P> Gore made his appeal at a United Nations conference called to decide whether to prolong the 25-year-old treaty -- a cornerstone of the struggle to prevent atomic war -- forever or for a limited period. </P>
+</TEXT>
+</DOC>

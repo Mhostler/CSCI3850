@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU006-0063.941212</DOCID>
+<TDTID>TDT007837</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/12/94 22:38</DATE>
+<TITLE> GM to add 1,000 jobs at Ohio truck plant</TITLE>
+<HEADLINE> GM to add 1,000 jobs at Ohio truck plant</HEADLINE>
+<SUBJECT> BC-AUTOS-GM 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds details, confirmation from GM)</NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  General Motors Corp., seeking to capitalize on the surging demand for sport-utility vehicles, said Monday it plans to add a third work crew to its Moraine, Ohio plant early next year. </P>
+<P> GM spokeswoman Linda Cook said the move will allow the automaker to increase production of the popular Chevrolet Blazer and GMC Jimmy sport utility vehicles to 6,700 vehicles a week from the current rate of about 5,000. </P>
+<P> ``The market is really hot for sport utility vehicles,'' she said. </P>
+<P> U.S. automakers are increasingly turning to three crew operations to boost production without spending billions of dollars on new factories. GM already operates several factories virtually around the clock and Chrysler Corp. recently added a third shift at its Jeep Grand Cherokee plant in Detroit to keep up with demand. </P>
+<P> Under the new arrangement, the plant will operate two 10- hour shifts a day, six days a week. Normally, auto plants operate two eight-hour shifts a day, five days a week. But demand for sport utility vehicles is so strong that GM has been forced to rely on heavy amounts of overtime to fill dealer orders. The new arrangement will eliminate the need for overtime, thereby saving GM money. </P>
+<P> Earlier, the Dayton Daily News said GM plans to add 1,000 workers to the plant, but GM said it has not finalized its hiring plans yet. </P>
+<P> Plant manager Bob Roth said the facility will start adding the third crew early next year with production expected to start around mid-1995. </P>
+<P> ``I'm very excited about the third crew,'' Roth told the newspaper. ``Financially it's a good way to do business.'' </P>
+<P> The move will allow the plant to turn out about 300,000 vehicles a year, up from the current rate of 200,000. </P>
+<P> News of the increase is particularly satisfying for workers at the plant, who just three years ago were worried GM might close the factory as part of a plan to shutter 23 plants in North America. </P>
+<P> The plant currently employs 3,000 workers. Cook said most of the additional workers will be newly hired auto workers. </P>
+</TEXT>
+</DOC>

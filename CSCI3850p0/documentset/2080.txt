@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0002.941018</DOCID>
+<TDTID>TDT005206</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 00:19</DATE>
+<TITLE> Australian male soldiers may get earrings</TITLE>
+<HEADLINE> Australian male soldiers may get earrings</HEADLINE>
+<SUBJECT> BC-AUSTRALIA-HAIR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SYDNEY, Australia (Reuter) </DATELINE>
+<P>  The Australian Defense Force (ADF) is reviewing its ban on male soldiers wearing earrings and long hair, which at least one trooper says constitutes sexual discrimination. </P>
+<P> In a letter published in an army newspaper, Private Andrew Griffiths said it was illegal under Australia's anti-discrimination laws to force male soldiers to have short-back-and-sides haircuts, but allow women collar-length hair. </P>
+<P> ``The issue of earrings and hair length for males and females is currently under review by the ADF and will be considered by the defense force personnel policy committee later this year,'' a spokeswoman, Major Jane Glenn, told reporters Tuesday. </P>
+<P> There are 51,699 male soldiers and sailors and airmen in Australia's permanent defense force, compared with 7,321 females. </P>
+</TEXT>
+</DOC>

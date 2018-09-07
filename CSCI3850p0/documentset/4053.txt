@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU014-0090.950130</DOCID>
+<TDTID>TDT009924</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/30/95 23:06</DATE>
+<TITLE> U.S. disaster experts leave for Japan</TITLE>
+<HEADLINE> U.S. disaster experts leave for Japan</HEADLINE>
+<SUBJECT> BC-QUAKE-JAPAN-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The head of U.S. emergency response services and a team of disaster experts left for Japan Monday to tour areas devastated by the earthquake that left 5,094 dead, 26,798 injured and 13 people still missing. </P>
+<P> The seven-member delegation, headed by Federal Emergency Management Agency (FEMA) chief James Lee Witt, will share expertise and lessons learned from the 1994 earthquake that rocked Northridge, Calif., almost exactly one year before the Kobe earthquake. </P>
+<P> The cost of damage from the quake in Japan's main western port was estimated at seven trillion yen ($70 billion). </P>
+<P> FEMA said the U.S. delegation was being sent at the direction of President Clinton and in agreement with Japanese Prime Minister Tomiichi Murayama. </P>
+</TEXT>
+</DOC>

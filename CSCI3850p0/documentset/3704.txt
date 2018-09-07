@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU004-0395.950111</DOCID>
+<TDTID>TDT009174</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/11/95 07:33</DATE>
+<TITLE> Israeli troops, Arabs clash over settlement site</TITLE>
+<HEADLINE> Israeli troops, Arabs clash over settlement site</HEADLINE>
+<SUBJECT> BC-MIDEAST-SETTLEMENT-CLASH 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Adds photographer injured by rock, grenade thrown)</NOTES>
+<DATELINE>KUFR AL-DEEK, West Bank (Reuter) </DATELINE>
+<P>  Israeli soldiers hurled a percussion grenade at Palestinians during a protest Wednesday against new Jewish settlement construction in the occupied West Bank, witnesses said. </P>
+<P> They said Nathan Harnik, a photographer for the Associated Press news agency, was struck on the head by a rock, apparently thrown by Palestinian protesters. He was taken to an army infirmary for treatment and his condition was not immediately known. </P>
+<P> Palestinian witnesses earlier said soldiers fired shots on the demonstrators. But others at the site said they only heard the explosion of the percussion grenade. No Palestinians were hurt. </P>
+<P> The clash started when about 200 Palestinians tried to break through an army roadblock outside the village of Kufr al-Deek to reach a new construction site near the settlement of Alei Zahav, the witnesses said. </P>
+<P> It was the latest in a series of confrontations that have returned the thorny settlement issue to the forefront of Israeli-PLO wrangling over their troubled 1993 peace deal. </P>
+<P> Senior PLO leader Yasser Abed Rabbo said earlier Wednesday the Palestinian Authority (PA) must pull out of the talks with Israel if Jewish settlers continue to expand their enclaves in the occupied West Bank. </P>
+<P> Abed Rabbo, who runs the PA's culture department, said a separate settlement project in the northern part of the West Bank was pushing the peace process to a dead end. </P>
+<P> ``I think that this is the end of the road; either all these activities should stop and the settlers withdraw from the occupied and confiscated land or the Palestinian Authority will have to take serious and decisive decisions,'' he said. </P>
+</TEXT>
+</DOC>

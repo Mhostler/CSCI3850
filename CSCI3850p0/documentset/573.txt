@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0098.940803</DOCID>
+<TDTID>TDT001404</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 12:01</DATE>
+<TITLE> U.S. FINES 26 FOR ILLEGAL CAMPAIGN CONTRIBUTIONS</TITLE>
+<HEADLINE> U.S. FINES 26 FOR ILLEGAL CAMPAIGN CONTRIBUTIONS</HEADLINE>
+<SUBJECT> BC-USA-FINES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The U.S. Federal Election Commission said Wednesday it had fined 26 contributors, almost all Japanese, for making illegal political campaign contributions in Hawaii. </P>
+<P> It said it was expanding its investigation of illegal foreign contributions to other areas, but declined to give any details. Under U.S. law, it is illegal for foreigners to make campaign contributions. </P>
+<P> The commission said it investigated campaign finances in Hawaian elections from 1986 to 1992 and found that over $300,000 was collected from foreign businesses, individuals and the government of Taiwan. </P>
+<P> It admonished 106 campaign committees for a number of candidates for state and local offices and ordered them to return the money or donate it to charity. </P>
+<P> The 26 agreed to pay fines totalling $162,225, the commission said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU002-0293.940704</DOCID>
+<TDTID>TDT000124</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/04/94 13:58</DATE>
+<TITLE> MISSING ARM OF MADRID STATUE FOUND IN PLASTIC BAG</TITLE>
+<HEADLINE> MISSING ARM OF MADRID STATUE FOUND IN PLASTIC BAG</HEADLINE>
+<SUBJECT> BC-SPAIN-STATUE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MADRID, July 4 (Reuter) </DATELINE>
+<P>  The missing arm of a landmark Madrid statue, ripped off by soccer fans during wild celebrations to mark a weekend World Cup win by Spain, was found on Monday. </P>
+<P> Police said a young couple found the left arm of the 212-year-old statue of the goddess Cibeles in a plastic bag in a city centre street. </P>
+<P> Around 2,500 soccer fans swarmed around the statue, which dominates a fountain in the tree-lined Paseo de la Castellana, after Spain beat Switzerland on Saturday to secure a place in the World Cup quarter-finals. </P>
+</TEXT>
+</DOC>

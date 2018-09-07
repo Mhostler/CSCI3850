@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0308.941011</DOCID>
+<TDTID>TDT004811</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/11/94 01:25</DATE>
+<TITLE> U.N. observers say Iraq-Kuwait border quiet</TITLE>
+<HEADLINE> U.N. observers say Iraq-Kuwait border quiet</HEADLINE>
+<SUBJECT> BC-IRAQ-KUWAIT-BORDER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KUWAIT (Reuter) </DATELINE>
+<P>  U.N. military observers said the Iraq-Kuwait border was quiet after daybreak Tuesday following an Iraq announcement it was withdrawing a large force it had deployed near the Gulf War frontier. </P>
+<P> ``Everything is okay. Everything is quiet,'' a spokesman for the U.N. Iraq-Kuwait Observer Mission (UNIKOM) told Reuters from the demilitarized zone. </P>
+<P> Iraq said Monday it was withdrawing tens of thousands of troops who have deployed as close as 12 miles from the border since Friday and raised fears of a repeat of Baghdad's 1990 invasion. </P>
+<P> The United States and Kuwait said they had no evidence of such a withdrawal and a large buildup of military power in the region was continuing. </P>
+<P> The spokesman added that a UNIKOM helicopter was making a regular morning observation flight over the zone along the 130 mile border. </P>
+<P> Observers would make a report based on its flight at about 9.30 a.m. EDT, the spokesman said. </P>
+</TEXT>
+</DOC>

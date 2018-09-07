@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU009-0232.950218</DOCID>
+<TDTID>TDT010558</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/18/95 16:39</DATE>
+<TITLE> White House hits Republican bid to end food plan</TITLE>
+<HEADLINE> White House hits Republican bid to end food plan</HEADLINE>
+<SUBJECT> BC-CLINTON-FOOD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House Saturday vigorously attacked a Republican plan to end federal subsidized food and nutrition programs for poor children in schools, saying it was a ``damaging assault'' on the needy. </P>
+<P> House Republicans on Friday offered legislation that would do away with the national school lunch program and replace it with block grants that would be given to states. </P>
+<P> ``It's another example of how the fine print in the Contract with America is adding up to a very damaging assault on some of the most vulnerable in our society,'' White House Press Secretary Mike McCurry said. </P>
+<P> He complained that the proposal represented ``another aspect in the Republican cut and gut approach to many of these programs.'' </P>
+<P> Under the proposal states would be expected to come up with their own replacement system for the school lunch program and the Special Supplemental Nutrition Program for Women, Infants and Children. </P>
+<P> ``Those child nutrition and school lunch programs are considered among the more effective health care programs in the federal government,'' McCurry said. </P>
+<P> He predicted that ``the Republican governors may have some very interesting views on these issues because they know the importance of these social services ... that protect the very most vulnerable and neediest people in our society.'' </P>
+</TEXT>
+</DOC>

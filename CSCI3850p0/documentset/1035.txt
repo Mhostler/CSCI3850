@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0054.940828</DOCID>
+<TDTID>TDT002567</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/28/94 06:25</DATE>
+<TITLE> SPANISH POLICE BURNED IN FIREBOMB ATTACK</TITLE>
+<HEADLINE> SPANISH POLICE BURNED IN FIREBOMB ATTACK</HEADLINE>
+<SUBJECT> BC-SPAIN-BASQUE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN SEBASTIAN, Spain (Reuter) </DATELINE>
+<P>  Two Basque policemen were badly burned when a firebomb was hurled into their car as protests against the extradition of three alleged ETA members from Uruguay continued, police said on Sunday. </P>
+<P> The men, from the autonomous Ertzaintza force, stumbled from the car in flames and one threw himself into a river after Saturday's attack in the Basque region of Guipuzcoa. </P>
+<P> They were on their way to investigate the burning of a bus by a group of radical youths. </P>
+<P> Sporadic scuffles have taken place between radical youths and police in the Basque country since three alleged members of separatist group ETA were extradited from Uruguay on Thursday. </P>
+<P> Several vehicles have been set alight and stone-throwing youths clashed with police in San Sebastian on Saturday after a protest march. </P>
+<P> ETA (Basque Homeland and Freedom) has killed around 800 people in its 26-year campaign for independence. </P>
+</TEXT>
+</DOC>

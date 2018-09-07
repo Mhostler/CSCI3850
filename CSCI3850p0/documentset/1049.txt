@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU013-0234.940829</DOCID>
+<TDTID>TDT002592</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/29/94 15:34</DATE>
+<TITLE> STUDY URGED ON NASAL RADIATION PROCEDURES' EFFECTS</TITLE>
+<HEADLINE> STUDY URGED ON NASAL RADIATION PROCEDURES' EFFECTS</HEADLINE>
+<SUBJECT> BC-HEALTH-RADIATION </SUBJECT>
+<AUTHOR>     By Vicki Allen </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Hundreds of thousands of Americans may face heightened cancer risks from a once-routine medical procedure of inserting radium up patients' nostrils, government and medical officials said Monday. </P>
+<P> Veterans' advocates and Senator Joseph Lieberman urged the government to study the effects of nasal irradiation, used widely until the 1960s to ease air and submarine crews' ear problems when adjusting to rapid pressure changes. </P>
+<P> The procedure also was used on hundreds of thousands of children from the 1940s to the '60s to treat common problems with middle ear hearing loss and other ear and nasal conditions. </P>
+<P> ``A number of people who received the radium treatment later developed cancer where the radium came in contact with their body,'' Leiberman, a Connecticut Democrat, said at a Senate Environment subcommittee hearing. </P>
+<P> ``We need to find out for sure if the radium caused the cancer, and we also need to get the word out to all those who received the treatment to visit their doctor and be examined for any ill effects,'' Lieberman said. </P>
+<P> Stewart Farber, who helped start an advocacy group called the Submarine Survivors Group, said the level of exposure and the number of servicemen and civilians exposed ``dwarfs all radiation issues'' which have been publicized since the Energy Department started releasing once-secret documents on the government's Cold War era radiation experiments. </P>
+<P> Farber said there are estimates up to 50,000 servicemen were affected by the nasal procedure. </P>
+<P> There are estimates that up to 400,000 children underwent the procedure, sometimes repeatedly over several years. </P>
+<P> Susan Mather, an assistant chief medical director with the Veterans' Department, said the department is starting to gather information on veterans who underwent the tests, that were most widely used during World War Two when flyers with ear problems missed about a third of combat duty time. </P>
+<P> Studies to date on children who had the treatment have been inconclusive, but one found a ``statistically significant increase in head and neck tumors including brain tumors,'' said James Smith, of the Health and Human Services Department's Centers for Disease Control. </P>
+<P> Smith said a comprehensive study on servicemen would be costly and difficult, and it would take a ``substantial effort'' just to determine if a study on the general population was feasible. </P>
+<P> Lieberman asked whether people who underwent the procedure should be alerted and checked for symptoms such as thyroid and pituarity problems. </P>
+<P> But Smith said, ``I think we should be careful before sending out medical alerts,'' and added the government and medical community need to develop more information on the potential risks and treatments. </P>
+</TEXT>
+</DOC>

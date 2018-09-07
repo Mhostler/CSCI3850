@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU011-0367.950517</DOCID>
+<TDTID>TDT013901</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/17/95 10:40</DATE>
+<TITLE> Ethics committee files charges against Packwood</TITLE>
+<HEADLINE> Ethics committee files charges against Packwood</HEADLINE>
+<SUBJECT> BC-PACKWOOD-CHARGES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Senate Ethics Committee said Wednesday there was substantial evidence to find that Sen. Bob Packwood may be guilty of sexual misconduct in 18 incidents. </P>
+<P> The committee adopted a resolution calling for a full investigation into the charges against the Oregon Republican as well as other conduct by him that may have brought discredit on the U.S. Senate. </P>
+</TEXT>
+</DOC>

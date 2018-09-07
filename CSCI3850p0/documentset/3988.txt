@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU012-0193.950126</DOCID>
+<TDTID>TDT009796</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/26/95 17:22</DATE>
+<TITLE> London, Dublin stumble over N.Ireland peace plan</TITLE>
+<HEADLINE> London, Dublin stumble over N.Ireland peace plan</HEADLINE>
+<SUBJECT> BC-IRISH 1STLD </SUBJECT>
+<AUTHOR>     By Alan Wheatley </AUTHOR>
+<TEXT>
+<NOTES> (Updates with result of Mayhew/Spring talks)</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain and Ireland failed Thursday to iron out differences over a long-awaited outline political settlement in Northern Ireland. </P>
+<P> Britain's Northern Ireland Secretary, Sir Patrick Mayhew, and Irish Foreign Minister Dick Spring said they made progress during an afternoon of talks but some stumbling blocks remained. </P>
+<P> They said they had asked their officials to continue work on a 23-page ``framework document.'' </P>
+<P> It will be a starting point for negotiations among Northern Ireland's political parties aimed at cementing peace after a 25-year guerrilla conflict over whether the province should remain under British rule or become part of a united Ireland. </P>
+<P> Officials have already spent months on the proposals. </P>
+<P> ``We've found ourselves entirely happy with large areas of it. Not unnaturally, there are a few areas of complexity where more work is required,'' Mayhew told reporters. </P>
+<P> ``We certainly moved forward. We're happy with the progress that's been made, and we've been able to make some progress ourselves today,'' he said. </P>
+<P> Spring, who described the talks as useful, said: ``I'm confident we can overcome the remaining differences.'' </P>
+<P> The two men will meet again soon. When final agreement is reached, British Prime Minister John Major and Irish Prime Minister John Bruton are expected to endorse the peace proposals at a special summit. </P>
+<P> As part of the framework document, Dublin will abandon its constitutional claim to Northern Ireland and accept that it can remain linked to Britain as long as a majority of the province wishes. For its part, London will agree to change the law to recognize that the predominantly Protestant province could be reunited with the mainly Catholic republic of Ireland one day if that was the wish of the majority. </P>
+<P> The momentum toward peace has picked up since the Irish Republican Army began a ceasefire on September 1 in its violent campaign to oust Britain from Northern Ireland. Its extremist Protestant foes declared a matching truce six weeks later. </P>
+<P> Martin McGuinness, deputy leader of the IRA's political wing, Sinn Fein, urged Britain earlier in the day to stop dragging its feet. </P>
+<P> ``The guns for five months have been silent... It's now time for all the parties of the conflict to sit at the negotiating table -- and that must happen sooner rather than later,'' he told a news conference in London. </P>
+<P> McGuinness said it was vital the framework document does not grant Protestant Unionists a veto over the political future of Northern Ireland, saying Sinn Fein could not be expected to sit at the table if such crucial matters were pre-determined. </P>
+<P> Major depends critically on the support of Unionist members of parliament, who have threatened to bring down his government if he gives Dublin any say in Northern Ireland's affairs. </P>
+<P> ``The question is, ``Is John Major going to have a short-sighted view of the present situation...or is John Major going to be a statesman?''' said McGuinness. ``What we have to do is move the situation on.'' </P>
+</TEXT>
+</DOC>

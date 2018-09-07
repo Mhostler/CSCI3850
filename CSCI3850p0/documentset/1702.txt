@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU015-0007.940930</DOCID>
+<TDTID>TDT004233</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/30/94 06:19</DATE>
+<TITLE> Building collapses in Milan, people feared trapped</TITLE>
+<HEADLINE> Building collapses in Milan, people feared trapped</HEADLINE>
+<SUBJECT> BC-ITALY-COLLAPSE 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MILAN, Italy (Reuter) </DATELINE>
+<P>  A four-story building collapsed in Milan Friday and a number of people were feared trapped under the rubble, fire officials said. </P>
+<P> The cause was not immediately clear but a fire brigade spokesman said a gas leak may have been to blame. Some witnesses had reported hearing an explosion and a smell of gas hung over the site, the spokesman said. </P>
+<P> He said the building, on the corner of a busy thoroughfare, collapsed at around 10 a.m. </P>
+<P> Rescue workers were trying to establish how many people were in the building at the time. </P>
+<P> ``We still don't know that but from my experience of this sort of thing there are likely to be victims if anyone was inside,'' the spokesman said. </P>
+<P> He said fire brigade teams had sent earth moving equipment to the scene. </P>
+<P> Twenty-seven people, most of them elderly, were killed in July when an old people's home at Motta Visconti, about 20 miles southeast of Milan, was flattened by a gas explosion. </P>
+</TEXT>
+</DOC>

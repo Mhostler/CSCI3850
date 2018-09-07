@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0345.950407</DOCID>
+<TDTID>TDT012240</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 00:53</DATE>
+<TITLE> Tougher penalties for child pornography clear Senate</TITLE>
+<HEADLINE> Tougher penalties for child pornography clear Senate</HEADLINE>
+<SUBJECT> BC-CONGRESS-CHILDREN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Senate passed Thursday legislation to impose tougher penalties on individuals who create or traffic in child pornography and who transport children across state lines for prostitution or other criminal sexual activities. </P>
+<P> The Senate approved a technical change, sending it back to the House for final approval, probably Friday. </P>
+<P> The Sexual Crimes Against Children Act also permits the federal government to use racketeering laws to prosecute those who sell or broadcast obscene materials on cable television. </P>
+<P> Under the bill, the sentence for a first time offender convicted of creating child pornography would be 70-to-87 months, up from the current 57-to-71 months. Sentences for transporting children across state lines would rise to 30-to-37 months, up from the current 21-to-27 months. </P>
+<P> The Justice Department supports the bill, which was part of the House Republicans' ``Contract with America.'' </P>
+</TEXT>
+</DOC>

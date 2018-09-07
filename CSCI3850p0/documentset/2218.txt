@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0037.941025</DOCID>
+<TDTID>TDT005552</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/25/94 13:22</DATE>
+<TITLE> Carlos Graca named prime minister of Sao Tome</TITLE>
+<HEADLINE> Carlos Graca named prime minister of Sao Tome</HEADLINE>
+<SUBJECT> BC-SAOTOME </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAO TOME, Sao Tome and Prinicpe (Reuter) </DATELINE>
+<P>  Carlos Graca was appointed prime minister of the African island state of Sao Tome and Principe Tuesday, following the victory of his MLSTP party in parliamentary elections three weeks ago. </P>
+<P> President Miguel Trovoada asked Graca to form a government after three days of consultations with the main political parties of this former Portuguese colony of 120,000 people off the coast of Gabon. </P>
+<P> The formerly Marxist MLSTP won 27 of the 55 seats in parliament -- one short of an outright majority -- in Sao Tome's second multiparty elections October 2. </P>
+<P> The MLSTP led Sao Tome to independence in 1975 and ruled these cocoa-growing islands as a one-party state until its defeat in the country's first free elections three years ago. </P>
+<P> Graca has already negotiated agreements with the other two parties in parliament that would enable a MLSTP minority administration to govern and sources in the presidency said his Cabinet would be sworn in by the weekend. </P>
+<P> Graca, 62, is a pro-Western moderate and former dissident who took over the MLSTP leadership after the party's election defeat in 1991. </P>
+<P> The son of a prominent Sao Tome doctor, he was born and educated in Lisbon, where he gained a degree in medicine. </P>
+</TEXT>
+</DOC>

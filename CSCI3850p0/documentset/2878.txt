@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU013-0004.941128</DOCID>
+<TDTID>TDT007133</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/28/94 17:38</DATE>
+<TITLE> Health group asks FDA to enforce contraception laws</TITLE>
+<HEADLINE> Health group asks FDA to enforce contraception laws</HEADLINE>
+<SUBJECT> BC-CONTRACEPTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A health group petitioned the Food and Drug Administration Monday to require the makers of six oral contraceptives to relabel their pills as effective and safe for ``morning-after'' use. </P>
+<P> The Center for Reproductive Law and Policy said that birth control pills are currently labeled for pre-coital use, but if relabeled and used the morning after could reduce unintended pregnancies by 1.7 to 2.3 million each year. </P>
+<P> And the group said that because as many as half of all women facing unintended pregnancies have abortions, relabeling could reduce abortions by some one million a year. </P>
+<P> The center represents the American Public Health Association, the American Medical Women's Association and the Planned Parenthood of New York. </P>
+<P> It said the contraceptives effective for post-coital use are Ovral, Lo/Ovral, Nordette and Triphasil, by Wyeth-Ayerst Laboratories, part of American Home Products Corp., and Levlen and and Tri-Levlen, made by Berlex Laboratories. </P>
+<P> The group said the side effects of the contraception included temporary nausea and vomiting for about half the women who use the regimen, and that some may experience breast tenderness and menstrual irregularities. </P>
+<P> Reseachers say that such post-coital contraception prevents pregnancy by inhibiting the transport of the ovum through the fallopian tubes, thus not terminating a pregnancy but instead acting before a pregnancy is initiated, the group said. </P>
+<P> It said the contraceptives have been shown safe and effective, and its petition argues the FDA's failure to require manufacuturers to provide information on emergency post-coital uses endangers women's health and increases the rate of unintended pregnancy. </P>
+<P> The FDA said it was reviewing the petition. Under law it has 180 days to respond. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU001-0310.950103</DOCID>
+<TDTID>TDT008816</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/03/95 14:30</DATE>
+<TITLE> Palestinian police arrest Israelis in Gaza</TITLE>
+<HEADLINE> Palestinian police arrest Israelis in Gaza</HEADLINE>
+<SUBJECT> BC-MIDEAST-ARRESTS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds Israelis checking, background)</NOTES>
+<DATELINE>GAZA (Reuter) </DATELINE>
+<P>  Palestinian police arrested 12 Israelis in the Gaza Strip Tuesday and said they were members of the Israeli secret police, a senior Palestinian security official said. </P>
+<P> Israeli army officials said they were checking the report. </P>
+<P> The Palestinian official said the armed Israelis were travelling in a van and wearing plain clothes. According to the official, the Israelis said they were chasing armed Palestinians. </P>
+<P> Other details were not immediately available. </P>
+<P> The arrests follow an incident Monday in which Israeli soldiers shot dead three Palestinian policemen in Gaza. The army said Israeli troops came under fire just inside the strip, gave chase and shot back. </P>
+<P> Palestinians accused Israel of initiating Monday's attack, shelling and bombing two police stations. </P>
+<P> Israeli troops withdrew from most of the Gaza Strip last May under the Israel-PLO self-rule deal. According to the agreement, Israeli soldiers still safeguard Jewish settlements in the strip and conduct joint patrols with Palestinians on main roads. </P>
+<P> In Cairo, Israelis and Palestinians went into urgent talks Tuesday to try to advance the stalled peace accord, marred by distrust over the killing of the Palestinian soldiers, Israel's stance on Jewish settlements, and anti-Israeli violence. </P>
+</TEXT>
+</DOC>

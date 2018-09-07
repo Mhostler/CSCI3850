@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU007-0297.941215</DOCID>
+<TDTID>TDT008025</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 17:56</DATE>
+<TITLE> Justice Dept. settles case on vision care discounts</TITLE>
+<HEADLINE> Justice Dept. settles case on vision care discounts</HEADLINE>
+<SUBJECT> BC-HEALTH-VISION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Justice Department said Thursday it has reached a settlement with a national vision care insurer accused of using a contract provision that had reduced discounting by optometrists. </P>
+<P> It said Vision Service Plan, the nation's largest eye care insurance plan with more than $500 million in annual sales and 15 million customers, agreed to stop using the provision that had inhibited optometrists from cutting prices. </P>
+<P> Assistant Attorney General Anne Bingaman was unable to estimate how much money would be saved nationwide as a result of the settlement, but said billions of dollars are spent each year on eye care. </P>
+<P> The contract provision stated that if an optometrist offered a lower price to another insurer, then the same lower price must be given to Vision Service. Bingaman said the clause had the effect of stopping all discounting. </P>
+<P> She told a news conference that discounts typically of 20 percent to 40 percent had ended when the the contract provision had been used. </P>
+<P> Bingaman said an optometrist charges an insurer on average $70 to $80 per visit on the East Coast, where the provision has not been used, compared with $100 to $110 on the West Coast, where it has been prevalent. </P>
+<P> Vision Service, a non-profit corporation based in Rancho Cordova, Calif., started in California and has most of its customers in the West, department officials said. </P>
+</TEXT>
+</DOC>

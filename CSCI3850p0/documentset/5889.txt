@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0234.950420</DOCID>
+<TDTID>TDT012768</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/20/95 12:04</DATE>
+<TITLE> U.S. sets dates for Irish economic conference</TITLE>
+<HEADLINE> U.S. sets dates for Irish economic conference</HEADLINE>
+<SUBJECT> BC-IRISH-ECONOMY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House conference on trade and investment in Ireland will be held in Washington May 24-26 and will be addressed by President Clinton, the Commerce Department announced Thursday. </P>
+<P> The meeting, part of the administration's effort to increase support for the economic and political revitalization of Northern Ireland and the six border counties, was announced by the White House last November. </P>
+<P> It will gather U.S. business executives with government officials and business leaders from Northern Ireland and Ireland to discuss the area's economic situation. Issues include manufacturing, information technology, tourism, community development and employment, the department said. </P>
+<P> Clinton is to address the conference May 25. </P>
+<P> Other U.S. officials to speak include Secretary of State Warren Christopher, Commerce Secretary Ron Brown and former Senate Majority Leader George Mitchell, who is the U.S. special adviser for economic initiatives in Ireland. </P>
+</TEXT>
+</DOC>

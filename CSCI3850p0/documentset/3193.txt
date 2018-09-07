@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU006-0374.941214</DOCID>
+<TDTID>TDT007915</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 10:08</DATE>
+<TITLE> Foreign trade gap widest in nearly seven years</TITLE>
+<HEADLINE> Foreign trade gap widest in nearly seven years</HEADLINE>
+<SUBJECT> BC-ECONOMY-TRADE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The U.S. foreign trade gap widened in the third quarter to its biggest shortfall in nearly seven years as America's appetite for imports continued unabated, the Commerce Department said Wednesday. </P>
+<P> The current account deficit -- the broadest measure of trade -- grew to $41.7 billion in the third quarter from $37.9 billion in the second. </P>
+<P> It was the biggest shortfall since the fourth quarter of 1987, when the United States racked up a $43.2 billion deficit. </P>
+<P> The current account measures trade not only in merchandise goods but also in services like tourism and insurance and in investment flows and grants to other countries. </P>
+<P> It was merchandise trade that largely accounted for the overall widening of the deficit last quarter. The deficit on merchandise trade jumped in the third quarter to a record $44.6 from $41.6 billion in the second quarter. </P>
+<P> ``Both non-petroleum and petroleum imports continued to increase strongly,'' the department said. </P>
+<P> The surplus on services edged up to a record $15.1 billion in the third quarter from $15 billion in the second, while the deficit on investment income increased to $3.9 billion from $2.8 billion. </P>
+<P> The department said that purchases of foreign assets by U.S. residents and also acquisitions of American assets by foreigners both accelerated last quarter. </P>
+<P> Foreign, mostly British, investors, brought $5.7 billion worth of U.S. Treasury securities in the third quarter, after record sales of $7.4 billion in the second. </P>
+</TEXT>
+</DOC>

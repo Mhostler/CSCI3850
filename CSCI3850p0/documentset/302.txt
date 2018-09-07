@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU010-0002.940719</DOCID>
+<TDTID>TDT000758</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/19/94 17:50</DATE>
+<TITLE> BABOON CELLS MAY REPAIR AIDS-DAMAGED IMMUNE SYSTEM</TITLE>
+<HEADLINE> BABOON CELLS MAY REPAIR AIDS-DAMAGED IMMUNE SYSTEM</HEADLINE>
+<SUBJECT> BC-AIDS-BABOON </SUBJECT>
+<AUTHOR>     By Sue Zeidler </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PITTSBURGH, (Reuter) </DATELINE>
+<P>  Scientists at the University of Pittsburgh said Tuesday they were looking at a radical idea for treating AIDS -- using the bone marrow from baboons to help repair the human immune system. </P>
+<P> Scientists who have studied acquired immune deficiency syndrome have found that baboons appear to have a natural resistance to the virus that causes AIDS, said Dr Suzanne Ildstad, a University of Pittsburgh researcher. </P>
+<P> At the University of Pittsburgh, doctors two years ago had transplanted a baboon's bone marrow into an AIDS patient who was dying. The man did die, but doctors were encouraged because the patient did not suffer any adverse reactions from the transplant. </P>
+<P> Ildstad and her colleage at the University of California at San Francisco, Dr Nancy Ascher, have discovered a cell that makes cross-species bone marrow transplants more possible. </P>
+<P> ``We have grafted the human immune system into baboons with success and, conceivably, it might be possible to do the reverse and transplant a baboon bone marrow into humans to achieve immune reconstitution which would be the strategy in treatment of AIDS,'' Ildstad said. </P>
+<P> Ildstad calls the cell she discovered a facilitating cell and it appears to eliminate graft-versus-host disease, in which donor immune cells attack the host's tissue. </P>
+<P> She said the facilitating cell allows the grafting of purified stem cells into genetically different species. Stem cells are believed to produce immune cells and oxygen-carrying red cells in the blood. </P>
+<P> Ildstad's discovery has inspired further plans to conduct baboon bone-marrow transplants for AIDS patients. </P>
+<P> Ildstad, 42, cites successful experiments where human bone marrow has been transplanted into baboons. </P>
+<P> ``It's a ways off and we're doing a lot of thinking for the protocol, but my prediction is that baboon bone marrow should take in humans because human bone marrow takes in baboons.'' </P>
+</TEXT>
+</DOC>

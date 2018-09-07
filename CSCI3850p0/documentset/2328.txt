@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU014-0301.941031</DOCID>
+<TDTID>TDT005838</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/31/94 18:41</DATE>
+<TITLE> No apparent survivors in Indiana crash - police</TITLE>
+<HEADLINE> No apparent survivors in Indiana crash - police</HEADLINE>
+<SUBJECT> BC-CRASH 1STLD URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter)</DATELINE>
+<P>  An American Airlines commuter flight with up to 68 people believed on board crashed in an Indiana corn field Monday and Indiana State Police said there were no apparent survivors. </P>
+</TEXT>
+</DOC>

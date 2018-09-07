@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0243.940722</DOCID>
+<TDTID>TDT000936</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/22/94 23:46</DATE>
+<TITLE> JAPAN EMPEROR TO VISIT FRANCE AND SPAIN IN OCTOBER</TITLE>
+<HEADLINE> JAPAN EMPEROR TO VISIT FRANCE AND SPAIN IN OCTOBER</HEADLINE>
+<SUBJECT> BC-JAPAN-EMPEROR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Japan's Emperor Akihito and Empress Michiko will go on a 13-day tour of France and Spain in October, business daily Nihon Keizai Shimbun said Saturday. </P>
+<P> It said they will stay overnight in Frankfurt on October 2 prior to the start of the visit, before going to Paris for an official reception with President Francois Mitterrand. </P>
+<P> They will then travel south to Toulouse, followed by a visit to Spain taking in King Juan Carlos's palace in Majorca and stays in Madrid and Barcelona. </P>
+<P> In June they went on a 16-day tour of the United States, and last September visited Germany, Italy, the Vatican and Belgium. </P>
+</TEXT>
+</DOC>

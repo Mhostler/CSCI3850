@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU007-0412.941216</DOCID>
+<TDTID>TDT008057</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/16/94 08:41</DATE>
+<TITLE> November homebuilding pace strongest of the year</TITLE>
+<HEADLINE> November homebuilding pace strongest of the year</HEADLINE>
+<SUBJECT> BC-ECONOMY-HOUSING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Construction starts on new homes and apartments took the biggest jump in eight months in November, the Commerce Department said Friday, as the pace of building accelerated to the strongest of the year. </P>
+<P> The annual rate of starts on new homes rose a surprisingly strong 6.9 percent to a seasonally adjusted annual rate of 1.54 million units. That followed a revised drop of 4.6 percent in October. </P>
+<P> Building starts increased everywhere except in the West, where they declined. </P>
+</TEXT>
+</DOC>

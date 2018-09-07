@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU014-0086.940729</DOCID>
+<TDTID>TDT001193</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/29/94 09:41</DATE>
+<TITLE> SENIOR ARMY GENERAL KILLED IN MADRID CAR BOMB</TITLE>
+<HEADLINE> SENIOR ARMY GENERAL KILLED IN MADRID CAR BOMB</HEADLINE>
+<SUBJECT> BC-SPAIN-BOMB 5THLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Changes identity of third victim)</NOTES>
+<DATELINE>MADRID, Spain (Reuter) </DATELINE>
+<P>  A top army general, his driver and a civilian were killed when a car bomb, believed to be the work of ETA Basque separatists, rocked the heart of Madrid during rush hour Friday morning, officials said. </P>
+<P> General Francisco Veguillas, director-general of defense policy, was passing in his armor-plated car when the bomb exploded in Plaza Ramales, 200 yards from the Royal Palace. </P>
+<P> Veguillas' driver was also killed and the third victim appeared to be a 24-year-old worker with a local dance company. </P>
+<P> Initially, Defense Minister Julian Garcia Vargas said the general's bodyguard had also been killed. But a police spokeswoman later said the third victim was believed to be the missing worker, who was unloading a props van with three colleagues when the bomb exploded. </P>
+<P> Fourteen people were injured in the blast, which ripped through the triangular square, shattering windows and engulfing parked cars in flames. The force of the blast, composed of around 45 pounds of explosives, hurled one of the bodies onto a nearby balcony, witnesses said. </P>
+<P> No one has yet claimed responsibility for the bomb but ETA has often targeted military officers in their 25-year armed campaign for an independent Basque state. Local officials had little doubt who was behind the attack, with the ruling Socialists condemning the ``futile terrorism.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0015.940715</DOCID>
+<TDTID>TDT000580</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/15/94 04:08</DATE>
+<TITLE> BOMB DAMAGES OFFICE OF CORSICAN FARMERS' FEDERATION</TITLE>
+<HEADLINE> BOMB DAMAGES OFFICE OF CORSICAN FARMERS' FEDERATION</HEADLINE>
+<SUBJECT> BC-FRANCE-BOMB </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AJACCIO, Corsica (Reuter) </DATELINE>
+<P>  A bomb explosion damaged the offices of a farmer's federation in northern Corsica, police said Friday. </P>
+<P> Thursday night's bombing destroyed the entrance lobby and shattered the windows of the Haute-Corse departmental agriculture chamber in Bastia town. </P>
+<P> No group claimed responsibility, but investigators found a pamphlet calling ``For a clean agriculture.'' </P>
+<P> In March, an armed group announced the creation of a Corsican Farmers' Front to ``defend the true professionals of agriculture.'' </P>
+</TEXT>
+</DOC>

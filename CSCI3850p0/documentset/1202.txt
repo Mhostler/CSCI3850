@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0219.940907</DOCID>
+<TDTID>TDT002992</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/07/94 07:14</DATE>
+<TITLE> Hilton to build luxury hotel in Belfast</TITLE>
+<HEADLINE> Hilton to build luxury hotel in Belfast</HEADLINE>
+<SUBJECT> BC-IRISH-HILTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Hilton International, in a joint venture with a Northern Ireland real estate development company, will build a 187-room hotel in the center of Belfast, the company said Wednesday. </P>
+<P> The hotel announcement is the first major peace dividend from last week's IRA cease-fire, which ended the guerrilla group's 25-year battle to throw British forces out of Northern Ireland and could lay the foundations for peace in the province. </P>
+<P> The luxury hotel will cost $26.31 million, said Hilton, a subsidiary of Britain's Ladbroke Group. Its partner in the project will be Belfast-based Ewart. </P>
+<P> The luxury hotel will form part of the extensive Laganbank development within the city's main office area which has extensive frontage on the River Lagan. </P>
+<P> Construction of the hotel will start in early 1995 with completion planned for late 1996/early 1997. </P>
+<P> Ladbroke and Ewart will invest $15.48 million through equity contribution and bank finance. The balance will be provided by grants from local development and government bodies. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0067.941001</DOCID>
+<TDTID>TDT004303</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/01/94 11:48</DATE>
+<TITLE> Japan says it strikes partial trade deal with U.S.</TITLE>
+<HEADLINE> Japan says it strikes partial trade deal with U.S.</HEADLINE>
+<SUBJECT> BC-JAPAN-TRADE-OUTCOME -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> After round-the-clock negotiations with U.S. Trade Representative Mickey Kantor, Japanese Trade Minister Ryutaro Hashimoto told reporters the two sides had struck a deal to open Japan's glass sector but not the contentious auto market. </P>
+<P> Foreign Minister Yohei Kono said an accord had also been reached on the government procurement sector, averting an immediate U.S. sanctions threat. </P>
+<P> As for insurance -- the other key sector under debate -- an announcement is to be delivered by Japanese officials who are attending economic talks in Madrid, said Hashimoto. </P>
+<P> Kantor was due to hold his own news conference later and it was not immediately clear what sanctions action, if any, he might pursue. The White House has repeatedly vowed to retaliate against Japan unless it takes concrete action to cut its massive $60 billion trans-Pacific trade imbalance. </P>
+</TEXT>
+</DOC>

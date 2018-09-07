@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU008-0325.941117</DOCID>
+<TDTID>TDT006654</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/17/94 15:17</DATE>
+<TITLE> Thousands march in Athens anti-American protest</TITLE>
+<HEADLINE> Thousands march in Athens anti-American protest</HEADLINE>
+<SUBJECT> BC-GREECE-JUNTA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATHENS (Reuter) </DATELINE>
+<P>  Thousands of demonstrators marched peacefully through central Athens Thursday, waving banners and chanting anti-American slogans to mark a 1973 student uprising which led to the fall of Greece's military junta. </P>
+<P> ``Remember the disgrace of the Americans,'' chanted a large crowd of black-clad students. They held aloft a giant red banner with anti-American slogans in central Constitution Square. </P>
+<P> The capital's main arteries were blocked by the march, which lasted several hours, and the broad avenues were turned into a sea of banners and flags. </P>
+<P> The annual march began several hours after a police sweep of suspected anarchist hideouts to try to lock up ringleaders and head off the usual clashes which follow the demonstration. </P>
+<P> Police arrested about 60 people in the raids, which turned up weapons ranging from samurai swords to machetes. </P>
+<P> The self-styled anarchists, who often disrupt the Nov. 17 marches with violence, set a car alight from the private Mega television channel Thursday and beat up several journalists, badly injuring a photographer and wrecking his gear. </P>
+<P> Although the U.S. military has mostly packed up and gone home, demonstrators still fervently chanted ``Kick the Americans out.'' A major U.S. naval base remains on Crete. </P>
+<P> Most banners denounced the fallen junta and the Americans who were seen as instrumental to keeping it in power. </P>
+<P> Greeks accuse the United States of steadfastly supporting, and perhaps even directing, the group of colonels and junior officers who seized power in 1967 and ruled for seven-years. </P>
+<P> Thousands of Greeks were imprisoned or exiled by the junta, still a bitter memory for many families. Thousands of others, including socialist Prime Minister Andreas Papandreou, who was jailed by the junta for eight months, fled and lived abroad. </P>
+</TEXT>
+</DOC>

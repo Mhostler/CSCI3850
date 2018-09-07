@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0454.950324</DOCID>
+<TDTID>TDT011650</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/24/95 08:14</DATE>
+<TITLE> Mandela tells security chiefs to act over protests</TITLE>
+<HEADLINE> Mandela tells security chiefs to act over protests</HEADLINE>
+<SUBJECT> BC-SAFRICA-STUDENTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE TOWN, South Africa (Reuter) </DATELINE>
+<P>  President Nelson Mandela has ordered South Africa's police commissioner and security minister to act against unruly student protesters, Education Minister Sibusiso Bengu said Friday. </P>
+<P> ``I was speaking to the president just last night and he informed me that he has given instructions to Commissioner (George) Fivaz and to the minister (Sydney Mufamadi),'' Bengu told a news conference. </P>
+<P> Protesting students have vandalized property, trashed campuses and taken officials hostage at universities and technikons -- higher education institutes that emphasize practical skills -- during demonstrations to force the pace of change at tertiary institutes. They say most student bodies are still majority white in a majority black country. </P>
+<P> Bengu echoed Mandela's threats that strong action would be taken against students but said his ministry understood student grievances. </P>
+<P> ``The problems that the students are articulating are genuine. ... The emphasis is on punishing the excesses from the student side.'' </P>
+<P> Bengu would not say what action would be taken, but added: ``The timing would be determined by the institutions themselves. </P>
+<P> ``I believe that we have warned sufficiently and in a way that indiciates that the institutions of higher learning cannot be allowed by us, as government, to be destroyed.'' </P>
+</TEXT>
+</DOC>

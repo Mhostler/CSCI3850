@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0375.950119</DOCID>
+<TDTID>TDT009510</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/19/95 11:10</DATE>
+<TITLE> U.S. advises Americans to take care in Bahrain</TITLE>
+<HEADLINE> U.S. advises Americans to take care in Bahrain</HEADLINE>
+<SUBJECT> BC-BAHRAIN-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON, (Reuter) </DATELINE>
+<P>  The United States is advising its citizens in Bahrain's capital of Manama to avoid large public gatherings and take care in public areas following anti-government unrest there. </P>
+<P> ``As a result of recent demonstrations in Manama, the U.S. embassy in Manama advises that American citizens avoid large public gatherings and exercise caution in public areas,'' the State Department said in a public announcement late Wednesday. </P>
+<P> It also advised wearing conservative dress during Ramadan observances next month, avoiding densely populated residential areas, especially after dark, and complying with traffic regulations and detours set up by Bahraini police. </P>
+<P> Riots erupted in Bahrain December 5 over the detention of 27-year-old Shi'ite cleric Sheikh Ali Salman and some of his followers, and demands to restore the parliament dissolved by the government in 1975. </P>
+<P> At least five people, including one policeman, have been killed in the unrest which appears to have abated since Salman himself and two other clerics were deported Sunday. An exiled Bahrain opposition group said Thursday that a fourth Shi'ite cleric had been deported from the Gulf island state. </P>
+<P> The Bahrain government said Sunday it had freed some 200 suspects held in connection with the anti-government protests and sabotage of public and private property. </P>
+<P> Bahrain has long been seen as one of the more liberal Gulf states and is a centre for international commerce and banking. </P>
+</TEXT>
+</DOC>

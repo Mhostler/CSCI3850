@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0127.941003</DOCID>
+<TDTID>TDT004425</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 20:29</DATE>
+<TITLE> Federal agency rules on five-minute political ads</TITLE>
+<HEADLINE> Federal agency rules on five-minute political ads</HEADLINE>
+<SUBJECT> BC-USA-POLITICS-BROADCASTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Federal regulators announced Friday that broadcasters could sell time to politicians in the same time periods they sell to commercial buyers, opening the way, a consumers group said, to more ``sound-bite'' politics. </P>
+<P> The Federal Communications Commission (FCC) made its ruling in response to a National Association of Broadcasters request for its policy on selling political candidates odd time lengths, such as five minutes. </P>
+<P> In the ruling, the FCC said that stations had to make those sales if such five-minute slots had been sold in the past year to commercial advertisers. </P>
+<P> Spots of 30 and 60 seconds and program-length slots of 30 and 60 minutes have regularly been sold to politicians. </P>
+<P> Andy Schwartzman, spokesman for the Media Access Project, a public interest group, said stations sell few if any five-minute commercials, so the new FCC ruling will in effect, limit most candidates to 30- and 60-second comments. </P>
+<P> He said, ``I think this is more encouragement for sound-bite politics and 'attack-ettes' -- more hype and less substance.'' </P>
+</TEXT>
+</DOC>

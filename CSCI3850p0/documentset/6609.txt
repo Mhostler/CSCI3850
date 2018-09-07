@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU011-0184.950516</DOCID>
+<TDTID>TDT013883</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/16/95 20:01</DATE>
+<TITLE> More welfare moms have abortions since aid capped</TITLE>
+<HEADLINE> More welfare moms have abortions since aid capped</HEADLINE>
+<SUBJECT> BC-ABORTION-RATES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TRENTON, N.J., (Reuter) </DATELINE>
+<P>  The abortion rate among welfare mothers in New Jersey rose slightly after the state started denying extra benefits to women who have more children while on welfare, state officials said Tuesday. </P>
+<P> The New Jersey program has been touted as a success story by groups who support the so-called family cap, pointing to preliminary data that the number of children born to women on welfare has declined since it went into effect. </P>
+<P> New Jersey officials said, however, it was premature to draw a link between the abortion rate and the cap on benefits. </P>
+<P> ``We have seen a slight increase in the abortion rate at the same time that we have seen a fairly significant decrease in the birth rate to women on welfare,'' said Human Services Commissioner William Waldman. ``What we don't know at this point is what is causing these changes.'' </P>
+<P> Federal policy has been to increase welfare payments to women who have additional children, but some lawmakers are moving to change that. </P>
+<P> In an effort to reduce out-of-wedlock births, the welfare reform bill passed by the House this spring would deny extra federal cash benefits to women who have more children while on welfare. States could still provide additional aid from their own coffers. </P>
+<P> New Jersey officials said during the first eight months of the cap, from August 1993 to March 1994, the abortion rate was 9.78 per 1,000 women aged 16 to 45 who were receiving Aid to Families with Dependent Children. </P>
+<P> That compared with a rate of 9.43 for the same eight-month period a year earlier. </P>
+<P> Questions about the abortion rate were prompted by preliminary data showing an 11 percent drop in births to women on welfare between August 1993 and October 1994, state officials said. </P>
+<P> The National Right to Life Committee, an anti-abortion group, issued a statement saying the data ``underscores our concern that denying aid for children born to mothers on welfare and denying aid for children born to teen-agers will lead to an increase in the number of babies killed by abortion.'' </P>
+<P> The family cap, and a related provision in the House bill denying federal aid to unwed mothers under 18, has split the right. </P>
+<P> While the Right to Life Committee has opposed it, the Christian Coalition and other conservative and religious groups argue the cap is necessary to discourage out-of-wedlock births. They claim some women have additional children in order to receive higher welfare payments. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU011-0382.950125</DOCID>
+<TDTID>TDT009757</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/25/95 21:06</DATE>
+<TITLE> USDA sets new rules to prevent E.coli in sausage</TITLE>
+<HEADLINE> USDA sets new rules to prevent E.coli in sausage</HEADLINE>
+<SUBJECT> BC-SAUSAGE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The U.S. Department of Agriculture announced new procedures to prevent the deadly E. coli 0157:H7 bacteria in fermented dry sausage, and said it would regularly sample the products for the bacteria. </P>
+<P> ``We are taking actions to try to prevent a future outbreak similar to the recent cases of food-borne illness linked to fermented dry sausage,'' said Thomas Billy, associate administrator of USDA's Food Safety and Inspection Service. </P>
+<P> The San Francisco Sausage Co. recalled all its sausage products and temporarily halted production in December after 11 people in Washington and three in California got sick after eating sausage apparently contaminated with the deadly bacteria. </P>
+<P> E.coli 0157:H7 bacteria can cause abdominal cramps and diarrhea, which may be bloody. These systems occur within one to 10 days, and then disappear after one to two weeks. </P>
+<P> On rare occasions, hemolytic uremic syndrome can occur, affecting the kidneys and circulatory system and possibly causing death in affected children. </P>
+<P> USDA said the 250-member dry sausage industry could choose one of two options to insure the safety of their products. </P>
+<P> They could either opt to follow the USDA procedures to validate the adequacy of their production process in killing any possible bacteria, or adjust their production process to include a heat treatment that would destroy bacteria that might be there, USDA said. </P>
+<P> Billy outlined the new procedures in a meeting and conference call with industry representatives Wednesday. He said the Food Safety and Inspection Service expected to finalize the procedures within 10 days. </P>
+<P> Billy said the USDA protocol outlining the new procedures had been reviewed by scientists at the Agricultural Research Service, universities and private industry. </P>
+</TEXT>
+</DOC>

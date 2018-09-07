@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU008-0137.940715</DOCID>
+<TDTID>TDT000604</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/15/94 15:04</DATE>
+<TITLE> SOLARZ NAMED TO RUN U.S. FUND FOR CENTRAL ASIA</TITLE>
+<HEADLINE> SOLARZ NAMED TO RUN U.S. FUND FOR CENTRAL ASIA</HEADLINE>
+<SUBJECT> BC-CIS-FUND </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Friday named former New York Congressman Stephen Solarz chairman of a new Central Asian-American Enterprise Fund to promote investments in the former Soviet republics of Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan and Turkmenistan. </P>
+<P> The White House said in a statment that the United States plans to capitalize the fund with $150 million in foreign assistance appropriations over the next three to four years. </P>
+<P> It will have the authority to to make investments and loans as well as offer technical assistance to promote prive companies and entrepreneurs. </P>
+</TEXT>
+</DOC>

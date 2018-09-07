@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU014-0075.950228</DOCID>
+<TDTID>TDT010841</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/28/95 11:32</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BASES-CLOSURES 1STLD -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The latest Pentagon list also includes two large Air Force bases, about five Navy air stations and several major Army bases. </P>
+<P> Major Air Force bases on the close-down list include Brooks Air Force Base and Reese Air Force Base in Texas. Major naval bases besides the Long Beach Naval Shipyard include air stations at South Weymouth, Mass., and Meridian, Miss., and naval air warfare centers at Indianapolis, Ind., Lakehurst, N.J. and Warminster, Penn. </P>
+<P> ``These recommendations, though painful, are necessary to achieve the levels of readiness and modernization we need within the budget we have,'' said Perry. But he added another round of domestic closings, which has not yet been ordered by Congress, would probably be needed in three years. </P>
+<P> He said the shutdowns in Texas would cost the state 6,600 civilian jobs this year. But California, which lost 26,000 jobs in previous rounds, would lose only 3,900 civilian jobs this time. </P>
+<P> Tuesday's proposal would bring to 548 the total number of large and small domestic bases which would be shut down or shrunk by the military in the years ahead. </P>
+</TEXT>
+</DOC>

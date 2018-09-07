@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0113.950501</DOCID>
+<TDTID>TDT013302</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 10:55</DATE>
+<TITLE> OSCE diplomat killed in car crash in Georgia</TITLE>
+<HEADLINE> OSCE diplomat killed in car crash in Georgia</HEADLINE>
+<SUBJECT> BC-GEORGIA-OSCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TBILISI (Reuter) </DATELINE>
+<P>  An OSCE (Organization for Security and Cooperation in Europe) diplomat was killed when his jeep hit a light tank parked in the Georgian capital Monday, an OSCE official said. </P>
+<P> Antana Nesava, a Lithuanian born in 1942, was one of 15 members of an OSCE mission observing conflicts and human rights in Georgia, said Chris Tomkowski, a mission spokesman. </P>
+<P> ``They put a tank in the middle of the road with no lights at all. He tried to turn right and he went straight into the tank,'' Tomkowski said. </P>
+<P> Two of Nesava's three passengers were taken to hospital, one in a serious condition, after colliding head-on with the tank after midnight, he said. </P>
+<P> The interior ministry has set up dozens of checkpoints with armored vehicles in the last three days in its latest crackdown against weapons on Tbilisi's crime-ridden streets. </P>
+</TEXT>
+</DOC>

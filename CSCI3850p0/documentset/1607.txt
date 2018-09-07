@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0396.940926</DOCID>
+<TDTID>TDT003992</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/26/94 15:30</DATE>
+<TITLE> Cuban trade union warns of worsening health system</TITLE>
+<HEADLINE> Cuban trade union warns of worsening health system</HEADLINE>
+<SUBJECT> BC-CUBA-HEALTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  Reflecting recent official criticism of some health workers, Cuba's trade union warned Monday that the country's medical system should not be endangered by sloppy work practices. </P>
+<P> Trabajadores, the national trade union's official weekly newspaper, said in an editorial that while Cuba had managed to maintain its medical record in overall terms despite severe economic crisis, the quality of care had been falling. </P>
+<P> ``The quality of care was deteriorating, not just because of inevitable and numerous material shortages, but because of faults on the human side, reflected in a relaxation of discipline and of the rigorous ethic that should characterize the medical sector,'' it said. </P>
+<P> The newspaper noted that a particular problem was with auxiliary staff, such as cleaning workers. </P>
+<P> Many hospitals were losing the image of spotless cleanliness and order that they should give patients and absenteeism was rising, especially at nights and over weekends, the newspaper said. </P>
+<P> ``Cleaning teams were short of people, problems of maintenance and repairs to equipment were not being resolved, damaging the comfort and satisfaction of patients and relatives,'' it added. </P>
+<P> The comment followed criticism of the health system a week ago by Deputy President and Defense Minister Raul Castro, who noted that military hospitals were currently much in demand by the public because, despite operating with the same shortages, they were better run than civilian hospitals. </P>
+<P> Cuba prides itself on its free universal health care system and views it as one of the key ``gains of the revolution.'' But the system has been hard hit by severe economic crisis, with shortages of medical supplies ranging from drugs to hospital bed sheets. </P>
+<P> In recent weeks, official media have honed in on the human angle -- and in particular high absenteeism among nurses, cleaning workers and other auxiliary staff, who are low-paid and find it hard to make the effort to turn up to work. </P>
+<P> Trabajadores said that medical workers had to be extremely mature and responsible. In return they needed all the support, both moral and material, that society could give them. </P>
+</TEXT>
+</DOC>

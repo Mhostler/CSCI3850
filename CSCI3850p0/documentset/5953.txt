@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU014-0109.950423</DOCID>
+<TDTID>TDT012908</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/23/95 08:03</DATE>
+<TITLE> Pope calls for forgiveness to end spiral of hatred</TITLE>
+<HEADLINE> Pope calls for forgiveness to end spiral of hatred</HEADLINE>
+<SUBJECT> BC-POPE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VATICAN CITY (Reuter) </DATELINE>
+<P>  Pope John Paul said Sunday a spirit of forgiveness was needed to end what he called a spiral of hatred and violence. </P>
+<P> ``Let us learn to forgive,'' the 74-year-old Pontiff told pilgrims in St. Peter's Square during his Angelus address. </P>
+<P> ``The spiral of hatred and violence which bloodies the path of so many individuals and so many nations can be interrupted only by the miracle of forgiveness,'' he said. </P>
+<P> The Pope did not refer to any specific conflict or incident. </P>
+<P> He has spoken out frequently against ethnic and nationalist violence, including strife in Bosnia and Rwanda. </P>
+<P> Last week, he told President Clinton in a message that last week's Oklahoma City bombing was an unspeakable crime. </P>
+</TEXT>
+</DOC>

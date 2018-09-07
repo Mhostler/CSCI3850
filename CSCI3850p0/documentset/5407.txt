@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0391.950403</DOCID>
+<TDTID>TDT012048</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/03/95 03:50</DATE>
+<TITLE> French embassy says had bomb claim after crash</TITLE>
+<HEADLINE> French embassy says had bomb claim after crash</HEADLINE>
+<SUBJECT> BC-ROMANIA-CRASH-CLAIM URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUCHAREST, April 3 (Reuter) </DATELINE>
+<P>  The French embassy in Bucharest said on Monday an anonymous caller had claimed to have planted a bomb on board a Romanian Airbus which crashed on Friday, killing all 60 people on board. </P>
+<P> ``The French embassy received a phone call late on Saturday from a man who spoke unaccented French and who claimed that he had placed a bomb on the Tarom flight to Brussels,'' press attache Joseph Casals told Reuters. He said the call was taken seriously enough to relay it to Romanian authorities. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU005-0401.941011</DOCID>
+<TDTID>TDT004837</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/11/94 11:13</DATE>
+<TITLE> Space shuttle detoured to California</TITLE>
+<HEADLINE> Space shuttle detoured to California</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE-DELAY 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Updates with diversion to California landing site)</NOTES>
+<DATELINE>CAPE CANAVERAL, Florida (Reuter) </DATELINE>
+<P>  The NASA space agency ordered six astronauts to land the shuttle Endeavour in California on Tuesday because it was too cloudy at the spaceship's runway in Florida. </P>
+<P> Touchdown was rescheduled from 11:36 a.m. EDT to 1:02 p.m. EDT at Edwards Air Force Base in the Mojave Desert. </P>
+<P> Endeavour was returning to Earth after an 11-day mission of environmental mapmaking. </P>
+</TEXT>
+</DOC>

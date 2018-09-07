@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU014-0208.940831</DOCID>
+<TDTID>TDT002705</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/31/94 17:54</DATE>
+<TITLE> FORMER PRESIDENT BUSH ATTACKS HAITI INVASION</TITLE>
+<HEADLINE> FORMER PRESIDENT BUSH ATTACKS HAITI INVASION</HEADLINE>
+<SUBJECT> BC-HAITI-USA-BUSH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES (Reuter) </DATELINE>
+<P>  Former U.S. President George Bush on Wednesday attacked President Bill Clinton's threatened invasion of Haiti. </P>
+<P> ``I don't want to see United States soldiers occupying foreign territory,'' Bush told a banking conference in Buenos Aires. </P>
+<P> ``We should not use force against Haiti, I am worried by the U.S. action in the United Nations,'' Bush said. </P>
+<P> Earlier Wednesday, the United States turned up the pressure on Haiti's military rulers, warning them to leave their country quickly or risk capture by an invading army. </P>
+<P> The U.N. Security Council on July 31 gave its backing to U.S. plans to lead an invasion to oust Haitian military leader Lieutenant-General Raoul Cedras. </P>
+</TEXT>
+</DOC>

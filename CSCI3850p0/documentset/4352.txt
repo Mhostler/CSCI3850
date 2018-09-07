@@ -1,0 +1,35 @@
+<DOC>
+<DOCID>REU007-0357.950214</DOCID>
+<TDTID>TDT010456</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/14/95 19:10</DATE>
+<TITLE> U.S. judge rejects Microsoft antitrust settlement</TITLE>
+<HEADLINE> U.S. judge rejects Microsoft antitrust settlement</HEADLINE>
+<SUBJECT> BC-MICROSOFT 1STLD </SUBJECT>
+<AUTHOR>     By James Vicini </AUTHOR>
+<TEXT>
+<NOTES>(Adds details, edits, new throughout)</NOTES>
+<DATELINE>WASHINGTON, (Reuter) </DATELINE>
+<P>  A federal judge Tuesday rejected the government's antitrust settlement with Microsoft Corp., dealing a major setback to the government and to the world's largest computer software company. </P>
+<P> U.S. District Judge Stanley Sporkin cited four main reasons for rejecting the highly controversial agreement, including that it does not constitute an effective antitrust remedy and that it was too narrow. </P>
+<P> ``Simply telling a defendant to go forth and sin no more does little or nothing to address the unfair advantage it has already gained. In short ... this decree is 'too little, too late,''' he said. </P>
+<P> Second, Sporkin said, ``the parties have been unable and unwilling to adequately address certain anti-competitive practices which Microsoft states it will continue to employ in the future.'' </P>
+<P> The judge also said the government has declined to provide him with the information needed to decide if the agreement was in the public interest and that it had adopted a ''stonewalling'' position. </P>
+<P> Last, he said the settlement does not contain sufficient enforcement and compliance mechanisms. </P>
+<P> If he approved the agreement, ``the message will be that Microsoft is so powerful that neither the market nor the government is capable of dealing with all of its monopolistic practices,'' he concluded in the 45-page ruling. </P>
+<P> The judge set the next hearing in the case for March 16. </P>
+<P> It was not immediately known if the Justice Department and Microsoft would try to appeal his decision or if the government now would be forced to litigate its case against Microsoft at trial. </P>
+<P> At a Justice Department news conference called to discuss pending crime legislation, Attorney General Janet Reno said she wanted to read the opinion before commenting. </P>
+<P> Under the consent decree, Microsoft in July agreed to change the way it licenses its products to personal computer manufacturers to settle charges its practices stifled competition in violation of the antitrust laws. </P>
+<P> Microsoft specifically was charged with monopolistic practices such as locking computer manufacturers into restrictive licensing arrangements that effectively excluded rival operating systems. </P>
+<P> Microsoft, which makes the MS-DOS amd Windows operating systems used in more than 120 million personal computers, also agreed to changes in its non-disclosure agreements with other software developers. </P>
+<P> Analysts said they expected the price of Microsoft's stock to fall because of the ruling, which came after the stock market had closed Tuesday. </P>
+<P> ``From an investment standpoint it reopens the entire legal risk associated with Microsoft all over again,'' said David Readerman of Montgomery Securities. ``It introduces new uncertainties on the valuation of the stock.'' </P>
+<P> The agreement faced criticism from several unidentified Silicon Valley computer firms and from a trade group, the Computer and Communications Industry Association, representing major companies in the computer equipment, software and communications industries. </P>
+<P> Assistant Attorney General Anne Bingaman, who personally negotiated the settlement with Microsoft founder Bill Gates, had vigorously defended the settlement. </P>
+<P> She had argued that it was the best possible deal the government could attain after four years of investigation into Microsoft's practices. </P>
+<P> The agreement was separate from the Justice Department's continuing investigation into whether Microsoft proposed $1.5 billion purchase of Intuit Inc., the largest maker of personal finance software, would violate the antitrust laws. </P>
+<P> Analysts said the ruling casts a cloud over the Intuit deal. </P>
+<P> ``At the very least it will probably push the Intuit deal back a couple months,'' said Paul Merenbloom of Piper Jaffray, adding that the Intuit deal raises issues that are ``closely related'' to those that had been investigated by the government. </P>
+</TEXT>
+</DOC>

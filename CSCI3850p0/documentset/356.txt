@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0175.940722</DOCID>
+<TDTID>TDT000915</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/22/94 15:03</DATE>
+<TITLE> MOZAMBICAN TROOPS BLOCK ROAD TO SWAZILAND, S.AFRICA</TITLE>
+<HEADLINE> MOZAMBICAN TROOPS BLOCK ROAD TO SWAZILAND, S.AFRICA</HEADLINE>
+<SUBJECT> BC-MOZAMBIQUE-MUTINIES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MAPUTO, Mozambique (Reuter) </DATELINE>
+<P>  Mutinous Mozambican soldiers demanding immediate demobilization blocked all traffic between Maputo and the South African and Swaziland borders Friday. </P>
+<P> U.N. peacekeepers said the mutiny, the latest of a series, erupted Friday morning but roadblocks came down after about five hours. </P>
+<P> The soldiers were stationed at the country's largest barracks at Boane, about 18 miles west of Maputo, the capital. </P>
+<P> They were disgruntled over delays in deciding who will be demobilized and who retrained for a new unified army being created under 1992 peace accords which ended 16 years of civil war with Renamo rebels. </P>
+</TEXT>
+</DOC>

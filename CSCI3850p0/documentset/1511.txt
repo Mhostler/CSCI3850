@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0164.940920</DOCID>
+<TDTID>TDT003756</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/20/94 18:41</DATE>
+<TITLE> Dominicans refugees drown as smuggling boat wrecks</TITLE>
+<HEADLINE> Dominicans refugees drown as smuggling boat wrecks</HEADLINE>
+<SUBJECT> BC-DOMINICAN-SHIPWRECK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SANTO DOMINGO (Reuter) </DATELINE>
+<P>  Dominican Republic authorities searched Tuesday for survivors of a shipwreck in which at least 13 refugees died attempting to reach the United States. </P>
+<P> Authorities said they believed the nine men and four women found dead, all believed to be Dominicans, were killed after the unseaworthy boat in which they had hoped to reach Puerto Rico foundered off the eastern Dominican Republic on Sunday. </P>
+<P> The coast guard said some 20 survivors had been rescued, though exact numbers were not immediately available. </P>
+<P> The refugees had left near dawn Saturday from San Rafael del Yuma, about 90 miles east of Santo Domingo. </P>
+<P> Some Dominicans seeking to reach the United States pay smugglers based along the eastern coast to reach Puerto Rico, a U.S. territory, from which they can enter the continental United States more easily than from their own nation. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0166.941119</DOCID>
+<TDTID>TDT006744</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/19/94 05:51</DATE>
+<TITLE> Palestinian killed by Israeli army flare</TITLE>
+<HEADLINE> Palestinian killed by Israeli army flare</HEADLINE>
+<SUBJECT> BC-MIDEAST-FLARE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  A Palestinian man was killed in his sleep when Israeli soldiers fired flares at his home in the occupied West Bank, relatives said. </P>
+<P> They said a flare crushed Ghazi Ahmed Qabb's head and set fire to his house in Deir al-Ghusoun village, near the West Bank town of Tulkarm. The 30-year-old man's wife suffered some burns, but his two children were rescued unharmed. </P>
+<P> An Israeli army spokeswoman said she was checking the report. Palestinians said the army arrived to investigate the incident and took Qabb's body for autopsy. </P>
+<P> Israeli soldiers on night patrol in occupied territory use flares to illuminate rural areas. </P>
+</TEXT>
+</DOC>

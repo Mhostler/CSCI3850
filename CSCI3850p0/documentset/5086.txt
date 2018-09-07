@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU011-0175.950321</DOCID>
+<TDTID>TDT011543</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/21/95 23:08</DATE>
+<TITLE> Louisiana-Pacific settles pollution charges</TITLE>
+<HEADLINE> Louisiana-Pacific settles pollution charges</HEADLINE>
+<SUBJECT> BC-PULP </SUBJECT>
+<AUTHOR>     By Yereth Rosen </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANCHORAGE, Alaska (Reuter) </DATELINE>
+<P>  Ketchikan Pulp Co., a unit of Louisiana-Pacific Corp., has agreed to pay $3.1 million in penalties to settle civil charges over water and air pollution, federal officials said Tuesday. </P>
+<P> Ketchikan Pulp also promised in the settlement to spend up to $6 million to help clean Ward Cove, the body of water adjacent to the company's pulp mill in Ketchikan, Alaska, according to court documents. </P>
+<P> The agreement was in a consent decree filed Tuesday in U.S. District Court in Anchorage. </P>
+<P> It settles a lawsuit filed in 1992 by the Justice Department on behalf of the Environmental Protection Agency that alleged hundreds of water and air pollution violations, federal officials said. </P>
+<P> The lawsuit charged Ketchikan Pulp with emitting some 1,600 tons of sulfur dioxide into the atmosphere over two years, in violation of the Clean Air Act. </P>
+<P> It also charged Ketchikan Pulp with illegally discharging chemicals into Ward Cove from 1989 to 1991, in violation of the Clean Water Act. In addition, the lawsuit alleged water- pollution-monitoring failures from 1989 to 1994. </P>
+<P> Under the consent decree, EPA said, Ketchikan Pulp agreed to eliminate direct discharges from its water-treatment plant, to improve the mill's spill-containment system, to use only state-certified wastewater-treatment operators and to improve monitoring at the mill. It will also start on the Ward Cove cleanup. </P>
+<P> ``Today's events mark an end to a major enforcement effort by EPA, and a beginning for the rehabilitation of Ward Cove,'' Chuck Clarke, EPA Northwest regional director, said in a news release. </P>
+<P> The settlement is subject to a judge's approval. </P>
+<P> The civil settlement came two weeks after Ketchikan Pulp agreed to plead guilty to one felony count and 13 misdemeanor counts concerning violations of the Clean Water Act. </P>
+<P> On March 6, Ketchikan Pulp agreed to file the guilty pleas and to pay $3 million to settle the charges. Of that fine, $1.75 million may be suspended if the company spends at least that much in pollution-prevention projects at the mill, EPA said. </P>
+<P> Ketchikan Pulp -- which was never indicted on the criminal charges -- plans to spend about $20 million in plant upgrades, mostly to improve environmental performance, said David Shoup, an attorney for Ketchikan Pulp. </P>
+<P> The Ketchikan Pulp settlements follow similar pacts made by the Justice Department with other Louisiana-Pacific mills, EPA said. </P>
+<P> In May 1993, the Justice Department reached an $11.1 million settlement for Clean Air Act violations at 11 of Louisiana-Pacific's facilities around the country, EPA said. </P>
+<P> The Ketchikan Pulp mill produces dissolving pulp, a material used to make rayon, cellophane and other industrial products. </P>
+</TEXT>
+</DOC>

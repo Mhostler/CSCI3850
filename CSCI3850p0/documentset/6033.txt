@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU015-0382.950425</DOCID>
+<TDTID>TDT013041</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/25/95 12:57</DATE>
+<TITLE> Malaysia's ruling party heading for landslide win</TITLE>
+<HEADLINE> Malaysia's ruling party heading for landslide win</HEADLINE>
+<SUBJECT> BC-MALAYSIA-ELECTION </SUBJECT>
+<AUTHOR>     By Bill Tarrant </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KUALA LUMPUR, Malaysia (Reuter) </DATELINE>
+<P>  Malaysian Prime Minister Mahathir Mohamed's National Front headed for a landslide victory in general elections Tuesday, easily taking Penang, the one state the opposition had gone all out to capture. </P>
+<P> Mahathir was running for his fourth consecutive five-year term as prime minister. He had predicted the National Front would get more than a two-thirds majority in parliament, the margin it needs to amend the constitution and pass key laws. </P>
+<P> Malaysia's 9 million voters have seen their incomes soar after seven straight years of some of the fastest economic growth in the world. </P>
+<P> The National Front won all 33 state assembly seats and all but one of the 11 parliamentary seats in Penang, the state in which the opposition Democratic Action Party, or DAP, had concentrated all its efforts in the 10-day campaign. </P>
+<P> DAP leader Lim Kit Siang won the remaining parliamentary seat, the state election counting center said. </P>
+<P> The National Front had won 64 seats in the 192-seat national parliament in counting so far, and was ahead in 10 of the 11 state assembly races. </P>
+<P> The DAP, which generally appeals to the Chinese working class, had pinned its hopes on taking power in Penang, Malaysia's only Chinese-majority state. </P>
+<P> ``This is a new era of politics in Penang,'' said Penang's chief minister, Koh Tsu Koon, who defeated Lim for a state assembly seat. ``I think (DAP) strategy backfired. They attacked me and the National Front with unsubstantiated allegations.'' </P>
+<P> The DAP, with 20 seats in the outgoing parliament, had warned repeatedly in the campaign that the country was in danger of losing its opposition in parliament in the ``national euphoria'' over Malaysia's sparkling economic performance. </P>
+<P> In the north Borneo state of Sabah, The Sabah Unity Party, or PBS, which represents mostly Christian tribal groups, won eight seats and the DAP four. </P>
+<P> Voters in Sabah appeared to be taking revenge after the National Front toppled the PBS state government last year in the wake of a close state election by engineering a series of defections from the tribal party. </P>
+<P> The PBS, which had 14 seats in parliament, was left with just three after the defections. </P>
+<P> Election commission officials said early voter turnout was good and that heavy downpours in some parts of the country had not dampened voting enthusiasm. They estimated a turnout of 60 to 70 percent in most of Malaysia's 13 states. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU007-0245.941014</DOCID>
+<TDTID>TDT005045</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/14/94 12:48</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-MIDEAST-PRISONER-CROSS -2 GENEVA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> But the ICRC said that for now it was not playing a mediator role in the crisis, something which it could only do if both parties sought its help, according to the agency spokesman. </P>
+<P> ``This afternoon a man entered the ICRC delegation in Beirut and asked our delegates to transmit a message to Israeli authorities,'' Thevoz told Reuters. </P>
+<P> The man identified himself as a member of Hamas' Ezz Eddine al-Qassam Brigades in Lebanon and was deemed credible, he added. </P>
+<P> ``The ICRC delegation in Beirut transmitted the message to our delegation in Tel Aviv who transmitted it to Israeli authorities. For the moment, we do not have a reaction from the Israeli side, Thevoz said. </P>
+</TEXT>
+</DOC>

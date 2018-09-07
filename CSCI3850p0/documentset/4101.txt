@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU001-0270.950202</DOCID>
+<TDTID>TDT010007</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/02/95 00:38</DATE>
+<TITLE> NFL-League to discuss changes in playoff format-report</TITLE>
+<HEADLINE> NFL-League to discuss changes in playoff format-report</HEADLINE>
+<SUBJECT> BC-NFL-PLAYOFFS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The National Football League will soon begin internal discussions on the feasibility of changing its playoff format, the Washington Post reported in its Thursday editions, quoting league sources. </P>
+<P> The paper said the NFL had been spurred into the discussions by the lopsided victory by the National Football Conference's San Francisco 49ers over the American Football Conference's over-matched San Diego Chargers in Super Bowl XXIX last Sunday -- the fourth straight such NFC blowout. </P>
+<P> The 49-26 victory by the 49ers was also the 11th Super Bowl victory in a row by an NFC team over an AFC team. </P>
+<P> ``It's something we have to look at,'' the Post quoted a top NFL executive as saying. ``It's clear that we can't continue with sustained blowouts in our biggest game of the year.'' </P>
+<P> The executive said any format change in the playoffs would involve a long process and club owners were unlikely to vote on any proposal at their annual winter meeting next month. </P>
+<P> One system that will be discussed involves keeping the current six teams from each conference in the playoffs -- three division winners and three wild-card teams. But those teams would be seeded from one to 12 based on regular-season records, the paper said. </P>
+<P> The top two seeds would be sent into opposite brackets and the highest-seeded team would always play the lowest-seeded team throughout the playoffs. </P>
+<P> For the playoff format to change, it would have to receive at least a three-fourths majority vote of the 30 owners. It also would have to be satisfactory to the league's principal network television carriers. </P>
+</TEXT>
+</DOC>

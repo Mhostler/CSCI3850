@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU006-0049.941212</DOCID>
+<TDTID>TDT007826</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/12/94 19:28</DATE>
+<TITLE> Gunmen kill three policemen in southern Egypt</TITLE>
+<HEADLINE> Gunmen kill three policemen in southern Egypt</HEADLINE>
+<SUBJECT> BC-EGYPT-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO, Egypt (Reuter) </DATELINE>
+<P>  Unidentified gunmen shot and killed three policemen in Egypt's southern tourist province of Luxor, the Interior Ministry said Tuesday. </P>
+<P> A ministry official said the gunmen attacked a police station on the outskirts of the village of Naziat al-Aish just after sunset Monday, killing Sgt. Hassan Mohammad al- Sayyid and two guards, Saad Muawwad and Ahmad Abdulbasit. </P>
+<P> The gunmen escaped after the shooting, the official said. </P>
+<P> He did not say who was believed responsible for the attack, but the militant Gama'a al-Islamiya (Islamic Group), which aims to overthrow the government and install a purist Islamist state, has been targeting policemen regularly in the south. </P>
+<P> More than 500 people, mainly militants and policemen, have been killed in Egypt since the Gama'a launched its campaign of violence in March 1992. </P>
+<P> The attacks have hit Egypt's vital tourist industry hard, scaring visitors away from pharaonic Nile valley sites and depriving the country of much-needed revenue. </P>
+<P> Last month, amid heavy security, the government hosted a spectacular production of the Italian opera Aida near Luxor's Valley of the Kings to try to encourage tourists back to the area. </P>
+</TEXT>
+</DOC>

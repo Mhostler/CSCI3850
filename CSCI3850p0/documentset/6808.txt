@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU016-0220.950524</DOCID>
+<TDTID>TDT014153</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/24/95 07:16</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-TRADE-BRITTAN -2 PARIS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Washington, which has threatened sanctions against imports of Japanese luxury cars if Tokyo does not open up its market, is pushing for a voluntary agreement to increase exports to Japan of foreign cars and car parts. </P>
+<P> ``In practice it would be the Americans who benefit at the expense of European manufacturers of cars and car parts,'' Brittan said. ``We would give very serious attention to the possibility of taking any new voluntary plan to the WTO ourselves,'' he said. </P>
+<P> Brittan, speaking to reporters after meeting Japanese Trade Minister Ryutaro Hashimoto, said Hashimoto had assured him that Japan had no intention whatsoever of accepting a voluntary agreement on car and car part imports. </P>
+<P> Japan has asked the WTO to rule on the trade dispute and the United States has said it will abide by any WTO decision. </P>
+</TEXT>
+</DOC>

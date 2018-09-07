@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0322.950223</DOCID>
+<TDTID>TDT010676</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/23/95 14:53</DATE>
+<TITLE> Algiers prison mutiny official toll 100 dead</TITLE>
+<HEADLINE> Algiers prison mutiny official toll 100 dead</HEADLINE>
+<SUBJECT> BC-ALGERIA-MUTINY-TOLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TUNIS, Tunisia (Reuter) </DATELINE>
+<P>  One hundred detainees and prison wardens died in an Algiers prison mutiny that was crushed Wednesday, Algerian state-run television said Thursday night. </P>
+<P> An official statement quoted by the television said there were 96 dead among the prisoners, 81 of them Muslim fundamentalists charged with ``terrorist'' acts, and 15 of them common criminals. </P>
+<P> It said four prison warders were killed by the mutineers. </P>
+<P> There were also 12 wounded, two of them prison warders and 10 detainees it added. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU014-0331.940730</DOCID>
+<TDTID>TDT001250</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/30/94 15:28</DATE>
+<TITLE> FOREST FIRES BLAZE OUT OF CONTROL, TWO LIVES CLAIMED</TITLE>
+<HEADLINE> FOREST FIRES BLAZE OUT OF CONTROL, TWO LIVES CLAIMED</HEADLINE>
+<SUBJECT> BC-USA-WILDFIRES </SUBJECT>
+<AUTHOR>     By Michael McCarthy </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEATTLE (Reuter) </DATELINE>
+<P>  Forest fires continued to roar out of control Saturday in the U.S. Northwest, sweeping over hot, parched terrain in a deadly battle that has claimed two lives and consumed more than 100 homes and other buildings, fire officials said. </P>
+<P> In all, more than 11,000 firefighters are battling flames in Oregon, Washington, Idaho, Montana, Utah, Nevada and California, according to the National Fire Center in Boise, Idaho. </P>
+<P> The battle turned deadly Friday when two airborne firefighters were killed when their air tanker crashed Friday near Missoula as it was dropping fire retardant on the blazes, Tim Eldridge, a U.S. Forest Service spokesman, said. </P>
+<P> The two, Bob Kelly, of Alamogordo, New Mexico, and Randy Lynn of Missoula, Montana, are presumed dead, Eldridge said. </P>
+<P> The more than 8,000 firefighters now working in Oregon and Washington will be reinforced Monday by 1,000 U.S. Marines from Camp Pendleton, California. </P>
+<P> Fire conditions are expected to remain dangerous with hot, dry, windy weather expected throughout the weekend and into early next week. </P>
+<P> The largest fire, the Tyee Creek Fire in mountainous central Washington, grew to 89,000 acres overnight from 80,000, officials said. </P>
+<P> Driven by high winds, the fire crested the last ridge protecting the popular resort town of Chelan, in central Washington. </P>
+<P> Fire teams, many called in from the Washington metropolitan areas of Seattle and Spokane, have been organized to defend the outskirts of the town, said Chris Strebig of the Multiagency Coordinating Center. The center oversees firefighting efforts. </P>
+<P> ``They have one fire engine along each house,'' Strebig said. The town's 3,000 residents have been told to prepare to evacuate, he added. </P>
+<P> Hundreds of wildfires continued to burn out of control throughout the Northwest, blackening more than 160,000 acres of grass and timberland. </P>
+<P> Fire conditions remain explosive. One small spot fire near Leavenworth in central Washington eventually roared through the dry forests, Strebig said. </P>
+<P> ``It went from a spot fire to half-acre fire to fifty acres in an hour, and to 1,000 acres in three hours, despite intense suppression from both air and ground crews,'' he said. </P>
+<P> So far, an estimated 100 homes, outbuildings and other structures have been destroyed, Strebig said. </P>
+</TEXT>
+</DOC>

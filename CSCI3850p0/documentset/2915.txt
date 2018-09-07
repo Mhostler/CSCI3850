@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU013-0331.941130</DOCID>
+<TDTID>TDT007229</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/30/94 04:37</DATE>
+<TITLE> All 579 passengers of Achille Lauro rescued</TITLE>
+<HEADLINE> All 579 passengers of Achille Lauro rescued</HEADLINE>
+<SUBJECT> BC-LAURO-SAFE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  All 579 Achille Lauro passengers plus 300 of about 400 crew members have been rescued by a Panamanian tanker, the Italian transport ministry said Wednesday. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU004-0439.950111</DOCID>
+<TDTID>TDT009179</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/11/95 11:55</DATE>
+<TITLE> Auctioneer Christie's fined for selling fake art</TITLE>
+<HEADLINE> Auctioneer Christie's fined for selling fake art</HEADLINE>
+<SUBJECT> BC-BRITAIN-PAINTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A top British art auctioneer was ordered Wednesday to reimburse a disgruntled customer who paid $870,800 for an Austrian ``masterpiece' that turned out to be a fake. </P>
+<P> The High Court said Christie's art house must repay the buyer, a wealthy Swiss dealer, who believed she had acquired an original by the Austrian artist Egon Schiele. </P>
+<P> ``Youth Kneeling Before God The Father'' was described in Christie's catalog as painted and signed by Schiele. </P>
+<P> It turned out not to be so, however, with only a tiny part of the work -- which depicts a bearded figure towering over a naked boy -- attributable to the Austrian painter. </P>
+<P> Although the original painting had been by Schiele, 94 percent of it had been painted over after his death in 1918 and the initials ``ES' only added once the master was long dead, the judge said. </P>
+<P> He rejected Christie's argument that the reworking was done simply to improve the painting's condition and that the overpainter, by adding initials, was just strengthening the mark of authorship. </P>
+<P> The saga -- closely watched in the art world for its implications about auctioneers' liability -- began in 1987, when Marie Zelinger de Balkany fell ``head over heels in love'' with the work and bought it at a Geneva auction. </P>
+<P> Four years later, however, her love was sorely tested when Schiele expert Jane Kallir questioned the painting's authenticity, opening the door to years of legal wrangling. </P>
+<P> Christie's said it may appeal Wednesday's award, which is increased by interest payments of $203,100 and legal costs estimated at close to $156,200. </P>
+</TEXT>
+</DOC>

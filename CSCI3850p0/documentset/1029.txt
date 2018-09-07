@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0428.940827</DOCID>
+<TDTID>TDT002549</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/27/94 14:43</DATE>
+<TITLE> USDA AGENCY REJECTS LOAN GUARANTEE FOR ESPY'S BROTHER</TITLE>
+<HEADLINE> USDA AGENCY REJECTS LOAN GUARANTEE FOR ESPY'S BROTHER</HEADLINE>
+<SUBJECT> BC-USA-ESPY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  A U.S. Department of Agriculture agency has rejected a loan guarantee application submitted by the elder brother of embattled Agriculture Secretary Michael Espy, the Atlanta Journal-Constitution reported Saturday. </P>
+<P> An article in the newspaper quoted a Rural Development Administration spokesman as saying that Thomas Espy had applied for a $3.5 million loan guarantee to underwrite a proposed latex glove factory in rural Mississippi. </P>
+<P> The RDA would not say why the application was denied. But the article noted that the decision came two days after a news reporter first made inquiries about the application at the agency's Mississippi office. </P>
+<P> ``My understanding was, yes, (Mike Espy) was aware of the application,'' the newspaper quotes the RDA spokesman as saying. ``My understanding ... is the application was treated as all other borrowers or applicants would have been treated.'' </P>
+<P> The agriculture sectretary faces numerous claims of possible ethics violations, including reports that he accepted free gifts and travel from companies that are regulated by his department. </P>
+<P> U.S. Attorney General Janet Reno has asked a three-judge panel to appoint a special counsel to investigate the reports. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0132.950316</DOCID>
+<TDTID>TDT011329</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/16/95 00:59</DATE>
+<TITLE> Canada expects air links, more investment in Vietnam</TITLE>
+<HEADLINE> Canada expects air links, more investment in Vietnam</HEADLINE>
+<SUBJECT> BC-VIETNAM-CANADA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HANOI, Vietnam (Reuter) </DATELINE>
+<P>  Canada expects to sign an air services agreement with Vietnam shortly, paving the way for direct air links, and Canadian companies expect to invest more, Canadian embassy sources said Thursday. </P>
+<P> A senior Canadian diplomat, Gary Smith, held formal talks in Hanoi this week, the first annual political consultation planned between the two governments, and handed over a draft air services pact to Vietnam's Civil Aviation Authority. </P>
+<P> ``The document is expected to be finalized in the near future, paving the way for direct air service between the two countries,'' an embassy statement said. </P>
+<P> It said Canada would help Vietnam's integration into the Association of Southeast Asian Nations (ASEAN), which the communist country is due to join in July. </P>
+<P> Canada's aid includes English language training for officials, paying for diplomats to attend ASEAN conferences -- as it did for Vietnam's representatives at a regional security forum in Brunei last week -- and help on trade issues like product standardization, embassy sources said. </P>
+</TEXT>
+</DOC>

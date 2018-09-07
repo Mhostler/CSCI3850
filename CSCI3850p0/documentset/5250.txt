@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU014-0442.950327</DOCID>
+<TDTID>TDT011810</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 23:47</DATE>
+<TITLE> ''Pulp Fiction'' wins Best Original Screenplay</TITLE>
+<HEADLINE> ''Pulp Fiction'' wins Best Original Screenplay</HEADLINE>
+<SUBJECT> BC-OSCARS-SCREENPLAY-ORIGINAL URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  ``Pulp Fiction'' won the Academy Award Monday night for Best Original Screenplay. </P>
+</TEXT>
+</DOC>

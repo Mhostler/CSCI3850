@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU007-0085.941013</DOCID>
+<TDTID>TDT005007</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/13/94 18:52</DATE>
+<TITLE> EPA may delay Northeast car-emissions-plan decision</TITLE>
+<HEADLINE> EPA may delay Northeast car-emissions-plan decision</HEADLINE>
+<SUBJECT> BC-ENVIRONMENT-CARS </SUBJECT>
+<AUTHOR>     By Vicki Allen </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Environmental Protection Agency said Thursday it will continue talks on alternative plans to curb Northeast auto emissions, and may miss a deadline on a rule that will affect the kinds of cars Northeasterners drive for years to come. </P>
+<P> ``It's beginning to look as if the parties are still interested in an alternative, and the Nov. 10 deadline may slip,'' an EPA official told Reuters. </P>
+<P> The EPA -- trying to broker an agreement among 12 states that are members of the Ozone Transport Commission (OTC), automakers, environmentalists and the natural gas and electric industries -- this week floated a plan that got little support. </P>
+<P> EPA officials at the meeting said time is running out to make a decision next month on the OTC's plan to require some use of electric and natural gas cars to meet the Northeast's emissions reduction goals. </P>
+<P> Some advocates of the OTC plan, which is backed by environmentalists and the gas and electric industries, said they fear EPA could put off action indefinitely. </P>
+<P> Automakers have fought the OTC plan, arguing it would force them to produce cars that consumers would not buy. Instead they proposed a ``49-state'' plan to sell lower-emission gasoline cars nationwide, other than in California which has far more stringent emissions-reduction requirements. </P>
+<P> The EPA's scheme uses many of the carmakers' suggestions, but would allow New York and Massachusetts to continue sales mandates for electric vehicles that the states chose to impose. </P>
+<P> The automakers are suing the two states to try to overturn the mandates for electric, or ``zero-emission,'' vehicles. </P>
+<P> The EPA proposal, billed as being ``for discussion purposes only,'' also offers some safeguards for electric, natural gas and other alternative vehicles. </P>
+<P> Bruce Cahart, executive director of the OTC which was established under the 1990 Clean Air Act, said the plan EPA ''has put together is certainly worth talking about,'' but said the commission has not had time to evaluate it. </P>
+</TEXT>
+</DOC>

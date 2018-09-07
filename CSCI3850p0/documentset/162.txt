@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0447.940711</DOCID>
+<TDTID>TDT000378</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/11/94 09:02</DATE>
+<TITLE> IRA CLAIMS RESPONSIBILITY FOR ULSTER SHOOTING</TITLE>
+<HEADLINE> IRA CLAIMS RESPONSIBILITY FOR ULSTER SHOOTING</HEADLINE>
+<SUBJECT> BC-IRISH-SHOOTING 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: updates with IRA claiming responsibility for killing)</NOTES>
+<DATELINE>BELFAST, Northern Ireland (Reuter) </DATELINE>
+<P>  The Irish Republican Army claimed responsibility Monday for killing a leading Protestant activist at his home in Lisburn, Northern Ireland. </P>
+<P> In a message to the media the IRA admitted killing Raymond Smallswood, 44, chairman of the small Ulster Democratic Party, who had served seven years in jail for his part in the attempted murder of Irish nationalist politician Bernadette Devlin McAliskey in 1981. </P>
+<P> Police said he died in a hospital shortly after the attack, carried out on the eve of the so-called Protestant marching season that marks the 1690 victory of William of Orange over the Catholic James II at the Battle of the Boyne. </P>
+<P> Earlier, Protestant politician-preacher Reverend William McCrea said gunmen peppered his house with shots in a drive-by shooting late Sunday. </P>
+<P> Police said at least 20 shots were fired at McCrea's home in Magherafelt, County Londonderry. His wife and children were at home when the attack occurred. </P>
+<P> Both incidents were seen as a warning ahead of the marching season from the IRA, fighting against British rule of Northern Ireland and against the Protestant majority who support continued union with Britain. </P>
+</TEXT>
+</DOC>

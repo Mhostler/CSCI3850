@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0103.950403</DOCID>
+<TDTID>TDT012062</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/03/95 13:09</DATE>
+<TITLE> EU television plan to limit film imports is in trouble</TITLE>
+<HEADLINE> EU television plan to limit film imports is in trouble</HEADLINE>
+<SUBJECT> BC-EUROPE-TELEVISION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LUXEMBOURG (Reuter) </DATELINE>
+<P>  The European Commission plan to tighten limits on Hollywood films shown on European television ran into trouble Monday when France, its biggest backer, found little support and had to cancel a ministerial meeting. </P>
+<P> ``The French have backed off and it would seem that the Commission proposals are going absolutely nowhere,'' one diplomat told Reuters. </P>
+<P> France, which has made stronger controls on film and television imports a central plank of its six-month EU presidency, was forced to cancel talks among culture ministers after a lunch meeting showed there was little support for the plan. </P>
+<P> Diplomats said Germany, Denmark, the Netherlands, Sweden, Austria and Luxembourg had shown outright opposition to the plan. Only Greece and Belgium were in favor. </P>
+<P> At issue were revisions to the EU's 1989 television without frontiers directive which says that ``where practicable'' EU television channels should devote one half of their screentime to European productions. </P>
+<P> The Commission, the EU executive, had proposed scrapping the words ``where practicable'' to make the quotas mandatory, but only for 10 years. </P>
+<P> Those two words have left a legal looophole which television channels have wriggled through to get round the limits, intended to help the EU's ailing audiovisual industry. </P>
+<P> Diplomats said many EU member states had expressed surprise that the Commission had proposed strengthening enforcement of the broadcast quotas after most EU members lined up against the idea at a meeting in Bordeaux, France, last month. </P>
+</TEXT>
+</DOC>

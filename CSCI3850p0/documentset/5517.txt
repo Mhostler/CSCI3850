@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0147.950406</DOCID>
+<TDTID>TDT012191</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 12:10</DATE>
+<TITLE> Majority of EU condemns Canada in fish dispute</TITLE>
+<HEADLINE> Majority of EU condemns Canada in fish dispute</HEADLINE>
+<SUBJECT> BC-FISH-EUROPE-STATEMENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRUSSELS, Belgium (Reuter) </DATELINE>
+<P>  A majority of European Union members condemned Canada Thursday for what they said was continuing harassment of Spanish trawlers off the Newfoundland coast, but Britain abstained. </P>
+<P> A French official said the condemnation had the support of the very large majority of EU states. </P>
+<P> The EU Council of Fisheries Ministers ``condemns the latest unilateral action taken against vessels bearing the flag of a member state in violation of the rules and customs of international law and measures of the Northwest Atlantic Fisheries Organization,'' an EU presidency statement said. </P>
+<P> Officials said Britain refused to support the statement. </P>
+<P> Britain said earlier it needed more evidence to support Spanish allegations that a Canadian patrol boat had cut the nets of a Spanish trawler. </P>
+<P> It said it did not want to prejudice negotiations in Brussels to end the bitter dispute over fishing rights for Greenland halibut, also knonw as turbot. </P>
+</TEXT>
+</DOC>

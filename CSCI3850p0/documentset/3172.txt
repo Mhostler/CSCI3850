@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0180.941213</DOCID>
+<TDTID>TDT007854</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/13/94 13:25</DATE>
+<TITLE> Simpson defense seeks Jan 4 opening trial arguments</TITLE>
+<HEADLINE> Simpson defense seeks Jan 4 opening trial arguments</HEADLINE>
+<SUBJECT> BC-SIMPSON-TRIAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Defense lawyers for O.J. Simpson asked a judge on Tuesday to begin opening statements in the football legend's double-murder trial no later than January 4. </P>
+<P> In a motion filed on Tuesday, the defense team also asked to forgo pre-trial hearings on the admissibility of the prosecution's crucial DNA evidence that had been expected to last up to a month. </P>
+</TEXT>
+</DOC>

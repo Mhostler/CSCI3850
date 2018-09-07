@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0030.940910</DOCID>
+<TDTID>TDT003159</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/10/94 12:19</DATE>
+<TITLE> Swiss jailed for ``gold robbery of the century''</TITLE>
+<HEADLINE> Swiss jailed for ``gold robbery of the century''</HEADLINE>
+<SUBJECT> BC-SWISS-GOLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MENDRISIO, Switzerland (Reuter) </DATELINE>
+<P>  Two bank clerks who stole $17 million worth of gold from their own bank vault in what has been described as Switzerland's gold robbery of the century were jailed Saturday. </P>
+<P> The Swiss News Agency said the two Swiss nationals delivered the 1.3 tons of loot to an Italian accomplice, who sold the ingots on the black market. The Italian, tried in absentia, was also found guilty by the court, the agency reported. </P>
+<P> The two former employees at a branch of the Union Bank of Switzerland in the Italian-speaking town of Chiasso falsified documents to steal the gold, which was kept in the cellar. </P>
+<P> Former professional soccer player Giuseppe Sogari, 51, was jailed for five years and three months while Emilio Bertini was imprisoned for two years and nine months. Vito Ghielmetti, a 47-year-old Italian, was sentenced to seven years. </P>
+<P> The theft, which Swiss media have dubbed ``the gold robbery of the century,'' was discovered by another bank employee. </P>
+</TEXT>
+</DOC>

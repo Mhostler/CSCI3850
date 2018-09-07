@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0289.940921</DOCID>
+<TDTID>TDT003777</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/21/94 11:11</DATE>
+<TITLE> U.S., Japan open trade talks</TITLE>
+<HEADLINE> U.S., Japan open trade talks</HEADLINE>
+<SUBJECT> BC-TRADE-JAPAN-TALKS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Senior U.S. and Japanese negotiators opened trade talks Wednesday, racing to strike a deal ahead of a month's-end sanctions showdown. </P>
+<P> Japanese Deputy Foreign Minister Sadayuki Hayashi refused to characterize the discussions with Charlene Barshefsky, the top Japan negotiator for the U.S. trade office. </P>
+</TEXT>
+</DOC>

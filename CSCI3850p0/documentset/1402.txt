@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0026.940916</DOCID>
+<TDTID>TDT003490</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/16/94 05:51</DATE>
+<TITLE> Earthquake rocks Taiwan, no damage reported</TITLE>
+<HEADLINE> Earthquake rocks Taiwan, no damage reported</HEADLINE>
+<SUBJECT> BC-QUAKE-TAIWAN 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>    (Eds: adds quake felt in Hong Kong)</NOTES>
+<DATELINE>TAIPEI (Reuter) </DATELINE>
+<P>  An earthquake measuring 6.4 on the Richter scale rocked Taiwan Friday and was felt as far away as Hong Kong but there were no immediate reports of damage or injuries, officials said. </P>
+<P> The quake, centered 88 miles southwest of the Pescadores Islands in the East China Sea, was recorded at 2:20 a.m. EDT and rattled buildings in Taipei and other cities, the Central Weather Bureau said. </P>
+<P> A spokesman for the National Police Administration said no reports of significant damage or casualties had been received. </P>
+<P> In Hong Kong, which rarely experiences earth tremors, hundreds of workers ran out into the streets when the quake was felt. </P>
+<P> Office workers said they felt up to three strong shocks as some high-rise buildings swayed for up to 30 seconds. </P>
+<P> ``The office is completely clear. Everybody's gone down to the street even though I told them you're not supposed to,'' said a local newspaper reporter in the Kowloon Bay district who used to live in quake-prone Japan. </P>
+<P> No damage has been reported so far in Hong Kong. The Royal Observatory said the tremor was felt by many residents all over the territory. </P>
+</TEXT>
+</DOC>

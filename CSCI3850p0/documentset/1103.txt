@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU014-0273.940831</DOCID>
+<TDTID>TDT002730</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/31/94 23:35</DATE>
+<TITLE> U.S., NORTH KOREA SET NUCLEAR TALKS</TITLE>
+<HEADLINE> U.S., NORTH KOREA SET NUCLEAR TALKS</HEADLINE>
+<SUBJECT> BC-NUCLEAR-KOREA 1STLD </SUBJECT>
+<AUTHOR>     By Robert Trautman </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Combines talks, adds background, byline)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  U.S. and North Korean officials will open talks in Berlin and Pyongyang on September 10 to try to ease fears over the communist state's development of nuclear weapons, the State Department said Wednesday. </P>
+<P> A department official said the technical level talks follow a statement issued in Geneva August 12 which the Clinton Administration had hailed as a major step toward ending Western concerns over North Korea's nuclear program. </P>
+<P> North Korea has resisted efforts by the International Atomic Energy Agency to inspect its reactors which are thought to have produced enough material to make two atomic bombs. </P>
+<P> The Geneva accord included aid for developing new reactors and closer U.S.-North Korean diplomatic and trade relations, dependent on inspections of Korea's nuclear facilities. </P>
+<P> The department official, responding to questions, said the talks in Berlin would cover the conversion of North Korea's old reactors to new light water reactors, which are safer and produce less plutonium, a key ingredient of nuclear bombs. </P>
+<P> In addition, the Berlin talks will include providing North Korea with an interim supply of energy and the safe storage and disposition of spent fuel from its five megawatts research reactors, the official said. </P>
+<P> The spent fuel can be used for atomic bombs. </P>
+<P> In Pyongyang, the talks would cover the establishment of liaison offices in each other's capitals, the department said. </P>
+<P> The United States has no diplomatic relations or trade agreements with North Korea. </P>
+<P> The State Department official gave no further details of the Berlin and Pyongyang talks. The Geneva talks are to resume on September 23. </P>
+<P> Under the August Geneva agreement, the United States is to put together an international consortium to finance the expected $4 billion cost of providing North Korea with modern light water reactors. </P>
+<P> But the question of inspections, believed to underpin the agreement, has remained unclear, with North Korea saying it would never allow the inspection of two sites the United States believes to be the country's nuclear dumps. </P>
+</TEXT>
+</DOC>

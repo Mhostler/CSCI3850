@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0418.940827</DOCID>
+<TDTID>TDT002548</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/27/94 13:30</DATE>
+<TITLE> ALGERIA SHUTS MOROCCAN BORDER IN VISA DISPUTE</TITLE>
+<HEADLINE> ALGERIA SHUTS MOROCCAN BORDER IN VISA DISPUTE</HEADLINE>
+<SUBJECT> BC-MOROCCO-ALGERIA 1STLD </SUBJECT>
+<AUTHOR>     By Stephen Hughes </AUTHOR>
+<TEXT>
+<NOTES>   (Eds: upates with border closed)</NOTES>
+<DATELINE>RABAT, Morocco (Reuter) </DATELINE>
+<P>  Algeria shut its border with Morocco Saturday after the Rabat government imposed entry visas for visiting Algerians following the killing of two foreigners in a Moroccan hotel lobby. </P>
+<P> In a statement carried by the official news agency APS, the Algerian government said the border was being closed temporarily and that Moroccans would also need visas in the future to visit Algeria. </P>
+<P> More than a million Algerians visit the kingdom annually but few Moroccans go to Algeria where more than 4,000 people have been killed in over two years of conflict mainly between the army-backed authorities and Muslim fundamentalists. </P>
+<P> They are suspected of belonging to a mainly Algerian gang which attacked a luxury hotel in Marrakesh Wednesday. Two Spanish tourists were killed when the gangsters sprayed the lobby with submachine-gunfire before fleeing with cash. </P>
+<P> The Moroccan Interior Ministry in a statement on the arrests did not give the men's nationalities nor link them to Algerian Muslim activists. </P>
+<P> But it said they had been arrested ``in possession of war weapons and accompanying material.'' </P>
+<P> Algeria has frequently said in reporting the deaths of activists killed by its security forces that ``weapons of war and other material,'' such as maps, binoculars and military uniforms, were found by their bodies. </P>
+<P> It has also accused the Muslims of carrying out armed robberies to get funds to fight the authorities. </P>
+<P> Rabat's statement said, without further explanation, that the two men detained ``were to attack banks, members of the security forces and peaceful people.'' </P>
+<P> Last June 16, a military court in Rabat sentenced eight Muslim militants, two of them Algerians, to jail terms up to 20 years when convicted of gun-running to Muslim activists in Algeria. It was the first case of its kind in Morocco. </P>
+</TEXT>
+</DOC>

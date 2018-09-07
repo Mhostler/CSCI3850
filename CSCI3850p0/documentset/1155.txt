@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU002-0117.940904</DOCID>
+<TDTID>TDT002863</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/04/94 07:21</DATE>
+<TITLE> Famous British battle site moves after 500 years?</TITLE>
+<HEADLINE> Famous British battle site moves after 500 years?</HEADLINE>
+<SUBJECT> BC-BRITAIN-BATTLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain may have been celebrating one of its most famous battles in the wrong place for 500 years. </P>
+<P> The 1485 Battle of Bosworth Field, where Richard III became the last British king to die in battle, actually took place half a mile away from where the site is marked, says a new guide issued by the English Heritage organization. </P>
+<P> A battlefield center near the town of Market Bosworth is visited by about 100,000 tourists a year but a panel of historians and military experts assembled by English Heritage believe the battle was fought near the village of Dadlington. </P>
+<P> English Heritage spokesman Dr Andrew Brown told the Sunday Telegraph he had little doubt the original site was wrong. </P>
+<P> But Leicestershire County Council stayed faithful to its first choice. ``When we bought the site in 1974, we commissioned an historian to assess the best evidence available,'' a spokesman told the paper. </P>
+<P> ``We are always willing to look at any new interpretation of the evidence but we are certain we are not far off.'' </P>
+<P> In Shakespeare's play, Richard III died in hand-to-hand combat crying: ``A horse, a horse, my kingdom for a horse.'' </P>
+</TEXT>
+</DOC>

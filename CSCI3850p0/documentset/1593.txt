@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU012-0177.940925</DOCID>
+<TDTID>TDT003957</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/25/94 11:33</DATE>
+<TITLE> Crowds ransack Haitian police station after shootout</TITLE>
+<HEADLINE> Crowds ransack Haitian police station after shootout</HEADLINE>
+<SUBJECT> BC-HAITI-SHOOTINGS-RANSACK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAP HAITIEN, Haiti, (Reuter) </DATELINE>
+<P>  Jubilant crowds ransacked police headquarters in this northern town and a nearby Haitian army barracks Sunday, the morning after 10 Haitian military police were shot dead in a confrontation with U.S. Marines. </P>
+</TEXT>
+</DOC>

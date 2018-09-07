@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU014-0139.940729</DOCID>
+<TDTID>TDT001201</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/29/94 13:22</DATE>
+<TITLE> IRA BLAMED AS MORTAR ATTACK WOUNDS 28</TITLE>
+<HEADLINE> IRA BLAMED AS MORTAR ATTACK WOUNDS 28</HEADLINE>
+<SUBJECT> BC-IRISH-ATTACK 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Updates casualty figure, adds IRA background)</NOTES>
+<DATELINE>BELFAST (Reuter) </DATELINE>
+<P>  Suspected IRA guerrillas injured 28 people, including children, Friday when three mortar bombs were fired at a police station in Northern Ireland, police said. </P>
+<P> Pedestrians on the busy shopping street ran for cover as the mortar explosions shattered windows and shook the ground. </P>
+<P> A nearby hospital said it had been flooded with injured people -- many of them cut by flying glass -- and a spokesman said two police officers were badly wounded. </P>
+<P> ``Three mortars were fired from a lorry (truck) in a car park outside a police station in Newry,'' a police spokesman said. ``Two exploded inside the station, one in the roadway outside.'' </P>
+<P> Irish radio put the count of those injured at 44, but a police spokesman said this included people suffering from shock who were not physically injured, and those with light scratches. </P>
+<P> Police blamed the Irish Republican Army, which has waged a 25-year war to oust British troops from Northern Ireland. It often uses home-made mortar bombs in attacks and frequently targets police and army stations. </P>
+<P> It was the first major attack since Sunday, when the IRA's political wing Sinn Fein effectively rejected an Anglo-Irish peace plan that called for the guerrilla group to lay down arms. </P>
+<P> In 1985, nine police officers died in an IRA attack on the same station. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0396.950210</DOCID>
+<TDTID>TDT010309</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/10/95 12:10</DATE>
+<TITLE> Senate OKs compromise on Social Security, budget</TITLE>
+<HEADLINE> Senate OKs compromise on Social Security, budget</HEADLINE>
+<SUBJECT> BC-BUDGET </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON, Feb 9 (Reuter) </DATELINE>
+<P>  The Senate voted Friday to develop proposals to shield Social Security from spending cuts under a balanced budget amendment to the Constitution, as Republicans struggled to round up support for the budget bill. </P>
+<P> By a vote of 87-10 lawmakers approved an amendment by Majority Leader Bob Dole of Kansas to send the balanced budget amendment back to the Senate Budget Committee so lawmakers can develop a nonbinding plan to eliminate the deficit without cutting Social Security payments or increasing taxes. </P>
+</TEXT>
+</DOC>

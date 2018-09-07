@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0384.950306</DOCID>
+<TDTID>TDT011045</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/06/95 23:43</DATE>
+<TITLE> Two injured in Army helicopter crash in Texas</TITLE>
+<HEADLINE> Two injured in Army helicopter crash in Texas</HEADLINE>
+<SUBJECT> BC-COPTER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CONROE, Texas (Reuter) </DATELINE>
+<P>  An Army Reserve Apache helicopter crashed Monday night at an airport during a training mission, injuring two crewmen, a spokesman said. </P>
+<P> The crewmen were in stable condition at Conroe Medical Center about 40 miles north of Houston, the Army Reserve spokesman said. </P>
+<P> The helicopter, from a nearby Army Reserve base, was on a training mission at the Montgomery County Airport when the crash occurred near a runway around 9 p.m., the spokesman said. </P>
+<P> No other details were immediately available. </P>
+</TEXT>
+</DOC>

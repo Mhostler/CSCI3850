@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU004-0048.941007</DOCID>
+<TDTID>TDT004576</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/07/94 03:59</DATE>
+<TITLE> Australia records medium-to-large China nuclear blast</TITLE>
+<HEADLINE> Australia records medium-to-large China nuclear blast</HEADLINE>
+<SUBJECT> BC-NUCLEAR-CHINA-AUSTRALIA 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds quotes, background)</NOTES>
+<DATELINE>CANBERRA, Australia (Reuter) </DATELINE>
+<P>  An Australian seismological center Friday said it had recorded data consistent with a medium-to-large nuclear explosion at China's underground nuclear testing facility of Lop Nor. </P>
+<P> The Australian Seismological Center in Canberra said an explosion of between 40 to 150 kilotons occurred at 11:25 p.m. EDT Thursday. </P>
+<P> ``It's a medium-to-large explosion,'' Ken Muirhead, head of the center, told Reuters. ``It's four times as big as the last (Chinese) nuclear explosion.'' </P>
+<P> In Beijing, a foreign ministry spokeswoman said she had no information so far on any nuclear explosion. </P>
+<P> But officials in China's far-west region of Xinjiang confirmed Friday there had been a man-made explosion that caused seismic activity there. They declined, however, to say if it was a nuclear test. </P>
+<P> China last tested a nuclear device at Lop Nor, in central Asia, on June 10. </P>
+<P> Under the existing nuclear threshold treaty, countries with nuclear weapons agreed to limit nuclear explosions to a maximum of 150 kilotons. China is not a signatory to the treaty. </P>
+<P> Muirhead said the center's seismic recording of the explosion was between 6.1 and 6.3 on the Richter scale, adding that it was difficult to gain an exact measure being so far from the explosion. </P>
+<P> Other nuclear-weapon countries, the United States, France and Britain, have agreed to a moratorium on nuclear testing and negotiations started for a Comprehensive Nuclear Test Ban Treaty earlier this year. </P>
+<P> China has given a commitment to negotiate such a treaty. </P>
+<P> The Nuclear Non-Proliferation Treaty, designed to prevent the spread of nuclear weapons, comes up for renewal in 1995. </P>
+<P> China has come under strong international criticism for its continued nuclear testing. </P>
+<P> After the June explosion, Japan angrily protested to Beijing, threatening to review plans to extend massive aid to China in 1996 if it continued to conduct tests. </P>
+<P> Australia immediately condemned China for the explosion Friday, saying it was deeply disappointed that it had again shown disregard for international opposition to nuclear testing. </P>
+<P> ``We have been urging China to join other nuclear weapon states in declaring a moratorium on its testing program,'' acting foreign minister Gordon Bilney said in a statement. </P>
+<P> Bilney said Australia was still hopeful that a comprehensive test ban treaty could eventuate by the end of 1995. </P>
+<P> ``China must come to terms with the imminent fact of a ban on nuclear testing for all time and in all environments,'' Bilney said, adding that he had instructed the Australian embassy in Beijing to protest the explosion. </P>
+</TEXT>
+</DOC>

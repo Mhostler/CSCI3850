@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0337.940728</DOCID>
+<TDTID>TDT001159</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/28/94 13:05</DATE>
+<TITLE> RUSSIAN HIJACKERS FREE SEVEN HOSTAGES</TITLE>
+<HEADLINE> RUSSIAN HIJACKERS FREE SEVEN HOSTAGES</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-RELEASE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Masked gunmen who seized a bus in Russia with 40 passengers including eight children Thursday freed seven of the hostages, the emergency ministry said. </P>
+<P> The four hijackers, who were demanding two helicopters and a $15 million ransom, freed two women and five men, a spokesman said. </P>
+<P> The hijack, fourth in southern Russia in eight months, started when the men seized the bus as it made its way from Pyatigorsk to the nearby spa town of Mineralniye Vody. </P>
+<P> The emergency ministry spokesman said negotiations had started with the hijackers, who had taken the bus to the airport at Mineralniye Vody. First Deputy Interior Minister Anatoly Kulikov was overseeing the operation, it said. </P>
+<P> The Russian counter-intelligence office pleaded for media outlets to broadcast as little news as possible about the hijacking as the gunmen had radios. </P>
+</TEXT>
+</DOC>

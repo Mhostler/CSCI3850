@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0248.940727</DOCID>
+<TDTID>TDT001136</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/27/94 22:33</DATE>
+<TITLE> SECOND SENATOR, CITING LLOYD'S TANGLE, OPPOSES BREYER</TITLE>
+<HEADLINE> SECOND SENATOR, CITING LLOYD'S TANGLE, OPPOSES BREYER</HEADLINE>
+<SUBJECT> BC-USA-BREYER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Senator Bob Smith on Wednesday became the second U.S. senator to say he will oppose Stephen Breyer, President Clinton's Supreme Court nominee. </P>
+<P> Smith, a New Hampshire Republican, said that he was concerned by, among other things, Breyer's decision to invest in Lloyd's of London without realizing his potential for loss in what has become Britain's biggest insurance bust. </P>
+<P> ``I feel the Lloyd's investment demonstrates questionable judgment by Judge Breyer,'' Smith said in a statement. ``Because his holdings were so extensive he may be forced to withdraw from judging the numerous cases, expected before the court, involving asbestos and pollution liability risks covered by Lloyd's.'' </P>
+<P> Smith said he was also opposing the federal appeals court judge because Breyer had ``placed himself on the liberal side'' of church-state separation issues and, according to the lawmaker, advocated federal funding of abortions. </P>
+<P> Last week, Indiana Republican Richard Lugar became the first senator to declare opposition to Breyer, citing his investment in Lloyd's Bank PLC. </P>
+<P> The Senate is expected to consider the Breyer nomination this week. Confirmation seems assured following the 18-0 endorsement he received from the Senate Judiciary Committee. </P>
+</TEXT>
+</DOC>

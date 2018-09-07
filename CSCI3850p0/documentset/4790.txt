@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0338.950308</DOCID>
+<TDTID>TDT011091</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/08/95 14:59</DATE>
+<TITLE> Drunk drive charge dropped against John Denver</TITLE>
+<HEADLINE> Drunk drive charge dropped against John Denver</HEADLINE>
+<SUBJECT> BC-DENVER-CHARGES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ASPEN, Colo.(Reuter) </DATELINE>
+<P>  Singer John Denver, who crashed his Porsche into a tree last summer, has won a dissmissal of drunk driving charges that resulted from the incident.  But the prosecutor said he will appeal because the decision puts other drunk driving cases in jeopardy. </P>
+<P> A Pitkin County judge Tuesday dropped charges against Denver because the singer had already appeared at license-revocation hearing last year in connection with the same accident. </P>
+<P> Walter Gerash, a well known criminal defense attorney, successfully argued that a court hearing would constitute double jeopardy. Denver did not lose his license at the revocation hearing before Motor Vehicles Division officials because of a technicality. </P>
+<P> Had he been convicted Denver risked jail time because he previously pleaded guilty to a charge of being impaired by alcohol in 1993 when he was not represented by an attorney. </P>
+<P> Gerash said Denver has not had a drink since August. </P>
+</TEXT>
+</DOC>

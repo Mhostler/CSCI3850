@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU005-0145.950209</DOCID>
+<TDTID>TDT010277</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/09/95 12:58</DATE>
+<TITLE> Northern Ireland talks suspended over bugging device</TITLE>
+<HEADLINE> Northern Ireland talks suspended over bugging device</HEADLINE>
+<SUBJECT> BC-IRISH </SUBJECT>
+<AUTHOR>     By Andrew Hill </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELFAST, Northern Ireland (Reuter) </DATELINE>
+<P>  Northern Ireland peace talks between Britain and Sinn Fein were suspended Thursday when the Irish Republican political group detected a suspected bug in a room it uses for private consultations. </P>
+<P> ``I think that if the room is being electronically monitored, that is a matter of serious concern,'' Sinn Fein President Gerry Adams told a hastily convened news conference at the party's West Belfast headquarters. </P>
+<P> But Adams stopped short of accusing Britain of planting a device and the Northern Ireland Office, the British arm of regional government, said it was not responsible. </P>
+<P> ``Any implication that the rooms were being monitored by, or on behalf of, the government was without foundation,'' the Northern Ireland Office said in a statement. </P>
+<P> Martin McGuiness, head of the Sinn Fein delegation, said his security team, using a scanner, detected a ``listening device'' in the room and called on the head of the British delegation, Quentin Thomas, to investigate. </P>
+<P> Both sides agreed that the scanner was picking up signals from a piece of furniture and the room was sealed for police to investigate. </P>
+<P> The suspected device was detected in a room which Sinn Fein, the Irish Republican Army's political wing, used for private talks during five previous rounds of negotiations with British government officials. </P>
+<P> The talks took place in Stormont castle, an imposing gray building on the city outskirts which is seen by the province's minority Catholic population as the seat of power of Protestants, who want Northern Ireland to stay British. </P>
+<P> They began after the IRA declared a cease-fire in its 25-year-old war against British rule of Northern Ireland last September and are aimed at bringing Sinn Fein into all-party talks on a settlement to the province's sectarian strife. </P>
+<P> The room had been scanned before all previous rounds and nothing suspicious had been detected, McGuinness said. </P>
+<P> Sinn Fein and the Northern Ireland Office said the exploratory dialogue would continue at a later date but the incident was as a setback. </P>
+<P> ``I think the entire process needs to be conducted in a climate where both sides feel they can conduct their deliberations in a secure environment,'' Adams said. </P>
+<P> McGuinness said it was vital that the talks process continue to build upon the IRA cease-fire. </P>
+<P> ``It is of the essence that Sinn Fein go back into talks,'' he told the news conference. ``It is vitally important that these negotiations continue.'' </P>
+</TEXT>
+</DOC>

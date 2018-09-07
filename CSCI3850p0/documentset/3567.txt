@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0411.950104</DOCID>
+<TDTID>TDT008855</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/04/95 06:26</DATE>
+<TITLE> Windsor Castle exploratory oil drilling to go ahead</TITLE>
+<HEADLINE> Windsor Castle exploratory oil drilling to go ahead</HEADLINE>
+<SUBJECT> BC-BRITAIN-OIL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>READING, England (Reuter) </DATELINE>
+<P>  British local government officials gave the go-ahead Wednesday to a controversial plan for exploratory oil drilling in the grounds of Queen Elizabeth's favorite residence, Windsor Castle. </P>
+<P> County officials in the southern English town of Reading granted an application by Canuk Exploration for exploratory drilling after Berkshire environment officers said ``noise, general disturbances and visual impact would be minimal.'' </P>
+<P> Queen Elizabeth has already consented to the idea but the mayor of Windsor has deplored the plan as ``desecration of a national monument.'' </P>
+<P> The state stands to gain most from any find and Canuk Exploration managing director Desmond Oswald said there could be up to 100 million barrels -- 13.60 million tons -- of oil beneath the castle grounds. </P>
+<P> County officials say there is a one-in-eight chance of finding oil. If it is discovered in commercial quantities, another planning application would need to be granted before extraction could go ahead. </P>
+<P> Initial drilling will take place in Windsor Home Park, 1,968 feet southeast of the historic castle. </P>
+</TEXT>
+</DOC>

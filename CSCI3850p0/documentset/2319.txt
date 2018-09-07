@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU014-0211.941031</DOCID>
+<TDTID>TDT005806</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/31/94 11:46</DATE>
+<TITLE> What's at stake on U.S. Election Day</TITLE>
+<HEADLINE> What's at stake on U.S. Election Day</HEADLINE>
+<SUBJECT> BC-POLITICS-STAKES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Voters in all 50 states will go to the polls November 8. Here's what's at stake. </P>
+<P> THE HOUSE: All 435 House seats will be decided. Democrats now hold 256 House seats to 178 for the Republicans. There is one independent, Bernard Sanders of Vermont. </P>
+<P> Republicans last held a House majority in 1954. </P>
+<P> The highest profile House race is in Washington state where Democratic Speaker Thomas Foley is fighting for his political life against lawyer George Nethercutt. The last time a House speaker was ousted in an election was in 1860. </P>
+<P> THE SENATE: Thirty-five of the 100 seats in Senate are at stake. The Democrats now hold a 56-to-44 margin over Republicans, who have controlled the Senate for only six of the last 40 years, from 1981 through 1987. </P>
+<P></P>
+<P> GOVERNORS: Thirty-six of the 50 governorships are at stake. Democrats now hold 29 of them, the Republicans 20. One is held by an independent, Connecticut's Lowell Weicker. </P>
+<P> Of the 36 races, 21 are for governorships held by Democrats, 14 are for those held by Republicans and one for the position held by Weicker, who is not seeking re-election. </P>
+<P></P>
+<P> OTHER RACES: There are 6,155 seats in state legislatures at stake in 46 states. Also, thousands of local elective positions are up for grabs. </P>
+</TEXT>
+</DOC>

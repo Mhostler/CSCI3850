@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU007-0198.940914</DOCID>
+<TDTID>TDT003390</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/14/94 18:10</DATE>
+<TITLE> Clinton says baseball exemption needs examination</TITLE>
+<HEADLINE> Clinton says baseball exemption needs examination</HEADLINE>
+<SUBJECT> BC-BASEBALL-CLINTON </SUBJECT>
+<AUTHOR>     By Steve Holland </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton said Wednesday Major League baseball's exemption from anti-trust laws needs to be examined in light of a players' strike that has canceled the remainder of the season. </P>
+<P> Team owners canceled the rest of the strikebound 1994 season Wednesday, leaving the sport without a World Series for the first time in 90 years. </P>
+<P> Baseball has been exempt from anti-trust laws since a 1922 Supreme Court decision that barred the Major League Baseball Players Association from filing suit against the owners. </P>
+<P> If baseball were subject to anti-trust the players could then sue for recourse and play could continue while the case was in the courts. Owners insist the exemption is important to the sport because it prevents a team from moving and protects the minor leagues. </P>
+<P> Baseball is the only sport with blanket anti-trust exemption. Nebraska Democratic Senator James Exon Tuesday killed legislation that would have limited the owners' exemption and permitted the players to sue if a salary cap is unilaterally imposed. </P>
+<P> Clinton said he did not want to give a definitive answer to whether he supported nullifying the exemption because he had not had a chance to study the issue in detail and had no advice from the Justice Department. </P>
+<P> But he added, ``I don't see how we can avoid a serious examination of it in light of what has happened now to the American people.'' </P>
+<P> ``If this has just turned into another business in America, then that's an issue that has to be examined,'' he told Reuters and other wire service reporters in an interview. </P>
+<P> Washington Post sports columnist Thomas Boswell urged Clinton Wednesday in a column to ``step up to the plate'' and say that ``baseball's antitrust exemption should be revoked on labor issues.'' </P>
+<P> ``All baseball's players ask at this moment is what every other American has by right -- a day in court,'' Boswell wrote. ''The players believe the owners have unreasonably restrained competition in the labor market. They're convinced that any court, any judge whatsoever, would side with them.'' </P>
+<P> Clinton said the strike ``ended what could have been the best baseball season in 50 years'' because of the potential for breaking long-standing records. </P>
+<P> He said his administration worked hard to help settle the strike to no avail. ``We did everything we could,'' he said. </P>
+</TEXT>
+</DOC>

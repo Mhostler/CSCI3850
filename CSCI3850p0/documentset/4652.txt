@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0109.950301</DOCID>
+<TDTID>TDT010890</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 10:45</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BUDGET-RECESS -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Dole had delayed a vote on the balanced-budget constitutional amendment Tuesday night because it lacked one vote of the required two-thirds majority of 67. </P>
+<P> That raised expectations the showdown vote would occur Wednesday. But two Democrats whose votes the Republicans are courting, Sens. Kent Conrad and Byron Dorgan of North Dakota, announced at a Wednesday morning news conference that they remained opposed to the amendment as written. They said prospects looked bleak that the Republicans would offer the compromises they required. </P>
+<P> In recessing the Senate, Dole promised he would bring the amendment to a vote sometime soon but also said that, if it failed to pass, he would take the necessary steps to ensure he could bring it up for another vote in the future. </P>
+<P> ``Let's leave it out there a year and let's see what happens,'' Dole said. Democratic leaders expressed bitterness at Dole's delaying tactics. The proposed amendment is a key part of the Republicans' legislative ``Contract with America'' and is opposed by many Democrats including President Clinton. </P>
+</TEXT>
+</DOC>

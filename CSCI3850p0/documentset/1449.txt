@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU008-0419.940917</DOCID>
+<TDTID>TDT003585</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/17/94 21:01</DATE>
+<TITLE> White House calls talks serious, constructive</TITLE>
+<HEADLINE> White House calls talks serious, constructive</HEADLINE>
+<SUBJECT> BC-HAITI-USA-STATEMENT URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House Saturday characterized a U.S. delegation's talks with Haitian leaders as ``serious and constructive'' and said further talks are planned. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU010-0286.950320</DOCID>
+<TDTID>TDT011490</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/20/95 19:42</DATE>
+<TITLE> Greece wants to buy Raytheon missile kits</TITLE>
+<HEADLINE> Greece wants to buy Raytheon missile kits</HEADLINE>
+<SUBJECT> BC-GREECE-USA-MISSILES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Defense Department informed Congress Monday that Greece wants to buy Raytheon-made improvement kits for its Hawk missile battery ground support systems for $150 million. </P>
+<P> It said Greece would use the modification kits to improve its air defenses and said the sale would not upset the military balance in the region. </P>
+<P> Such weapons sales must be made through the governments involved, not directly with the manufacturer, and the Defense Department must notify Congress in advance to give it a chance to block a sale if opposition is strong enough. </P>
+</TEXT>
+</DOC>

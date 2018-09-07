@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0330.940912</DOCID>
+<TDTID>TDT003212</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/12/94 04:37</DATE>
+<TITLE> Eleven die in bus crash in Montenegro</TITLE>
+<HEADLINE> Eleven die in bus crash in Montenegro</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-ACCIDENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELGRADE, Yugoslavia (Reuter) </DATELINE>
+<P>  Yugoslav authorities said 11 people died and 40 were injured when a bus left the road in Montenegro on Sunday night, newspapers reported Monday. </P>
+<P> The bus crashed on its way from the town of Bileca, near the Bosnian border, to Nevesinje in Montenegro, which together with Serbia comprises rump Yugoslavia. </P>
+</TEXT>
+</DOC>

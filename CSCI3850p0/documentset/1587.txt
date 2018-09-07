@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0133.940925</DOCID>
+<TDTID>TDT003949</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/25/94 03:58</DATE>
+<TITLE> Israeli soldiers kill Palestinian attacker</TITLE>
+<HEADLINE> Israeli soldiers kill Palestinian attacker</HEADLINE>
+<SUBJECT> BC-MIDEAST-ISRAEL-STABBING 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Adds details, Hamas leaflet found on body)</NOTES>
+<DATELINE>GAZA (Reuter) </DATELINE>
+<P>  Israeli soldiers shot dead a Palestinian after he stabbed a teenaged Jewish settler in the Gaza Strip Sunday, military sources said. </P>
+<P> The sources said soldiers guarding Neve Dekalim settlement killed the attacker and that a leaflet of the militant Islamic Resistance Movement Hamas was found on his body. </P>
+<P> Israel Radio said the 17-year-old settler, stabbed near the settlement, was in moderate to serious condition with wounds to the back and neck. </P>
+<P> The incident occurred hours before the scheduled start of a summit between Israeli Prime Minister Yitzhak Rabin and PLO leader Yasser Arafat at the Erez crossing to the strip, most of which has been under Palestinian self-rule since an Israeli handover in May. </P>
+</TEXT>
+</DOC>

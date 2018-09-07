@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0264.940919</DOCID>
+<TDTID>TDT003653</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/19/94 11:01</DATE>
+<TITLE> Clinton hails peaceful entry of U.S. troops</TITLE>
+<HEADLINE> Clinton hails peaceful entry of U.S. troops</HEADLINE>
+<SUBJECT> BC-HAITI-USA-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Monday hailed the peaceful entry of U.S. forces into Haiti and praised a delegation led by former President Jimmy Carter for its help in averting a military invasion. </P>
+<P> ``We had this morning the first peaceful introduction of our forces as we begin to carry out the mandate of the United Nations. It has been so far a good day thanks in no small part to the extraordinary efforts of this delegation,'' he said. </P>
+<P> Clinton spoke at a meeting with Carter and the two other members of the delegation, Senator Sam Nunn of Georgia and retired General Colin Powell, a former chairman of the military Joint Chiefs of Staff. </P>
+<P> ``Our deepest thanks as a nation should go to President Carter, General Powell and Senator Nunn,'' Clinton told the gathering attended by cabinet members and congressional leaders. He praised the U.S. armed forces, saying their military preparedness helped encourage Haitian military leaders to agree to step down. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU014-0129.950228</DOCID>
+<TDTID>TDT010864</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/28/95 15:16</DATE>
+<TITLE> Clinton to hold news conference Friday</TITLE>
+<HEADLINE> Clinton to hold news conference Friday</HEADLINE>
+<SUBJECT> BC-CLINTON-PRESS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton will hold a full-scale news conference Friday at 1 p.m. EST, the White House said Tuesday. </P>
+<P> The event will be Clinton's first extended give-and-take with reporters on a wide range of issues since last December. The domestic policy upheaval in the Republican-led Congress was expected to be one of the prime topics. </P>
+<P> White House spokesman Mike McCurry said the session would take place in an auditorium of an office building adjacent to the White House because the White House East Room, the usual site of presidential news conferences, would be otherwise occupied. </P>
+</TEXT>
+</DOC>

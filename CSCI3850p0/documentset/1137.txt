@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0389.940902</DOCID>
+<TDTID>TDT002826</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/02/94 19:35</DATE>
+<TITLE> Officials meet on Palestinian self-rule funding</TITLE>
+<HEADLINE> Officials meet on Palestinian self-rule funding</HEADLINE>
+<SUBJECT> BC-MIDEAST-DONORS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Officials of countries underwriting the shift to Palestinian self-rule in the Israeli-occupied West Bank met in Washington Friday to discuss the financing of the handover. </P>
+<P> State Department spokeswoman Christine Shelly said the meeting was to prepare for a conference of donor countries to be held in Paris September 7-9, which is expected to decide what sum to grant. </P>
+<P> Israel and the Palestine Liberation Organization (PLO) signed an agreement Monday giving Palestinians in the West Bank control over five spheres of civilian government previously run by Israel. </P>
+<P> This was the second phase of a year-old peace deal. Self-rule began in Gaza and the West Bank town of Jericho in May and is due to spread to other parts of the West Bank. </P>
+<P> Donor countries have been asked to supply transitional funding for the Palestinian administration until the PLO can raise its own taxes. </P>
+<P> Friday's meeting was attended by Israeli foreign ministry director-general Uri Savir, PLO chief negotiator Nabil Shaath, U.S. special Middle East coordinator Dennis Ross, and officials from the European Union, Norway, Russia, Saudi Arabia, Japan and Canada. </P>
+</TEXT>
+</DOC>

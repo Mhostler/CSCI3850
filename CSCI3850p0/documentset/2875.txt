@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0457.941128</DOCID>
+<TDTID>TDT007127</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/28/94 16:50</DATE>
+<TITLE> Norway rejects EU - projections</TITLE>
+<HEADLINE> Norway rejects EU - projections</HEADLINE>
+<SUBJECT> BC-EUROPE-NORWAY-PROJECTION URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OSLO, Norway (Reuter) </DATELINE>
+<P>  Norway voted by a 51.5 percent to 48.5 percent majority to reject membership of the European Union in a referendum Monday, according to computer projections based on 4.2 percent of counted votes. </P>
+<P> Electoral analysts said, however, that Norway's second EU referendum in 22 years was so close that the vote could swing either way in the course of the next few hours as more results are counted. </P>
+</TEXT>
+</DOC>

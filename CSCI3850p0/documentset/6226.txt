@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0167.950503</DOCID>
+<TDTID>TDT013367</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 03:04</DATE>
+<TITLE> Four guerrillas killed in Lebanon - Israel army</TITLE>
+<HEADLINE> Four guerrillas killed in Lebanon - Israel army</HEADLINE>
+<SUBJECT> BC-ISRAEL-LEBANON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KIRYAT SHMONA, Israel, May 3 (Reuter) </DATELINE>
+<P>  The Israeli army said on Wednesday its troops killed at least four Hizbollah guerrillas in a clash in south Lebanon on Tuesday. </P>
+<P> ``At least four Hizbollah terrorist guerrillas were killed, and several more wounded, when Israeli paratroopers on an operation in south Lebanon encountered the terrorists at close range and stormed them,'' an army spokeswoman said. </P>
+<P> There were no Israeli casualties, she added. </P>
+<P> Israeli security sources said the incident took place on Tuesday morning when the paratroopers crossed out of the eastern sector of the buffer zone Israel occupies in south Lebanon. </P>
+<P> Security sources in Lebanon said on Tuesday that Israeli troops and their allied militia wounded three guerrillas of Iranian-backed Hizbollah group in a south Lebanon clash. It was unclear whether the Israeli army statement referred to the same incident. </P>
+</TEXT>
+</DOC>

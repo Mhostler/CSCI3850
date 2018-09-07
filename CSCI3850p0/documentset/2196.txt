@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU011-0294.941024</DOCID>
+<TDTID>TDT005502</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/24/94 13:14</DATE>
+<TITLE> Prosecution seeks dismissal of Simpson jury pool</TITLE>
+<HEADLINE> Prosecution seeks dismissal of Simpson jury pool</HEADLINE>
+<SUBJECT> BC-SIMPSON-JURY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Prosecutors in the O.J. Simpson murder trial asked a judge Monday to dismiss the current pool of 77 prospective jurors, saying the group has been ``tainted'' by massive publicity surrounding the case. </P>
+<P> Deputy District Attorney Marcia Clark proposed that the proceedings first focus on lengthy evidentiary hearings on crucial DNA testing before resuming the jury selection process with a new pool of panelists. </P>
+</TEXT>
+</DOC>

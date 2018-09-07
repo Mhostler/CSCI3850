@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU007-0225.950117</DOCID>
+<TDTID>TDT009372</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/17/95 01:36</DATE>
+<TITLE> At least 597 dead, 531 missing after Japan quake</TITLE>
+<HEADLINE> At least 597 dead, 531 missing after Japan quake</HEADLINE>
+<SUBJECT> BC-QUAKE-JAPAN-TOLL 8THLD URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  At least 597 people were killed, 531 were missing and 2,198 were injured after a huge earthquake tore through central Japan early Tuesday, a spokesman for the National Police Agency said. </P>
+</TEXT>
+</DOC>

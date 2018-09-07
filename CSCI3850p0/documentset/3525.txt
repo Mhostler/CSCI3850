@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU001-0035.950101</DOCID>
+<TDTID>TDT008737</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/01/95 11:03</DATE>
+<TITLE> Suspected mass murderer West found hanging in cell</TITLE>
+<HEADLINE> Suspected mass murderer West found hanging in cell</HEADLINE>
+<SUBJECT> BC-BRITAIN-PRISONER URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Builder Frederick West, accused of murdering nine women in a ``house of horrors'' in western England, has been found hanged in his cell, the British prison service announced Sunday. </P>
+</TEXT>
+</DOC>

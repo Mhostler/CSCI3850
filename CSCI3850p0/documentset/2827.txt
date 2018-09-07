@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU012-0017.941125</DOCID>
+<TDTID>TDT007014</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/25/94 13:58</DATE>
+<TITLE> NATO flies air strike in Bosnia-NATO sources</TITLE>
+<HEADLINE> NATO flies air strike in Bosnia-NATO sources</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-NATO-STRIKE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRUSSELS (Reuter) </DATELINE>
+<P>  NATO aircraft Friday launched an air strike in Bosnia, NATO sources said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU009-0345.940719</DOCID>
+<TDTID>TDT000735</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/19/94 09:24</DATE>
+<TITLE> RIOT POLICE RAID SEOUL CAMPUS TO END RALLY</TITLE>
+<HEADLINE> RIOT POLICE RAID SEOUL CAMPUS TO END RALLY</HEADLINE>
+<SUBJECT> BC-KOREA-STUDENTS (PICTURE) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, South Korea (Reuter) </DATELINE>
+<P>  South Korean riot police fired tear gas Tuesday to disperse hundreds of students protesting against security laws that prevent them from going to North Korea to mourn the death of Kim Il-sung. </P>
+<P> Witnesses said the rally was nearly over when riot police entered the campus of Yonsei University. Students hurled stones at the officers. </P>
+<P> ``I saw blood on some students' faces,'' said one witness. </P>
+<P> It was not immediately clear how many people were injured. </P>
+<P> ``There were no plans to make the rally violent. There was no need for the riot police to come in,'' one student said by telephone. </P>
+<P> The students were protesting against the government's recent crackdown on student activities after finding a secret altar erected as a memorial to Kim, the North Korean leader who died on July 8. </P>
+<P> ``Abolish the nation's security laws,'' students chanted during the rally. All contacts with or support with communist North Korea are banned in the South. </P>
+<P> The students also said the summit between South and North Korea should be rescheduled to improve relations between the two sides. </P>
+<P> Leaders of South and North Korea were scheduled to meet next week, but Kim's death has indefinitely delayed plans for a summit. </P>
+<P> Some 28,000 riot police were deployed around several college campuses in South Korea to halt any attempts to mourn Kim, who was the longest absolute ruler in modern history. </P>
+<P> Police had warned that students caught mourning Kim would be arrested for violating the nation's draconian security laws. </P>
+<P> South and North Korea have been technically at war since the 1950-53 Korean conflict ended in a truce. </P>
+</TEXT>
+</DOC>

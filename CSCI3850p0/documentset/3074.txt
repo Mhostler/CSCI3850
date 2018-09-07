@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0139.941208</DOCID>
+<TDTID>TDT007611</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 11:18</DATE>
+<TITLE> Israel reaffirms support of peace deal with PLO</TITLE>
+<HEADLINE> Israel reaffirms support of peace deal with PLO</HEADLINE>
+<SUBJECT> BC-MIDEAST-CABINET </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TEL AVIV (Reuter) </DATELINE>
+<P>  Israel's government, ending three days of debate, Thursday reaffirmed its support for its peace deal with the Palestine Liberation Organization. </P>
+<P> PLO officials had warned Israel this week that any unilateral change would destroy the deal. </P>
+<P> ``The government will continue the negotiations according to its commitment to the Declaration of Principles and will act according to its principles and lessons learned to date,'' the cabinet said in a statement. </P>
+<P> The government met Sunday, Wednesday and Thursday to discuss the future of the peace deal launched with the signing of a Declaration of Principles in Washington 15 months ago. </P>
+<P> Some ministers had proposed Israeli troops not redeploy away from Palestinian population centres in still-occupied parts of the West Bank prior to Palestinian elections as called for in the accord. </P>
+<P> Cabinet Secretary Shmuel Hollander, asked if troops would redeploy before elections, said: ``That's part of the agreement, so the government is going to implement the agreement but will of course take into consideration Israel's security needs.'' </P>
+</TEXT>
+</DOC>

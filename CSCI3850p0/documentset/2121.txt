@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU009-0413.941019</DOCID>
+<TDTID>TDT005312</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/19/94 21:24</DATE>
+<TITLE> U.N. agency willl help monitor N. Korea deal</TITLE>
+<HEADLINE> U.N. agency willl help monitor N. Korea deal</HEADLINE>
+<SUBJECT> BC-KOREA-USA-AGENCY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The International Atomic Energy Agency director said Wednesday his group is ready to help police a potentially sweeping U.S. nuclear deal with North Korea, but seemed guarded about the agreement. </P>
+<P> IAEA Director General Hans Blix said that in general the promises extracted by the United States from Pyongyang on its nuclear program in the accord are ``certainly better than the situation in which we are now.'' </P>
+<P> But, posing for photographers with Secretary of State Warren Christopher, Blix added that he hoped it would not take the five years projected for North Korea to give the IAEA access to two suspicious nuclear waste sites. </P>
+<P> Under the U.S.-North Korea framework deal reached late Monday and due to be formally signed Friday, North Korea will freeze its current graphite nuclear building program and close its one existing experimental reactor. </P>
+<P> In return, Washington is to form an international consortium, including South Korea and Japan, to provide Pyongyang with light-water reactors, which produce little of the plutonium it has been accused of diverting to atomic arms. </P>
+<P> Christopher, who hosted Blix at the State Department, said the role of the IAEA, as an independent U.N. agency, ``will be vitally important in the inspection and monitoring functions that are called for under the framework agreement.'' </P>
+<P> He said Blix had assured him that the IAEA is ``prepared to work with us in carrying out those responsibilities.'' </P>
+<P> Blix described the U.S.-North Korea accord as ``a way of promoting the implementation of the (nuclear) safeguards agreement'' that already exists between the agency and Pyongyang but on which Pyongyang has reneged. </P>
+<P> He said the IAEA would also have an additional task -- to monitor North Korea's promise to freeze its nuclear program. </P>
+<P> ``As the secretary said, we will be quite ready to do so,'' Blix said. </P>
+<P> The accord attempts to resolve a long-running dispute by committing North Korea to allow the agency access to two suspicious nuclear waste sites that could confirm if North Korea has diverted plutonium for nuclear weapons. </P>
+<P> But it does not require Pyongyang to submit to these special inspections until about five years from now, before it receives sensitive technology for the light-water reactors. </P>
+<P> Asked if he was satisfied with the accord's handling of this matter, Blix said: ``That is certainly better than the situation in which we are now ... We would hope that the time would not be as long as five years.'' </P>
+</TEXT>
+</DOC>

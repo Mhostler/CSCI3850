@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU006-0005.950508</DOCID>
+<TDTID>TDT013567</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/08/95 16:28</DATE>
+<TITLE> Conner leads at start of America's Cup race</TITLE>
+<HEADLINE> Conner leads at start of America's Cup race</HEADLINE>
+<SUBJECT> BC-YACHTING-AMERICAS-RACE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN DIEGO (Reuter) </DATELINE>
+<P>  Dennis Conner's Stars & Stripes team aboard Young America led Peter Blake's Team New Zealand aboard Black Magic I by two seconds across the start line and took the favored lefthand side in Race 2 of the best-of-nine America's Cup series Monday. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0037.950101</DOCID>
+<TDTID>TDT008738</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/01/95 11:07</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BRITAIN-PRISONER -2 LONDON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> West, 52, and his wife Rosemary, 40, were jointly charged with nine counts of murder after the discovery of the remains of young women and girls at their home in Gloucester, dubbed the ``House of Horror'' by the British media. West is also charged alone with killing an additional three women. </P>
+<P> Prison officials said West had been found in his cell at Winson Green Prison in the central English town of Birmingham at 7:55 a.m. EST. He was pronounced dead by a doctor at 8:22 a.m. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU013-0415.940728</DOCID>
+<TDTID>TDT001175</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/28/94 18:22</DATE>
+<TITLE> MRS CLINTON, SUPPORTERS HOLD HEALTH REFORM SESSION</TITLE>
+<HEADLINE> MRS CLINTON, SUPPORTERS HOLD HEALTH REFORM SESSION</HEADLINE>
+<SUBJECT> BC-HEALTH-REFORM 1STLD </SUBJECT>
+<AUTHOR>     By Donna Smith </AUTHOR>
+<TEXT>
+<NOTES>(Eds: adds comments by anti-abortion group, paras 6-7)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Hillary Rodham Clinton huddled with Senate health reform supporters Thursday to set out a strategy to cover all Americans as Congressional Democratic leaders put the final touches on legislation. </P>
+<P> Following the strategy session with Mrs Clinton, members of the group said they were ready to press their case for employer-paid health benefits for all Americans when the full Senate takes up reform legislation next week. </P>
+<P> ``We're very pleased,'' said Senator Tom Daschle, a South Dakota Democrat who leads the group of about 20 Senators who support the White House's effort to provide health benefits to all Americans. </P>
+<P> ``We are much more united and organized than we thought we could have been two weeks ago,'' Daschle told reporters. ``We are off and running. The White House has indicated support for our efforts and we want to work closely with them.'' </P>
+<P> While supporters of universal coverage vowed to press their case, opponents of abortion threatened to vote against any bill that includes pregnancy termination services in a basic package of benefits. </P>
+<P> Pennsylvania Governor Robert Casey and five members of Congress at a news conference voiced their disapproval of any legislation that would be a ``full employment bill for the abortion industry.'' </P>
+<P> Abortion is among the most controversial issues in health reform. The Democratic leadership in the House of Representatives, which plans to unveil its health bill Friday, probably will leave abortion as the last element of the plan to be settled, Speaker Thomas Foley said this week. </P>
+<P> Senate Majority Leader George Mitchell, meanwhile, has been working behind closed doors to pull together a bill that can win majority support in the Senate. He is drawing on a Clinton-style bill passed by the liberal Senate Labor and Human Resources Committee and a more conservative approach enacted by the Senate Finance Committee. </P>
+<P> The Maine Democrat's goal is to craft a bill that can win at least 51 Senate votes and meet the president's demand that all Americans get health insurance. Details of the Mitchell bill are expected to be made public Friday or Monday. </P>
+<P> House Democratic leaders are expected to unveil their version of reform legislation as early as Friday. While two House panels have passed separate versions of health reform, the bill being assembled by House leaders is close to the plan passed by the taxwriting House Ways and Means Committee. It would create a new Medicare program to provide health insurance for the poor, unemployed and small businesses. </P>
+<P> Time is running short for lawmakers who hope to have a health reform bill on the president's desk in time to go home and campaign for the November elections. The House and Senate each will pass bills and then work out the differences. </P>
+<P> Democrats who support universal coverage say they are willing to give ground on timing so that Mitchell can try to win the moderate votes he needs. But they do not want the phase-in to take too long, and they want some measures to start helping expand coverage as soon as possible. </P>
+<P> Senator Harris Wofford, a Pennsylvania Democrat, said he would want ``annual check-ups'' to monitor progress. </P>
+<P> The White House is relying on the Democratic majority in both the House and the Senate to pass a reform bill. President Clinton complained earlier this week that he has tried to reach out to Republicans but they keep moving away. </P>
+<P> The Republican National Committee issued a statement Thursday saying the president was ``deceiving'' Americans. </P>
+<P> ``The truth is, Clinton has not reached out,'' Republican National Committee Chairman Haley Barbour said in a statement. ''This is a charade. </P>
+<P> Senate Republican Leader Bob Dole made similar remarks to an American Enterprise Institute conference on health reform. ''There isn't any bipartisan cooperation. I don't think there will be any bipartisan cooperation in the Congress,'' he said. Republicans are seeking far less sweeping reforms that do not force employers to pay workers' health benefits. </P>
+</TEXT>
+</DOC>

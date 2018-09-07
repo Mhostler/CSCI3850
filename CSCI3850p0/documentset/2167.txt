@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU010-0440.941022</DOCID>
+<TDTID>TDT005439</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/22/94 03:05</DATE>
+<TITLE> Malaria kills at least 2,000 in India - newspapers</TITLE>
+<HEADLINE> Malaria kills at least 2,000 in India - newspapers</HEADLINE>
+<SUBJECT> BC-INDIA-MALARIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, India (Reuter) </DATELINE>
+<P>  A deadly strain of malaria has killed at least 2,000 people in India's western Rajasthan state since September, claiming many more victims than an outbreak of plague, newspapers said Saturday. </P>
+<P> The Indian Express newspaper said cerebral malaria had killed more than 4,000 people since September. Another daily, the Pioneer, quoted non-governmental health organizations as saying the toll was at least 2,000. </P>
+<P> Health Ministry Director-General A.K. Mukherjee told Reuters 70,711 people had tested positive for the mosquito-borne disease that broke out four weeks ago in Rajasthan state. </P>
+<P> He said 229 deaths were confirmed malaria cases. ``Our assessment is 229 deaths have occurred, which is very small,'' Mukherjee said. </P>
+<P> Asked to comment on the newspapers' estimates of the number of deaths, Mukherjee said: ``We are getting the latest facts from Rajasthan. Unless we get the latest facts, we cannot say anything.'' </P>
+<P> Mukherjee said the disease had been identified as Plasmodium Vivax Malaria. The drug for its cure is very strong and effective, he said. </P>
+<P> The newspaper reports, if confirmed, would indicate many more people had died of malaria in Rajasthan, a popular tourist destination on the border with Pakistan, than of a recent outbreak of pneumonic plague in all of India. </P>
+<P> Last month the plague outbreak sparked an exodus of at least 300,000 people from the western city of Surat. </P>
+<P> Pneumonic plague has killed at least 57 people, mostly in Surat, and prompted many countries to restrict travel and trade with India to keep out the disease. </P>
+<P> Health officials say plague is under control and many nations have lifted their controls. But exporters and tourist industry officials say the international fallout from the disease will seriously damage their earnings in coming months. </P>
+<P> The Express said a National Malaria Eradication Program team sent to Rajasthan had ``got deeply disturbing results.'' </P>
+<P> The Pioneer attributed the spread of malaria to unusually heavy monsoon rains in western Rajasthan that stimulated mosquito breeding. </P>
+<P> The paper said the National Malaria Eradication Program team had found that dense populations of mosquitos had bred in stagnant canal waters. </P>
+<P> Officials in India's eastern Manipur state said earlier this week that cerebral malaria in their region had recently killed 250 people. </P>
+<P> There have been other recent reports of hundreds of malaria deaths in northern Uttar Pradesh and Bihar states. </P>
+</TEXT>
+</DOC>

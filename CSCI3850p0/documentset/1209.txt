@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0270.940907</DOCID>
+<TDTID>TDT003001</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/07/94 12:53</DATE>
+<TITLE> Jackson and Presley to appear at MTV awards</TITLE>
+<HEADLINE> Jackson and Presley to appear at MTV awards</HEADLINE>
+<SUBJECT> BC-USA-MTV </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Michael Jackson and new bride Lisa Marie Presley will make an onstage appearance at the MTV music awards Thursday, a source close to the production said Wednesday. </P>
+<P> The source said the pair would make a short appearance in the three-hour show but that Jackson would not perform. </P>
+<P> The pop music star was not nominated for any video music awards this year. </P>
+<P> The MTV awards, which have grown to rival the longer-running Grammys in importance within the music industry, will be held at New York's landmark Radio City Music Hall. </P>
+<P> The heavy roster of celebrities scheduled to appear include Bruce Springsteen, the Rolling Stones and Tom Petty. </P>
+<P> Among the leading nominees for awards are the group R.E.M. and heavy-metal veterans Aerosmith. </P>
+</TEXT>
+</DOC>

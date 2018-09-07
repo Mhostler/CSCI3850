@@ -1,0 +1,40 @@
+<DOC>
+<DOCID>REU011-0392.950125</DOCID>
+<TDTID>TDT009758</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/25/95 22:38</DATE>
+<TITLE> China satellite rocket explodes in orange fireball</TITLE>
+<HEADLINE> China satellite rocket explodes in orange fireball</HEADLINE>
+<SUBJECT> BC-CHINA-SATELLITE 1STLD </SUBJECT>
+<AUTHOR>     By Mark O'Neill </AUTHOR>
+<TEXT>
+<NOTES>(Adds comments from witnesses, details; also moved to businessnews desks)</NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  A Chinese rocket carrying a telecommunications satellite exploded in an orange fireball and crashed to earth Thursday, dealing a heavy blow to the space ambitions of China and major global broadcasters. </P>
+<P> ``About 45 seconds after a smooth and orderly liftoff, there was an explosion, apparently during the separation of boosters,'' a Western television executive said by telephone from China's Xichang space center after witnessing the accident. </P>
+<P> ``There was a series of crackles and bangs. It was very spectacular. There was a big orange fireball in the sky. The main rocket dropped behind a mountain and exploded,'' he said. ``The satellite crashed into another mountain.'' </P>
+<P> China's Apstar 2, built by Hughes Aircraft, would have provided television, telephone and digital communications to a vast swath of Asia, Eastern Europe, North Africa and Australia. </P>
+<P> Witnesses said it appeared that the Chinese-designed Long March 2E rocket itself exploded, not the orbiter. </P>
+<P> ``It was not far away in the sky. We could feel the heat and people became nervous that it might fall on us,'' the executive said from Sichuan province in the southwest. </P>
+<P> The launch was broadcast live on Chinese television, but the signal was cut off before the explosion with no explanation, giving viewers the false impression of a successful launch. </P>
+<P> A hundred foreign executives were present to witness the launch of Apstar, which they hoped would revolutionize Asia's potentially huge television market with its advanced digital, compression and encryption technology. </P>
+<P> Executives of lead re-insurer the Crawley Warren Group of London were present. </P>
+<P> Owner APT Satellite, controlled by the Chinese government, had insured Apstar 2 for $160 million with Shanghai's Pacific Insurance, a record for a Chinese orbiter. </P>
+<P> Pacific Insurance had no immediate comment. </P>
+<P> Hughes spokeswoman Fran Slimmer said from California that a thorough investigation would be undertaken but would not comment on the cause of the explosion. </P>
+<P> ``It's way too early to say anything,'' she said. </P>
+<P> Broadcasters with Apstar 2 contracts were disappointed. </P>
+<P> ``This is obviously a huge setback for all of us,'' said an executive in Beijing from a major American client. </P>
+<P> ``This would have given us a huge television footprint reaching from Cairo to Korea,'' he said. </P>
+<P> Witnesses said they could not believe their eyes. </P>
+<P> ``We were all shocked. The rocket had taken off cleanly and the engines were burning smoothly,'' said the television executive reached by telephone. </P>
+<P> ``This will seriously affect plans for the Long March, which has a series of launches planned. People will reconsider their plans for future launches,'' he added. </P>
+<P> China's official Xinhua news agency said the cause of the blast was not yet unknown. </P>
+<P> The satellite, capable of carrying more than 100 television digitally compressed channels, would have enabled broadcasters to reach two-thirds of the world's population with cable-ready programming tailored to the cultural needs and political sensitivities of each country. </P>
+<P> Analysts say that such country-specific programming is essential to cracking the Asian market, whose 3 billion people speak scores of languages. </P>
+<P> The clients of the satellite included Turner Broadcasting, sports channel ESPN, Home Box Office, Discovery Channel, Hong Kong's Television Broadcasts and Reuters Television. </P>
+<P> This was the second recent failure for China's launch program. Last month it lost the promising East-Is-Red 3 orbiter, designed and built in China, soon after launch. </P>
+<P> The Apstar 2 was the largest payload yet launched by the Long March 2E rocket, a redesigned ballistic missile that China hopes will attract a large slice of the lucrative world launch market. </P>
+<P> Standing 164 feet tall, the rocket had a liftoff mass of 460 tons and was designed to send a payload of 9.2 tons into orbit, Xinhua said. </P>
+</TEXT>
+</DOC>

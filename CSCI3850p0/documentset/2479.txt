@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU004-0200.941108</DOCID>
+<TDTID>TDT006224</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/08/94 15:21</DATE>
+<TITLE> Masked assailants attack McDonalds in Mexico</TITLE>
+<HEADLINE> Masked assailants attack McDonalds in Mexico</HEADLINE>
+<SUBJECT> BC-MEXICO-MCDONALDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Dozens of masked men attacked a branch of the McDonalds fast food chain in Mexico City Tuesday in protest against a proposal in California to cut social benefits for illegal Mexican immigrants and their families. </P>
+<P> Between 30 and 40 assailants broke windows, threw cash registers to the floor, overturned waste baskets and scrawled anti-U.S. grafitti inside the restaurant in the fashionable Zona Rosa area of the capital, McDonalds marketing manager Manuel Juarez said. </P>
+</TEXT>
+</DOC>

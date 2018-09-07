@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU001-0307.941002</DOCID>
+<TDTID>TDT004358</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/02/94 22:57</DATE>
+<TITLE> Reports find widespread abuse in farm aid payments</TITLE>
+<HEADLINE> Reports find widespread abuse in farm aid payments</HEADLINE>
+<SUBJECT> BC-USA-FARMFRAUD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Federal investigators have found far-reaching fraud and mismanagement in the U.S. Agriculture Department aid program that provides billions of dollars to farmers who suffer crop losses in disasters like the Midwest floods of 1993, the New York Times said. </P>
+<P> The Times, citing reports by the Agriculture Department and U.S. Senate investigators, said many farmers have collected excessive payments by inflating crop losses, misstating the acreage they planted, or failing to harvest crops when market prices fell below the amount paid in disaster assistance. </P>
+<P> In its Monday edition, the paper said the inquiry by the Senate Agriculture Committee was limited to just eight crops in nine states. Still, the story said, probers found $92.5 million in questionable payments from 1988 to 1993. </P>
+<P> A draft of an unreleased committee report prepared in August and obtained by the Times said $80 million of the total represented excess payments that appeared to be unrelated to disasters, the article said. </P>
+<P> In one example, the owners of a farm received $200,000 in federal money for crop losses resulting from last year's Midwest floods although three weeks before the damage they had paid only $138,000 for the property, including land, a house and equipment. </P>
+<P> The head of the aid program, Grant Buntrock, told the Times that he and other department officials were aware of serious problems with the program and were trying to clean them up. </P>
+<P> He estimated that total potential overpayments in 1992 and 1993 nationwide were $200 million to $300 million, or about eight percent to 16 percent of the $2.4 billion paid out during that period, the article said. </P>
+<P> Buntrock said the problems were not just with the structure of the program, but with individual as well. </P>
+<P> ``Unfortunately, we have identified instances of complicity on the local level in our offices,'' he told The Times. </P>
+<P> A draft of a separate report by the Office of the Inspector General at the Agriculture Department concluded that the agency did not analyze payment data to determine where abuses were occurring and that it did not spot-check programs to find fraud, the article said. </P>
+</TEXT>
+</DOC>

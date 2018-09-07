@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU013-0172.941231</DOCID>
+<TDTID>TDT008709</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 12:01</DATE>
+<TITLE> Egypt ends violent year with execution, murder</TITLE>
+<HEADLINE> Egypt ends violent year with execution, murder</HEADLINE>
+<SUBJECT> BC-EGYPT-YEAR </SUBJECT>
+<AUTHOR>     By Mona Eltahawy </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO, Egypt (Reuter) </DATELINE>
+<P>  The execution of a Muslim militant who plotted to kill President Hosni Mubarak and the murder of a militant's father in southern Egypt brought to a bloody end another year in which the government tried in vain to crush the armed fundamentalist movement. </P>
+<P> Hamada Mohammed Lotfi was hanged in a Cairo prison Saturday for planting explosives at a military airbase near the Libyan border in the hope of assassinating Mubarak. </P>
+<P> The execution brought to 43 the number of militants executed in Egypt since they launched their campaign of violence in 1992. Human rights groups have condemned the executions as summary and have denounced Egyptian courts for sentencing to death 60 militants in the past two years. </P>
+<P> One militant is on death row and 16 are on the run. </P>
+<P> In the southern province of Minya Saturday, three gunmen shot dead a farmer whose son they believe killed a member of their family last month. </P>
+<P> The son is believed to be a member of Egypt's largest militant group, the Gama'a al-Islamiya (Islamic Group). </P>
+<P> Forty-six people have been killed in political violence in December alone, raising the death toll to 557 since 1992. </P>
+<P> This year started with Mubarak adamantly refusing to enter into a dialogue with the militants while his police force staged crackdowns against militant hideouts and a military court tried a group of militants for a failed assassination attempt against Prime Minister Atef Sedki. </P>
+<P> Twelve months later another military court is trying suspected members of a militant group accused of stabbing the country's Nobel Laureate author Naguib Mahfouz. </P>
+<P> Although police crackdowns and the death of the leader of the military wing of the Gama'a in a shootout with police may have wiped out militant violence in the capital, business goes on as usual in southern Egypt. </P>
+<P> The year ends with some Western embassies upgrading security advisories to citizens who plan to visit Egypt. </P>
+<P> Militants continued to attack tourists in 1994 as a way to embarrass the government and to scare off foreign visitors, whose money is vital to Egypt's once-thriving tourism industry. </P>
+<P> Five tourists were killed in militant attacks this year, all but one of which took place in the south. Militants struck an ominous note in September when they opened fire in a crowded marketplace in the Red Sea resort of Hurghada, killing two Germans and an Egyptian. </P>
+</TEXT>
+</DOC>

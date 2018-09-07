@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU005-0107.950309</DOCID>
+<TDTID>TDT011127</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 16:31</DATE>
+<TITLE> Computer models explain brain's short term memory</TITLE>
+<HEADLINE> Computer models explain brain's short term memory</HEADLINE>
+<SUBJECT> BC-SCIENCE-MEMORY (EMBARGOED) </SUBJECT>
+<AUTHOR>     By Joanne Kenen </AUTHOR>
+<TEXT>
+<NOTES> Release at 6 p.m. EST</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Research using computer models has revealed how the brain manages up to seven separate short term memories at a time, scientists said Thursday. </P>
+<P> ``People like to think of the brain as processing a multitide of information simultaneously along parallel channels, but it now appears that short term memories are stored via a serial process,'' said Brandeis University biologist John Lisman. </P>
+<P> In research appearing Friday in the journal Science, Lisman and his colleagues studied brain waves and computer models of short term memory -- memory that lasts about 20 seconds. </P>
+<P> Scientists have long known that short term memory requires nerve cells to be fired continually in the brain. But experts had thought that neurons kept signalling to other neurons to keep the cells firing. This might involve several different spots in the brain. </P>
+<P> Lisman found that the data is all in one place, with one sub-section activated at a time. He likened it to timesharing a file folder. </P>
+<P> For instance, if the data is a seven-digit phone number, the neurons would fire and the first digit would go into the ''folder'' for perhaps 30 milliseconds. </P>
+<P> That digit would then undergo ``afterdepolarization,'' a biochemical process that basically serves as a holding area for the bit of memory. It would move out of the ``file folder'' and make way for the second digit in the phone number. </P>
+<P> ``ADP can kind of hold the short-term memory until all the others are processed,'' Lisman said in a telephone interview. </P>
+<P> The whole process would be repeated over and over again, for the lifespan of the short-term memory. </P>
+<P> ``Short term lasts about 20 seconds. If you tried to remember something, and were not allowed to rehearse it or repeat it over and over in your mind ... you'll forget in about 20 seconds,'' Lisman said. </P>
+<P> Lisman said the brain waves linked to memory are divided into high and low frequency oscillations. </P>
+<P> The high frequency ones carved up the low ones into seven sub-groups, which keep the short-term memory neurons firing repeatedly. </P>
+<P> ``The oscillations help organize this time share process,'' he said.'' </P>
+<P> The seven subgroups may suggest why people can remember data grouped in sevens -- like a phone number -- fairly easily, he said. There is some variation from one person to another, however. </P>
+<P> The discovery opens new avenues for memory researchers, and expands opportunity for neuroscientists and psychologists to coordinate. </P>
+<P> ``Memory research is unique because it stimulates everyone's curiousity and beause it is still so mysterious,'' Lisman said. ``The field of memory is still a great unknown.'' </P>
+</TEXT>
+</DOC>

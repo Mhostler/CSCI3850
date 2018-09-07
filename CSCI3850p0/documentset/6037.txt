@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU015-0412.950425</DOCID>
+<TDTID>TDT013045</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/25/95 14:07</DATE>
+<TITLE> Catastrophic forest fire raging in China's west</TITLE>
+<HEADLINE> Catastrophic forest fire raging in China's west</HEADLINE>
+<SUBJECT> BC-CHINA-BLAZE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  Thousands of people are fighting a ``catastrophic'' forest fire in China's southwestern Yunnan province, the China News Service reported Tuesday. </P>
+<P> More than 4,000 local garrisons, forest policemen and local residents were trying to put out the blaze, which broke out April 17 in Anning County, the agency said. </P>
+<P> The southern perimeter of the fire had been ``basically extinguished,'' it said. It was not immediately known if there were any casualties. </P>
+<P> Forest fires last year destroyed 80,000 acres of Chinese woodland and killed 25 people, according to official figures. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU006-0212.941012</DOCID>
+<TDTID>TDT004904</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/12/94 12:55</DATE>
+<TITLE> Bangladeshi economist wins world food prize</TITLE>
+<HEADLINE> Bangladeshi economist wins world food prize</HEADLINE>
+<SUBJECT> BC-PRIZE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A U.S. foundation Wednesday awarded the 1994 World Food Prize to Bangladeshi economist Muhammad Yunus, who set up a bank to give $100 loans to the very poor. </P>
+<P> ``By giving poor people the power to help themselves, Dr Yunus has offered them something far more valuable than a plate of food,'' said former U.S. President Jimmy Carter. </P>
+<P> ``Dr Yunus has given hope to a nation where hope has been in desperately short supply,'' Carter, a World Food Prize Foundation adviser, said in a prepared text. </P>
+<P> Yunus' bank reaches 2 million families and half of Bangladesh's 68,000 poverty stricken villages through its loans. </P>
+<P> ``I look at the prize ... as a thunderous endorsement of what we can all achieve -- the creation of a poverty-free world in our lifetime,'' Yunus said in an acceptance speech in Washington. </P>
+<P> The average loan is less than $100, usually all it takes to help raise earning capacities, and 94 percent of loans are made to women, who Yunus says are more effective borrowers. </P>
+<P> The bank gives money for any project that would raise a family's earning capacity, not just for agriculture projects, and Yunus is the first economist to win the World Food Prize. </P>
+<P> Past winners include researchers who have developed high-yielding or famine-resistant crops, as well as former Chinese Agriculture Minister He Kang, under whom China became self sufficient in basic food. </P>
+<P> The $200,000 annual award is funded by Iowa businessman John Ruan, who wants it to be regarded as a kind of Nobel Prize for Food. </P>
+<P> Its 11-member council of advisers includes 1970 Nobel Peace laureate Norman Borlaug and former World Bank President Robert McNamara. </P>
+<P> In an interview with Reuters this week, Yunus said his Grameen Bank aims to help the worst off of Bangladesh's 120 million population, half of whom live below the official poverty line. </P>
+</TEXT>
+</DOC>

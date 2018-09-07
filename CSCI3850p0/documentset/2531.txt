@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0299.941110</DOCID>
+<TDTID>TDT006339</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/10/94 15:37</DATE>
+<TITLE> Two Haitians killed in U.S. embassy vehicle</TITLE>
+<HEADLINE> Two Haitians killed in U.S. embassy vehicle</HEADLINE>
+<SUBJECT> BC-HAITI-DEATHS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORT-AU-PRINCE (Reuter) </DATELINE>
+<P>  Two Haitians were killed and another was severely injured when the American embassy car they were travelling in was hijacked, a presidential spokesman said Thursday. </P>
+<P> ``President (Jean-Bertrand) Aristide communicated to Ambassador William Swing his shock and grief and sent his condolences to the families of the victims,'' spokesman Yvon Neptune said. </P>
+</TEXT>
+</DOC>

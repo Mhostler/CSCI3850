@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0206.941201</DOCID>
+<TDTID>TDT007330</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/01/94 20:52</DATE>
+<TITLE> Ousted Haitian military official gets overseas post</TITLE>
+<HEADLINE> Ousted Haitian military official gets overseas post</HEADLINE>
+<SUBJECT> BC-HAITI-ARMY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORT-AU-PRINCE, Haiti (Reuter) </DATELINE>
+<P>  The former interim head of the Haitian armed forces has been appointed military attache to Brazil, a local radio station, citing unnamed army sources, said Thursday. </P>
+<P> Radio Metropole said Jean-Claude Duperval, the general replaced as commander-in-chief two weeks ago, would be joined in South America by other top officers. </P>
+<P> Brig. Gen. Max Mayard was named military attache in Ecuador, Col. Marc Valmond was appointed to Colombia and navy commander Col. Charles Andre was sent to Belgium, Metropole said. </P>
+<P> Duperval and Mayard served as generals under Lt. Gen. Raoul Cedras, the man who led the 1991 coup that toppled President Jean-Bertrand Aristide, while Andre was Cedras's spokesman. </P>
+<P> All the senior officers who led the country during three years of military rule have either fled into exile or been transferred outside Haiti. </P>
+</TEXT>
+</DOC>

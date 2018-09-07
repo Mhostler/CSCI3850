@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU014-0042.940928</DOCID>
+<TDTID>TDT004124</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/28/94 15:12</DATE>
+<TITLE> More ferry survivors found</TITLE>
+<HEADLINE> More ferry survivors found</HEADLINE>
+<SUBJECT> BC-FINLAND-FERRY-MISSING 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: updates survivors found, new total of missing)</NOTES>
+<DATELINE>TURKU, Finland (Reuter) </DATELINE>
+<P>  Rescue workers said 781 people were still missing in the Baltic Sea after the sinking of the ferry Estonia in a storm Wednesday. </P>
+<P> A Turku police officer said a total of 141 survivors had been found, updating the previous tally of 126. The number of known dead was unchanged at 42, he said, leaving 781 passengers and crew unaccounted for. </P>
+<P> ``All the boats are counted now,'' Matti Pippola told Reuters by telephone from the rescue control center. He said the increase in the total came when other ferries that had picked up survivors reached their destinations and reported in. </P>
+<P> The survivors will all be transferred to hospitals in Finland or Sweden, he added. </P>
+</TEXT>
+</DOC>

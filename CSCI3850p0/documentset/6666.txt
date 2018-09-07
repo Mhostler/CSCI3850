@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0395.950518</DOCID>
+<TDTID>TDT013961</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/18/95 16:13</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CONGRESS-BUDGET -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The bill passed by a vote of 238-193, with 8 Democrats voting yes and one Republican, Michael Flanagan of Illinois, voting no. The bill would cut the rate of growth of Medicare and Medicaid, eliminate three federal departments and hundreds of programs and provide a $353 billion tax cut for individuals and corporations. </P>
+<P> Democrats said Republicans were cutting programs for working Americans to finance a tax break that mainly benefited the wealthy. Republicans criticized President Clinton for not offering his own plan to balance the budget. </P>
+<P> Also Thursday, the Senate opened debate on its version of the budget resolution that cuts the deficit by about $1 trillion but does not include a tax cut. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU010-0298.950320</DOCID>
+<TDTID>TDT011493</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/20/95 20:55</DATE>
+<TITLE> First Union to roll out smart card</TITLE>
+<HEADLINE> First Union to roll out smart card</HEADLINE>
+<SUBJECT> BC-CARDS </SUBJECT>
+<AUTHOR>     By Lorrie Grant </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHARLOTTE, N.C. (Reuter) </DATELINE>
+<P>  Forget digging money out of your pocket at hectic moments. Whip out a ``smart card'' instead. </P>
+<P> First Union Corp, the nation's ninth largest bank, announced Monday it would issue 1 million ``smart cards'' for use in Atlanta by mid-1996 for the Olympic Games and in other U.S. cities by 1997. </P>
+<P> Smart cards look like credit cards but have microchips that store their cash value. They could replace bills and coins for transactions at vending machines or on buses. </P>
+<P> The Charlotte-based bank is working with BellSouth, Diebold and Schlumberger to launch the initiative, said Fred Winkler, head of First Union's card products division. </P>
+<P> The launch will include both disposable and rechargeable cards, to be manufactured by Schlumberger, a leading manufacturer of secured electronic transaction products. </P>
+<P> Schlumberger has been working out the kinks on smart card systems in Europe for about a decade. </P>
+<P> The disposable cards, issued in denominations of $25, $50 and $100, are expected to be popular with travelers or consumers who do not have an account, said Winkler. </P>
+<P> A personal identification number will not be needed, so if a card is lost the finder can spend the remaining funds. </P>
+<P> The rechargeable cards will be linked to bank accounts and allow holders to reload cash value. These cards will have anti-theft codes, said Winkler. </P>
+<P> First Union expects more than 5,000 Atlanta locations to accept the product by mid-1996, at the time of the Olympics. It hopes to expand the card to other U.S. cities near Virginia and Florida by 1997. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU007-0076.940713</DOCID>
+<TDTID>TDT000493</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/13/94 14:35</DATE>
+<TITLE> SCIENTISTS FIND NEW BACTERIA TO EAT POLLUTION</TITLE>
+<HEADLINE> SCIENTISTS FIND NEW BACTERIA TO EAT POLLUTION</HEADLINE>
+<SUBJECT> BC-ENVIRONMENT-BACTERIA (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> Release at 8 p.m. EDT</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  American scientists say they have found a new way to help bacteria eat dangerous pollutants like benzene -- by feeding them chemicals used in laundry detergents. </P>
+<P> Bacteria are now widely used to eat oil spills and other pollution threats, but researchers have been unable to find any that will effectively eat the highly carcinogenic solvent benzene and related chemicals like toluene. </P>
+<P> Now they have found a compound widely used as a substitute for phosphates in soap powders helps the bacteria break down the pollutants quickly. </P>
+<P> In a report in the science journal Nature, to be published Thursday, Derek Lovley and colleagues at the U.S. Geological Survey said they had been trying to find ways to use bacteria that can work without oxygen, because it is hard to pump enough oxygen into a polluted site to make aerobic (oxygen-using) bacteria work. </P>
+<P> ``They are called iron-reducing bacteria,'' Lovley said. ``What they do is they use iron the way some other organisms use oxygen.'' </P>
+<P> Lovley found that nitrilotriacetic acid (NTA), used in soap powders, and a common food additive known as EDTA both helped the bacteria use iron compounds naturally present in soil. This allows the bacteria to go on and break down the pollutant. </P>
+<P> ``They are breathing the iron and eating the benzene,'' Lovley said in a telephone interview. ``They can't eat the benzene unless they've got something to breathe.'' </P>
+<P> Lovley said the process is fairly natural. ``They are naturally present there and naturally degrading the contaminants, but not at a very fast rate,'' he said. </P>
+<P> Without the accelerant, benzene would never completely disappear from soil and groundwater, he added. </P>
+</TEXT>
+</DOC>

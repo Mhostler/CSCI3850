@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0363.941104</DOCID>
+<TDTID>TDT006057</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/04/94 12:42</DATE>
+<TITLE> Guatemala City paralyzed by bus dispute</TITLE>
+<HEADLINE> Guatemala City paralyzed by bus dispute</HEADLINE>
+<SUBJECT> BC-GUATEMALA-TRANSPORT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GUATEMALA CITY (Reuter) </DATELINE>
+<P>  Public transport was paralyzed in Guatemala City Friday after bus companies withdrew services following 48 hours of violence in which more than 20 buses were destroyed. </P>
+<P> Streams of Guatemalans walked through the streets of the city to reach work. Others resorted to bicycles or piled into the back of packed trucks, but many were stranded at home. </P>
+<P> Furious Guatemalans, mostly students from the capital's San Carlos University, attacked buses with homemade gasoline bombs, after bus companies announced a surprise 50 percent fare hike Wednesday. </P>
+<P> Guatemala City's Mayor, Oscar Berger, said Friday that he would cancel contracts with bus companies which illegally increased fares from the equivalent of 11 cents to 17 cents. </P>
+<P> Bus companies say fares are so low that it is impossible to make a profit. </P>
+</TEXT>
+</DOC>

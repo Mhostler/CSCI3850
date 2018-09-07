@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU010-0280.950515</DOCID>
+<TDTID>TDT013846</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/15/95 21:29</DATE>
+<TITLE> Philippine ferry sinks, 23 dead, over 100 missing</TITLE>
+<HEADLINE> Philippine ferry sinks, 23 dead, over 100 missing</HEADLINE>
+<SUBJECT> BC-PHILIPPINES-SHIP 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANILA, May 16 (Reuter) </DATELINE>
+<P>  At least 23 people were killed and more than 100 were feared missing on Tuesday after fire broke out aboard a Philippine ferry, police said. </P>
+<P> The coastguard said 108 people were rescued, many of them injured. Police said they believed the ferry was carrying some 300 passengers and crew, but this could not be immediately confirmed. </P>
+<P> The ferry sank around 7.30 a.m. (2330 GMT Monday), five hours after the fire started. </P>
+<P> ``Search and rescue operations are ongoing and hopefully we can still recover some survivors,'' Major Romulo Bambao, police operations officer, told Reuters. </P>
+<P> Two police helicopters, police and coastguard vessels along with local fishermen were taking part in the rescue. </P>
+<P> The fire broke out in the early hours as the Viva Antipolo was sailing from the island of Marinduque to the port of Lucena, 110 km (70 miles) south of Manila. </P>
+<P> Survivors said there was a loud explosion, apparently in the engine room, and the fire spread swiftly, Bambao said. </P>
+<P> Accidents at sea are frequent in the Philippines, a nation of more than 7,000 islands. More than 140 people died last December when a ferry sank at the mouth of Manila Bay after a collision with a tanker. </P>
+</TEXT>
+</DOC>

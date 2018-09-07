@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU009-0283.950415</DOCID>
+<TDTID>TDT012598</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/15/95 16:07</DATE>
+<TITLE> Pope heralds Easter with light of pascal candle</TITLE>
+<HEADLINE> Pope heralds Easter with light of pascal candle</HEADLINE>
+<SUBJECT> BC-POPE-EASTER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VATICAN CITY (Reuter) </DATELINE>
+<P>  Pope John Paul led some 10,000 Roman Catholics Saturday in an Easter service at St. Peter's Basilica to mark Christ's resurrection from the dead. </P>
+<P> The 74-year-old Pontiff, wearing gold and white robes signifying joy, began the ceremony by engraving the year 1995 and the first and last letters of the Greek alphabet -- Alpha and Omega -- on a large white paschal candle. </P>
+<P> He then carried the candle through the basilica, which was lit only by thousands of candles held by the congregation. </P>
+<P> At the point in the service commemorating Christ's resurrection, the basilica's lights were flicked on to symbolize the light of the risen Christ bringing hope and salvation to humanity. </P>
+<P> During the mass, the Pope baptized new converts to Roman Catholicism from Albania, China, Indonesia, South Korea and the United States. </P>
+<P> The Vigil service marked the transition from Lent, the 40-day period of abstemious living prior to Easter, to the joyous celebration of Christ's triumph over death and suffering. </P>
+<P> Hundreds of thousands of worshippers are expected to throng St Peter's Square on Easter Sunday to hear the Pope's twice-yearly ``Urbi et Orbi'' (To the City and the World) blessing and message from the central balcony of the basilica. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU010-0375.940822</DOCID>
+<TDTID>TDT002317</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/22/94 18:26</DATE>
+<TITLE> REPORT BLAMES BLUNDERS FOR DEATH OF 14 FIREFIGHTERS</TITLE>
+<HEADLINE> REPORT BLAMES BLUNDERS FOR DEATH OF 14 FIREFIGHTERS</HEADLINE>
+<SUBJECT> BC-USA-WILDFIRES-REPORT 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds details)</NOTES>
+<DATELINE>DENVER (Reuter) </DATELINE>
+<P>  Fourteen firefighters died in a raging Colorado wildfire because of a series of blunders and errors in judgment that compromised standard firefighting procedures, a government study released Monday said. </P>
+<P> The behavior of the fire July 6 near Glenwood Springs, Colorado, could have been predicted on the basis of fuels, weather and the steep terrain, but fire behavior information was not requested nor provided by anyone involved in the firefighting, according to the report's authors. </P>
+<P> The study, begun hours after the fire, was conducted by the Bureau of Land Management (BLM) and the U.S. Department of Agriculture's Forest Service. </P>
+<P> The firefighters were killed when winds suddenly whipped a small fire on Storm King Mountain into a huge inferno, trapping them in a wall of flame on a mountain ridge covered with thick brush. </P>
+<P> The official report said that the escape route from the fire was too long and too steep and that numerous standard firefighting orders were compromised. Also, out-of-state crew members were not briefed on local conditions or fire weather forecasts. </P>
+<P> ``The can-do attitude of supervisors and firefighters led to a compromising of Standard Firefighting Orders and a lack of recognition of the 18 watch-out situations,'' the report stated, referring to situations which require special care. </P>
+<P> The report and government officials who spoke at a press conference were careful not to blame any individuals. </P>
+<P> In fact, the conclusion of the report states ``no one person or unit recognized the interaction of all factors on the incident that resulted in the entrapments.'' </P>
+<P> The report also stated that entrapment was the primary cause of death of the firefighters. </P>
+</TEXT>
+</DOC>

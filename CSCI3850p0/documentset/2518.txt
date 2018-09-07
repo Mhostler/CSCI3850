@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0151.941109</DOCID>
+<TDTID>TDT006314</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/09/94 22:51</DATE>
+<TITLE> OAS sets 1995 security conference in Chile</TITLE>
+<HEADLINE> OAS sets 1995 security conference in Chile</HEADLINE>
+<SUBJECT> BC-OAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Organization of American States said Wednesday it will hold a third regional conference in June of 1995 in Chile. </P>
+<P> The session on confidence and security-building measures will follow the 25th meeting of its General Assembly in Haiti. </P>
+<P> ``The new international and regional situation and... the widespread democratization of the hemisphere afford an opportunity to deepen dialogue on hemispheric security and cooperation,'' Argentina's Ambassador Hernan Patino Mayer said in recommending the conference. </P>
+<P> Mayer said the conference would also focus on finding increased funding for the economic and social development of the region. </P>
+<P> The first two regional security conferences were held in Washington and Buenos Aires. </P>
+</TEXT>
+</DOC>

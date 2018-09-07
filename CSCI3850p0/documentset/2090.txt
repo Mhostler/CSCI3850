@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0085.941018</DOCID>
+<TDTID>TDT005220</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 11:35</DATE>
+<TITLE> Twenty-three dead in shootings in Rio -TV report</TITLE>
+<HEADLINE> Twenty-three dead in shootings in Rio -TV report</HEADLINE>
+<SUBJECT> BC-BRAZIL-DEATHS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RIO DE JANEIRO, Brazil (Reuter) </DATELINE>
+<P>  Eleven suspected drug traffickers were killed in shootouts with police in two Rio shanty-towns, Brazilian television reported Tuesday. </P>
+<P> A further 12 deaths were reported in other incidents across the city, Globo said. </P>
+<P> Police invaded the shanty-towns of Nova Brasilia and Caixa d'Agua early Tuesday to arrest suspected drug dealers thought to be in the area and were met with gunfire, Globo said. </P>
+<P> It added that 11 suspected drug traffickers were killed by police when they returned the fire and that four stolen cars, weapons and cocaine were recovered by police. </P>
+</TEXT>
+</DOC>

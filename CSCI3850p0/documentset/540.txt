@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0219.940802</DOCID>
+<TDTID>TDT001343</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/02/94 03:53</DATE>
+<TITLE> ETA CLAIMS RESPONSIBILITY FOR MADRID CAR BOMB</TITLE>
+<HEADLINE> ETA CLAIMS RESPONSIBILITY FOR MADRID CAR BOMB</HEADLINE>
+<SUBJECT> BC-SPAIN-ETA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MADRID, Spain (Reuter) </DATELINE>
+<P>  The Basque separatist guerrilla group ETA said Tuesday it was responsible for a car bomb which killed a top-ranking army general, his driver and a civilian in the heart of Madrid last Friday. </P>
+<P> In a statement published in the radical Basque paper Egin, ETA also said it killed Jose Manuel Olarte, shot as he sat playing cards in a restaurant in San Sebastian last Wednesday. </P>
+<P> ETA accused Olarte of being a drug dealer and an informer. </P>
+<P> General Francisco Veguillas, director-general of defense policy, was killed when a car bomb exploded as his armor-plated vehicle was passing through a small square in Madrid. Fourteen people were injured in the rush-hour blast. </P>
+<P> ETA (Basque Homeland and Freedom) have killed around 800 people in their 25-year armed campaign for an independent Basque homeland. </P>
+</TEXT>
+</DOC>

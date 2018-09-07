@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU008-0285.940917</DOCID>
+<TDTID>TDT003551</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/17/94 06:58</DATE>
+<TITLE> Kurdish rebels kill teacher, three soldiers</TITLE>
+<HEADLINE> Kurdish rebels kill teacher, three soldiers</HEADLINE>
+<SUBJECT> BC-TURKEY-KURDS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: changes death toll, adds official comment)</NOTES>
+<DATELINE>TUNCELI, Turkey (Reuter) </DATELINE>
+<P>  Kurdish guerrillas, fighting for a separate state in southeast Turkey, attacked a military bus Saturday and shot dead a teacher and three soldiers near the town of Tunceli, its mayor said. </P>
+<P> Officials earlier said two teachers were killed but Tunceli mayor Mazlum Arslan said one of the teachers was seriously wounded but not dead. </P>
+<P> Two other teachers and eight soldiers were also seriously injured and officials feared the death toll could rise. </P>
+<P> The bus, travelling from Tunceli to Nazimiye district, was carrying teachers and soldiers to their work. </P>
+<P> It was the second attack this week by Kurdistan Workers Party (PKK) guerrillas on teachers newly appointed to provinces in the south-east. On Monday PKK rebels killed six teachers of a village primary school hours before they were to begin classes on the first day of the new school year. </P>
+<P> Arslan said most schools in Tunceli were open but some in the rural areas would open after next week due to the late arrival of teachers appointed to the area. </P>
+<P> ``The government must increase security in the schools and protect the teachers. Schools are Tunceli's biggest source of income,'' Arslan told Reuters by telephone. </P>
+<P> Many schools in areas near Diyarbakir town, where PKK fighting is most intense, remain closed. </P>
+<P> More than 12,800 people have died in the 10-year insurrection. </P>
+</TEXT>
+</DOC>

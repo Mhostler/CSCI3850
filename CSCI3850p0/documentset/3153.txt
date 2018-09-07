@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0002.941212</DOCID>
+<TDTID>TDT007801</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/12/94 15:54</DATE>
+<TITLE> Orange County schools threatened as debacle unfolds</TITLE>
+<HEADLINE> Orange County schools threatened as debacle unfolds</HEADLINE>
+<SUBJECT> BC-BANKRUPCY-SCHOOLS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SANTA ANA, Calif.(Reuter) </DATELINE>
+<P>  California's bankrupt Orange County warned Monday that its school districts may not be able to meet payrolls as investment advisers tried to repair the government's tattered finances. </P>
+<P> Acting County Treasurer Tom Hayes was working with adviser Salomon Bros. to unwind the bad investments, which created at least a $1.5 billion loss for the county's investment fund. </P>
+<P> ``Tom Hayes and Salomon Brothers are at a point where they will be able to indicate the floor with regard to the investment pool imminently,'' Orange County Supervisor William Steiner said. </P>
+<P> Hayes has been trying to limit the county's losses in the investment pool, which arose from bad bets on interest rates. Recovering the losses is crucial because many county agencies depend on the money to meet their basic financial needs. </P>
+<P> The county Department of Education, which oversees about 411,000 students, has warned that it cannot guarantee that employees will receive a paycheck a week after Christmas. </P>
+<P> Three school districts, representing about 74,000 students in the county, said they would run out of money by March unless they can access their money in the fund. </P>
+</TEXT>
+</DOC>

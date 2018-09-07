@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU007-0403.950412</DOCID>
+<TDTID>TDT012472</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/12/95 10:48</DATE>
+<TITLE> Nicotine patches not effective for colitus</TITLE>
+<HEADLINE> Nicotine patches not effective for colitus</HEADLINE>
+<SUBJECT> BC-HEALTH-NICOTINE (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> Release at 6 p.m. EDT</NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  Nicotine patches used to help smokers kick their habit do not prevent the reappearance of ulcerative colitis, according to a study of 80 volunteers to be published in Thursday's New England Journal of Medicine. </P>
+<P> A group led by Gareth Thomas of the University Hospital of Wales in Cardiff has already documented that the patches seem to help people whose colitis is active and the colon is trying to fight off the effects of the severe inflammation. </P>
+<P> But the latest study was an attempt to see if nicotine can help keep colitis at bay once it has gone into remission. It was prompted by the fact that smokers are less likely to develop colitis and by reports from intermittent smokers that they appear to get relief when they are smoking. </P>
+<P> To discover whether the patches helped prevent a reappearance of colitis, Thomas and his colleagues gave half the volunteers in the study group nicotine patches. The rest got placebo patches for six months. </P>
+<P> They discovered that after the patients stopped taking their regular medicines for colitis, the patches made no difference. </P>
+<P> ``Transdermal nicotine alone was no better than a placebo in maintaining remission of ulcerative colitis, and early withdrawal due to side effects was more common in the nicotine group,'' the researchers said. </P>
+<P> They said it is still possible that higher doses of nicotine, or use of the patches in combination with the standard drug mesalamine, might be effective, but those tests have not been performed. </P>
+</TEXT>
+</DOC>

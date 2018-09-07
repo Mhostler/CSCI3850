@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0186.941208</DOCID>
+<TDTID>TDT007623</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 14:16</DATE>
+<TITLE> Darryl Strawberry indicted for evading taxes</TITLE>
+<HEADLINE> Darryl Strawberry indicted for evading taxes</HEADLINE>
+<SUBJECT> BC-STRAWBERRY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK, Dec. 8 (Reuter) </DATELINE>
+<P>  San Francisco Giants outfielder Darryl Strawberry and his agent, Eric Goldschmidt, were indicted Thursday for conspiracy to evade paying taxes on more than $500,000 of Strawberry's promotional income, federal prosecutors said. </P>
+<P> Mary Jo White, Manhattan U.S. attorney, said the income was from autograph signing shows, personal appearances and product endorsements. </P>
+<P> The three-count indictment, brought by a federal grand jury in White Plains, New York, alleges that from 1986 through 1990, Strawbery earned about $945,000 in promotional income. </P>
+<P> However he only reported about $442,000 of that income on his tax returns, thereby evading about $146,000 in taxes. </P>
+<P> If convicted, the men each face a possible maximum penalty of five years in prison and a $250,000 fine or twice the gross loss of the government, whichever is greater, and the cost of prosecution on each of the three counts. </P>
+</TEXT>
+</DOC>

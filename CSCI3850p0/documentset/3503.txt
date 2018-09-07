@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0137.941231</DOCID>
+<TDTID>TDT008703</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 05:43</DATE>
+<TITLE> Egypt executes Moslem militant</TITLE>
+<HEADLINE> Egypt executes Moslem militant</HEADLINE>
+<SUBJECT> BC-EGYPT-EXECUTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO, Egypt (Reuter) </DATELINE>
+<P>  Egypt Saturday executed a Muslim militant for belonging to an anti-government organization, security sources said. </P>
+<P> They said Sherif Mohammed Hassan was hanged in a Cairo prison early Saturday. He was sentenced to death by an Alexandria court, the sources said. </P>
+</TEXT>
+</DOC>

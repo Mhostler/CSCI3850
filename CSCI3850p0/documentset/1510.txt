@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU010-0148.940920</DOCID>
+<TDTID>TDT003748</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/20/94 17:28</DATE>
+<TITLE> House panel passes safe drinking water bill</TITLE>
+<HEADLINE> House panel passes safe drinking water bill</HEADLINE>
+<SUBJECT> BC-USA-WATER </SUBJECT>
+<AUTHOR>     By Vicki Allen </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A House panel Tuesday approved a bill to help local water systems provide safe drinking water. </P>
+<P> A portion of the measure calls on the Environmental Protection Agency (EPA) to set a new standard for cryptosporidium, the currently unregulated contaminant responsible for sickening thousands in Milwaukee last year. </P>
+<P> The action by the House Energy and Commerce Committee raises hopes Congress will act on drinking water legislation in the few remaining days of the session. </P>
+<P> The energy panel, voting after months of deadlock, approved the compromise bill 43-1. </P>
+<P> Their vote came a few hours after a subcommittee sent it the bill. The legislation includes a portion backed by water suppliers making it easier for water systems to comply with standards. Another section backed by public interest groups broadens water safeguards. </P>
+<P> The Senate has passed its version of a safe drinking water bill, and committee members said the full House must act swiftly to get the measure enacted this session. </P>
+<P> Environmentalists said the House committee's bill is more acceptable than the Senate's, which they generally opposed. </P>
+<P> While many public interest groups said the Senate bill weakens current safe drinking water law, Carolyn Hartmann of the U.S. Public Interest Research Group said the House committee measure offers improvements. </P>
+<P> ``We're willing to agree to passage of this bill without any weakening amendments,'' Hartmann said. </P>
+<P> She said the bill has a chance of being enacted this session ``if the Senate will approve the House bill.'' </P>
+<P> The House committee's bill offers a revolving fund to help water systems comply with standards, provides more flexible monitoring requirements and gives the EPA more discretion in assessing the costs and benefits in setting standards for some contaminants. </P>
+<P> It also offers small water systems financial and technical help, requires training of water system operators and strengthens the EPA's enforcement measures. </P>
+<P> Standards in the measure for contaminants are to consider people most vulnerable to effects of contamination, such as children, the elderly and those with chronic illnesses. </P>
+<P> The bill also includes measures for dealing with water contamination by radon, a naturally occuring radioactive gas, and new directives for the Food and Drug Administration to issue standards for bottled water. </P>
+<P> House action on the drinking water bill had been stalled for months in a stalemate over a water systems- and industry-backed bill and an environmentalists-backed bill. </P>
+<P> Committee Chairman John Dingell, a Michigan Democrat, said the compromise legislation ``is balanced'' in providing relief to states and water systems and in protecting public health. </P>
+</TEXT>
+</DOC>

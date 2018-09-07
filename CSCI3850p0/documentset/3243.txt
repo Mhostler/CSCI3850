@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0293.941215</DOCID>
+<TDTID>TDT008023</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 17:36</DATE>
+<TITLE> U.S. to announce drug money-laundering case</TITLE>
+<HEADLINE> U.S. to announce drug money-laundering case</HEADLINE>
+<SUBJECT> BC-DRUGS-PROBE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Drug Enforcement Administration said Thursday it plans to announce a long-term, worldwide money-laundering investigation that uncovered ties between the Colombian drug cartel and Italian organized crime groups. </P>
+<P> It said the investigation, called ``Operation Dinero,'' targeted the powerful Cali cocaine cartel in Colombia and its operations in the United States, Canada and Europe. </P>
+<P> The agency said in a news release that the investigation demonstrated direct links between the Cali cartel and the Italian Mafia, ties which have been cited in a number of other cases in recent years. </P>
+<P> As part of the undercover scheme, Drug Enforcement Administration agents, with the assistance of the Internal Revenue Service, established and operated a bank to learn about the money-laundering activities. </P>
+<P> Thomas Constantine, the drug agency's chief, and Internal Revenue Service Commissioner Margaret Richardson have scheduled a news conference Friday to announce details of the investigation. </P>
+</TEXT>
+</DOC>

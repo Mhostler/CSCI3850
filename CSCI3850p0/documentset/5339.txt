@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU016-0367.950330</DOCID>
+<TDTID>TDT011929</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/30/95 15:45</DATE>
+<TITLE> Talbott to visit Russia, Turkey</TITLE>
+<HEADLINE> Talbott to visit Russia, Turkey</HEADLINE>
+<SUBJECT> BC-USA-TALBOTT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The State Department on Thursday announced plans for Deputy Secretary of State Strobe Talbott to visit Russia and Turkey, where government military campaigns are causing increasing tensions with Washington. </P>
+<P> The trip, which begins on April 5, is being made in advance of a May summit in Moscow between President Clinton and Russian President Boris Yeltsin and also a visit to Washington next month by Turkish Prime Minister Tansu Ciller. </P>
+</TEXT>
+</DOC>

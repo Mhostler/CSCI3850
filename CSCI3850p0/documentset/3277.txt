@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0115.941216</DOCID>
+<TDTID>TDT008085</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/16/94 20:22</DATE>
+<TITLE> Family wins $272,000 verdict from psychiatrist</TITLE>
+<HEADLINE> Family wins $272,000 verdict from psychiatrist</HEADLINE>
+<SUBJECT> BC-MALPRACTICE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PITTSBURGH, PA.(Reuter) </DATELINE>
+<P>  A family won a $272,000 verdict Friday because a jury concluded a psychiatrist should have been more skeptical of a daughter's accounts of sexual abuse. </P>
+<P> Dr. Judith Cohen and a University of Pittsburgh clinic that employed her in 1991 were ordered to pay Richard and Cheryl Althaus of Mount Lebanon $213,700 and their daughter, Nicole, now 19, $58,300. </P>
+<P> Police referred Nicole Althaus to Dr Cohen after the teenager's teacher reported her accusations against her parents. </P>
+<P> The girl also said she'd delivered three children that had been killed, that her parents took her to sex parties and she had seen her grandmother flying on a broom, according to testimony. </P>
+<P> The jury found malpractice in Cohen's report to the court that Nicole Althaus suffered from post-traumatic shock syndrome resulting from abuse. </P>
+</TEXT>
+</DOC>

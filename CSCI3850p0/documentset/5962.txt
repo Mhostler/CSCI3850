@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU014-0202.950423</DOCID>
+<TDTID>TDT012922</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/23/95 14:13</DATE>
+<TITLE> Hungarian rail unions call off strike</TITLE>
+<HEADLINE> Hungarian rail unions call off strike</HEADLINE>
+<SUBJECT> BC-HUNGARY-STRIKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUDAPEST (Reuter) </DATELINE>
+<P>  Hungary's railway unions decided Sunday to end a crippling four-day-old strike after reaching an agreement with management over work practices. </P>
+<P> Union and management negotiators hammered out a compromise to institute an arbitration procedure if they are unable to agree in future on work schedules. </P>
+<P> The strikers had sought a right of veto over the scheduling of their shifts, but management was not prepared to concede this. </P>
+<P> ``We believe that we have signed an agreement that seemed to be unobtainable before the strike started,'' Istvan Gasko, chairman of the Railway Workers Free Trade Union, told Reuters. </P>
+<P> The management, which had warned that it risked losing lucrative transit contracts if the strike continued, said the agreement was an important step towards modernising Hungary's loss-making railway network. </P>
+<P> ``With this agreement the transformation of the railway system from a socialist-type of company to a market-sensitive firm can begin,'' said Istvan Sipos, deputy chairman of Hungarian State Railways. </P>
+</TEXT>
+</DOC>

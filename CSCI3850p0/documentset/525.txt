@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0118.940801</DOCID>
+<TDTID>TDT001312</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/01/94 14:50</DATE>
+<TITLE> U.S. HOUSE SEEKS REPORT ON MISSING AMERICANS</TITLE>
+<HEADLINE> U.S. HOUSE SEEKS REPORT ON MISSING AMERICANS</HEADLINE>
+<SUBJECT> BC-CYPRUS-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The U.S. House of Representatives called for an investigation Monday to find five Americans missing in Cyprus since the island was partitioned in 1974. </P>
+<P> A resolution approved by a voice vote asks President Clinton to conduct an investigation with international organizations to try to find the Americans and about 1,600 others missing in Cyprus. </P>
+<P> The five Americans were believed to have been captured during the 1974 invasion of the northern part of Cyprus by Turkish troops. The troops invaded following a coup in Nicosia by the military junta then ruling Greece. </P>
+<P> ``Much information is almost certainly in the hands of the government of Turkey -- a close friend and ally of the United States. We should make it clear to Turkey and anyone else that may have information that this is an issue of the highest importance,'' New York Republican Representative Benjamin Gilman said. </P>
+<P> Last Friday, the U.N. Security Council adopted a resolution asking Secretary-General Boutros Boutros-Ghali to undertake a ``fundamental and far-reaching reflection'' on ways of resolving the Cyprus situation and report back by the end of October. </P>
+<P> The resolution, approved 14-0, follows a deadlock in yearlong U.N. efforts to get the Greek and Turkish Cypriots to agree on measures designed to build confidence between the two estranged communities. </P>
+</TEXT>
+</DOC>

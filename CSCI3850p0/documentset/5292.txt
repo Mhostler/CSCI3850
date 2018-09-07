@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU015-0370.950329</DOCID>
+<TDTID>TDT011863</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/29/95 07:11</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-AUTOS-USA-JAPAN -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Kantor, in an interview on CNN from Atlanta, said one of the reasons the dollar had slid against the yen was ``closed economies in Japan.'' </P>
+<P> Over the past 25 years, he said, Japan had exported 40 million cars to the United States, while the United States had sent only 40,000 to Japan. </P>
+<P> ``That's not due to quality or not due to availability,'' Kantor said. ``That is due to discrimination.'' </P>
+<P> ``The fact is the Japanese have a closed economy. When that happens, you have a skewed economic situation.'' </P>
+</TEXT>
+</DOC>

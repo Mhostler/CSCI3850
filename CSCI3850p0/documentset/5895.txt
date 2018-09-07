@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0276.950420</DOCID>
+<TDTID>TDT012774</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/20/95 13:42</DATE>
+<TITLE> Great Elephant Bird's egg fetches $25,000</TITLE>
+<HEADLINE> Great Elephant Bird's egg fetches $25,000</HEADLINE>
+<SUBJECT> BC-BRITAIN-EGG </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  One of the biggest bird's eggs ever laid -- from a now extinct Madagascan Great Elephant Bird -- sold at auction in London Thursday for $25,060. </P>
+<P> The bird, which resembled a giant ostrich, became extinct well before the turn of the 19th century. </P>
+<P> The egg was about 300 years old and the owner was a French biologist. </P>
+<P> The 15-inch-long egg was bought by Museon, a museum in The Hague in the Netherlands, where it will go on display in an exhibition about island evolution, said Bonhams auctioneers. </P>
+</TEXT>
+</DOC>

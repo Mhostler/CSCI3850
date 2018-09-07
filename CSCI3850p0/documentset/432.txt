@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU013-0177.940727</DOCID>
+<TDTID>TDT001098</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/27/94 14:35</DATE>
+<TITLE> U.S. INCREASE SECURITY AT ISRAELI EMBASSY</TITLE>
+<HEADLINE> U.S. INCREASE SECURITY AT ISRAELI EMBASSY</HEADLINE>
+<SUBJECT> BC-BRITAIN-BLAST-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States has stepped up security at Israeli diplomatic facilities following two attacks on Israeli installations in London, the State Department said Wednesday. </P>
+<P> ``The department is working closely with the Israeli Embassy, the Secret Service and local law enforcement to ensure that Israeli diplomatic facilities in the United States receive increased protection,'' spokesman David Johnson said. He gave no details. </P>
+<P> Bombers Wednesday struck at a Jewish target in London for the second time in 12 hours. The bomb injured five people outside a Jewish fund-raising organization after a similar bomb Tuesday badly damaged the Israeli Embassy in London. </P>
+</TEXT>
+</DOC>

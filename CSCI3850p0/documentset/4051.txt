@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU014-0082.950130</DOCID>
+<TDTID>TDT009922</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/30/95 22:08</DATE>
+<TITLE> New Zealand PM gets White House invite</TITLE>
+<HEADLINE> New Zealand PM gets White House invite</HEADLINE>
+<SUBJECT> BC-NEWZEALAND-USA-VISIT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WELLINGTON, New Zealand (Reuter) </DATELINE>
+<P>  New Zealand Prime Minister Jim Bolger said Tuesday he had received an invitation from President Clinton to visit the White House, 11 years after the two countries fell out over Wellington's anti-nuclear policies. </P>
+<P> Bolger said he had been invited to visit on March 27. ``We are naturally delighted to accept that invitation. It's a significant step forward,'' Bolger told reporters. </P>
+<P> Relations between the two sides went sour in the 1980s when a Labor government under former prime minister David Lange banned nuclear-powered and nuclear-armed vessels from New Zealand's territorial waters. </P>
+<P> They have warmed considerably in the past 12 months, but with no sign of any softening in the anti-nuclear stand which is backed across New Zealand's political spectrum and enjoys overwhelming public support. </P>
+<P> New Zealand remains suspended from the ANZUS alliance with the United States and Australia, and its last prime minister to visit the White House was Sir Robert Muldoon in 1984. </P>
+</TEXT>
+</DOC>

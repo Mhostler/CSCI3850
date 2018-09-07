@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU008-0216.950316</DOCID>
+<TDTID>TDT011341</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/16/95 11:44</DATE>
+<TITLE> Israeli navy fires at Lebanese fishing boat</TITLE>
+<HEADLINE> Israeli navy fires at Lebanese fishing boat</HEADLINE>
+<SUBJECT> BC-LEBANON-ISRAEL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TYRE, Lebanon (Reuter) </DATELINE>
+<P>  Israeli gunboats fired machine guns at fishing boats off south Lebanon Thursday, hitting at least one, and fishermen said they feared a blockade of their southern ports will be reimposed. </P>
+<P> One fisherman from Tyre, where Israel ended a one-month fishing blockade last Friday, said a gunboat fired machine-gun volleys at his boat about one mile off Adloun, nine miles north of Tyre. </P>
+<P> ``I was fishing close to the coast of Adloun when one Israeli boat fired at me. My boat was hit,'' Shukrallah al-Jooni told Reuters at Tyre marina. ``I later saw the gunboat firing in the direction of five or six other boats.'' </P>
+<P> No one was hurt during the incident before dawn. </P>
+<P> ``We fear that this may be a reintroduction of the blockade on our shores,'' fisherman Abdullah al-Baraadi'i said in Tyre. </P>
+<P> It was not immediately known if Israel had decided to reintroduce its blockade of south Lebanon's ports, which it lifted while Secretary of State Warren Christopher visited the region in a bid to restart stalled Middle East peace talks. </P>
+<P> Israel imposed its blockade on Tyre Feb. 8 and extended it north to within 12 miles of Beirut. </P>
+<P> Fishermen were barred from sailing more than half a mile out to sea. Those ignoring the ban or sailing at night risked drawing fire from gunboats that patrol off Lebanon to stop seaborne commando raids on Israel. </P>
+</TEXT>
+</DOC>

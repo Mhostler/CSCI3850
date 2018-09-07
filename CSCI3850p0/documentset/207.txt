@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0086.940713</DOCID>
+<TDTID>TDT000498</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/13/94 15:01</DATE>
+<TITLE> BOAT HIJACKED BY CUBANS CAPSIZES: DEATH TOLL UNKNOWN</TITLE>
+<HEADLINE> BOAT HIJACKED BY CUBANS CAPSIZES: DEATH TOLL UNKNOWN</HEADLINE>
+<SUBJECT> BC-CUBA-DROWNINGS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  A tugboat hijacked Wednesday by Cubans seeking to sail to Florida capsized seven miles off the Cuban coast with the loss of an undetermined number of lives. </P>
+<P> Prensa Latina news agency reported that Cuban boats and coast guard vessels took part in rescue operations. It said the tugboat ``13 de Marzo'' was commandeered from its dock in Havana harbor at 3 a.m. local time. </P>
+</TEXT>
+</DOC>

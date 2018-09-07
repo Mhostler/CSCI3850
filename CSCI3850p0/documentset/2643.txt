@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU008-0047.941116</DOCID>
+<TDTID>TDT006594</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/16/94 11:50</DATE>
+<TITLE> Berlusconi threatens to quit in budget war</TITLE>
+<HEADLINE> Berlusconi threatens to quit in budget war</HEADLINE>
+<SUBJECT> BC-ITALY </SUBJECT>
+<AUTHOR>     By Paul Holmes </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  Prime Minister Silvio Berlusconi threatened to quit and force new elections Wednesday in a growing conflict with unions, the opposition and his own coalition partners over Italy's cost-cutting budget for 1995. </P>
+<P> Defending the controversial measures and his use of confidence votes to push them through parliament, he said he would pull the plug on his fractious six-month-old coalition himself unless its members fell into line. </P>
+<P> ``If all the forces in the majority behave responsibly, I think the government will last,'' Berlusconi told reporters in the Chamber of Deputies (lower house). </P>
+<P> ``If someone doesn't show responsibility it won't last. And it won't be other people who make it fall but the prime minister,'' he said. </P>
+<P> ``If it isn't possible to continue governing in the interests of the country then the only thing will be to go back to the voters,'' he said. </P>
+<P> The lower house voted 346 to 208 in support of the government Wednesday in a confidence vote submitted by Berlusconi to keep bitterly contested pensions reforms intact. </P>
+<P> Another confidence vote on pensions was due later in the day -- the third this week on the budget in the lower house. </P>
+<P> Berlusconi, a media tycoon elected in March on pledges to take the axe to Europe's largest budget deficit, is championing a budget package that aims to reduce next year's shortfall by 48 trillion lire ($30 billion). </P>
+<P> Italy's three main trades unions Tuesday called an eight-hour general strike for Dec. 2 on the controversial pensions savings, central to the budget plan, after the government decided to put them to the confidence test. </P>
+<P> Tens of thousands of workers staged wildcat protests across Italy Wednesday, including brief strikes, road and railway line blockades and marches in a number of cities including the country's financial capital Milan. </P>
+</TEXT>
+</DOC>

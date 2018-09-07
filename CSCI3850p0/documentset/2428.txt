@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU003-0093.941105</DOCID>
+<TDTID>TDT006109</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/05/94 15:07</DATE>
+<TITLE> Support for Justice Thomas has declined - poll</TITLE>
+<HEADLINE> Support for Justice Thomas has declined - poll</HEADLINE>
+<SUBJECT> BC-THOMAS-POLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  In the wake of a new book that claims U.S. Supreme Court Justice Clarence Thomas lied during his nationally televised confirmation hearings, a Newsweek poll released Saturday found that support for him has dropped. </P>
+<P> The survey for the newsweekly found 40 percent of Americans now believe Thomas sexually harassed former employee Anita Hill, up from 23 percent in a similar poll conducted in October 1991 at the time of the hearings. </P>
+<P> The Newsweek poll, which appears in its Nov. 14 issue available at newstands Monday, also found Americans are now evenly divided over whether the Senate should have voted to confirm Thomas to be a member of the Supreme Court: 40 percnet say yes; 40 percent say no. </P>
+<P> There was no significant difference in the latest poll in the way blacks and whites answered the confirmation question, but there was a partisan cast to opinions: 61 percent of Republicans think Thomas deserved confirmation; 28 percent of Democrats think so. </P>
+<P> The book ``Strange Justice'' by Wall Street Journal reporters Jane Mayer and Jill Abramson says the Senate Judiciary Committee either did not know some of the witnesses existed or decided not to call the ones it knew about because its chairman refused to explore Thomas's personal life. </P>
+<P> Hill accused Thomas of pressuring her for dates and making sexually suggestive comments when she worked for him when he was director the Equal Employment Opportunity Commission (EEOC). </P>
+<P> He denied any improprieties and said that if he had used such offensive language there would be others who would have heard it and stepped forward. </P>
+</TEXT>
+</DOC>

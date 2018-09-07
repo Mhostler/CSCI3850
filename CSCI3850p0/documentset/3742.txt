@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0351.950112</DOCID>
+<TDTID>TDT009239</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/12/95 19:00</DATE>
+<TITLE> Clinton chooses Dodd to head Democratic Party</TITLE>
+<HEADLINE> Clinton chooses Dodd to head Democratic Party</HEADLINE>
+<SUBJECT> BC-CLINTON-DEMOCRATS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Thursday formally chose Connecticut Senator Christopher Dodd to lead the Democratic Party into coming political wars, and tapped a veteran southern politician to manage its day to day affairs. </P>
+<P> ``With their help, we will return the important business of electing Democrats at all levels of government, and assuring that the voices of people who work hard and play by the rules -- our constituents -- are heard and heeded,'' Clinton said in a statement. </P>
+</TEXT>
+</DOC>

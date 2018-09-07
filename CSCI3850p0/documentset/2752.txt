@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU010-0146.941121</DOCID>
+<TDTID>TDT006823</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/21/94 17:23</DATE>
+<TITLE> Woman dies in bomb blast, crowd jeer Haitian army</TITLE>
+<HEADLINE> Woman dies in bomb blast, crowd jeer Haitian army</HEADLINE>
+<SUBJECT> BC-HAITI-VIOLENCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAP-HAITIEN, Haiti (Reuter) </DATELINE>
+<P>  A three-year-old girl was killed and her 31-year-old mother seriously wounded when a homemade bomb accidentally exploded in their house in this northern Haitian city, officials said Monday. </P>
+<P> Local police said they had not determined who made the bomb or why it was in the woman's home. The woman and child have not been identified. </P>
+<P> The explosion was the first of two violent incidents in Haiti's second-largest city Sunday. </P>
+<P> Hours later, in an unrelated incident, an angry mob of demonstrators threw rocks at Haitian army soldiers, demanding their disarmament and execution. </P>
+<P> The soldiers had been sent from Port-au-Prince with a truckload of mattresses for police officers being trained for the nation's new Interim Public Security Force. </P>
+<P> Members of the group who arrived Sunday were the first Haitian soldiers in uniform seen in Cap-Haitien since Sept. 24, when the city's soldiers and police fled following a shootout with U.S. marines that left 10 Haitians dead. </P>
+<P> When the soldiers arrived Sunday afternoon, they were met by a jeering, rock-throwing mob. </P>
+<P> A U.S. patrol, unaware of the Haitian soldiers' mission to the port city, stopped their truck at gunpoint, made them lay flat on the ground, and handcuffed them. The Haitian soldiers were released only after the U.S. soldiers were able to verify that the Haitian soldiers had been sent by the goverment of President Jean-Bertrand Aristide. </P>
+<P> U.S. troops then escorted the Haitian soldiers for their own protection from the rock-throwing crowds to an area secured by multi-national forces. </P>
+</TEXT>
+</DOC>

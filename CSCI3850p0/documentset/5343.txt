@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU016-0415.950330</DOCID>
+<TDTID>TDT011942</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/30/95 19:11</DATE>
+<TITLE> House Republicans defeat move to drop tax loophole</TITLE>
+<HEADLINE> House Republicans defeat move to drop tax loophole</HEADLINE>
+<SUBJECT> BC-CONGRESS-MILLIONAIRES 1STLD </SUBJECT>
+<AUTHOR>     By Sue Kirchhoff </AUTHOR>
+<TEXT>
+<NOTES>(Recasts lede, adds names of expatriates, Harvard letter)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  House Republicans Thursday defeated a Democratic plan to prevent wealthy Americans from renouncing their citizenship to avoid paying billions of dollars in U.S. taxes. </P>
+<P> ``(This is) a big juicy bone for a few very wealthy people,'' said Rep. Martin Frost, D-Tex., leader of an unsuccessful move to levy a new tax on assets of expatriates. </P>
+<P> ``The money the Republicans are losing the Treasury by giving the rich a tax break could buy almost $3 billion in school lunches,'' he said, referring to a Republican welfare reform bill cutting future growth of the school lunch program. </P>
+<P> The debate came as the House passed a bill allowing the self-employed to deduct up to 30 percent of health insurance costs. The Senate version of the bill would have imposed taxes on the assets of expatriates, raising $3.6 billion over 10 years. A special House-Senate committee struck that provision from the final compromise version of the insurance bill, at the request of House Republicans.  On a party line vote of 224-201, Republicans Thursday defeated a Democratic effort to put the provision back in the bill. The House later passed the insurance bill by voice vote.  Republicans denied they were defending the wealthy, saying it was already illegal to renounce citizenship to avoid taxes. Republican leaders directed staff aides to complete a report on the expatriate question by June 1 and said they might craft a bill later this year, retroactive to Feb. 9. </P>
+<P> ``Wrap yourself in the flag, play the games of class warfare ... but let's not get so far away from reality,'' Rep. Bill Thomas, R-Calif. scolded the Democrats. </P>
+<P> Thomas read from a letter by Harvard Law School professor Abram Chayes who said the proposal raised serious questions about the U.S. right of voluntary emigration. </P>
+<P> ``This debate is not about Gingrich Republicans defending the wealthiest,'' said Rep. Nancy Johnson, R-Conn., arguing the plan would hurt ``little people'' like Cuban emigres and not just two dozen wealthy individuals estimated by its sponsors. </P>
+<P> Acting on behalf of unidentified clients, a New York law firm sent a written analysis to lawmakers comparing the proposed tax to Soviet policies barring Jewish emigration. </P>
+<P> ``Comparing what (lawmakers) ... wanted to do on the Senate side to the Soviet Union and their policies is outrageous, is unpatriotic and those who make those arguments owe members of Congress an apology,'' said Rep. Robert Matsui, D-Calif. </P>
+<P> Lobbyists working the issue include former Republican senator Steve Symms and former Michigan Republican representative Guy Vander Jagt. </P>
+<P> A 1994 article in Forbes magazine said wealthy Americans renouncing citizenship included Michael Dingman, chairman of Abex, now a citizen of the Bahamas; John (Ippy) Dorrance III, an heir to the Campbell Soup Fortune, now an Irish citizen. </P>
+<P> The overall insurance legislation reinstates a popular tax break that expired at the end of 1993 allowing the self-employed to deduct 25 percent of health insurance costs. </P>
+<P> The bill reinstates the 25 percent deduction for the 1994 tax year, raising it to 30 percent in 1995 and making it permanent at that level. The administration estimates over 3 million farmers, small business owners and others would be eligible for the break, costing $3.5 billion over five years. </P>
+<P> To pay for the deduction, the legislation repeals a tax preference for firms that sell facilities to minority broadcasters, retroactive to Jan. 17. The repeal all but kills Viacom's proposed $2.3 billion sale of its cable facilities to a consortium including minority broadcaster Frank Washington. Viacom was expected to get a tax break of $400 million to $600 million. </P>
+</TEXT>
+</DOC>

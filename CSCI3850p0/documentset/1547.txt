@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU011-0131.940922</DOCID>
+<TDTID>TDT003835</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/22/94 13:42</DATE>
+<TITLE> Honduras orders army onto streets to fight crime</TITLE>
+<HEADLINE> Honduras orders army onto streets to fight crime</HEADLINE>
+<SUBJECT> BC-HONDURAS-ARMY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TEGUCIGALPA, Honduras (Reuter) </DATELINE>
+<P>  The government of Honduras Thursday ordered army troops onto the streets of the country's cities to combat a crime wave. </P>
+<P> ``I have given the army instructions to go out into the streets in the next few hours to protect individuals from criminal activity,'' President Carlos Reina told reporters. </P>
+<P> Reina's move followed a surge of bank hold-ups and armed robberies of businesses and residences in cities around Honduras, the poorest nation in the hemisphere after Haiti. </P>
+<P> About 100 Hondurans from a poor neighborhood of the capital stormed the economy ministry Wednesday and held it for several hours to protest price increases. Officials said it was the first violent takeover of a government building in at least two decades. </P>
+<P> ``The army troops will be on the streets to reinforce the police. We're doing everything in our power to repress delinquency. This is a titanic job in which all of society needs to get involved,'' said General Luis Discua, the highest ranking officer in Honduras. </P>
+<P> Reina, elected last November on a campaign promise to roll back the army's influence in political affairs, has clashed with armed forces chiefs over a number of policy moves in the first months of his administration. </P>
+<P> The army ruled Honduras for 20 years before ceding formal control of the government to civilians. It still controls the police although a plan has been drafted to establish a civilian-run force within a decade. </P>
+</TEXT>
+</DOC>

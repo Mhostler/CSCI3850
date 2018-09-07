@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0439.950309</DOCID>
+<TDTID>TDT011110</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 06:45</DATE>
+<TITLE> Leeson meets wife, family in German jail</TITLE>
+<HEADLINE> Leeson meets wife, family in German jail</HEADLINE>
+<SUBJECT> BC-BANK-LEESON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FRANKFURT (Reuter) </DATELINE>
+<P>  Nick Leeson, the financial trader at the center of the collapse of Barings Bank, had a 90-minute meeting Thursday with his wife, father and brother, a German prison official said. </P>
+<P> Leeson saw his wife, Lisa Jane, and the two other relatives for the first time since a German judge ruled last Friday that the 28-year-old Briton be held at a German prison near Frankfurt pending a decision on a request to extradite him to Singapore. </P>
+<P> Hadmut Jung-Silberreis, director of the prison in Hoechst, where Leeson is being held, told Reuters, ``The visit has taken place.'' </P>
+<P> She said the family members had been escorted into the prison through a back entrance and noted that Thursday was a regular visting day. The back door had been used because Mrs Leeson did not want to answer questions from the media. </P>
+<P> Jung-Silberreis said Leeson met his relatives at a visitors' room at the facility under the supervision of a German jail official, which is required under prison rules. </P>
+<P> Eberhard Kempf, the German lawyer representing Leeson, was not present at the meeting, although he was at the jail Thursday. </P>
+</TEXT>
+</DOC>

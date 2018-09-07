@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0274.950406</DOCID>
+<TDTID>TDT012222</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 18:37</DATE>
+<TITLE> Golf-Beck ruled innocent on compass question</TITLE>
+<HEADLINE> Golf-Beck ruled innocent on compass question</HEADLINE>
+<SUBJECT> BC-GOLF-MASTERS-COMPASS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Updates with ruling that exonerates Beck)</NOTES>
+<DATELINE>AUGUSTA, Ga.(Reuter) </DATELINE>
+<P>  The Masters Rules Committee defused a controversy that could have disqualified contender Chip Beck by ruling he had not used a compass to help judge wind direction during Thursday's first round. </P>
+<P> Beck prompted a stir over rules interpretation when he told a post-round news conference after his 4-under-par 68: ``My caddie really helped me because he judged the wind properly. He knew from his compass where the wind was coming, and it really helped to know exactly where that wind was coming.'' </P>
+<P> Will Nicholson, chairman of the rules committee, accepted the explanation by Beck and his caddie Greg Rita that a compass was used to chart directions only during practice. </P>
+<P> Use of a compass in competition is considered a breach of Rule 14-3 which prohibits using artificial devices and unusual equipment. Such an infraction would lead to disqualification. </P>
+<P> During the news conference, Beck was asked if it was unusual for a caddie to use a compass. ``All the good caddies use them,'' he said. </P>
+</TEXT>
+</DOC>

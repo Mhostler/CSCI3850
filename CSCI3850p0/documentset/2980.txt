@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0027.941203</DOCID>
+<TDTID>TDT007399</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/03/94 03:09</DATE>
+<TITLE> Pro-Kurdish newspaper bombed in Istanbul, one killed</TITLE>
+<HEADLINE> Pro-Kurdish newspaper bombed in Istanbul, one killed</HEADLINE>
+<SUBJECT> BC-TURKEY-BOMB </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANKARA, Turkey (Reuter) </DATELINE>
+<P>  A bomb exploded at the pro-Kurdish daily Ozgur Ulke's office in Istanbul Saturday, destroying the building and killing one man, Anatolian news agency said. </P>
+<P> Nineteen 19 people were wounded, it said. </P>
+<P> The four-story building housed the newspaper's main editorial office. No one has claimed responsibility for the pre-dawn bombing. </P>
+<P> Ozgur Ulke has close ties to the Kurdistan Workers Party (PKK), which has been fighting for an independent state for Turkish Kurds for past decade. It publishes a column by PKK leader Abdullah Ocalan. </P>
+<P> The government has cracked down hard on writers and journalists it perceives as sympathetic to the PKK cause. </P>
+</TEXT>
+</DOC>

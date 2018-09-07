@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0238.941208</DOCID>
+<TDTID>TDT007645</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 17:12</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-AMERICAS-DRAFT -2 MIAMI </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Dated Nov. 29, the draft communique is called ``final revised draft'' and there are believed to have been some changes since then. </P>
+<P> It will not be final in any event until President Clinton and the other 33 Americas Summit participants formally approve it. </P>
+<P> For one thing, the draft does not include specific language on free trade, which was still being debated and which some view as the centerpiece of the summit. </P>
+<P> Nevertheless, the document, including a declaration of principles and an action plan, runs nearly 30 pages of often detailed text, and officials indicated that they do not expect any major alterations. </P>
+<P> The U.S-hosted summit, which is set to open Friday, is expected to extol the virtues of democracy, which has taken hold in every country in the hemisphere except Cuba, and set a goal for free trade and economic integration throughout the region. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0122.941206</DOCID>
+<TDTID>TDT007512</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 15:57</DATE>
+<TITLE> Postal officials to meet Dec 12 on higher rates</TITLE>
+<HEADLINE> Postal officials to meet Dec 12 on higher rates</HEADLINE>
+<SUBJECT> BC-POSTAL-RATES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Postal Service Board of Governors said Tuesday it will hold a special meeting December 12 to consider higher postal rates, and is expected to push the first class stamp to 32 cents from 29 cents. </P>
+<P> The board has sought a general 10.3 percent rate increase to start in 1995. The Postal Rate Commission, which reviews rate requests but can not conclusively approve or deny them, accepted that rise Nov. 30 for the first class stamp, and approved smaller increases for other first class mail and larger ones for lower classes. </P>
+<P> The board is expected to accept the findings of the independent commission and impose the first increase in rates since 1991. It would cost the typical family about 75 cents a month in additional postage, Postal Service officials said. </P>
+<P> Any adjustment in rates would go into effect in early January, the board said. </P>
+<P> They added that the rise to 32 cents would be under the rate of inflation the last four years and would remain a ''world-class bargain,'' noting that the same letter costs 80 cents in Japan and 64 cents in Germany. </P>
+<P> The postal service also reported it had lost less money in the fiscal year that ended last September 30 than it had forecast. </P>
+<P> It said it had a net loss of $914 million, against a year-ago budget forecast that it would lose $1.3 billion. </P>
+<P> ``The 1994 performance demonstrates that the U.S. Postal Service can handle strong growth while holding its expenses in line,'' Postmaster General Marvin Runyon said. </P>
+<P> Runyon reported that the total volume of letters and packages grew to a record 177 billion in fiscal 1994, a rise of 3.4 percent, with revenues up $1.8 billion over 1993. </P>
+<P> Apparently noting complaints of the Postal Service that included poor working conditions and reports of mail delivered months late or found burned in vacant fields, he said the service had not lost sight of its aim to satisfy customers. </P>
+<P> Runyon said an additional $100 million had been spent to expand window service nationwide and some short-term service problems were being corrected in several major cities. </P>
+</TEXT>
+</DOC>

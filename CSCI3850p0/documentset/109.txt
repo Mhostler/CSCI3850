@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU004-0074.940707</DOCID>
+<TDTID>TDT000247</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/07/94 12:40</DATE>
+<TITLE> HEALTH FRAUD COSTS U.S. TAXPAYERS, PATIENTS BILLIONS</TITLE>
+<HEADLINE> HEALTH FRAUD COSTS U.S. TAXPAYERS, PATIENTS BILLIONS</HEADLINE>
+<SUBJECT> BC-HEALTH-FRAUD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Health care rip-offs cost taxpayers and patients about $100 billion a year, a study released Thursday said. </P>
+<P> ``Our investigation found that fraud is rampant throughout the health care system,'' said Senator William Cohen of Maine, ranking Republican member of the Senate Special Committee on Aging. </P>
+<P> ``What we learned was that defrauding federal and private health care programs is shockingly simple, and that Medicare, Medicaid and private insurers are leaving their doors wide open to abuse, inviting scam artists to rip off the system,'' Cohen said. </P>
+<P> Fraud and abuse accounts for about 10 percent of national spending on health care, said the study, which was conducted by the Republican staff of the special committee. </P>
+<P> Over the last five years losses totaled about $418 billion, or almost four times as much as the savings and loan crisis to date, the study said. </P>
+<P> The study outlined 50 examples of scams in the health care system, including a case involving a psychologist who was indicted for having sex with some of his patients and charging a federal health plan for these encounters as ``therapy'' sessions. </P>
+<P> The most frequent scams involve over-billing for equipment or services, billing for services never provided and charging separately for items that are part of a procedure or product, Cohen said. </P>
+<P> Kickbacks to doctors for referring patients and submitting claims for ghost patients are also common frauds, he said. </P>
+<P> ``I think these and other cases are just the tip of the iceberg -- a very large iceberg of fraud and abuse that's costing taxpayers and patients dearly, and freezing out the millions ... who have no affordable health care insurance,'' Cohen said at a news conference. </P>
+<P> Cohen, joined by Senate Republican leader Bob Dole of Kansas, called for tougher law enforcement measures that will make it harder for scam artists to defraud the health care system. </P>
+<P> Several measures, he said, are included in the crime bill now pending as House and Senate conferees try to work out details of two versions of the bill. </P>
+<P> House members, Cohen said, prefer to include the antifraud measures in the health care reform legislation now working its way through Congress. But Cohen said he would prefer to have the measures included in the crime bill which is likely to pass Congress more quickly. </P>
+</TEXT>
+</DOC>

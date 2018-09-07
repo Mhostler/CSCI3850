@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU009-0114.941118</DOCID>
+<TDTID>TDT006725</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/18/94 20:30</DATE>
+<TITLE> FCC says Florida cable TV operator evaded rules</TITLE>
+<HEADLINE> FCC says Florida cable TV operator evaded rules</HEADLINE>
+<SUBJECT> BC-CABLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  In a move that could set the stage for big cable rate refunds, the Federal Communications Commission alleged Friday that a Florida cable television operator tried to skirt the agency's regulations. </P>
+<P> At the same time, the FCC said customers of two other cable TV concerns will not be eligible for refunds because it was unclear whether the operators evaded rules by moving a handful of channels off their basic, regulated packages of programs. </P>
+<P> The FCC alleged that Adelphia Cable Partners L.P. in South Dade County, Fla., evaded rules by doing away with popular packages of programs that would be subject to regulation. </P>
+<P> On the eve of rate regulations that took effect on Sept. 1, 1993, Adelphia created a 32-channel unregulated package by eliminating all packages that would face new rules. </P>
+<P> The FCC referred to a provision aimed at preventing operators from simply calling what otherwise would be a rate-regulated package an ``a la carte package.'' Such an arrangement typically allows operators to charge significantly more than they could for packages subject to rate rules. </P>
+<P> Once it finishes a review of complaints, the FCC could order Adelphia to provide subscribers with refunds. </P>
+<P> A spokesman at Adelphia's Coudersport, Pa.-based parent company, the nation's ninth largest multiple-system cable operator, could not be immediately reached for comment. </P>
+<P> The FCC concluded that two other local operators did not evade FCC rules because they moved only a few channels to an unregulated package. The agency said its rules were so ambiguous that it was not clear to the operators or the FCC whether their action was permissible. </P>
+<P> Comcast Corp.'s Comcast Cablevision in Tallahassee, Fla., and Time Warner Inc.'s Warner Cable Communications in Milwaukee, Wisc., will not be required to make refunds or move the channels back to regulated packages. </P>
+<P> The FCC imposed stiff rate regulations to carry out a 1992 law designed to put a lid on rapidly rising cable rates. But the rules apply only to ``basic'' and ``enhanced basic packages'' of programs. </P>
+<P> Cable operators can charge whatever the market will bear for ``premium channels'' like some of the popular movie networks. </P>
+<P> The FCC launched its inquiry on the matter in response to complaints from cable subscribers and local authorities, who charged that some operators were abusing the rules by shifting channels out of the regulated tiers. </P>
+</TEXT>
+</DOC>

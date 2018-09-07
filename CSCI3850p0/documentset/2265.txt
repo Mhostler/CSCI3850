@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU013-0009.941027</DOCID>
+<TDTID>TDT005654</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/27/94 14:01</DATE>
+<TITLE> Bridge closed after being rammed by empty tanker</TITLE>
+<HEADLINE> Bridge closed after being rammed by empty tanker</HEADLINE>
+<SUBJECT> BC-BRIDGE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEATTLE (Reuter) </DATELINE>
+<P>  A major bridge linking Washington and Oregon remained closed Thursday after being rammed by a 900-foot oil tanker that was blown free of its moorings in a windstorm, officials said. </P>
+<P> The four-mile-long Astoria Bridge at the mouth of Columbia River was closed shortly after 1 p.m. PDT (4 p.m. EDT) Wednesday when it was rammed by the empty tanker Keystone Canyon, officials said. </P>
+<P> After tubgboats freed the ship from a sandbar Thursday, divers were sent down to inspect the bridge piers for possible damage, said Karl Wieseke of the state Transportation Department. </P>
+<P> He said a decision would be made later in the day on whether to reopen the bridge and its section of coastal highway U.S. </P>
+<P> Lines holding the tanker to the dock in Astoria, Oregon, snapped in a severe rainstorm accompanied by 60 mph winds that lashed the coast. </P>
+<P> The ship drifted about a quarter mile before crew members were able to put the stern into the sandbar as the bow struck the bridge pilings, said Ron Larsen of the port of Astoria. </P>
+<P> There were no injuries, and after being freed the ship headed to Portland for repair of damage that was described as minimal. </P>
+<P> The closure of the heavily traveled bridge means a 50-mile (80 km) detour for cars, which can use a ferry boat to cross the river, but commercial traffic faces a 100-mile detour, Wieseke said. </P>
+</TEXT>
+</DOC>

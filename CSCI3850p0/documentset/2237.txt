@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0202.941026</DOCID>
+<TDTID>TDT005592</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/26/94 08:30</DATE>
+<TITLE> Two ex-German soldiers sentenced for war crime</TITLE>
+<HEADLINE> Two ex-German soldiers sentenced for war crime</HEADLINE>
+<SUBJECT> BC-ITALY-SENTENCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CASERTA, Italy (Reuter) </DATELINE>
+<P>  Two former German soldiers were sentenced to life in prison after a court in Italy convicted them of the murder of 22 Italians during World War II, judicial sources said Wednesday. </P>
+<P> An Italian court ruled Tuesday that the two were responsible for killing 22 Italians in a farmhouse near the southern town of Caiazzo Oct. 13, 1943. The victims included nine children aged between four and 14 and six women. </P>
+<P> The two, former Lt. Wolfgang Emden and former Sgt. Kurt Schuster, are now in their 70s and live in Germany, the sources said. They cannot be jailed in Italy unless they return. </P>
+<P> They had already been sentenced for the same war crimes after a trial in the German city of Koblenz last year. </P>
+</TEXT>
+</DOC>

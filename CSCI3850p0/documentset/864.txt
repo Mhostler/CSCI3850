@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU009-0025.940818</DOCID>
+<TDTID>TDT002108</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/18/94 11:11</DATE>
+<TITLE> U.S. SLASHING OPERATIONS AT 24 FOREIGN BASES</TITLE>
+<HEADLINE> U.S. SLASHING OPERATIONS AT 24 FOREIGN BASES</HEADLINE>
+<SUBJECT> BC-USA-BASES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Smaller U.S. military bases will be shut down or cut back at 24 more foreign locations, most in Germany, the Defense Department said Thursday. </P>
+<P> It said the number of bases around the world at which U.S. operations are ending, being reduced or put on standby will total 918, some 848 of them in Europe. </P>
+<P> The new cuts will not affect any of the larger bases the U.S. operates. Those affected are mostly support operations and include several family housing tracts. </P>
+<P> The Pentagon said 998 military people are at the facilities to be cut and 172 U.S. civilian and 619 local people work at them. </P>
+<P> It gave no estimate of how much money the cutbacks will save. </P>
+<P> In addition to the cuts in Germany, it said, the Chilwell Storage facility at Mildenhall will be returned to England and the Mohammadia Petroleum Oil, Lubricants Storage facility will be returned to Morocco. </P>
+<P> A radar site at Keflavik will be partially returned to Iceland, it said. </P>
+<P> In Germany, it said, U.S. Air Force operations are to end at the Morbach Ammo Storage, Rorhbach Waste Annex and Sohren Family Housing Annex and are to be reduced at Memmingen and Norvenich. All are in Sembach, Germany. </P>
+<P> It said U.S. Army operations will end at De La Police Kaserne, Haide Labor Service Camp, Worms Athletic Field, Worms Quartermaster Area and Worms Repairs and Utility Area, all in Worms, Germany. Thomas Jefferson Village Family Housing there will be cut back, it said. </P>
+<P> Army operations will also end at Merzalben Underground, Muenchweiler Underground Warehouse 7602, Ruppertsweiler Administration Area, Schmalenberg Underground Warehouse 7600, Schopp Storage Facility, Spirkelbach Storage Facility and Wilgartswiesen Warehouse 7610 in Pirmasens, Germany, it said. </P>
+<P> It said Army operations will end at the Muenster Ammo Depot in Darmstadt, Germany, and will partially end at the Centerville Family Housing tract in Augsburg and the Community Facility Kaiserslautern East. </P>
+<P> Those facilities will be returned or partially returned to Germany, the Defense Department said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU008-0265.941217</DOCID>
+<TDTID>TDT008123</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/17/94 19:00</DATE>
+<TITLE> Buenos Aires to spend $600 million to stay afloat</TITLE>
+<HEADLINE> Buenos Aires to spend $600 million to stay afloat</HEADLINE>
+<SUBJECT> BC-ARGENTINA-FLOODS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES, Argentina (Reuter) </DATELINE>
+<P>  The city of Buenos Aires will invest hundreds of millions of dollars in 1995 to try to put an end to floodings that block traffic, cause blackouts and embarrass a government facing an election next May. </P>
+<P> ``We are designing projects to solve serious problems in the capital for a total of $600 million,'' mayor Jorge Dominguez Saturday told the state-run Telam news agency. </P>
+<P> Projects include expansion and cleaning of sewers, building a canal for a river and improving the collection of garbage blamed for regularly blocking drains. </P>
+<P> Heavy rains last Tuesday caused a pandemonium, blocking traffic, inundating railways and subways and causing blackouts by flooding underground electricity transformers. </P>
+<P> Newspapers run front page pictures of butchers dumping open containers in the street of cow carcasses that had gone bad for lack of refrigeration. </P>
+<P> President Carlos Menem, who is running for re-election in May, upbraided mayor Dominguez Friday for saying there are no quick fixes and that people better get used to seeing Buenos Aires flooded. </P>
+<P> In March, after less than two inches of rain left 110,000 people without electricity and 20,000 with no telephones, Menem said the government would call an international bid to start urgent works. That never happened. </P>
+<P> Saturday, Dominguez said terms for the bids should be ready in January, with work starting in February and demanding no more than one year. </P>
+<P> He added the money would be sought from the World Bank, the Inter-American Development Bank and other lending institutions. </P>
+</TEXT>
+</DOC>

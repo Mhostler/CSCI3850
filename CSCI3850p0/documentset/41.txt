@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0456.940703</DOCID>
+<TDTID>TDT000088</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/03/94 06:28</DATE>
+<TITLE> ARAFAT TO VISIT JERICHO TUESDAY - POLICE</TITLE>
+<HEADLINE> ARAFAT TO VISIT JERICHO TUESDAY - POLICE</HEADLINE>
+<SUBJECT> BC-MIDEAST-ARAFAT-JERICHO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  PLO chairman Yasser Arafat will go to Jericho Tuesday for the first time since the start of self-rule, the Palestinian police commander of the West Bank town said Sunday. </P>
+<P> Brigadier General Haj Ismael Jabr told reporters: ``Arafat will visit Jericho Tuesday morning.'' A senior security official in the enclave said Arafat would arrive in Jericho from Gaza and leave the same day for Jordan. </P>
+</TEXT>
+</DOC>

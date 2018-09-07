@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0137.941119</DOCID>
+<TDTID>TDT006735</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/19/94 01:02</DATE>
+<TITLE> Nepal's Congress concedes defeat to communists</TITLE>
+<HEADLINE> Nepal's Congress concedes defeat to communists</HEADLINE>
+<SUBJECT> BC-NEPAL-DEFEAT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KATMANDU, Nepal (Reuter) </DATELINE>
+<P>  Nepal's Congress party conceded defeat Saturday to its communist rivals in the Himalayan kingdom's general elections. </P>
+<P> ``We are out of power,'' Congress spokesman Makesh Acharya told Reuters. ``The indications are we will have to sit in the opposition.'' </P>
+<P> With 175 of 205 parliamentary races decided, the Communist Party Unified Marxist-Leninist (UML) front had won 83 seats and Congress, the outgoing ruling party, had 62. </P>
+<P> ``I think it is very clear the voters don't want us in the government,'' Acharya said. </P>
+<P> He said the UML-led government would have to respect democracy, the constitutional monarchy and human rights, as well as Congress' economic policies of liberalization. </P>
+<P> ``There is no reason for us to be disheartened,'' Archarya said. ``Congress' policies will be carried out. They (UML) have to be pragmatic.'' </P>
+</TEXT>
+</DOC>

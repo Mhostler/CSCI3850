@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0354.941003</DOCID>
+<TDTID>TDT004370</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 07:28</DATE>
+<TITLE> Andre Lwoff, Nobel Prize winner, dies in Paris</TITLE>
+<HEADLINE> Andre Lwoff, Nobel Prize winner, dies in Paris</HEADLINE>
+<SUBJECT> BC-FRANCE-LWOFF </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Andre Lwoff, a scientist at the prestigious Pasteur Institute and a winner of the Nobel Prize for Medicine in 1965, died in Paris over the weekend aged 92, the institute said Monday. </P>
+<P> The French researcher was a renowned expert in the fields of microbiology, virology and cancer research. </P>
+<P> He shared the 1965 Nobel Prize with Francois Jacob and Jacques Monod for their work in cellular biology. </P>
+<P> Lwoff held numerous honorary degrees and was a member of scientific societies across Europe, in the United States and in Russia. </P>
+</TEXT>
+</DOC>

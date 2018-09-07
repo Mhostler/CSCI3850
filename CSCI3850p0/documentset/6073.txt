@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU016-0395.950426</DOCID>
+<TDTID>TDT013120</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/26/95 18:52</DATE>
+<TITLE> Semate panel delays writing a balanced budget</TITLE>
+<HEADLINE> Semate panel delays writing a balanced budget</HEADLINE>
+<SUBJECT> BC-BUDGET </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Senate Budget Committee Chairman Pete Domenici Wednesday abruptly delayed a meeting to write a balanced budget after Republicans on his committee expressed concerns about deep cuts in the growth of Medicare. </P>
+<P> The meeting set for Thursday was reset for May 8 -- an 11-day delay. </P>
+<P> ``I don't see in any way, shape or form this (delay) has slowed the desire of members of the committee to achieve a balanced budget by 2002,'' said a committee spokesman. </P>
+<P> Congressional Republicans have made balancing the budget by 2002 a top political and economic priority, but have rejected raising taxes or cutting the military to do so. In fact, many demand that taxes be cut. </P>
+<P> For example, budget committee member Sen. Phil Gramm, R-Texas, said Wednesday he will not vote for a budget unless it contains tax cuts. </P>
+<P> That means that Medicare for the elderly and Medicaid for the poor, which are the fastest growing parts of the budget and among its most costly, must be cut severely. </P>
+<P> The burgeoning growth will break the Medicare trust fund by 2002 unless something is done, and a budget committee spokesman said it was that concern causing the delay. </P>
+<P> But senior citizens groups, which proved their muscle by getting Social Security placed off-limits to budget cutters, have now zeroed in on the possible danger to their federally supported health benefits. </P>
+<P> That could put Republicans in a tight spot if deep cuts in benefits become necessary. </P>
+<P> ``I think there are a lot of Republicans...who think those numbers are undoable and want to talk about it before they go out there and get clobbered,''said a health care industry source. </P>
+<P> Some members said that despite concerns about Medicare they felt confident a budget deal was coming. </P>
+<P> ``I don't think the committee is that far away from rewaching consensus,'' said Sen. Judd Gregg, R-N.H. ``It just needs a little more time.'' </P>
+<P> Domenici wants to cut the growth of Medicare from 10 percent to 7 percent annually, saving $250 billion over seven years. He has also proposed to other Republicans cuts of $160 billion for Medicaid for the poor. </P>
+<P> Domenici said that his proposal may require caps on spending. Those caps could in turn lead to reductions in payments for individuals or health providers. </P>
+</TEXT>
+</DOC>

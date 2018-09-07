@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU012-0424.950324</DOCID>
+<TDTID>TDT011646</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/24/95 06:09</DATE>
+<TITLE> World's first AIDS case may be false-British paper</TITLE>
+<HEADLINE> World's first AIDS case may be false-British paper</HEADLINE>
+<SUBJECT> BC-AIDS-HEALTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON, March 24 (Reuter) </DATELINE>
+<P>  Evidence proving the world's first AIDS case -- a Briton who died in the 1950s -- may have been false, the Independent newspaper said on Friday in a case that could cast doubt on current wisdom over the deadly disease. </P>
+<P> Pinpointing the first victim is important for scientists eager to know the epidemic's origins and why it arose now. </P>
+<P> The discovery that the first victim may not have been could therefore undermine accepted thinking about the origins of the Human Immunodeficiency Virus (HIV) and how the global epidemic began, the paper said. </P>
+<P> But a member of the British research team which published the original analysis to world acclaim in 1990 told the Independent he stood by his work and could not understand the discrepancy. </P>
+<P> David Carr, a 25-year-old Briton who died in 1959, was dubbed ``patient zero'' in scientific circles and considered to be the first confirmed case of Acquired Immune Deficiency Syndrome. </P>
+<P> But U.S. scientists believe the tissue samples used by British-based researchers in the original analysis were not from the 1959 victim but from an AIDS victim who died in about 1990. </P>
+<P> Researchers at the New York University School of Medicine have repeatedly tried but failed to detect HIV in tissue taken from Carr's corpse, the paper said. The samples were stored for more than 30 years at Manchester University in northern England. </P>
+<P> The New York team, according to the paper, has dismissed the idea that the strain of HIV found in the tissue dates from the 1950s and was instead one that was prevalent in 1990. Experts say this strain could not have existed more than 30 years ago because of the speed at which viruses mutate. </P>
+<P> The team has also confirmed that the samples used in the ground-breaking 1990 research came from a different person to the tissues that purport to come from Carr's body, it said. </P>
+<P> The Independent said the U.S. researchers have concluded that not only was the authenticity of the research in doubt but also ``there has either been a monumental mix-up or a deliberate switch of experimental material.'' It was now up to the British team to explain the discrepancy. </P>
+<P> The pathologist who performed Carr's post-mortem said: ``I'm utterly, absolutely confident of the authenticity of that material.'' </P>
+</TEXT>
+</DOC>

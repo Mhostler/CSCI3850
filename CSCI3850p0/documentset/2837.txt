@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0099.941126</DOCID>
+<TDTID>TDT007048</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/26/94 05:01</DATE>
+<TITLE> British and local aid workers go missing in Zaire</TITLE>
+<HEADLINE> British and local aid workers go missing in Zaire</HEADLINE>
+<SUBJECT> BC-RWANDA-BRITISH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A British aid worker and four local workers have disappeared near a camp for Rwandan refugees after being led away by Zairean troops, Britain's Foreign Office said Saturday. </P>
+<P> ``At some time on November 25 a convoy was stopped by Zairean troops. The fifth and last vehicle in the convoy contained a British aid worker and four local workers from the Lutheran World Federation,'' a spokesman said. </P>
+<P> ``All five were taken from the vehicle and marched off into the bush,'' he said. ``We are making enquiries.'' </P>
+<P> He said the incident happened near the Kitale refugee camp, home to hundreds of thousands of Rwandans. </P>
+<P> The teeming Rwandan refugee camps of eastern Zaire have been gripped by fresh violence. </P>
+<P> Aid officials said the Briton went missing during clashes between Zairean troops and camp inmates in which at least eight refugees were shot dead Friday. </P>
+</TEXT>
+</DOC>

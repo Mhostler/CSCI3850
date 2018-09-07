@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU014-0278.950131</DOCID>
+<TDTID>TDT009951</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/31/95 18:23</DATE>
+<TITLE> Former Sen. Gary Hart turns talk show host</TITLE>
+<HEADLINE> Former Sen. Gary Hart turns talk show host</HEADLINE>
+<SUBJECT> BC-HART </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DENVER (Reuter) </DATELINE>
+<P>  Former Colorado senator and presidential hopeful Gary Hart will host his own talk-radio program, according to the director of a Colorado radio station. </P>
+<P> KOA-AM, which can be heard in parts of 38 states, will air Hart's interview show starting Sunday, said program director Kris Olinger. </P>
+<P> ``There is a great deal of criticism of talk radio, that it's too conservative,'' Olinger said. KOA broadcasts conservative pundit Rush Limbaugh's daily show. </P>
+<P> Hart, a 1988 Democratic presidential contender, who withdrew following reports of an alleged romance with model Donna Rice, now practices law in Denver. </P>
+<P> Hart's program, which will kick off with a one-hour interview with actor, environmentalist and Colorado resident Dennis Weaver, will follow Ross Perot's weekly radio show. </P>
+</TEXT>
+</DOC>

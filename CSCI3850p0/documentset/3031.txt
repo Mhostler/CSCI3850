@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU003-0147.941206</DOCID>
+<TDTID>TDT007522</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 17:18</DATE>
+<TITLE> Judge orders resumption of rape-incest abortions</TITLE>
+<HEADLINE> Judge orders resumption of rape-incest abortions</HEADLINE>
+<SUBJECT> BC-ABORTION-ILLINOIS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  A federal judge Tuesday ordered the state of Illinois to provide Medicaid funding for abortions in cases of rape and incest. </P>
+<P> The ruling, a permanent injunction from Judge Charles Kocoras of the U.S. District Court, came in a suit filed by Planned Parenthood. Planned Parenthood was challenging a decision by a state administative panel that put a halt to such funding. </P>
+<P> The decision ``vindicates our very simple position: If the state of Illinois takes federal funding for the Medicaid system, it has to comply with federal law and provide abortion funding for rape and incest victims,'' said Colleen Connell, a lawyer with the American Civil Liberties Union. </P>
+<P> Illinois had been paying for such abortions since July but stopped after a committee on administrative rules voted Nov. 15 to halt the funding. </P>
+<P> Planned Parenthood sued to require the state to obey the Hyde Amendment which says states must provide Medicaid funding for abortions in cases of rape and incest. </P>
+</TEXT>
+</DOC>

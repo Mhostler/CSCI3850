@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU006-0133.950410</DOCID>
+<TDTID>TDT012372</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/10/95 01:47</DATE>
+<TITLE> Sri Lanka resumes stalled talks with Tamil rebels</TITLE>
+<HEADLINE> Sri Lanka resumes stalled talks with Tamil rebels</HEADLINE>
+<SUBJECT> BC-SRILANKA-PEACE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>COLOMBO, April 10 (Reuter) </DATELINE>
+<P>  A Sri Lankan government team led by a top aide to President Chandrika Kumaratunga flew to the northern Tamil rebel stronghold of Jaffna on Monday to resume stalled peace talks with the guerrillas, officials said. </P>
+<P> A senior army officer was in the team, which will discuss with the rebels the killing on Saturday of two soldiers at Palaly airbase in Jaffna. The incident was the first major violation of a three-month truce in effect between the two sides since January 8, the officials said. </P>
+<P> The military has said Saturday's deaths would not affect the truce with the Liberation Tigers of Tamil Eelam (LTTE) rebels, who are fighting for a separate homeland in the north and east. </P>
+<P> Monday's talks will be the first since the two sides met on January 14 when they indefinitely extended the ceasefire. </P>
+<P> The government intiated peace talks with the rebels last October but the dialogue stalled in January after three meetings, with both sides blaming the other. </P>
+<P> Officials said the government team was led by presidential aide Kusumsiri Balapatabendi. </P>
+<P> The Tigers have denied involvement in Saturday's incident in which the military said two soldiers were shot dead at an observation post on the outskirts of the Palaly airbase. </P>
+</TEXT>
+</DOC>

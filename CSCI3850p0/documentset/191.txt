@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU006-0338.940712</DOCID>
+<TDTID>TDT000464</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/12/94 18:45</DATE>
+<TITLE> UNITED AIRLINES EMPLOYEE BUYOUT APPROVED</TITLE>
+<HEADLINE> UNITED AIRLINES EMPLOYEE BUYOUT APPROVED</HEADLINE>
+<SUBJECT> BC-USA-UAL </SUBJECT>
+<AUTHOR>     By Tricia Commins </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  United Airlines became the nation's largest employee-owned company Tuesday when its shareholders approved a plan calling for employees to trade $5 billion in wages and work-rule concessions for control of the airline. </P>
+<P> The aim of the buyout, originally broached in the late 1980s, is to make United competitive with lower-cost carriers. </P>
+<P> But industry analysts said the future of the company, UAL Corp, will be turbulent as the employee-controlled and recapitalized airline deals with cost cuts, fare wars and some dissident workers. </P>
+<P> ``What will happen is that costs will come down immediately, which gives the company a fighting chance to put its house in order and for employees to proceed from there to either succeed or fail on their own merits,'' said Louis Marckesano at Roffman Miller Associates, a Philadelphia research firm. </P>
+<P> Under the buyout, UAL workers will receive an initial stake of 55 percent of the company in return for the wage and work-rule concessions. </P>
+<P> More than 70 percent of the shareholder votes collected favored the buyout. </P>
+<P> The Employee Stock Ownership Plan, the latest in a series of attempts by employees to gain control of the carrier, had been approved by UAL's board and two of its three unions. </P>
+<P> But a key union, the Association of Flight Attendants, is not included in the plan, and analysts said their omission could be crucial. </P>
+<P> Despite union approval of the buyout, there were still vocal dissidents among the International Association of Machinists and Aerospace Workers and the Air Line Pilots Association. </P>
+<P> The dissidents oppose the pay cuts of about 15 percent for pilots and 10 percent for machinists. </P>
+<P> Other carriers have made similar moves to save on wages and to compete against low-cost carriers like Southwest Air, which has been making steady inroads. Northwest Airlines and Trans World Airlines Inc are partly owned by their employees, and other carriers have considered it. </P>
+</TEXT>
+</DOC>

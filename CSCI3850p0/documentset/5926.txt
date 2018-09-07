@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0193.950421</DOCID>
+<TDTID>TDT012844</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/21/95 12:18</DATE>
+<TITLE> Abiola's doctor held, Nigeria democracy group says</TITLE>
+<HEADLINE> Abiola's doctor held, Nigeria democracy group says</HEADLINE>
+<SUBJECT> BC-NIGERIA-ARREST </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LAGOS, Nigeria (Reuter) </DATELINE>
+<P>  The personal physician of detained Nigerian presidential claimant Moshood Abiola has been arrested, the Campaign for Democracy (CD) group said Friday. </P>
+<P> It said in a statement that Ore Falomo was detained Thursday in the capital Abuja where he had been invited by government authorities to examine Abiola. </P>
+<P> ``Dr. Falomo ... was tricked to Abuja by the government ostensibly to examine his quite sick patient,'' said CD, an umbrella group of human rights and democracy activists opposed to the government. </P>
+<P> There was no immediate official comment about Falomo, who has repeatedly alleged that Abiola is seriously ill in detention. The government denies this. </P>
+<P> CD said all efforts by Falomo's family to contact him had failed and it called for his immediate release. </P>
+<P> Abiola, a wealthy businessman believed to have won the annulled 1993 presidential vote, has been detained since June last year and is facing trial for treason for proclaiming himself president. </P>
+</TEXT>
+</DOC>

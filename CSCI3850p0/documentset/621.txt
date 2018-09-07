@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU003-0177.940805</DOCID>
+<TDTID>TDT001534</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/05/94 18:32</DATE>
+<TITLE> U.S. SURGEON GENERAL URGES MOMS TO BREAST FEED</TITLE>
+<HEADLINE> U.S. SURGEON GENERAL URGES MOMS TO BREAST FEED</HEADLINE>
+<SUBJECT> BC-USA-BREASTFEEDING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  U.S. Surgeon General Joycelyn Elders Friday urged moms to throw away their infant formulas and breast feed their babies because it provides more nutrition. </P>
+<P> ``Being a pediatrician and a mother I know the importance of breast feeding and we certainly want to encourage, promote and support it,'' Elders told a news conference at Georgetown University Hospital. </P>
+<P> Only 56 percent of American women breast feed their babies and she agreed with United Nations' health officials' goal of raising that to 75 percent by the turn of the century. After six months the percentage of women breast feeding drops to 35 percent. Elders said she would like to see that at 50 percent. </P>
+<P> ``Our society doesn't really accept breast feeding in public,'' she said. </P>
+<P> She and United Nations Children's Fund officials said more public education was needed to make breast feeding more acceptable and prevalent. </P>
+<P> Studies have shown breast feeding dramatically reduces infant mortality. </P>
+<P> If every mother in the country nursed her baby for the first 12 weeks, there would be 4,000 fewer infants deaths each year and $4 billion would be saved in medical costs, Georgetown doctors said. </P>
+<P> Human milk contains an ideal balance of nutrients for babies and gives valuable antibodies to protect them against infections. It also more easily digested, medical experts say. </P>
+<P> The physical intimacy of breast feeding is also said to forge a bond between mother and child. </P>
+</TEXT>
+</DOC>

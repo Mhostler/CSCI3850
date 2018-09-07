@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0001.941128</DOCID>
+<TDTID>TDT007132</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/28/94 17:19</DATE>
+<TITLE> UK government wins key EU budget vote</TITLE>
+<HEADLINE> UK government wins key EU budget vote</HEADLINE>
+<SUBJECT> BC-BRITAIN-VOTE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Prime Minister John Major's government Monday won a crucial parliamentary vote to increase Britain's contribution to the European Union budget. </P>
+<P> The government, which said it would resign and call a general election if it were defeated, won by 330 votes to 303. </P>
+</TEXT>
+</DOC>

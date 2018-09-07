@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU007-0274.940815</DOCID>
+<TDTID>TDT001917</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/15/94 07:51</DATE>
+<TITLE> RUSSIAN COASTGUARDS OPEN FIRE ON JAPANESE BOATS</TITLE>
+<HEADLINE> RUSSIAN COASTGUARDS OPEN FIRE ON JAPANESE BOATS</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-JAPAN URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Russian coast guards opened fire on two Japanese boats which they said were poaching fish in waters off the disputed South Kurile islands on Monday, causing casualties, Itar-Tass news agency said. </P>
+</TEXT>
+</DOC>

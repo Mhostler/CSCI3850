@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0444.941219</DOCID>
+<TDTID>TDT008155</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/19/94 01:36</DATE>
+<TITLE> New York shootout leaves 3 dead, 3 injured</TITLE>
+<HEADLINE> New York shootout leaves 3 dead, 3 injured</HEADLINE>
+<SUBJECT> BC-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A gunbattle between police and a would-be robber that started in a Chinese restaurant Sunday night left three people dead, including the gunman and a pregnant cashier, police said Monday. </P>
+<P> Three others, two police officers and the restaurant manager, were wounded in the incident that ended after a four-block chase through a middle-class neighborhood in the New York City borough of Queens. </P>
+<P> Over 100 shots were fired during the gunfight, which started when the alleged robber pulled a gun in the Tung Shing House restaurant about 9:30 p.m. and demanded cash, said Sgt. James Coleman, a police spokesman. </P>
+<P> The cashier and the manager were apparently shot when the manager tried to stop the robbery. Police chased the gunman, described as an Asian male in his 20s, through the streets of the Rego Park section of Queens. </P>
+<P> The chase ended at a parking garage where the suspect and a bystander were killed. </P>
+<P> U.S. Rep. Gary Ackerman, D-N.Y., who was eating in the restaurant, alerted police on his cellular phone after hearing shots.  The restaurant manager and the two police officers were in stable condition were in stable condition at a local hospital, police said. There was no immediate word on the fate of the cashier's unborn baby. </P>
+<P> Ackerman said he ordered his family to get under the table while he called police. The restaurant is located in his home district. </P>
+</TEXT>
+</DOC>

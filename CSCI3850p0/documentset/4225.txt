@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0305.950208</DOCID>
+<TDTID>TDT010227</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/08/95 11:42</DATE>
+<TITLE> British soldier tried to kill Irish republican</TITLE>
+<HEADLINE> British soldier tried to kill Irish republican</HEADLINE>
+<SUBJECT> BC-IRISH-SOLDIER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELFAST, Northern Ireland (Reuter) </DATELINE>
+<P>  A British soldier was jailed for ten years in Belfast Wednesday for trying to murder a leading Irish republican three days after an October 1993 IRA blast killed nine Protestants and one of the guerrilla bombers. </P>
+<P> Andrew Brian Clarke, 22, was passing the dead bomber's home in a military vehicle when he sprayed mourners standing outside with gunfire, hitting the man twice in the chest. </P>
+<P> Clarke and colleagues, who managed to disarm him, were on patrol to guard against reprisal attacks by Protestant guerrillas. </P>
+<P> A Belfast court was told that Clark said: ``F... the bastards, I shot the bastards.'' </P>
+<P> Clarke, from Merseyside in northwest England, told police he felt angry at seeing people whom he believed were terrorists walking the streets of Belfast laughing at soldiers. </P>
+<P> The judge said the attack was committed ``on the spur of the moment, promoted by an uncontrollable impulse.'' He added: ``There can be no excuse for a soldier to allow his frustration to boil over, lose his head and shoot people in the street when there was no possible justification in law.'' </P>
+</TEXT>
+</DOC>

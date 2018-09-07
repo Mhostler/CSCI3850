@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0059.950226</DOCID>
+<TDTID>TDT010776</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/26/95 13:12</DATE>
+<TITLE> Clinton hails trade accord with China</TITLE>
+<HEADLINE> Clinton hails trade accord with China</HEADLINE>
+<SUBJECT> BC-TRADE-CHINA-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Sunday hailed an accord with China on U.S. copyright protection, saying it was a strong agreement that would help U.S. companies and workers. </P>
+<P> ``U.S. action in China is part of the broader economic strategy of my administration to create high-paying jobs for Americans,'' Clinton said in a written statement. </P>
+</TEXT>
+</DOC>

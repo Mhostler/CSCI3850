@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU015-0211.940930</DOCID>
+<TDTID>TDT004279</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/30/94 20:16</DATE>
+<TITLE> U.S. still wants fixed date to lift arms ban</TITLE>
+<HEADLINE> U.S. still wants fixed date to lift arms ban</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-USA </SUBJECT>
+<AUTHOR>     By Patrick Worsnip </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The United States would like the United Nations to vote to lift its arms embargo on Bosnia by a specific date, but thinks the Security Council is unlikely to pass such a resolution, the State Department said Friday. </P>
+<P> Spokesman Mike McCurry denied published reports that the Clinton administration had decided not to press for a binding resolution to lift the three-year-old embargo, backing away from a pledge the president made to Congress last month. </P>
+<P> ``It is far from resolved what will happen,'' McCurry said. </P>
+<P> Clinton promised Congress that if the Bosnian Serbs had not agreed to an international peace plan by October 15, he would seek a U.N. resolution to lift the embargo, a move seen as aiding Bosnia's mainly Muslim government. </P>
+<P> But Bosnian President Alija Izetbegovic said this week that although the resolution should be passed as soon as possible, it should not go into effect for another six months. </P>
+<P> Despite this, Britain, France and Russia -- all veto-holding powers in the Security Council -- continue to oppose a resolution that would automatically lift the embargo on a precise date. </P>
+<P> But McCurry said Washington still sought this. ``We would prefer to have a date certain by which the arms embargo would be lifted,'' he told reporters in New York, where Secretary of State Warren Christopher was attending the U.N. General Assembly. </P>
+<P> But he added that in view of the objections by other Security Council members ``it would be unlikely the Security Council would pass such a resolution.'' </P>
+<P> Britain and France fear that if the embargo is lifted, their troops with the U.N. peacekeeping force in former Yugoslavia will be attacked by Bosnian Serb forces. Russia, which is sympathetic to the Serbs, is even more opposed. </P>
+<P> French Foreign Minister Alain Juppe said Friday: ``We would not be able to accept a text that would automatically lift the embargo in six months' time.'' </P>
+<P> He also said Christopher had assured him Sunday that Washington, too, was not seeking ``automaticity'' -- the term U.N. diplomats have given to the idea. </P>
+<P> Clinton promised Congress that if the U.N. failed to pass a resolution lifting the arms embargo, he would study ways in which the United States might lift it unilaterally. </P>
+<P> Bosnia's Muslims, who are heavily outgunned by the Serbs, say that if the embargo was dropped it would force the Serbs to accept the peace plan which gives them 49 percent of Bosnia instead of the 70 percent they hold now. </P>
+<P> British Foreign Secretary Douglas Hurd has said, however, that the move would lead to all-out war by creating a ``level killing-field'' in Bosnia. </P>
+</TEXT>
+</DOC>

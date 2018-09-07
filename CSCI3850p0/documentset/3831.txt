@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU008-0190.950118</DOCID>
+<TDTID>TDT009471</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/18/95 17:01</DATE>
+<TITLE> Democratic senators attack Gingrich and Greenspan</TITLE>
+<HEADLINE> Democratic senators attack Gingrich and Greenspan</HEADLINE>
+<SUBJECT> BC-CONGRESS-INFLATION </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Three Democratic senators Wednesday accused House Speaker Newt Gingrich of trying to ``cook the books'' so Republicans can cut Social Security and raise taxes on middle-income earners. </P>
+<P> Democrats attacked Gingrich's attempt to force a change in the way inflation is calculated. They said Gingrich's plan would cut annual cost-of-living increases for the personal income tax exemption and Social Security recipients. </P>
+<P> Gingrich and other Republicans have embraced a suggestion by Federal Reserve Board Chairman Alan Greenspan that Congress consider adjusting the Consumer Price Index because it overstates inflation. </P>
+<P> ``It is a stealth way of increasing taxes on the middle class and cutting Social Security to the elderly, nothing more or less than that,'' charged Sen. Tom Harkin, D-Iowa, at a news conference where he and two other senators unveiled a resolution to oppose Greenspan's suggestion. </P>
+<P> Tony Blankley, a spokesman for Gingrich, replied that the Democratic attack pointed to ``the total disarray of the Democratic party in the aftermath of their (electoral) defeat ... they have no proposals, no policy, no ideas and are left sputtering politically.'' </P>
+<P> Social Security increases and the income tax personal exemption are both pegged to the Consumer Price Index, which is calculated by the Bureau of Labor Statistics. </P>
+<P> Gingrich, R-Ga., said recently that the Bureau of Labor Statistics must change its formula within 30 days or he would eliminate it and transfer its responsibilities to others. That brought howls of outrage from Democrats. </P>
+<P> ``We find a major political figure in town trying to doctor the numbers, cook the books, to satisfy his own desire to achieve a balanced budget with false numbers,'' charged Sen. Christopher Dodd, D-Conn. </P>
+<P> The Democrats also attacked Greenspan, saying he believed inflation was overstated for ordinary Americans but had increased interest rates six times in the past year. </P>
+<P> ``The Fed chairman can't have it both ways,'' said Sen. Tom Harkin, D-Ill. No spokesman for Greenspan was immediately available for comment. </P>
+<P> Greenspan testified last week that the CPI may overstate inflation by 0.5 percent to 1.5 percent annually and perhaps should be changed. The Consumer Price Index increased 2.7 percent between December 1993 and December 1994. </P>
+<P> Sen. Byron Dorgan, D-N.D., said the change advocated by Greenspan would increase personal income taxes $21.4 billion and lower Social Security benefits $27.5 billion by 2000. Dorgan said that it is an unsettled question whether the CPI is too high, just right, or too low. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0404.950217</DOCID>
+<TDTID>TDT010511</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/17/95 03:42</DATE>
+<TITLE> Tank, shell fire overnight near Grozny - Interfax</TITLE>
+<HEADLINE> Tank, shell fire overnight near Grozny - Interfax</HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Russian and Chechen forces exchanged shell and tank fire overnight near the Chechen capital of Grozny, Interfax news agency said Friday. </P>
+<P> The agency, reporting from Grozny, said Russian troops had shelled separatist Chechen positions at Stariye Atagi, 20 miles south of the city, and the Chechens had replied with tank fire. </P>
+<P> The new fighting appeared clearly to violate a 48-hour general cease-fire running from midnight Wednesday and provided a grim backdrop for a new round of truce talks due to take place Friday. </P>
+<P> Interfax said Chechen forces loyal to separatist leader Dzhokhar Dudayev were shelling Russian armored positions along a line from Gikalo to Chechen-Aul south of Grozny. </P>
+<P> It said there had also been small arms fire overnight in the capital. </P>
+<P> Interfax said preparations were still going ahead for a fresh round of cease-fire talks Friday scheduled to be held between military leaders of the two sides in the Ingushi settlement of Sleptsovsk on the Chechnya border. </P>
+</TEXT>
+</DOC>

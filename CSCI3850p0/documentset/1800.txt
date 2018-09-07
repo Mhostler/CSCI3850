@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU002-0262.941004</DOCID>
+<TDTID>TDT004450</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/04/94 11:39</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-SAFRICA-MANDELA-ARRIVAL -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Clinton recalled that Mandela had been imprisoned for 27 years, yet sought peace, freedom and equality instead of retribution when he emerged from jail. </P>
+<P> ``Every day, you teach the world that those who build triumph over those who tear down, that those who unite can actually prevail over those who divide,'' Clinton said as Mandela stood beside him, appearing at one point to wipe away a tear. </P>
+<P> Clinton said the United States wanted to work with South Africa to help open its markets and overcome problems of poverty and homelessness, adding: ``We salute your stunning achievement. We will walk every mile with you. We will not grow weary on the way.'' </P>
+<P> Mandela thanked the United States for its support in overcoming apartheid and bringing South Africa under black majority rule, and asked for help rebuilding his country. ``I have come here with a message: people of the United States of America, open your markets to us ... Come and invest in our country,'' he said. </P>
+</TEXT>
+</DOC>

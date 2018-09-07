@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0202.950413</DOCID>
+<TDTID>TDT012511</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/13/95 09:24</DATE>
+<TITLE> Italian senator caught speeding at 134 mph</TITLE>
+<HEADLINE> Italian senator caught speeding at 134 mph</HEADLINE>
+<SUBJECT> BC-ITALY-SPEED </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VENICE, Italy (Reuter) </DATELINE>
+<P>  Italian senator Stefano Stefani has been forced to pull over from life in the fast lane after being fined for driving 134 mph. </P>
+<P> The top highway speed limit in Italy is 81 mph. </P>
+<P> Police caught Stefani, 57, a leading member of the Northern League party, speeding on a motorway near Venice earlier this month, the ANSA news agency reported Thursday. </P>
+<P> He was handed a fine of $320 and risks having his driving license suspended for a month. </P>
+<P> Ansa quoted the legislator as saying he did not realize he was driving so fast and normally does not do so. </P>
+</TEXT>
+</DOC>

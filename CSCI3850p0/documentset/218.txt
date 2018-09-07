@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU007-0242.940714</DOCID>
+<TDTID>TDT000529</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/14/94 02:18</DATE>
+<TITLE> IAEA'S BLIX PRAISES CHINESE NUCLEAR ENERGY - XINHUA</TITLE>
+<HEADLINE> IAEA'S BLIX PRAISES CHINESE NUCLEAR ENERGY - XINHUA</HEADLINE>
+<SUBJECT> BC-NUCLEAR-CHINA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  The director-general of the International Atomic Energy Agency (IAEA) praised the security of China's nuclear energy plants and its efforts to promote worldwide nuclear safety, Xinhua news agency said Thursday. </P>
+<P> The report came as news media in Hong Kong questioned the safety of China's recently opened Daya Bay nuclear power plant near the crowded British colony. </P>
+<P> IAEA chief Hans Blix arrived in Beijing earlier this month, as guest of Jiang Xinxiong, chairman of China's Atomic Energy Authority. He left Beijing Tuesday to visit nuclear-related factories in Xinjiang, Gansu and Tibet. </P>
+<P> Xinhua quoted Blix in an interview as congratulating China on the successful commercial operation of its Daya Bay and Qinshan nuclear power plants, saying the pressurised water reactor adopted by both is commonly used in the world and is the safest of its kind. </P>
+<P> In May, IAEA sent an international regulatory review team to China to check and assess the management of China's nuclear power plants and the results were satisfactory, Blix said. </P>
+<P> Blix also praised China for helping in the IAEA drafting of an international nuclear safety convention during the past year, Xinhua said. </P>
+<P> Xinhua quoted an official of the China Atomic Energy Authority as saying China has had effective exchanges and cooperation with the IAEA since becoming a member 10 years ago, with more than 40 cooperative projects under way. </P>
+<P> Blix's reported comments contrasted with critical newspaper coverage in Hong Kong of operations at the nearby Daya Bay nuclear plant. </P>
+<P> On Monday, Hong Kong's Eastern Express newspaper reported that Fan Heming, mainland deputy manager of Daya Bay who is being groomed to take over perhaps by as early as next year, had admitted he ``did not know much'' about nuclear power before going to Daya Bay in 1992. </P>
+</TEXT>
+</DOC>

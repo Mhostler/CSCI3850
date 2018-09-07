@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU005-0391.950409</DOCID>
+<TDTID>TDT012345</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/09/95 06:02</DATE>
+<TITLE> Sporadic protests continue in Bahrain</TITLE>
+<HEADLINE> Sporadic protests continue in Bahrain</HEADLINE>
+<SUBJECT> BC-BAHRAIN-UNREST </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA, April 9 (Reuter) </DATELINE>
+<P>  Sporadic anti-government protests continued in some of Bahrain's Shi'ite Moslem villages over the weekend but the situation in the capital Manama and nearby areas was calm, residents said on Sunday. </P>
+<P> They said villagers in Karzakan and nearby Dumistan, 20 km (13 miles) southwest of Manama, blocked roads and burned tyres in the early hours of Saturday. Protests were also reported in the small village of Bori. </P>
+<P> A police helicopter was seen hovering over the area during the day and dozens of riot police rushed to the scene, they added. There were no immediate reports of casualties. </P>
+<P> But the situation in other areas was quiet with no reports of riots or arson attacks. Riot police, backed by armoured vehicles, were seen patrolling the main road leading to villages west of Manama on Saturday, they said. </P>
+<P> Some shops, mainly in Shi'ite villages, observed a strike on Saturday in response to a call by an exiled opposition group to press for political reforms and protest against a government crackdown on dissidents. </P>
+<P> But the call was largely ignored in Manama where business life was normal, residents said. They said about 30 people were freed from detention two days ago but also reported new arrests. </P>
+<P> Hundreds of people have been detained in the four-month-old anti-government unrest in which at least 10 civilians and three policemen have so far been reported killed. </P>
+</TEXT>
+</DOC>

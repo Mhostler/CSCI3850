@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU013-0051.941027</DOCID>
+<TDTID>TDT005667</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/27/94 17:21</DATE>
+<TITLE> Device that set off radar detectors is zapped</TITLE>
+<HEADLINE> Device that set off radar detectors is zapped</HEADLINE>
+<SUBJECT> BC-ZAPPER-ZAPPED </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>INDIANAPOLIS (Reuter) </DATELINE>
+<P>  The Zapper, a radio transmitter that can be rigged to set off automobile radar detectors, has been zapped, its manufacturer said Thursday. </P>
+<P> Electronic Rainbow Inc. of Indianapolis, which advertised its transmitter as a way to stop speeders, said it heeded a Federal Communications Commission order to stop selling the $50 device, which is about the size of a cigarette pack. </P>
+<P> The company faced daily fines of $10,000. </P>
+<P> The device was originally intended for amateur radio operators to tap out messages in Morse code. </P>
+<P> But with a few minor adjustments, the signal changes to 10.525 gigahertz, which triggers alarms on radar detectors. </P>
+<P> ``I don't want to antagonize the FCC ... (But) I don't see what the harm is in setting off radar detectors in people's cars,'' Electronic Rainbow sales manager Hal Mandery said. </P>
+<P> Mandery said road crews were using the devices to slow down drivers as they neared work sites. </P>
+<P> ``When you hit the button on the highway, you should see the brake lights come on,'' Mandery said. </P>
+<P> The FCC said the device had not received federal approval and would likely be required to have safeguards to prevent its alternative use as a signal to radar detectors. </P>
+<P> Radar detectors are illegal in several states, and a federal law prohibits truckers from using them. </P>
+</TEXT>
+</DOC>

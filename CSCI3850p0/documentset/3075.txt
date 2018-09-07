@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0142.941208</DOCID>
+<TDTID>TDT007612</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 11:22</DATE>
+<TITLE> Teen-agers arrested in slaying of two guards</TITLE>
+<HEADLINE> Teen-agers arrested in slaying of two guards</HEADLINE>
+<SUBJECT> BC-GUARDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LAKE OZARK, Mo (Reuter) </DATELINE>
+<P>  Two teen-age boys -- sought in the slaying of two security guards who apparently surprised them during a burglary -- were captured Thursday following an all-night search across this resort area. </P>
+<P> State police said Christopher Creed, 17, and an unidentified 13-year-old companion were arrested at a summer home near Lake of the Ozarks. </P>
+<P> Officers said they tracked the pair down after the boys called the home of a relative in the Jefferson City, Mo., area where both lived. </P>
+<P> The arrests followed a night-long search involving 100 officers that began Wednesday afternoon when William Jensen, 23, and Fred Feuser, 47, were found shot to death outside a lakefront home owned by Jensen. </P>
+<P> Both were security guards at the Lodge of the Four Seasons and were armed, but their guns had not been removed from their holsters and both were shot in the head. </P>
+<P> Investigators said they believed the two guards came across the boys in the midst of a break-in. </P>
+</TEXT>
+</DOC>

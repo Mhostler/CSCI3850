@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU004-0264.950406</DOCID>
+<TDTID>TDT012216</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 17:48</DATE>
+<TITLE> Seagram to buy 80 percent stake in MCA</TITLE>
+<HEADLINE> Seagram to buy 80 percent stake in MCA</HEADLINE>
+<SUBJECT> BC-SEAGRAM-MCA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Seagram Co is close to buying an 80 percent stake in Hollywood entertainment giant MCA Inc for nearly $7 billion, industry sources and analysts said Thursday. </P>
+<P> MCA is owned by Japanese electronics giant Matsushita Electric Industrial Co., which has been trying to get out of the investment. </P>
+<P> Seagram is also close to selling its 24.1 percent stake in DuPont Co. back to the chemical company for about $10 billion. That deal is expected to be announced late Thursday. </P>
+</TEXT>
+</DOC>

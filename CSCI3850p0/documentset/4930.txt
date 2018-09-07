@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0347.950314</DOCID>
+<TDTID>TDT011296</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/14/95 22:03</DATE>
+<TITLE> Angolan government denies it violates peace accord</TITLE>
+<HEADLINE> Angolan government denies it violates peace accord</HEADLINE>
+<SUBJECT> BC-ANGOLA-PEACE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LUANDA, Angola (Reuter) </DATELINE>
+<P>  The Angolan government Tuesday denied it had invaded U.N. buffer zones in northern Uige province in defiance of a November peace agreement. </P>
+<P> ``The government is not occupying any areas where it is not supposed to be. It is a question of interpretation,'' said government representative Gen. Higino Carneiro on state radio. </P>
+<P> He was responding to a claim by U.N. Gen. Chris Garuba on Monday that government troops were violating the accord by moving into areas left by UNITA (National Union for the Total Independence of Angola) forces. </P>
+<P> The U.N. Security Council has warned both sides that it would not deploy the bulk of a 7,300-strong U.N. peacekeeping force until they complied with terms of the November accord. </P>
+<P> UNITA has been fighting a bush war against the ruling MPLA (Popular Movement for the Liberation of Angola) almost continuously since independence in 1975. </P>
+<P> A peace accord in 1991 brought a brief respite to the fighting, but UNITA took up arms again in 1992 after rejecting its defeat by the MPLA in U.N.-supervised elections. </P>
+</TEXT>
+</DOC>

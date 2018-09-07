@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU014-0322.940730</DOCID>
+<TDTID>TDT001248</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/30/94 14:11</DATE>
+<TITLE> CLINTON TAKES A TUMBLE DURING MORNING JOG</TITLE>
+<HEADLINE> CLINTON TAKES A TUMBLE DURING MORNING JOG</HEADLINE>
+<SUBJECT> BC-CLINTON-JOG </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton took a bit of a tumble Saturday during his regular morning jog and scraped a knee and an elbow. </P>
+<P> ``He just missed his step,'' said White House spokeswoman Dee Dee Myers. ``I think he is going to have a bruised knee.'' </P>
+<P> Unhurt, the president completed his roughly three-mile run that took him around the Lincoln Memorial. </P>
+</TEXT>
+</DOC>

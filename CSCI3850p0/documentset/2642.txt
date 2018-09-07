@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0028.941116</DOCID>
+<TDTID>TDT006593</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/16/94 10:32</DATE>
+<TITLE> Russian oil executive shot dead in Moscow</TITLE>
+<HEADLINE> Russian oil executive shot dead in Moscow</HEADLINE>
+<SUBJECT> BC-RUSSIA-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  A Russian oil executive has been shot and killed in Moscow, police said Wednesday. </P>
+<P> The body of Vladimir Zakharov was found in the garage of his home in north Moscow Tuesday. He had been shot several times in the stomach and chest, a spokeswoman told Reuters. </P>
+<P> According to some unofficial estimates, organized criminal groups known in Russia as ``mafia'' control more than half of the country's private sector, undermining support for President Boris Yeltsin's market reforms. </P>
+<P> Shootouts between gangsters, contract killings and car bomb explosions have become commonplace in big cities, fuelling fears of anarchy in a country whose streets were usually safe only a few years ago. </P>
+<P> An official at Lukoil, Russia's biggest oil producer, said 44-year-old Zakharov worked as a technical director at one of its transport subsidiaries, Kan. </P>
+<P> In August, Anatoly Kuzmin, general director of state fuel concern Megionneftegaz, and his driver were killed in Moscow when gunmen opened fire as they approached his car. </P>
+</TEXT>
+</DOC>

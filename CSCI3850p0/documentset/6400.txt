@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0233.950509</DOCID>
+<TDTID>TDT013598</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/09/95 11:27</DATE>
+<TITLE> Florida poll shows support for anti-immigration laws</TITLE>
+<HEADLINE> Florida poll shows support for anti-immigration laws</HEADLINE>
+<SUBJECT> BC-IMMIGRATION-FLORIDA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  An overwhelming number of Florida residents support a proposed California-style amendment that would limit school, health and social services for illegal immigrants, according to a new poll. </P>
+<P> Of 800 residents statewide questioned by WLTV, a Spanish-language station in Miami, some 73 percent said they would support a referendum to deny government services to illegal immigrants. The poll showed broad support among both Republicans and Democrats. </P>
+<P> About one-third of the Hispanics polled said they supported barring illegal immigrants from free services. </P>
+<P> Last week, an Orlando-based grassroots group said it would try to gather enough voter signatures to put a constitutional amendment on the November statewide ballot to bar undocumented workers from free schooling, health care and housing. </P>
+<P> The poll results were broadcast Monday by the Miami television station, which said its telephone survey was conducted among registered Florida voters during the last week of April. The margin of error is plus or minus 3.5 percent. </P>
+<P> Californians last year approved a similar measure known as Proposition 187. That referendum has been challenged in court and has not gone into effect. </P>
+</TEXT>
+</DOC>

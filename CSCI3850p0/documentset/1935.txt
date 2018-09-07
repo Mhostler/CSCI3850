@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU005-0420.941011</DOCID>
+<TDTID>TDT004840</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/11/94 12:03</DATE>
+<TITLE> U.N. says land mines must be banned, not just cleared</TITLE>
+<HEADLINE> U.N. says land mines must be banned, not just cleared</HEADLINE>
+<SUBJECT> BC-UN-LANDMINES </SUBJECT>
+<AUTHOR>     By Anthony Goodman </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  Simply clearing the more than 110 million land mines now scattered through 64 countries would not solve the problem since an additional 2 million to 5 million more are laid every year, and the only answer is to ban them, a U.N. report said Tuesday. </P>
+<P> ``Even with a significant increase in de-mining efforts worldwide and foreseeable advances in technology, it will be impossible to solve the global land mine problem unless their proliferation is halted,'' it said. </P>
+<P> ``The best and most effective way to achieve this is to ban completely the production, use and transfer of all land mines. Member states are invited to consider establishing such a ban as a matter of urgency,'' it added. </P>
+<P> Pending an international agreement on such a ban, the report called for immediate steps to slow the proliferation of land mines and to protect civilians from their effects. </P>
+<P> Assuming that a landmine, which may bring a vendor $3 in revenue, costs the international community between $300 and $1,000 to clear, it estimated that the 110 million currently buried mines would cost approximately $33 billion for clearance alone. </P>
+<P> Last year the international community allocated only about $70 million to clear roughly 100,000 mines. </P>
+<P> During the same period, however, roughly 2 million more were laid. This left the international community with a ``de-mining deficit'' of some 1.9 million mines last year, and added another $1.4 billion, at the same annual cost of clearance, to the aggregate cost of clearing the world's land mines. </P>
+<P> These costs do not take into account those involved in treating victims of mine accidents. </P>
+<P> ``It is estimated that each mine victim who survives will incur lifetime costs associated with surgery and prosthetic care of up to $3,000, using locally trained personnel,'' the report said. </P>
+<P> It estimated 250,000 amputee victims currently meeded prosthetic care, with the number expected to increase by about 800 every month. </P>
+<P> ``Surgery and lifetime support programs for the current number of victims could therefore cost the international community a further $750 million,'' the report said. </P>
+<P> Among countries where conflicts have left large numbers of uncleared mines, it listed: Afghanistan, with an estimated 10 million; Angola - 9 million to 15 million; Cambodia - 8 million to 10 million; Iraq - 10 million, especially in the northern governorates; Mozambique - up to 2 million; Somalia - 1 million; former Yugoslavia - 2 million to 5 million. </P>
+</TEXT>
+</DOC>

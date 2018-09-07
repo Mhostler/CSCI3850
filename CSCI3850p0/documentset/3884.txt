@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0009.950122</DOCID>
+<TDTID>TDT009628</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/22/95 09:52</DATE>
+<TITLE> Islamic Jihad claims Israel attack</TITLE>
+<HEADLINE> Islamic Jihad claims Israel attack</HEADLINE>
+<SUBJECT> BC-ISRAEL-EXPLOSION-JIHAD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DAMASCUS, Syria (Reuter) </DATELINE>
+<P>  The leader of the Islamic Jihad organization Sunday claimed responsibility for the bomb blast in Israel that killed 18 people and wounded more than 60. </P>
+<P> ``We confirm the Islamic Jihad's responsibility for the massive operation which was carried out today north of Tel Aviv in the gathering place of Israeli military men,'' Fathi al-Shukaki told Reuters. </P>
+<P> Islamic Jihad, which opposes the 1993 PLO-Israel peace accord, has claimed responsibility for previous attacks on Israeli targets, including a suicide bombing in Gaza last November in which three Israeli soldiers died. </P>
+<P> ``We confirm our ability to penetrate all the enemy's false security lines and reach the heart of the enemy,'' said the Islamic Jihad secretary general, who is based in the Syrian capital. </P>
+<P> ``We say to the enemy that its nuclear weapon will not help him against the attacks of our mujahideen (holy fighters),'' he added. </P>
+</TEXT>
+</DOC>

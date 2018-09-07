@@ -1,0 +1,37 @@
+<DOC>
+<DOCID>REU005-0064.950309</DOCID>
+<TDTID>TDT011121</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 13:48</DATE>
+<TITLE> House Republicans offer $188 billion in tax cuts</TITLE>
+<HEADLINE> House Republicans offer $188 billion in tax cuts</HEADLINE>
+<SUBJECT> BC-TAXES 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Adds more details)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The top House tax writer Thursday offered $188.8 billion in proposed tax cuts for families and corporations over five years, making the job of cutting the budget deficit harder. </P>
+<P> The tax cuts include a $500-per-child tax credit, expanded Individual Retirement Accounts, more generous capital gains provisions and a series of important new tax breaks for business. </P>
+<P> The White House quickly attacked the proposals, saying they are mostly aimed at upper-income Americans and corporations and should be dropped. </P>
+<P> ``At a minimum we would ask the Republicans to drop the most onerous features of the tax provisions -- the capital gains tax break, the corporate depreciation writeoff and the corporate income-tax provision that basically wipes out the requirement that they pay taxes,'' White House chief of staff Leon Panetta told reporters. </P>
+<P> The Republican proposals offered no way to pay for the tax cuts, which closely match the blueprint set out in the ''Contract with America,'' but promised a way will be found later. </P>
+<P> ``Not one single penny of tax relief will be provided unless it is paid for,'' said Ways and Means Committee Chairman Bill Archer, R-Texas, speaking to the Family Research Council, a conservative group. </P>
+<P> ``When this bill is passed on the House floor, every single tax cut will be completely offset by spending cuts,'' he said. </P>
+<P> House Speaker Newt Gingrich has promised that Republicans will offer a budget this spring that achieves balance by 2002. The tax cuts mean that in addition to the $1.2 trillion already necessary, extra spending reductions must be found to pay for the tax cuts. </P>
+<P> The first step is set to be taken next week, when the Budget Committee offers a list of $100 billion in possible cuts over five years. </P>
+<P> The proposals would have to be passed by the Senate and signed by President Clinton to take effect. </P>
+<P> Archer unveiled the tax cuts in an appearance before a conservative family-oriented group to emphasize the importance of the cuts for families, with the centerpiece the tax credit for children. </P>
+<P> ``We will provide all but the richest tax paying Americans with a $500 tax credit for each child under the age of 18,'' he said. The credit is available to families with adjusted gross incomes of up to $200,000, but not to the poor. </P>
+<P> Citizens for Tax Justice said a family of four would get no benefit at all unless its income was above $16,500 and full benefits only if it earned over $23,400 annually. </P>
+<P> At a news conference last month, Gingrich defended providing the benefit only to more affluent families and said the poor get other benefits. </P>
+<P> The measure would also broaden Individual Retirement Accounts and ease the tax on capital gains. </P>
+<P> Individuals now pay a maximum of 28 percent taxes on capital gains. The proposal would permit people to exclude from income tax half their gain on sales of stocks, real estate or other investments. People now at the highest income tax rate of 39.6 percent would pay tax on investments of 19.8 percent.  Another break on capital gains, which Democrats say benefit primarily the wealthy but Republicans say affects a broade range of people, would be an adjustment for inflation. </P>
+<P> And people who sold their homes would be given a break if they suffered a loss on the sale. </P>
+<P> Archer provided materials showing that the family tax credits benefit those most earning between $30,000 and $75,000 annually. </P>
+<P> Corporations will also get considerable new savings, although documents provided by Archer did not break out how much of the $188.8 billion in tax cuts was going to families and how much to businesses. </P>
+<P> One big change is that some corporations will be given a large, new tax break by abolishing the ``alternative minimum tax,'' a rule Democats say was designed to catch companies that otherwise would use various tax breaks and loopholes to avoid taxes. </P>
+<P> In addition, corporations will be permitted to take tax deductions on property or equipment they purchase that actually exceeds the cost of the items. </P>
+<P> However, because that change is phased in slowly in the first five years it will show as a benefit to the government. But over 10 years or more there will be substantial losses in government revenue. </P>
+<P> There are also tax breaks for small businesses, for some families adopting children and an increase in the Social Security earnings limit. </P>
+</TEXT>
+</DOC>

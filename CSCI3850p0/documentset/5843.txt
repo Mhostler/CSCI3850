@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU011-0160.950419</DOCID>
+<TDTID>TDT012706</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/19/95 02:29</DATE>
+<TITLE> China to aid poor students through university</TITLE>
+<HEADLINE> China to aid poor students through university</HEADLINE>
+<SUBJECT> BC-CHINA-STUDENTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING, April 19 (Reuter) </DATELINE>
+<P>  China's communist rulers approved a new regulation that could give the poor access to a university education, newspapers said on Wednesday. </P>
+<P> The State Education Commission announced rules that would guarantee discounts or even exemption from tuition fees for poor students, major newspapers said. </P>
+<P> The commission called on local governments, departments and colleges to guarantee that poor college students do not drop out just because they cannot afford to pay. </P>
+<P> Under the regulation, colleges are authorised to decide which students will pay less, or even nothing, for their education as well as how much of a discount to give. </P>
+<P> The policy applies initially to students who enrolled for the current academic year, the state-run Xinhua news agency quoted Zhang Guangming, an official with the commission's financial section, as saying. </P>
+<P> China, which long paid virtually all costs of training college students, began an experiment in 50 colleges and universities in 1994 in which students were required to pay part of the costs. </P>
+<P> The number of such colleges and universities has increased to more than 100 this year. </P>
+<P> Very poor students who have been supported by the state may pay less, although tuition fees were already very low, Zhang said. </P>
+<P> The annual tuition fee paid by first-year students in 1994 was 1,000-1,500 yuan ($118-178) -- about a quarter of China's average annual family income and 10-20 percent of the actual cost to the state for training a college student for four years or more. </P>
+<P> The government will cover the discounts, Xinhua said. </P>
+<P> The policy, to be implemented from September 1, will favour orphans, the disabled, ethnic minority students and poor children of revolutionary martyrs, Xinhua said. </P>
+<P> Up to now schools and local governments tried to help poor students. Prestigious Beijing University provided 1.2 million yuan ($143,000) in scholarships for its 1994 freshmen. </P>
+<P> Most of China's more than 1,000 colleges and universities will charge students for education by 1997, and all students will have to pay for their college education and find their own jobs after graduation by 2000, Xinhua said. </P>
+</TEXT>
+</DOC>

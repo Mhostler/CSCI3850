@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0169.940927</DOCID>
+<TDTID>TDT004045</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/27/94 13:42</DATE>
+<TITLE> Soldier's death in Haiti called possible suicide</TITLE>
+<HEADLINE> Soldier's death in Haiti called possible suicide</HEADLINE>
+<SUBJECT> BC-HAITI-USA-CASUALTY 3RDLD URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Tops with official Pentagon comment)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A U.S. soldier died of a gunshot wound outside a Port-au-Prince hotel Tuesday and his death was being investigated as a possible suicide, the Pentagon said. </P>
+<P> ``On-scene U.S. authorities are calling it an apparent suicide and are investigating it as such,'' Pentagon spokesman Dennis Boxx said. The death was the first American fatality in Haiti since U.S. troops went into the Caribbean country eight days ago to help restore democracy. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0035.940914</DOCID>
+<TDTID>TDT003353</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/14/94 08:57</DATE>
+<TITLE> Carlos' Lebanese passport stolen, Beirut says</TITLE>
+<HEADLINE> Carlos' Lebanese passport stolen, Beirut says</HEADLINE>
+<SUBJECT> BC-LEBANON-CARLOS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIRUT, Lebanon (Reuter) </DATELINE>
+<P>  Lebanon has told French authorities a Lebanese passport held by guerrilla mastermind ``Carlos the Jackal'' was stolen, foreign ministry sources said. </P>
+<P> They said the passport found by French police was in a stolen batch of 1,000. Lebanese police notified foreign countries at the time that anyone found holding the passports numbered from 954001 to 955000 should be arrested. </P>
+</TEXT>
+</DOC>

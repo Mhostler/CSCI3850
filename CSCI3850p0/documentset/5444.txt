@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU002-0404.950404</DOCID>
+<TDTID>TDT012096</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 12:10</DATE>
+<TITLE> Finnish SDP to seek coalition with Conservatives</TITLE>
+<HEADLINE> Finnish SDP to seek coalition with Conservatives</HEADLINE>
+<SUBJECT> BC-FINLAND-GOVERNMENT </SUBJECT>
+<AUTHOR>     By Sara Henley </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HELSINKI (Reuter) </DATELINE>
+<P>  Finnish Social Democratic Party (SDP) chairman Paavo Lipponen pledged Tuesday to build a novel five-party coalition government after coming top in general elections last month. </P>
+<P> Lipponen, 53, said he would seek an alliance with the Conservatives as main partner plus three smaller parties in a grouping covering almost the entire political spectrum. </P>
+<P> Alongside rightist Conservatives, Lipponen plans to include the Leftist Alliance -- a broad grouping including former Communists -- and the Green Party. The Swedish People's Party, representing Finland's Swedish-speaking minority, makes five. </P>
+<P> ``This is a new coalition in Finnish history -- maybe internationally too,'' Lipponen told a news conference. </P>
+<P> ``It means that we'll start from a practical base ... crossing borders and seeking new initiatives without any prejudice.'' </P>
+<P> The SDP, in opposition since March 1991, won elections March 19 with a program of relative economic austerity, but needs the help of other parties to form a majority government. </P>
+<P> The five parties Lipponen proposed would have a commanding majority of 145 seats in the 200-seat parliament. </P>
+<P> But analysts were stunned by the burly former water-polo player's aim of combining such extremes of left and right. </P>
+<P> ``It is pretty astonishing,'' said Pentti Vartia, director of the Research Center of the Finnish Economy. ``It is a very interesting situation, to say the least.'' </P>
+<P> However, he commented that support from the left would help shepherd through the SDP's planned spending cuts -- aimed at putting the brakes on a burgeoning state debt. </P>
+<P> The SDP won 63 seats, an increase of 15, in the March poll and Lipponen is widely expected to become prime minister if he can form a majority coalition. </P>
+<P> It would replace the center-right government in office since April 1991 which presided over Finland's deepest ever recession. </P>
+</TEXT>
+</DOC>

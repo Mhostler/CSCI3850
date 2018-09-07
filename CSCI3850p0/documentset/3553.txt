@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU001-0279.950103</DOCID>
+<TDTID>TDT008805</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/03/95 10:32</DATE>
+<TITLE> Israel says Syria deadlock should not halt peace</TITLE>
+<HEADLINE> Israel says Syria deadlock should not halt peace</HEADLINE>
+<SUBJECT> BC-MIDEAST-EGYPT-PERES 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds Israeli news conference)</NOTES>
+<DATELINE>CAIRO, Egypt (Reuter) </DATELINE>
+<P>  Israel, upset by Arab support for Syria in deadlocked talks with the Jewish state, said Tuesday normalization of relations with Arabs must not be conditional on moving toward peace with Damascus. </P>
+<P> Israeli Foreign Minister Shimon Peres arrived in Cairo Tuesday for talks with Egyptian President Hosni Mubarak on issues ranging from bilateral ties to Palestinian and Syrian peace deals. </P>
+<P> Peres was later to head his delegation in talks with the PLO on expanding Palestinian self-rule in the occupied West Bank. </P>
+<P> But Peres' main concern was to seek clarifications on the summit in Alexandria last week between Egypt, Syria and Saudi Arabia, which gave unusually strong support to Damascus in peace talks with Israel. </P>
+<P> Peres told a news conference that Mubarak ``said the purpose of the (Arab) meeting was not to stop the peace process or to slow it down...on the contrary, to promote it. Egypt feels as we do that time has come to make peace with Syria.'' </P>
+<P> Peres said he understood there was no intention ``to condition one move upon another move. Whenever we can make headway, we should do it in the direction of peace.'' </P>
+<P> The summit angered Israel because it implicity promised Syria that Arab countries would not fully develop relations with Israel before Syria struck its own deal, diplomats said. </P>
+<P> Syria is increasingly isolated as Arabs break ranks to sign separate peace deals or forge ties with Israel. </P>
+<P> The Israel-Syria talks are stuck on the question of Israeli withdrawal from the Golan Heights, which have been in Israeli hands since the 1967 Middle East war. </P>
+</TEXT>
+</DOC>

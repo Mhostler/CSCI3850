@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU006-0009.941011</DOCID>
+<TDTID>TDT004847</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/11/94 15:30</DATE>
+<TITLE> Space shuttle lands in California</TITLE>
+<HEADLINE> Space shuttle lands in California</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE </SUBJECT>
+<AUTHOR>     By Beth Dickey </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  The space shuttle Endeavour and its six astronauts landed safely in California Tuesday after clouds spoiled their Florida homecoming at the end of an 11-day environmental research mission. </P>
+<P> Endeavour touched down under clear skies at 1:02 p.m. EDT at the Edwards Air Force Base after 183 orbits and a journey of 4.7 million miles. </P>
+<P> ``You and your crew have done a great job and made a significant contribution to the Mission to Planet Earth,'' Mission Control's Ken Cockrell told shuttle commander Michael Baker as Endeavour popped a red, white and blue parachute and rolled to a stop on the Mojave Desert runway. </P>
+<P> The trouble-free landing capped a similarly smooth flight in which the crew used a sophisticated radar system to capture the changing face of Earth in digital pictures. </P>
+<P> The mission produced a bevy of data -- including numerous images of the Klyuchevskaya volcano on the Kamchatka peninsula in Russia's far east, which eruped on liftoff day and quickly became one of the prime scientific targets. </P>
+<P> Baker had been scheduled to return the shuttle to the Kennedy Space Center, where its radar-mapping odyssey began on Sept. 30. </P>
+<P> NASA opted for a 3,000-mile detour because the Florida runway was obscured by thickening clouds when the shuttle was to begin its 55-minute descent. </P>
+<P> In orbit, the crew worked in two shifts around the clock surveying Earth with the Space Radar Laboratory, a $384 million complement of two radars and an air pollution monitor. </P>
+<P> It was the second flight of the laboratory since April, and the goal for Endeavour's October crew was to detect seasonal and human-induced changes that took place during the six months between missions. </P>
+<P> The astronauts snapped more than 14,000 photographs and steered the shuttle as necessary to aim the radar instruments -- one from the United States and the other from Europe -- which NASA claims are the most sophisticated in civilian use. </P>
+<P> Throughout the flight, an army of 1,800 researchers gathered data at some 20 key sites on the ground to correlate with the images that were compiled aboard Endeavour. </P>
+<P> Among other things, the radars looked beneath the Sahara Desert's sands to confirm the existence of ancient riverbeds, and peered through the mists of Rwanda to examine the habitat of rare mountain gorillas. </P>
+<P> The radars also produced three-dimensional terrain maps through a technique which experts hope to refine as an early warning system for earthquakes and volcanic eruptions. </P>
+<P> NASA scientists said they hoped the mission's results would convince Congress to fund a network of radar satellites that could monitor the planet yearlong. They said the crew collected enough radar information on the health of the environment to fill 67 miles of data recording tape. </P>
+<P> Accompanying Baker on the crew were co-pilot Terrence Wilcutt, flight engineer Daniel Bursch, payload commander Thomas Jones, and mission specialists Peter ``Jeff'' Wisoff and Steven Smith. </P>
+<P> The next shuttle set for launch is Atlantis on an environmental science mission. Liftoff is tentatively set for Nov. 3. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU001-0070.950201</DOCID>
+<TDTID>TDT009974</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/01/95 09:10</DATE>
+<TITLE> Fed resumes meeting, expected to raise rates</TITLE>
+<HEADLINE> Fed resumes meeting, expected to raise rates</HEADLINE>
+<SUBJECT> BC-USA-ECONOMY-MEETING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Federal Reserve resumed a policy-making meeting on Wednesday to discuss interest rate strategy, U.S. central bank officials said. </P>
+<P> The Fed is widely expected to decide to raise short-term rates for the seventh time this year as it struggles to engineer a soft-landing for the high-flying U.S. economy. </P>
+<P> The two-day meeting, which began on Tuesday with a discussion of the outlook for the U.S. economy this year, resumed on Wednesday at 9:00 a.m.. If the Fed follows past practice, it will announce its expected decision on interest rates sometime shortly after 2:00 p.m.. </P>
+</TEXT>
+</DOC>

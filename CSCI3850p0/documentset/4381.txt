@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU008-0229.950216</DOCID>
+<TDTID>TDT010492</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/16/95 11:39</DATE>
+<TITLE> Daschle opposed to budget amendment</TITLE>
+<HEADLINE> Daschle opposed to budget amendment</HEADLINE>
+<SUBJECT> BC-BUDGET-BALANCE </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Senate Minority Leader Thomas Daschle announced his opposition to the balanced budget amendment to the Constitution Thursday and said its fate now rests in the hands of one or two senators. </P>
+<P> Daschle told the Senate he supports a balanced budget amendment, but ``I have concluded that I cannot support the one that is now being pushed through this body.'' </P>
+<P> Some senators have predicted the measure will pass while others say the vote is too close to call. </P>
+<P> ``I think it will rise or fall one the basis of one or two votes,'' the South Dakota Democrat told reporters after his floor speech. </P>
+<P> The amendment, which has already won approval in the House, requires the support of 67 senators if all 100 of them vote. </P>
+<P> Those on both sides attached little importance to a failed attempt Thursday to close debate, which at 57-42 fell three votes short of the 60 necessary for cloture. </P>
+<P> It now appears likely the two sides will arrange an agreement by day's end to wind up debate and amendments, probably by some time next week. That would clear the way for a final vote, probably the week after next. </P>
+<P> In the meantime, Daschle said, lobbying on both sides ``is as intense as you're going to get. I think we'll probably see senators making announcements on their position in the next few days just to relieve the pressure'' on them. </P>
+<P> If approved by the Senate, the measure would take effect in 2002 if it were approved by 38 of the 50 state legislatures and become part of the Constitution. </P>
+<P> The amendment would require a three-fifths vote of all members of each house of Congress to permit an annual shortfall between income and spending, and the same kind of vote to increase the nation's borrowing. </P>
+<P> It would require a vote of a majority of all members of each house to raise taxes, instead of a majority of those who happen to be in their seats. For the past 207 years, the Constitution has required only a majority of those present to pass bills. </P>
+<P> It is the intention of the amendment's backers to make it diffficult to permit the budget to be unbalanced. As Senate filibuster rules proved as recently as Thursday -- with the failure to close debate on the amendment -- a three-fifths vote of all members is difficult to achieve. </P>
+<P> On the other hand, the last time the nation achieved a balanced budget for more than three years in a row was between 1920 and 1930. </P>
+</TEXT>
+</DOC>

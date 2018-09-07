@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0132.950105</DOCID>
+<TDTID>TDT008886</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/05/95 00:29</DATE>
+<TITLE> Malawian police surround ex-president Banda's home</TITLE>
+<HEADLINE> Malawian police surround ex-president Banda's home</HEADLINE>
+<SUBJECT> BC-MALAWI-POLICE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BLANTYRE, Malawi (Reuter) </DATELINE>
+<P>  Armed Malawian police have surrounded the Blantyre home of former president Kamuzu Banda and arrested one of his aides after dramatic murder allegations in the southern African country, officials said Thursday. </P>
+<P> A member of Banda's Malawi Congress Party (MCP), Brian Mungomo, said armed police had surrounded Banda's Mudi House home in Blantyre Wednesday night and the ex-president was essentially under house arrest. </P>
+<P> Information Minister Brown Mpinganjira said police had detained John Tembo, who was regarded as one of the most powerful men in the country as a minister under Banda. </P>
+<P> The moves followed a report from a government-appointed commission of inquiry Wednesday that police killed three Cabinet ministers and a member of parliament on official orders in May 1983. The murders were disguised as a car accident. </P>
+<P> President Bakili Muluzi, who ousted Banda after 30 years of autocratic rule in May last year, said appropriate action would be taken in accordance with the law. </P>
+</TEXT>
+</DOC>

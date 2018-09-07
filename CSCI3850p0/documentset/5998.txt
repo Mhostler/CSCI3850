@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU015-0087.950424</DOCID>
+<TDTID>TDT012972</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 15:25</DATE>
+<TITLE> Explosion rocks Sarajevo, several wounded</TITLE>
+<HEADLINE> Explosion rocks Sarajevo, several wounded</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-EXPLOSION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  At least five people were wounded in a blast which rocked the besieged Bosnian capital of Sarajevo Monday evening, hospital sources said. </P>
+<P> ``It was an exceptionally strong explosion even by Sarajevo standards,'' local reporters said. </P>
+</TEXT>
+</DOC>

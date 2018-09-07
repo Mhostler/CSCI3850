@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU013-0047.950226</DOCID>
+<TDTID>TDT010774</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/26/95 12:10</DATE>
+<TITLE> Polish police search newspaper amid bomb fears</TITLE>
+<HEADLINE> Polish police search newspaper amid bomb fears</HEADLINE>
+<SUBJECT> BC-POLAND-BOMB </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WARSAW, Poland (Reuter) </DATELINE>
+<P>  Polish police searched the offices of a Warsaw tabloid daily Sunday and confiscated explosives that reporters found amid an upsurge in bombings in Poland's capital this year. </P>
+<P> The paper, Super Express, had planned to display the explosives at a news conference to show how easy it was to obtain such materials in Warsaw, a spokesman for the paper Krzysytof Kaczynski told Reuters. </P>
+<P> But a police bomb squad arrived two hours earlier, searched the premises and confiscated six sticks of TNT, detonators and fuses, Kaczynski, who witnessed the search, said. </P>
+<P> The explosives had been bought from members of the police anti-terrorist squad, PAP news agency said. Police officials declined comment. </P>
+<P> Eight bombs, six of them placed in cars, have exploded in Warsaw since the start of the year. Two others were rendered harmless before they could go off. </P>
+<P> The bombings are linked to growing gang warfare in Poland's capital, Warsaw's biggest-circulation daily Zycie Warszawy said Sunday. </P>
+<P> PAP meanwhile reported the latest bombing in the southern city of Bytom where a parked car blew up early Sunday. No injuries were reported. </P>
+</TEXT>
+</DOC>

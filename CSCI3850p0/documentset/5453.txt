@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0027.950404</DOCID>
+<TDTID>TDT012107</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 15:16</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CLINTON-MAJOR-IRELAND -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The remarks by Clinton were seen as efforts to repair a rift between Britain and the United States administration over the sensitive Northern Irish peace process. </P>
+<P> Major and Clinton fell out last month after Washington decided to award an unrestricted visa to Gerry Adams, the head of the political wing of the Irish Republican Army. </P>
+<P> The IRA's political wing, Sinn Fein, wants to discuss the arms of the British police and army in the province as well as its own arms in any talks, but Britain has refused to involve ministers in talks on this basis, leading to a stalemate. </P>
+<P> Clinton said there was no difference between his and Major's position on this. ``Without a serious approach to arms decommissioning there will never be a resolution to this conflict,'' he told the news conference. </P>
+</TEXT>
+</DOC>

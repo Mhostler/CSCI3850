@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0378.941115</DOCID>
+<TDTID>TDT006576</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/15/94 23:00</DATE>
+<TITLE> South Korea withdraws diplomats from Algeria</TITLE>
+<HEADLINE> South Korea withdraws diplomats from Algeria</HEADLINE>
+<SUBJECT> BC-KOREA-ALGERIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, South Korea (Reuter) </DATELINE>
+<P>  South Korea said Wednesday it was withdrawing its diplomats from Algeria because of the murder last month of a South Korean businessman and fears of a worsening political situation in the country. </P>
+<P> ``As of today, all three diplomats, including Ambassador Kwon (In-hyuk), and their families are to be withdrawn from Algiers because of the danger of possible terrorist attacks,'' a Seoul Foreign Ministry official told Reuters. </P>
+<P> ``The withdrawal is a tentative measure,'' he said. ``Local employees at the embassy will carry out their normal duties and the councilor will stay in Paris to control them.'' </P>
+<P> Kang Dae-hyun, a senior local representative of South Korea's Daewoo Group, was gunned down by Muslim fundamentalists near his home outside Algiers on Oct. 12. </P>
+<P> Dozens of foreigners have been murdered in Algeria since September last year when they became caught up in the conflict between fundamentalists and military-backed authorities. </P>
+</TEXT>
+</DOC>

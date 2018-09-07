@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0428.950304</DOCID>
+<TDTID>TDT010993</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/04/95 14:00</DATE>
+<TITLE> Barings administrators say still in discussions</TITLE>
+<HEADLINE> Barings administrators say still in discussions</HEADLINE>
+<SUBJECT> BC-BANK-ADMINISTRATORS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Administrators for collapsed British merchant bank Barings confirmed Saturday they had been approached by Dutch bank ABN AMRO and U.S. broker Smith Barney but said they remained in talks with the Dutch ING group. </P>
+<P> ABN AMRO trumped its arch-rival ING Saturday when it made a formal bid with Smith Barney for parts of Barings. It came just hours after expiry of a deal that gave ING (Internationale Nederlanden Groep NV) first refusal to buy Barings. </P>
+<P> ``The administrators of Barings, Nigel Hamilton, Alan Bloom, and Maggie Mills of Ernst and Young, confirm that they have received an approach from ABN AMRO and Smith Barney and are in discussions with them,'' the administrators said in a statement. </P>
+<P> ``The administrators also confirm that they are still in negotiations with the ING group.'' </P>
+<P> Earlier ABN AMRO spokesman Jules Prast told Reuters: ``Last night the exclusivity between ING and (Barings') administrators finished. ABN AMRO and Smith Barney have together made a formal bid for parts of Barings Plc.'' </P>
+<P> ING spokesman Ruud Polet said that ING remained in the race to buy the stricken merchant bank, which was handed over to court-appointed administrators last weekend after losses of $1 billion were uncovered. </P>
+</TEXT>
+</DOC>

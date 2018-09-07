@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0028.950407</DOCID>
+<TDTID>TDT012264</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 13:30</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CONGRESS-CONTRACT-CLINTON 1STLD -2 DALLAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> But Clinton, who said in a generally conciliatory speech that he had not been elected to ``pile up a stack of vetoes,'' made clear he firmly opposed the sweeping $189 billion tax cut approved by the Republican House Wednesday. It faces a rougher road in the Senate, with Democrats and some moderate Reublicans claiming it gives too many breaks to the rich. </P>
+<P> ``I want a tax cut ... to include more members of the middle class,'' said Clinton, who has proposed a cut worth about $60 billion over five years. He added: </P>
+<P> ``This $200 billion (Republican) tax cut, which is really worth more than three times that if you look at it over a 10-year period, is a fantasy. It's too much. It's not going to happen. We can't afford it.'' </P>
+<P> Clinton also threatened to veto some other parts of the nine major items approved as part of the House Republicans' Contract -- most still await Senate action -- but stressed his desire to seek compromise. ``The president has to lead the quiet, reasoned forces of both parties in both houses to sift through the rhetoric and decide what is actually best for America,'' he said. </P>
+</TEXT>
+</DOC>

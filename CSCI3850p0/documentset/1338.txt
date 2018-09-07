@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU006-0285.940913</DOCID>
+<TDTID>TDT003293</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/13/94 13:20</DATE>
+<TITLE> Yuppie flu hits one in 100 Britons</TITLE>
+<HEADLINE> Yuppie flu hits one in 100 Britons</HEADLINE>
+<SUBJECT> BC-BRITAIN-FLU </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A debilitating condition known as ``yuppie flu'' is no figment of the victim's imagination but a real disease which affects possibly one person in 100 in Britain, a report said Tuesday. </P>
+<P> Sufferers, who can be any age, are often dismissed as malingerers by doctors, educational authorities and those around them who believe the condition does not exist. </P>
+<P> But scientists and doctors who investigated ``yuppie flu'' for two years had to admit they were little the wiser about the causes of the condition, which triggers chronic tiredness, pain and sleeplessness. More research is needed, they said. </P>
+<P> ``These syndromes are real. They pose a significant health problem both to society and to affected individuals,'' said the report, written for a national task force on the disease set up by a charity and supported by the government. </P>
+<P> Chronic Fatigue Syndrome (CFS), which covers both people suffering disabling tiredness and those with conditions like myalgic encephalomyelitis (ME) and post-viral fatigue syndrome (PVFS), was labelled ``yuppie flu'' by the media after outbreaks among young professional high-flyers in the 1980s. </P>
+<P> The report said that although many people complain of chronic fatigue, the number actually suffering from the syndrome is ``possibly around one percent of the population.'' </P>
+<P> ``There is currently widespread ignorance and mismanagement of chronic fatigue symptoms. Patients often encounter lack of support from doctors and other professionals, from educational authorities and from society,'' it said. </P>
+<P> There is no specific test to diagnose the condition and no effective drug treatment. Most doctors are not even aware the condition exists, the task force report said. </P>
+</TEXT>
+</DOC>

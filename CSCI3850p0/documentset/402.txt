@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0333.940726</DOCID>
+<TDTID>TDT001046</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/26/94 06:54</DATE>
+<TITLE> SANAA FREES 4,000 SOUTHERN SOLDIERS, OFFICERS</TITLE>
+<HEADLINE> SANAA FREES 4,000 SOUTHERN SOLDIERS, OFFICERS</HEADLINE>
+<SUBJECT> BC-YEMEN-RELEASE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ADEN (Reuter) </DATELINE>
+<P>  The Sanaa government has freed 4,000 southern soldiers and officers who surrendered to northern forces during the two-month civil war, Yemeni Defense Minister Abd-Rabbu Mansour Hadi said Tuesday. </P>
+<P> Hadi, speaking at a ceremony to mark the occasion Monday night, said the southerners would be absorbed by units of the Yemeni armed forces. Those released included civilians who had worked for the defeated southern army. </P>
+<P> A southern secessionist bid was crushed by northern forces who captured Aden on July 7 after two months of war. </P>
+<P> Sanaa has declared a general amnesty for southern soldiers. </P>
+<P> Hadi said the released soldiers and officers would be given two weeks leave before reporting back to duty. They would also be offered financial compensation. </P>
+</TEXT>
+</DOC>

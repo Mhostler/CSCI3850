@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0045.950224</DOCID>
+<TDTID>TDT010701</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/24/95 06:04</DATE>
+<TITLE> First Greek parliament vote produces no president</TITLE>
+<HEADLINE> First Greek parliament vote produces no president</HEADLINE>
+<SUBJECT> BC-GREECE-PRESIDENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATHENS (Reuter) </DATELINE>
+<P>  Greece's parliament failed to elect a new state president in a first round of voting Friday, but the favorite candidate appeared likely to win the third and final round in March, avoiding an early national election. </P>
+<P> Costis Stephanopoulos, backed by the ruling socialists and a small nationalist party, won 181 votes in the 300-seat house, failing to gather the 200 ballots needed in the first round but well placed to get the 180 votes needed in the third. </P>
+<P> Stephanopoulos, former leader of a small center-right party, was running against conservative candidate Athanassios Tsaldaris who received 109 votes. The Communist party abstained from the vote. </P>
+<P> A second round of voting will be held March 2, when 200 votes will again be needed, and a third round will be held March 8, when 180 votes will be required for election to the largely ceremonial five-year post. </P>
+<P> If parliament fails to elect a successor to outgoing President Constantine Karamanlis, then a national election must be called immediately. </P>
+</TEXT>
+</DOC>

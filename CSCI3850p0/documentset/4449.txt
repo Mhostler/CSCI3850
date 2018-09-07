@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU010-0049.950220</DOCID>
+<TDTID>TDT010592</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/20/95 13:47</DATE>
+<TITLE> Zaire rights group head charged with embezzlement</TITLE>
+<HEADLINE> Zaire rights group head charged with embezzlement</HEADLINE>
+<SUBJECT> BC-ZAIRE-RIGHTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KINSHASA (Reuter) </DATELINE>
+<P>  The president of Zaire's league of human rights (LIZADHO), which has played a key role in exposing abuses in the central African state, has been charged with embezzlement. </P>
+<P> Legal sources said Benjamin Buana Kabue pleaded not guilty Monday to charges of embezzling $40,000 donated by a Dutch Catholic organization and the French-based International Federation of Human Rights Leagues. </P>
+<P> The funds were meant to pay for LIZADHO to set up branches in the interior of Zaire to help spread an understanding of basic civic rights in the run-up to eventual elections. </P>
+<P> But Buana Kabue's colleagues, who set up a special committee to investigate the president's activities last April, told Reuters the money never reached its intended destination. </P>
+<P> ``The coffers are empty,'' said LIZADHO's executive director Franck Citende Tamina. ``LIZADHO is now having serious problems operating because of Buana Kabue's irresponsibility.'' </P>
+<P> Set up in 1990, LIZADHO was one of three local human rights organisations exposing violations committed by President Mobutu Sese Seko's security forces as Zaire entered its troubled transition to multi-party democracy. </P>
+<P> The group was a valuable touchstone for journalists, diplomats and human rights groups abroad but has virtually ceased to operate over the past year because of the row between Buana Kabue and other league members. Its offices in Kinshasa were locked up in December on its president's orders. </P>
+</TEXT>
+</DOC>

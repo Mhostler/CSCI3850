@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0174.950201</DOCID>
+<TDTID>TDT009984</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/01/95 15:26</DATE>
+<TITLE> Norwest raises prime rate half-point to 9 percent</TITLE>
+<HEADLINE> Norwest raises prime rate half-point to 9 percent</HEADLINE>
+<SUBJECT> BC-ECONOMY-RATES-PRIME URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Following quickly on the Federal Reserve's hike in short-term interest rates Wednesday, Norwest Corp. raised its prime rate by half a percentage point to 9 percent. </P>
+<P> The move came after the Fed announced a long-anticipated move to boost interest rates as part of its quest to slow, and thus prolong, the economic expansion. The Minneapolis-based Norwest's move was expected to be followed by other banks. </P>
+</TEXT>
+</DOC>

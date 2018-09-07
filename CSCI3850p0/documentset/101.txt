@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU003-0444.940707</DOCID>
+<TDTID>TDT000224</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/07/94 01:02</DATE>
+<TITLE> AS MANY AS 13 FIREFIGHTERS REPORTED KILLED IN BLAZE</TITLE>
+<HEADLINE> AS MANY AS 13 FIREFIGHTERS REPORTED KILLED IN BLAZE</HEADLINE>
+<SUBJECT> BC-USA-FIRES 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: updates, corrects miles from Denver)</NOTES>
+<DATELINE>GLENWOOD SPRINGS, Colo (Reuter) </DATELINE>
+<P>  Strong winds drove a wall of flame into a group of firefighters Wednesday, killing at least 13 of them as they fought a blaze in a mountainous forest area 120 miles west of Denver, officials said. </P>
+<P> Glenwood Springs Police Chief Richard Hollar confirmed that 13 people were dead and told Reuters that four firefighters from the group of 50 firefighters battling the fire on Storm King Mountain were still missing. </P>
+<P> The firefighters were from a federal group from the Bureau of Land Management, which had been called in to combat the blaze. </P>
+<P> ``A wall of flame separated 50 firefighters (from the others). Three made it out and 47 were not seen after the wall of flame crested the mountain,'' an unnamed government source earlier told Los Angeles radio station KFWB. </P>
+<P> ``We know that two of the three who made it out were taken to a local hospital and were suffering from burns. They were in stable condition,'' she said. </P>
+<P> Kathy Voth, a spokeswoman for the U.S. Bureau of Land Management, confirmed that firefighters were killed in the blaze, but declined to say how many. </P>
+<P> ``We had a total of 70 people working on the fire,'' Voth told ABC radio news. She said 40 were federal firefighters and 30 were volunteer firefighters from local fire departments. </P>
+<P> Voth said the fire was moving east, threatening a housing subdivision and forcing the closure of a major highway. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0091.950315</DOCID>
+<TDTID>TDT011319</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/15/95 19:23</DATE>
+<TITLE> Bond for Spanish ship said not endorsed by Commission</TITLE>
+<HEADLINE> Bond for Spanish ship said not endorsed by Commission</HEADLINE>
+<SUBJECT> BC-FISH-BONINO-BOND </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>STRASBOURG, France (Reuter) </DATELINE>
+<P>  Fisheries Commissioner Emma Bonino stressed late Wednesday that the European Commission had not legally endorsed the posting of a bond to gain Canada's release of a seized Spanish trawler. </P>
+<P> ``I don't want to impede a private citizen from paying a bond,'' Bonino told reporters. </P>
+<P> ``That does not imply a recognition in law on the part of the Commission.'' </P>
+<P> Canada agreed Wednesday to release the trawler Estai, which it had held since last week for allegedly overfishing near its coast, after the owners posted a Canadian $500,000 ($355,000 U.S.) bond. </P>
+<P> Bonino then announced that the Commission, which had frozen formal contacts with Canada over the incident, would open negotiations with Ottawa to try to resolve the dispute. </P>
+<P> She told reporters the posting of the bond should not be seen as any kind of legal precedent. </P>
+</TEXT>
+</DOC>

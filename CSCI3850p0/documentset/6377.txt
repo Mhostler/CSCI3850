@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU006-0011.950508</DOCID>
+<TDTID>TDT013571</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/08/95 16:45</DATE>
+<TITLE> Storm loses punch in La., 21 killed elsewhere</TITLE>
+<HEADLINE> Storm loses punch in La., 21 killed elsewhere</HEADLINE>
+<SUBJECT> BC-STORM 2NDLD </SUBJECT>
+<AUTHOR>     By Christina Pantin </AUTHOR>
+<TEXT>
+<NOTES>  (Updates throughout, pvs Mt. Rushmore, S.D)</NOTES>
+<DATELINE>BATON ROUGE, La.(Reuter) </DATELINE>
+<P>  High winds and tornado warnings followed violent storms into Louisiana, but the weather system seemed to be losing some of its punch Monday, the National Weather Service reported. </P>
+<P> Tornadoes and violent storms battering southern Oklahoma and Texas since Friday have killed 21 people. </P>
+<P> Monday morning, fierce hail battered Beaumont, Texas, while strong winds toppled trees and power lines in Port Arthur, where lightning strikes caused a refinery fire and sewage backups. </P>
+<P> Lt. Mark Blanton of the Port Arthur Police Department said lightning hit a coking unit at the Huntsman Corp. refinery Monday morning, starting a fire that blazed out of control for several hours. </P>
+<P> A sewage treatment control structure also was hit in the city and poured untreated sewage into several neighborhoods, he said. </P>
+<P> In Louisiana, the storm knocked out power in several areas and blew down trees, but no injuries or deaths were reported, authorities said. Minor street flooding was reported in Lake Charles and Lafayette. </P>
+<P> ``It's weakened considerably as it moved across southwest Louisiana, but it could fire up again this afternoon, moving into hotter areas of the state around Baton Rouge,'' a National Weather Service spokesman told Reuters. </P>
+<P> Earlier, a line of spring storms dumped up to three inches of rain and hail from South Dakota down to the Mississippi Delta, said Weather Services Corp. meteorologist Peter Leavitt said. </P>
+<P> On Sunday, three people were killed when a tornado ripped through their homes in Eastman, Okla., the Love County Sheriff Department said Monday. </P>
+<P> In Texas, a man was reportedly killed in the panhandle town of Canyon Sunday when he stepped onto his porch to get a better look at a funnel cloud. </P>
+<P> Meanwhile, severe storms Sunday night lashed the Dallas-Fort Worth area and left nearly 25,000 area homes without power for a second day Monday. </P>
+<P> Hail storms in the Dallas-Fort Worth region have been responsible for 17 deaths. More than 100 people were hurt and damage was estimated at more than $400 million. Three men are still missing in Dallas and presumed dead. </P>
+</TEXT>
+</DOC>

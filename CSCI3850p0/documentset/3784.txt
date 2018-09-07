@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU006-0403.950115</DOCID>
+<TDTID>TDT009324</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/15/95 17:24</DATE>
+<TITLE> TBS says NBC talks have broken down</TITLE>
+<HEADLINE> TBS says NBC talks have broken down</HEADLINE>
+<SUBJECT> BC-TELEVISION-TBS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds details; also moved to business news desks)</NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  Turner Broadcasting System Inc. said Sunday that talks with General Electric Co. about a possible merger with NBC have broken down because of disagreements over who would control the resulting company. </P>
+<P> The Atlanta-based cable television programmer, which owns Cable News Network, issued a brief statement after TBS Chief Executive Ted Turner disclosed the breakdown of negotiations at a Saturday awards ceremony in California. </P>
+<P> ``Turner Broadcasting System Inc. has discontinued discussions regarding possible business combinations with NBC due to issues of ownership and control,'' the statement said. </P>
+<P> ``As in the past, the company will continue to pursue strategic opportunities as they arise, in order to maximize shareholder value,'' it added. </P>
+<P> Sources close to the talks said discussions focused on a merger between TBS and NBC, rather than an outright purchase by Turner. But the two sides could not agree on whether GE or TBS would maintain majority ownership of the merged company. </P>
+<P> ``Basically, it was a situation of who was going to have majority control of the company, Turner or GE ... what was contemplated was more a merger situation than an out and out acquisition,'' said one source. </P>
+<P> NBC had been in talks with Turner about joining fources to cut costs and open new distribution avenues for news, sports and other programs that each produce separately. </P>
+<P> In late December, NBC executives reviewed the progress of talks with Turner at a meeting of the General Electric board of directors, but submitted no proposal, nor was any action taken. </P>
+<P> GE said at the time that it did discuss the proposed merger of CBS with Turner at the Dec. 16 meeting. While no statement was made by GE, it was believed that the board would only be interested in doing the deal if it enhanced the value of NBC as a GE asset, suggesting that any successful deal would keep GE as a majority shareholder. </P>
+<P> Turner, for its part, has been trying to buy a television network to complement its Cable News Network, TNT entertainment network, Cartoon Network and TBS superstation for over a year. It had made several earlier approaches to NBC and CBS. </P>
+</TEXT>
+</DOC>

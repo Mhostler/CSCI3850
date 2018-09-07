@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU009-0212.950120</DOCID>
+<TDTID>TDT009583</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/20/95 17:29</DATE>
+<TITLE> Break-in brings more prison trouble for Britain</TITLE>
+<HEADLINE> Break-in brings more prison trouble for Britain</HEADLINE>
+<SUBJECT> BC-BRITAIN-PRISON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain's troubled prison system suffered a new blow Friday following reports a woman broke into jail to spend the night with her lesbian lover. </P>
+<P> The prison service said security had been increased at Styal women's prison in Cheshire after a former inmate reportedly slipped in and out of the northern England jail. </P>
+<P> The controversy began last month, when a hole was found in the perimeter fence. A roll-call found nobody was missing. </P>
+<P> But a woman who was an inmate at the time has now told the Manchester Evening News that an intruder slipped in and spent the night with a prisoner in a dormitory. The guest reportedly hid under her lover's bed during a night security check. </P>
+<P> ``Those allegations cannot be proved. But obviously, while he (the prison governor) was unable to prove them, he has acted to ensure security is better in the future,'' said a prison service spokesman. </P>
+<P> It is the latest in a line of embarrassments for Britain's prison system, which has suffered a rash of escapes and tales that some convicts enjoy lavish treatment by their guards. </P>
+<P> The Cheshire jail, too, is no stranger to controversy. </P>
+<P> Last year, an ax murderer was allowed out for a shopping trip to the city of Leeds, while 12 months earlier an inmate was forced to give birth handcuffed to a prison officer. </P>
+</TEXT>
+</DOC>

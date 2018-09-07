@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU014-0235.950327</DOCID>
+<TDTID>TDT011766</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 07:58</DATE>
+<TITLE> Iraqi official denies making sabotage accusation</TITLE>
+<HEADLINE> Iraqi official denies making sabotage accusation</HEADLINE>
+<SUBJECT> BC-IRAQ-AMERICANS-DENIAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BAGHDAD, March 27 (Reuter) </DATELINE>
+<P>  Iraqi speaker of parliament Saddi Mehdi Saleh denied on Monday that he said two Americans arrested in Iraq this month were planning to carry out acts of sabotage. </P>
+<P> He said a report carried by Reuters had misquoted him. </P>
+<P> Saleh said their aim in crossing into Iraq illegally from Kuwait was to prolong U.N. sanctions against Iraq. </P>
+</TEXT>
+</DOC>

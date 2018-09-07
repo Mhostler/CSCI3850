@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0405.941029</DOCID>
+<TDTID>TDT005757</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/29/94 17:48</DATE>
+<TITLE> IRA still training despite ceasefire, paper says</TITLE>
+<HEADLINE> IRA still training despite ceasefire, paper says</HEADLINE>
+<SUBJECT> BC-IRISH-IRA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  The Irish Republican Army (IRA), which called a cease-fire two months ago, is still targeting the security forces in Northern Ireland and buildings in London's financial district, The Observer newspaper said. </P>
+<P> Quoting authoritative police sources in Northern Ireland and anti-terrorist squad souces, the paper said IRA teams were gathering information on potential targets and then mounting dummy attacks. </P>
+<P> The cease-fire by the IRA, which has fought for 25 years against British rule, has been matched by a truce by Protestant guerrillas who want to remain loyal to Britain as part of an Anglo-Irish peace initiative. </P>
+<P> ``Intelligence and surveillance reports confirmed that the IRA's active service units remained in a ``high state of readiness,''' the paper said. </P>
+<P> It added that senior police sources said the IRA units were ``doing all they did before the cease-fire except pull the trigger and press the detonator.'' </P>
+<P> Following the cease-fire, British Prime Minister John Major has decided to relax his own personal security by walking back on foot from parliament in central London to his Downing Street office instead of using an armor-plated limousine. </P>
+</TEXT>
+</DOC>

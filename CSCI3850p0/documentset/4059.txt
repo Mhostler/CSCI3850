@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU014-0184.950131</DOCID>
+<TDTID>TDT009939</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/31/95 11:29</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-MEXICO-CLINTON-AID -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Addressing a meeting of the National Governors' Association, Clinton said it had become clear his $40 billion rescue plan was stirring heavy dissent in Congress and would not be approved soon enough given Mexico's severe financial crisis. </P>
+<P> ``Because Congress cannot act now, I have worked with other countries to prepare a new package,'' he said. ``As proposed now, it will consist of a $20 billion share from the United States' exchange stabilisation fund which we can authorise by executive action without a new act of Congress.'' </P>
+<P> He said the U.S. contribution would be in addition to $17.5 billion from the International Monetary Fund and a ``short-term lending facility'' of $10 billion from the Bank of International Settlements. He said all that amounted to ``an action that is potentially even more aggressive than the $40 billion I originally proposed.'' </P>
+<P> Clinton added: ``The risks of inaction are greater than the risks of decisive action. Do I know for sure that this action will solve all the problem? I do not. Do I believe it will? I do. Am I virtually certain that if we do nothing it will get much, much worse in a hurry? I am. This is the right thing to do.'' </P>
+</TEXT>
+</DOC>

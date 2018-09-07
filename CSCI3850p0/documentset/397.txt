@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0288.940725</DOCID>
+<TDTID>TDT001034</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/25/94 23:38</DATE>
+<TITLE> AT LEAST 22 DIE IN MEXICO TRUCK ACCIDENT</TITLE>
+<HEADLINE> AT LEAST 22 DIE IN MEXICO TRUCK ACCIDENT</HEADLINE>
+<SUBJECT> BC-MEXICO-ACCIDENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  A truck veered off the road and fell into a ravine in the eastern state of Tabasco Monday, killing at least 22 people and injuring 60 others, officials said. </P>
+<P> Authorities did not know the cause of the accident, which took place at a dangerous point in the highway called ``Devil's Curve'' near the town of Teapa 50 miles south of the state capital of Villahermosa, Tabasco state government spokesman Manuel Garcia Javier told Reuters. </P>
+<P> The truck belonged to Compania Mexicana de Exploraciones, a firm doing oil exploration work for state-owned Petroleos Mexicanos, Garcia said. </P>
+<P> At least 80 people were in the truck, most of them workers for oil exploration company, he said. </P>
+<P> Garcia said the injured were taken to area hospitals where many were in serious condition. </P>
+</TEXT>
+</DOC>

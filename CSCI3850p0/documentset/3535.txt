@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0117.950102</DOCID>
+<TDTID>TDT008761</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/02/95 07:21</DATE>
+<TITLE> Missile slams into Sarajevo hotel</TITLE>
+<HEADLINE> Missile slams into Sarajevo hotel</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-MISSILE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  A shoulder-launched missile slammed into the Holiday Inn hotel in central Sarajevo Monday in flagrant breach of a 2-day-old truce accord, a United Nations spokeswoman said. </P>
+<P> ``It could have been fired by the Bosnian Serbs but we can't confirm it,'' Capt. Miriam Sushaki said. ``Specialists are there to try to confirm the precise details.'' </P>
+<P> The missile hit the seventh floor of the hotel, Bosnian government liaison officer Edo Memic said. He said the missile was fired from the Serb-held Grbavica district of Sarajevo. </P>
+<P> Sushaki said there were no casualties. </P>
+<P> The Serbs have fired several missiles on government buildings over the past few months in Sarajevo in a campaign to intimidate the Bosnian authorities. </P>
+<P> Both sides signed Saturday an ambitious accord to cease hostilities over the next four months to pave way for political settlement of the 33-month old war. The United Nations said earlier Monday that the truce was holding throughout Bosnia, except for moderate military activity in the Velika Kladusa area in the northwest Bihac enclave. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0270.941217</DOCID>
+<TDTID>TDT008124</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/17/94 19:28</DATE>
+<TITLE> Eleven dead, 27 hurt on Christmas shopping bus trip</TITLE>
+<HEADLINE> Eleven dead, 27 hurt on Christmas shopping bus trip</HEADLINE>
+<SUBJECT> BC-BRAZIL-BUS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RIO DE JANEIRO, Brazil (Reuter) </DATELINE>
+<P>  Eleven people on a Christmas shopping trip were killed when their bus collided in heavy rain with two trucks in southern Brazil Saturday, Globo television reported. </P>
+<P> Twenty-seven other passengers were injured in the accident near the town of Foz do Iguacu, Parana state, Globo said. </P>
+<P> Because the accident happened at 7 a.m., many of the 43 passengers aboard were sleeping, Globo said. </P>
+<P> They had been bound for Christmas shopping in Paraguay from the Sao Paulo town of Sao Jose dos Campos. </P>
+</TEXT>
+</DOC>

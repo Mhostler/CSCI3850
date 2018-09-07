@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU004-0103.950207</DOCID>
+<TDTID>TDT010197</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 17:04</DATE>
+<TITLE> Judge proves no pal to Friends of Ferrets</TITLE>
+<HEADLINE> Judge proves no pal to Friends of Ferrets</HEADLINE>
+<SUBJECT> BC-FERRETS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A federal judge proved to be no pal of the Friends of Ferrets when he threw out their lawsuit Tuesday challenging New York City's ban against the weasle-like animals. </P>
+<P> New York prohibits the keeping of ferrets within the city limits and if a ferret bites a human being, it must be destroyed by the Department of Health in order to conduct a rabies examination. </P>
+<P> Friends of Ferrets sued on grounds that the ban is unconstitutional. They alleged that the prohibition denies Friends of Ferrets liberty and property without due process. </P>
+<P> ``The Constitution simply does not guarantee owners of ferrets regulatory status precisely equal to the status of owners of other animals, even potentially dangerous animals,'' wrote U.S. District Judge Allen Schwartz. </P>
+<P> He said the Constitution only mandates that a government have a rational basis for regulating animals and that such regulation not be applied arbitrarily or capricously. </P>
+<P> ``Here the undisputed evidence establishes that the city's ban on ferrets ... has ample basis in public health concerns regarding the propensity of pet ferrets to bite, particularly infants and small children,'' the judge wrote. </P>
+<P> Schwartz wrote that while ``ferret advocates have in fact persuaded numerous states to permit ferret ownership,'' New York City had submitted significant materials in support of its ban. </P>
+<P> He also pointed out that New York City is presently under a rabies alert and rabies has been declared endemic in the metropolitan area. </P>
+<P> ``While the genuine and sincere affection of the members of the New York Friends of Ferrets for their pets is evident ... the law is clear ... their recourse lies with the executive agencies and legislative bodies responsible for protecting the health and safety of the public,'' Schwartz wrote. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0271.950119</DOCID>
+<TDTID>TDT009491</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/19/95 01:24</DATE>
+<TITLE> US forces to fly blankets to Japan quake survivors</TITLE>
+<HEADLINE> US forces to fly blankets to Japan quake survivors</HEADLINE>
+<SUBJECT> BC-QUAKE-JAPAN-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  United States forces based in Japan will take blankets to help earthquake survivors Thursday, in the U.S. military's first disaster relief operation in Japan since it set up bases here. </P>
+<P> A military transporter was scheduled to take off in the afternoon from Yokota air base on the outskirts of Tokyo and fly to Osaka with 37,000 blankets. </P>
+<P> Following the quake Tuesday, President Clinton offered the assistance of U.S. military forces in Japan, and Washington provided the Japanese government with a list of support it could provide. </P>
+<P> ``We have received President Clinton's kind offer and plan to ask for supplies we are short of, particularly blankets,'' Chief Cabinet Secretary Kozo Igarashi told a news conference. ``If anything more is necessary we'll talk further.'' </P>
+<P> Many people in Kobe and other badly-hit areas were afraid to go back to their damaged homes after the quake for fear they might collapse in aftershocks. </P>
+<P> About 240,000 evacuees huddled in refugee centers set up in schools. The numbers overwhelmed relief workers, who said they were short of blankets and food. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0430.950503</DOCID>
+<TDTID>TDT013398</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 18:00</DATE>
+<TITLE> Slovenes create history moby skiing down Nepal slope</TITLE>
+<HEADLINE> Slovenes create history moby skiing down Nepal slope</HEADLINE>
+<SUBJECT> BC-NEPAL-MOUNTAIN 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Clarifies height of mountains in last para)</NOTES>
+<DATELINE>KATMANDU, Nepal (Reuter) </DATELINE>
+<P>  Two Slovene climbers created history when they skied from the top of Annapurna I, the world's tenth-highest mountain in the Himalayan range, Nepal's Tourism Ministry said Wednesday. </P>
+<P> The ministry said two Slovene brothers and a Mexican climber reached the 26,000 ft. summit on April 29 from the north face. </P>
+<P> It said the brothers from Jezersko, in Slovenia, 32-year-old ski instructor Davorin Karnicar and 25-year-old Drejc Karnicar, skied back to their base camp at 14,018 ft. on the same day, making it the first continuous ski descent. </P>
+<P> A French mountaineer skied down the slope 15 years ago, but did not do it in one go, officials said. </P>
+<P> Carlos Carsolio, 32, from Mexico City, has climbed nine of the world's 14 mountains that rise above 26,0000 feet. </P>
+<P> Only seven other climbers in the world have conquered as many as 10 mountains above the 26,000 ft mark. </P>
+</TEXT>
+</DOC>

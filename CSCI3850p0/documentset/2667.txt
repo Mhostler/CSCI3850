@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU008-0323.941117</DOCID>
+<TDTID>TDT006653</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/17/94 15:10</DATE>
+<TITLE> 1979 Russia anthrax outbreak due to military leak</TITLE>
+<HEADLINE> 1979 Russia anthrax outbreak due to military leak</HEADLINE>
+<SUBJECT> BC-RUSSIA-ANTHRAX (EMBARGOED) </SUBJECT>
+<AUTHOR>     By Sue Kirchhoff </AUTHOR>
+<TEXT>
+<NOTES>Release at 6 p.m. EST</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A deadly 1979 outbreak of anthrax in the Russian city of Sverdlovsk was caused by a leak from a military facility, not consumption of tainted meat as the former Soviet government claimed, a study said Thursday. </P>
+<P> The findings by U.S. and Russian scientists -- led by Harvard biologist Matthew Meselson who previously found Soviet explanations for the incident that killed at least 66 people plausible but not proven -- bolster long-standing U.S. government claims about the incident. </P>
+<P> But Meselson cautioned that it was was not yet possible to determine whether Moscow had violated the 1972 Biological Weapons Convention through its work at the military facility. </P>
+<P> ``If you were developing a new vaccine and needed to test animals to see if the vaccine was working, you would need to expose them to anthrax. That would be permitted,'' he said. </P>
+<P> ``If you were developing a bomb, that is clearly offensive and would be prohibited (under the treaty). We don't know exactly what they were doing,'' Meselson told Reuters. </P>
+<P> The findings, reported in the latest edition of Science magazine, were based on on-site surveys in Sverdlovsk, a city of 1.2 million about 900 miles east of Moscow. The surveys were conducted in 1992 and 1993. </P>
+<P> Sverdlovsk is now known by its pre-revolutionary name of Yekaterinburg. </P>
+<P> Anthrax is a highly contagious, deadly bacterial disease that results in high fever, convulsions and lesions of the lungs. Many nations have experimented with the bacterium for biologicial warfare purposes. </P>
+<P> News of an anthrax outbreak in Sverdlovsk began to leak out in 1980. Soviet officials said people contracted the deadly disease from eating tainted meat and contact with contaminated animals. </P>
+<P> In the 1988, after research and meeting with Russian scientists, Meselson said a plausible case had been made for the Soviet government claims, but called for more study. </P>
+<P> With the demise of the Soviet regime, official explanations began to change. In 1992 Russian President Boris Yeltsin was quoted as saying that ``the KGB admitted that our military developments were the cause.'' </P>
+<P> An investigative team last year reported that autopsies by Russian pathologists showed the infection was inhaled rather than caused by eating contaminated meat. </P>
+<P> The Science magazine article says the anthrax deaths were caused by a leak from the military facility on April 2, 1979. </P>
+<P> The findings are based on a case-by-case investigation that found most of the people and livestock that died from anthrax were located in a narrow zone south of the military facility. The zone was parallel to winds that blew just before the outbreak began. </P>
+<P> But researchers said they did not know why no individuals under the age of 24 died from the anthrax release. </P>
+</TEXT>
+</DOC>

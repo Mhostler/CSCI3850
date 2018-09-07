@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0015.940906</DOCID>
+<TDTID>TDT002933</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/06/94 06:44</DATE>
+<TITLE> Chances of finding 24 crew from sunken ship slim</TITLE>
+<HEADLINE> Chances of finding 24 crew from sunken ship slim</HEADLINE>
+<SUBJECT> BC-SAFRICA-SHIP </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE TOWN, South Africa (Reuter) </DATELINE>
+<P>  South African search and rescue coordinators said Tuesday the chances of finding the 24 crew members of the Greek-owned ore carrier Iron Antonis that sank in the South Atlantic over the weekend were slim. </P>
+<P> ``Chances of finding them are becoming slim, but we will be working till the last light of day,'' Transport Department sea rescue head Captain Bill Dernier told Reuters. </P>
+<P> Three cargo ships were helping in the search for the crew of the 48,756-ton Iron Antonis. The crew sent a distress call as the vessel, on its way from Brazil to China, sank Saturday midway between the islands of Tristan da Cunha and St Helena. </P>
+<P> Dernier said there had been no contact with the crew since they sent the distress call. </P>
+</TEXT>
+</DOC>

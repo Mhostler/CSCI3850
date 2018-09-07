@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU004-0395.941209</DOCID>
+<TDTID>TDT007673</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/09/94 11:46</DATE>
+<TITLE> U.S. to make $7.7 bln military modernisation cuts</TITLE>
+<HEADLINE> U.S. to make $7.7 bln military modernisation cuts</HEADLINE>
+<SUBJECT> BC-DEFENSE-WEAPONS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON, Dec 9 (Reuter) </DATELINE>
+<P>  Defense Secretary William Perry Friday announced $7.7 billion in cuts in military modernisation programs over the next six years to help fund force readiness and the quality of life for U.S. forces. </P>
+<P> The cuts, part of a policy that in developing military forces ``people come first,'' included a decision to stretch out procurement of the Air Force's F22 ``stealth'' fighter and put off production of the Army's new RAH-66 ``Comanche'' attack-scout helicopter, Perry said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0154.941007</DOCID>
+<TDTID>TDT004597</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/07/94 13:29</DATE>
+<TITLE> Gunman dies, hostages freed in German bank siege</TITLE>
+<HEADLINE> Gunman dies, hostages freed in German bank siege</HEADLINE>
+<SUBJECT> BC-GERMANY-HOSTAGES 1STLD (PICTURE) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Ads confirmation of gunman's suicide, details)</NOTES>
+<DATELINE>HERZOGENRATH, Germany (Reuter) </DATELINE>
+<P>  A gunman who held a bank's customers and staff hostage in an all-night siege killed himself with a grenade Friday after the last of his prisoners escaped, police said. </P>
+<P> Police stormed the building when they heard an explosion shortly after the last four hostages climbed out through a window. They found the man dead, spokesman Winrich Granitzka told a news conference. </P>
+<P> Granitzka said the man had still not been identified, adding that he had apparently burned his identity documents. </P>
+<P> The man, around 55 years old and armed with two handguns and two grenades, entered the bank in the center of Herzogenrath, a town on the Dutch border, just before closing time Thursday. He took nine customers and seven employees hostage and demanded a ransom of $1.3 million. </P>
+<P> The bank customers left two hours later, bringing out his demand for the ransom and a getaway car. Three more hostages were freed in the early hours of Friday. </P>
+<P> But the man lost control of the situation at around 7 a.m., almost 14 hours after the siege began, when his four remaining hostages climbed out of a window while he went to the toilet. All the hostages were unharmed. </P>
+</TEXT>
+</DOC>

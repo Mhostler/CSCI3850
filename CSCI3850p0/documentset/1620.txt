@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0119.940927</DOCID>
+<TDTID>TDT004037</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/27/94 10:25</DATE>
+<TITLE> Yeltsin arrives at White House for summit</TITLE>
+<HEADLINE> Yeltsin arrives at White House for summit</HEADLINE>
+<SUBJECT> BC-CLINTON-RUSSIA-ARRIVE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton welcomed Russian President Boris Yeltsin to the White House Tuesday, saying the old superpower rivals now meet ``not as adversaries but as partners.'' </P>
+<P> ``Today we meet not as adversaries but as partners in the quest for a more prosperous and more peaceful planet,'' Clinton said at a red-carpet welcoming ceremony opening a two-day summit. ``The Russian-American relationship is at last, remarkably, a normal one, full of real accomplishment and genuine promise.'' </P>
+</TEXT>
+</DOC>

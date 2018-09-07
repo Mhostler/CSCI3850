@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU001-0233.950301</DOCID>
+<TDTID>TDT010917</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 18:15</DATE>
+<TITLE> New model predicts independence after hospital stay</TITLE>
+<HEADLINE> New model predicts independence after hospital stay</HEADLINE>
+<SUBJECT> BC-HEALTH-COMPUTER </SUBJECT>
+<AUTHOR>     By Randall Mikkelsen </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PHILADELPHIA (Reuter) </DATELINE>
+<P>  A new statistical model enables doctors to predict what the chances are a patient will return to independent living after hospitalization for life-threatening diseases, according to a medical journal report. </P>
+<P> The report, in the current issue of Annals of Internal Medicine, said the model uses information gathered from patient interviews and laboratory data to predict a patient's ability to function two months after being hospitalized. </P>
+<P> The model's projections can be used to help a patient plan for future care, or decide whether to forego heroic treatments with little promise of improving their quality of life. </P>
+<P> ``Patients vary in the relative value they place on death and various functional states,'' the report said. ``For some situations, this information (from the model) can remind patients, families and physicians of the importance of outcomes other than survival.'' </P>
+<P> Dr. Joanne Lynn, a Dartmouth Medical School professor and co-author of the report said: ``I think people are becoming more and more willing to try and understand their lifespan in much more creative ways.'' </P>
+<P> The model was developed by researchers at Johns Hopkins University in Baltimore and other institutions, as part of a larger study into medical decision-making that also led to development of an earlier reported model to predict survivability prospects for various illnesses. </P>
+<P> The researchers who developed the patient-function model followed 1,746 patients who were hospitalized for nine illnesses, including various types of organ failures, cancers, and coma. </P>
+<P> Researchers found the most reliable predictors of patients' functional abilities two months after they entered the hospital were their abilities two weeks before hospitalization -- as well as the nature of the disease and the severity of physical deterioration. </P>
+<P> The study also found that a significant share of patients -- one-third -- who were regarded as having severe functional limitations nevertheless rated their quality of life as ''good.'' </P>
+<P> ``This suggests that some patients are satisfied to be alive even though they are disabled. However, others might find lesser degrees of disability to be unacceptable,'' the report said. </P>
+<P> Lynn said the computer-generated information can complement a doctor's own assessment of a patient's prospects. </P>
+<P> It could also be used to gauge the quality of medical care by measuring outcomes at one institution or region against the standards derived by the model, she said. </P>
+</TEXT>
+</DOC>

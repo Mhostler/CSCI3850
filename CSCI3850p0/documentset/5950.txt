@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU014-0063.950423</DOCID>
+<TDTID>TDT012905</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/23/95 02:39</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-FRANCE-POLL -2 PARIS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Voting to succeed Socialist President Francois Mitterrand began in town halls and schools in mainland France at 8 a.m. (0600 GMT) and will last until 8 p.m. (1800 GMT) in major cities, two hours later than in rural areas and towns. </P>
+<P> Final opinion polls showed Chirac leading Socialist Lionel Jospin and conservative Prime Minister Edouard Balladur. Most surveys gave Jospin the edge over Balladur in the battle for second place. </P>
+<P> Assuming no candidate wins an absolute majority on Sunday, the top two finishers will contest a May 7 run-off to succeed Mitterrand, who is stepping down at the end of two seven-year mandates. </P>
+<P> Nine candidates, ranging from far rightist Jean-Marie Le Pen to Trotskyite Arlette Laguiller, are standing in the election after an often bitter campaign. Computer forecasts of the results are expected at 8 p.m. (1800 GMT) when polls close in mainland France. </P>
+</TEXT>
+</DOC>

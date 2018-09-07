@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0057.941227</DOCID>
+<TDTID>TDT008533</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/27/94 19:46</DATE>
+<TITLE> This hamburger's a gem</TITLE>
+<HEADLINE> This hamburger's a gem</HEADLINE>
+<SUBJECT> BC-BRITAIN-HAMBURGER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A London man bit into a hamburger and found a diamond worth $1,500, a British newspaper said Wednesday. </P>
+<P> Oskar Keysell, 31, found the diamond in a hamburger he bought at a McDonald's, The Sun newspaper reported. Along with the diamond, he found the gold stud of an earring. </P>
+<P> Keysell said he showed the manager of the fast food restaurant the gold stud, and was given a free burger. </P>
+<P> But he kept the diamond and later took it to a jeweler, who valued it. Keysell told the newspaper he was deciding whether to sell it or have it made into a ring for his girlfriend. </P>
+<P> The Sun quoted a McDonald's spokesman saying that a customer had found a gold earring stud in a hamburger. But the spokesman added, ``the customer made no mention of a diamond.'' </P>
+<P> A check with staff had shown no one was wearing jewelry, which is against McDonald's rules, the spokesman said. </P>
+</TEXT>
+</DOC>

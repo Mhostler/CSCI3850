@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU012-0066.941227</DOCID>
+<TDTID>TDT008538</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/27/94 22:09</DATE>
+<TITLE> Judge blocks Oregon suicide law</TITLE>
+<HEADLINE> Judge blocks Oregon suicide law</HEADLINE>
+<SUBJECT> BC-EUTHANASIA </SUBJECT>
+<AUTHOR>     By Peter Gillins </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>EUGENE, Oregon (Reuter) </DATELINE>
+<P>  A federal judge Tuesday blocked implementation of Oregon's new assisted suicide law that permits doctors to prescribe lethal doses of drugs to terminally ill patients. </P>
+<P> U.S. District Court Judge Michael Hogan in Eugene issued a preliminary injunction in a lawsuit brought by two doctors, two nursing home operators and three terminally ill patients. </P>
+<P> The action blocks implementation of a citizen's initiative that passed last Nov. 8 by a margin of 51-49. The initiative, Measure 16, would have made Oregon the first in the world to legalize physician-assisted suicide. </P>
+<P> Although euthanasia is widely practiced in the Netherlands, technically it remains against the law. </P>
+<P> The measure allows doctors to prescribe lethal doses of medication to patients who are within six months of death. Patients must request the drugs and wait 15 days to get them. </P>
+<P> Under the law, doctors are not allowed administer the drugs. </P>
+<P> The Oregon law had been scheduled to go into effect Dec. 8, but was temporarily enjoined by the judge after the suit was filed. </P>
+<P> In their lawsuit, opponents argued that the law does not provide adequate safeguards to protect the sick, elderly and disabled from abuse. </P>
+<P> Thomas Alderman, attorney for the plaintiffs, argued that the law threatened the terminally ill who may be depressed. Such people could be pressured by relatives and health care providers into committing suicide against their will, he said. </P>
+<P> According to the ruling, the injunction will stay in effect until the court has had time to hear the lawsuit argued and to issue a ruling. </P>
+<P> ``I find the balancing of the important factors of this case merit a postponement of the legislation until the Constitutional concerns are fully heard and analyzed,'' Hogan wrote in his opinion. </P>
+<P> Hogan said he would schedule a hearing as soon as practical. </P>
+<P> Supporters of the law vowed to appeal Hogan's ruling immediately. </P>
+<P> ``I am surprised and disappointed,'' said Charles Hinkle, chief attorney for the sponsors of the ballot initiative. ``I think the judge's decision is erroneous.'' </P>
+<P> ``Measure 16 is purely voluntary. It doesn't require anybody to do anything,'' Hinkle said. </P>
+</TEXT>
+</DOC>

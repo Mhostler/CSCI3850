@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU004-0160.950307</DOCID>
+<TDTID>TDT011068</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/07/95 20:33</DATE>
+<TITLE> Terminal blast forces evacuation of school kids</TITLE>
+<HEADLINE> Terminal blast forces evacuation of school kids</HEADLINE>
+<SUBJECT> BC-REFINERY 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Corrects that fire occurred at terminal, not refinery)</NOTES>
+<DATELINE>CARTERET, N.J. (Reuter) </DATELINE>
+<P>  An explosive fire at an Amoco terminal Tuesday forced the evacuation of a nearby shopping center, an elementary school and some residences, but the fire was quelled within 90 minutes without serious injury. </P>
+<P> Two mostly empty fuel tanks were involved in the noon blaze. A contractor replacing a pump on pipes connecting the two allowed some fuel vapors to escape, according to a spokeswoman for the State Department of Environmental Protection. </P>
+<P> Only one tank caught fire, and firefighters controlled it quickly with foam. Other nearby tanks were kept cool with firefighters' spray. </P>
+<P> Traffic on the nearby New Jersey Turnpike was not affected, although officials closed neighboring access roads and Exit 12. </P>
+</TEXT>
+</DOC>

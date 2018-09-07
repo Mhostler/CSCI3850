@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0398.950226</DOCID>
+<TDTID>TDT010761</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/26/95 02:16</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-TRADE-CHINA-DEAL -2 BEIJING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``Apparently there is an agreement,'' a U.S. embassy spokesman said by telephone. ``Officials of the two are going over the final language.'' </P>
+<P> The delay in announcing the accord was caused by having to put the finishing touches to the English and Chinese final versions, he said. </P>
+<P> He said top U.S. negotiator Deputy Trade Representative Charlene Barshefsky would announce the deal and give details as soon as the wording of the agreement was complete. </P>
+</TEXT>
+</DOC>

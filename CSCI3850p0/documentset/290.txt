@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU009-0289.940718</DOCID>
+<TDTID>TDT000722</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/18/94 23:23</DATE>
+<TITLE> CHINA ROCKFALL LEAVES 41 DEAD, EIGHT MISSING</TITLE>
+<HEADLINE> CHINA ROCKFALL LEAVES 41 DEAD, EIGHT MISSING</HEADLINE>
+<SUBJECT> BC-CHINA-ROCKFALL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  Falling rocks and stones as heavy as 50 tons killed 41 people and left eight others missing and 54 seriously injured in four villages in Yunnan province, southwest China, the Farmers Daily said Tuesday. </P>
+<P> It said that on the evening of June 30, the Wangwan river burst its dikes after torrential rain and caused the slide of more than 1,000 rocks and stones onto the villages. </P>
+<P> They crushed 54 homes and 318 rooms completely, seriously damaged 93 other homes, slightly injured 320 people and caused economic losses worth $11.8 million, the paper said. It gave no other details. </P>
+</TEXT>
+</DOC>

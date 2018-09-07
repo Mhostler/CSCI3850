@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU010-0067.940820</DOCID>
+<TDTID>TDT002265</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/20/94 18:01</DATE>
+<TITLE> SIERRA WILDFIRE RAGES ON IN CALIFORNIA BUT SPARES TOWN</TITLE>
+<HEADLINE> SIERRA WILDFIRE RAGES ON IN CALIFORNIA BUT SPARES TOWN</HEADLINE>
+<SUBJECT> BC-USA-WILDFIRES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  A wildfire that has burned 31,500 acres of brush and forest in California's Sierra Nevada mountains was only 20 percent contained Saturday, fire officials said. </P>
+<P> Diane Minutilli, a Tahoe National Forest spokeswoman, said the town of Loyalton, which was threatened by the blaze Friday, has been spared from the so-called Cottonwood fire. </P>
+<P> Loyalton, a town of 2,000 people, is located about 120 miles northeast of the California capital Sacramento and about 45 miles northeast of Tahoe City, a popular vacation site. </P>
+<P> So far, the fire has injured 10 persons, but has caused no damage to homes. </P>
+<P> Some 1,600 firefighters were battling the blaze. Firefighters beat off a threat to 150 houses in the Sierra Brooks community near Loyalton for the second time Thursday. </P>
+<P> The cause of the fire, which started Tuesday in the Tahoe National Forest, is still under investigation. </P>
+<P> Meanwhile, firefighters succeeded in putting a line all the way around a 48,500-acre blaze near the central California coast by Friday morning, fire information officer Don Smith of the California Department of Forestry said. </P>
+<P> He said the fire was expected to be fully controlled by Sunday morning. </P>
+<P> That fire, started by an arsonist, has caused some $10 million in damage, destroying 51 homes, 31 outbuildings and 34 vehicles, and killing 51 head of cattle, Smith said. </P>
+<P> Smith said firefighters -- 2,900 at the blaze's peak -- were starting to leave the site. </P>
+</TEXT>
+</DOC>

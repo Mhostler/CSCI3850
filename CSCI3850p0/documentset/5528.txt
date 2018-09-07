@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU004-0243.950406</DOCID>
+<TDTID>TDT012212</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 16:32</DATE>
+<TITLE> Principal pleads guilty to stealing school funds</TITLE>
+<HEADLINE> Principal pleads guilty to stealing school funds</HEADLINE>
+<SUBJECT> BC-PRINCIPAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The principal of a grammar school attended by underprivileged children in New York City pleaded guilty Thursday to stealing proceeds from school bake sales, play and movie tickets and the local PTA. </P>
+<P> Antonio Bilbao, 52, admitted taking $11,500 in checks and bank withdrawals from a fund that contained money from the school district as well as money raised by students, parents and community groups. </P>
+<P> Bilbao's frequent withdrawals also cost the school $4,300 in penalties for bounced checks and banking fees, said Edward Stancik, a commissioner for investigations in the school district. </P>
+<P> ``Budgets are tight. Parents are trying to raise money for their kids, then he steals money that should have gone for school supplies,'' Stancik said. ``Some of the bake sale money has gone to pay for bounced check fees.'' </P>
+<P> Bilboa, who agreed to resign, could be sentenced to up to seven years in prison on May 18. </P>
+<P> Stancik said the principal had been taking money by seeking reimbursements for expenses he did not incur. </P>
+<P> Bilboa plead guilty to felony charges of grand larceny and offering a false instrument for filing and to a misdemeanor charge of official misconduct. </P>
+<P> Stancik said most of the students at the school in New York's Lower East Side are underprivileged. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU008-0412.940818</DOCID>
+<TDTID>TDT002088</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/18/94 04:04</DATE>
+<TITLE> SEOUL SAYS NORTH MUST ACCEPT SOUTH'S MODEL REACTOR</TITLE>
+<HEADLINE> SEOUL SAYS NORTH MUST ACCEPT SOUTH'S MODEL REACTOR</HEADLINE>
+<SUBJECT> BC-KOREA-REACTORS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL (Reuter) </DATELINE>
+<P>  South Korea repeated Thursday that communist North Korea must accept South Korean-model reactors under a nuclear safeguards agreement reached last week between Washington and Pyongyang. </P>
+<P> Seoul officials have said acceptance by North Korea of a Southern-model reactor would lead to exchange visits by experts and other cooperation between the two Koreas, which have remained bitter adversaries since the 1950-53 Korean War. </P>
+<P> ``Because we'll be responsible for the light-water reactor construction project, the reactors must absolutely be the South Korean model and South Korean technology and capital must be put in the project,'' President Kim Young-sam told senior officials of the ruling Democratic Liberal Party. </P>
+<P> Kim and President Clinton agreed in a telephone conversation Wednesday that experts would have to inspect two key undeclared nuclear sites in North Korea before the West could provide Pyongyang with a modern nuclear reactor. </P>
+<P> ``I made it clear (to Clinton) that North Korea must not have even a half nuclear bomb ...and that only when North Korea allows special inspections of its two undeclared nuclear sites can South Korea support North Korea's light-water reactor project,'' Kim said. </P>
+<P> In talks last week with the United States in Geneva, North Korea agreed to freeze its graphite-moderated nuclear power program in return for a light-water reactor system and alternative energy supplies until new reactors came on line. </P>
+<P> Washington, concerned that the graphite reactors can produce plutonium for bomb-making, agreed to form a consortium to meet the estimated $4 billion cost of the new reactors. </P>
+<P> Pyongyang denies it is developing nuclear arms, but has blocked international inspections of its nuclear sites. </P>
+<P> On Tuesday, South Korean Foreign Minister Han Sung-joo said the North would have to accept South Korean-model reactors as there was no realistic alternative. </P>
+<P> Han did not elaborate but government officials said that apart from Seoul, no other country was willing to bear the bulk of the cost. </P>
+<P> Seoul officials said Pyongyang, which had earlier resisted the choice of a South Korean-model reactor for political reasons, had left the decision to Washington. </P>
+</TEXT>
+</DOC>

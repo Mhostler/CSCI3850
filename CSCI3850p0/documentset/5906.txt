@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU013-0004.950421</DOCID>
+<TDTID>TDT012823</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/21/95 00:03</DATE>
+<TITLE> European satellite to monitor global environment</TITLE>
+<HEADLINE> European satellite to monitor global environment</HEADLINE>
+<SUBJECT> BC-SPACE-ARIANE </SUBJECT>
+<AUTHOR>     By Alexander Miles </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KOUROU, French Guiana, April 21 (Reuter) </DATELINE>
+<P>  Western Europe's 72nd Ariane rocket made a textbook launch from French Guiana and placed into orbit a European satellite designed to monitor global environment. </P>
+<P> The European Space Agency (ESA) said before the launch late on Thursday that the satellite would send back high quality data for oceanographers, meteorologists and scientists on pollution, the melting of the icecaps, sea temperatures and the destruction of rain forests. </P>
+<P> The European Remote Sensing Satellite (ERS-2) would also study damage to the ozone layer. </P>
+<P> ``Other technologies provide data on (damage to) the ozone layer from the ground...but The Global Ozone Monitoring Experiment (GOME) on ERS-2 will be the only instrument flying over both poles of the earth that will operate in a vast spectre, and using spectroscopic methods will give results of unparalleled precision, almost in all seasons and regardless of latitude,'' ESA director general Jean-Marie Luton told a news conference. </P>
+<P> The Ariane-4 rocket lifted off from the ESA launch centre in Kourou, French Guiana, on the northern coast of South America. The satellite separated from the rocket 18 minutes later. </P>
+<P> The ERS-2 weighs 2.5 tonnes and will orbit the earth every 100 minutes, passing over the north and south poles at an altitude of some 780 km (480 miles). </P>
+<P> Later this year the ERS-2 will operate in a tandem mission with the ERS-1, a similar satellite launched in 1991. </P>
+<P> ``Together they open up scientific investigations that a single ERS satellite cannot provide,'' ESA said. </P>
+<P> The ERS-2 was built by a consortium led by Dasa, a subsidiary of German industrial giant Daimler-Benz AG. </P>
+<P> Space officials said the cost of the ERS-2 mission -- the satellite, launch and ground operations -- was $360 million. </P>
+<P> Thursday's flight was the second successful Ariane mission this year. </P>
+<P> The Ariane programme was plagued in 1994 by two failures linked to the rocket's complex third-stage that burns a mixture of liquid hydrogen and liquid oxygen. </P>
+<P> Arianespace, the Paris-based company that makes and markets Ariane rockets, said it had orders for 37 satellites to be launched in deals worth over $3.3 billion. </P>
+<P> The company has captured more than half the world's commercial satellite launch market. </P>
+<P> U.S. space shuttles no longer launch commercial satellites, a decision taken in 1986 after the Challenger disaster that killed seven astronauts. </P>
+</TEXT>
+</DOC>

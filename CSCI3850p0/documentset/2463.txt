@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU004-0041.941107</DOCID>
+<TDTID>TDT006181</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/07/94 19:29</DATE>
+<TITLE> Exercise better than TV for bad moods</TITLE>
+<HEADLINE> Exercise better than TV for bad moods</HEADLINE>
+<SUBJECT> BC-HEALTH-MOOD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Anyone trying to chase away the blues would be better off going for a run than settling down in front of a television set, a new study showed Monday. </P>
+<P> ``We found that people like to take active mood management,'' said psychologist Robert Newman of California State University at Long Beach, a co-author of the study published in the Journal of Personality and Social Psychology. </P>
+<P> The study found that exercise, be it an aerobics class or going for a jog, made a big difference in shaking off a bad mood, fighting anxiety and reducing tension, said Newman, who plays tennis when he has a bad day. </P>
+<P> Watching television was not a good way to cheer up, the team found. </P>
+<P> Listening to music was an effective mood-changing strategy. Hobbies, reading, shopping and even household chores worked for some people. </P>
+<P> Men were more likely to turn to alcohol or drugs. Women were more likely to talk to someone, eat or smoke. </P>
+<P> The study started by asking 102 college students to list how they fight off a bad mood. Their answers were used to do further research involving 308 people of all ages. </P>
+<P> Twenty-six psychotherapists were also asked to rate strategies that they thought helped change moods. </P>
+</TEXT>
+</DOC>

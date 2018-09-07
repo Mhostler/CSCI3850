@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU006-0039.941212</DOCID>
+<TDTID>TDT007823</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/12/94 18:36</DATE>
+<TITLE> Report says Gulf War Syndrome victims few if any</TITLE>
+<HEADLINE> Report says Gulf War Syndrome victims few if any</HEADLINE>
+<SUBJECT> BC-HEALTH-GULF </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Diagnosis of ailing Gulf War veterans so far indicates only a small number suffer from Gulf War Syndrome, if there is such a syndrome, according to a report released Monday. </P>
+<P> ``It appears that at the completion of (a comprehensive clinical evaluation) there will be only a small fraction of patients for whom a diagnosis remains elusive,'' said the report by the National Academy of Sciences' Institute of Medicine. </P>
+<P> The report suggested that research focus on those few to determine whether they have common symptoms and circumstances that would constitute a new and previously unknown Gulf War Syndrome illness. </P>
+<P> Gerard Burrow, chairman of the committee that prepared the report and dean of the Yale University school of medicine, said potential Gulf War Syndrome victims would essentially be limited to the small number of undiagnosed cases. </P>
+<P> ``If there is a Gulf War illness it really affects a small number of individuals,'' Burrow said. </P>
+<P> He said he could give no estimate on how small a number because only a few hundred of the 9,000 Gulf War veterans with a variety of illnesses have been diagnosed so far. </P>
+<P> He said Defense Department officials involved in the diagnoses told his committee that few veterans could not be diagnosed so far. </P>
+</TEXT>
+</DOC>

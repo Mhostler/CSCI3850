@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU017-0206.950331</DOCID>
+<TDTID>TDT011973</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/31/95 16:06</DATE>
+<TITLE> U.S., Russia collaborate on nuclear monitoring</TITLE>
+<HEADLINE> U.S., Russia collaborate on nuclear monitoring</HEADLINE>
+<SUBJECT> BC-NUCLEAR-RUSSIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States and Russia are collaborating on an experimental system for remote monitoring of the nuclear materials used to build weapons, the Energy Department said Friday. </P>
+<P> The Argonne National Laboratory-West near Idaho Falls, Idaho, and the Kurchatov Institute, a research facility in Moscow, will work on the project which puts sensors and cameras in storage vaults for highly enriched uranium at each lab. </P>
+<P> The sensors are triggered when individuals enter the vaults, and cameras immediately are to start filming. </P>
+<P> Computers record the images, which can be retrieved by telephone lines between Russia and the United States, the department said. </P>
+<P> ``The system has the potential to greatly improve monitoring and verification of U.S. and Russian nuclear weapons materials while reducing costs,'' the Energy Department said in a statement. </P>
+<P> ``Wide-spread use of this system would build global confidence by increasing openess and irreversibility in the nuclear arms reduction process,'' the department said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU013-0156.950324</DOCID>
+<TDTID>TDT011678</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/24/95 21:48</DATE>
+<TITLE> WYSE signs $50 mln terminal deal with China firm</TITLE>
+<HEADLINE> WYSE signs $50 mln terminal deal with China firm</HEADLINE>
+<SUBJECT> BC-CHINA-TERMINALS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING, March 25 (Reuter) </DATELINE>
+<P>  U.S. computer firm WYSE Technology has signed a $50 million cooperation agreement with Beijing University's Founder Group to manufacture computer terminals and monitors, the China Daily said. </P>
+<P> The pact, signed in Beijing on Friday, includes advanced technology transfer to China and setting up of a research and development centre as well as manufacture of terminals for export and the Chinese market, it said. </P>
+<P> The Beijing University Founder group is the China sales agent for WYSE, which introduced Chinese-English terminals and related products in 1994, it said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU011-0417.950223</DOCID>
+<TDTID>TDT010694</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/23/95 22:07</DATE>
+<TITLE> New Jersey governor orders probe of Paterson shooting</TITLE>
+<HEADLINE> New Jersey governor orders probe of Paterson shooting</HEADLINE>
+<SUBJECT> BC-RIOT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TRENTON, N.J. (Reuter) </DATELINE>
+<P>  Hoping to calm simmering racial tensions in some New Jersey towns, Gov. Christie Whitman Thursday ordered an investigation into a police shooting that sparked a riot in Paterson Wednesday night. </P>
+<P> State Police are on standby to reinforce Paterson police if the need arises, the governor said. </P>
+<P> Declining to draw parallels with an incident in Teaneck six years ago, Whitman said a deputy attorney general would work with Passaic County Prosecutor Ronald Fave to determine the appropriateness of police procedures. </P>
+<P> The teen-age shooting victim is on life support, contrary to street rumors that he had died. ``As far as we know, the streets are quiet today,'' said Col. Carl A. Williams, the state police superintendent. </P>
+<P> Paterson police sources said the shooting occurred accidentally Tuesday night when an officer struggled with a teen-ager trying to evade a drug arrest. </P>
+<P> In the incident six years ago in Teaneck, a black teen-ager was shot while fleeing a white police officer. Several days of unrest and protest followed the decision by the Bergen County prosecutor not to charge the officer. </P>
+<P> The state finally stepped in, ordered a new grand jury investigation that led to an indictment. The officer ultimately was acquitted at trial. </P>
+</TEXT>
+</DOC>

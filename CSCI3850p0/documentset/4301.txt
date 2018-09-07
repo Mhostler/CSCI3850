@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU006-0179.950212</DOCID>
+<TDTID>TDT010366</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/12/95 00:29</DATE>
+<TITLE> Japan prosecutors probe bank scandal - report</TITLE>
+<HEADLINE> Japan prosecutors probe bank scandal - report</HEADLINE>
+<SUBJECT> BC-JAPAN-SCANDAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Japan's state prosecutors have started a preliminary inquiry into a huge banking scandal that could have political repercussions, the Asahi Shimbun newspaper reported Sunday. </P>
+<P> Investigators at the Tokyo District Prosecutor's Office, who handle only major financial and political scandals, have collected documents from two Tokyo credit firms at the heart of a controversial government bailout scheme, Asahi said. </P>
+<P> In an unprecedented move in December, the Bank of Japan (BOJ) and the Finance Ministry moved to bail out the two firms, Anzen Credit Bank and Tokyo Kyowa Credit Association. </P>
+<P> They had uncollectable loans totaling $1.1 billion, BOJ officials said. The government set up a rescue bank, the Tokyo Kyodo Bank, with help from commercial banks and the Tokyo metropolitan government. </P>
+<P> Most of the bad loans stemmed from dubious investments handled by Harunori Takahashi, former head of Tokyo Kyowa Credit and a consultant to Anzen Credit. </P>
+<P> The loans were made to Takahashi's own private company, EIE International, a resort developer. Takahashi has publicly confirmed there were some irregular loans from the two credit firms to his own company but denied any criminal act. </P>
+<P> Asahi said prosecutors were conducting the preliminary inquiry on suspicion that Takahashi may have violated a breach of trust code. </P>
+<P> Takahashi resigned from his posts at the two credit firms last December. </P>
+<P> His successors have said they were considering filing legal complaints against him on breach of trust charges but the prosecutors have begun their move before the complaints had been filed, Asahi reported. </P>
+<P> Officials at the District Prosecutor's Office have refused to comment on the case, following standard Justice Ministry rules. They only confirm charges when they arrest or indict a suspect or raid homes or offices to collect evidence. </P>
+<P> The rescue bank scheme has come under fierce attack from the opposition party and commercial banks. </P>
+<P> Last Friday Finance Minister Masayoshi Takemura defended the rescue plan but acknowledged there were ``management problems'' at the Tokyo-based firms. </P>
+<P> ``I still think we did the right thing to come to this conclusion,'' Takemura told a news conference, referring to the decision to give official aid to the rescue bank. </P>
+<P> ``From the start, we have focused on the need to make the responsibility of the (former) management clear. There are various problems with the management and I feel angry about it,'' Takemura said. </P>
+<P> Banking sources said dissatisfaction with the plan remains strong among private banks taking part in the rescue bank. </P>
+<P> Industry sources said in December the rescue package was likely to total $1.2 billion, with private banks lending the new bank $400 million. </P>
+</TEXT>
+</DOC>

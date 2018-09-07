@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0384.940817</DOCID>
+<TDTID>TDT002083</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/17/94 22:03</DATE>
+<TITLE> FIRE IN SOUTH KOREAN HOSTESS BAR KILLS 14</TITLE>
+<HEADLINE> FIRE IN SOUTH KOREAN HOSTESS BAR KILLS 14</HEADLINE>
+<SUBJECT> BC-KOREA-FIRE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, South Korea (Reuter) </DATELINE>
+<P>  A fire swept through a hostess bar in Seoul late Wednesday, killing 14 people, police said. </P>
+<P> Ten clients and four female employees were suffocated by smoke and toxic gas caused by burning carpets and furniture in the bar on the fourth floor of a five-story building, they said. </P>
+<P> The fire, which occurred at about midnight, caused a power failure in the bar, which was divided into 15 enclosed rooms where ``hostesses'' served their male clients. </P>
+<P> ``The fire was put under control in 20 minutes or so, but the death toll was high as the rooms were located along a corridor looking like a labyrinth,'' a police officer said. </P>
+<P> There were 14 clients and 20 employees at the bar when the fire broke out, but the others managed to escape to the rooftop through an emergency exit, he said. </P>
+<P> ``I cried 'fire, fire,' but some might not have heard as clients were drunk and singing to loud karaoke music in the rooms,'' waiter Kim Kwang-soo said. </P>
+<P> Police said they suspected that an electric short-circuit might have started the fire, although the exact cause was still being investigated. </P>
+</TEXT>
+</DOC>

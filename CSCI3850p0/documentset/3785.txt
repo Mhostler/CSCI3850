@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU006-0412.950115</DOCID>
+<TDTID>TDT009325</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/15/95 18:19</DATE>
+<TITLE> Tennis-Revised Australian Open women's singles draw</TITLE>
+<HEADLINE> Tennis-Revised Australian Open women's singles draw</HEADLINE>
+<SUBJECT> BC-TENNIS-OPEN-DRAW-WOMEN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MELBOURNE (Reuter) </DATELINE>
+<P>  Revised women's singles first round draw at the Australian Open tennis championships from Jan. 16-29 (includes qualifiers; prefix number denotes seeding): </P>
+</TEXT>
+</DOC>

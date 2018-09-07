@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU004-0021.941207</DOCID>
+<TDTID>TDT007592</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/07/94 20:49</DATE>
+<TITLE> Congressional leaders rip forest merger plan</TITLE>
+<HEADLINE> Congressional leaders rip forest merger plan</HEADLINE>
+<SUBJECT> BC-ENVIRONMENT-FOREST </SUBJECT>
+<AUTHOR>     By Yereth Rosen </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANCHORAGE, Alaska (Reuter) </DATELINE>
+<P>  The Alaska Republicans slated to lead Congressional committees overseeing federal environmental policies said Wednesday they plan to block a Clinton administration proposal to merge the U.S. Forest Service's Alaska and Pacific Northwest regional offices. </P>
+<P> The plan to reduce the nine Forest Service regional offices to seven through consolidation is likely to be rejected quickly by new Republican leaders, said Rep. Don Young and Sen. Frank Murkowski. </P>
+<P> Young, elected Wednesday by House Republicans to chair the House's newly named Public Lands and Resources Committee, and Murkowski, slated to head the Senate's Energy and Natural Resources Committee, attacked the plan to move Alaska forest managers to Portland, Ore. </P>
+<P> ``People are tired of federal bureaucrats in centralized locations making important decisions about their local communities,'' Young said in a statement. </P>
+<P> ``These bureaucrats have no concept of the special needs of each community and they should be seeking to work within the communities, not under some ill-conceived ecosystem management plan written by national environmental organizations.'': </P>
+<P> Young and Murkowski have sharply criticized new environmental protections imposed in southeastern Alaska's Tongass National Forest, and have vowed to work for increased logging there. They also have advocated increased development in south central Alaska's Chugach National Forest. </P>
+<P> Forest Service spokesman Steve Ambrose said the plan to consolidate Alaska management in a Portland regional office is an effort to group forests that are ecologically similar. </P>
+<P> ``We're looking at trying to line up regions according to ecosystems,'' Ambrose said. ``Alaska, with a coastal rain forest, and Oregon and Washington's coastal rain forest are similar.'' </P>
+<P> The plan is also aimed at cutting bureaucratic layers and shifting spending from management to programs within the forests, he said. </P>
+<P> ``The fewer people that we have at upper levels, the more money gets to the ground,'' he said. </P>
+<P> The Forest Service's Alaska regional office manages the 16.9 million-acre Tongass, the largest U.S. national forest, and the 5.9 million-acre Chugach, the second-largest national forest. </P>
+<P> The consolidation proposal is part of the Clinton adminstration's ``reinventing government'' program headed by Vice President Al Gore. </P>
+</TEXT>
+</DOC>

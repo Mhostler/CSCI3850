@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0347.941004</DOCID>
+<TDTID>TDT004473</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/04/94 16:23</DATE>
+<TITLE> Texas man set to be executed for 1981 murder</TITLE>
+<HEADLINE> Texas man set to be executed for 1981 murder</HEADLINE>
+<SUBJECT> BC-USA-EXECUTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HUNTSVILLE, Texas (Reuter) </DATELINE>
+<P>  Texas officials were set to execute early Wednesday a man who was convicted of murdering a clerk in 1981 at a San Antonio convenience store where he once worked. </P>
+<P> If executed by lethal injection shortly after midnight Wednesday, Walter Key Williams would become the 11th person put to death during 1994 in Texas and the 82nd since the state resumed carrying out executions in 1982. </P>
+<P> Attorneys for Williams had no appeals pending Tuesday afternoon in state or federal courts, but had submitted a clemency petition to Texas Governor Ann Richards, according to Texas officials. </P>
+<P> Richards has never granted a clemency petition. </P>
+<P> Williams, 32, was convicted of shooting Daniel Liepold in the back with a .38 caliber pistol during a robbery at a Circle K Food Store in San Antonio. </P>
+<P> At his trial, eyewitnesses testified that they saw Williams and his accomplice, Theodore Roosevelt Edwards, in the store at the time of the robbery. </P>
+<P> Williams, who was married at age 17 but separated from his wife at the time of the crime, had worked at the store for about a year earning about $180 per week, and knew Liepold casually, according to state prison records. </P>
+<P> Prosecutors introduced a confession signed by Williams at his trial, signed about eight hours after the crime. Police found the gun used in the robbery at his parents' home on a nightstand next to a bed Williams was sleeping in. </P>
+</TEXT>
+</DOC>

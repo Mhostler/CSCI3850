@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU006-0303.940812</DOCID>
+<TDTID>TDT001831</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/12/94 18:50</DATE>
+<TITLE> SAUDI TANKER RESCUES FOUR BRITISH SAILORS</TITLE>
+<HEADLINE> SAUDI TANKER RESCUES FOUR BRITISH SAILORS</HEADLINE>
+<SUBJECT> BC-USA-SAILORS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  High-technology on the high seas helped rescue four British sailors who were found adrift in the Atlantic hundreds of miles west of the Azores, the U.S. Coast Guard said Friday. </P>
+<P> ``These guys were pretty lucky,'' said Coast Guard spokesman Petty Officer Dennis Uhlenhoff.  The saga began when the 24-foot sailboat Zdenka, skippered by Herbert John Johnson, experienced steering problems. Unable to continue under sail, the vessel motored 600 miles, until it rain out of fuel 400 miles west of the Azores. </P>
+<P> The Coast Guard's Automated Mutual Assistance Vessel Rescue system (AMVER) picked up their distress signal. AMVER is a computer program that plots the voyages of more than 12,000 ships of all nations. On any given day, some 2,500 vessels participate in the program. </P>
+<P> Through AMVER, the Coast Guard at New York's Governor's Island was able to determine that the nearest vessels a Saudi container ship, the Addiriyah. </P>
+<P> Owned by the Kuwait-based United Arab Shipping Co, the Addiriyah, followed the tradition of the sea, which puts safety of life before cargo, ports of calls or nationality, and diverted 192 miles, to rescue Johnson and his three crewmen. </P>
+<P> The Addiriyah, with the four sailors, is expected to dock in Port Elizabeth, New Jersey, a few miles southwest of New York City Saturday. </P>
+<P> The Coast Guard said AMVER was responsible for saving 126 lives in 1993 and noted that merchant vessels from 134 nations voluntarily participate in the program. </P>
+</TEXT>
+</DOC>

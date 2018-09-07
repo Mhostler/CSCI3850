@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU014-0035.950130</DOCID>
+<TDTID>TDT009920</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/30/95 17:09</DATE>
+<TITLE> Israel sends bomber accomplice to prison for life</TITLE>
+<HEADLINE> Israel sends bomber accomplice to prison for life</HEADLINE>
+<SUBJECT> BC-MIDEAST-BOMBER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  An Israeli military court sentenced a Palestinian to life in prison plus 10 years for helping a suicide bomber kill eight Israelis in April last year, the army said Monday. </P>
+<P> The court said Mohammed Kmayel, in his teens, helped plan the car bombing in the city of Afula in northern Israel. </P>
+<P> Israel Television said Kmayel denied involvement and accused interrogators of extracting his confession by force. </P>
+<P> ``Not everyone wants to die the death of a saint. I, for one, don't believe that I must die so I won't do it,'' Kmayel told Israel Television. </P>
+<P> The Islamic militant Hamas group claimed responsibility for the the car bomb attack near a bus stop which killed eight Israeli civilians and wouded dozens. </P>
+<P> Another militant Palestinian group, Islamic Jihad, said its members were responsible for a suicide bombing north of Tel Aviv last week in which 21 Israelis were killed. </P>
+</TEXT>
+</DOC>

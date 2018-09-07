@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0395.950326</DOCID>
+<TDTID>TDT011732</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/26/95 05:01</DATE>
+<TITLE> U.N. moves Turkish Kurds from Iraq battle zone</TITLE>
+<HEADLINE> U.N. moves Turkish Kurds from Iraq battle zone</HEADLINE>
+<SUBJECT> BC-TURKEY-IRAQ-REFUGEES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ZAKHO, Iraq (Reuter) </DATELINE>
+<P>  The U.N. refugee agency Sunday began evacuating more than 1,000 Turkish Kurds out of the way of a Turkish offensive against Kurdish guerrillas in northern Iraq. </P>
+<P> A convoy of 30 trucks and minibuses, protected by U.N. guards, left the Iraqi border town of Zakho for the Atrush refugee camp, 62 miles by road to the south. </P>
+<P> About 10,000 Turkish Kurdish refugees are camped at Atrush, which is outside the zone Turkish authorities have mapped out as the limit of their cross-border campaign against Kurdistan Workers Party (PKK) guerrillas. </P>
+<P> The refugees are among about 13,000 people who streamed into Iraq last year, saying they fled fighting between the army and the PKK. Some say their villages were attacked by Turkish troops. </P>
+<P> Ankara maintains they were forced over the border by the PKK in order to damage Turkey's image. </P>
+</TEXT>
+</DOC>

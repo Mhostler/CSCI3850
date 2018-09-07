@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU011-0170.940824</DOCID>
+<TDTID>TDT002373</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/24/94 05:22</DATE>
+<TITLE> NIGERIAN OIL WORKERS STAY AWAY, OFFICIALS SAY</TITLE>
+<HEADLINE> NIGERIAN OIL WORKERS STAY AWAY, OFFICIALS SAY</HEADLINE>
+<SUBJECT> BC-NIGERIA-STRIKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LAGOS, Nigeria (Reuter) </DATELINE>
+<P>  Nigeria's striking oil workers appear to be defying a government order to return to their jobs, oil industry officials said Wednesday. </P>
+<P> ``They are not here,'' a senior executive with a major multinational oil firm told Reuters. ``On Monday some came in, yesterday even fewer people turned up. Today there's no one.'' </P>
+<P> Military ruler General Sani Abacha, responding to the seven-week stoppage demanding he free presidential claimant Moshood Abiola and cede power to him, fired leaders of the oil unions last week and ordered the strikers back to their jobs. </P>
+<P> The workers have until Thursday to return to their jobs or be dismissed and the government, taking a hard line, says it is ready to employ foreigners to replace the strikers. </P>
+<P> The fired oil union leaders vowed to continue the strike. </P>
+<P> ``We understand the workers who turned up on Monday were briefed by the union people and asked to stay away,'' the company spokesman said. </P>
+<P> ``We also understand some of them will turn up again next week for another briefing,'' he added. </P>
+<P> The strike has bitten deep into Nigeria's oil earnings but the government has offered no concessions to the workers demands. </P>
+<P> Abiola, who is widely believed to have won last year's annulled presidential election, has been on trial since July 11 on treason charges for proclaiming himself president in defiance of the military rulers. </P>
+<P> Banks, which had also been closed because of strikes, reopened in Lagos Wednesday after a government directive. </P>
+</TEXT>
+</DOC>

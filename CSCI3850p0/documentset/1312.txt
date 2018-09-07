@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0397.940912</DOCID>
+<TDTID>TDT003229</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/12/94 11:40</DATE>
+<TITLE> Quebec has long history of debate over independence</TITLE>
+<HEADLINE> Quebec has long history of debate over independence</HEADLINE>
+<SUBJECT> BC-CANADA-QUEBEC-CHRONOLOGY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>QUEBEC CITY (Reuter) </DATELINE>
+<P>  The Quebec provincial election has launched a new debate over independence from Canada. Here are some key facts about Quebec: </P>
+<P> -- Canada's largest province in area at 594,440 square miles, roughly the size of Alaska. </P>
+<P> -- Second-largest in population after Ontario, with 6.9 million people, or about a quarter of Canada's total. About 82 percent speak French as their first language, nine percent English and another nine percent speak languages other than English or French. </P>
+<P> -- Economy size about $116 billion, comparable to Denmark. Quebec accounts for about 22.5 percent of Canada's total economy measured by Gross Domestic Product. </P>
+<P></P>
+</TEXT>
+</DOC>

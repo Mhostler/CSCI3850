@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0124.941101</DOCID>
+<TDTID>TDT005878</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/01/94 15:14</DATE>
+<TITLE> Greenpeace slams illegal Brazil mahogany trade</TITLE>
+<HEADLINE> Greenpeace slams illegal Brazil mahogany trade</HEADLINE>
+<SUBJECT> BC-ENVIRONMENT-BRAZIL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RIO DE JANEIRO (Reuter) </DATELINE>
+<P>  Greenpeace activists sprayed slogans on mahogany wood awaiting export at the mouth of the Amazon River in protest at widepread and illegal logging, the environmental group said Tuesday. </P>
+<P> ``Most of the mahogany for export to Britain and the United States is stolen from Indian lands and protected areas without government control,'' Jose Augusto Padua, Greenpeace's coordinator in Latin America, said in a statement. </P>
+<P> The Brazilian logging industry extracts all its wood from primary rainforest, opening up new areas to farmers and cattle ranchers and subsequent deforestation, Greenpeace said. </P>
+<P> Next week, the Convention for International Trade in Endangered Species is to meet in Florida where a proposal to regulate trade in mahogany will be considered. </P>
+</TEXT>
+</DOC>

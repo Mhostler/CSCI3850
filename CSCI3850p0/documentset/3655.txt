@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU003-0427.950109</DOCID>
+<TDTID>TDT009062</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/09/95 15:12</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA-USA -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Panetta commented on Yeltsin's status when asked about Senate Republican leader Bob Dole's assertion Sunday that the continued bombing of Chechen civilians raised questions about the Russian president's control over his military. </P>
+<P> After saying it was ``dangerous to speculate'' about the situation, the White House chief of staff added: ``From all we know, Yeltsin is still in charge.'' </P>
+<P> President Clinton wrote Yeltsin last week to express his concern about the bloodshed in Chechnya and urge Moscow to work with the Organization for Security and Cooperation in Europe to resolve the crisis. Panetta said Clinton had not yet received a response to his letter. </P>
+</TEXT>
+</DOC>

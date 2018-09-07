@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0066.950317</DOCID>
+<TDTID>TDT011377</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/17/95 14:58</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-IRAQ-KUWAIT-CONFIRMATION -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``The (U.S.) embassy in Kuwait is in regular contact with UNIKOM (United Nations Iraq-Kuwait Obervation Mission), which is conducting an investigation into the detention of two Americans in Iraq,'' State Department spokesman David Johnson said. </P>
+<P> U.S. officials were also in contact with Polish authorities, who provide services to American citizens in Iraq in the absence of U.S.-Iraq diplomatic relations, and with the families of the two Americans, Johnson said. </P>
+<P> He declined to name the two but said they were believed to have been private citizens on business in Iraq and were not U.S. government employees. </P>
+<P> U.N. sources in New York said they were thought to have worked for a contracting company and were detained on March 13. </P>
+</TEXT>
+</DOC>

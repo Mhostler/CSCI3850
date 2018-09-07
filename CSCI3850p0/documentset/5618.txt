@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU006-0109.950409</DOCID>
+<TDTID>TDT012368</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/09/95 22:08</DATE>
+<TITLE> Dollar under fierce assault, sinks below 81.00 yen</TITLE>
+<HEADLINE> Dollar under fierce assault, sinks below 81.00 yen</HEADLINE>
+<SUBJECT> BC-JAPAN-DOLLAR-LOW 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>    (Updates with developments, background)</NOTES>
+<DATELINE>TOKYO, April 10 (Reuter) </DATELINE>
+<P>  The dollar plummeted to a fresh global post-World War Two low on Monday morning, sinking below 81.00 yen as the government pledged again to draw up economic measures to cope with the Japanese currency's rise. </P>
+<P> Dealers said heavy dollar selling by Japanese exporters and U.S. investment funds overwhelmed intervention by Japan's central bank. </P>
+<P> ``The market was full of operators rushing to sell dollars against the yen,'' said a U.S. bank dealer in Tokyo. </P>
+<P> The U.S. currency had closed at 83.68/75 yen in New York on Friday, against a high this year of 101.45 yen, posted on January 4 in New York. By around 0200 GMT on Monday, the dollar had clawed back above 81 yen and was trading around 81.40 yen. </P>
+<P> A big upset for Japan's established parties in local gubernatorial elections in Tokyo and Osaka, both won by former television entertainers running as independents, also undermined sentiment for the dollar. </P>
+<P> ``Major parties' losses are usually a factor for selling yen, but it increased scepticism that Japan's measures may not halt the yen's rises,'' said a long-term credit bank dealer. </P>
+<P> Finance Minister Masayoshi Takemura told reporters on Monday morning that the yen's surge was a ``serious worry'' for Japan and the government hoped to draw up emergency plans to cope with it this week. </P>
+<P> Takemura also urged the United States to show a ``strong stance'' in dealing with foreign exchange fluctuations. </P>
+<P> But economists have said the U.S. Federal Reserve Bank was unlikely to move soon to hike interest rates, one step that might help stem the dollar's decline. </P>
+<P> Nor have they been overly optimistic about Washington's commitment to cutting its budget and trade deficits, also cited as factors behind the dollar's precipitous drop. </P>
+<P> Tokyo share prices, initially weakened by the yen's rise, rose smartly in late morning trade on hopes that the government package would include support for the flagging share market. </P>
+<P> Economists and government sources have said the economic package was unlikely to contain any miracle cure for the nations's currency-induced woes, even if it was twinned with a cut in the Bank of Japan's official discount rate. </P>
+<P> Government sources said on Friday that the BOJ might cut the discount rate this week, perhaps by 0.75 percentage point from its current record low of 1.75 percent. </P>
+</TEXT>
+</DOC>

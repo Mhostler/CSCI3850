@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU014-0402.950327</DOCID>
+<TDTID>TDT011797</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 19:19</DATE>
+<TITLE> U.S. sees cut-off in cheap World Bank China loans</TITLE>
+<HEADLINE> U.S. sees cut-off in cheap World Bank China loans</HEADLINE>
+<SUBJECT> BC-CHINA-LOANS </SUBJECT>
+<AUTHOR>     By Rich Miller, Economics Correspondent </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The World Bank is expected to cut China off from low-cost financing starting in the middle of next year, a senior U.S. official said Monday. </P>
+<P> China has been a heavy borrower of such ``concessional'' loans from the Bank's International Development Association (IDA) affiliate. In 1993/94, it borrowed some $925 million. </P>
+<P> ``I would be very surprised if China were to receive assistance under the next IDA (replenishment) ... because of its ability to attract money on commercial terms,'' U.S. Treasury Under Secretary Lawrence Summers said. </P>
+<P> He also told a House Banking subcommittee the World Bank has $9 billion pending in the pipeline to lend to Russia. That's on top of $3 billion in loans it has already approved. </P>
+<P> The current $18 billion replenishment of IDA's resources is due to expire on June 30, 1996. IDA, which is funded by the United States and its rich allies, provides money at no interest charge to the world's poorest nations -- countries with average per capita incomes under about $835. </P>
+<P> Although China's per capita income is well below that -- about $490, according to Bank estimates -- the country has enjoyed extraordinary economic growth in the last 16 years, averaging nine percent per year. </P>
+<P> Thanks to that performance, it has had little trouble attracting finance from commercial banks and other sources. </P>
+<P> It has also been a heavy borrower from the World Bank's main lending arm, the International Bank for Reconstruction and Development, which provides money at market-related interest rates. </P>
+<P> Diplomats said the United States has been spearheading a drive at the World Bank to cut China off from cheap finance. </P>
+<P> The move appears to have the backing of Bank management, but may run into opposition from Japan, which has often acted to protect China's interests at the organization, they said. </P>
+<P> The World Bank is not the only arena where the United States has taken a hard-line stance against China. It's also opposed Beijing's entry into the new World Trade Organization unless it is willing to adhere to the same trade rules that apply to other large nations. </P>
+</TEXT>
+</DOC>

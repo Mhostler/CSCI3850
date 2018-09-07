@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0138.950421</DOCID>
+<TDTID>TDT012840</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/21/95 10:00</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BLAST-WITNESS -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Russell said investigators may want to talk again to the man, a U.S. citizen initially described by the Justice Department as a ``possible witness'' to the blast. But they had no reason to believe there was a danger he would flee the country. </P>
+<P> Russell was unable to say if the man -- identified by the Jordanian government as Ibrahim Abdullah Hassan Ahmad -- had any knowledge about the car bombing. It was not clear if U.S. authorities made a mistake in believing he might have some connection to the blast. </P>
+<P> FBI officials said the man, believed to be an Oklahoma resident, initially was interrogated by federal officials at Chicago airport, before being released. </P>
+<P> He then flew to London, where British officials detained him at the request of the United States and sent him back for more questioning. </P>
+</TEXT>
+</DOC>

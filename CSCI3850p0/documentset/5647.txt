@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0413.950411</DOCID>
+<TDTID>TDT012424</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/11/95 01:10</DATE>
+<TITLE> China's air force hands over routes to civilians</TITLE>
+<HEADLINE> China's air force hands over routes to civilians</HEADLINE>
+<SUBJECT> BC-CHINA-AVIATION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING, April 11 (Reuter) </DATELINE>
+<P>  China's air force will hand administration rights of air routes in the skies above the country to the Civil Aviation Administration of China (CAAC) over the next three years, the Economic Daily said on Tuesday. </P>
+<P> The State Council, or cabinet, and the Central Military Commission have decided to begin the three-year transfer this year, CAAC officials said at a conference in the southern city of Shenzhen, the newspaper said. </P>
+<P> The air force, citing national security, has long jealously guarded control of China's skies. </P>
+<P> After transfering the route between Beijing, the southern city of Guangzhou and the nearby boomtown of Shenzhen, routes between Beijing and Shanghai and Shanghai and Guangzhou should be handed over this year, the newspaper said. </P>
+<P> To ensure the smooth handover, CAAC has already begun preparatory work, and its first task is the restructuring of flight routes, the newspaper said. </P>
+<P> Next it will increase investment in hardware to improve the flight control environment and then boost construction work for landing and take-offs and weather monitoring, the newspaper said. It gave no other details. </P>
+</TEXT>
+</DOC>

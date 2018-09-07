@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0174.940725</DOCID>
+<TDTID>TDT001003</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/25/94 12:18</DATE>
+<TITLE> ARAFAT CONGRATULATES RABIN, HUSSEIN ON AGREEMENT</TITLE>
+<HEADLINE> ARAFAT CONGRATULATES RABIN, HUSSEIN ON AGREEMENT</HEADLINE>
+<SUBJECT> BC-MIDEAST-SUMMIT-ARAFAT 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Adds more quotes))</NOTES>
+<DATELINE>GAZA (Reuter) </DATELINE>
+<P>  PLO Chairman Yasser Arafat on Monday congratulated the leaders of Israel and Jordan for their agreement ending the state of belligerency between their countries. </P>
+<P> ``I appreciate very much what has been done and I am sending my congratulations to his excellency President Clinton and his majesty King Hussein and his excellency Prime Minister Rabin at what they have signed today,'' Arafat told reporters in the Palestinian self-rule area of Gaza. </P>
+<P> ``It is a continuation of this peace process and the long march to achieve a long and peaceful solution in the whole area and we hope we will have the same on the Syrian and Lebanese tracks.'' </P>
+<P> Arafat and Rabin made history last September when they shook hands on the White House lawn, signalling an end to their conflict and beginning a peace process that culminated in agreement on Palestinian self-rule last May. </P>
+<P> Israel, Syria and Lebanon have made little progress toward peace since Middle East peace talks began in Madrid nearly three years ago. </P>
+</TEXT>
+</DOC>

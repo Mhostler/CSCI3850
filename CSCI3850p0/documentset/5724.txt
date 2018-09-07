@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0359.950413</DOCID>
+<TDTID>TDT012527</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/13/95 17:58</DATE>
+<TITLE> Clinton says Somalia fight ``most depressing'' moment</TITLE>
+<HEADLINE> Clinton says Somalia fight ``most depressing'' moment</HEADLINE>
+<SUBJECT> BC-CLINTON-SOMALIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton said on Thursday that the most depressing moment of his presidency was when an October 4, 1993, Somali firefight took the lives of a dozen American troops. </P>
+<P> ``It was the most personally depressing moment to me,'' he said in a CNN interview. </P>
+<P> The troops were killed in a firefight in Mogadishu with guerrillas loyal to a Somali warlord. U.N. peacekeepers, including American forces, ultimately gave up efforts to capture the warlord, Mohamed Farah Aideed. </P>
+<P> Clinton said the United States learned a lesson from the Somalia experience which it put to use in more successful missions in Rwanda and Haiti. </P>
+<P> He said one of the most exhilarating moments of his presidency was when his economic plan of cutting deficit spending and raising taxes on the wealthy was passed by one vote in the Senate in 1993. </P>
+</TEXT>
+</DOC>

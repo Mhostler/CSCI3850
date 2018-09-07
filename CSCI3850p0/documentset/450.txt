@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0302.940728</DOCID>
+<TDTID>TDT001152</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/28/94 10:08</DATE>
+<TITLE> EX-CLINTON AIDE NUSSBAUM DEFENDS WHITEWATER TALKS</TITLE>
+<HEADLINE> EX-CLINTON AIDE NUSSBAUM DEFENDS WHITEWATER TALKS</HEADLINE>
+<SUBJECT> BC-WHITEWATER-NUSSBAUM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Former White House counsel Bernard Nussbaum Thursday defended his contacts with Treasury officials over a government investigation related to the Whitewater affair. </P>
+<P> Nussbaum, who resigned last March under pressure after disclosures about the contacts, told the House Banking Committee: ``In my view ... these meetings were proper.'' </P>
+</TEXT>
+</DOC>

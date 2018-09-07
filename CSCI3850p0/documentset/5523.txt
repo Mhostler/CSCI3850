@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0207.950406</DOCID>
+<TDTID>TDT012202</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 15:13</DATE>
+<TITLE> Texas death row inmate slain in prison fight</TITLE>
+<HEADLINE> Texas death row inmate slain in prison fight</HEADLINE>
+<SUBJECT> BC-INMATE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HUNTSVILLE, Texas (Reuter) </DATELINE>
+<P>  Death row inmate Maurice Andrews received a stay of execution last month -- but he died anyway in a fight with another prisoner, prison officials said Thursday. </P>
+<P> Prison spokesman Larry Fitzgerald said Andrews, 39, was stabbed in the right temple with a homemade knife Wednesday in a dispute with a fellow death row inmate in the recreation yard. He was pronounced dead at the scene. </P>
+<P> Andrews's alleged assailant, Jemarr Arnold, 36, was placed in solitary confinement pending an investigation, Fitzgerald said. The killing occurred just hours before convicted murderer Noble Mays was put to death by lethal injection in Texas's eighth execution of 1995. </P>
+<P> Mays, a former seaman, had been on death row since 1982 for the robbery and killing of jewelry store owner Joseph Granado in Beaumont, Texas. He denied the murder. </P>
+<P> An alleged accomplice in the shooting, Elliott Johnson, was executed in June 1987, but on March 8 Andrews received a reprieve from a federal judge about four hours before his scheduled execution. </P>
+<P> Arnold is also on death row for a jewelry store slaying, in Corpus Christi, Texas, in 1983. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU002-0020.950104</DOCID>
+<TDTID>TDT008860</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/04/95 12:35</DATE>
+<TITLE> Some blind people able to sense light - study</TITLE>
+<HEADLINE> Some blind people able to sense light - study</HEADLINE>
+<SUBJECT> BC-HEALTH-BLINDNESS (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Release at 6 p.m. EST)</NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  Some people who are totally blind can nonetheless sense light, according to a new study to be published in Thursday's New England Journal of Medicine. </P>
+<P> The findings by a group of Boston researchers may explain why the body's biological clock loses its rhythm and produces bouts of insomnia in some totally blind people, while other blind people manage to stay in synch with the day-night pattern of sighted people. </P>
+<P> The research team, lead by Charles Czeisler -- one of the world's leading experts on biological rhythms -- measured the level of the chemical melatonin in the blood, which falls after exposure to bright light. </P>
+<P> The team discovered that the melatonin levels dropped during the day as they normally do in three of the eleven sightless volunteers they tested. </P>
+<P> When they covered the eyes of two of the three blind subjects, their melatonin levels did not fall, indicating that their eyes, although sightless, were somehow responding to the light to repeatedly reset the body's biological clock to preserve the normal sleep-wake cycle. </P>
+<P> How the totally blind subjects' eyes sensed the light remains a mystery, the researchers said. </P>
+<P> The remaining blind volunteers all reported having a history of insomnia. Four of the eight had body temperature patterns that failed to match the rising and falling pattern seen in people whose biological clocks are synchronized with day and night. </P>
+<P> Those volunteers were, according to Dr. Robert Moore of the University of Pittsburgh, suffering ``the equivalent of recurrent jet lag.'' </P>
+<P> ``Not only can they not perceive the visual world, but they also cannot synchronize their lives to it,'' Moore wrote in an editorial in the New England Journal of Medicine. ``Their eyes are bad, and so their whole bodies are in darkness.'' </P>
+</TEXT>
+</DOC>

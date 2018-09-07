@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0178.940720</DOCID>
+<TDTID>TDT000793</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/20/94 13:56</DATE>
+<TITLE> ARCHEOLOGISTS FIND MAYA STEAMBATH IN HONDURAS</TITLE>
+<HEADLINE> ARCHEOLOGISTS FIND MAYA STEAMBATH IN HONDURAS</HEADLINE>
+<SUBJECT> BC-HONDURAS-MAYA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TEGUCIGALPA, Honduras (Reuter) </DATELINE>
+<P>  Archeologists have discovered an ancient Maya steambath in the northern Honduran city of San Pedro Sula, an official with the History and Anthropology Institute of Honduras (INAH) said Wednesday. </P>
+<P> The steambath, traditionally used by the Maya in their spiritual purification rites, was probably built between 400 A.D. and 600 A.D. during the Maya Late Classic Period, said INAH regional director Juan Duron. </P>
+<P> Experts found an enclosed room insulated with layers of wood, clay and stucco that was linked to a fireplace in which stones were heated and sprayed with water to produce steam. </P>
+<P> The steambath was found in Maya ruins discovered last year by construction workers in San Pedro Sula. Archeologists previously identified the tomb and remains of a Maya sorcerer, or shaman, in the same ruins. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU009-0335.941019</DOCID>
+<TDTID>TDT005285</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/19/94 13:36</DATE>
+<TITLE> Bomb blast damages Baghdad government office</TITLE>
+<HEADLINE> Bomb blast damages Baghdad government office</HEADLINE>
+<SUBJECT> BC-IRAQ-BLAST 3RDLD </SUBJECT>
+<AUTHOR>     By Angus MacSwan </AUTHOR>
+<TEXT>
+<NOTES>(Eds: adds detail, witness quotes)</NOTES>
+<DATELINE>BAGHDAD, Iraq (Reuter) </DATELINE>
+<P>  A car bomb exploded outside a government building in the Iraqi capital Wednesday, damaging offices and nearby houses, witneseses and local media said. </P>
+<P> No official casualty toll was issued but Shebab TV station showed pictures of several people being loaded into ambulances. </P>
+<P> No one claimed responsibilty and the government of President Saddam Hussein did not point the finger of blame on any group. It has previously accused Iranian government agents of staging bomb attacks. </P>
+<P> Wednesday morning's blast at the Ministry of Endowment and Religious Affairs coincided with reports that Iranian troops had attacked an anti-Tehran guerrilla base inside Iraq. </P>
+<P> Iraq's official INA news agency and state radio made no mention of the bomb blast. Shebab, which is run by Saddam's son, Uday, said it was a powerful blast and nearby houses were also damaged. </P>
+<P> One local resident said a car packed with dynamite exploded outside the building. </P>
+<P> ``We heard the explosion and then security men came and sealed off the area,'' he told reporters. </P>
+<P> Foreign reporters were not allowed to visit the building. </P>
+<P> Three people have been injured and one killed in similar blasts in Baghdad in the past year. The government blamed Iranian agents for previous attacks. </P>
+<P> Tehran has said Baghdad must curb anti-Tehran guerrilla activities in Iraq if relations are to improve between the two countries, which fought a war from 1980 to 1988 in which tens of thousands of people were killed. </P>
+<P> An Iranian opposition group said Wednesday that Iranian troops had attacked the main base of its guerrilla army inside Iraq just after midnight. </P>
+<P> The soldiers fired mortars at Ashraf base, 45 miles from the border, but fled when the guerrillas returned fire, the Mujahideen Khalq said in a statement handed to reporters in Baghdad. It said there were no casualties. </P>
+<P> The attack, if confirmed, would be the first Iranian cross-border raid since May 1993. </P>
+</TEXT>
+</DOC>

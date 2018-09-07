@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0237.940720</DOCID>
+<TDTID>TDT000821</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/20/94 18:18</DATE>
+<TITLE> U.S. INUIT GROUP TO STUDY RUSSIAN REFINERY PROJECT</TITLE>
+<HEADLINE> U.S. INUIT GROUP TO STUDY RUSSIAN REFINERY PROJECT</HEADLINE>
+<SUBJECT> BC-USA-REFINERY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANCHORAGE, Alaska (Reuter) </DATELINE>
+<P>  A corporation owned by native American Inuits of Alaska's North Slope has received a federal grant to study the feasibility of building a small-scale petroleum refinery in northwestern Russia, officials said. </P>
+<P> The Inupiat Inuit-owned Arctic Slope Regional Corp was given a $300,000 grant from the U.S. Trade and Development Agency to study the project, U.S. Senator Ted Stevens, R-Alaska, said in a statement released Wednesday. </P>
+<P> The grant will partially fund the refinery study in the Nenets Autonomous Region, an Arctic area estimated to hold 4 billion to 5 billion recoverable barrels of oil, Stevens said. </P>
+<P> The region is north of Arkhangelsk, bordering the Barents and Kara Seas above the Arctic Circle, said Connie Godwin, a Stevens spokeswoman. </P>
+<P> The Arctic Slope study will consider a 7,500-barrel-a-day refinery to produce kerosene, deisel fuel, low-sulfur bunker fuel and fuel gas. </P>
+<P> ``The grant is a good example of American economic assistance to Russia and it provides the potential of creating jobs in both countries,'' Stevens said in the statement. </P>
+</TEXT>
+</DOC>

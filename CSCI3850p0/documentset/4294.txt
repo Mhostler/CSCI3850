@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU006-0072.950211</DOCID>
+<TDTID>TDT010344</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/11/95 03:52</DATE>
+<TITLE> Iran reports Iraqi violations of cease-fire - IRNA</TITLE>
+<HEADLINE> Iran reports Iraqi violations of cease-fire - IRNA</HEADLINE>
+<SUBJECT> BC-GULF-IRAN-IRAQ </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA, Cyprus (Reuter) </DATELINE>
+<P>  Iran has told the United Nations of 35 recent alleged violations by Iraq of a cease-fire that ended their eight-year war, Iran's IRNA agency said Saturday. </P>
+<P> It said Iran's mission to the U.N. Friday reported the violations, which happened between Oct. 23 and Nov. 15 last year. </P>
+<P> It said the report ``referred to opening fire with light weapons toward Iran's territory, patrolling, concentration and stationing of Iraqi forces in no-man's-land, installment of barbed wire and machine guns, construction of military bases and new embarkments ... and patrolling of Iraqi armored units along border lines as instances of cease-fire violations.'' </P>
+<P> It also reported helicopters flying over no-man's-land in southern and western regions of the borders between the two countries whose 1980-88 war ended under a U.N.-sponsored cease-fire. </P>
+</TEXT>
+</DOC>

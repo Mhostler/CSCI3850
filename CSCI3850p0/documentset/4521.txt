@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0038.950224</DOCID>
+<TDTID>TDT010697</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/24/95 05:22</DATE>
+<TITLE> Missing British actor alive and well, agent says</TITLE>
+<HEADLINE> Missing British actor alive and well, agent says</HEADLINE>
+<SUBJECT> BC-BRITAIN-ACTOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  British actor Stephen Fry, who mysteriously pulled out of a West End play and disappeared last week, is alive and well, his agent said Friday. </P>
+<P> Fry, 37, best known for his portrayal as the butler in the television series ``Jeeves and Wooster'' based on the PG Wodehouse novels, had been starring in Simon Gray's play ``Cell Mates'' when he left three days after the opening performance. </P>
+<P> He wrote to colleagues before his disappearance Saturday, bemoaning his ``failure'' as an actor. Reviews of the play had criticized Fry's performance. </P>
+<P> Concern for his safety grew as days passed with no word from the comedian. But a spokeswoman for his agent, Lorraine Hamilton, said he had telephoned to say he was all right. </P>
+<P> ``He has gone away for a while to be by himself,'' she said, adding that he would not say where he was. </P>
+<P> Fry's portrayals of well-mannered, eccentric English gentlemen have made him popular with Britons and he appears in a number of television commercials. He also starred in the film ``Peter's Friends'' with Kenneth Branagh and Emma Thompson. </P>
+</TEXT>
+</DOC>

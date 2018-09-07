@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU010-0332.950516</DOCID>
+<TDTID>TDT013849</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/16/95 03:47</DATE>
+<TITLE> India policeman kills boy for disturbing sleep</TITLE>
+<HEADLINE> India policeman kills boy for disturbing sleep</HEADLINE>
+<SUBJECT> BC-INDIA-SIESTA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, May 16 (Reuter) </DATELINE>
+<P>  An irritated policeman in the north Indian state of Uttar Pradesh killed an 11-year-old boy who disturbed his siesta, the Press Trust of India (PTI) said on Tuesday. </P>
+<P> PTI said police officials arrested Constable Satendra Singh Yadav for throwing Santosh and his friend Rakesh off a building in the city of Kanpur on Tuesday after the boys created a racket and woke Yadav from his afternoon nap. </P>
+<P> Santosh died instantly while Rakesh was admitted to hospital with injuries, PTI said. </P>
+</TEXT>
+</DOC>

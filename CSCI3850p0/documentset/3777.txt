@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU006-0369.950115</DOCID>
+<TDTID>TDT009317</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/15/95 12:27</DATE>
+<TITLE> Fed may have own case of inflation psychology</TITLE>
+<HEADLINE> Fed may have own case of inflation psychology</HEADLINE>
+<SUBJECT> BC-ECONOMY </SUBJECT>
+<AUTHOR>     By Alver Carlson </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  When consumers rush to buy now because they fear higher prices later, it sets off the most strident alarms at the Federal Reserve where inflation psychology is viewed as a virulent disease. </P>
+<P> But in its year-long attack on largely nonexistent inflation, some critics wonder whether the Fed has contracted its own strain of the same malady, seeing inflation lurking around every corner and raising interest rates aggressively to keep it at bay. </P>
+<P> The Labor Department last week reported that a modest rise in consumer prices in December kept inflation last year at a tame 2.7 percent, the same as in 1993. </P>
+<P> Medical-care costs in 1994 posted the smallest rise in 22 years. Clothing prices plunged the most in 42 years, while airline fares tumbled a record amount. </P>
+<P> Moreover, last year's 2.6 rise in the underlying ``core'' inflation rate -- which excludes volatile food and energy costs -- was the smallest in 29 years. </P>
+<P> Against such a background, it might seem odd that almost everyone on Wall Street expects the Fed, looking out over the horizon, to hike interest rates another notch soon. </P>
+<P> With consumers, the frenzied buying because of the deep-seated belief that prices are likely to move dramatically upward becomes self-fulfilling -- as it did following the oil shocks in the 1970s -- with the strong demand for goods, real estate or anything else leading to an upward price spiral. </P>
+<P> For the Fed, trying to cure inflation could cause the strong U.S. economy to badly stumble as monetary tightening takes hold without any real certain indication that inflation was a genuine threat. </P>
+<P> Ironically, the Fed has been hiking interest rates -- six times since last Februrary -- at a time when Fed Chairman Alan Greenspan has conceded that the closely-watched Consumer Price Index is deeply flawed, showing considerably more inflation than actually exists. </P>
+<P> This is partly because it is based on a simple basket of goods and does not take into account what modern consumers actually do in the marketplace to obtain the best deal. </P>
+<P> Greenspan, in testimony before a joint hearing by the House and Senate Budget Committees last week, seemed to throw up his hands in frustration, arguing that the CPI cannot be fixed by mere economists. </P>
+<P> Greenspan's suggestion: Maybe Congress should pass legislation proclaiming that prices, as measured by the CPI, are actually lower by whatever amount it is believed they are overstated. </P>
+<P> Such a proclamation would have a profound impact. The index is used to determine increases in an annual amount of entitlement programs, including social security, so a reduction would not only provide lower official inflation, but cut the deficit as well. </P>
+<P> He estimated that the CPI, meant to measure inflation at the retail level, significantly overstates the actual level of inflation by anywhere from 3/8 to 1.5 percentage points a year. On the outside, this would put real inflation last year virtually nil. </P>
+<P> ``If the annual inflation adjustments to indexed programs and taxes were reduced by one percentage point ... the annual level of the deficit will be lower by about $55 billion after five years,'' Greenspan told lawmakers. </P>
+<P> Economist David Jones of Aubrey G. Lanston said that Greenspan's reference to having Congress adjust the CPI might have been a bit tongue in cheek, although he clearly wanted to make the case that only good things will flow if the bloated deficit is cut. </P>
+<P> For all of this, analysts believe the Fed will continue its campaign to keep inflation from creeping up and will raise rates again when its policy-making Federal Open Market Committee meets Jan. 31. </P>
+<P> In the end, the Fed's inflation phobia may only serve to lay the U.S. economy low. </P>
+<P> The first sign of this slowdown may have come Friday when the Commerce Department reported sales dipped for the first time in eight months in December as consumers curbed their free-spending ways at the close of last year. </P>
+</TEXT>
+</DOC>

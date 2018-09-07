@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU006-0317.940913</DOCID>
+<TDTID>TDT003301</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/13/94 15:04</DATE>
+<TITLE> Speaker says new bipartisan health talks possible</TITLE>
+<HEADLINE> Speaker says new bipartisan health talks possible</HEADLINE>
+<SUBJECT> BC-HEALTH-CONGRESS </SUBJECT>
+<AUTHOR>     By Sue Kirchhoff </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  House Speaker Thomas Foley said Tuesday that Democrats were prepared to sit down with Republicans in a final effort to craft a scaled-down health reform bill that could pass Congress this year.  Speaking after a White House meeting with President Clinton to discuss health care reform and other issues, Foley admitted any bipartisan bill would be far less sweeping than Clinton's original plan to cover all Americans. </P>
+<P> He added that Clinton had not given the Democrats instructions about what to include in any talks and would not be involved in preliminary discussions, but could play a role if there was a chance for a bipartisan bill. </P>
+<P> ``We want to explore ... whether there is a meaningful possibility we could (move) legislation,'' Foley, a Washington Democrat, said. ``The president does not object, in fact welcomes, this exploration.'' </P>
+<P> House Minority Whip Newt Gingrich of Georgia, while saying Republicans had not yet heard from Democrats about possible talks, greeted the idea with skepticism and preconditions. </P>
+<P> ``I don't want to be suckered. I do not trust them and I do not want to be set up,'' Gingrich said during a news conference. </P>
+<P> Gingrich said he could support modest health care changes including malpractice reform, safeguards to prevent individuals from losing insurance due to pre-existing medical conditions and allowing 100 percent tax deductibility of insurance. </P>
+<P> But Gingrich also wants procedural safeguards to ensure liberal Democrats could not amend any bill crafted by congressional leaders, which could be an impossible task. </P>
+<P> With Congress set to adjourn in mid-October, it is unlikely lawmakers can strike a deal, pass legislation in the House and the Senate and then work out the differences between the two chambers. </P>
+<P> Clinton's comprehensive bill calling for employer-paid benefits to cover all Americans is dead. Lawmakers have been focusing instead on more modest proposals to expand access to insurance through market reforms, purchasing cooperatives and subsidies for low-income people. </P>
+<P> In the Senate, Majority Leader George Mitchell, a Maine Democrat, has been talking with members of a bipartisan group that calls itself the ``mainstream coalition.'' </P>
+<P> Staff members of the coalition have been working during the past several weeks to prepare a list of new options and their costs for senators to consider. </P>
+<P> Mitchell plans to discuss the options with coalition leaders Senators John Chafee, a Rhode Island Republican and John Breaux, a Louisiana Democrat, and other key mainstream members later this week. </P>
+<P> It is unclear whether the mainstream group's compromise effort will succeed and the plan has come under increased attack in recent days from liberals and consumer groups who say it will increase insurance costs and from conservatives who charge it is too expensive. </P>
+</TEXT>
+</DOC>
