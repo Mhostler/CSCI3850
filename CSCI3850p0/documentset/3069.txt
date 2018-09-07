@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU004-0090.941208</DOCID>
+<TDTID>TDT007606</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 08:18</DATE>
+<TITLE> Spain's Iberia holds off strikes for 30 days</TITLE>
+<HEADLINE> Spain's Iberia holds off strikes for 30 days</HEADLINE>
+<SUBJECT> BC-SPAIN-IBERIA </SUBJECT>
+<AUTHOR>     By Tracey Ober </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MADRID (Reuter) </DATELINE>
+<P>  Unions agreed Thursday to delay threatened strikes for 30 days at troubled airline Iberia during talks with management over vast job cuts aimed at rescuing the airline from bankruptcy. </P>
+<P> Iberia chairman Javier Salas said he would listen to any alternatives suggested by unions to avoid implementing an emergency plan that would lay off more than 5,200 workers and split up the company by selling assets. </P>
+<P> Unions have said they would not tolerate such drastic measures but after talks with management they agreed to hold off immediate action. </P>
+<P> Under Spanish labor law, the two parties have a 30-day period to negotiate redundancy terms and a possible 15-day extension before workers can lose their jobs. </P>
+<P> ``We are open to dialogue to renegotiate the viability plan that we would like to see through, but in the meantime we have no choice but to file papers for the emergency job cuts,'' Salas said. </P>
+<P> An alternative rescue plan -- calling for fewer job cuts but a compensating wage cut and an increase in productivity -- was painstakingly drawn up between management and nearly 95 percent of Iberia's workforce. </P>
+<P> But Iberia's pilots, who would have taken the brunt of such salary cuts, rejected the plan this week, saying there were no guarantees the company could survive even with these sacrifices. </P>
+<P> Without support of the pilots, Iberia said it could not apply for European Commission approval of a 130 billion peseta ($1 billion) capital injection. </P>
+<P> The pilots said bad management decisions had forced the airline into its current crisis situation. </P>
+<P> They also made accusations that Iberia had been used to return political favors in Latin America, where it has incurred high financial costs acquiring the loss-making airlines Aerolineas Argentinas, Venezuela's Viasa and Ladeco of Chile. </P>
+<P> Iberia has already taken the first steps toward assessing its various businesses with an eye to offering the most profitable for sale to offset losses. </P>
+<P> Candidates include domestic carrier Aviaco, European short-haul airline Viva, and the airport handling service company Cargosur. </P>
+<P> The airline said without drastic cuts it would be forced into bankruptcy by March due to accumulated losses of nearly $1.5 billion over the past five years. </P>
+<P> Iberia is expected to make a 1994 loss of about $335 million, down from $530 million last year. </P>
+</TEXT>
+</DOC>

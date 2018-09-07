@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU001-0284.941002</DOCID>
+<TDTID>TDT004353</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/02/94 18:40</DATE>
+<TITLE> Computer trounces grandmasters in chess tournament</TITLE>
+<HEADLINE> Computer trounces grandmasters in chess tournament</HEADLINE>
+<SUBJECT> BC-USA-CHESS </SUBJECT>
+<AUTHOR>     By Gene Emery </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  WChess, a new chess-playing computer program, beat four grandmasters and dueled two to a draw Sunday to become the first program to win the five year-old Harvard Cup Humans versus Computer Intel Chess Challenge. </P>
+<P> The win showed how close machines have come to consistently trouncing all but the best chess players, and how, according to WChess author David Kittinger, ``We're right at the threshold of an era where, unless you're one of the top five grandmasters, you're going to lose your match to a computer.'' </P>
+<P> The only solace for the six grandmasters playing this weekend was that most of the humans won most of the time, getting 24 wins, 13 loses and 11 draws as they faced off against seven programs in addition to WChess. </P>
+<P> ``There is just something about this program (WChess) that is more difficult for humans to figure out,'' said defending human champion Joel Benjamin, who scored highest among the humans, winning five of his eight games this weekend and battling to a draw three times. </P>
+<P> Computerized chess programs have been gaining on humans for years, propelled by the brute force of their light-speed ability to compute all possible moves several plays in advance. </P>
+<P> WChess, for example, can look eight or nine plays ahead to predict where its strengths and weaknesses will be, said Kittinger, who helped design the program for the popular Chessmaster 2000 and 3000 programs. </P>
+<P> But the creators of chess programs still haven't been able to bestow creativity and a finely-honed sense of strategy that allows many grandmasters to consistently outwit the programs. </P>
+<P> Benjamin, who managed to play to a draw against WChess here at The Computer Museum, explained afterward that when the computer is his opponent, ``you want to play a more quiet, strategic game. Played properly, a computer can't get a sense of where the attack is coming from.'' </P>
+<P> The computer decides on its next move using complex mathematical formulas that take into consideration the characteristics of each piece and its position on the board. </P>
+<P> WChess is not yet on the market. Kittinger, in a telephone interview from his home in Mobile, Alabama, said he is currently looking for a publisher and expects the program to be available to the public sometime next year. </P>
+</TEXT>
+</DOC>

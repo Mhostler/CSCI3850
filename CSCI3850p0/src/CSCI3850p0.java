@@ -18,7 +18,9 @@ public class CSCI3850p0 {
 		try {
 			t.join();
 			
-			Thread.sleep(10000);
+			Dictionary.sort();
+			
+			Dictionary.display();
 		} catch (InterruptedException e) {
 			System.out.println("thread interrupted");
 			e.printStackTrace();

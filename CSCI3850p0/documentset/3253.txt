@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0347.941215</DOCID>
+<TDTID>TDT008038</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 21:54</DATE>
+<TITLE> Scientists find test to predict course of Alzheimers</TITLE>
+<HEADLINE> Scientists find test to predict course of Alzheimers</HEADLINE>
+<SUBJECT> BC-HEALTH-ALZHEIMERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A team of international scientists said Friday they had found a way to test patients with Alzheimer's disease to see how quickly the debilitating illness is likely to progress. </P>
+<P> They wrote in NeuroReport magazine that a gene known as ApoE takes on varying forms, and these forms can indicate the severity of the disease. </P>
+<P> John Hardy of the University of South Florida at Tampa and colleagues said a defective version of ApoE acted like an ``accelerator pedal'' on Alzheimer's. </P>
+<P> Claire Royston of Charing Cross Hospital in London, who also worked on the study, said the findings could help doctors and families to determine who was most at risk of falling quickly victim to severe Alzheimer's, and give them appropriate treatment. </P>
+<P> Alzheimer's causes symptoms of senile dementia in its victims, causing them to become forgetful and disoriented, and eventually leads to death. There is no cure. </P>
+</TEXT>
+</DOC>

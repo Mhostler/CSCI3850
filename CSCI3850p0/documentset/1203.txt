@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0221.940907</DOCID>
+<TDTID>TDT002993</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/07/94 07:57</DATE>
+<TITLE> Britain says it has cut N.Irish security</TITLE>
+<HEADLINE> Britain says it has cut N.Irish security</HEADLINE>
+<SUBJECT> BC-IRISH-TROOPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELFAST, Northern Ireland (Reuter) </DATELINE>
+<P>  Britain announced Wednesday it has reduced Northern Ireland ``security levels,'' a week after IRA guerrillas called a cease-fire in a war against British rule of the province. </P>
+<P> Britain's Northern Ireland Secretary Sir Patrick Mayhew said: ``Certain things are not in place that were.'' He did not amplify what that meant in terms of troop and police strength. </P>
+<P> The cryptic statement coincided with a visit to the Irish Republic by Vice President Al Gore to boost momentum in the week-old Irish peace process, breaking a 25-year stalemate. </P>
+<P> Sir Hugh Annesley, head of the Royal Ulster Constabulary, worried many Protestants when he said last month that an Irish Republican Army cease-fire would lead to a corresponding decrease in the number of British troops on the streets. </P>
+<P> Sinn Fein, the Irish Republican Army's political wing, demanded last week that Britain scale down troops in Catholic areas of Northern Ireland after the IRA announced a cease-fire. British troops often patrol jointly with police. </P>
+<P> The London government has come under pressure from Dublin to respond to the IRA truce, amid misgivings about its permanency. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU007-0193.941115</DOCID>
+<TDTID>TDT006527</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/15/94 05:27</DATE>
+<TITLE> Kohl re-elected German chancellor by parliament</TITLE>
+<HEADLINE> Kohl re-elected German chancellor by parliament</HEADLINE>
+<SUBJECT> BC-GERMANY-CHANCELLOR-RESULT URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BONN, German (Reuter) </DATELINE>
+<P>  Helmut Kohl was re-elected German chancellor by the lower house of parliament Tuesday in the first round of voting. </P>
+<P> Parliament speaker Rita Suessmuth said Kohl won the votes of 338 deputies in the 672-seat parliament. </P>
+<P> Another 333 deputies voted against Kohl -- two more than the combined seats of the three opposition parties. There were no invalid votes and no abstentions, although one deputy apparently failed to vote as only 671 ballots were handed in, she said. </P>
+<P> ``Madam Speaker, I accept the vote,'' Kohl said to a standing ovation from deputies of his center-right coalition. The coalition was narrowly returned for a fourth term in last month's general election. </P>
+</TEXT>
+</DOC>

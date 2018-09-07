@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0153.941018</DOCID>
+<TDTID>TDT005241</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 16:46</DATE>
+<TITLE> U.S. says alien smuggling declining</TITLE>
+<HEADLINE> U.S. says alien smuggling declining</HEADLINE>
+<SUBJECT> BC-IMMIGRATION-REPORT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Clinton administration said Tuesday efforts to curb illegal smuggling of aliens into the United States are working and that the number of boat migrants arriving illegally on U.S. shores is declining. </P>
+<P> An administration report to Congress on immigration policy said illegal immigrants no longer arrive by the ``shipload'' since a crackdown on alien smuggling rings. </P>
+<P> ``Illegal arrivals by boat on U.S. shores have been reduced from shiploads of 100-350 illegal aliens during the spring of 1993 to an occasional, smaller vessel carrying far fewer people,'' the administration said in the report released by the Immigration and Naturalization Service in Los Angeles. </P>
+<P> The report said that since October, 1993, 10 new boat smuggling operations have been identified working out of Puerto Rico involving Chinese and Dominican migrants. </P>
+<P> The report said the number of illegal arrivals at U.S. airports has also declined. </P>
+<P> At New York's Kennedy airport, the number of travelers arriving with fake documents or no papers at all dropped by 30 percent from 1992 and 1993 because of efforts to screen travelers before they board planes, the report said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU012-0213.941228</DOCID>
+<TDTID>TDT008578</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/28/94 17:24</DATE>
+<TITLE> N.J. fire kills six children, three adults</TITLE>
+<HEADLINE> N.J. fire kills six children, three adults</HEADLINE>
+<SUBJECT> BC-FIRE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ORANGE, N.J. (Reuter) </DATELINE>
+<P>  Fire swept through a three-story wood frame house Wednesday, killing at least six children and three adults and injuring five more, officials said. </P>
+<P> ``It's the worst fire I've seen in 25 years,'' said fire chief John Gamba. </P>
+<P> At least 17 Haitians were believed to be living in the house, said Thomas Morrison, business administrator of the town some 15 miles west of New York. </P>
+<P> ``The Fire Department arrived right away but when they got there, the doorway was engulfed in fire and smoke and they were unable to enter the building,'' mayor Robert Brown said. </P>
+<P> The ages of the dead children ranged from two to eight, according to Brown, who added that all the dead were related. </P>
+<P> Gamba said three family members were taken to local hospitals, three others including the grandmother were missing and believed buried in rubble inside the house and three other family members escaped by jumping out windows. </P>
+<P> More than 40 firefighters from neighboring New Jersey towns fought the blaze for nearly two hours before bringing it under control. Two firefighters were injured. </P>
+<P> Fire marshals were conducting an investigation but initially believed the blaze was caused by a faulty electrical heater, Morrison said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU016-0397.950330</DOCID>
+<TDTID>TDT011935</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/30/95 17:34</DATE>
+<TITLE> No ``bug-eyed monsters'' in space-British astronomer</TITLE>
+<HEADLINE> No ``bug-eyed monsters'' in space-British astronomer</HEADLINE>
+<SUBJECT> BC-SPACE-BRITAIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>EDINBURGH (Reuter) </DATELINE>
+<P>  British astronomer Patrick Moore Thursday ruled out the possibility of ``bug-eyed monsters'' in outer space but said there must be life as we know it beyond the limits of the Solar System. </P>
+<P> Moore, whose long-running television series ``The Sky at Night'' popularized astronomy for Britain's general public, gave the the opening lecture ``Alien Life Forms'' at the opening of the seventh Edinburgh International Science Festival. </P>
+<P> ``Are we alone?'' he asked the audience in Edinburgh's Royal Scottish Museum. ``In the Solar System -- Yes. In the rest of the Universe - No.'' </P>
+<P> The huge numbers of galaxies with stars like the sun meant the probability of life elsewhere was high, the astronomer said. </P>
+<P> But the vastly different environments on other planets in the solar system ruled out the possibility of human life. </P>
+<P> ``Life as we know it must have the same type of environment as we have. That rules out bug-eyed monsters entirely,'' he said. </P>
+<P> Moore predicted that people would permanently occupy space stations on Mars within a few decades but that this would create at least one big problem -- the development of two different types of human being. </P>
+<P> Gravity on Mars was only a third of that on Earth. This meant children born on these stations would not be able to withstand the extra gravity and a new type of human would evolve, he said. </P>
+</TEXT>
+</DOC>

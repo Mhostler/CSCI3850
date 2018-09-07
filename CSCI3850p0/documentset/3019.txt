@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0023.941206</DOCID>
+<TDTID>TDT007496</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 08:53</DATE>
+<TITLE> German President Herzog arrives in Israel</TITLE>
+<HEADLINE> German President Herzog arrives in Israel</HEADLINE>
+<SUBJECT> BC-ISRAEL-GERMANY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TEL AVIV (Reuter) </DATELINE>
+<P>  German President Roman Herzog arrived in Israel Tuesday for a two-day visit, the second by a German head of state since World War II. </P>
+<P> Herzog, who will visit Israel's memorial for the six million Jews killed by Nazi Germany during World War II, was met by Israeli Foreign Minister Shimon Peres at Tel Aviv's airport. </P>
+<P> The two men and Herzog's wife, Christiane, were whisked off to Jerusalem and did not speak to reporters. </P>
+<P> Herzog, who was to visit the Yad Vashem Holocaust memorial later Tuesday, said last week he would not shirk from addressing Nazi evils nor neo-Nazi violence in modern Germany. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0248.941103</DOCID>
+<TDTID>TDT006035</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/03/94 23:54</DATE>
+<TITLE> China imprisons five for ferry deaths of 50</TITLE>
+<HEADLINE> China imprisons five for ferry deaths of 50</HEADLINE>
+<SUBJECT> BC-CHINA-FERRY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  A Chinese court imprisoned a bus driver and four ferry operators for the negligent deaths of 50 people who perished when a dangerously overcrowded bus rolled off a ferry and into the murky Yangtze River. </P>
+<P> The official Xinhua news agency said Friday a municipal court in Yichang, central Hubei province, found the defendants guilty of negligence in the July 9 accident and sentenced them to prison terms ranging from two to seven years. </P>
+<P> Investigators determined the bus was crammed with 83 people, 43 beyond its capacity. </P>
+<P> They said the bus driver, Xiang Caixuan, failed to secure the bus to the ferry or require the passengers to get off, violating two regulations. Xiang got off the bus and left it unattended, another violation. </P>
+<P> ``All the necessary precautions to prevent the bus rolling had been neglected,'' Xinhua said. ``The bus slid off the ferry and into the Yangtze.'' </P>
+<P> Some passengers survived but 49 bodies were pulled from the submerged bus and one passenger is missing and presumed dead. </P>
+<P> The court sentenced Xiang to seven years in prison. Two ferry crewmen, Zhang Zhongyi and Yao Xiaobo, were imprisoned for five and three years respectively for negligence. </P>
+<P> Ferry captain Zhu Yaoyuan and ferry company director Li Yulin were sentenced to two years in prison, Xinhua said. </P>
+</TEXT>
+</DOC>

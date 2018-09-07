@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0385.941027</DOCID>
+<TDTID>TDT005643</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/27/94 04:31</DATE>
+<TITLE> Berlin cathedral fire under control</TITLE>
+<HEADLINE> Berlin cathedral fire under control</HEADLINE>
+<SUBJECT> BC-GERMANY-CATHEDRAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BERLIN (Reuter) </DATELINE>
+<P>  Firefighters battled a blaze in Berlin's 18th century ``German Cathedral'' Thursday but said they had the flames under control and had averted the collapse of the cathedral's dome. </P>
+<P> The fire had caused millions of dollars' worth of damage, Gerhard Zodtner of the Federal Buildings Office told national ZDF television. </P>
+<P> Some 120 firefighters struggled to quench the flames, largely inaccessible between the dome's inner and outer shells. The blaze belched black smoke over the neo-classical Gendarmenmarkt square. </P>
+<P> The cathedral is one of a matching pair which, together with the Schauspielhaus concert hall, form three sides of the square just off the grand Unter den Linden avenue in historic east Berlin. </P>
+<P> The cathedral had been undergoing a long-term restoration program and was due to reopen in 1996 as a museum. </P>
+</TEXT>
+</DOC>

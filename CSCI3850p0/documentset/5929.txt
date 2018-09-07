@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0247.950421</DOCID>
+<TDTID>TDT012847</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/21/95 14:54</DATE>
+<TITLE> Two arrests made in Michigan over Oklahoma bomb-ABC</TITLE>
+<HEADLINE> Two arrests made in Michigan over Oklahoma bomb-ABC</HEADLINE>
+<SUBJECT> BC-BLAST-ARREST-RAID </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK, April 21 (Reuter) </DATELINE>
+<P>  Police investigating the Oklahoma City bombing have arrested two people in a raid on a farmhouse in Decker, Michigan used by a paramilitary group, ABC news said. </P>
+<P> The report came after Justice Department sources said one of two suspects in the case had been captured in Oklahoma state. </P>
+</TEXT>
+</DOC>

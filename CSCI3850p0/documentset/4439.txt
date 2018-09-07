@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0307.950219</DOCID>
+<TDTID>TDT010574</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/19/95 09:41</DATE>
+<TITLE> US soldier held over murder of German taxi driver</TITLE>
+<HEADLINE> US soldier held over murder of German taxi driver</HEADLINE>
+<SUBJECT> BC-GERMANY-USA-KILLING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KAISERSLAUTERN, Germany (Reuter) </DATELINE>
+<P>  Police in the German city of Kaiserslautern arrested a U.S. soldier on suspicion of having murdered a taxi driver and stealing $20, police said Sunday. </P>
+<P> A police statement said the 20-year-old soldier, born in Bogota, Colombia, and stationed with the U.S. Army in the southwest German town of Baumholder, had confessed. </P>
+<P> The victim was stabbed about 20 times. </P>
+<P> Police said the taxi driver, who picked up a passenger from the U.S. army base in the early hours of Saturday, was found dead by the roadside. </P>
+<P> The American soldier was arrested after having been treated in a hospital for injuries to his arm. </P>
+<P> ``The suspected culprit has since given a comprehensive confession,'' the police said. They did not name the suspect. </P>
+</TEXT>
+</DOC>

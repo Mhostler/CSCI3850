@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0296.950415</DOCID>
+<TDTID>TDT012601</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/15/95 20:17</DATE>
+<TITLE> Canada agrees deal to end fish row with EU</TITLE>
+<HEADLINE> Canada agrees deal to end fish row with EU</HEADLINE>
+<SUBJECT> BC-FISH-EUROPE-AGREEMENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRUSSELS (Reuter) -</DATELINE>
+<P>  Canada said Sunday it had reached an agreement with the European Union ending a bitter wrangle over fishing off its Newfoundland coast. </P>
+<P> Fisheries Minister Brian Tobin, in a statement broadcast to Brussels from Ottawa, said Canada had sought enforceable conservation rules and effective protection for the Greenland halibut (turbot). ``Canada has achieved that objective,'' he said. </P>
+<P> Jacques Roy, the Canadian ambassador to the EU, said the agreement would have to be confirmed by EU ambassadors who meet later Sunday in Brussels. </P>
+<P> ``In a few hours the EU will have the opportunity to approve the trail-blazing conservation agreement for protection of the Greenland halibut which was reached tonight between Canada and the (French) presidency of the EU,'' he said in a statement. </P>
+<P> The ambassadors spent almost 15 hours Friday in official and behind-the-scenes discussions trying to settle the row over what Canada says is illegal fishing by Spanish boats threatening the survival of the Greenland halibut, the last commercially viable species on the Grand Banks fishing grounds. </P>
+<P> They broke up without agreement but French ambassador Pierre de Boissieu, representing the EU presidency, told a news conference only the issue of the amount of fish EU trawlers were allowed to catch remained to be settled. </P>
+</TEXT>
+</DOC>

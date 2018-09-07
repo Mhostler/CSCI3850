@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU001-0015.950301</DOCID>
+<TDTID>TDT010875</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 01:55</DATE>
+<TITLE> Barings trader flashed women, Singapore paper says</TITLE>
+<HEADLINE> Barings trader flashed women, Singapore paper says</HEADLINE>
+<SUBJECT> BC-BANK-SINGAPORE-LEESON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SINGAPORE (Reuter) </DATELINE>
+<P>  Nick Leeson, the vanished futures trader at the heart of the Barings financial collapse, was fined for indecent exposure last year, The Business Times reported Wednesday. </P>
+<P> Leeson ``dropped his pants in front of a group of women'' at a Singapore discotheque about five months ago, the newspaper said. </P>
+<P> ``When they asked him to apologize, he dared the women to report the matter to the police and handed them his handphone,'' Business Times said. ``The women promptly phoned the police and Leeson subsequently found himself before a magistrate and was fined $140 for indecent exposure.'' </P>
+<P> Singapore police had no comment on the reported incident. </P>
+<P> Leeson, 28, is at the center of a $1-billion trading loss that brought down the two-century-old Barings. </P>
+<P> Malaysian police have put out a general alert for the Briton, who was the Baring Futures general manager in Singapore. </P>
+<P> He was last seen in the Regent Hotel in Kuala Lumpur Feb. </P>
+</TEXT>
+</DOC>

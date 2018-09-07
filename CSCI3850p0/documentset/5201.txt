@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU013-0379.950326</DOCID>
+<TDTID>TDT011731</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/26/95 02:16</DATE>
+<TITLE> Black bear blood saves dying panda in China zoo</TITLE>
+<HEADLINE> Black bear blood saves dying panda in China zoo</HEADLINE>
+<SUBJECT> BC-CHINA-PANDA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING, March 26 (Reuter) </DATELINE>
+<P>  A blood transfusion from two black bears has saved the life of Yong Liang, the world's first giant panda raised in captivity from birth, Xinhua news agency said on Sunday. </P>
+<P> On February 14, keepers at the Beijing Zoo found the 28-month-old panda was suffering from serious anaemia and needed an urgent blood transfusion, Xinhua said. </P>
+<P> The best way to save Yong Liang would have been a transfusion from another panda, but it was the breeding season for giant pandas, making such a transfusion difficult. </P>
+<P> With the aid of hospitals and the Beijing Blood Donor Station, the experts found that the red cells in blood of black bears could be used to help Yong Liang, Xinhua said. </P>
+<P> On the afternoon of February 15, the panda received his first red blood cell transfusion from black bear blood. </P>
+<P> ``Immediately, the young panda started to recover,'' Xinhua said. </P>
+<P> The latest examination showed Yong Liang's health was almost back to normal. </P>
+</TEXT>
+</DOC>

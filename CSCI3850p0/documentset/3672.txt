@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0049.950109</DOCID>
+<TDTID>TDT009089</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/09/95 21:25</DATE>
+<TITLE> Columbia/HCA to announce move to Nashville Tuesday</TITLE>
+<HEADLINE> Columbia/HCA to announce move to Nashville Tuesday</HEADLINE>
+<SUBJECT> BC-COLUMBIA-HCA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOUISVILLE, Ky.(Reuter) </DATELINE>
+<P>  Columbia/HCA Healthcare Corp. is expected to announce Tuesday it will move its corporate headquarters from Louisville to Nashville, Tenn., sources said. </P>
+<P> The sources said a meeting is set for 11 a.m. EST Tuesday between Tennessee government officials and Columbia executives at Nashville City Hall, sources said. </P>
+<P> State officials are expected to approve the incentive package, which will affect about 1,000 employees, sources said. </P>
+<P> The two health care companies merged in 1993, forming the 12th largest U.S. employer. </P>
+<P> Columbia Healthcare Corp., originally based in Nashville, moved its corporate operations to Kentucky after the merger in April 1994. </P>
+<P> But Columbia's chief executive officer Richard Scott has been at odds with Kentucky due to a 2 percent tax on hospital providers, which does not exist in Tennessee. </P>
+</TEXT>
+</DOC>

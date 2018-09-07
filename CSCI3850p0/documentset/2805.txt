@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU011-0239.941124</DOCID>
+<TDTID>TDT006965</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/24/94 07:56</DATE>
+<TITLE> UK government to resign if it loses Euro-vote</TITLE>
+<HEADLINE> UK government to resign if it loses Euro-vote</HEADLINE>
+<SUBJECT> BC-BRITAIN-CONFIDENCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  The British Cabinet unanimously agreed Thursday that the government would resign if it lost next Monday's crucial parliamentary vote on payments to the European Union. </P>
+<P> ``If the government were defeated, the government would resign and the prime minister would ask the queen to dissolve parliament,'' the Cabinet said in a statement issued by Major's office. </P>
+</TEXT>
+</DOC>

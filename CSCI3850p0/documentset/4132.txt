@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU002-0212.950203</DOCID>
+<TDTID>TDT010074</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/03/95 17:37</DATE>
+<TITLE> Major seeks to reassure Northern Ireland loyalists</TITLE>
+<HEADLINE> Major seeks to reassure Northern Ireland loyalists</HEADLINE>
+<SUBJECT> BC-IRISH-BRITAIN 1STLD </SUBJECT>
+<AUTHOR>     By Maggie Fox </AUTHOR>
+<TEXT>
+<NOTES>(Updates with new Major speech)</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Prime Minister John Major made ever stronger assurances Friday to Northern Ireland's unionists, who favor continued alliance with Britain, saying he would not sell them out to those who want to join the troubled province to Ireland. </P>
+<P> The unionists, angered by newspaper leaks of talks on the future of the province that indicated Britain would agree to let Dublin have a strong say in ``cross-border authorities,'' have threatened to topple Major's government over the issue. </P>
+<P> Major's parliamentary majority has been weakened by the defection of so-called ``Euro-skeptics'' over ties with the European Union, and the support of the Unionist members of Parliament is vital. </P>
+<P> The prime minister addressed their worries point by point in a speech to the right-wing Conservative Way Forward group. </P>
+<P> ``Are we going to remove British citizenship from those who cherish it? This is inconceivable. The people of Northern Irleand are British,'' Major said. </P>
+<P> ``There will be no joint sovereignty, no joint authority between London and Dublin, and no joint intervention by the British and Irish governments. I cannot be clearer than that.'' </P>
+<P> He added: ``Am I going to be a 'persuader' for a united Ireland? The answer emphatically is no.'' </P>
+<P> Britain and Ireland have been trying to hammer out a ``framework document'' outlining talking points for negotiations on the future of the province that will include all the main parties. </P>
+<P> But earlier in the week the Times newspaper leaked elements from an embryonic document that indicated cross-border authorities would be pushed at the talks. </P>
+<P> Major dismissed as ``nonsense'' suggestions in the report that responsibility for policy-making on the EU could be handed over to a joint North-South body. </P>
+<P> He stressed that whatever emerged in the framework document and subsequent all-party talks would require consent through a referendum, and said the leaks had hurt the peace process. </P>
+<P> ``It would be a tragedy if this process failed and a double tragedy if it failed on the back of a misconception,'' he said. </P>
+<P> Major also issued a word of warning, saying: ``I've never promised that the present initiatives would lead to a permanent peace. I hope they will. I pray they will. But I've never promised.'' </P>
+<P> After a meeting Thursday night, Unionist members of Parliament told Major he had to change the framework document to ensure an effective Northern Irish veto over any joint authority. </P>
+<P> ``If the government is trying to push us into an unacceptable settlement, I would prefer to have an election rather than go down the wrong road,'' said one Unionist member of parliament, David Trimble. </P>
+<P> Unionists were outraged further by the release of five IRA prisoners Friday by Dublin, which has accused London of dragging its feet on a political solution for Northern Ireland. </P>
+</TEXT>
+</DOC>

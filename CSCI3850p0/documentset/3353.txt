@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU009-0388.941221</DOCID>
+<TDTID>TDT008255</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/21/94 04:43</DATE>
+<TITLE> Eight missing after two ships collide off Portugal</TITLE>
+<HEADLINE> Eight missing after two ships collide off Portugal</HEADLINE>
+<SUBJECT> BC-PORTUGAL-SHIP 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Updates with report of crew members missing)</NOTES>
+<DATELINE>LISBON, Portugal (Reuter) </DATELINE>
+<P>  An oil tanker and a bulk carrier collided about 200 miles southwest of Portugal early Wednesday and eight crewmen from one of the vessels were missing, a rescue official said. </P>
+<P> Lloyd's Shipping Intelligence in London named the two vessels as the 80,000-ton Hong Kong registered tanker New World and the Cyprus-registered 28,776-ton bulk carrier Ya Mawlaya. </P>
+<P> Portuguese rescue officials said there had been a small fire in the bow of the bulk carrier. </P>
+<P> An official at Lisbon rescue control center said all except two of the bulk carrier's 29 crew had abandoned ship and 19, including the captain, were picked up by another vessel in the area, the Kapitan Dmitris. </P>
+<P> Eight members of the bulk carrier's crew were missing, he added. </P>
+<P> The official said seven or eight ships were standing by in the area, a Portuguese Air Force C-130 transport plane was at the scene, about 210 miles southwest of Cape St. Vincent, and a Portuguese Navy frigate was on its way. </P>
+<P> The 33 crew of the tanker were still on board the vessel and the authorities were waiting for daylight to see whether there had been an oil spill, he said. </P>
+<P> ``At this moment we have no knowledge of any spill, dawn is just breaking at the scene and we are waiting for further information,'' he told Reuters. </P>
+<P> The only casualty reported so far was a crew member of the bulk carrier who suffered burns on his hand. ``It is not a serious wound,'' the rescue official said. </P>
+</TEXT>
+</DOC>

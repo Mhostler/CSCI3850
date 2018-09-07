@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU016-0239.950330</DOCID>
+<TDTID>TDT011907</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/30/95 09:54</DATE>
+<TITLE> Agassi to lead off Davis Cup for U.S. against Italy</TITLE>
+<HEADLINE> Agassi to lead off Davis Cup for U.S. against Italy</HEADLINE>
+<SUBJECT> BC-DAVIS-DRAW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PALERMO, Sicily (Reuter) </DATELINE>
+<P>  World No. 2 Andre Agassi will open for the United States against Italian Andrea Gaudenzi Friday in their Davis Cup tennis quarterfinal tie. </P>
+<P> Pete Sampras, the world's top-ranked player who was beaten by Agassi in the Key Biscayne final Sunday, will take on Renzo Furlan in the second singles. </P>
+<P> In Saturday's doubles, Richey Reneberg and Jared Palmer, the Australian Open doubles champions, meet Stefano Pescosolido and Cristian Brandi. The reverse singles are set for Sunday. </P>
+</TEXT>
+</DOC>

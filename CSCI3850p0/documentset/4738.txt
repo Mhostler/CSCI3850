@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0162.950305</DOCID>
+<TDTID>TDT011019</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/05/95 21:09</DATE>
+<TITLE> Tennis-Muster wins Mexican Open</TITLE>
+<HEADLINE> Tennis-Muster wins Mexican Open</HEADLINE>
+<SUBJECT> BC-TENNIS-MEXICAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Austrian Thomas Muster, the second seed, won his third consecutive Mexican Open title when he beat unseeded Brazilian Fernando Meligeni 7-6 (7-4), 7-5 Sunday. </P>
+<P> Muster won his 24th career title, 23 of them on clay, and has won 17 consecutive clay court finals in which he has played, stretching back to May 1990. </P>
+<P> Meligeni was appearing in his first ATP Tour final. </P>
+<P> This was the first Tour event of 1995 played on clay. </P>
+</TEXT>
+</DOC>

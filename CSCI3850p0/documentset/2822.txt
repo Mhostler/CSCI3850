@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0417.941125</DOCID>
+<TDTID>TDT007008</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/25/94 07:50</DATE>
+<TITLE> Chechnya says three killed in rebel attack</TITLE>
+<HEADLINE> Chechnya says three killed in rebel attack</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-CHECHNYA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  The rebel Russian region of Chechnya said Moscow-backed opposition forces launched a helicopter attack on the capital's airport Friday, killing at least three people. </P>
+<P> A Chechen military official said 10 opposition helicopters fired rockets at Grozny airport, killing three people and injuring eight. Several Tupolev Tu-134 airliners were damaged and a building was partially destroyed. </P>
+<P> Moscow is giving financial and moral aid to a Chechen opposition grouping led by Umar Avturkhanov, which has been fighting to topple Chechen President Dzhokhar Dudayev. </P>
+<P> Opposition leaders told Russian news agencies Friday that their troops were preparing to attack Grozny, but such claims are commonplace and rarely amount to much. </P>
+<P> Dudayev, a former air force general who unilaterally declared his tiny north Caucasus republic independent from Russia in 1991, has repeatedly accused Moscow of invading Chechnya or preparing to invade. Moscow denies the charges. </P>
+</TEXT>
+</DOC>

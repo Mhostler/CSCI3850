@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0310.940726</DOCID>
+<TDTID>TDT001038</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/26/94 05:00</DATE>
+<TITLE> CHINA CLAIMS ARCHAEOLOGICAL FIND IN PARACELS</TITLE>
+<HEADLINE> CHINA CLAIMS ARCHAEOLOGICAL FIND IN PARACELS</HEADLINE>
+<SUBJECT> BC-CHINA-PARACELS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  China said Tuesday it had made a major archaeological find of ancient Chinese objects in the disputed Paracel Islands. </P>
+<P> Archaeologist and history professor Wang Hengjie found coins from the Western Han Dynasty (206 BC to AD 24) on the Paracels, called Xisha in Chinese, in the South China Sea, the semi-official China News Agency said. </P>
+<P> Wang also found earthenware from the Qin Dynasty (221 to 207 BC) on the islands during an archaeological trip from July 9 to 19, the agency said. </P>
+<P> The potentially oil-rich Paracels are claimed by China, Taiwan and Vietnam. In 1974, the Chinese successfully drove South Vietnamese forces off the archipelago. </P>
+</TEXT>
+</DOC>

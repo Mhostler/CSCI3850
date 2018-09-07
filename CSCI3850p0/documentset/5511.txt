@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU004-0078.950406</DOCID>
+<TDTID>TDT012181</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 10:09</DATE>
+<TITLE> Briton freed after studying neurology for appeal</TITLE>
+<HEADLINE> Briton freed after studying neurology for appeal</HEADLINE>
+<SUBJECT> BC-BRITAIN-PRISONER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A British court Thursday freed a man who taught himself the theories behind brain surgery in order to appeal his murder conviction. </P>
+<P> Kevin Callan, a high-school dropout with no qualifications, walked free after the Court of Appeal overturned his conviction as ``unsafe and unsatisfactory.'' </P>
+<P> The 36-year-old truck driver was jailed for life three years ago for murdering his girlfriend's four-year-old daughter. The prosecution argued that Callan had shaken her to death. </P>
+<P> But Callan maintained his innocence, saying he found Amanda Allman unconscious in the bathroom and tried to revive her. The girl, who suffered from cerebral palsy, had earlier fallen twice, once downstairs and once from a backyard slide. </P>
+<P> At his original trial, a government pathologist, Geoffrey Garrett, said the girl had died from brain hemorrhages which could have been caused by a severe shaking. </P>
+<P> But Callan, from Manchester in northwest England, spent three years in jail studying neurology and corresponding with world experts in brain surgery and head injuries. </P>
+<P> At the appeal, Garrett's evidence was contradicted by experts called in Callan's defense, as well as by another pathologist consulted by the prosecution. </P>
+<P> The appeal judge, Lord Justice Swinton Thomas, paid tribute to Callan for his research and told him: ``It is a matter of regret to this court that he was convicted in the first place.'' </P>
+</TEXT>
+</DOC>

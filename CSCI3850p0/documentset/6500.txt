@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU008-0355.950512</DOCID>
+<TDTID>TDT013724</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/12/95 10:20</DATE>
+<TITLE> India slams renewal of nuclear treaty</TITLE>
+<HEADLINE> India slams renewal of nuclear treaty</HEADLINE>
+<SUBJECT> BC-NUCLEAR-INDIA </SUBJECT>
+<AUTHOR>     By Sonali Verma </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI (Reuter) </DATELINE>
+<P>  India condemned the indefinite extension of the nuclear Non-Proliferation Treaty (NPT), saying Friday it was an unfair pact that legitimised the arsenals of nuclear-weapon states. </P>
+<P> ``The NPT is a discriminatory treaty which creates a divison between nuclear haves and have-nots,'' the foreign ministry said in a statement. </P>
+<P> ``The indefinite extension of the NPT perpetuates the discriminatory aspects and provides legitimacy to the nuclear arsenals of nuclear-weapons states,'' it said. </P>
+<P> The NPT allows only five declared nuclear powers -- the United States, Russia, China, France and Britain -- to retain their nuclear arsenals. </P>
+<P> After weeks of intense debate, a United Nations conference decided Thursday to renew the 178-nation nuclear pact and extend it indefinitely. India, which is not a signatory to the accord, did not attend the conference. </P>
+<P> Under the treaty, nations without nuclear arms renounce them for good, while weapons states promise to disarm and develop peaceful nuclear cooperation in other areas under international safeguards. </P>
+<P> But many countries doubt that the five acknowledged nuclear powers will ever fully disarm as signing the treaty, fraught with loopholes, obliges them to. </P>
+<P> ``India's own action plan, put forward in 1988, calls for the elimination of all nuclear weapons as the only means for achieving genuine non-proliferation,'' the statement said. </P>
+<P> The five nuclear powers have well over 20,000 operational nuclear warheads among them. Despite major recent cuts in the U.S. and former Soviet arsenals, they now have more atomic weapons than when the treaty came into force in 1970. </P>
+<P> ``India will not sign the NPT in its present form but will continue to work for achieving genuine non-proliferation through the elimination of all nuclear weapons,'' the statement added. </P>
+<P> India has repeatedly refused to sign the 1968 treaty, which took effect in 1970, saying it imposed curbs on nuclear have-nots while leaving the nuclear powers' arsenals unscathed. </P>
+<P> Israel, India and Pakistan have all refused to sign the pact and are all widely suspected of possessing nuclear arms. </P>
+<P> India tested a nuclear device in a peaceful explosion in 1974. New Delhi says it has no atomic bomb but could quickly build one. </P>
+</TEXT>
+</DOC>

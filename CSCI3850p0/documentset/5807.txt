@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0218.950417</DOCID>
+<TDTID>TDT012650</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/17/95 17:06</DATE>
+<TITLE> Gun attack on Nicaraguan bus kills 4, injures 26</TITLE>
+<HEADLINE> Gun attack on Nicaraguan bus kills 4, injures 26</HEADLINE>
+<SUBJECT> BC-NICARAGUA-ATTACK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANAGUA, Nicaragua (Reuter) </DATELINE>
+<P>  Two men armed with assault rifles sprayed a bus with gunfire in rural Nicaragua early Monday morning, killing four people and injuring 26, police said. </P>
+<P> The attack occurred just outside the city of Camoapa, about 60 miles northeast of Managua, police spokesman Erick Delgadillo told Reuters. </P>
+<P> ``It was a robbery, but these guys fled and didn't get anything,'' Delgadillo said. </P>
+<P> The bus rolled on its side after the shots were fired, he said. Of the dead, three were women and one was the bus driver's assistant, Delgadillo said. A 4-year-old girl was among the injured, most of whom suffered bullet wounds, he said. </P>
+<P> Heavily armed criminal bands roam much of the Nicaraguan countryside, many of them employing arms left over from Nicaragua's civil war of the 1980s. </P>
+</TEXT>
+</DOC>

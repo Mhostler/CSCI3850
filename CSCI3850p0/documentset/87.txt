@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU003-0245.940706</DOCID>
+<TDTID>TDT000200</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/06/94 07:05</DATE>
+<TITLE> ISRAELI, PLO LEADERS START PARIS TALKS</TITLE>
+<HEADLINE> ISRAELI, PLO LEADERS START PARIS TALKS</HEADLINE>
+<SUBJECT> BC-MIDEAST-TALKS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Israeli Prime Minister Yitzhak Rabin and PLO Chairman Yasser Arafat began talks in Paris Wednesday to try to agree on the next stage of Palestinian self-rule. </P>
+<P> Rabin, accompanied by his Foreign Minister Shimon Peres, met Arafat at the Kleber conference center in central Paris. </P>
+<P> The three leaders scheduled a one-hour working session followed by separate news conferences. </P>
+<P> They will later drive to the headquarters of the United Nations Educational, Scientific and Cultural Organization to receive its $150,000 peace prize. </P>
+<P> UNESCO awarded them the prize, named after the late Ivory Coast president Felix Houphouet Boigny, for their September 1993 mutual recognition agreement which ended decades of Israeli-Palestinian enmity. </P>
+</TEXT>
+</DOC>

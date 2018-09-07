@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0065.950101</DOCID>
+<TDTID>TDT008747</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/01/95 15:23</DATE>
+<TITLE> Sudan says one million to get military training</TITLE>
+<HEADLINE> Sudan says one million to get military training</HEADLINE>
+<SUBJECT> BC-SUDAN-BASHIR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA, Cyprus (Reuter) </DATELINE>
+<P>  Sudan's President Lt. Gen. Omar Hassan al-Bashir said Sunday that more than one million Sudanese would receive military training this year to be ready to defend the country from its enemies. </P>
+<P> Sudanese radio, monitored by the British Broadcasting Corporation, said Bashir was addressing a rally in Port Sudan to mark the nation's 30th anniversary of independence. </P>
+<P> ``His excellency called on citizens to join the popular defense training camps, which this year would witness the training of over one million recruits to defend the country against the machinations of the enemies lying in wait to detract from its unity and sovereignty,'' the radio said. </P>
+<P> It quoted him as saying: ``We must preserve our independence with our lives... True independence lies in preserving and defending Sudan and its territorial integrity.'' </P>
+<P> The radio added that visiting Yemeni President Ali Abdullah Saleh also addressed the rally and praised Sudan's support for Yemeni unity. </P>
+</TEXT>
+</DOC>

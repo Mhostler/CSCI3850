@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0174.941231</DOCID>
+<TDTID>TDT008710</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 12:07</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA-MOVE -2 MOSCOW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> A government press center spokesman told Reuters earlier that Russian troops had entered the rebel Chechen capital and taken control of several administrative buildings. Fighting was continuing inside the city, he said. </P>
+<P> ``The interior and defense ministry command at Mozdok (outside Chechnya) said today that sub-divisions of federal troops ... are carrying out the task of disarming illegal armed bands and restoring constitutional order,'' an official statement carried by the Russian Information Agency (RIA) said. </P>
+<P> ``Measures are being taken to extinguish fires which have broken out at one of the city's oil refineries,'' it added. Russia sent troops into Chechnya on December 11 to crush the southern region's three-year independence bid. </P>
+<P> A high-ranking Russian defense ministry source had earlier denied reports in the Russian media that the thousands of besieging troops would storm Grozny on New Year's Eve, Interfax said. </P>
+</TEXT>
+</DOC>

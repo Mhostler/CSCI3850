@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0278.950413</DOCID>
+<TDTID>TDT012518</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/13/95 13:05</DATE>
+<TITLE> Nigerian opposition leader still faces trial</TITLE>
+<HEADLINE> Nigerian opposition leader still faces trial</HEADLINE>
+<SUBJECT> BC-NIGERIA-ABIOLA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LAGOS, Nigeria (Reuter) </DATELINE>
+<P>  Nigeria's military government said Thursday that the detention of opposition leader Moshood Abiola was a legal issue and it could therefore not intervene to free him as demanded by some foreign governments. </P>
+<P> ``Whether Chief Abiola is innocent or guilty of the offense for which he is standing trial is a verdict for the courts to determine,'' Foreign Minister Tom Ikimi said in his maiden speech to the diplomatic corps in Lagos. </P>
+<P> ``It comes as a surprise that even some of those with whom Nigeria shares a common judicial system are among those who have urged the government to circumvent the judicial process and by executive fiat determine a matter that is sub judice,'' he said. </P>
+<P> Abiola is widely believed to have won the 1993 annulled presidential election. He was arrested last June and charged with treason for declaring himself president in defiance of Nigeria's military rulers. </P>
+<P> Military ruler Gen. Sani Abacha said Tuesday that the 57-year-old Abiola would have to undergo due process of law. </P>
+<P> Various world leaders have urged Abacha to free Abiola, a rich businessman, and quickly return Nigeria to civilian rule. </P>
+</TEXT>
+</DOC>

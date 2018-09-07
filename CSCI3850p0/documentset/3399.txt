@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0374.941223</DOCID>
+<TDTID>TDT008377</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/23/94 06:49</DATE>
+<TITLE> Russian leader denies civilian deaths in Chechnya</TITLE>
+<HEADLINE> Russian leader denies civilian deaths in Chechnya</HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA-DEATHS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, India (Reuter) </DATELINE>
+<P>  Russian Prime Minister Viktor Chernomyrdin said Friday that Russian military attacks in Chechnya had not caused many civilian casualties. </P>
+<P> Chernomyrdin told a news conference after meeting Indian leaders that Chechen forces were largely mercenaries, and he denied reports that Russian Defense Minister Pavel Grachev had resigned. </P>
+<P> ``I think there are not many casualties among civilians,'' he said. ``That is just idle talk we've witnessed from the very first day.'' </P>
+<P> Chernomyrdin said Chechen people in general were not fighting the war. ``The war is being fought mostly by mercenaries,'' he said, citing forces from Pakistan, Afghanistan, Azerbaijan and western Ukraine. </P>
+<P> The Russian prime minister, asked if Grachev had resigned, said, ``I don't think that is serious.'' </P>
+<P> He said he had no information on reports the Russian Defense Ministry had fired three generals involved in the fighting in Chechnya. </P>
+</TEXT>
+</DOC>

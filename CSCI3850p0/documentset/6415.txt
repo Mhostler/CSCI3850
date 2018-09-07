@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU006-0398.950509</DOCID>
+<TDTID>TDT013618</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/09/95 18:55</DATE>
+<TITLE> U.S. agrees to mediation in Canadian salmon fracas</TITLE>
+<HEADLINE> U.S. agrees to mediation in Canadian salmon fracas</HEADLINE>
+<SUBJECT> BC-FISH-CANADA-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OTTAWA (Reuter) </DATELINE>
+<P>  The United States has agreed to a Canadian proposal for non-binding mediation to resolve differences in joint negotiations on Pacific salmon, Fisheries Minister Brian Tobin announced Tuesday. </P>
+<P> ``I hope that this will lead to an agreement that addresses salmon conservation in both Canada and the U.S. and establishes a process of a fair sharing of benefits between our two countries,'' he said in a statement. </P>
+<P> Negotiations on fishing arrangements -- on how to share the salmon catch while not overfishing -- have been stalled since last year. Washington responded to Ottawa's proposal on May 5. </P>
+<P> A Canadian statement said that since 1985, when the two sides signed a Pacific Salmon Treaty, U.S. catches of salmon originating in Canada had increased while Canadian catches of U.S. originated salmon had fallen. </P>
+<P> According to Canadian estimates, this resulted in an imbalance of C$70 million Canadian (US$50 million). </P>
+<P> Tobin, catapulted to world prominence in March and April when he took on the European Union over what he saw as Spanish and Portuguese overfishing in the Atlantic, said again that he would try to preserve the stock of fish. </P>
+<P> ``We intend to see that conservation of the resource is the primary objective of those arrangements (with the United States),'' he said. </P>
+</TEXT>
+</DOC>

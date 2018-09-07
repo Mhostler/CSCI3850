@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU008-0402.950413</DOCID>
+<TDTID>TDT012542</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/13/95 23:11</DATE>
+<TITLE> Bank of Japan cuts discount rate to record one pct</TITLE>
+<HEADLINE> Bank of Japan cuts discount rate to record one pct</HEADLINE>
+<SUBJECT> BC-JAPAN-RATE 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO, April 14 (Reuter) </DATELINE>
+<P>  In a bid to halt the rise of the yen, the Bank of Japan (BOJ) announced on Friday it was cutting its official discount rate by 0.75 percentage point to a record low of 1.00 percent. </P>
+<P> The BOJ move came only hours after the government unveiled a package of emergency economic measures also aimed at halting the yen's recent surge and the damage it has done to Japan's sluggish economy. </P>
+<P> BOJ Governor Yasuo Matsushita said in a statement that the central bank judged it was necessary to give the maximum support to economic activity from monetary policy. </P>
+<P> It was the eighth cut in the discount rate since July 1, 1991. On that date the BOJ cut the rate to 5.5 pct from six pct. </P>
+<P> On Friday morning the government approved the emergency economic steps to cope with the yen's more than 17 percent rise against the dollar this year -- a surge which has threatened Japan's economic recovery and battered its feeble stock market. </P>
+<P> Financial market players had said they were disappointed with the contents of the package, in which the government pledged to try to cut Japan's huge current account surplus, boost imports, stimulate the economy and revitalise financial markets. </P>
+<P> The package failed, however, to set a target for cutting the surplus -- one step market participants said might have convinced them Tokyo was serious about tackling the root causes of the yen's rise. </P>
+<P> The dollar briefly touched a high of 84.00 yen just after the discount rate. </P>
+<P> But it soon fell back on interbank traders' speculative sales and limited exporters' sales. </P>
+</TEXT>
+</DOC>

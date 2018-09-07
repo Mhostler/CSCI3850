@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU007-0227.950314</DOCID>
+<TDTID>TDT011275</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/14/95 12:40</DATE>
+<TITLE> Canada says Spanish fishing off disputed area</TITLE>
+<HEADLINE> Canada says Spanish fishing off disputed area</HEADLINE>
+<SUBJECT> BC-FISH-CANADA-SPAIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OTTAWA (Reuter) </DATELINE>
+<P>  Canada's Fisheries Minister Brian Tobin said Tuesday that Spanish vessels had resumed fishing in international waters off the coast of Newfoundland in a ''provocative'' manner. </P>
+<P> ``I know there is some fishing activity in the area, just beyond the nose of the Grand Banks ... clearly they are being somewhat provocative,'' Tobin told reporters. </P>
+<P> Canada last week seized a Spanish trawler fishing for turbot off its coast, setting off a bitter diplomatic dispute with the European Union. </P>
+</TEXT>
+</DOC>

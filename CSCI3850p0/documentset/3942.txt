@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU011-0139.950125</DOCID>
+<TDTID>TDT009720</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/25/95 00:45</DATE>
+<TITLE> Clinton speech sharply divides parties</TITLE>
+<HEADLINE> Clinton speech sharply divides parties</HEADLINE>
+<SUBJECT> BC-CLINTON-REACTION </SUBJECT>
+<AUTHOR>     By William Scally </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Republicans welcomed President Clinton's offer of cooperation in his State of the Union speech, but some saw the stark partisan differences in reaction as an ominous sign. </P>
+<P> Repeatedly, applause lines in the speech saw Democrats in the House chamber leap enthusiastically to their feet while Republicans sat stolidly silent. </P>
+<P> ``One party was applauding and one sitting on its hands. I think that forecasts a very tough year ahead,'' said Sen Arlen Specter, a Pennsylvania Republican. </P>
+<P> Sen Trent Lott, R-Miss, the assistant Senate leader, said, ''Every time you have one side standing up and applauding and the other side sitting down, that's not a good way to start.'' </P>
+<P> He said some of the speech had ``laid down a plan of battle.'' </P>
+<P> Democratic Sen Patrick Leahy of Vermont said it was ''unfortunate'' that House Speaker Newt Gingrich, sitting above Clinton on the dais occupied by Democratic speakers for 40 years, ``would sit there and very strongly express disagreement when virtually the whole chamber was standing and applauding.'' </P>
+<P> Senate Republican Leader Bob Dole said pointedly that although the annual speech was important ``the more important and most powerful message remains the one that the American people delivered'' in the November congressional elections that gave Republicans control of Congress. </P>
+<P> Dole added, ``We welcome any support the president offers as Republicans carry out our mandate to rein in government with less spending, less taxes and more freedom.'' </P>
+<P> Among Clinton's comments that brought Democrats to their feet but left Republicans silent were his call for an increase in the national minimum wage, his appeal not to dismantle the crime bill passed last year, and his plug for his National Service Corps. </P>
+<P> Gingrich has said the public service volunteer program that was enacted last year, fulfilling a cherished goal of Clinton's, should be scrapped. Republicans are also planning to rewrite the crime bill to switch money from crime prevention to prisons. </P>
+<P> Democrats reacted with overwhelming applause when Clinton said of the crime bill's ban on 19 models of assault weapons: ''I will not let that be repealed.'' </P>
+<P> Some Republicans who support repeal ran on that issue and defeated incumbent Democrats. </P>
+<P> Democrats welcomed Clinton's stand on the gun ban and his call for welfare reform that that did not mean ``just beating up on poor people,'' in the words of Sen Russell Feingold, D-Wis. </P>
+<P> Rep Bob Walker, R-Pa., said the speech was in many ways cooperative but ``some of it didn't add up'' in terms of paying for programs. </P>
+<P> Walker said that increasing the minimum wage would result in lost jobs and more people on welfare. </P>
+<P> Although Clinton won loud applause for his message of cutting the size of the government, Sen Mitch McConnell, a Kentucky Republican, said he did not believe Clinton was serious. </P>
+<P> ``When it comes to the details on downsizing the government, I don't think he'll be with us,'' McConnell said. </P>
+</TEXT>
+</DOC>

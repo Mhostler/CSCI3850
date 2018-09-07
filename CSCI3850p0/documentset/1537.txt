@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU011-0046.940922</DOCID>
+<TDTID>TDT003819</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/22/94 06:07</DATE>
+<TITLE> Pope's U.S. visit delayed for health reasons</TITLE>
+<HEADLINE> Pope's U.S. visit delayed for health reasons</HEADLINE>
+<SUBJECT> BC-POPE-HEALTH URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>    VATICAN CITY (Reuter) - A scheduled visit by Pope John</NOTES>
+<DATELINE></DATELINE>
+<P> Paul II to the United States and the United Nations next month has been put off until November 1995 for health reasons, the Vatican said Thursday. </P>
+</TEXT>
+</DOC>

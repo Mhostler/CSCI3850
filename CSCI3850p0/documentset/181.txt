@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU006-0153.940712</DOCID>
+<TDTID>TDT000422</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/12/94 01:35</DATE>
+<TITLE> ARAFAT LEAVES FOR HOMELAND IN GAZA, JERICHO</TITLE>
+<HEADLINE> ARAFAT LEAVES FOR HOMELAND IN GAZA, JERICHO</HEADLINE>
+<SUBJECT> BC-MIDEAST-ARAFAT-DEPARTURE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO, Egypt (Reuter) </DATELINE>
+<P>  PLO leader Yasser Arafat left Cairo Tuesday on his way to a permanent home in the Palestinian self-rule areas of Gaza and Jericho, ending 27 years of exile in various Arab capitals. </P>
+<P> Arafat, accompanied by his wife, Suha, and senior PLO aides flew by plane from Cairo airport to the Mediterranean Egyptian town of el-Arish from where he would travel to Gaza. </P>
+<P> It was not immediately known whether Arafat would cross by land through the Rafah crossing or by helicopter to Gaza. </P>
+<P> He spent his last night of exile at the presidential Orouba palace in Cairo. </P>
+</TEXT>
+</DOC>

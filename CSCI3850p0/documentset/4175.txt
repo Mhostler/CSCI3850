@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU003-0315.950206</DOCID>
+<TDTID>TDT010148</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/06/95 21:29</DATE>
+<TITLE> Three die in explosion of Panama weapons cache</TITLE>
+<HEADLINE> Three die in explosion of Panama weapons cache</HEADLINE>
+<SUBJECT> BC-PANAMA-WEAPONS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Adds details paras 3-5; pvs Panama City)</NOTES>
+<DATELINE>CRISTOBAL, Panama (Reuter) </DATELINE>
+<P>  Three people died and 21 were injured Monday when an illegal cache of ammunition exploded during a search for drugs by officials at this Atlantic port, authorities said. </P>
+<P> Port officials found the cache while searching for illegal drugs in a steamroller slated for export to Ecuador. A welder's torch used to open a compartment in the steamroller sparked the explosion, Hugo Torrijos, head of Panama's Port Authority, told reporters. </P>
+<P> Officials said late Monday they found 90 AK-47 rifles, two hand-held rocket launchers and Russian-made plastic explosives in another, unexploded part of the steamroller. </P>
+<P> They said the weapons may have come from Nicaragua, where leftist rebels were supplied with weapons from the former Soviet Union during Nicaragua's 1980s civil war, but they did not know the material's final destination. </P>
+<P> The fierce explosion tore through the dock area, knocked down thick concrete walls and smashed windows in cars as far as 100 yards away. A woman walking 150 feet from the scene died when flying debris cut off her leg and she bled to death, rescue workers said. </P>
+<P> Eleven men in critical condition were taken to hospitals in nearby Colon city and in Panama City, 30 miles to the southeast, with serious burns, Charles Perret, Colon fire chief, told Reuters. </P>
+<P> ``It was a hell of an explosion,'' he said. </P>
+<P> Officials here believe Panama's ports, which serve ships using the Panama Canal, are sometimes used as transit points for drugs or weapons by cocaine cartels from neighboring Colombia. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0101.950411</DOCID>
+<TDTID>TDT012435</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/11/95 11:29</DATE>
+<TITLE> Central African Republic prime minister resigns</TITLE>
+<HEADLINE> Central African Republic prime minister resigns</HEADLINE>
+<SUBJECT> BC-CENTRALAFRICA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BANGUI (Reuter) </DATELINE>
+<P>  The prime minister of Central African Republic, Jean-Luc Mandaba, resigned Tuesday, a day after opposition deputies in parliament laid down a motion of no confidence in his government. </P>
+<P> The prime minister announced his resignation in a statement to radio and television, and presidency spokesman Alfred Poloko said it had been accepted by President Ange-Felix Patasse. </P>
+<P> Mandaba, who was appointed in October 1993, is a member of Patasse's Movement for the Liberation of the Central African People (MLPC), which has 34 of the 85 seats in parliament. Mandaba named a coalition government but gave key posts to MLPC colleagues. </P>
+<P> The poor, landlocked country of three million people was hard hit by a 50 percent devaluation of the regional CFA franc currency in January 1994 which pushed up prices of imports. </P>
+<P> In February this year, Patasse accused a group of army officers and close associates of former president Andre Kolingba of preparing a coup against him. </P>
+</TEXT>
+</DOC>

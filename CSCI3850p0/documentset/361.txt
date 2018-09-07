@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU011-0308.940723</DOCID>
+<TDTID>TDT000943</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/23/94 12:34</DATE>
+<TITLE> MITTERRAND LEAVES HOSPITAL AFTER SURGERY</TITLE>
+<HEADLINE> MITTERRAND LEAVES HOSPITAL AFTER SURGERY</HEADLINE>
+<SUBJECT> BC-FRANCE-MITTERRAND-HOSPITAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS(Reuter) </DATELINE>
+<P>  French President Francois Mitterrand left a hospital Saturday, less than a week after undergoing prostate surgery for the second time in two years. </P>
+<P> The 77-year-old Mitterrand, looking slightly drawn, answered reporters' questions about his health and political issues in an impromptu news conference outside Cochin Hospital. </P>
+<P> ``I have no intention of reducing my activities. This is a slow period but it mustn't last too long. I am not an invalid,'' Mitterrand said, adding he hoped to chair the next cabinet meeting Wednesday. </P>
+<P> Last Monday Mitterrand had his second operation since September 1992, when he was diagnosed with prostate cancer. </P>
+<P> Doctors said the operation to remove an obstruction from Mitterrand's urinary tract was successful. </P>
+<P> Bernard Debre, the head of the urology department at the hospital, said Mitterrand would be advised to convalesce for a few weeks but he was not sure the advice would be accepted. </P>
+</TEXT>
+</DOC>

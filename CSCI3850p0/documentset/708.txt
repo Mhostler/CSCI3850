@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU005-0352.940811</DOCID>
+<TDTID>TDT001742</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/11/94 10:08</DATE>
+<TITLE> O.J. SIMPSON UNDERGOES MINOR SURGERY</TITLE>
+<HEADLINE> O.J. SIMPSON UNDERGOES MINOR SURGERY</HEADLINE>
+<SUBJECT> BC-USA-SIMPSON 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: updates with Simpson back in jail)</NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  O.J. Simpson, the former football star accused of murdering his former wife and a friend, underwent minor surgery Thursday morning before being returned to prison, a hospital doctor said. </P>
+<P> Dr Robert Kaisinger said Simpson, who arrived at Cedars Sinai Hospital at 4.23 a.m. local time, underwent ``a planned minor surgical procedure. The procedure was performed without any complications.'' </P>
+<P> A Los Angeles County Sherifff's Department spokesman declined to specify the ailment but news reports said the former football player and actor was taken by police escort to the hospital for a minor intestinal infection. </P>
+</TEXT>
+</DOC>

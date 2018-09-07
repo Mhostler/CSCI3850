@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0235.940720</DOCID>
+<TDTID>TDT000820</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/20/94 18:13</DATE>
+<TITLE> FISKE ASKS WHITE HOUSE FOR MORE FOSTER FILES</TITLE>
+<HEADLINE> FISKE ASKS WHITE HOUSE FOR MORE FOSTER FILES</HEADLINE>
+<SUBJECT> BC-WHITEWATER-FOSTER-FISKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Whitewater independent counsel Robert Fiske has asked the White House for all files connected to the late deputy White House counsel Vince Foster in an effort to clear up lingering questions about his suicide, the White House said Wednesday. </P>
+<P> On the one-year anniversary of Foster's suicide, current deputy White House counsel Joel Klein directed the White House staff to turn over all such documents by close of business Thursday. </P>
+</TEXT>
+</DOC>

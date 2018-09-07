@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU004-0114.941108</DOCID>
+<TDTID>TDT006202</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/08/94 06:55</DATE>
+<TITLE> Olympic flight to Salonika hijacked-state TV</TITLE>
+<HEADLINE> Olympic flight to Salonika hijacked-state TV</HEADLINE>
+<SUBJECT> BC-GREECE-HIJACKING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATHENS, Greece (Reuters) </DATELINE>
+<P>  An Olympic Airways plane carrying about 70 passengers was hijacked over Belgrade and is expected to land in the northern Greek city of Salonika, Greece's state television reported. </P>
+<P> The pilot indicated in code that the airliner, flying from Dusseldorf to Athens, was hijacked and was landing in Salonika for negotiations, it said. </P>
+<P> Police, ambulances and fire engines rushed to Salonika's Macedonia airport, the television said. </P>
+</TEXT>
+</DOC>

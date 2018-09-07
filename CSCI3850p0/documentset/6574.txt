@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0226.950515</DOCID>
+<TDTID>TDT013842</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/15/95 16:29</DATE>
+<TITLE> Israel's army chief Shahak to Washington for talks</TITLE>
+<HEADLINE> Israel's army chief Shahak to Washington for talks</HEADLINE>
+<SUBJECT> BC-MIDEAST-USA-CHIEF </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israeli army chief Amnon Shahak leaves for a 10-day visit to the United States Monday, a military spokesman said. </P>
+<P> He said Shahak, who will be the guest of senior U.S. defense officials, would visit military installations and inspect new defense technology. </P>
+<P> The spokesman declined to comment when asked if Shahak, a senior Israeli negotiator in peace talks with the PLO, would meet Syrian officials in Washington. </P>
+<P> Last December, Shahak's predecessor held talks in Washington with Syrian chief of staff Hikmet Shihabi. </P>
+<P> Years of Syrian-Israeli talks have remained largely at a standstill in wrangling over the Israeli-held Golan Heights. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU006-0272.940712</DOCID>
+<TDTID>TDT000443</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/12/94 13:57</DATE>
+<TITLE> FISH, SALAMANDER BORN IN ORBITING SPACE SHUTTLE</TITLE>
+<HEADLINE> FISH, SALAMANDER BORN IN ORBITING SPACE SHUTTLE</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE </SUBJECT>
+<AUTHOR>     By Beth Dickey </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  Shuttle Columbia's aquatic nursery saw its first arrivals Tuesday -- a red-bellied newt and several Japanese Medaka fish born in the orbiting spacecraft, NASA said. </P>
+<P> The baby newt, a salamander, was spotted among four mother newts in an aquarium inside a shuttle laboratory where seven astronauts are carrying out a nonstop schedule of science experiments. </P>
+<P> Astronaut Don Thomas found the newt ``swimming around in his little container'' when he made a routine check of the water tank on the mission's fifth day. </P>
+<P> The National Aeronautics and Space Administration said Japan's first woman astronaut, Chiaki Mukai, discovered the Medaka minnows as she prepared to feed the adult fish. Two male and two female Medaka are the focus of animal reproduction studies on the two-week flight. </P>
+<P> Michael Weiderhold of the University of Texas said he will study the newt's inner ear to see how space flight affected the development of otoliths, or gravity receptors. Newts use them to keep their eyes pointing forward while swimming. </P>
+<P> ``There will be no pull of gravity on these stones in space, so we want to see if these reflexes will develop normally,'' Weiderhold explained. </P>
+<P> The research applies to humans with balance problems, especially elderly people, because the ears of all vertebrate animals are similar, according to Weiderhold. </P>
+<P> Life science studies account for about half the 82 experiments being conducted in the $1 billion Spacelab module aboard Columbia. </P>
+<P> On the opposite end of the research agenda, the crew heated sulfur hexafluoride to its critical point Tuesday to study how fluids transport heat in the absence of gravity. The critical point is the exact moment when a fluid behaves both as a liquid and a gas. </P>
+<P> The international mission was launched from Florida last Friday and was in its fifth day Tuesday. Columbia is due back on Earth July 22. </P>
+<P> Mukai and crewmate Rick Hieb took turns wearing a waist-high pressurized bag that is designed to counteract the ill effects of space flight which some astronauts suffer on coming home. </P>
+<P> The bag, called a lower body negative pressure device, is used periodically to prevent blood and other fluids from pooling in the upper torso. According to NASA, astronauts who use the bag do not get dizzy and lightheaded when they return to gravity. </P>
+</TEXT>
+</DOC>

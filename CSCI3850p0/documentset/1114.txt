@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU001-0120.940901</DOCID>
+<TDTID>TDT002749</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/01/94 14:27</DATE>
+<TITLE> U.S. unveils nutrition checklist for parents</TITLE>
+<HEADLINE> U.S. unveils nutrition checklist for parents</HEADLINE>
+<SUBJECT> BC-USA-LUNCH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  As part of its ongoing effort to make school meals healthier, the government Thursday unveiled a 10-step checklist for parents to help their kids ``make sound food choices in the school cafeteria.'' </P>
+<P> The Agriculture Department, which is in charge of the multi-billion dollar school meal program, said the new parent guide is free and will be distributed across the country by the National Parent Teacher Association. </P>
+<P> ``USDA wants to give parents some back-to-school supplies,'' Ellen Haas, assistant secretary for food and consumer services told a news conference. ``We want children to get the same nutrition message at the kitchen table at home that they do in the lunchroom at school.'' </P>
+<P> Among the 10 tips, the department urges parents to eat at their youngster's school to see what the meals are like, go over the weekly menu to make sure it meets federal dietary guidelines, point out the most nutritious items, and talk with school cooks and other officials. </P>
+<P> The department has printed the suggestions on flyers and bookmarks and will also be giving out refrigerator magnets. The campaign has a price tag of $160,000. </P>
+<P> PTA official Ginny Markell said her group expects to get the guide out to all its seven million members. It will also be available by mail from the department. </P>
+<P> Haas called it the ``next step'' in the federal initiative to improve the program that feeds 25 million kids daily. </P>
+<P> Last June, the Clinton administration announced plans to slash the fat in school meals, the first major reform of the program since it was established in 1946. </P>
+<P> The program has come under fire from critics who say the meals are unhealthy. In 1993, a government study found school meals laden with fat and twice the recommended amount of salt. </P>
+<P> But the new regulations, which also require schools to lower the salt and raise the fiber in their meals, are not slated to be mandatory until 1998, to the consternation of consumer groups. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU015-0170.950522</DOCID>
+<TDTID>TDT014102</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/22/95 19:20</DATE>
+<TITLE> Clinton to veto transfer of welfare programs to states</TITLE>
+<HEADLINE> Clinton to veto transfer of welfare programs to states</HEADLINE>
+<SUBJECT> BC-WELFARE-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton will veto legislation that transfers federal responsibility for welfare programs to the states and does not provide a safety net for children, a White House spokeswoman said Monday. </P>
+<P> Spokeswoman Ginny Terzano said White House Chief of Staff Leon Panetta had delivered this message to several lawmakers, including Sen. Daniel Patrick Moynihan, D-NY, in recent days. ''Mr. Panetta has said if a welfare bill went to a block grant assistance program and did not provide a safety net for children, then the president would veto the bill,'' she said. </P>
+</TEXT>
+</DOC>

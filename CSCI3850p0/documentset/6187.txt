@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0134.950501</DOCID>
+<TDTID>TDT013308</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 11:42</DATE>
+<TITLE> Kevorkian lawyer appealing to federal court system</TITLE>
+<HEADLINE> Kevorkian lawyer appealing to federal court system</HEADLINE>
+<SUBJECT> BC-KEVORKIAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  The lawyer representing right-to-die advocate Jack Kevorkian said Monday he plans to continue to battle laws banning assisted suicide and will ask a federal judge to block prospective state murder trials. </P>
+<P> The U.S. Supreme Court last week refused to hear appeals of state court decisions involving Kevorkian, who has helped 21 people end their lives since 1990, clearing the way for murder prosecutions against the retired pathologist. </P>
+<P> The first trial was expected to begin sometime this summer, Kevorkian's attorney, Geoffrey Fieger, told reporters. But Fieger said he will seek a preliminary injunction in federal court in Detroit to block any murder trial and will also pursue court action in California, which has revoked Kevorkian's license to practice medicine. </P>
+<P> ``This is preposterous, this is absurd. We've never had a common law in Michigan banning assisted suicide,'' Fieger said. </P>
+<P> Roughly 30 states, including Michigan, have enacted laws making assisted suicide a criminal offense. But Fieger said most Michigan residents favor the right to assisted suicide and predicted no jury would convict Kevorkian since his actions are protected by the constitutional right to privacy. </P>
+</TEXT>
+</DOC>

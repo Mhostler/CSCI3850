@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0132.950516</DOCID>
+<TDTID>TDT013879</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/16/95 16:49</DATE>
+<TITLE> Pakistani airliner under bomb threat at Kennedy</TITLE>
+<HEADLINE> Pakistani airliner under bomb threat at Kennedy</HEADLINE>
+<SUBJECT> BC-PLANE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A Pakistan International Airlines plane was detained at Kennedy Airport Tuesday while police searched for a possible bomb on board, authorities said. </P>
+<P> PIA flight 703, which originated in Karachi, landed safely just after 4 p.m. EDT with 218 people on board and was taken to a remote location because of a bomb threat, said D. Joy Faber of the Port Authority police. </P>
+<P> The plane, a 747, would be searched once all the passengers disembarked, she said. They were still on board about 30 minutes after the plane landed, she said. </P>
+<P> It was not immediatly clear how the bomb threat had been made. </P>
+</TEXT>
+</DOC>

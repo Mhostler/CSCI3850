@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0107.940725</DOCID>
+<TDTID>TDT000997</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/25/94 07:31</DATE>
+<TITLE> CHRISTOPHER SEES ISRAEL-JORDAN PEACE WITHIN MONTHS</TITLE>
+<HEADLINE> CHRISTOPHER SEES ISRAEL-JORDAN PEACE WITHIN MONTHS</HEADLINE>
+<SUBJECT> BC-MIDEAST-SUMMIT-CHRISTOPHER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Secretary of State Warren Christopher said Monday he expects Jordan and Israel to reach a peace agreement in a ``matter of months.'' </P>
+<P> Christopher said a joint declaration to be signed by the two nations later Monday at the White House ``will accelerate the process toward'' that treaty. </P>
+</TEXT>
+</DOC>

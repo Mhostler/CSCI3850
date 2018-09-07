@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU004-0182.941208</DOCID>
+<TDTID>TDT007621</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 13:54</DATE>
+<TITLE> U.N. envoy says cease-fire holding in Angola</TITLE>
+<HEADLINE> U.N. envoy says cease-fire holding in Angola</HEADLINE>
+<SUBJECT> BC-ANGOLA-UN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  The U.N. special representative for Angola insisted Thursday there had been no substantive breach of a cease-fire under a peace accord last month between the Angolan government and UNITA rebels and that additional U.N. observers should be deployed. </P>
+<P> ``Since November 22, the date when the cease-fire came into effect, there has been no significant violation of that cease-fire,'' Alioune Blondin Beye, a Malian diplomat, told a news conference. </P>
+<P> ``Of course, that doesn't mean to say there hasn't been certain hostilities,'' he added. </P>
+<P> ``In no country and in no conflict, after 20 years of war, and when you have extremely powerful military forces involved in such a huge country, it's not possible to simply blow the whistle and put an end to military operations. But there's nothing significant,'' he added. </P>
+<P> It was now up to Secretary-General Boutros Boutros-Ghali to decide whether to deploy additional obervers. </P>
+<P> ``I hope that decision will be taken, because...it will consolidate the current stage of the cease-fire, which is entirely satisfactory, and prevent any retrogression,'' Blondin Beye said. </P>
+<P> He recently briefed the Security Council, which was to meet later to approve a two-month renewal of the mandate of some 80 U.N. observers, police and paramedics already in Angola and decide whether to give the go-ahead for the deployment of reinforcements. </P>
+<P> Boutros-Ghali said in a recent report he would expand the force, known as UNAVEM II, to a previously authorized level of 350 military observers, 126 police observers and 14 military medical personnel, together with support staff, once Blondin Beye had reported the cease-fire was effective. </P>
+<P> But the secretary-general said the United Nations must also obtain from the Angolan government and UNITA (the National Union for the Total Independence of Angola) assurances regarding the safety of U.N. personnel to be stationed in various parts of the country. </P>
+<P> The United Nations eventually hopes to field about 7,000 troops and support personnel to help implement the accord between the Angolan government and UNITA. </P>
+<P> Last month's U.N.-brokered peace agreement aims at reviving 1991 accords which broke down when UNITA refused to accept defeat in elections the following year, resulting in a renewal of fighting which has caused hundreds of thousands of casualties and widespread devastation. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0029.950217</DOCID>
+<TDTID>TDT010517</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/17/95 11:35</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-POLAND-USA-WEAPONS -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Perry and acting Polish Defense Minister Jerzy Milewski signed an agreement on expanded defense cooperation at the Pentagon which did not cover arms sales but opened the way for sharing military information and expanded joint military maneuvers. </P>
+<P> The United States has not sold any advanced arms to former Soviet Bloc states, although it has signed defence cooperation agreements with a number of European countries, including Hungary and the Czech Republic. </P>
+<P> Milewski said he had been told by State Department officials that ``all the (U.S.) systems and weapons, even the most advanced, are now available for Poland.'' But he stressed that being able to afford such weapons ``is quite another business.'' </P>
+<P> ``There is a general agreement on the availability of selling lethal equipment to Poland,'' said Perry. ``We have not made yet agreements on specific systems. One of the things the minister will do while he is here is get a detailed briefing on the F-16.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0217.950322</DOCID>
+<TDTID>TDT011548</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/22/95 03:44</DATE>
+<TITLE> Israeli health minister saves heart attack victim</TITLE>
+<HEADLINE> Israeli health minister saves heart attack victim</HEADLINE>
+<SUBJECT> BC-ISRAEL-DOCTOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM, March 22 (Reuter) </DATELINE>
+<P>  One Israeli will probably never grumble again about the government's administration of health care. </P>
+<P> Felled by a heart attack in a Jerusalem hotel on Tuesday, the 72-year-old man was revived by Health Minister Ephraim Sneh, who answered a ``Is there a doctor in the house?'' call, a ministry spokeswoman said on Wednesday. </P>
+<P> Sneh, who was about to give a political speech in the hotel, is a specialist in internal medicine and a former chief medical officer of the Israeli army. </P>
+<P> The heart attack victim was reported to be in stable condition in hospital. </P>
+</TEXT>
+</DOC>

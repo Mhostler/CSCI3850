@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0091.941016</DOCID>
+<TDTID>TDT005116</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/16/94 01:19</DATE>
+<TITLE> U.S. defense chief Perry arrives in China</TITLE>
+<HEADLINE> U.S. defense chief Perry arrives in China</HEADLINE>
+<SUBJECT> BC-CHINA-USA-ARRIVAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  Defense Secretary William Perry arrived in Beijing Sunday for three days of talks with Chinese Communist Party, government and defence leaders. </P>
+<P> Perry and his entourage arrived aboard a special plane from Kuwait, where he reviewed the U.S.-led response to Iraq's military movements near its Kuwaiti border. </P>
+<P> The trip is the first by a U.S. defense chief since military ties were frozen in 1989 after Beijing used the People's Liberation Army to crush pro-democracy protests in Tiananmen Square with heavy loss of life. </P>
+<P> He was due to meet his Chinese counterpart, Chi Haotian, as well as Communist Party chief and President Jiang Zemin and Premier Li Peng. </P>
+<P> Li presided over the Tiananmen crackdown while Jiang was installed as party chief in its wake. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU016-0402.950330</DOCID>
+<TDTID>TDT011941</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/30/95 18:02</DATE>
+<TITLE> Chilean police force way into European observatory</TITLE>
+<HEADLINE> Chilean police force way into European observatory</HEADLINE>
+<SUBJECT> BC-CHILE-TELESCOPE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SANTIAGO, Chile (Reuter) </DATELINE>
+<P>  Chilean police forced their way into the half-finished installations of the world's largest telescope Thursday after its European builders ignored a court order to stop work due to a land dispute, witnesses said. </P>
+<P> Two carloads of policemen cut the chains at the gates to the European Southern Observatory (ESO) near the town of Taltal and, with a court official, inspected the grounds of the project being built with funds from eight countries. </P>
+<P> An ESO spokesman was unsure how long the policemen would stay or whether their intention was to forcibly stop work on the 48-foot telescope. </P>
+<P> The police move was the latest escalation in a bitter legal dispute that threatens to halt work on the telescope. </P>
+<P> The observatory's builders maintain that, since they are an international organization, they are exempt from Chilean civil law and cannot be ordered to stop work by a local judge. </P>
+<P> ``What happened today is unprecedented in the history of relations between an international organization and a host country,'' said a statement issued by ESO's Santiago office. </P>
+<P> Chile's Supreme Court last month ordered an indefinite halt in construction after a family charged that the telescope was being built on land improperly taken from them in 1988 by the former military government of Gen. Augusto Pinochet. </P>
+<P> The Latorre family filed suit against the Chilean government and the observatory, demanding full restitution of the land known as Cerro Paranal in arid northern Chile. </P>
+<P> The observatory ignored the court order, citing a 1963 treaty granting its builders the right to work freely in Chile. </P>
+<P> When finished early in the next decade, Cerro Paranal will have four telescopes all able to focus on the same object at once. One of the four telescopes is nearly finished while the other three are at various stages of completion. </P>
+</TEXT>
+</DOC>

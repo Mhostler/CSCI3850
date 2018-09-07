@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0103.941010</DOCID>
+<TDTID>TDT004729</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/10/94 00:34</DATE>
+<TITLE> Denver public school teachers vote to strike</TITLE>
+<HEADLINE> Denver public school teachers vote to strike</HEADLINE>
+<SUBJECT> BC-USA-STRIKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DENVER (Reuter) </DATELINE>
+<P>  More than half of Denver's 3,800 public school teachers, disappointed over what they consider a paltry wage offer, voted Sunday night to strike, union officials announced. </P>
+<P> ``The action that they took tonight definitely defines that the structure must change and that is what we will be negotiating for,'' Denver Classroom Teachers Association president Leonard Fox told KWGN-TV after the vote was announced. </P>
+<P> Union officials said some 65 percent of Denver's teachers voted to strike. </P>
+<P> There are 63,000 students in the Denver Public school district, but school officials have hired 1,500 substitute teachers and have promised parents that schools would be open Monday. </P>
+<P> Teachers are looking for raises and benefits costing about $8 million, but were offered a package worth $5.1 million, including a $1,001 annual raise for each teacher. The strike vote came after talks broke down Saturday. </P>
+<P> Denver public school teachers earn an average annual salary of $34,961. </P>
+</TEXT>
+</DOC>

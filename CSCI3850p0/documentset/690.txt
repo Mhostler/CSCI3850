@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0101.940810</DOCID>
+<TDTID>TDT001701</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/10/94 08:14</DATE>
+<TITLE> MINOR DERAILMENT DELAYS NIGHT OWL TO BOSTON</TITLE>
+<HEADLINE> MINOR DERAILMENT DELAYS NIGHT OWL TO BOSTON</HEADLINE>
+<SUBJECT> BC-USA-AMTRAK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The last car of the Night Owl, an overnight Amtrak train from Washington to Boston, derailed at New Haven, Connecticut, delaying the train's arrival in Boston, Amtrak said. </P>
+<P> There were no injuries, a spokeswoman said. </P>
+<P> According to Amtrak, the derailment involved a mail car. Its rear wheels left the track just east of Amtrak's New Haven station at 5:30 a.m. EDT. At about 7 a.m., the car was separated from the rest of the train, which proceeded to Boston. </P>
+<P> Passengers ``were delayed for about 90 minutes,'' the spokeswoman said. </P>
+<P> The number of passengers on the train was not immediately available. </P>
+</TEXT>
+</DOC>

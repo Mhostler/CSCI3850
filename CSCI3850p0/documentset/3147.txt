@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0402.941212</DOCID>
+<TDTID>TDT007789</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/12/94 12:35</DATE>
+<TITLE> S.C. grand jury indicts Susan Smith</TITLE>
+<HEADLINE> S.C. grand jury indicts Susan Smith</HEADLINE>
+<SUBJECT> BC-MOTHER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNION, S.C. (Reuter) </DATELINE>
+<P>  A grand jury Monday indicted Susan Smith for murder in the drowning of her two young sons in a nearby lake. </P>
+<P> The 18-member jury investigated the charges against the 23-year-old secretary and charged her with two counts of murder. Smith, who has confessed to killing three-year-old Michael and 14-month-old Alex, was not in the Union County Court Monday. </P>
+</TEXT>
+</DOC>

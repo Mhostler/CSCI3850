@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU013-0284.950421</DOCID>
+<TDTID>TDT012856</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/21/95 17:27</DATE>
+<TITLE> Canada sees no trawlers, dispute seems defused</TITLE>
+<HEADLINE> Canada sees no trawlers, dispute seems defused</HEADLINE>
+<SUBJECT> BC-FISH-CANADA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OTTAWA (Reuter) </DATELINE>
+<P>  Two trawlers linked to Spain and Portugal appear to have left disputed fishing grounds off the coast of Newfoundland after stern words from Canada, fisheries spokeswoman Bonnie Mewdell said Friday. </P>
+<P> Canada Fisheries Minister Brian Tobin, while still celebrating an agreement with the European Union (EU) to limit Spanish and Portuguese catches, had announced Monday that two Belize-flagged trawlers were operating in the disputed waters. </P>
+<P> Noting that a request had been sent to the Belizean government asking to have the vessels withdrawn, he warned that Canada would not stand by and watch overfishing. </P>
+<P> It is a huge area in international waters off Canada, and it has been often foggy. The Canadians have not managed to spot them since then. </P>
+<P> ``It's clear they're not where they were before, and it's clear they're not in the main fishing areas,'' Mewdell told Reuters. ``It looks like they're no longer there, but we can't be 100 percent sure.'' </P>
+<P> According to Canadian officials, one vessel was owned and crewed by Spaniards, the other by Portuguese. Spain and Portugal had been at the heart of the dispute with the EU. </P>
+<P> Tobin had insisted that Canada would not allow rules setting quotas and other conservation measures on fishing for turbot, also called Greenland halibut, to be evaded through the use of flags of convenience. </P>
+</TEXT>
+</DOC>

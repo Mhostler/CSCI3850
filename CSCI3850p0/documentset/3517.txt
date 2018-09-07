@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0231.941231</DOCID>
+<TDTID>TDT008721</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 19:37</DATE>
+<TITLE> U.N. chief says truce important first step</TITLE>
+<HEADLINE> U.N. chief says truce important first step</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-TRUCE-UN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  The United Nations Secretary-General expressed pleasure Saturday with the four-month cease-fire accord for Bosnia which goes into effect Sunday. </P>
+<P> The cessation of hostilities agreement signed Saturday supplants a simple cease-fire that was agreed between Bosnia's Muslim-led government and Serb leaders Dec. 23. </P>
+<P> ``The secretary-general considers this agreement an important first step toward the achievement of a real peace in Bosnia-Herzegovina and hopes that it will clear the way for the parties to return to the negotiating table in the near future,'' said a statement from U.N. chief Boutros Boutros-Ghali's spokesman. </P>
+<P> ``This achievement is a wonderful New Year's gift for the inhabitants of this war-torn country,'' the statement said. </P>
+<P> ``The secretary-general congratulates his special representative in the former Yugoslavia, Yasushi Akashi, and the commander of the Bosnia-Herzegovina command, Lt. Gen. Sir Michael Rose, and the entire UNPROFOR team, for successfully brokering this agreement between tbhe parties and hopes that 1995 will be a year of peace and reconciliation,'' it said. </P>
+</TEXT>
+</DOC>

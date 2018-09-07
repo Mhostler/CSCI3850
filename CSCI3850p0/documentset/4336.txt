@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0217.950214</DOCID>
+<TDTID>TDT010438</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/14/95 10:38</DATE>
+<TITLE> Russia says Iran reactor deal poses no threat</TITLE>
+<HEADLINE> Russia says Iran reactor deal poses no threat</HEADLINE>
+<SUBJECT> BC-NUCLEAR-RUSSIA-IRAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Russia Tuesday defended its decision to sell nuclear reactors to Iran despite U.S. protests, and said the deal posed no military threat. </P>
+<P> Secretary of State Warren Christopher said Monday Washington was ``deeply concerned'' about Russia's plans to provide the reactors, fearing Iran will use them in a crash program to develop nuclear weapons. </P>
+<P> But Russian Foreign Ministry spokesman Grigory Karasin told a briefing: ``We are convinced it will not pose any threat of creating military potential.'' </P>
+<P> The reactors would be open to supervision by the International Atomic Energy Agency, he added, and Iran was a signatory of the Nuclear Non-Proliferation Treaty. </P>
+<P> ``We do not believe there is any reason for concern,'' the spokesman said. </P>
+</TEXT>
+</DOC>

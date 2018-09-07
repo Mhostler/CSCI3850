@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0288.950105</DOCID>
+<TDTID>TDT008927</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/05/95 17:07</DATE>
+<TITLE> Israel aircraft report may be serious - Perry</TITLE>
+<HEADLINE> Israel aircraft report may be serious - Perry</HEADLINE>
+<SUBJECT> BC-ISRAEL-USA-AIRCRAFT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Defense Secretary William Perry suggested Thursday that the United States would deliver a strong protest to Israel if it determines that Israel is using U.S. technology to help China develop a new warplane. </P>
+<P> ``I cannot confirm the accuracy of the report,'' Perry said. ''We are looking into it. And if it turns out to be accurate, we will have some difficult words with the Israeli government.'' </P>
+<P> Responding to questions on the matter after a speech at the National Press Club, Perry refused to go further except to say that ``we would consider that a serious problem.'' </P>
+<P> The State Department said Wednesday the United States was investigating reports that Israel was using American technology to help China develop a new warplane. </P>
+<P> ``I think that's more than accurate,'' department spokesman Mike McCurry said when asked if Washington was looking into last week's report by the Los Angeles Times. </P>
+<P> The Times said Israel was helping China build an advanced combat aircraft using technology supplied by the United States for the Lavi, a fighter project scrapped seven years ago. It said production was likely to start soon. </P>
+<P> McCurry said similar reports had been circulating for some time, but Washington had so far not been able to establish that any illegal transfer of technology had taken place. </P>
+<P> Under the U.S. Arms Export Control Act, countries that receive U.S. weapons technology may not transfer it to a third country without authorization. If they do, Washington may apply economic sanctions. </P>
+</TEXT>
+</DOC>

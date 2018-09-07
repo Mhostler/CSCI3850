@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU016-0132.950329</DOCID>
+<TDTID>TDT011892</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/29/95 21:27</DATE>
+<TITLE> House rejects term limits constitutional amendment</TITLE>
+<HEADLINE> House rejects term limits constitutional amendment</HEADLINE>
+<SUBJECT> BC-CONGRESS-LIMITS-VOTE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The House Wednesday night rejected a proposed contitutional amendment to limit terms of U.S. representatives and senators to 12 years. </P>
+</TEXT>
+</DOC>

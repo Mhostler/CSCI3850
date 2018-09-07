@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0192.941002</DOCID>
+<TDTID>TDT004333</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/02/94 07:09</DATE>
+<TITLE> Serbs halt U.N. convoys in wake of agreement</TITLE>
+<HEADLINE> Serbs halt U.N. convoys in wake of agreement</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-CONVOYS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO (Reuter) </DATELINE>
+<P>  Bosnian Serbs halted the first four U.N. convoys that tried to move through their territory Sunday despite an agreement the previous day ensuring their safe passage after a 10-day blockade, U.N. officials said. </P>
+<P> ``We had applied for nine convoys and received permission for seven and the first four have been halted at Bosnian Serb checkpoints,'' Claire Grimes, a U.N. spokesperson in Sarajevo told Reuters Sunday. </P>
+<P> ``Two of the convoys are stopped in Srebrenica and two at Sierra One (a Bosnian Serb checkpoint) outside Sarajevo. The feeling is it's Sunday morning and the orders haven't gone down the line yet, so we're going to give it some more time.'' </P>
+<P> Grimes said the other three convoys with permission to travel were not scheduled to be on the road until Sunday afternoon. </P>
+<P> Rebel Serb authorities announced on Saturday they had reached agreement with U.N. officials to permit freedom of movement of U.N. convoys through Serb-held territory in Bosnia. </P>
+<P> All convoy movements had been halted on September 22 after the U.N. called in a NATO air strike against a rebel Serb tank outside Sarajevo. </P>
+</TEXT>
+</DOC>

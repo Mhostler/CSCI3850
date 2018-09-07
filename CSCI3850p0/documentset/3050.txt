@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0384.941207</DOCID>
+<TDTID>TDT007562</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/07/94 14:28</DATE>
+<TITLE> Michigan Senate approves ban on assisted suicide</TITLE>
+<HEADLINE> Michigan Senate approves ban on assisted suicide</HEADLINE>
+<SUBJECT> BC-SUICIDE -2 DETROIT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> An earlier ban expired last month when a state commission on death and dying failed to reach a consensus on the controversial topic. </P>
+<P> The Michigan Supreme Court is currently reviewing the old law which critics claimed was unconstitutional. </P>
+<P> Kevorkian has helped a total of 21 people commit suicide since 1990. He currently faces two murder charges stemming from assisted suicides in 1991. </P>
+<P> Earlier this year, Kevorkian was acquitted of violating the temporary suicide ban even though he admitted helping a 30-year-old man commit suicide. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU003-0311.950306</DOCID>
+<TDTID>TDT011041</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/06/95 16:43</DATE>
+<TITLE> Clinton attacks Republican product liability bill</TITLE>
+<HEADLINE> Clinton attacks Republican product liability bill</HEADLINE>
+<SUBJECT> BC-LIABILITY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House said Monday a Republican bill that would limit awards in product liability lawsuits was unfair and unjustified and would hurt average Americans. </P>
+<P> The bill is scheduled for action in the House of Representatives this week as part of the Republicans' ``Contract with America''. </P>
+<P> ``Several of the provisions concerning product liability are unfair and unjustified,'' Attorney General Janet Reno and White House Counsel Abner Mikva said in a joint letter to House Speaker Newt Gingrich, R-Ga. </P>
+<P> The bill would limit punitive damages in product liability lawsuits to three times the amount of the actual losses or $250,000, whichever is greater. </P>
+<P> ``Punitive damages are and should be imposed based on the facts and circumstances of the particular claim,'' Reno and Mikva said. </P>
+<P> They said a provision to establish different treatment for economic and non-economic losses would severely prejudice elderly citizens, women who suffer the loss of their reproductive abilities and other plaintiffs who seek damages for pain and suffering. </P>
+<P> Gingrich said the bill was needed to ease legal burdens on businesses. </P>
+<P> ``This is the most litigious society on the planet. We graduate more lawyers than engineers. </P>
+<P> ``Every business I know and every small business I know lives in fear of the lawsuit that will be filed out of hopes you'll settle out of court because it's too difficult to go to court. This is an effort to balance the odds ... let's make it more expensive and difficult to harass people legally,'' Gingrich said at a news conference.'' </P>
+<P> White House spokesman Mike McCurry said Clinton believed the states, rather than the federal government, should deal with product liability law. </P>
+<P> ``In short, the president believes that we can achieve reforms that will reduce frivolous litigation and improve the efficiency of our legal system, but the bill now pending in the House of Representatives falls short on that mark,'' McCurry said at his daily news briefing. </P>
+<P> The product liability bill and a companion measure to discourage frivolous lawsuits are strongly supported by business groups but opposed by legal organizations. </P>
+</TEXT>
+</DOC>

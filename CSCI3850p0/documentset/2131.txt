@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0032.941020</DOCID>
+<TDTID>TDT005337</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/20/94 09:00</DATE>
+<TITLE> GM reports $552 million profit for third quarter</TITLE>
+<HEADLINE> GM reports $552 million profit for third quarter</HEADLINE>
+<SUBJECT> BC-GM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: also moved to financial news desks)</NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  General Motors Corp., benefiting from a stronger vehicle market, reported Thursday a profit of $552 million for the third quarter, although its North American automotive operation continued to lose money. </P>
+<P> The world's largest automaker said the profit, which followed a $113 million loss in the year-ago period, came on strong revenues of $34.5 billion, up from $30.1 billion. </P>
+<P> GM's North American car business, which recorded $328 million in red ink for the period, trimmed its deficit from the $1.1 billion it lost in the 1993 quarter. </P>
+<P> The automaker's international vehicle business was less profitable than last year, with earnings of $240 million, compared to $403 million. </P>
+</TEXT>
+</DOC>

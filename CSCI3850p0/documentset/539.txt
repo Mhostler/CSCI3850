@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU001-0216.940802</DOCID>
+<TDTID>TDT001342</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/02/94 03:50</DATE>
+<TITLE> LEBANESE GUERRILLAS ATTACK ISRAELIS, ONE DEAD</TITLE>
+<HEADLINE> LEBANESE GUERRILLAS ATTACK ISRAELIS, ONE DEAD</HEADLINE>
+<SUBJECT> BC-MIDEAST-LEBANON-SOUTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MARJAYOUN, Lebanon (Reuter) </DATELINE>
+<P>  A Lebanese guerrilla was killed Tuesday when resistance fighters attacked three fortified posts in occupied south Lebanon manned by Israeli troops and their militia allies, security sources said. </P>
+<P> In another attack, guerrillas fired rockets at an Israeli-manned crossing point into Israel's south Lebanon occupation zone but there were no reports of casualties. </P>
+<P> Despite the flareup there was no sign of a major Israeli attack feared by Lebanon since Israeli and U.S. officials blamed the pro-Iranian Hizbollah (Party of God) for bombing Jewish and Israeli targets in Buenos Aires and London. </P>
+<P> The sources said the guerrilla died attacking a post manned by Israeli troops and South Lebanon Army militiamen at Braachit, a village in Israel's occupation zone a few miles north of the Israeli border, the sources said. </P>
+<P> They said the Israelis and SLA forces responded by pounding nearby areas with machinegun and artillery fire. </P>
+<P> Lebanon's mainstream pro-Syrian Shi'ite Muslim group Amal (Hope) issued a statement claiming responsibility for attacks on SLA positions at Saidon and Kfar Falous villages. </P>
+<P> There were no reports of casualties. </P>
+<P> The Israelis and SLA responded by pounding the Iklim al-Toufah (Apple Hills) to the north with artillery fire, the sources said. </P>
+<P> The hills are used by the radical pro-Iranian Shi'ite Hizbollah -- the most active resistance group in south Lebanon. </P>
+</TEXT>
+</DOC>

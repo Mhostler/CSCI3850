@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0462.950324</DOCID>
+<TDTID>TDT011651</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/24/95 09:09</DATE>
+<TITLE> Suspected militants kill three Egyptian policemen</TITLE>
+<HEADLINE> Suspected militants kill three Egyptian policemen</HEADLINE>
+<SUBJECT> BC-EGYPT-MILITANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ASSIUT, Egypt (Reuter) </DATELINE>
+<P>  Gunmen thought to be Moslem militants killed three policemen on guard outside a resthouse for state security police officers in southern Egypt, security sources said Friday. </P>
+<P> The gunmen shot and wounded them Thursday evening in the town of Beni Mazar, in the Nile Valley 105 miles south of Cairo, and the policemen died later in hospital. </P>
+<P> The gunmen fled in a pickup truck. </P>
+<P> Beni Mazar is in the province of Minya, the center this year of the conflict between the police and the militant Gama'a al-Islamiya (Islamic Group), which wants to overthrow the government and set up a strict Islamic state. </P>
+<P> Some 670 people have been killed in political violence in Egypt since the Gama'a started fighting in 1992. </P>
+</TEXT>
+</DOC>

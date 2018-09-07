@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU011-0273.940824</DOCID>
+<TDTID>TDT002393</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/24/94 15:13</DATE>
+<TITLE> U.S. CAUSED 1965 REACTOR ``ACCIDENT,'' RECORDS SHOW</TITLE>
+<HEADLINE> U.S. CAUSED 1965 REACTOR ``ACCIDENT,'' RECORDS SHOW</HEADLINE>
+<SUBJECT> BC-USA-RADIATION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Atomic Energy Commission purposely caused a nuclear reactor ``accident'' that produced a low-intensity radioactive cloud over Los Angeles in 1965, according to government documents made public Wednesday by a member of Congress. </P>
+<P> Representative Edward Markey, a Massachusetts Democrat, said the now defunct commission caused a reactor accident that ''vaporized a significant portion of the nuclear core'' as part of its test program in Nevada for a nuclear-powered rocket. </P>
+<P> Documents showed the intensity of radioactivity that passed over Los Angeles and into the Pacific Ocean was low -- well below levels considered acceptable for annual exposure from commercial atomic power operations. </P>
+<P> But Markey, who for years has prodded the government to disclose the secrets of it nuclear experiments, said in a letter to Energy Secretary Hazel O'Leary: ``An intentional reactor accident releasing a radioactive cloud should not be considered prudent public policy.'' </P>
+<P> Markey said a presidential committee studying the government's Cold War-era human radiation experiments should view this incident as a radiation test on humans. </P>
+<P> The panel is weighing whether and how subjects of once-secret government radiation experiments should be compensated, and the Energy Department has been making volumes of formerly classified documents available to the panel. </P>
+<P> Markey said the 1965 ``radioactive cloud extended over a longer distance and exposed considerably more people than some operations already being considered as human experiments.'' </P>
+<P> He also said the panel should consider a case raised by government documents in which B-57 military planes were sent through the radioactive exhaust from a nuclear rocket being tested in 1960, and doses to aircrews were measured. </P>
+<P> The Atomic Energy Agency halted the nuclear rocket program in 1972. </P>
+</TEXT>
+</DOC>

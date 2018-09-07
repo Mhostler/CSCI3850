@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU004-0029.950109</DOCID>
+<TDTID>TDT009081</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/09/95 19:24</DATE>
+<TITLE> Cloud reported over Bush's 'Points of Light' group</TITLE>
+<HEADLINE> Cloud reported over Bush's 'Points of Light' group</HEADLINE>
+<SUBJECT> BC-CHARITY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  A charity launched by President Bush in 1990 spent more than $22 million on salaries and glitzy promotions, while giving only about $4 million for volunteer work, the Los Angeles Times reported Monday. </P>
+<P> The newspaper said that after an examination of the financial records of the Points of Light Foundation, the charity had the look of ``a wasteful, Washington-dependent operation.'' </P>
+<P> The foundation, the Times said, had received $26.6 million in federal funds -- more than half its budget -- while incurring a wide range of costs that amount to questionable spending, according to experts on volunteerism. </P>
+<P> The Times said its examination of the foundation's financial records showed that $22.3 million had been spent on glitzy promotions, salaries, travel and conferences. </P>
+<P> The expenses included $5.5 million to produce a television advertising campaign and $1.4 million to host a celebration of community service. </P>
+<P> By contrast, the Times said, only 11 percent of the foundation's budget had been spent to provide grants for volunteer efforts across the country. </P>
+<P> The foundation's annual payroll amounts to $4.1 million a year, of which the foundation president, Richard Schubert, who was formerly head of the American Red Cross, receives $160,000, and 12 other senior employees each get more than $80,000, the Times said. </P>
+<P> Bush, in an interview with the Times, defended and praised the foundation, saying its staff and directors ``deserve a lot of credit for the good work they have done throughout the last few years. </P>
+<P> ``As many of our nation's problems persist, I am grateful that the Points of Light Foundation is finding more and better ways for Americans who want to serve their communities to do so.'' </P>
+<P> Bush used his ``1,000 points of light'' theme in his inaugural campaign and built on it during his presidency. </P>
+</TEXT>
+</DOC>

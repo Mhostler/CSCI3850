@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0399.950413</DOCID>
+<TDTID>TDT012541</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/13/95 22:45</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-JAPAN-RATE -2 TOKYO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> BOJ Governor Yasuo Matsushita said in a statement that the central bank had judged it was necessary to give the maximum support to economic activity from monetary policy. </P>
+<P> On Friday morning the government approved emergency economic steps to cope with the yen's more than 17 percent rise against the dollar this year -- a surge which has threatened Japan's economic recovery and battered its feeble stock market. </P>
+<P> Financial market players had said they were disappointed with the contents of the package, in which the government pledged to try to cut Japan's huge current account surplus, boost imports, stimulate the economy and revitalise financial markets. </P>
+<P> The package failed, however, to set a target for cutting the surplus -- one step market participants said might have convinced them Tokyo was serious about tackling the root causes of the yen's rise. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU010-0389.950418</DOCID>
+<TDTID>TDT012667</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/18/95 10:44</DATE>
+<TITLE> Cuba testing AIDS vaccine ``candidate'' on chimps</TITLE>
+<HEADLINE> Cuba testing AIDS vaccine ``candidate'' on chimps</HEADLINE>
+<SUBJECT> BC-AIDS-CUBA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA, (Reuter) </DATELINE>
+<P>  Cuban scientists are testing on chimpanzees what they call a candidate for a vaccine against AIDS and will soon give details of their findings, an official newspaper said Tuesday. </P>
+<P> The ruling Communist Party newspaper Granma quoted an AIDS specialist, Jorge Perez Avila, as saying the vaccine was considered a ``candidate'' because the ``road is still long.'' It said details of the tests would be given at a conference Cuba is holding next month on various aspects of the disease. </P>
+<P> The Caribbean island has kept its own rate of AIDS relatively low through isolation and testing. Granma said Cuba had so far recorded 1,122 cases of people with the HIV virus that leads to AIDS, of whom 229 had died. </P>
+</TEXT>
+</DOC>

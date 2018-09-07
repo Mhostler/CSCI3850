@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU017-0021.950524</DOCID>
+<TDTID>TDT014188</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/24/95 19:18</DATE>
+<TITLE> Calif. Gov. Wilson denied exemption to contribution rule</TITLE>
+<HEADLINE> Calif. Gov. Wilson denied exemption to contribution rule</HEADLINE>
+<SUBJECT> BC-CONTRIBUTIONS </SUBJECT>
+<AUTHOR>     By Vicky Stamas </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The body that regulates the municipal bond market has denied California Gov. Pete Wilson's request for an exemption to the rule that severely limits political campaign contributions by securities firms, industry sources said Wednesday. </P>
+<P> The sources said the Municipal Securities Rulemaking Board voted last week to reject Wilson's request for an exemption from Rule G-37, which limits contributions to an ``official of an issuer'' of municipal bonds. </P>
+<P> Wilson is expected to announce his bid for the Republican presidential nomination soon. </P>
+<P> The sources also said that the board decided that the limits do not apply to President Clinton -- an issue which Wilson had asked it to rule on in his request for an exemption. </P>
+<P> The board, which is expected to announce its decision on Wilson's request Friday, adopted Rule G-37 in April 1994 to clamp down on securities firms giving contributions or gifts to politicians to win municipal bond business. </P>
+<P> Board Chairman Robert Drysdale said he had no comment on the board's response to Wilson and warned that draft language circulating among board members could change. </P>
+<P> ``People can take an educated guess, but I haven't approved a final letter,'' he said. ``There were some differences of opinion. There are a couple of board members who want to make changes.'' </P>
+<P> Drysdale said, however, that the basic framework of what the regulatory board decided at its two-day quarterly meeting last week had not changed. </P>
+<P> Benjamin Ginsberg, general counsel for the Wilson for President campaign, said in a telephone interview that the decision will throw a ``roadblock'' in the way of many individuals who would like to help Wilson's campaign. </P>
+<P> He said he did not expect Wilson to challenge the board's decision, however. </P>
+<P> Wilson's May 5 request had asked whether the governor of California would be considered an ``official of an issuer'' under rule G-37 and whether the rule applies to candidates for the presidency. </P>
+<P> The request asked whether Clinton and all presidential candidates would be covered because of a new law that requires the president to appoint members of a financial control board for the technically bankrupt District of Columbia. </P>
+<P> The 15-member panel is expected to formally decide that the rule applies to presidential candidates only if they are, like Wilson, an official of an issuer of municipal bonds. </P>
+<P> The board is expected to rule that G-37 does not apply to Clinton because he is not a member of the District of Columbia government, the sources said. </P>
+<P> Rule G-37 permits dealers, even if they are covered by the rule, to make contributions up to $250 to a candidate for which they are ``entitled to vote.'' </P>
+<P> The board is expected to say that dealers can give up to $250 to Wilson in any state where he is on the ballot as a presidential candidate. </P>
+</TEXT>
+</DOC>

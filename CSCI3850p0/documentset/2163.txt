@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0370.941021</DOCID>
+<TDTID>TDT005420</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/21/94 17:54</DATE>
+<TITLE> U.N. urges respect for outcome of Mozambique vote</TITLE>
+<HEADLINE> U.N. urges respect for outcome of Mozambique vote</HEADLINE>
+<SUBJECT> BC-MOZAMBIQUE-UN </SUBJECT>
+<AUTHOR>     By Anthony Goodman </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  The Security Council Friday called on all sides in Mozambique elections next week to abide by the outcome and ensure voting is conducted in a responsible manner. </P>
+<P> ``The Security Council believes that the necessary conditions have now been established for the holding of free and fair elections on Oct. 27 and 28 under effective national and international monitoring,'' a statement read out at a brief council meeting said. </P>
+<P> The main contenders in the elections, for the presidency and a 250-seat parliament, are President Joaquim Chissano and his ruling Frelimo party and former Renamo leader Afonso Dhlakama. </P>
+<P> The voting culminates a 1992 agreement which ended 16 years of civil war and is being implemented with the help of a 5,600-strong U.N. force. </P>
+<P> ``The Security Council appeals to all concerned to ensure that the election campaign and the subsequent voting are conducted in a calm and responsible manner, that the elections are held freely and fairly...and that the election days and their aftermath are characterized by the absence of violence or the threat of violence.'' </P>
+<P> The council reiterated its intention to endorse the results, should the United Nations declare the elections free and fair, and reminded the parties of ``their obligation, under the General Peace Agreement, fully to abide by the results.'' </P>
+</TEXT>
+</DOC>

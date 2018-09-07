@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU017-0050.950427</DOCID>
+<TDTID>TDT013135</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/27/95 06:00</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BANK-LEESON-EXTRADITION -2 SINGAPORE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> The German Foreign Ministry said Singapore officials on Wednesday handed over a formal extradition request for Leeson, blamed with being at the centre of the collapse of the venerable British Barings bank. </P>
+<P> The decision to hand over the request on Wednesday came ahead of a deadline set for next Tuesday -- exactly two months after the 28-year-old Briton was detained at Frankfurt airport following his arrival on a flight from Brunei. </P>
+<P> Leeson, former manager of Baring Futures in Singapore, has been blamed with losing more than $1 billion in risky Japanse stock futures deals at the 233-year-old bank, which has since been bought by ING of the Netherlands. </P>
+<P> German authorities have said they expect a lengthy court battle as Leeson seeks to block the request on human rights grounds. </P>
+</TEXT>
+</DOC>

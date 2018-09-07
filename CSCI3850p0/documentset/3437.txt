@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU011-0302.941226</DOCID>
+<TDTID>TDT008470</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/26/94 09:42</DATE>
+<TITLE> Two people leave hijacked Algerian plane - witness</TITLE>
+<HEADLINE> Two people leave hijacked Algerian plane - witness</HEADLINE>
+<SUBJECT> BC-ALGERIA-AIRLINER-RELEASE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MARSEILLE, France (Reuter) </DATELINE>
+<P>  Two people left an Air France aircraft hijacked by Islamic fundamentalists in Algiers and now standing at Marseille airport, Reuter witnesses said Monday. </P>
+</TEXT>
+</DOC>

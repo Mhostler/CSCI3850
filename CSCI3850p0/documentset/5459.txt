@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0090.950404</DOCID>
+<TDTID>TDT012117</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 18:53</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-SALVADOR-UN -2 UNITED NATIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``He was informed by El Salvador government officials that they had uncovered a plot to blow him up and his party,'' said U.N. spokesman Juan-Carlos Brandt who was on the secretary-general's weekend trip to Haiti, Honduras, El Salvador and Guatemala. </P>
+<P> ``There was going to be a vehicle or vehicles with explosives along the route and that is why the route was changed and he went by helicopter,'' he added. Brandt said he had no idea who was plotting against the the U.N. chief in El Salvador where the United Nations successfully negotiated the end of the country's civil war three years ago. </P>
+<P> In Guatemala late on Sunday, a small bomb exploded two blocks from the president palace during a dinner honoring the U.N. chief, killing a man and underscoring tension gripping the country. </P>
+<P> No suspects were revealed but most analysts believed it was connected to army and business complaints about the government's allowing U.N. human rights monitors into the country and negotiating a pact to end discrimination against the Mayan Indian majority. </P>
+</TEXT>
+</DOC>

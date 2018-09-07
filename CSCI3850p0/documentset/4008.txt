@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0405.950127</DOCID>
+<TDTID>TDT009847</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/27/95 18:28</DATE>
+<TITLE> Venezuela reinforces border after guerrilla attack</TITLE>
+<HEADLINE> Venezuela reinforces border after guerrilla attack</HEADLINE>
+<SUBJECT> BC-VENEZUELA-GUERRILLAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CARACAS, Venezuela (Reuter) </DATELINE>
+<P>  Venezuela said Friday it was boosting military forces at its western border after Colombian guerrillas killed an oil worker in a failed kidnap attempt. </P>
+<P> Defense Minister Gen. Moises Orozco Graterol said an additional 1,500 soldiers were being sent to the border state of Apure to protect oil installations and pursue guerrillas believed to be in Venezuelan territory. </P>
+<P> A small group of Colombian rebels from the left-wing National Liberation Army (ELN) captured three oil workers from Venezuela's state-run company Corpoven in Apure on Thursday. </P>
+<P> A Venezuelan helicopter intercepted the guerrillas trying to take the three men across the border, Orozco said. </P>
+<P> The rebels fled after shooting one of the oil workers and abandoning the other two. </P>
+<P> ``We are prepared to use all the armed forces to avoid this type of action,'' Orozco said. </P>
+<P> ``We cannot rule out that the guerrillas' intention is to attack Venezuelan oil installations on the border, because they have done the same in Colombia.'' </P>
+</TEXT>
+</DOC>

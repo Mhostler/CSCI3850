@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU017-0392.950428</DOCID>
+<TDTID>TDT013189</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/28/95 07:52</DATE>
+<TITLE> Japan invites South Africa's Mandela for visit</TITLE>
+<HEADLINE> Japan invites South Africa's Mandela for visit</HEADLINE>
+<SUBJECT> BC-SAFRICA-JAPAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG, South Africa (Reuter) </DATELINE>
+<P>  Japan has invited South Africa's President Nelson Mandela to pay a state visit to Tokyo in early July, a top Japanese government official said. </P>
+<P> Hakuo Yanagisawa, parliamentary vice-minister for foreign affairs, said he had handed a letter from Prime Minister Tomiichi Murayama to Mandela during South African Freedom Day celebrations Thursday. </P>
+<P> Yanagisawa told a news briefing Thursday night the date for Mandela's visit had still to be set, but the invitation was for early July. The Japanese official left for Zimbabwe on Friday. </P>
+<P> Mandela visited Japan as head of the African National Congress before his inauguration as South Africa's first black president in May last year. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU013-0275.941028</DOCID>
+<TDTID>TDT005723</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/28/94 17:16</DATE>
+<TITLE> Tough gun control laws to be presented in Canada</TITLE>
+<HEADLINE> Tough gun control laws to be presented in Canada</HEADLINE>
+<SUBJECT> BC-CANADA-GUNS </SUBJECT>
+<AUTHOR>     By Deborah Charles </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MONTREAL (Reuter) </DATELINE>
+<P>  Canada's Justice Minister vowed Friday to crack down on gun control and to present tough legislation before the end of the year for new laws that would include requiring all firearms to be registered. </P>
+<P> Justice Minister Allan Rock told reporters after meeting with gun owners and gun-control lobbyists in Montreal that he hopes to present proposals to Parliament in Ottawa before Christmas. </P>
+<P> ``I think that the legislation coming up is going to be tough in the sense that its going to take a comprehensive approach to firearms in Canadian life,'' Rock said. ``I hope it's going to make a real difference in making it a safer country.'' </P>
+<P> One of the more hotly-debated proposals that Rock will set forth calls for all firearms to be nationally registered. This is, in part, to help police in criminal investigations. </P>
+<P> ``At the moment, those firearms that must be registered are those called 'restricted weapons' and they for the most part are handguns,'' Rock said. ``The proposal under consideration would extend that requirement to all firearms including what are called 'long guns' or rifles and shotguns.'' </P>
+<P> Rock also said he is hoping to implement a law that will toughen border control and crack down on illegal firearms entering Canada. </P>
+<P> He also plans to change the criminal justice system to increase minimum penalties for crimes committed using a firearm, and expand firearm prohibition orders for violent offenders.  The final initiative would call for strict requirements on firearm storage. </P>
+<P> Rock, who has spent the last few months traveling across the country to meet with gun owners and anti-gun lobbyists, said discussions with the groups has helped him understand the problem and better formulate proposed legislation. </P>
+<P> Canadian gun owners, aggravated over already-stringent controls, held boisterous rallies across the country over the summer to try to shoot down plans for the gun registration system. </P>
+<P> The Liberal government in Ottawa has vowed to crack down on guns as part of its crime prevention strategy. </P>
+<P> According to an Angus Reid poll of September 1993, 86 percent of Canadians and 68 percent of gun owners support mandatory registration for all shotguns and rifles. </P>
+<P> The Justice Ministry said over the last ten years about 32 percent of homicides were committed with a firearm. </P>
+</TEXT>
+</DOC>

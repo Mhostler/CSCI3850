@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0150.940812</DOCID>
+<TDTID>TDT001791</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/12/94 06:16</DATE>
+<TITLE> BID TO UNSEAT SHEVARDNADZE FAILS IN GEORGIA</TITLE>
+<HEADLINE> BID TO UNSEAT SHEVARDNADZE FAILS IN GEORGIA</HEADLINE>
+<SUBJECT> BC-CIS-GEORGIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TBILISI, Georgia (Reuter) </DATELINE>
+<P>  An opposition bid to cut the powers or unseat Georgian leader Eduard Shevardnadze foundered Friday when the Caucasus republic's parliament failed to achieve a quorum. </P>
+<P> Fewer than half the 220 deputies were present for the emergency session, the last before the legislature adjourned for its summer recess until September. </P>
+<P> One opposition group had been drafting a motion to cut back the head of state's powers significantly. </P>
+<P> Another, more radical, motion would have abolished the post of head of state altogether, leaving the parliamentary speaker as the formal leader of this nation of 5.4 million people. </P>
+<P> Shevardnadze, 66, returned from Moscow in 1992 to take the helm after a ruinous power struggle had wrecked central Tbilisi. He has survived the near-secession of the Black Sea province of Abkhazia, economic collapse and an epidemic of banditry. </P>
+</TEXT>
+</DOC>

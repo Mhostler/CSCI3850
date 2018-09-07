@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU001-0063.950101</DOCID>
+<TDTID>TDT008746</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/01/95 15:18</DATE>
+<TITLE> Mexico police seized 11 tons cocaine in 1994</TITLE>
+<HEADLINE> Mexico police seized 11 tons cocaine in 1994</HEADLINE>
+<SUBJECT> BC-DRUGS-MEXICO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Mexican police seized more than 11 tons of cocaine, 365 tons of marijuana and 653 pounds of heroin in 1994, the attorney general's office said in a statement Sunday. </P>
+<P> Mexico is a major trans-shipment point for drug smugglers sending cocaine and other illegal drugs to the United States. Around 60-70 percent of the cocaine consumed in the United States is estimated to pass through Mexico. </P>
+<P> The attorney general's office gave no comparative figures for 1993. </P>
+</TEXT>
+</DOC>

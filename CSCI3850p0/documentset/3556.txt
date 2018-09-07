@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0293.950103</DOCID>
+<TDTID>TDT008812</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/03/95 12:04</DATE>
+<TITLE> Venezuelan army seizes cocaine</TITLE>
+<HEADLINE> Venezuelan army seizes cocaine</HEADLINE>
+<SUBJECT> BC-DRUGS-VENEZUELA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CARACAS (Reuter) </DATELINE>
+<P>  The Venezuelan army Tuesday seized 247 pounds of cocaine hidden inside suitcases bound for Miami from Maiquetia International Airport outside Caracas. </P>
+<P> Army commander Euclides Rojas told reporters the cocaine was found in gift-wrapped packets smeared with mustard to distract sniffer dogs at customs. </P>
+<P> Three employees of the local airline Viasa, which was storing the suitcases, were being held for questioning. </P>
+<P> It was not known where the drugs came from. </P>
+<P> Venezuela is an important transit point for traffickers sending drugs from Colombia and other South American nations to international markets. </P>
+</TEXT>
+</DOC>

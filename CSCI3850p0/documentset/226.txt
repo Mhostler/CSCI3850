@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU007-0315.940714</DOCID>
+<TDTID>TDT000543</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/14/94 10:52</DATE>
+<TITLE> ARAFAT OPENS U.S.-FINANCED HOUSING COMPLEX IN GAZA</TITLE>
+<HEADLINE> ARAFAT OPENS U.S.-FINANCED HOUSING COMPLEX IN GAZA</HEADLINE>
+<SUBJECT> BC-MIDEAST-USA-ARAFAT (PICTURE) </SUBJECT>
+<AUTHOR>     By Wafa Amr </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GAZA (Reuter) </DATELINE>
+<P>  PLO Chairman Yasser Arafat opened a 192-unit apartment complex in Palestinian-ruled Gaza Thursday and thanked President Clinton for the $6.8 million the United States paid for it. </P>
+<P> ``This is proof of President Clinton's support for the Palestinian people,'' Arafat said after cutting the ribbon and unveiling the cornerstone to the project near Gaza City. </P>
+<P> Brian Atwood, administrator of the U.S. Agency for International Development, and U.S. Ambassador to Israel Edward Djerejian attended the 30-minute ceremony. </P>
+<P> ``We are pleased to work with all donors to make this peace process work and to help you, Mr Chairman, and the Palestinian people achieve your aspirations,'' Atwood said afterwards. </P>
+<P> The Palestinian Housing Council, a quasi-governmental body which supervises the project, called it ``the first physical evidence of the donor countries' contribution toward the development of the Palestinian infrastructure and economy.'' </P>
+<P> Since the signing of the Israeli-PLO peace deal in September, countries have pledged $2.4 billion in aid over five years to help the Palestinian Authority rebuild the infrastructure of Gaza and the West Bank. </P>
+<P> The housing project, named al-Karameh Towers (Arabic for ``Dignity''), is the first of several projects which the United States plans to finance. </P>
+<P> Palestinian officials in charge of housing estimate that up to 100,000 apartments must be built to alleviate severe housing shortages in the West Bank and Gaza Strip after 27 years of Israeli occupation. </P>
+<P> Nearly one million Palestinians live in the teeming strip alone. Many live in refugee camp housing consisting of concrete shacks with tin roofs. </P>
+<P> The Palestinian Housing Council has already begun building 1,200 housing units in the Gaza Strip and the West Bank using some $42 million pledged by the European Union before the peace deal was signed. </P>
+<P> Japan has also pledged $10 million to build housing for the Palestinian police force in Gaza and the West Bank town of Jericho, the two enclaves under self-rule since the launching of Palestinian autonomy in May. </P>
+</TEXT>
+</DOC>

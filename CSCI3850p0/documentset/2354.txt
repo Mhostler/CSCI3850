@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0238.941102</DOCID>
+<TDTID>TDT005922</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/02/94 06:09</DATE>
+<TITLE> Danish police seize 190 Harley motorcycles in raid</TITLE>
+<HEADLINE> Danish police seize 190 Harley motorcycles in raid</HEADLINE>
+<SUBJECT> BC-DENMARK-HARLEY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>COPENHAGEN, Denmark (Reuter) </DATELINE>
+<P>  Danish police and U.S. federal agents impounded 190 Harley-Davidson motorcycles believed to have been stolen and arrested two motorbike dealers in a nationwide raid, police said Wednesday. </P>
+<P> Police said they believed most of the classic American Harley-Davidson motorcycles seized all over Denmark Tuesday had been illegally imported with false frame numbers. </P>
+<P> Some $5 million worth of motorcycles were taken after a detailed investigation of police records of the 2,400 Harley-Davidson machines known to be owned by Danes, Copenhagen police robbery section chief Kurt Olsen said. </P>
+<P> The police raids, concentrating on Danish motorcycle gangs, were carried out with the U.S. Federal Bureau of Investigation, which is currently conducting an international search for stolen Harley-Davidson motorcycles. </P>
+<P> ``There are signs that organized criminals are at work, professionally falsifying frame numbers and selling stolen machines on an extensive international scale,'' Olsen said. </P>
+<P> Four Danish Harley-Davidson dealers were detained in the police swoop. Two were released after questioning while the other two were remanded in custody under suspicion of selling stolen goods and fraud. </P>
+</TEXT>
+</DOC>

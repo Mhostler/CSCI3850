@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU001-0037.940801</DOCID>
+<TDTID>TDT001301</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/01/94 06:36</DATE>
+<TITLE> NORTHERN IRELAND BRACED FOR REPRISAL KILLINGS</TITLE>
+<HEADLINE> NORTHERN IRELAND BRACED FOR REPRISAL KILLINGS</HEADLINE>
+<SUBJECT> BC-IRISH-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELFAST, Northern Ireland (Reuter) </DATELINE>
+<P>  Northern Ireland braced itself for a possible round of revenge killings Monday after IRA gunmen killed two top Protestant militants. </P>
+<P> The masked guerrillas, belonging to the outlawed Irish Republican Army, fighting to end British rule in the province, ambushed four men in Belfast Sunday night, killing two of them with automatic gunfire. </P>
+<P> A car they used for the shooting was later found abandoned and police were carrying out a large-scale search Monday. The IRA claimed responsibility for the killings. </P>
+<P> The victims, Joe Bratty, 32, and Ray Elder, 33, were identified as prominent leaders of the outlawed Ulster Freedom Fighters, which is committed to maintaining British rule. </P>
+<P> Elder was accused of the murders of five Catholics shot dead in a bookmaker's shop in 1992, but the charges were dropped due to lack of evidence. </P>
+<P> The attack renewed fears of more violence after the IRA's political wing Sinn Fein effectively rejected an Anglo-Irish peace plan that called for the group to lay down arms. </P>
+<P> Local councilman Dr Alasdair McDonnell, a member of the mainly Catholic Social Democratic and Labor Party, said people in Catholic areas near where the killings took place should consider taking holidays to escape retaliatory attacks. </P>
+<P> ``There will be psychopaths rambling around this city looking for revenge, and if people have caravans by the sea or wherever, then they should go there,'' he said. </P>
+<P> Sinn Fein leaders say they are hopeful a peace agreement can be worked out, but the IRA mortar-bombed a police station in the border town of Newry last week, injuring more than 30 people. </P>
+<P> ``It presents a very hot summer for us all,'' said Peter Robinson, deputy leader of the right-wing Protestant Democratic Unionist Party. </P>
+<P> Sunday's attack brings to 50 the number of people killed in Northern Ireland this year. </P>
+</TEXT>
+</DOC>

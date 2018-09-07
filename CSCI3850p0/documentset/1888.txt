@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0475.941009</DOCID>
+<TDTID>TDT004701</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/09/94 05:41</DATE>
+<TITLE> Painting stolen from Rembrandt's former home</TITLE>
+<HEADLINE> Painting stolen from Rembrandt's former home</HEADLINE>
+<SUBJECT> BC-DUTCH-REMBRANDT 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: clarifies status of stolen painting)</NOTES>
+<DATELINE>AMSTERDAM (Reuter) </DATELINE>
+<P>  A painting attributed to the 17th-century Dutch master Rembrandt was stolen from the artist's former home in Amsterdam early Sunday, police said. </P>
+<P> A police spokesman said the stolen work is a small oil painting on a wooden panel entitled ``Bearded Man,'' thought to have been painted by Rembrandt van Rijn in 1647. </P>
+<P> Because art experts are not certain about the authorship of the painting, it is classified as ``attributed to Rembrandt.'' </P>
+<P> A police spokesman said the thief entered the Rembrandthuis museum by smashing a front window with a heavy hammer, which he left at the scene of the crime. </P>
+<P> In July two paintings by Rembrandt's tutor, Pieter Lastman, were stolen after a break-in at the same museum. </P>
+<P> The Rembrandthuis was the artist's home from 1639 to 1668. It is now a museum exhibiting mainly etchings and sketches and attracts some 150,000 visitors a year. </P>
+</TEXT>
+</DOC>

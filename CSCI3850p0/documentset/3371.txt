@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0139.941222</DOCID>
+<TDTID>TDT008310</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/22/94 05:03</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-ITALY-BERLUSCONI -2 ROME </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P></P>
+<P> ``I have listened to the debate and at this point I believe I can draw the conclusions. I feel I must therefore call an immediate cabinet meeting and then go if necessary to see the head of state.'' </P>
+<P> His brief statement was greeted by applause in the Chamber, where the no-confidence session was then adjourned. </P>
+<P></P>
+<P> ``At 11 o'clock there will be a brief cabinet meeting, Berlusconi will resign and immediately afterwards he will go to the presidential palace.'' Berlusconi must submit his resignation to President Oscar Luigi Scalfaro. </P>
+</TEXT>
+</DOC>

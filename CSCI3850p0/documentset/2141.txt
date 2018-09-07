@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0131.941020</DOCID>
+<TDTID>TDT005358</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/20/94 16:46</DATE>
+<TITLE> Cubans end hunger strike</TITLE>
+<HEADLINE> Cubans end hunger strike</HEADLINE>
+<SUBJECT> BC-CUBA-REFUGEES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  A group of Cuban refugees said Thursday they had ended a two-day hunger strike to protest their detention by the Immigration & Naturalization Service. </P>
+<P> The 40 hunger strikers began to fast Monday to demand the immediate release of 374 Cubans being held at the INS's Krome Detention Center just outside Miami. </P>
+<P> The 374 are among more than 30,000 Cuban refugees in U.S. detention at Guantanamo Bay Naval Base, Cuba, in Panama and in the United States who attempted to reach this country by sea this summer. </P>
+<P> Faced with the flood of tens of thousands of refugees, the United States shifted its immigration policy in August to keep Cuban boat people from entering the United States for the first time in 28 years. Officials also reached an accord early last month with Cuba that ended the refugee tide. </P>
+<P> The Cubans in detention have been in limbo ever since, and Cuban exile organizations in Miami have been working to win their release. The Clinton administration announced on Oct. 14 that 300 to 400 elderly, sick or young Cubans and close relatives would be granted U.S. asylum. </P>
+<P> Spain said Wednesday it had agreed to accept an unspecified number of Cubans from U.S. bases. </P>
+</TEXT>
+</DOC>

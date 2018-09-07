@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU004-0068.950406</DOCID>
+<TDTID>TDT012179</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/06/95 09:49</DATE>
+<TITLE> Clinton will sign self-employed health care bill</TITLE>
+<HEADLINE> Clinton will sign self-employed health care bill</HEADLINE>
+<SUBJECT> BC-CLINTON-HEALTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Thursday said he will sign a controversial bill that restores a tax deduction for health insurance paid by self-employed workers, despite objections to some provisions in the measure. </P>
+</TEXT>
+</DOC>

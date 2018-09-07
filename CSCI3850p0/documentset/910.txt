@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU010-0002.940820</DOCID>
+<TDTID>TDT002235</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/20/94 11:09</DATE>
+<TITLE> MAN SUES OVER RACIAL EPITHET ON CREDIT STATEMENT</TITLE>
+<HEADLINE> MAN SUES OVER RACIAL EPITHET ON CREDIT STATEMENT</HEADLINE>
+<SUBJECT> BC-USA-SLUR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  An Atlanta man is suing a used car dealer and the credit data firm Equifax Credit Information Services Inc because of a racial epithet that appeared on his credit statement. </P>
+<P> The plaintiff, a security guard named George West, says that when he asked for a copy of his credit report in May 1993, he found the word ``nigger'' listed as his former employment. </P>
+<P> West says he has been injured by the epithet and is suing Equifax, car dealer Monster Motors Inc and employees of both companies for $2 million in actual damages and $25 million in punitive damages and legal fees. </P>
+<P> Equifax blamed the incident on the car dealer, accusing Monster Motors of violating its procedures. </P>
+<P> ``Once we found out about the unauthorized entry, we immediately deleted it from the file,'' a company statement was quoted as saying by Saturday's Atlanta Journal-Constitution. </P>
+<P> ``We also conducted a thorough investigation, sent out new copies of his report to the few businesses that may have received a report with the unauthorized entry, apologized to Mr West in person and in writing.'' </P>
+<P> The newspaper said a phone call to Monster Motors went unanswered. </P>
+</TEXT>
+</DOC>

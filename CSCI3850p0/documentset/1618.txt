@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU013-0101.940927</DOCID>
+<TDTID>TDT004035</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/27/94 07:43</DATE>
+<TITLE> Singapore says air quality worst ever</TITLE>
+<HEADLINE> Singapore says air quality worst ever</HEADLINE>
+<SUBJECT> BC-INDONESIA-HAZE 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SINGAPORE (Reuter) </DATELINE>
+<P>  Singapore's air pollution index was the worst on record Tuesday as thick smoke from forest fires raging in Indonesia continued to blanket the island and surrounding areas. </P>
+<P> The pollution standard index (PSI) rose to 142 by Tuesday afternoon from 110 Monday, a spokesman for the environment ministry said. </P>
+<P> ``It's the highest PSI recorded so far,'' he told Reuters. Singapore began using the index in 1991. </P>
+<P> Readings between 101-199 are considered unhealthy but most people can continue normal activities. The spokesman said soot and ash pose the biggest problem. </P>
+<P> Indonesia says the fires may have been started deliberately for political reasons as logging concession-holders, farmers, tribespeople and new migrants to far-flung areas compete for land. </P>
+<P> The haze has covered this tiny island and much of peninsular Malaysia for a month as forest fires blaze on Indonesia's Sumatra and Kalimantan. </P>
+<P> Raging fires, fanned by tinder-dry land and coal and peat deposits, have destroyed vast tracts of forest, oil palm and rubber and have hampered airline flights on Kalimantan, Indonesia's half of Borneo island. </P>
+<P> Forests the size of the Netherlands were destroyed in a major fire on Kalimantan in the early 1980s. </P>
+</TEXT>
+</DOC>

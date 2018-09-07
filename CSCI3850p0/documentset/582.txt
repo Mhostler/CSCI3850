@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU002-0172.940803</DOCID>
+<TDTID>TDT001425</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 17:14</DATE>
+<TITLE> AMTRAK TRAIN DERAILS IN UPSTATE N.Y., 133 INJURED</TITLE>
+<HEADLINE> AMTRAK TRAIN DERAILS IN UPSTATE N.Y., 133 INJURED</HEADLINE>
+<SUBJECT> BC-USA-TRAIN 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Updates with comments from news conference, new figures)</NOTES>
+<DATELINE>BATAVIA, NY (Reuter) </DATELINE>
+<P>  Fourteen cars of a crowded Amtrak train jumped the track as it raced through northern New York state early Wednesday, injuring 133 people but resulting in no deaths, officials said. </P>
+<P> The train, the Lake Shore Limited, was carrying 340 passengers and 20 crew on its way to Chicago. </P>
+<P> Officials said the train was traveling along a heavily used straight section of track at 76 mph at the time of the accident, just below the 79 mph speed limit. </P>
+<P> State Department of Transportation officials said at a news conference that a crew from Conrail, the freight railroad that owns the tracks where the accident took place, saw sparks coming from under the train just before the accident. </P>
+<P> They said this information was relayed to the train crews, who then began an emergency stop. The train then derailed, throwing some of the cars down an embankment in a heavily wooded area at 3:45 a.m. EDT. </P>
+<P> While some of the injuries were serious, most people suffered from cuts and bruises, officials said. </P>
+<P> The two locomotives and remaining two cars of the 16-car train stayed on the tracks. Of the derailed cars, four were on their side. </P>
+<P> Jay Gsell, Genessee county manager, confirmed reports that the axle was broken on the first car of the train, but it was not known if this happened before or after the derailment. </P>
+<P> Passengers said the train began to rock back and forth. </P>
+<P> ``I was five seconds from being dead,'' said Susan Wolf of New York City. </P>
+<P> They said that rescue teams from nearby Batavia were on the scene within 15 minutes of the accident and quickly began evacuating passengers. </P>
+<P> Accident investigators from the National Transportation Safety Board, the Federal Railroad Administration, Amtrak, Conrail and the state Department of Transportation all converged on the scene of the accident. </P>
+<P> An Amtrak spokesman said the derailment was one of the few that was not immediately explainable. </P>
+<P> Most other Amtrak accidents have involved collisions at road crossings. </P>
+<P> One of its worst, in September 1993, was caused when a barge hit a bridge support in Alabama, causing a train to detail into a murky waterway, killing 47 people. </P>
+<P> The Lake Shore Limited service begins separately in New York City and Boston with the two sections meeting up in Albany, New York, for the trip to Chicago through northern New York state, Ohio, Indiana and Illinois. </P>
+</TEXT>
+</DOC>

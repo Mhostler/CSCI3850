@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0347.950322</DOCID>
+<TDTID>TDT011560</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/22/95 13:22</DATE>
+<TITLE> Spanish firm launches Cuban real estate venture</TITLE>
+<HEADLINE> Spanish firm launches Cuban real estate venture</HEADLINE>
+<SUBJECT> BC-CUBA-OFFICES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  Spanish banking group Argentaria has launched the first real estate venture in Cuba involving foreign capital -- a project to restore an old commercial building in Havana and convert it into office space for rent in hard currency. </P>
+<P> Inmobiliaria Aurea S.A., a joint venture between Argentaria's real estate unit Unidad Inmobiliaria and the Cuban state, that will undertake the project. </P>
+<P> Work on the the Lonja de Comercio building, an early 20th-century site in Havana's old quarter, would cost $8 million, with additional expenditure on work such as building parking space, according to Jose Maria Fernandez Rico, director of Argentaria's Unidad Inmobiliaria. </P>
+<P> The project, expected to be completed in July 1996, is the first real estate venture to get off the ground since Cuba said late last year it was opening up the sector to foreign capital. </P>
+<P> The growing number of foreign firms operating in Cuba, either with trade offices or involved in joint ventures, has created a need for office space, according to Fernandez. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU009-0378.941120</DOCID>
+<TDTID>TDT006785</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/20/94 11:09</DATE>
+<TITLE> Powerful earthquake hits Syria - Turkish monitors</TITLE>
+<HEADLINE> Powerful earthquake hits Syria - Turkish monitors</HEADLINE>
+<SUBJECT> BC-QUAKE-SYRIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANKARA, Turkey (Reuter) </DATELINE>
+<P>  A strong earthquake measuring 5.0 on the Richter scale hit Syria at Sunday and was felt in four southeastern Turkish provinces, Turkey's Anatolian news agency said. </P>
+<P> There were no immediate reports of casualties or damage. Officials at Bosphorus University in Istanbul said the earthquake was centered 300 miles south of their monitoring station in the Turkish city of Erzincan. </P>
+</TEXT>
+</DOC>

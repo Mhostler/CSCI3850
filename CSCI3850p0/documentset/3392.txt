@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU010-0313.941222</DOCID>
+<TDTID>TDT008355</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/22/94 21:20</DATE>
+<TITLE> Judge frees funds in Orange County</TITLE>
+<HEADLINE> Judge frees funds in Orange County</HEADLINE>
+<SUBJECT> BC-BANKTUPTCY-COUNTY 2NDLD </SUBJECT>
+<AUTHOR>     By Bob Tourtellotte </AUTHOR>
+<TEXT>
+<NOTES>(Adds spending cuts, Raabe's position, union quote)</NOTES>
+<DATELINE>SANTA ANA, Calif (Reuter) </DATELINE>
+<P>  The local government agencies that invested in Orange County's now-bankrupt investment pool can withdraw up to $1 billion in total to meet their payrolls and cover their bills, a bankruptcy judge ruled Thursday. </P>
+<P> U.S. Bankruptcy Judge John Ryan approved the interim guidelines that will let the agencies withdraw up to 30 percent of the money they invested, or enough to meet emergency spending needs. </P>
+<P> ``I think this is a fair agreement, not based on fears of what may happen, but on hopes of trying to resolve this satisfactorily,'' Ryan said. The guidelines will be in effect through Jan. 31. </P>
+<P> The judge freed up the funds as the County Board of Supervisors gave departments until Jan. 10 to review their budgets and come up with cost-cutting plans. </P>
+<P> The Board said county departments would have to reduce spending by about $40 million over the next six months. </P>
+<P> The county said Thursday it expects cutbacks of government employees and anticipates making modifications to contracts with unionized workers. </P>
+<P> ``This is a dark day that the county has just made darker,'' said John Sawyer, general manager for the Orange County Employees Association, which represents 11,000 of the county's 16,000 employees. ``We are willing to cooperate, but we don't want to be steamrolled.'' </P>
+<P> The county disclosed two weeks ago that it suffered a loss from bad investments -- now estimated at $2.02 billion -- and filed for bankruptcy to protect what capital it had left from its creditors. </P>
+<P> The scandal led to the resignation of county Treasurer Robert Citron. His successor and protege, Matthew Raabe, was also replaced Thursday. </P>
+<P> The county named Thomas Daxon, a former Oklahoma auditor who was brought in Dec. 12 as a special consultant to the treasurer's office, as acting Treasurer for four months. </P>
+<P> Raabe resumes the assistant treasurer's post. </P>
+<P> Citron's investment strategy -- which bet interest rates would fall when in fact they rose sharply -- led to the biggest bankruptcy filing ever for a U.S. municipality. </P>
+<P> The woes faced by Orange County have been mirrored across the country, from the ritzy ski resort town of Aspen, Colo., to Escambia County, Fla. </P>
+<P> Aspen revealed Thursday that it suffered a 7.5 percent loss in the value of its $20 million portfolio this year, partly due to investments in derivatives. </P>
+<P> Escambia County, hit with a $22.4 million investment loss in derivatives, has hired a financial adviser to help with the problem, a county official said Thursday. </P>
+<P> California's Orange County, however, is by far the largest to be hit in the growing scandal over shoddy investments with taxpayer funds, and it has moved quickly to try and restructure the fund and make up for the losses. </P>
+<P> Tom Hayes, head of the county's financial restructuring team, said Thursday the pool had sold about $3.5 billion worth of securities so far, including $1.2 billion in derivatives. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU005-0165.950309</DOCID>
+<TDTID>TDT011136</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 20:58</DATE>
+<TITLE> Elections to choose World Court set for June 21</TITLE>
+<HEADLINE> Elections to choose World Court set for June 21</HEADLINE>
+<SUBJECT> BC-UN-COURT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  The Security Council decided without a vote Thursday to hold elections June 21 to fill the unexpired term of World Court Judge Roberto Ago of Italy, who died last month. </P>
+<P> Ago first became a member of the Hague-based International Court of Justice in 1979 and was re-elected in 1988 to another nine-year term which would have expired Feb. 5, 1997. </P>
+<P> The World Court has 15 judges who are chosen in elections held concurrent by the 15-nation Security Council and the 185-member General Assembly. </P>
+</TEXT>
+</DOC>

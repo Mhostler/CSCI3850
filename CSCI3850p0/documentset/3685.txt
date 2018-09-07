@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU004-0188.950110</DOCID>
+<TDTID>TDT009116</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/10/95 11:48</DATE>
+<TITLE> Three killed in Chile mountaineering accident</TITLE>
+<HEADLINE> Three killed in Chile mountaineering accident</HEADLINE>
+<SUBJECT> BC-CHILE-CLIMBERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SANTIAGO, Chile (Reuter) </DATELINE>
+<P>  Two Brazilians and a Colombian tumbled to their deaths and two other climbers -- a German and a Chilean were injured -- as they climbed a snowcapped volcano in southern Chile, police said Tuesday. </P>
+<P> The accident Monday occurred when the climbers, who were all roped together, fell into an icy crevasse just about 1,000 feet below the summit of the Osorno Volcano about 620 miles south of Santiago. </P>
+<P> A group of Austrian climbers, making their way down the volcano, saw the accident and went for help. </P>
+<P> Police identified the dead as Brazilians Ana Laura Kristenssen, 28, and Francisco Guimaraes, 32, and Colombian Santiago Rivas, 25. </P>
+<P> German tourist Daniel Meisel, aged 23, and the group's Chilean guide Jose Guevara were both injured. </P>
+<P> Chilean forestry authorities said climbing the 8,800-foot volcano is especially dangerous during the current summer months because warm temperatures melt the snow and ice, making the surface more treacherous. </P>
+<P> Around 15 climbers have died on the volcano in the last 20 years. </P>
+<P> Another German climber, Warner Lorch, aged 58, who had been missing for four days after setting out Wednesday to climb the volcano, was found safe Monday, police said. </P>
+<P> Lorch said he reached the summit Thursday but bad weather prevented him from coming down immediately. </P>
+<P> Lorch survived by building an ice igloo just below the summit where he stayed for three days sheltering from fierce winds and freezing temperatures. </P>
+<P> ``My experience in the Swiss Alps saved my life, because when I was on the volcano I realized a descent on Thursday would not be possible because of the nil visibility,'' Lorch told reporters. </P>
+</TEXT>
+</DOC>

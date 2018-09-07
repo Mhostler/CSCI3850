@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU005-0177.950309</DOCID>
+<TDTID>TDT011142</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 23:05</DATE>
+<TITLE> Tokyo marks 50th anniversary of massive bombing</TITLE>
+<HEADLINE> Tokyo marks 50th anniversary of massive bombing</HEADLINE>
+<SUBJECT> BC-WORLDWAR-JAPAN-MEMORIAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Buddhist monks chanted prayers and city officials offered eulogies Friday as Tokyo observed the 50th anniversary of the day that U.S. bombers devastated Japan's capital. </P>
+<P> ``Fifty years ago today, all of Tokyo became an inferno,'' Tokyo Governor Shunichi Suzuki told a crowd of some 2,000 gathered at a memorial temple. </P>
+<P> ``We should never forget that the prosperity of Tokyo, today one of biggest and most vibrant cities in the world, is built on the sacrifices of those who lost their lives in the air raids,'' Suzuki said. </P>
+<P> An estimated 100,000 people died in the Great Tokyo Air Raid when, shortly after midnight on March 10, 1945, more than 300 U.S. B-29 bombers dropped incendiary bombs that set the densely populated city ablaze. </P>
+<P> Some 2,000 mostly elderly people attended Friday's gathering at a temple maintained by the Tokyo government which houses the ashes of tens of thousands of city residents who perished in the air raid and in an earthquake in 1923. </P>
+<P> Although many spoke firsthand of losing relatives and barely escaping death 50 years ago, little rancor was directed at the United States during the solemn ceremony. </P>
+<P> ``I hated the United States at that time,'' said Toshitsugu Oda, 55, whose mother died in the air raid. ``But I no longer do, because the raid took place in the context of a bitter war.'' </P>
+</TEXT>
+</DOC>

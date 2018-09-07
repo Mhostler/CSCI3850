@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0188.940712</DOCID>
+<TDTID>TDT000434</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/12/94 07:23</DATE>
+<TITLE> PHILIPPINE BISHOPS WARN AGAINST POPULATION MEET</TITLE>
+<HEADLINE> PHILIPPINE BISHOPS WARN AGAINST POPULATION MEET</HEADLINE>
+<SUBJECT> BC-PHILIPPINES-BISHOPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANILA, Philippines (Reuter) </DATELINE>
+<P>  Philippine Roman Catholic bishops on Tuesday urged President Fidel Ramos to oppose any move at a forthcoming United Nations conference on population that would encourage abortion or sexual license. </P>
+<P> The bishops, in a letter, asked Ramos to choose Filipino delegates who would ``uphold the truth that marriage is the only morally legitimate setting for the exercise of the sexual act and the procreation of children.'' </P>
+<P> They said they feared the conference in Cairo in September would adopt decisions that would ``foster sexual license among the unmarried and open even wider avenues to the evil of abortion.'' </P>
+<P> The Catholic church, a major influence in the largely Christian Philippines, strongly opposes a government campaign to promote wider use of contraceptives as a means of curbing the country's 2.48 annual population growth rate. </P>
+<P> The Philippines, with 65 million people, is the world's 14th most-populous country. </P>
+</TEXT>
+</DOC>

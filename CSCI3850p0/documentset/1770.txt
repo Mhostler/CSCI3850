@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0395.941003</DOCID>
+<TDTID>TDT004374</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 11:27</DATE>
+<TITLE> Mandela says indignity of poverty must be abolished</TITLE>
+<HEADLINE> Mandela says indignity of poverty must be abolished</HEADLINE>
+<SUBJECT> BC-SAFRICA-MANDELA-UN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  South African President Nelson Mandela appealed to the United Nations Monday to help eradicate the extreme poverty in his nation to help ensure the success of the post-apartheid era. </P>
+<P> Mandela has addressed the U.N. General Assembly several times since his release from prison in 1990, but Monday's speech was the first since he was elected South Africa's president in April. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU011-0332.950125</DOCID>
+<TDTID>TDT009752</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/25/95 16:10</DATE>
+<TITLE> Simpson trial draws large TV audience on opening day</TITLE>
+<HEADLINE> Simpson trial draws large TV audience on opening day</HEADLINE>
+<SUBJECT> BC-SIMPSON-RATINGS </SUBJECT>
+<AUTHOR>     By Leslie Adler </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  The opening of the O.J. Simpson murder trial Tuesday drew a larger-than-normal television audience, according to preliminary figures released by television officials Wednesday. </P>
+<P> ABC said its live coverage of the opening statements in the celebrated trial drew a 5.6 rating and a 17 share in the 10:20 a.m to 12:10 p.m. (1:20-3:10 p.m. EST) period. The figures are for the top 32 markets in the U.S. Complete ratings figures are not yet available, ABC spokeswoman Terry Everett said. </P>
+<P> Each rating point represents 954,000 homes. The share figure is the percentage of homes viewing television at a certain time which were tuned to a particular program. </P>
+<P> There are 95.4 million television homes in the United States, according to the Nielsen ratings agency. </P>
+<P> ABC's live coverage of the afternoon session of the first day of the Simpson trial drew it a 9.3 ratings and a 20 share in the top 32 markets, Everett said. </P>
+<P> By comparison, on the week earlier Tuesday, ABC's daytime programming drew an 8.8 rating and a 20 share in the top 32 markets, Everett said. </P>
+<P> CBS and NBC, which also carried live coverage of the opening day of the trial, said they did not yet have figures on the television audience. </P>
+<P> But although the trial pre-empted regular programming, there was little sign of complaint from regular viewers. </P>
+<P> ``They're calling, commenting on what's going on, making suggestions,'' said Jill Sukomoto, a spokesman for KTTV, the Fox network station affiliate in Los Angeles. But viewers were not calling to complain, she said. </P>
+<P> Television viewership for all local stations in the Los Angeles metropolitan area was up 38 percent Tuesday morning compared to the same period Tuesday, Jan. 17, and was up 22 percent in the afternoon, Sukomoto said. </P>
+<P> The Los Angeles metro area encompasses five counties with a population of about 15 million people. </P>
+<P> On Tuesday morning, 35.2 percent of homes in the Los Angeles area were tuned into television, compared to 25.6 percent Tuesday, Jan. 17. In the afternoon, 43.7 percent of homes were watching television, compared to 35.8 percent a year ago. </P>
+<P> But soap opera fans whose programs have been pre-empted need not despair. </P>
+<P> CBS is broadcasting soap operas late at night so fans can tape them for later viewing. And ABC is running a Soap Line update hourly throughout the afternoon to keep fans updated on the events of their favorite shows. </P>
+</TEXT>
+</DOC>

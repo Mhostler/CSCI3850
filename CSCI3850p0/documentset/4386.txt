@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0312.950216</DOCID>
+<TDTID>TDT010501</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/16/95 16:17</DATE>
+<TITLE> Cuban Foreign Minister to visit Canada next month</TITLE>
+<HEADLINE> Cuban Foreign Minister to visit Canada next month</HEADLINE>
+<SUBJECT> BC-CUBA-CANADA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA, Cuba (Reuter) </DATELINE>
+<P>  Cuban Foreign Minister Roberto Robaina will visit Canada March 19-25, the Foreign Ministry said Thursday. </P>
+<P> The minister's visit will follow a trip to Cuba this month by Canada's deputy foreign minister for Latin American and Caribbean affairs, Catherine McCallion, ministry spokesman Rafael Dausa told reporters. </P>
+<P> The spokesman said McCallion met with senior Cuban officials, including Robaina and Deputy President Carlos Lage, during her trip, but did not give further details. </P>
+<P> Canadian companies are among leading foreign investors in the Caribbean island, especially in mining. </P>
+</TEXT>
+</DOC>

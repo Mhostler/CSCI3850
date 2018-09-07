@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU013-0005.941128</DOCID>
+<TDTID>TDT007134</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/28/94 17:42</DATE>
+<TITLE> Red Cross chief says blood fears could cost lives</TITLE>
+<HEADLINE> Red Cross chief says blood fears could cost lives</HEADLINE>
+<SUBJECT> BC-CANADA-BLOOD </SUBJECT>
+<AUTHOR>     By Tanya Willmer </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TORONTO (Reuter) </DATELINE>
+<P>  Fears about the safety of Canada's blood supply are wholly unjustified and could cost lives, the head of the nation's Red Cross Society warned Monday. </P>
+<P> Red Cross secretary-general Douglas Lindores blamed sensationalist media reports for whipping up concern about the blood system, sparked by a scandal over tainted blood that infected more than 1,000 people with the deadly AIDS virus in the mid 1980s. </P>
+<P> In Canada, more than 10,000 people have fully blown AIDS and up to 35,000 are infected with HIV, mostly from sexual contact. </P>
+<P> ``There is a fear about the quality of Canada's blood products that is in our view totally unjustified by the facts,'' Lindores said in an address to the Canadian Club. </P>
+<P> ``If patients actually start refusing treatment, this fear will cost lives,'' he said. </P>
+<P> A recent survey by the COMPAS research firm found that 26 percent of Canadians would probably or definitely refuse blood transfusions, a situation Lindores said was disturbing. Blood donations have fallen by about 10 percent over the past year. </P>
+<P> Public confidence has been shattered because of the tainted blood controversy, which is now the subject of a nationwide public hearing headed by Justice Horace Krever. </P>
+<P> The Krever inquiry is investigating claims that the Red Cross and the government knew HIV-contaminated blood was distributed to hemophiliacs and blood transfusion patients in the mid-1980s, but waited before improving screening procedures and using only heat-treated products. </P>
+<P> An audit into the safety of the blood system by an international panel of experts conducted for Krever is expected to be released in about a week. </P>
+<P> The Red Cross has also been stung by revelations that several blood banks failed inspections by the U.S. Food and Drug Administration because of numerous operating deficiencies such as failing to check donors' arms for needle punctures and mislabelling blood bags. </P>
+<P> Lindores said the Canadian Red Cross -- just two years away from its official centenary -- is embarking on a complete overhaul of the system to bring it in line with standards in the United States and restore public confidence. </P>
+<P> ``It is a great human tragedy,'' he said of the 1980s crisis. But he said the nation's blood supply ``has never been safer than it is today,'' citing data showing 13 cases of HIV transmission since 1985, when the Red Cross began testing for the virus. </P>
+<P> In addition, Lindores said there has been just one confirmed case of hepatitis from blood components over 1992 and 1993. Testing began in 1990, about two years later than the United States. </P>
+<P> Over the past nine years there has been 10.5 million donations and two million blood transfusions, Lindores said. </P>
+<P> But Durhane Wong-Rieger, president of the Canadian Hemophilia Society, said the Red Cross should be stripped on its responsibility for the blood system. </P>
+<P> ``For it (the blood system) to continue to be operated by a relief operation which has no knowledge of the highly technical and complex operations of the blood program ... is the real problem,'' she told reporters. </P>
+<P> ``He (Lindores) treats it (the blood scandal) as if it were a natural disaster. It was not a natural disaster. It was a man-made disaster and there were man-made errors and those are some of the same errors that continue today.'' </P>
+</TEXT>
+</DOC>

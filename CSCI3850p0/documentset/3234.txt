@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU007-0218.941215</DOCID>
+<TDTID>TDT007997</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 12:00</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CIS-CHECHNYA-YELTSIN -2 MOSCOW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Yeltsin and the Russian government earlier said Chechen ``illegal armed groups,'' which included the forces of separatist President Dzhokhar Dudayev, had to lay down their arms by Thursday. </P>
+<P> Dudayev's forces ignored the ultimatum and kept up resistance to the advance of thousands of Russian troops closing in around the capital Grozny. </P>
+<P> Yeltsin also said in his appeal that he would send a high-ranking Russian delegation to talks if Dudayev agreed to head Chechnya's negotiating team. Dudayev had indicated he was prepared to talk only to the Russian leader himself. </P>
+<P> ``If illegal armed formations cease fire, I will consider it a manifestation of good will and the first step toward restoration of peace and legality in the Chehcen republic,'' Yeltsin said. </P>
+</TEXT>
+</DOC>

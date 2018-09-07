@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0254.950103</DOCID>
+<TDTID>TDT008802</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/03/95 06:12</DATE>
+<TITLE> Sarajevo airport reopens after runway incident</TITLE>
+<HEADLINE> Sarajevo airport reopens after runway incident</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-AIRPORT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  Sarajevo airport, a vital aid gateway for the Bosnian capital's 380,000 people, was reopened Tuesday three days after shutting down when an aircraft skidded off the runway, a U.N. spokesman said. </P>
+<P> The U.N. expected to bring in a total of 28 humanitarian and military resupply flights Tuesday. </P>
+<P> French soldiers had worked since Saturday to clear and repair the runway to allow the quick resumption of relief flights. </P>
+<P> None of the 11 passengers and crew aboard a U.N. Ilyushin 76 cargo plane were hurt when it smashed into a mud bank next to the runway after landing in snowy weather Saturday. Work on removing the plane was continuing Tuesday. </P>
+<P> Since the warring parties agreed to a new four-month ceasefire which came into effect Jan. 1, life in Sarajevo has shown signs of improvement. </P>
+<P> The U.N. said the city's tram service, stopped for weeks by repeated Serb sniper attacks, would resume Tuesday. </P>
+</TEXT>
+</DOC>

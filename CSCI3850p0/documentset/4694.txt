@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU002-0046.950302</DOCID>
+<TDTID>TDT010954</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/02/95 16:22</DATE>
+<TITLE> Zooplankton population drops near California coast</TITLE>
+<HEADLINE> Zooplankton population drops near California coast</HEADLINE>
+<SUBJECT> BC-SCIENCE-FISH (EMBARGOED) </SUBJECT>
+<AUTHOR>     By Joanne Kenen </AUTHOR>
+<TEXT>
+<NOTES>(Release at 6 p.m. EST)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The population of the tiny marine creatures that provide a vital link at the base of the food chain has declined dramatically off the California coast, possibly because of global warming, scientists said Thursday. </P>
+<P> The decline in the zooplankton population raises questions about the survival of several fish species, including sardines and anchovies, hake and Pacific mackerel, the scientists said. </P>
+<P> ``These are the important commercial fish in the California current,'' said John McGowan, a biologist at the Scripps Institution of Oceanography and the co-author of a study appearing in Friday's edition of the journal Science. </P>
+<P> Zooplankton include a wide variety of organisms that drift with ocean currents and feed upon tiny plants called phytoplankton. Fish then feed on the zooplankton. </P>
+<P> The scientists have linked the zooplankton decline to a two-to-three degree Fahrenheit increase in surface water temperature off southern California in 42 years. </P>
+<P> But they do not know if the warmer water is part of a long natural cycle of fluctuations or a sign of global warming created by human impact on the environment. </P>
+<P> If it's a natural cycle, the surface water temperature will eventually drop once again. ``But if this change is due to man, there is every reason to believe that it will continue and intensify,'' Scripps oceanographer Dean Roemmich said. </P>
+<P> Roemmich said that in some areas, like the central Pacific, water has cooled. What is not known is the complete picture of changes across the globe. </P>
+<P> ``It's a pressing question. And we're not collecting the data we need. Without that, we're not going to know in 10 years time,'' he said. </P>
+<P> The Scripps team found the zooplankton population in the waters off southern California declined by 80 percent from 1951 and 1993. Deep water temperatures were unchanged. </P>
+<P> Roemmich said the wider gap between cooler deep water and surface temperatures could prevent nutrients like nitrates and phosphates from reaching the surface. Those nutrients feed phytoplankton, which in turn feed the zooplankton. </P>
+<P> The study encompassed a 50,000-square-mile area extending 300 miles off the coast from San Diego to Pt. Conception and drew on data collected by the California Cooperative Oceanic Fisheries Investigations, which is conducted by Scripps, the National Marine Fisheries Service and the California Department of Fish and Game. </P>
+</TEXT>
+</DOC>

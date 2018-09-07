@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU007-0369.940714</DOCID>
+<TDTID>TDT000551</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/14/94 13:33</DATE>
+<TITLE> WHITE HOUSE SEES ECONOMY SLOWING AFTER UPBEAT 1994</TITLE>
+<HEADLINE> WHITE HOUSE SEES ECONOMY SLOWING AFTER UPBEAT 1994</HEADLINE>
+<SUBJECT> BC-USA-ECONOMY-BUDGET </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House said Thursday it expects the U.S. economy this year to show its fastest growth since 1988 before slowing to cruising speed in 1995. </P>
+<P> In its mid-year budget report, the Clinton administration delivered an upbeat assessment of the outlook for the economy, projecting moderate, but steady growth over the next five years with subdued inflation. </P>
+<P> Short-term interest rates are expected to rise modestly, but long-term rates -- which are more important for the economy -- are projected to ease. </P>
+<P> ``The administration's economic program brought an end to a period of economic stagnation and political gridlock,'' the White House said in the report. </P>
+<P> The administration bumped up its forecast of growth for 1994 to 3.6 percent on a year-on-year basis, from 3.1 percent in January. That's the fastest rate since the economy grew by 3.9 percent in 1988 and compares with growth last year of three percent. </P>
+<P> The rapid growth this year, which partly reflects a spillover from the economy's stellar performance in the closing months of 1993, is expected to push inflation up, but not by much, the White House said. </P>
+<P> Consumer prices are projected to rise 3.2 percent next year, after increasing by 2.7 percent in 1994. </P>
+<P> The new government forecasts for this year and next are basically in line with those of private economists. </P>
+<P> The report said that nearly 4 million new jobs have been created since President Clinton assumed office, with nearly all the gain coming in private, not government, payrolls. </P>
+<P> Strong employment usually begins to heat up an economy and cause price increases, but higher interest rates are likely to prevent that from happening, according to the administration forecast. </P>
+<P> Short-term interest rates are now projected to average 4.0 percent this year, compared with the February projection of 3.4 percent. The White House expects a modest increase next year, to 4.7 percent, as the Federal Reserve tightens its credit grip further to head off future inflation. </P>
+<P> Ten-year bond rates though are expected to ease from current levels of over seven percent, presumably because of a cooling off what some administration officials see as excessive fears among investors about future inflation. </P>
+</TEXT>
+</DOC>

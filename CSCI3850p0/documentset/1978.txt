@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU006-0322.941012</DOCID>
+<TDTID>TDT004940</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/12/94 20:30</DATE>
+<TITLE> Polish parliament says Walesa threatens democracy</TITLE>
+<HEADLINE> Polish parliament says Walesa threatens democracy</HEADLINE>
+<SUBJECT> BC-POLAND-WALESA </SUBJECT>
+<AUTHOR>     By Timothy Heritage </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WARSAW, Poland (Reuter) </DATELINE>
+<P>  Poland's lower house of parliament approved Wednesday a motion accusing President Lech Walesa of destabilizing the constitutional order and urged him to stop immediately. </P>
+<P> The Sejm overwhelmingly approved the unusual motion, which has no constitutional implications but signalled parliament's growing concern over moves by the former Solidarity trade union leader that many politicians deem undomcratic. </P>
+<P> The motion was prompted by Walesa's demand Monday for the defense minister's resignation and his firing last month of two men he had appointed to an independent media council. </P>
+<P> Critics say he is abusing his powers. </P>
+<P> ``Polish democracy is in danger. The president's actions, violating the principle of the army being apolitical and the independence of the National Radio and Television Council, are destabilizing the constitutional order,'' the motion said. </P>
+<P> ``The Sejm, not accepting decisions taken in violation of the law, expects the President of the Polish Republic, as guardian of the constitution, to stop actions which could lead to a state crisis,'' it said. </P>
+<P> The motion was the parliament's fiercest broadside against Walesa so far, but it followed many months of criticism of his methods, matched by Walesa's own frustrations with many of the country's politicians. </P>
+<P> Ryszard Bugaj, a left-wing deputy, threatened to demand that Walesa appear before a state tribunal if he were not seen to start acting more democratically. </P>
+<P> Walesa, 51, defended himself earlier Wednesday, saying he had acted only in Poland's interests, had not broken any laws and was being criticized by people who did not know the full details of the controversies. </P>
+<P> Much of the opposition included many of his former Solidarity aides. </P>
+<P> Walesa, who led the struggle against communist rule, said he asked Defense Minister Piotr Kolodziejczyk to quit because he was unhappy with army reforms. </P>
+<P> But although Walesa nominated Kolodziejczyk a year ago, only the Prime Minister has the right to fire him. </P>
+<P> Walesa also dismissed two of the nine members of the National Radio and Television Council last month including its chairman, Marek Markiewicz. </P>
+<P> It is unclear if he had the right to do so. </P>
+</TEXT>
+</DOC>

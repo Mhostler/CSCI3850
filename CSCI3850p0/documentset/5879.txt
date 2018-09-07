@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0120.950420</DOCID>
+<TDTID>TDT012748</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/20/95 06:26</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-IRAN-AMERICANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TEHRAN, April 20 (Reuter) </DATELINE>
+<P>  An Iranian Supreme Court official said on Thursday news reports that Iran was holding three Americans for spying were distorted, seeming to imply there might be detainees who were not U.S. citizens. </P>
+<P> ``The news in the Iranian media about the case of three American spies is distorted and should be on hold until we make a further announcement,'' the official, who refused to be named, told Reuters. </P>
+<P> Iranian reporters on Wednesday quoted Iran's supreme court head Ayatollah Mohammad Mohammadi Gilani as saying three ``American spies'' had ``been found guilty by an Islamic revolution court, and their cases were now under review by the Supreme Court.'' </P>
+<P> The term ``American spy'' in Farsi could either mean an American citizen spying for the United States or somebody from another nationality spying for the United States. </P>
+<P> On Thursday, some Iranian newspapers referred to the three as American citizens spying for America and others said they were Iranian ``mercenaries'' spying for America. </P>
+<P> The official did not give further details. </P>
+<P> The only American known to be detained in Iran is Milton Meyer, a businessman from Texas who was 58 years old when he was arrested in 1992. Iran said then Meyer had links with foreign intelligence agencies and had sold sensitive economic information. </P>
+</TEXT>
+</DOC>

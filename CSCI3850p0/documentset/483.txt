@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU014-0193.940729</DOCID>
+<TDTID>TDT001210</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/29/94 16:53</DATE>
+<TITLE> ARMY SAYS REBELS BLEW UP TOWERS IN GUATEMALA</TITLE>
+<HEADLINE> ARMY SAYS REBELS BLEW UP TOWERS IN GUATEMALA</HEADLINE>
+<SUBJECT> BC-GUATEMALA-REBELS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GUATEMALA CITY, Guatemala (Reuter) </DATELINE>
+<P>  Leftist rebels blew up three electricity towers Wednesday and plunged part of Guatemala into darkness, the army said Friday. </P>
+<P> The attacks caused an extensive blackout in an area 60 miles west of Guatemala City, the army said. </P>
+<P> The government and guerrilla commanders of the Guatemalan National Revolutionary Unit have been negotiating an end to the country's 33-year civil war for more than three years, but the rebels continue to carry out sporadic attacks against economic targets. </P>
+</TEXT>
+</DOC>

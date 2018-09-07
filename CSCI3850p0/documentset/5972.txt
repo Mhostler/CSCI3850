@@ -1,0 +1,50 @@
+<DOC>
+<DOCID>REU014-0297.950424</DOCID>
+<TDTID>TDT012937</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 00:39</DATE>
+<TITLE> NBA-Nuggets make playoffs with win on last day of season</TITLE>
+<HEADLINE> NBA-Nuggets make playoffs with win on last day of season</HEADLINE>
+<SUBJECT> BC-NBA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DENVER (Reuter) </DATELINE>
+<P>  A whopping 13 games were played on the final day of the NBA regular season Sunday, but only the Denver Nuggets' 102-89 victory over the Sacramento Kings affected the playoff picture. </P>
+<P> Brian Williams scored 11 points in the fourth quarter and Reggie Williams had 10 as Denver claimed the final Western Conference playoff berth. </P>
+<P> The Nuggets, who closed the season with three victories, will play league-leading San Antonio in the best-of-five first round of the playoffs. Denver won the first but lost its next three games to San Antonio this season. </P>
+<P> ``Two games we lost to them, we were right there in the last five minutes,'' said Reggie Williams, who finished with 23 points despite sitting out the third quarter due to an upset stomach. ``I know we can play with them, and I think we can beat them.'' </P>
+<P> Denver was 5 3/8 games out of the last playoff spot at the All-Star break, but went 20-12 after general manager Bernie Bickerstaff took over as coach from Gene Littles. </P>
+<P> ``In the first half of the season we were in disarray, and then Bernie came and brought it back to us,'' Williams said. </P>
+<P> Denver was without injured leading scorer Mahmoud Abdul-Rauf. </P>
+<P> Sacramento, led by Mitch Richmond's 32 points, was seeking its first playoff appearance since the 1985-86 season. </P>
+<P> At Minnesota, Chuck Person scored 20 points and Dennis Rodman clinched his fourth straight NBA rebounding title as the San Antonio Spurs defeated the Timberwolves 97-91. </P>
+<P> San Antonio (62-20) has homecourt advantage throughout the postseason and ended the season winning six straight. </P>
+<P> Minnesota became the first NBA team to lose 60 or more games four consecutive seasons. </P>
+<P> In Phoenix, Charles Barkley had 23 points and 13 rebounds as the Suns beat the Seattle SuperSonics 105-100. </P>
+<P> The Suns (59-23), the Pacific Division champions, will face Portland in the first round of the playoffs on Friday. Phoenix swept Portland 5-0 in the regular season. </P>
+<P> In Portland, Clifford Robinson led six players in double figures with 17 points as the Trail Blazers crushed the Golden State Warriors 116-83. </P>
+<P> The Knicks played without starting center Patrick Ewing and starting point guard Derek Harper and host Cleveland Thursday to start their playoffs. </P>
+<P> The Magic finished their most successful regular season with a 57-25 record. The Eastern top seed meets Boston on Friday as it looks for its first post-season win. </P>
+<P> In Charlotte, the Hornets rode a 26-0 run in the third quarter to a 97-72 rout of the Cleveland Cavaliers. </P>
+<P> Alonzo Mourning scored 26 points and grabbed 12 rebounds for Charlotte, which reached the 50-win plateau for the first time in the club's seven-year history. </P>
+<P> The Hornets host Chicago Friday. </P>
+<P> In Milwaukee, Glenn Robinson scored 36 points to lead the Bucks to a 104-100 victory over the Chicago Bulls. </P>
+<P> Robinson fell two points shy of tying his career-high. Robinson, the first pick in the 1994 draft, averaged 21.9 points per game to lead all NBA rookies. </P>
+<P> Michael Jordan had 33 points, 11 rebounds and seven assists for Chicago. </P>
+<P> At Indiana, Reggie Miller scored 22 points to lead the Pacers to a 103-87 victory over the Atlanta Hawks. </P>
+<P> The two teams will meet in the first round of the playoffs, beginning Thursday at Indiana. </P>
+<P> The Pacers won the Central Division and are seeded second in the East. </P>
+<P> In Houston, Karl Malone had 23 points, 15 rebounds and eight assists as the Utah Jazz beat the Rockets 103-97. </P>
+<P> Houston finished with three straight losses and will visit Utah Thursday. </P>
+<P> The Jazz became the first team since the 1980-81 76ers with at least 60 wins not to win a division. Utah ended with a seven-game winning streak but finished two games behind San Antonio in the Midwest Division. </P>
+<P> The Rockets played without leading scorer Hakeem Olajuwon. Clyde Drexler left the game after spraining his ankle. </P>
+<P> In Los Angeles, Loy Vaught scored 26 points and tied a career-high with 21 rebounds to lead the Clippers past the Dallas Mavericks 124-102. </P>
+<P> The Clippers finished the season with the worst record in the NBA at 17-65. </P>
+<P> The Mavericks (36-46) ended the season with three straight losses, but nearly tripled last year's 13-win total. </P>
+<P> In Miami, Glen Rice scored 32 points to lead the Heat to a 129-105 rout of the Detroit Pistons. </P>
+<P> At New Jersey, Chris Morris scored on a spectacular alley-oop while getting fouled with 5.9 seconds left to break a tie as the Nets beat the Boston Celtics 102-99. </P>
+<P> At Washington, Mitchell Butler scored a career-high 26 points as the Bullets routed the Philadelphia Sixers 106-90. </P>
+<P> Washington finished in the cellar of the Atlantic Division for the third straight season and Philadelphia (24-58) had its third consecutive sub-30 win season. </P>
+</TEXT>
+</DOC>

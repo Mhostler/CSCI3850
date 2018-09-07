@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0244.950504</DOCID>
+<TDTID>TDT013433</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 14:15</DATE>
+<TITLE> Two civilians killed in Israeli shelling</TITLE>
+<HEADLINE> Two civilians killed in Israeli shelling</HEADLINE>
+<SUBJECT> BC-LEBANON-SOUTH 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds second civilian killed in Israeli shelling)</NOTES>
+<DATELINE>NABATIYEH, Lebanon (Reuter) </DATELINE>
+<P>  Two Lebanese civilians, including a four-year-old girl, were killed Thursday in Israeli shelling of southern Lebanese villages, security sources said. </P>
+<P> They said Israeli gunners shelled villages on the Iqlim al-Toufah mountain ridge, killing four-year-old Oula az-Zeine and 41-year-old Hassan Ali Karaki. The shelling wounded 75-year-old Rhida Yassin and two other civilians. </P>
+<P> In retaliation, Muslim militants fired mortar bombs into an Israeli outpost at Soujud hill and a barracks manned by militiamen of the Israeli-backed South Lebanon Army (SLA) in Rihan in Israel's south Lebanon occupation zone. </P>
+<P> Iqlim al-Toufah is a bastion of the pro-Iranian Hizbollah (Party of God), used by its guerrillas to attack Israeli troops and their local militia allies in a bid to oust them from the south. </P>
+</TEXT>
+</DOC>

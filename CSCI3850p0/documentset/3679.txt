@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU004-0105.950110</DOCID>
+<TDTID>TDT009103</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/10/95 04:49</DATE>
+<TITLE> Japan, U.S. reach agreement on financial services</TITLE>
+<HEADLINE> Japan, U.S. reach agreement on financial services</HEADLINE>
+<SUBJECT> BC-JAPAN-USA-ACCORD URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Japan and the United States have reached a final agreement in their talks on the opening of Japan's financial services market, Finance Minister Masayoshi Takemura said Tuesday in a statement obtained in Tokyo. </P>
+</TEXT>
+</DOC>

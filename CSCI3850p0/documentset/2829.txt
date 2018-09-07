@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0040.941125</DOCID>
+<TDTID>TDT007022</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/25/94 15:34</DATE>
+<TITLE> NATO planes fly over Bihac but find no targets</TITLE>
+<HEADLINE> NATO planes fly over Bihac but find no targets</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-UN-ANNAN 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: NATO air mission called off, planes return safely)</NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  NATO aircraft flew over Bihac Friday but did not locate any targets and the request for close support was cancelled, U.N. Under Secretary-General Kofi Annan told reporters. </P>
+<P> The planes were shot at by two or three SAM-6 missiles but were not hit and all the aircraft returned to base, he added. </P>
+</TEXT>
+</DOC>

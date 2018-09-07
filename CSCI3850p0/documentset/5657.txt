@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU007-0122.950411</DOCID>
+<TDTID>TDT012438</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/11/95 12:21</DATE>
+<TITLE> Live like royalty with British queen as landlady</TITLE>
+<HEADLINE> Live like royalty with British queen as landlady</HEADLINE>
+<SUBJECT> BC-BRITAIN-ROYAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain's royal family decided Tuesday to offer 60 apartments for rent to people seeking a smart address with Queen Elizabeth as their landlady. </P>
+<P> Example: You can have town-and-country addresses for a total of $55,850 a year, renting a cottage in the royal paddocks at Hampton Court Palace near London and a former barracks in the capital's fashionable Kensington area. </P>
+<P> Buckingham Palace said rents would help to pay maintenance costs for the royal household and save taxpayers money. </P>
+<P> The properties, with leases of up to five years, are outside police security cordons on the royal estates. </P>
+<P> The move comes after the number of apartments allocated to royal staff employees was recently reduced by 60. Staff are charged 16.7 percent of their salary or pension in rent. </P>
+<P> Renting out property marks another step into the world of commerce by the tax-supported royal family, whose head Queen Elizabeth is the world's richest woman. </P>
+<P> She opened Buckingham Palace to the public for the first time in 1993, charging visitors a fee and selling special souvenirs, to raise funds to restore Windsor Castle badly damaged by a fire three years ago. </P>
+<P> Queen Elizabeth's new trading arm in its first year netted $6.7 million from tours of her palaces and sales of mementoes, according to figures last July. </P>
+<P> The queen and her family, whose personal apartments are out of bounds, avoid any chance of contact with the curious by spending the summer at their Scottish home, Balmoral. </P>
+<P> Estimates of her wealth vary enormously. Business Age magazine put her personal fortune in 1994 at $252 million. </P>
+<P> But the London Sunday Times has estimated the queen's personal wealth -- on which she has started paying tax for the first time -- at $680 million. </P>
+<P> Other surveys, taking into account her hereditary possessions and investments as sovereign, say she is worth $3.19 billion. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU011-0248.950419</DOCID>
+<TDTID>TDT012718</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/19/95 07:57</DATE>
+<TITLE> Coffee,tea lower some cancer risks--Swedish study</TITLE>
+<HEADLINE> Coffee,tea lower some cancer risks--Swedish study</HEADLINE>
+<SUBJECT> BC-SWEDEN-CANCER STUDY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>STOCKHOLM, April 19 (Reuter) </DATELINE>
+<P>  Coffee drinkers who consume six or more cups daily may reduce their chances of cancer of the colon, according to a Swedish medical study. </P>
+<P> Those who prefer tea also benefit, the study said. Drinking more than two cups a day reduced the incidence of rectal cancer. </P>
+<P> ``Coffee consumption appears to be protective against colon cancer and tea against rectal tumors,'' the report entitled ``Coffee, Tea, Tobacco, and Cancer of the Large Bowel'' stated. </P>
+<P> Research in Stockholm under the approval of Karolinska Hospital over a two-year period also said smoking did not affect the incidence of cancers studied. </P>
+<P> ``In summary, our findings indicate that cigarette smoking, even long-term, does not have a substantial association with the risk of colorectal cancer,'' it added. </P>
+<P> Swedes are avid coffee drinkers, and a substantial number consume more than six cups daily, the report said. </P>
+</TEXT>
+</DOC>

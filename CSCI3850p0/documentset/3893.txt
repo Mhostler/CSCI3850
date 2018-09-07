@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0151.950123</DOCID>
+<TDTID>TDT009652</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/23/95 09:24</DATE>
+<TITLE> Iran says U.S. efforts to isolate it have failed</TITLE>
+<HEADLINE> Iran says U.S. efforts to isolate it have failed</HEADLINE>
+<SUBJECT> BC-IRAN-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA, Cyprus (Reuter) </DATELINE>
+<P>  Iran said Monday the United States has failed to gain international support for its boycott of Tehran and would be better off resigning itself to the existence of the Islamic Republic. </P>
+<P> ``European countries, which in the past followed hostile U.S. policies against Iran, have ... accepted the Islamic Republic of Iran as a reality ... and are developing their relationship with Iran,'' state-run Tehran radio said. </P>
+<P> ``Another path for America to follow is to recognize the Islamic Revolution as a reality ... and to respect the resolve of the Iranian people,'' it added in a commentary. </P>
+<P> The radio was responding to a speech by Secretary of State Warren Christopher last week accusing Iran of engaging in a crash effort to develop nuclear arms and criticizing unnamed industrial nations for providing it with loans. U.S. officials say their concerns about loans center on Germany and Japan. </P>
+<P> Tehran radio said the U.S. policy of opposing Iran's peaceful use of nuclear energy while maintaining a ``morbid silence'' on Israel's military nuclear program would further isolate Washington in public opinion in the region. Iran, which the United States and Israel accuse of seeking to develop an atomic bomb, insists its nuclear program is strictly peaceful. </P>
+</TEXT>
+</DOC>

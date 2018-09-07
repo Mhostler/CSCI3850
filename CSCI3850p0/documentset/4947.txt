@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU008-0077.950315</DOCID>
+<TDTID>TDT011315</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/15/95 18:20</DATE>
+<TITLE> Oceans need protected areas to recover - study</TITLE>
+<HEADLINE> Oceans need protected areas to recover - study</HEADLINE>
+<SUBJECT> BC-FISH-ENVIRONMENT </SUBJECT>
+<AUTHOR>     By Maggie Fox </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Overfishing is damaging the world's oceans more badly than originally feared, and marine parks where fishing is forbidden may be needed to help them recover, researchers said Thursday. </P>
+<P> The researchers, working at the International Center for Living Aquatic Resources Management in Manila, Philippines, found that plankton and other plants at the base of the food chain are at maximum production. </P>
+<P> In a report in the scienctific journal Nature, they said fishing and other ocean activities were profoundly affecting all life in the sea. </P>
+<P> ``We have identified a new limit that people were not aware of to our ability to extract food from the sea,'' one of the researchers, Daniel Pauly, said in a telephone interview. </P>
+<P> ``The fact is that at the bottom of the food web there is not as much space as we anticipated. ... We have no way of increasing primary production in the ocean.'' </P>
+<P> In other words, there is no way to produce any more fish because the ocean plants they live on are at maximum growth. Pauly compared the situation to a field where farmers were raising cows -- the number of cows that can be raised is limited by how much grass can be grown. </P>
+<P> Fertilizing the ``grass'' would not help, Pauly added. </P>
+<P> ``We don't have ways of increasing the primary production because if we do put fertilizer in the sea, which we do as runoff in coastal areas, we also pollute at the same time,'' he said. ``It has become the ultimate limit.'' </P>
+<P> Pauly, who used a mathematical model, found that one-third of all ``primary aquatic production'' -- the algae and plankton that make up the ``grass'' -- was needed to support the fish living on continental shelves and other shallow areas. </P>
+<P> People get 90 percent of their fish from such areas, which makes commercial fishing heavily dependent on the plant resources. </P>
+<P> Pauly and co-author Villy Christensen did recommend a solution -- opening ocean parks where all fishing was forbidden. </P>
+<P> ``We should have lots of unfished areas -- marine parks, where there is no fishing,'' he said, noting that ecologists had found that parks on land were highly productive, with high levels of biodiversity. </P>
+<P> Studies have found that the more biodiversity there is in a system -- that is, the more types of plants and animals there are -- the more efficiently it works. </P>
+<P> ``On land, we set up national parks where the birds and the beavers can do their thing,'' Pauly said. ``We don't have much equivalent underwater. What we need is places where we don't have such an impact, places that we leave alone.'' </P>
+<P> The U.N.'s Food and Agriculture Organization (FAO) has said that 70 percent of the world's fishing stocks are either fully exploited or severely depleted. </P>
+<P> The world's nations are already starting to fight over sea resources -- Canada this week seized a Spanish fishing vessel in international waters off Newfoundland, saying the trawler and other European ships were overfishing the area. </P>
+</TEXT>
+</DOC>

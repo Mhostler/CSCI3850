@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0182.940922</DOCID>
+<TDTID>TDT003861</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/22/94 18:06</DATE>
+<TITLE> U.S. resumes transfer of Cubans to Panama</TITLE>
+<HEADLINE> U.S. resumes transfer of Cubans to Panama</HEADLINE>
+<SUBJECT> BC-CUBA-PANAMA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PANAMA CITY (Reuter) </DATELINE>
+<P>  The United States Thursday resumed the transfer of up to 10,000 Cuban refugees to Panama after the process was interrupted by U.S. intervention in Haiti. </P>
+<P> A flight carrying 153 Cuban boat people arrived Thursday at Howard Air Force Base in Panama from the Guantanamo Navy base in Cuba, U.S. military officials said. </P>
+<P> U.S. officials suspended the transfers last Friday to use Guantanamo as a staging area for possible military intervention in Haiti. U.S. forces began landing peacefully in Haiti Monday to restore democracy there. </P>
+<P> About 1,200 Cuban boat people that fled their island nation in the past two months have been transferred from Guantanamo to ``safe haven'' camps operated by the U.S. military near the Panama Canal. </P>
+<P> There were more than 24,000 Cuban refugees and 14,000 Haitian refugees at Guantanamo this past week. </P>
+</TEXT>
+</DOC>

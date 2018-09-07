@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU007-0025.941013</DOCID>
+<TDTID>TDT004974</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/13/94 14:36</DATE>
+<TITLE> New Guatemalan Supreme Court sworn in</TITLE>
+<HEADLINE> New Guatemalan Supreme Court sworn in</HEADLINE>
+<SUBJECT> BC-GUATEMALA-COURT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GUATEMALA CITY (Reuter) </DATELINE>
+<P>  A new 13-member Supreme Court was sworn in Thursday to replace judges deemed hopelessly corrupt by Guatemalan President Ramiro de Leon. </P>
+<P> Guatemalans voted in favor of replacing the judges and electing a new Congress in a January referendum aimed at purging government institutions of corruption. </P>
+<P> ``This is the final step in the process to save the nation and restore people's faith in democracy,'' de Leon said. </P>
+<P> The new Congress, which took office in September, elected the magistrates this week. The Supreme Court is Guatemala's most important legal body but has lost credibility over the past few years following a series of corruption scandals. </P>
+</TEXT>
+</DOC>

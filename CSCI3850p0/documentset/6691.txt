@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU013-0169.950519</DOCID>
+<TDTID>TDT013986</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/19/95 10:45</DATE>
+<TITLE> Japan's prime minister denies resignation rumors</TITLE>
+<HEADLINE> Japan's prime minister denies resignation rumors</HEADLINE>
+<SUBJECT> BC-JAPAN-MURAYAMA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Japan's embattled Prime Minister Tomiichi Murayama Friday repeated denials of rumors he planned to step down. </P>
+<P> ``I'm not thinking of quitting,'' Murayama told reporters. ``There's the (Group of Seven) summit (next month) and mountains of domestic and international problems.'' </P>
+<P> The 71-year-old Murayama, Japan's first Socialist prime minister in four decades, has been buffeted by comments from political and business quarters saying he should step aside. </P>
+<P> However a senior coalition official said Sunday that Murayama will represent Japan at next month's annual summit of G-7 industrialized states in Halifax, Nova Scotia. </P>
+<P> Murayama, chosen as a compromise leader last June to cement an awkward coalition between his Socialists, the conservative Liberal Democratic Party and another small party, has suffered steadily declining approval ratings. </P>
+<P> On Wednesday a nationwide poll conducted by Kyodo news agency, showed the percentage of voters who disapproved of his cabinet topped 50 percent for the first time. </P>
+<P> The poll attributed the rising disapproval to public dissatisfaction over Murayama's lack of political leadership in dealing with recent economic and security issues. </P>
+<P> Murayama has been accused of poor handling of the Kobe earthquake and the yen's rapid rise and attacked for allowing bureaucrats to defeat proposals to deregulate Japan's economy. </P>
+</TEXT>
+</DOC>

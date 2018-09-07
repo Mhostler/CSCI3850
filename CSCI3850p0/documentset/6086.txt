@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU017-0063.950427</DOCID>
+<TDTID>TDT013138</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/27/95 07:10</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-PIPELINE-USA -2 MOSCOW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Tass said a U.S. spy satellite detected a large fireball after the gas caught fire early on Thursday morning. </P>
+<P> An official from the U.S. embassy in Moscow declined to comment on rumours the blast may have set off a security alert in Washington. ``You'll have to ask the CIA or the Pentagon to find that out,'' he said. </P>
+<P> Intelligence sources in Washington said they were initially concerned by the size of the flames, which shot thousands of metres (feet) into the air, but that they quickly established their origin. They did not mention a security alert. </P>
+</TEXT>
+</DOC>

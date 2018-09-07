@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU007-0095.950411</DOCID>
+<TDTID>TDT012434</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/11/95 11:12</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CLINTON-TAX -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> In a statement explaining his decision, Clinton voiced regret with some provisions in the bill and said it underscores the need for the president to be given line item veto authority, which is now being considered by Congress. </P>
+<P> The bill reinstates and expands on a tax deduction for self-employed workers who have health insurance. It permits them to deduct 25 percent of the cost of the premiums for themselves and their families for 1994, and 30 percent starting this year. </P>
+<P> Clinton expressed his ``regret'' that the bill failed to address a loophole in the current tax laws that permits billionaires to avoid paying income taxes by renouncing their citizenship. </P>
+<P> He also said he was unhappy that the measure repeals a longstanding tax preference for firms that sell facilities to minority broadcasters, retroactive to Jan. 17. </P>
+</TEXT>
+</DOC>

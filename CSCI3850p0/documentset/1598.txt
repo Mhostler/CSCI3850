@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0297.940926</DOCID>
+<TDTID>TDT003976</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/26/94 08:55</DATE>
+<TITLE> Ailing U.S. ambassador will not return to Beirut</TITLE>
+<HEADLINE> Ailing U.S. ambassador will not return to Beirut</HEADLINE>
+<SUBJECT> BC-LEBANON-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIRUT, Lebanon (Reuter) </DATELINE>
+<P>  Washington has informed Lebanon that U.S. Ambassador Mark Hambley, who left Beirut two weeks ago, will not return because of ill-health, Lebanese foreign ministry sources said Monday. </P>
+<P> The sources said the U.S. administration categorically denied, in an official notification to Lebanon's ambassador in Washington, Beirut newspaper reports that a political rift was behind Hambley's absence. </P>
+<P> There were no details of the illness of the ambassador, who took up his post less than a year ago. </P>
+<P> Hambley's sudden departure from Beirut raised extensive speculation in the press, including reports that it was a reflection of a diplomatic dispute between the two countries. </P>
+<P> The reports said relations between the two countries were strained when President Elias Hrawi turned down an invitation for a brief meeting with President Clinton. </P>
+</TEXT>
+</DOC>

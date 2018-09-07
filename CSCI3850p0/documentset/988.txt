@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0012.940825</DOCID>
+<TDTID>TDT002435</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/25/94 13:54</DATE>
+<TITLE> GM PARTS STRIKE IDLES NINE ASSEMBLY PLANTS, 36,000 WORKERS</TITLE>
+<HEADLINE> GM PARTS STRIKE IDLES NINE ASSEMBLY PLANTS, 36,000 WORKERS</HEADLINE>
+<SUBJECT> BC-USA-STRIKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  General Motors Corp, hit by a strike at a key Indiana parts plant, said Thursday the walkout forced it to halt production at nine assembly plants. </P>
+<P> The shutdowns idled more than 36,000 hourly workers, and the auto giant said production at most of its 20 other U.S. and Canadian plants could grind to a halt within days or even hours if the strike continued. ``It's going to be an hour-to-hour thing,'' said spokesman John Shea. </P>
+<P> The plants are running out of bumpers, exterior signal lights and lighting controls made by GM's strikebound Inland Fisher Guide Division plant in Anderson, Ind. </P>
+<P> About 3,300 United Auto Workers members walked off their jobs at the plant on Tuesday after UAW and GM bargainers failed to resolve a labor dispute over GM's plans shift work from the plant to outside suppliers to reduce costs. </P>
+<P> Negotiations were continuing, but GM's parts inventories were dwindling. Like all major automakers, GM uses a just-in-time inventory system in which parts are delivered to the assembly line as neeeded. </P>
+<P> The shutdowns come just after a dismal government report on durable goods orders, showing the auto industry was hurt last month by the growing practice of shutting down for two weeks in July for model changeovers and vacations. </P>
+<P> The durable goods decline in July was the first in five months and only the second since the previous July. Until now, the manufacturing industry had been growing robustly. </P>
+<P> If the plant closings spread, the strike could cost GM hundreds of millions of dollars in lost profits. The automaker is straining to meet demand, and analysts say it will not be able to make up lost production. </P>
+<P> The walkout is considered a test for the new boss of GM's North American automotive operations, G. Richard Wagoner, who has a mandate from GM President Jack Smith to cut costs. </P>
+<P> The UAW has waged three other brief strikes this year against GM in an effort to preserve jobs, but none has had the ripple effect of the Anderson walkout. </P>
+</TEXT>
+</DOC>

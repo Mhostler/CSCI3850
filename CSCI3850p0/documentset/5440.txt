@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU002-0370.950404</DOCID>
+<TDTID>TDT012091</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 11:12</DATE>
+<TITLE> Turtle research could save stroke victims-experts</TITLE>
+<HEADLINE> Turtle research could save stroke victims-experts</HEADLINE>
+<SUBJECT> BC-HEALTH-TURTLES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Researchers said Tuesday they had discovered how turtles are able to stay underwater for hours without suffering brain damage and were developing drugs based on this so-called ``turtle effect'' to save stroke victims. </P>
+<P> They told a meeting of Britain's Biochemical Society they had found out how turtles slow down brain activity to save oxygen when holding their breath. </P>
+<P> ``This is a protective mechanism that appears particularly promising because we already know it works in animals,'' Michael Spedding, of the Institut de Recherches Servier in Paris, said in a statement released by the Society. </P>
+<P> Drugs being developed could mimic the effect, saving victims of strokes -- which starve the brain of oxygen by cutting off the blood supply, usually when a blood clot blocks an artery. </P>
+<P> This causes an overload of sodium and calcium, and cells start to die quickly. Spedding said existing epilepsy drugs blocked sodium and had been tried out in stroke victims with positive results. </P>
+<P> ``Even more encouraging results have been obtained by using drugs which inhibit both sodium and calcium channels in combination, and in animal models these agents have been shown to reduce the infarct -- the area of brain tissue killed as a result -- by more than 50 percent,'' he said. </P>
+<P> ``In human terms that means a much greater chance of recovery from stroke; some people who are now condemned to die would survive and other people who now survive would be spared major disabilities.'' </P>
+<P> Several pharmaceutical companies were racing to develop such drugs, he added. Results are expected over the next year. </P>
+<P> ``The very first treatment to be launched will revolutionize therapy because at present there is no drug which can be given after a stroke to reduce damage, although it will be important to administer the drug in the first few hours after the stroke.'' </P>
+<P> Earlier this year British and Japanese researchers announced they had studied the abilities of crocodiles to stay underwater and created a cross between human and crocodile blood that could be used as an artificial blood. </P>
+</TEXT>
+</DOC>

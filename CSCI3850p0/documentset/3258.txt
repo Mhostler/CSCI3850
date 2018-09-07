@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0376.941216</DOCID>
+<TDTID>TDT008048</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/16/94 02:14</DATE>
+<TITLE> FCC may let cable firms negotiate lower refunds-report</TITLE>
+<HEADLINE> FCC may let cable firms negotiate lower refunds-report</HEADLINE>
+<SUBJECT> BC-FCC-CABLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Federal Communications Commission may allow the nation's cable television companies to negotiate reductions in the refunds they owe to millions of their subscribers, the Washington Post reported Friday. </P>
+<P> The paper said if the plan is approved, cable TV customers would likely get smaller refunds, but they would get their checks more quickly than if the commission followed its formal procedures for processing complaints. </P>
+<P> The FCC currently has a backlog of about 6,400 consumer complaints. </P>
+<P> FCC chairman Reed Hundt, who championed a second round of cable price cuts in February, has been under intense pressure from the industry to ease up on further regulation. In recent months, he has allowed the industry to raise prices slightly to let firms expand their services. </P>
+<P> The paper quoted a senior commission official as saying the FCC could avoid months of administrative delay and probable legal challenges by negotiating settlements with cable companies. </P>
+<P> ``I think this has the potential to be a very good thing for subscribers, for the government, and for the cable companies,'' one official told the paper. ``We won't have to tie up additional resources.'' </P>
+</TEXT>
+</DOC>

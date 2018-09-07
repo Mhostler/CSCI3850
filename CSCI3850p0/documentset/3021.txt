@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0047.941206</DOCID>
+<TDTID>TDT007498</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 11:15</DATE>
+<TITLE> Replica ship to retrace transatlantic voyage</TITLE>
+<HEADLINE> Replica ship to retrace transatlantic voyage</HEADLINE>
+<SUBJECT> BC-BRITAIN-CABOT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A replica of the ship in which Italian navigator John Cabot became the first European to reach the North American mainland will sail across the Atlantic in 1997 to celebrate the 500th anniversary of the original voyage. </P>
+<P> ``She will be quite a challenge to sail,'' said Peter Workman, director-general of the anniversary celebrations. </P>
+<P> The replica will be sailed just like a medieval ship and although by law a motor has to be fitted it will not be used, Workman said. The ship, being built in Bristol, western England, at a cost of around $1.5 million, is due to arrive in eastern Canada, where Cabot first landed, in June 1997. </P>
+<P> Cabot was commissioned by King Henry VII of England to discover unknown lands in 1497. After returning to Bristol he visited the king, who thanked him and paid him $15. </P>
+</TEXT>
+</DOC>

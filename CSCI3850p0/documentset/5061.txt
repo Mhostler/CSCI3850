@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0394.950321</DOCID>
+<TDTID>TDT011508</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/21/95 08:00</DATE>
+<TITLE> Ukraine says Clinton sent Kuchma letter of support</TITLE>
+<HEADLINE> Ukraine says Clinton sent Kuchma letter of support</HEADLINE>
+<SUBJECT> BC-UKRAINE-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KIEV, Ukraine (Reuter) </DATELINE>
+<P>  President Clinton, due to visit Ukraine in May, has sent Ukrainian leader Leonid Kuchma a letter supporting his reforms, the foreign ministry said Tuesday. </P>
+<P> ``Kuchma received a warm letter from Bill Clinton in which he accepted an invitation to visit our country ... and stressed that the United States will support the reforms of Kuchma's administration,'' a ministry spokesman told a news conference. </P>
+<P> He said Ukraine was preparing a reply to settle the timetable of Clinton's visit. He is due to attend ceremonies in Moscow on May 9 marking the 50th anniversary of the allied victory in World War II, and arrive in Kiev the following day. </P>
+<P> Clinton made a brief stopover in Kiev last year on his way to Moscow to sign a deal with Russia and Ukraine providing Ukraine with compensation for giving up its share of the former Soviet nuclear arsenal. </P>
+<P> Kuchma made a state visit to the United States last November. </P>
+<P> Kuchma last year elaborated and secured parliamentary approval for Ukraine's first post-Soviet economic reform program, backed by the International Monetary Fund. </P>
+</TEXT>
+</DOC>

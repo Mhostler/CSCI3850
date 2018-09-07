@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU009-0252.941119</DOCID>
+<TDTID>TDT006758</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/19/94 14:12</DATE>
+<TITLE> Lloyd-Webber's horse earns star billing</TITLE>
+<HEADLINE> Lloyd-Webber's horse earns star billing</HEADLINE>
+<SUBJECT> BC-WEBBER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Horse-race enthusiast Andrew Lloyd-Webber, back in Britain a day after the Broadway debut of his musical Sunset Boulevard, saluted his latest star at Ascot Saturday. </P>
+<P> Unbeaten Raymylette, running in the colors of Sir Andrew's wife Madeleine, produced an outstanding performance in the First National Bank Gold Cup. </P>
+<P> Carrying top weight, Raymylette jumped immaculately, leading from start to finish to beat Couldn't be Better by a length with Beachy Head third. </P>
+<P> The display was impressive enough to prompt a leading British bookmaker to introduce Raymylette at 20-1 for the Cheltenham Gold Cup in March. </P>
+<P> ``He is a very exciting horse who has come forward from being a top novice to winning his first handicap. He's beaten some very good horses and will probably be very good himself,'' said Lady Madeleine. </P>
+<P> Raymylette, confidently ridden by Mick Fitzgerald, was fitted with a special bit to prevent him running too freely in front. </P>
+<P> Trainer Nicky Henderson said: ``That was a good performance. He's gone a good gallop with a lot of weight on his back.'' </P>
+</TEXT>
+</DOC>

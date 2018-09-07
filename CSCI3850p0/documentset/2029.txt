@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU007-0338.941014</DOCID>
+<TDTID>TDT005058</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/14/94 16:59</DATE>
+<TITLE> Judge upholds charges against Rostenkowski</TITLE>
+<HEADLINE> Judge upholds charges against Rostenkowski</HEADLINE>
+<SUBJECT> BC-ROSTENKOWSKI 1STLD </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Combining takes, adding background)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A federal court Friday threw out Rep. Dan Rostenkowski's claim that fraud and theft charges against him were unconstitutional. </P>
+<P> ``The court concludes that the indictment does not violate the Constitution,'' U.S. District Judge Normal Holloway Johnson said in a 28-page ruling. </P>
+<P> Rostenkowski's lawyers had said they would appeal. Johnson said earlier that no matter which way she ruled the case would be taken up to the Court of Appeals. </P>
+<P> Rostenkowski claims the 17 felony charges against him violate the Constitution because the executive branch is stepping on the toes of the legislative branch by asserting he appropriated thousands of dollars taxpayer money for his personal use. </P>
+<P> Rostenkowski served as chairman of the powerful Ways and Means Committee until he was forced to step aside because of his indictment. He is seeking re-election in the Nov. 8 election. </P>
+<P> The Illinois Democrat contends that if he violated House rules it is up to the House to punish him. </P>
+<P> Federal prosecutors replied that he was charged with violating criminal rules and that House rules will be used as evidence of his crimes. Johnson agreed. </P>
+<P> ``Neither the parties nor the court have been able to find a single case in which a court dismissed a criminal indictment'' because of such constitutional factors, Johnson wrote. </P>
+<P> She said the Constitution ``simply grants to Congress the power to make internal rules and punish its members -- it does not forbid a court from interpreting'' House rules. </P>
+<P> The judge noted that Rostenkowski is charged with concealing information about his use of the congressional payroll to have employees perform personal service such as cutting his grass and concealing information about the conversion of funds from the House post office for his own use. </P>
+<P> ``It is not a matter of internal House rules whether Congressman Rostenkowski concealed material information'' about such matters, Johnson said. </P>
+<P> Rostenkowski was indicted May 31 and there is no indication when the trial may take place. </P>
+</TEXT>
+</DOC>

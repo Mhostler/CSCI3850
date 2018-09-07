@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0379.950422</DOCID>
+<TDTID>TDT012874</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/22/95 05:46</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CIS-CHECHNYA-BAMUT -2 MOSCOW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Bamut, where separatists have resisted Russian troops for more than three months, is a gateway to mountainous rebel-held areas in southern Chechnya. </P>
+<P> The Russians, who seized most of the central and northern parts of the breakaway region during a military campaign begun last December, are keen to gain control of the mountainous south as soon as possible. </P>
+<P> Interfax said on Friday 19 Russian servicemen were killed in the latest bid to seize Bamut which began earlier this month. On Wednesday they captured the village for just one day but had to retreat because of heavy rebel shelling from nearby hills. </P>
+<P> Interfax quoted the Russian military as saying on Friday troops had advanced into the mountains through areas bordering another Russian region, Dagestan, Chechnya's eastern neighbour. There was no independent confirmation of the report. </P>
+</TEXT>
+</DOC>

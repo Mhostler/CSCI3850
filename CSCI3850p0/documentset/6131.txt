@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU018-0083.950428</DOCID>
+<TDTID>TDT013225</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/28/95 17:03</DATE>
+<TITLE> Peru congress vote accuses Garcia in train case</TITLE>
+<HEADLINE> Peru congress vote accuses Garcia in train case</HEADLINE>
+<SUBJECT> BC-PERU-EXPRESIDENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LIMA (Reuter) </DATELINE>
+<P>  Peru's Congress on Friday unanimously approved a so-called ``constitutional accusation'' against former president Alan Garcia in a case of alleged corruption linked to the construction of a railway in Lima. </P>
+<P> The 80-member Congress, in a 59-0 vote, approved a finding by a congressional panel which probed the case, saying Garcia was guilty of corruption, illegal enrichment, inappropriate negotiations and bribery. </P>
+<P> The finding will now be sent to the Attorney's General, who will decide whether to formally charge him. If she does, the case go to Peru's Supreme Court, which will decide whether to strip Garcia of his constitutional immunity and try him. </P>
+<P> The parliamentary vote, the third Garcia has faced since he left office in 1990, came on the heels of the arrest of a fugitive businessman with links to Garcia who pledged to cooperate in unravelling cases of alleged corruption. </P>
+<P> President Alberto Fujimori said Thursday that Alfredo Zanatti could get immunity from charges of misuse of up to $27 million in state funds if he gives proof linking Garcia to the train case and another involving import subsidies. </P>
+<P> Garcia, who served as president from 1985-1990, went into exile in Colombia after the government tried to arrest him in April 1992. He has said he is innocent of the charges. </P>
+</TEXT>
+</DOC>

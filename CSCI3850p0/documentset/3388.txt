@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU010-0290.941222</DOCID>
+<TDTID>TDT008351</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/22/94 18:46</DATE>
+<TITLE> Guard dies from attack at federal prison</TITLE>
+<HEADLINE> Guard dies from attack at federal prison</HEADLINE>
+<SUBJECT> BC-GUARD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  A federal prison guard has been killed in the line of duty for the first time since 1987, federal officials said Thursday. </P>
+<P> D'Antonio Washington, a guard at the U.S. Penitentiary in Atlanta, died Thursday morning from head injuries suffered in an attack by an inmate. He was the first guard killed at the facility in about 15 years, a prison spokeswoman said. </P>
+<P> The Federal Bureau of Investigation said it had identified a suspect in the case but would not release his identity until a grand jury formally charges him with murder. </P>
+<P> An official of the union representing prison guards told television station WSB-TV the incident occurred because of inadequate staffing and dangerous conditions. </P>
+<P> ``There has been no shakedown of inmates ... there are no weapons inside,'' said Kenneth Blaylock, vice president of the American Federation of Government Employees. </P>
+<P> The U.S. penitentiary, once home to gangster Al Capone, was the site of a two-week uprising in November 1987 by Cuban refugees angry at their continued detention. Over 73 prison workers have been assaulted at the Atlanta penitentiary in the past two years. </P>
+<P> A memorial service for Washington was held at the penitentiary Thursday afternoon. </P>
+</TEXT>
+</DOC>

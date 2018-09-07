@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0069.941125</DOCID>
+<TDTID>TDT007036</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/25/94 19:20</DATE>
+<TITLE> Alpine skiing-Kidney infection sidelines Compagnoni</TITLE>
+<HEADLINE> Alpine skiing-Kidney infection sidelines Compagnoni</HEADLINE>
+<SUBJECT> BC-ALPINE SKIING-COMPAGNONI </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARK CITY, Utah (Reuter) </DATELINE>
+<P>  A kidney infection will keep Italian star Deborah Compagnoni from competing in all three North American races on the women's World Cup tour which begins Saturday with a giant slalom at Park City. </P>
+<P> Compagnoni, a gold medalist in the last two Olympics, remained in Italy under bed rest and won't race until Dec. 17-18 at Veysonnaz, Switzerland, at the earliest, a source close to the team said. </P>
+<P> Meanwhile, Park City officials braced for an impending storm that was expected to dump up to a foot on the race course just prior to Saturday's giant slalom. A slalom also is scheduled for Sunday. </P>
+</TEXT>
+</DOC>

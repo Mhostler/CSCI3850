@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU005-0220.950310</DOCID>
+<TDTID>TDT011145</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/10/95 04:00</DATE>
+<TITLE> Dollar holding up in Europe before U.S. data</TITLE>
+<HEADLINE> Dollar holding up in Europe before U.S. data</HEADLINE>
+<SUBJECT> BC-MARKETS-DOLLAR-EUROPE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  The dollar held onto overnight gains in European trading Friday and a nervous day of trading is expected ahead of the crucial U.S. unemployment report for February, dealers said. </P>
+<P> The dollar has risen by more than four pfennigs and two yen compared with this week's lows after central bankers gave their verbal support to the ailing currency. </P>
+<P> But whether the dollar can keep rising depends on the strength of the U.S. economy, dealers said. </P>
+<P> Some of the answer may lie in the employment data due at 8:30 a.m. EST. A Reuters poll of economists forecasts U.S. jobs to have increased 238,000 in February versus 134,000 in January. </P>
+<P> A big rise in employment will show that the U.S. economy is still growing rapidly despite repeated increases in interest rates, indicating the need to further tighten policy. </P>
+<P> But dealers also want the world's central banks to put their money where their mouths are and intervene in the exchange markets to push up the dollar by buying its for yen and marks. </P>
+<P> ``Strong figures and aggressive (central bank) intervention might do the trick. I'm doubtful anything will happen to interest rates though,'' said a U.S. bank dealer in London. </P>
+<P> Although officials have showered the dollar with verbal support, analysts were still sceptical whether the United States, Japan and Germany would change monetary policy in a coordinated effort to restore stability to the foreign exchange market. </P>
+<P> In early trading, the dollar was at 1.4025 marks and 91.25 yen, higher than a late Thursday's 1.3892 and 90.37. </P>
+</TEXT>
+</DOC>

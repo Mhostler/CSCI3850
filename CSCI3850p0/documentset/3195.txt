@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU006-0399.941214</DOCID>
+<TDTID>TDT007917</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 11:32</DATE>
+<TITLE> Vice President Gore starts trip to Moscow</TITLE>
+<HEADLINE> Vice President Gore starts trip to Moscow</HEADLINE>
+<SUBJECT> BC-RUSSIA-GORE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Vice President Al Gore began a three-day visit to Moscow Wednesday to discuss joint efforts in space, energy and other development projects. </P>
+<P> There was no indication whether Gore discussed the fighting in the breakaway region of Chechnya, where Russian troops are engaged in their biggest military operation since the 10-year Afghan conflict. </P>
+<P> Gore said he was optimistic before the fourth meeting of the Russian-American Commission on Economic and Technological Cooperation which he jointly heads with Russian Prime Minister Viktor Chernomyrdin. </P>
+<P> ``We are well prepared to work and in a very optimistic mood,'' Gore was quoted as saying by the Itar-Tass news agency after being met by Chernomyrdin. </P>
+<P> ``During the previous sessions we managed to achieve positive results in the interests of both the Russian and the American people. And we are looking forward to continuing this work.'' </P>
+<P> Gore wants to work out final details of long-planned U.S.-Russian joint efforts in space during his trip. </P>
+<P> Plans include the launch in February of an American shuttle which will maneuver close to the Russian space station Mir and sending up an American astronaut in a Russian rocket in March to work on Mir. </P>
+<P> U.S. officials have said they expect problems over Russian customs controls and questions about safety to be worked out and plan to discuss joint unmanned exploration of Mars. </P>
+<P> Other issues for discussion will include energy, health, defense conversion and the environment, U.S. officials said, but gave no details. </P>
+<P> Gore hopes also to meet President Boris Yeltsin but said the meeting depended on whether the Russian leader had recovered from a minor operation on his nose. </P>
+</TEXT>
+</DOC>

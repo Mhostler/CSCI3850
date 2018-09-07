@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU011-0400.950126</DOCID>
+<TDTID>TDT009759</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/26/95 01:00</DATE>
+<TITLE> Orange County sends sober message to bondholders</TITLE>
+<HEADLINE> Orange County sends sober message to bondholders</HEADLINE>
+<SUBJECT> BC-INVESTMENTS-COUNTY 2NDLD </SUBJECT>
+<AUTHOR>     By Adam Entous </AUTHOR>
+<TEXT>
+<NOTES>(updates, adds details)</NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  Orange County, California, in a sober message to bondholders, said Wednesday that it would not use the county-run investment pool to pay debt service and that bonds would be paid on a cash availability basis. </P>
+<P> ``The county's budget deficit is staggering, and the county's resources are limited,'' the county said in papers filed in a Santa Ana, Calif., bankruptcy court. </P>
+<P> ``The county simply cannot withdraw additional funds from the investment pool to shore up the general fund or pay debt service,'' the county said. </P>
+<P> Debt service payments for the month of February would be made based on ``cash availability,'' the county insisted, arguing that it would be irresponsible to promise otherwise. </P>
+<P> ``The county conditioned the payments upon cash availability, because cash scarcity is a fact of life,'' the county said. </P>
+<P> Separately, documents show that this southern California county, long a bastion of support for lower taxes and smaller government, was advised by its banking consultants to consider raising taxes to make it through its financial crisis. </P>
+<P> Goldman Sachs & Co. and A.G. Edwards & Sons Inc., said in written presentations to Orange County that higher taxes should be considered to boost the county's revenues. </P>
+<P> Goldman Sachs and A.G. Edwards were brought in by the county last week to develop plans for restructuring the county's debt and possibly issuing new borrowings. </P>
+<P> The firms declined comment Wednesday. </P>
+<P> Many county officials, however, say they oppose raising taxes. </P>
+<P> ``I support absolutely no new taxes to pay for the debacle,'' said County Supervisor Jim Silva. Aides to other supervisors said their bosses would also oppose new taxes. </P>
+<P> On Dec. 6, Orange County filed for bankruptcy after sustaining a loss now estimated at $1.7 billion in its investment pool. </P>
+<P> Orange County's investment pool boasted high interest earnings for many years, but those earnings depended upon interest rates remaining low. When rates rose sharply instead last year, the county's investments suffered heavy losses. </P>
+<P> Due to the extent of these losses, the county said in court documents Wednesday that it could not satisfy all of its ongoing bond obligations by accessing funds in the county-run investment pool. </P>
+<P> ``Virtually all of the remaining accounts in the county's name in the investment pool are not accessible and cannot be used for general fund purposes,'' the county said. </P>
+<P> In the current fiscal year ending June 30, the county faces a budget deficit in the general fund of about $172 million. Next year's general fund deficit ``may meet or exceed this amount,'' the county said in the court documents. </P>
+<P> ``Without question, the county's bondholders are a vital important constinuency in this case,'' the county said. ''However, the county must act prudently and cannot over-promise.'' </P>
+</TEXT>
+</DOC>

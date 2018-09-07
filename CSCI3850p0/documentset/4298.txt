@@ -1,0 +1,32 @@
+<DOC>
+<DOCID>REU006-0105.950211</DOCID>
+<TDTID>TDT010348</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/11/95 10:29</DATE>
+<TITLE> Shuttle back home after space station flyby</TITLE>
+<HEADLINE> Shuttle back home after space station flyby</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE 2NDLD </SUBJECT>
+<AUTHOR>     By Beth Dickey </AUTHOR>
+<TEXT>
+<NOTES>  (Updates with quotes)</NOTES>
+<DATELINE>CAPE CANAVERAL, Fla.(Reuter) </DATELINE>
+<P>  Five astronauts and a cosmonaut landed in Florida aboard the space shuttle Discovery early Saturday after eight historic days in orbit on a mission to rendezvous with Russia's space station Mir. </P>
+<P> Shuttle commander James Wetherbee, a U.S. Navy flyer, guided Discovery down to a smooth landing on a concrete runway at the Kennedy Space Center in Florida at 6:50 a.m. EST. </P>
+<P> Discovery and its crew -- including veteran Rusian cosmonaut Vladimir Titov -- were returning from what NASA described as one of the most demanding of all 67 shuttle missions to date. </P>
+<P> ``Welcome home and congratulations on an outstanding mission. You all did a terrific job up there,'' Mission Control's Brent Jett radioed the crew from Houston as the shuttle rolled to a stop after a journey of 3 million miles, or 130 orbits. </P>
+<P> The flight began to merge the space programs of the United States and Russia. It set the stage for future shuttles to dock with Mir to deliver passengers and equipment. </P>
+<P> Seven such missions are planned before late 1997, when the two nations aim to begin building a new $40 billion space station with the help of Canada, Europe and Japan. </P>
+<P> The flight ``as a dress rehearsal ... was very successful. We learned a lot about working with the Russians ... and that was indeed the purpose,'' NASA shuttle program chief Brewster Shaw said Saturday at the Johnson Space Center in Houston. </P>
+<P> Wetherbee fired Discovery's braking rockets at 5:44 a.m. EST, slowing the shuttle's 17,500-mph orbital speed just enough for gravity to pull the craft back to Earth. </P>
+<P> ``KSC, here we come,'' Wetherbee said. </P>
+<P> Discovery announced its presence near the Kennedy Space Center with twin sonic booms that rattled windows and roused sleepers from their beds just after daybreak. </P>
+<P> In Houston, flight director Wayne Hale said brisk winds kept Wetherbee from following a commanders' tradition that would have permitted shuttle pilot Eileen Collins -- the first woman to serve in that capacity -- to handle the controls briefly as the shuttle began its final approach to Florida's central east coast. </P>
+<P> For safety reasons, Wetherbee elected to engage the shuttle's autopilot at the point where he might otherwise have turned over the controls to Collins, but he was back in command when Discovery's tires met the pavement. </P>
+<P> ``To the best of our knowledge, Eileen did not get any stick (manual flying) time,'' Hale said. ``That is standard procedure.'' </P>
+<P> Collins' stint as shuttle pilot -- actually co-pilot -- put her in line for possible assignment to a future mission as the first woman space shuttle commander. </P>
+<P> The highlight of Discovery's flight was a close encounter with the Russian space station Monday. </P>
+<P> Wetherbee flew the shuttle to within 37 feet of Mir, then backed away and circled the nine-year-old space station while crewmembers made a photographic survey. Collins operated Discovery's radar system during the rendezvous. </P>
+<P> The fly-around was a rehearsal for the June flight of shuttle Atlantis, which will become the first international spaceship to dock with Mir. </P>
+<P> Joining Wetherbee, Collins and Titov on the crew were flight engineer Michael Foale, a British-born astronaut who is a U.S. citizen; physician-astronaut Bernard Harris, the first black American to walk in space; and mission specialist Janice Voss. </P>
+</TEXT>
+</DOC>

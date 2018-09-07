@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0181.941217</DOCID>
+<TDTID>TDT008109</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/17/94 10:10</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-AIRPORT-ARRIVAL -2 SARAJEVO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The second of two scheduled U.N. flights was due to arrive later in the day but the first relief plane was not expected before next week. </P>
+<P> The Bosnian Serb Army had earlier frustrated the U.N. by refusing clearance for Saturday's flights. </P>
+<P> Radovan Karadzic, president of the self-proclaimed Bosnian Serb republic, promised the airport would be allowed to reopen as part of a package of measures to spur peace talks. </P>
+<P> Former U.S. President Jimmy Carter said Saturday he was traveling to Bosnia over the weekend to mediate between Karadzic and the Muslim-led Bosnian government. </P>
+</TEXT>
+</DOC>

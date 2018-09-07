@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0222.950308</DOCID>
+<TDTID>TDT011078</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/08/95 06:06</DATE>
+<TITLE> Italian police arrest reputed Russian Mafia boss</TITLE>
+<HEADLINE> Italian police arrest reputed Russian Mafia boss</HEADLINE>
+<SUBJECT> BC-ITALY-ARREST </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FANO, Italy (Reuter) </DATELINE>
+<P>  A man reputed to be a leader of the Russian Mafia operating in New York City was arrested Wednesday, Italian police said. </P>
+<P> Monya Elson, 44, was captured in a hotel in the town of Fano on the Adriatic coast where he had been staying. Police said he was wanted in New York on charges of attempted murder stemming from a car bombing and two other murders. </P>
+<P> They said the Russian-born Elson, now a United States citizen, was the reputed leader of a gang of the Russian Mafia which carried out extortion in the Brooklyn section of New York City, where many Russian immigrants live. </P>
+<P> Police said Elson was also the target of a money laundering investigation in Italy. </P>
+<P> In another arrest, police in Rome said they had captured a suspected organised crime boss from the southern Puglia region who had been a fugitive for two years. </P>
+<P> They said Angelo Clemente Leone, who had been convicted in his absence of murder and Mafia association, was arrested at dawn in a farmhouse south of Rome. Police identified him as a boss of the Sacra Corona Unita, the Puglian Mafia. </P>
+</TEXT>
+</DOC>

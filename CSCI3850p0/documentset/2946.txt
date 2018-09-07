@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0139.941201</DOCID>
+<TDTID>TDT007309</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/01/94 16:14</DATE>
+<TITLE> Eight prisoners suspected in Dahmer prison murder</TITLE>
+<HEADLINE> Eight prisoners suspected in Dahmer prison murder</HEADLINE>
+<SUBJECT> BC-DAHMER-SUSPECTS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MADISON, Wis.(Reuter) </DATELINE>
+<P>  Eight inmates are suspected to have taken part in the prison murder of serial killer Jeffrey Dahmer, state prison officials said Thursday. </P>
+<P> Previously, the investigation into Monday's bludgeoning murders of Dahmer, 34, and fellow-inmate Jesse Anderson, 37, focused on Stephen Scarver, 25, an inmate working on the same janitorial detail. </P>
+</TEXT>
+</DOC>

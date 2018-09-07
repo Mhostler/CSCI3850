@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0273.941113</DOCID>
+<TDTID>TDT006447</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/13/94 08:26</DATE>
+<TITLE> Algerian hijackers want political prisoners freed</TITLE>
+<HEADLINE> Algerian hijackers want political prisoners freed</HEADLINE>
+<SUBJECT> BC-HIJACK-SPAIN-PRISONERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PALMA DE MAJORCA, Spain (Reuter) </DATELINE>
+<P>  Hijackers diverted an Algerian aircraft to Majorca Sunday and called for the freeing of all political prisoners in Algeria, airport officials said. </P>
+<P> They said the hijackers were also demanding that elections interrupted in 1991 be resumed. They were annulled after the first round was won by Islamic fundamentalists. </P>
+<P> Airport director Pedro Meauria, involved in the negotiations with the hijackers, said he had been told there were explosives on board but had not been able to confirm this. </P>
+<P> But he said the hijackers had described themselves as ``peaceful citizens.'' </P>
+<P> Meauria said two passengers and two air hostesses had been allowed off the plane. Another passengers was released earlier after suffering a nervous breakdown. </P>
+<P> The Fokker 27, with 38 passengers and four crew on board, was on a domestic flight between Algiers and Ouargla, 340 miles to the south in the Sahara desert, when it was diverted to Majorca. All those on board are believed to be Algerians. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU008-0007.941015</DOCID>
+<TDTID>TDT005088</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/15/94 11:10</DATE>
+<TITLE> Italian unions call for new protest against budget</TITLE>
+<HEADLINE> Italian unions call for new protest against budget</HEADLINE>
+<SUBJECT> BC-ITALY </SUBJECT>
+<AUTHOR>     By Samantha Conti </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  Italy's government and unions were headed for a showdown over the 1995 budget Saturday as cabinet ministers defended their cost-cutting package and labor groups called for another general strike. </P>
+<P> The government vowed to stand firm on its 1995 budget a day after some three million Italians took to the streets during a four-hour general strike to protest its cost-cutting measures. </P>
+<P> ``Parliament must pass the budget which is valid because it is necessary,'' Prime Minister Silvio Berlusconi said in Moscow, where he was on an official visit. ``Not even 10 general strikes could change the 1995 budget.'' </P>
+<P> Leaders of Italy's three main unions called an eight-hour strike -- whose date was not set -- and announced a national demonstration in Rome for November 19. </P>
+<P> Pietro Larizza, leader of the UIL union, said it was now up to the government to initiate talks with the unions. </P>
+<P> ``No dialogue whatsoever will be possible if the government insists on backing this budget, which weighs heavily on workers and pensioners. </P>
+<P> ``We would, however, be willing to talk if the government agreed to remove this onus from the people. So far, there has been no sign from the government that they are willing to do so.'' </P>
+<P> Berlusconi, a media magnate who entered politics only this year promising an economic boom and an end to decades of chronic state overspending, has staked his credibility on a budget that aims to slash $33 billion from the 1995 deficit. </P>
+<P> More than half the savings are due to come from cutting government spending, among other things on pensions, health and defense. </P>
+<P> The four-hour strike Friday seriously disrupted rail and air transport and closed government offices, banks, schools, and border posts. Even hospitals were forced to limit their services. </P>
+<P> The turnout for demonstrations in all the country's major cities added up to one of the largest street protests since widespread industrial unrest in the 1970s. </P>
+</TEXT>
+</DOC>

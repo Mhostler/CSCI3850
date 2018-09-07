@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0220.950312</DOCID>
+<TDTID>TDT011220</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/12/95 13:37</DATE>
+<TITLE> GM gets pension exemption from Labor Department</TITLE>
+<HEADLINE> GM gets pension exemption from Labor Department</HEADLINE>
+<SUBJECT> BC-GM (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>Release at 6 p.m. EST</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Secretary of Labor Robert Reich announced a plan Sunday that would allow General Motors to contribute more than $6 billion in stock to its under-funded pension plan. </P>
+<P> The contribution of 173 million shares of Class E stock required an exemption from federal regulations. In return for the exemption from the Labor Department's Pension and Welfare Benefits Administration, GM also has agreed to make a $4 billion cash contribution to the fund. </P>
+<P> Federal law prohibits a pension plan from holding more than 10 percent of its assets in employer stock. The contributed stock will constitute about 21 percent of the GM fund's total assets. </P>
+<P> The Labor Department described the GM program as the largest under-funded pension plan in the country. It said the exemption, which is effective Monday, would protect the benefits of 600,000 current and retired GM hourly employees. </P>
+<P> ``Our action will bring greater retirment security to GM's workers and retirees,'' Reich said in a statement. ``In allowing this contribution, the largest ever made to a pension plan, we are asserting broad protections for workers as we improve the funding of their pensions.'' </P>
+<P> The department said the GM pension plan was under-funded by an estimated $19.5 billion in 1993. </P>
+</TEXT>
+</DOC>

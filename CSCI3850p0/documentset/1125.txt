@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0265.940902</DOCID>
+<TDTID>TDT002793</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/02/94 08:34</DATE>
+<TITLE> Heavy rain brings down Bombay building, kills six</TITLE>
+<HEADLINE> Heavy rain brings down Bombay building, kills six</HEADLINE>
+<SUBJECT> BC-INDIA-CRASH (PICTURE) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOMBAY, India (Reuter) </DATELINE>
+<P>  Six people were crushed to death and eight injured when a four-story building battered by week-long torrential rains collapsed in Bombay, fire brigade officials said Friday. </P>
+<P> The building collapsed late Thursday, trapping residents who ignored warnings to leave from local authorities, said Bombay's Chief Fire Officer D.J. Kulkarni. </P>
+<P> It had stood in a congested area in Jogeshwari, 20 miles north of Bombay's central business district. </P>
+<P> Fatal building collapses are frequent during the four-month monsoon season in Bombay, where high property prices encourage people to stay even in dangerously old buildings. </P>
+</TEXT>
+</DOC>

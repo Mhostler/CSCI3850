@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU003-0121.941206</DOCID>
+<TDTID>TDT007511</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 15:56</DATE>
+<TITLE> U.S. panel wants better tests, labels on cigarettes</TITLE>
+<HEADLINE> U.S. panel wants better tests, labels on cigarettes</HEADLINE>
+<SUBJECT> BC-TOBACCO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A federal advisory panel Tuesday called for more refined testing of tar and nicotine in cigarettes and better labeling so that smokers realize these ''light'' cigarettes are still dangerous to their health. </P>
+<P> The ad hoc committee of the president's cancer panel will send the recommendations to the National Cancer Institute. Eventually, they will go to the Federal Trade Commission (FTC), Congress, and other federal officials for consideration and possible implementation. </P>
+<P> The FTC currently gives a single number for tar, nicotine and carbon monoxide levels based on how a machine smokes a standard cigarette. </P>
+<P> But the panel members want a more refined testing system that would produce a range of these substances because not all smokers puff at the same rate or depth. </P>
+<P> Panel members said smokers overestimate the protection switching to a low tar cigarette gives them. In fact, the experts said, research shows these lighter cigarettes only slightly reduce the risk of lung cancer and do not change rates of heart disease and other smoke-related ailments. </P>
+<P> ``The benefits of switching to lower-yield cigarettes are small compared to quitting,'' panel chairman Dr. Harold Freeman said at the meeting which was held in the Washington suburb of Bethesda, Md. </P>
+<P> Federal regulatory agencies could act on some of these recommendations on their own, but other aspects might need action by the incoming Republican-controlled Congress. </P>
+<P> Some of the most powerful critics of the tobacco industry are Democrats, who will have less resources at their disposal as the minority party. </P>
+</TEXT>
+</DOC>

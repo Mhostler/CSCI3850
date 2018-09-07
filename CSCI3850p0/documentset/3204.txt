@@ -1,0 +1,32 @@
+<DOC>
+<DOCID>REU007-0017.941214</DOCID>
+<TDTID>TDT007934</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 15:56</DATE>
+<TITLE> Amtrak slashes U.S. rail service, cuts jobs</TITLE>
+<HEADLINE> Amtrak slashes U.S. rail service, cuts jobs</HEADLINE>
+<SUBJECT> BC-AMTRAK 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Amtrak Wednesday announced a sweeping plan to slash routes and service that would eliminate one out of every five rail jobs and create a streamlined U.S. passenger rail system to wipe out huge deficits. </P>
+<P> The changes in the subsidized system, which take effect Feb. 1, are designed to put the railroad on a sounder financial track and eliminate a projected $200 million budget deficit in this fiscal year alone. </P>
+<P> Officials said at a news conference that without the cutbacks approved by Amtrak's board on Tuesday, the system would have over $7.3 billion in operating losses between the years 1995 and 2000. </P>
+<P> At the heart of the announced changes were various cuts in service frequency and the elimination of three lines: Chicago-Milwaukee; Chicago-Grand Rapids; and the San Jose-Sacramento-Roseville, Calif., route. </P>
+<P> Those cutbacks along with ending a series of route segments, or side routes, would eliminate 4,600 union jobs and 900 non-union jobs including 600 management cuts. </P>
+<P> That would be over 20 percent of the 24,000 Amtrak workers in 45 states, who operate a system covering 25,000 route miles and carrying 22 million passengers a year. </P>
+<P> Once implemented, the downsizing would cut 7.2 million train miles of service a year, or 21 percent of all service. </P>
+<P> Amtrak President Thomas Downs stressed that none of the changes would affect the upcoming Christmas and New Years holiday traffic, since the changes take effect Feb. 1. </P>
+<P> Without changes, officials said, Amtrak would end up $200 million in the red this year despite getting over $800 million in federal subsides for the current fiscal year. </P>
+<P> Once the cutbacks are fully in place, officials said they would reduce annual expenses by some $430 million a year. </P>
+<P> Downs said he expected the Clinton administration to include new federal subsidies in the next budget now that the board has moved to cut back its operating costs. </P>
+<P> Transportation Secretary Federico Pena issued a statement saying only that ``the Clinton Administration is committed to the future of rail passenger service in this country.'' He called the cutbacks necessary for continued service. </P>
+<P> Officials said this was the biggest Amtrak restructuring since 1979, eight years after Amtrak was created in 1971 to preserve passenger railroads in the United States. </P>
+<P> Besides eliminating three full routes, the line will also reduce the frequency of service between New York and Florida, Minneapolis and Spokane, Seattle and Portland, Atlanta and New Orleans and on the Chicago-Salt Lake City-Los Angeles route. </P>
+<P> Among the side routes to be eliminated are Philadelphia-Atlantic City; St. Louis-Kansas City; Birmingham-Mobile; Detroit-Pontiac; Detroit-Toledo; Philadelphia-Harrisburg; New York-Montreal; and Springfield, Mass.-Boston, Mass. </P>
+<P> Officials said many more reductions in route frequencies are expected when the board of governors meets again in March. </P>
+<P> The much-used Metroliner, along the Northeast corridor linking Washington, New York and Boston, is being preserved under the cutbacks, but the number of trips will be reduced. </P>
+<P> Three of the eight daily Boston-to-Washington standard service roundtrips are being ended along with one of the 17 daily New York to Washington Metroliner roundtrips. </P>
+</TEXT>
+</DOC>

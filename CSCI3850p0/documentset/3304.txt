@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0363.941218</DOCID>
+<TDTID>TDT008137</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/18/94 11:24</DATE>
+<TITLE> Kiwi Airlines hopes for full schedule by Wednesday</TITLE>
+<HEADLINE> Kiwi Airlines hopes for full schedule by Wednesday</HEADLINE>
+<SUBJECT> BC-KIWI </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Kiwi International Airlines, grounded at its Newark, N.J. hub by the Federal Aviation Administration last week because pilot training was not documented, said Sunday it expected to be flying a full schedule by Wednesday. </P>
+<P> ``The FAA and Kiwi worked all of Saturday night on pilot training documentation,'' said Rob Kulat, a Kiwi vice president. </P>
+<P> On Sunday, flights will include 24 flights with Kiwi pilots and aircraft and 12 scheduled flights with charter carriers. </P>
+<P> ``It looks like a full Kiwi schedule, with FAA approved crew by late Tuesday or Wednesday,'' Kulat added. </P>
+<P> The problem was not in the pilot training, but in the record-keeping, according to Kulat, who said all of Kiwi's pilots had at least 20 years experience with other airlines. </P>
+<P> ``Since September of 1992,'' he said, ``there have been 23,000 Kiwi takeoffs and landings without a scratch or a close call.'' </P>
+<P> The airline flies to Newark, Chicago, Atlanta and Tampa, Orlando and West Palm Beach in Florida, and San Juan, Puerto Rico, he said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU002-0007.950202</DOCID>
+<TDTID>TDT010040</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/02/95 17:28</DATE>
+<TITLE> Commercial videos of Simpson trial head for stores</TITLE>
+<HEADLINE> Commercial videos of Simpson trial head for stores</HEADLINE>
+<SUBJECT> BC-SIMPSON-VIDEOS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  Videos of the complete opening statements from O.J. Simpson's murder trial will go on sale at stores across the country next week, a production company said Thursday. </P>
+<P> MPI Home Video of Orland Park, Ill., said the opening moments of Simpson's trial have been packaged in two tapes, each running nearly four hours and retailing for just under $15 each. </P>
+<P> The tapes include all of the defense's interrupted statement, and the reopening comments made by the prosecution. </P>
+<P> The company said it plans to offer a number of ``journals'' updating the trial at future dates as well as the complete closing arguments. It said there was a market for the videos among people who work by day and cannot watch the trial and among schools and law libraries. </P>
+</TEXT>
+</DOC>

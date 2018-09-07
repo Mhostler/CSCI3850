@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU011-0266.941124</DOCID>
+<TDTID>TDT006968</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/24/94 10:56</DATE>
+<TITLE> BT denies hacker broke into computer</TITLE>
+<HEADLINE> BT denies hacker broke into computer</HEADLINE>
+<SUBJECT> BC-BRITAIN-HACKER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain's major telecommunications company Thursday denied a hacker had broken into its computer database and found the secret telephone numbers of Queen Elizabeth and Prime Minister John Major's private office. </P>
+<P> BT also threatened to take legal action against a journalist who alleged he had obtained thousands of confidential numbers. </P>
+<P> It launched an emergency investigation after the Independent newspaper claimed a computer hacker had obtained the numbers. </P>
+<P> The Independent reported the hacker also fished sensitive information about British intelligence out of the database and passed it on via the Internet public-access computer network. </P>
+<P> Later BT said their probe had shown no hacking of its Customer Service System (CSS). ``The CSS system is secure and exceptionally robust,'' a statement said. </P>
+<P> ``Neither in today's reports nor at any time in the past has there been any evidence of the system being hacked. Nor, despite this morning's report, has BT, despite an extensive and ongoing search, found any evidence that the confidential information has ever been available on the Internet,'' it said. </P>
+<P> The Independent claimed the hacker came away undetected with telephone numbers and addresses for secret defense installations, counter-intelligence personnel and details about a U.S. communications center at Menwith Hill, northern England. </P>
+<P> The hacker may well have gained access to the BT computer system while working as a temporary employee, the paper said. It quoted computer security expert Ian James as saying the break-in was the most serious breach he had heard of in Britain. </P>
+<P> The mystery hacker, who seemed to have got into the system in July without much trouble or technical expertise, sent the information to a journalist via Internet electronic mail. </P>
+<P> The journalist got a temporary job at BT for three days and verified the hacker's claims that temporary staff were able to access high-security computer files by using passwords of permanent staff. </P>
+<P> ``Within a couple of hours everything was confirmed,'' said journalist Steve Fleming. ``It was bizarre. I was able to do it so easily. And they didn't even know I had done it.'' </P>
+<P> BT said divulging confidential customer information was a criminal offense and it was taking legal advice on whether Fleming may have committed a crime. </P>
+<P> ``While no system -- computerized or not -- can be made absolutely immune to unauthorized action by employees, we are nonetheless taking steps to make procedures even tighter,'' it said. </P>
+</TEXT>
+</DOC>

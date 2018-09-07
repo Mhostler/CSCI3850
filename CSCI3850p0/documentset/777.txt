@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0260.940815</DOCID>
+<TDTID>TDT001915</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/15/94 06:11</DATE>
+<TITLE> ONE HINDU MILITANT KILLED, FOUR INJURED IN CLASHES</TITLE>
+<HEADLINE> ONE HINDU MILITANT KILLED, FOUR INJURED IN CLASHES</HEADLINE>
+<SUBJECT> BC-INDIA-HINDU </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BANGALORE, India (Reuter) </DATELINE>
+<P>  A Hindu militant was killed and four others injured when security forces fired on activists trying to storm a disputed Muslim prayer ground, police said. </P>
+<P> Police fired shots after baton charges and tear gas failed to turn back militants trying to raise India's national flag on the prayer ground to mark Independence Day. </P>
+<P> ``The police had to resort to firing,'' a police spokesman said, adding that two of the wounded were in critical condition. </P>
+<P> The clashes occurred on the outskirts of the southern town of Hubli, where members of the Hindu nationalist Bharatiya Janata Party (BJP) have made repeated attempts in recent years to stake the flag of mainly Hindu India on ground claimed by a Moslem group. </P>
+<P> On each occasion there has been violence as police prevented the BJP from reaching the area. </P>
+<P> About 2,000 armed policemen, anticipating a fresh attempt to mark India's Independence Day Monday, had cordoned off the prayer grounds and imposed a curfew. </P>
+</TEXT>
+</DOC>

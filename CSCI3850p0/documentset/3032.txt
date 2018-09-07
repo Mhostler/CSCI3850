@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU003-0173.941206</DOCID>
+<TDTID>TDT007529</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 18:55</DATE>
+<TITLE> Bomb damages Athens tax office</TITLE>
+<HEADLINE> Bomb damages Athens tax office</HEADLINE>
+<SUBJECT> BC-GREECE-BOMB 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: clarifies only one bomb went off)</NOTES>
+<DATELINE>ATHENS (Reuter) </DATELINE>
+<P>  A bomb planted by a left-wing extremist group damaged state taxation offices in central Athens Tuesday but no one was hurt, police said. </P>
+<P> Police earlier reported there had been two bombs but later said there was only one. </P>
+<P> ``We had a bomb blast in the first tax office and a warning telephone call by allegedly the same guerrilla group about a second bomb in another tax office nearby,'' a police official said. </P>
+<P> ``As we were heading for the second location a loud noise led us to believe that the second bomb went off but apparently it was a car exhaust or something else and the call was a hoax. There is only one bomb explosion and no injuries.'' </P>
+<P> The extreme left guerrilla group Revolutionary Popular Struggle (ELA) claimed responsibility for the blast through a phone call to an Athens newspaper. </P>
+<P> The time bomb shattered the windows of the tax office and other buildings near Omonia Square in downtown Athens. </P>
+<P> ELA has carried out dozens of similar attacks against state offices and foreign companies in the past decade. </P>
+</TEXT>
+</DOC>

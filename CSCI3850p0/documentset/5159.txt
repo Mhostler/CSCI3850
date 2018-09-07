@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0422.950324</DOCID>
+<TDTID>TDT011645</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/24/95 05:52</DATE>
+<TITLE> Clinton getting annual physical checkup</TITLE>
+<HEADLINE> Clinton getting annual physical checkup</HEADLINE>
+<SUBJECT> BC-CLINTON-HEALTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Friday was to spend close to five hours at Bethesda Naval Hospital getting his annual physical examination. </P>
+<P> A White House spokeswoman, Ginny Terzano, described the checkup as a routine one that would cover all aspects of the president's health. </P>
+<P> Clinton has been in good health throughout his two years as president. He gets regular exercise and has a strong appetite. </P>
+<P> Clinton was to fly by helicopter to Bethesda Naval Hospital in the morning and return to the White House shortly after noon. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU016-0222.950426</DOCID>
+<TDTID>TDT013088</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/26/95 10:11</DATE>
+<TITLE> Singapore to make Leeson extradition request today</TITLE>
+<HEADLINE> Singapore to make Leeson extradition request today</HEADLINE>
+<SUBJECT> BC-BANK-LEESON-EXTRADITION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FRANKFURT, Germany (Reuter) </DATELINE>
+<P>  The German Foreign Ministry said Singapore officials will hand over Wednesday the formal extradition request for former Barings Bank trader Nick Leeson. </P>
+<P> The Singapore ambassador has announced that he will deliver the official extradition request from the Singapore government to the German foreign ministry this afternoon,'' a spokeswoman for the ministry told Reuters. </P>
+<P> The government ministry spokeswoman repeated earlier public statements from a German prosecutor in Frankfurt that the document would not be released to the public. </P>
+<P> The request will soon be handed over by Bonn officials to a German regional appeals court in Frankfurt which will rule on the legality of the request. </P>
+<P> Singapore had until next Tuesday to file the request for the 28-year-old Briton, who was detained in Frankfurt on March 2. Leeson has been blamed for more than $1 billion in bank losses from Japanese stock futures trading. </P>
+</TEXT>
+</DOC>

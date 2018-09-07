@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU004-0097.941108</DOCID>
+<TDTID>TDT006196</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/08/94 04:45</DATE>
+<TITLE> U.N. war crimes tribunal holds first public hearing</TITLE>
+<HEADLINE> U.N. war crimes tribunal holds first public hearing</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-TRIBUNAL-OPEN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>THE HAGUE (Reuter) </DATELINE>
+<P>  The U.N. Yugoslavia war crimes tribunal held its inaugural public hearing Tuesday, 50 years after the Nuremberg trials of World War II Nazi war criminals began. </P>
+<P> The hearing before a panel of three judges from Nigeria, France and Costa Rica follows the issuing Monday of the tribunal's first arrest warrant for a Bosnian Serb prison camp commander accused of atrocities in the former Yugoslavia. </P>
+<P> There was no suspect in the dock. Prosecutor Richard Goldstone said in his opening address that the Yugoslavia war crimes tribunal marked the first attempt by the United Nations to enforce international humanitarian law. </P>
+<P> ``In the aftermath of the horrors of the Second World War and the trials by the victorious powers of Nazi leaders at Nuremberg, it was generally anticipated by the international community that a new era had begun. An era in which the human rights of all citizens in all countries of the world would be univerally respected. It was not to be,'' he said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0078.941101</DOCID>
+<TDTID>TDT005868</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/01/94 11:02</DATE>
+<TITLE> Shuttle ready for Thursday launch</TITLE>
+<HEADLINE> Shuttle ready for Thursday launch</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  Preparations for the year's final space shuttle flight were proceeding smoothly Tuesday, with Atlantis set to carry six astronauts, 10 pregnant rats and an atmospheric observatory aloft Thursday. </P>
+<P> Atlantis and its crew, including an astronaut from France, were scheduled for liftoff at 11:56 a.m. EST Thursday on NASA's seventh shuttle mission of the year. </P>
+<P> Engineers were evaluating a potential glitch with a fuel line connection but NASA test director Debbie Frostrom described it as ``just a paperwork problem.'' </P>
+<P> The Atlantis mission will measure Earth's imperiled ozone layer and study rodent fetal development away from gravity's influence. The prenatal tests with 10 female rats are in preparation for a time when humans may live on other planets or travel to the outer reaches of the solar system. </P>
+<P> The gestating rats are merely passengers aboard Atlantis and will give birth after the shuttle returns to Earth. </P>
+<P> Most of the environmental data will be gathered with the Atmospheric Laboratory for Applications and Science, a cargo bay laboratory taking its third space shuttle ride. As it did in March 1992 and April 1993, ATLAS will study the interaction between sunlight, ozone and trace gases in the stratosphere, the layer of air just above the highest clouds. Scientists are trying to learn more about the alarming depletion of ozone, Earth's shield against the sun's harmful ultraviolet rays. </P>
+</TEXT>
+</DOC>

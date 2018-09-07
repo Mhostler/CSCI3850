@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU006-0348.940712</DOCID>
+<TDTID>TDT000465</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/12/94 20:29</DATE>
+<TITLE> WORLD BANK WARNS ASIA OVER TRADE PROTECTIONISM</TITLE>
+<HEADLINE> WORLD BANK WARNS ASIA OVER TRADE PROTECTIONISM</HEADLINE>
+<SUBJECT> BC-TRADE-ASIA </SUBJECT>
+<AUTHOR>     By Lyndsay Griffiths </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The World Bank Tuesday urged East Asian nations with booming economies to tear down their protectionist walls, calling the lopsided trade surpluses an unsustainable drag on the world trading system. </P>
+<P> In a detailed report on trade and investment patterns in the Pacific region, the Bank said that continued huge trade surpluses pose a risk that is both political and economic, whereas liberalization could be a catalyst for world growth. </P>
+<P> ``The potential for trade tensions and protectionism remains serious ... trade wars can do enormous damage.'' </P>
+<P> The Bank pointedly made note of volatile trade ties between the United States and the twin economic giants of Asia -- Japan and China -- saying the dispute with the two nations was far from over. </P>
+<P> ``Already, at the beginning of 1994, there were signs of political and trade conflicts between the United States on the one hand and Japan and China on the other,'' said the Bank. </P>
+<P> The Bank said the industrial world should encourage economic reform in Asia rather than resort to ``threats of inward-looking regionalism, aggressive trade retaliation and indirect protection.'' </P>
+<P> ``Unresolved, these differences could lead to further tensions in the world trading system,'' it said. </P>
+<P> Such warnings aside, the Bank commended the region -- which houses the world's fastest growing economies -- for efforts already underway to open its markets to outsiders. </P>
+<P> ``But many developing countries in East Asia, and in other regions, have high levels of effective protection,'' it said. </P>
+<P> Some Asian countries, it said, maintain barriers in the manufacturing sector that are fully 40 percent higher than the protections erected by industrial nations. </P>
+<P> ``Industrial countries are reluctant to offer continued access to their own markets -- where East Asian imports have recently grown 15 to 20 percent a year -- without gaining better access to developing country markets,'' it said. </P>
+<P> ``East Asia's trade surpluses continue to be large, and they are economically and politically unsustainable.'' </P>
+<P> Tariffs must fall, investment regimes should be liberalized and future economic development must take into account environmental and infrastructure concerns. </P>
+<P> The Bank said now was the perfect time to build on the liberalization gains already snared by the newly completed Uruguay Round of the General Agreement on Tariffs and Trade. </P>
+<P> The round, once implemented, is expected to pump hundreds of billions of dollars into the sluggish world economy. </P>
+</TEXT>
+</DOC>

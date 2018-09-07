@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU003-0326.950504</DOCID>
+<TDTID>TDT013447</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 19:53</DATE>
+<TITLE> U.S. to test quality of Medicare HMOs</TITLE>
+<HEADLINE> U.S. to test quality of Medicare HMOs</HEADLINE>
+<SUBJECT> BC-HEALTH-MEDICARE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  U.S. health authorities Thursday announced a five-state pilot program to evaluate how managed care plans take care of the nation's Medicare population. </P>
+<P> Managed care, such as health maintenance organizations (HMOs), have been promoted as a possible means of trimming the huge costs of the financially-troubled Medicare program, which covers all Americans over age 65. </P>
+<P> The 18-month pilot project, called the Medicare Peer Review Organization, will try to monitor the quality of care in New York, Pennsylvania, Florida, California and Minnesota, states that include some of the nation's major markets for managed care programs. </P>
+<P> Though it sounds simple, quality control is actually a difficult endeavor involving a huge number of health factors. But it has assumed growing importance as cost control gets more official emphasis. </P>
+<P> ``Managed care is transforming the American health care system with much-needed emphasis on cost containment, but the American people must be assured that the quality of care is not being compromised,'' Health and Human Services Secretary Donna Shalala said. </P>
+<P> The study will look at such factors as the frequency of service and access to preventive care, such as mammograms and flu shots. If the program is successful, it will be expanded nationwide. </P>
+<P> Although most people covered by managed care are under age 65, these programs are also becoming more popular with Medicare patients. At the start of this year, about 2.3 million seniors were in health maintenance organizations, an increase of 26 percent in one year, according to federal health officials. </P>
+</TEXT>
+</DOC>

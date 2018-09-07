@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU015-0001.950424</DOCID>
+<TDTID>TDT012957</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 11:22</DATE>
+<TITLE> Letter said to link bombing with Waco cult</TITLE>
+<HEADLINE> Letter said to link bombing with Waco cult</HEADLINE>
+<SUBJECT> BC-BLAST-CAR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OKLAHOMA CITY (Reuter) </DATELINE>
+<P>  Timothy McVeigh, the man charged in the Oklahoma City bombing, had correspondence in his car vowing revenge for the 1993 federal raid on the Branch Davidian compound in Waco, Texas, the Dallas Morning News said Monday. </P>
+<P> The correspondence ``threatened retribution'' against the FBI and the U.S. Bureau of Alcohol, Tobacco and Firearms, which played key roles in the bloody 1993 Texas raid, the newspaper said. </P>
+<P> Quoting an unnamed law enforcement official, the Dallas Morning News said the correspondence was found in McVeigh's car when he was arrested in Perry, Okla., for driving without a license plate. </P>
+<P> McVeigh was charged Friday with the bombing, which killed at least 81 people. </P>
+<P> The Dallas Morning News also quoted authorities as saying McVeigh was identified in an Oklahoma City police lineup Saturday night by a witness from the Kansas agency where the truck suspected of carrying the bomb was rented. </P>
+</TEXT>
+</DOC>

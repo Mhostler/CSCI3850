@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU003-0303.950504</DOCID>
+<TDTID>TDT013445</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 18:09</DATE>
+<TITLE> Scientists seek edible immunity against disease</TITLE>
+<HEADLINE> Scientists seek edible immunity against disease</HEADLINE>
+<SUBJECT> BC-SCIENCE-IMMUNE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Two scientific teams said Thursday they had genetically engineered plants that could provide edible immunization against human diseases. </P>
+<P> The two unrelated studies, published in Friday's edition of the journal Science, could be applied to a variety of diseases from cholera to tooth decay. </P>
+<P> ``Spoons could one day replace needles as a way to administer vaccines,'' researchers at Texas A&M University and Tulane University said in a statement. </P>
+<P> A team headed by A&M's Charles Arntzen genetically engineered potato plants to produce a protein subunit of the E.coli bacteria. </P>
+<P> When mice ate the raw potatoes, they produced antibodies against the protein, both in their blood and in gut secretions. </P>
+<P> The E.coli family of bacteria is very similar to cholera, and the antibodies of one provide some immunity against the other. </P>
+<P> ``In the developing world, a low-cost vaccine for these diseases would make a dramatic health improvement,'' Arntzen said. </P>
+<P> Because mice do not get the human form of the diarrheal disease, further tests on other animals are needed to check whether the plant-grown protein would produce immunity in humans. </P>
+<P> And because cooking the potatoes would probably kill the protein, the team is now working on repeating the process in bananas, which do not need to be cooked. </P>
+<P> The other study used tobacco plants to mass-produce an antibody that defends teeth against a cavity-causing strain of bacteria. </P>
+<P> Scientists headed by Julian Ma at London's Guys Hospital said it is the first time that plants have been used to create secretory antibodies. </P>
+<P> Secretory antibodies are those produced in human mucous membranes -- eyes, nose, mouth and intestines -- and are much more complicated than those found in the blood. </P>
+<P> Ma said the purified antibody could be administered in the form of chewing gum, mouthwash or paste that would prevent tooth decay. </P>
+<P> Edible plants such as tomatoes could be used to produce antibodies against intestinal diseases, he said. </P>
+</TEXT>
+</DOC>

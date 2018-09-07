@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0211.941112</DOCID>
+<TDTID>TDT006435</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/12/94 23:16</DATE>
+<TITLE> Terry Norris disqualified, loses WBC superwelter title</TITLE>
+<HEADLINE> Terry Norris disqualified, loses WBC superwelter title</HEADLINE>
+<SUBJECT> BC-BOXING SUPERWELTERWEIGHT RESULT URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  World Boxing Council superwelterweight champion Terry Norris lost his title at two minutes and two seconds of the fifth round on a disqualification after fouling Luis Santana of the Dominican Republic Saturday. </P>
+<P> Santana was declared champion but was taken out of the ring on a stretcher several minutes after Norris appeared to have hit him on the back of the head or neck. </P>
+</TEXT>
+</DOC>

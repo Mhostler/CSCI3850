@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU010-0252.950221</DOCID>
+<TDTID>TDT010625</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/21/95 14:52</DATE>
+<TITLE> Army kills one suspected rebel, nabs three in Chiapas:</TITLE>
+<HEADLINE> Army kills one suspected rebel, nabs three in Chiapas:</HEADLINE>
+<SUBJECT> BC-MEXICO-CHIAPAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN CRISTOBAL DE LAS CASAS, Mexico (Reuter) </DATELINE>
+<P>  The Mexican government said army troops shot and killed one man and captured three others during a clash in an area recently seized from Maya Indian rebels in the southern state of Chiapas. </P>
+<P> The attorney general's office said a group of soldiers were attacked Monday outside the village of La Grandeza on the edge of the Lacandon jungle and returned fire, killing Gilberto Jimenez Hernandez. </P>
+<P> It said in a statement that the soldiers captured three other armed men and later handed them over to police. No soldiers were injured in the shoot-out. </P>
+<P> The statement also said there was a firefight in the former rebel-held town of Nuevo Momon late Sunday, but did not say if anyone was killed, wounded or captured. </P>
+<P> Army troops have over the last 12 days moved deep into jungle and mountain territory that had been controlled by guerrillas of the Zapatista National Liberation Army since they took up arms on New Year's Day 1994. </P>
+<P> The offensive has been largely bloodless as Zapatista leaders have fled further into the jungle, although one army colonel was shot dead in Nuevo Momon in the early hours of the operation. </P>
+<P> But the army has so far failed to capture guerrilla leader Subcommander Marcos, the target of the offensive. Marcos fled to one of the Zapatistas' firmest jungle bases. </P>
+<P> Other rebel leaders say they will not agree to peace talks until the army pulls back from its new positions. </P>
+<P> They have also warned they will break a long cease-fire and begin a guerrilla war of hit-and-run attacks if the government refuses to make peace. </P>
+<P> The attorney general's office said army troops are obeying orders released last week to avoid combat, but that they will retaliate if attacked. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0321.941205</DOCID>
+<TDTID>TDT007455</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/05/94 14:26</DATE>
+<TITLE> Cuban newspaper blasts upcoming Miami summit</TITLE>
+<HEADLINE> Cuban newspaper blasts upcoming Miami summit</HEADLINE>
+<SUBJECT> BC-AMERICAS-CUBA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  A Cuban newspaper Monday criticized the upcoming Summit of the Americas in Miami as an example of U.S. ambitions to dominate the region and called the exclusion of Havana a ``hostile gesture.'' </P>
+<P> Cuba, the only country in the Americas not invited to the gathering beginning this Friday, has so far taken a quietly dismissive stance toward the summit. Clinton has invited heads of state and governments viewed as democratically elected. </P>
+<P> An editorial in Trabajadores, Cuba's trade union weekly, said that ``despite appearances, the Miami summit will continue to be an expression of the rapacity of the United States towards the rest of America.'' </P>
+<P> It said the best response to the exclusion of Cuba, the ''latest hostile gesture'' from the United States, was President Fidel Castro's comment in Mexico last week that ``it is an honor not to be invited.'' </P>
+<P> The newspaper accused Washington of imposing a model of free market democracies as the only development model and of interfering with the sovereignty of Latin American nations. </P>
+</TEXT>
+</DOC>

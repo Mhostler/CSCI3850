@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0180.950408</DOCID>
+<TDTID>TDT012305</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/08/95 02:40</DATE>
+<TITLE> Lebanese civilian killed in Israeli shelling</TITLE>
+<HEADLINE> Lebanese civilian killed in Israeli shelling</HEADLINE>
+<SUBJECT> BC-LEBANON-SOUTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TYRE, Lebanon (Reuter) </DATELINE>
+<P>  A 55-year-old villager was killed in south Lebanon by Israeli artillery gunners Saturday, security sources said. </P>
+<P> They said two Israel-allied South Lebanon Army (SLA) militiamen were wounded earlier when artillery shells hit a fortified SLA outpost at Shoumariyeh on the edge of Israel's border occupation zone in south Lebanon. </P>
+<P> Guerrilla shells also targetted SLA posts at Kfar Tibnit, Jabal Hmayyed, Braachit hill, Houla, Markaba, Arab Salim and Dabsheh hill. </P>
+<P> In reprisal, Israeli and SLA forces fired back artillery at nine guerrilla-held villages north of the zone. Mohammad Farhat, a 55-year-old villager, was killed when heavy artillery shells slammed into the village of Braachit facing the SLA post. </P>
+<P> The pro-Iranian Hizbollah (Party of God) claimed responsibility for the shelling of the SLA positions. </P>
+<P> Israel and Hizbollah have agreed to U.S.-brokered understandings in July 1993 forbidding the targeting of civilians on both sides in their war. </P>
+</TEXT>
+</DOC>

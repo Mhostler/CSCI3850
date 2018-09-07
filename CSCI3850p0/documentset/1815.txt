@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU002-0423.941005</DOCID>
+<TDTID>TDT004502</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/05/94 01:53</DATE>
+<TITLE> Texas executes man for 1981 murder</TITLE>
+<HEADLINE> Texas executes man for 1981 murder</HEADLINE>
+<SUBJECT> BC-USA-EXECUTION 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: updates with execution carried out)</NOTES>
+<DATELINE>HUNTSVILLE, Texas (Reuter) </DATELINE>
+<P>  A man convicted of murdering a clerk in 1981 at a San Antonio convenience store where he once worked was executed early Wednesday, according to state prison officials. </P>
+<P> Walter Key Williams became the 11th person put to death by lethal injection during 1994 in Texas and the 82nd since the state resumed carrying out executions in 1982. </P>
+<P> Williams, 32, was pronounced dead at 12:21 a.m. CDT (1:21 a.m. EDT, about six minutes after prison officials injected a dose of lethal chemicals into his arm at the prison, which is located about 90 miles north of Houston. </P>
+<P> ``When asked if he had a last statement, Williams mumbled to the warden that he wished his whole life had been spent as an Islamic,'' prison spokesman Charles Brown said. </P>
+<P> Attorneys for Williams had no appeals pending Tuesday afternoon in state or federal courts, but had submitted a clemency petition to Texas Governor Ann Richards, who has never granted a clemency petition. </P>
+<P> Williams was convicted of shooting Daniel Liepold in the back with a .38 caliber pistol during a robbery at a Circle K Food Store in San Antonio. </P>
+<P> At his trial, witnesses testified that they saw Williams and his accomplice, Theodore Roosevelt Edwards, in the store at the time of the robbery. </P>
+<P> Williams, who was married at age 17 but separated from his wife at the time of the crime, had worked at the store for about a year earning about $180 per week, and knew Liepold casually, according to state prison records. </P>
+<P> Prosecutors introduced a confession signed by Williams at his trial, signed about eight hours after the crime. Police found the gun used in the robbery at his parents' home on a nightstand next to a bed Williams was sleeping in. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU002-0051.941003</DOCID>
+<TDTID>TDT004392</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 15:06</DATE>
+<TITLE> Shuttle radars focus on forests and fall colors</TITLE>
+<HEADLINE> Shuttle radars focus on forests and fall colors</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE </SUBJECT>
+<AUTHOR>     By Beth Dickey </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  Astronauts saw the reds and yellows of a Northern Hemisphere autumn from space Monday as shuttle Endeavour's all-seeing environmental radars mapped a Michigan forest at the start of its seasonal change. </P>
+<P> With a week remaining in the shuttle's 10-day mapping flight, NASA scientists already were raving about the images pouring back to Earth from the $384 million Space Radar Laboratory in the shuttle cargo bay. </P>
+<P> Six men took Endeavour aloft from Florida last Friday to scan the planet with the most sophisticated radar instruments in civilian use, the second mission in six months to employ radars in Earth research. </P>
+<P> An erupting volcano in Russia's Far East and an oil slick off the coast of Portugal were among the sights the Endeavour crew saw and studied during their first four days in orbit. </P>
+<P> Endeavour got off the ground six weeks late because of engine troubles, but ``the mission could not have come at a better time for us,'' ecologist Craig Dobson said Monday. </P>
+<P> ``We have a beautiful mosaic of fall colors beginning to develop,'' Dobson told the crew by radio from his research post near the Great Lakes on Michigan's upper peninsula. </P>
+<P> Dobson was one of about 1,800 researchers conducting field experiments at 20 radar targets around the globe. </P>
+<P> The astronauts photographed the Michigan forest as the radar mapped it. </P>
+<P> Their chief goal is to document Earth's appearance in early autumn with thousands of still photographs while two radar instruments, one from the United States and the other from Germany and Italy, sweep the planet in wide swaths with microwave energy. </P>
+<P> A comparison of radar images both missions may help to identify natural and human-induced environmental changes that can disturb the global climate. </P>
+<P> ``We're trying to detect seasonal differences from the first mission we flew back in April,'' copilot Terry Wilcutt said Monday. ``If we know where the globe is changing, and if man is indeed causing that change, then we'll have a handle on what we need to do about it.'' </P>
+<P> The radars continued their mapping work as the six crewmen began a round of half-day duty breaks. They broke into two teams and began tending the laboratory around the clock shortly after liftoff. NASA schedules free time periodically to prevent the astronauts from becoming fatigued. </P>
+</TEXT>
+</DOC>

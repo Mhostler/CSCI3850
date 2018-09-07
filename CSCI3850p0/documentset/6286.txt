@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU003-0293.950504</DOCID>
+<TDTID>TDT013443</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 17:19</DATE>
+<TITLE> Plane crash kills top Argentine business leader</TITLE>
+<HEADLINE> Plane crash kills top Argentine business leader</HEADLINE>
+<SUBJECT> BC-ARGENTINA-PLANE 3RDLD </SUBJECT>
+<AUTHOR>     By Antonio Maria Delgado </AUTHOR>
+<TEXT>
+<NOTES>   (Updates to include confirmed deaths)</NOTES>
+<DATELINE>QUITO, Ecuador (Reuter) </DATELINE>
+<P>  A top Argentine business leader tipped to be the next economy minister died along with six other people Thursday when the light plane they were travelling in crashed near the Ecuadorean capital, officials said. </P>
+<P> ``There are no survivors,'' a rescue worker returning from the scene of the accident told Reuters. </P>
+<P> The crash killed Jose Estenssoro, president of Argentine oil giant YPF, and Juan Pedrals Gili, general manager of the Chilean state oil firm ENAP. </P>
+<P> The other casualties were two Chilean and one Argentine businessmen, and two crew members. </P>
+<P> Ecuadorean civil aviation officials said the aircraft lost touch late Wednesday after requesting permission to land at Quito airport. </P>
+<P> ``It asked for permission to land around 11:40 at night and just didn't do it,'' one official said. The aircraft was flying at an altitude of about 13,000 feet when it crashed into a hill at the base of the Sincholagua mountain about 17 miles outside Quito. </P>
+<P> Civil Aviation General Carlos Puga, in a news conference, ruled out poor weather as the cause of the crash but said the plane went off course for unknown reasons. </P>
+<P> ``The conditions were optimum,'' he said. ``The civil aviation board will center the investigation on knowing why the aircraft, instead of turning as it was ordered to, went 27 miles further.'' </P>
+<P> YPF, Argentina's largest company, said all contact with the eight-seat plane was lost after it made a stopover in La Paz, Bolivia, Wednesday. </P>
+<P> The 61-year-old Bolivian-born Estenssoro was tipped to replace Economy Minister Domingo Cavallo in the next government. </P>
+<P> Estenssoro headed YPF since 1990. He oversaw its privatization and a drastic reduction in staff to 5,690 from 52,000. This year, he launched it onto the international oil scene with the surprise takeover of Maxus Energy Corp of Dallas. </P>
+<P> Earlier, Argentine television and state-run news agency Telam said the plane had been found in Machala, Ecuador, with everyone aboard alive and well. </P>
+<P> Argentine media said the plane was rented by YPF from the American Jet company. </P>
+</TEXT>
+</DOC>

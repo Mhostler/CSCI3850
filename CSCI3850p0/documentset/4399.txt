@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0429.950217</DOCID>
+<TDTID>TDT010515</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/17/95 07:57</DATE>
+<TITLE> Britain revokes 10 N.Irish exclusion orders</TITLE>
+<HEADLINE> Britain revokes 10 N.Irish exclusion orders</HEADLINE>
+<SUBJECT> BC-IRISH-EXCLUSION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain said Friday that improved security in Northern Ireland meant it was lifting the last 10 ``exclusion orders'' which prevented designated individuals traveling freely between the province and mainland Britain. </P>
+<P> Britain and Ireland are trying measures to cement peace in Northern Ireland, after cease-fires six months ago ended a 25-year-old civil war that cost 3,200 lives. </P>
+<P> In the latest step, Northern Ireland Secretary Sir Patrick Mayhew said in a statement: ``On the basis of security advice... there is no longer a need to maintain those Exclusion Orders for which I am responsible.'' </P>
+<P> He said Home Secretary Michael Howard was reviewing a separate 56 exclusion orders for which he was responsible and would announce his conclusions later. </P>
+<P> Mayhew said he hoped the government would be able to do away with special powers it has under an Emergency Provisions Act that allows for controversial, non-jury trials in the British-ruled province. </P>
+<P> ``The Government's hope is that a lasting peace will prove to be established and that the need for the exceptional powers provided by this act will accordingly be removed,'' he said. ``In the meantime, the government will be keeping the need for the powers under continuing review.'' </P>
+</TEXT>
+</DOC>

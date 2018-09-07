@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU002-0219.940803</DOCID>
+<TDTID>TDT001440</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 20:56</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-MIDEAST-CLINTON -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Clinton was asked whether he saw any hopes of a breakthrough in long-stalemated Israeli-Syrian peace talks to match historic accords reached by Israel and the Palestinians last September and by Israel and Jordan last month. </P>
+<P> ``I think there are difficult issues still between Israel and Syria but I believe both leaders do want to make peace,'' the president replied. He then noted his phone conversations with Assad, saying they had spoken twice on the issue. </P>
+<P> Among the positive indications of Syrian interest in peace, Clinton said, was the fact that coverage of the White House ceremony in which Israeli and Jordanian leaders signed an accord ending 46 years of belligerency had been allowed to run ''without comment'' on Syrian television. </P>
+<P> ``We have other indications that they are (interested in peace), and you may be sure that the secretary of state ... and all of our team ... are doing everything we can to keep pushing that,'' Clinton said. Secretary of State Warren Christopher returns to the Middle East for consultations this weekend. </P>
+</TEXT>
+</DOC>

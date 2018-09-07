@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU014-0250.950423</DOCID>
+<TDTID>TDT012930</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/23/95 18:27</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BLAST-CLINTON-POWERS -2 OKLAHOMA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Authorities suspect the Oklahoma City blast, which killed more than 80 people, injured more than 400 and left about 150 missing, was the work of anti-government right-wing extremists. </P>
+<P> Clinton, who came to Oklahoma City to console blast victims, was to detail his proposals in an interview on the CBS newsmagazine program, ``60 Minutes,'' on Sunday night. </P>
+<P> White House senior adviser George Stephanopoulos said Clinton wanted full funding for legislation that would enhance government ability to use court-authorized electronic surveillance of terrorist and other criminal activities. </P>
+<P> He also said Clinton wants to create a special FBI counter-terrorist and counter-intelligence fund and to create an inter-agency domestic counter-terrorism center headed by the FBI. He said Clinton would like to give the FBI increased authority to trace telephone calls and greater access to consumer records including hotel, motel and telephone bills. </P>
+</TEXT>
+</DOC>

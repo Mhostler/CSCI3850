@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0109.940801</DOCID>
+<TDTID>TDT001310</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/01/94 13:49</DATE>
+<TITLE> DRUG TRAFFICKERS BUY UP COLOMBIA'S FARMLAND</TITLE>
+<HEADLINE> DRUG TRAFFICKERS BUY UP COLOMBIA'S FARMLAND</HEADLINE>
+<SUBJECT> BC-DRUGS-COLOMBIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOGOTA (Reuter) </DATELINE>
+<P>  Drug traffickers are buying up Colombia's agricultural land in massive quantities, the head of the country's farmers said in a letter published Monday. </P>
+<P> Farmers' Society president Cesar De Hart said drug traffickers had bought 7.5 to 10 million acres of the 67.5 million acres used for grazing. He did not say over what period. </P>
+<P> Since Colombia has another 10 million acres of farmland cultivated with crops ``there are as many hectares in the power of drug traffickers as there are for cultivation in the whole country,'' De Hart said. </P>
+<P> De Hart made his comments in a letter to Central Bank president Miguel Urrutia. He said central bank policies were inadvertently leading to ``concentration of rural property ... in the hands of drug traffickers.'' </P>
+<P> Economists estimate that between $1 billion and $3 billion in profits from the marijuana, cocaine and heroin trade finds its way back to Colombia each year and much of this money is invested in farmland or prime commercial property in cities. </P>
+</TEXT>
+</DOC>

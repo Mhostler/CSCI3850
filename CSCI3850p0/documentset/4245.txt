@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0023.950209</DOCID>
+<TDTID>TDT010256</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/09/95 02:51</DATE>
+<TITLE> Cop sentenced to death over China traffic dispute</TITLE>
+<HEADLINE> Cop sentenced to death over China traffic dispute</HEADLINE>
+<SUBJECT> BC-CHINA-MURDER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SHANGHAI, China (Reuter) </DATELINE>
+<P>  A Chinese policeman who pumped six bullets into a peasant in a dispute over a minor traffic accident has been sentenced to death, the Wen Hui daily reported Thursday. </P>
+<P> Policeman Fang Jinguang shot the peasant in the stomach and then emptied his revolver into the man's head and chest as he lay dying on a street in central Henan province, the newspaper said. </P>
+<P> The peasant had punched the policeman in the head after the officer's motorbike had brushed against his 8-year-old son and injured the boy's hand. </P>
+<P> Executions in China are usually carried out with a single bullet to the base of the skull. </P>
+</TEXT>
+</DOC>

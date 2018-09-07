@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU001-0213.941201</DOCID>
+<TDTID>TDT007334</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/01/94 21:29</DATE>
+<TITLE> U.S. to let in more Cuban children</TITLE>
+<HEADLINE> U.S. to let in more Cuban children</HEADLINE>
+<SUBJECT> BC-CUBA-USA-GUANTANAMO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Clinton Administration is expected to announce Friday a decision to grant asylum to more Cuban children and their families now living in refugee camp at Guantanamo Bay, Cuba, Justice Department officials said. </P>
+<P> Of the 24,000 Cubans now living at the refugee camp, some 3,000 are children. The officials said it was unclear exactly how many people would be affected by the decision. </P>
+<P> Decisions to grant asylum would be made on a case by case basis, looking at two key criteria -- extreme hardship and the long-term adverse consequences of staying at Guantanamo, they said. </P>
+<P> Administration officials said the announcement would be made by Immigration and Naturalization Service Commission Doris Meissner. </P>
+<P> Meissner and Anthony Moscato of the Executive Office for Immigration Review have scheduled a news conference for noon EST Friday to discuss new asylum regulations and reform of the asylum process. </P>
+<P> The United States announced in October that it would grant asylum to about 300 elderly or sick Cuban refugees and their close family members, as well as 45 children without relatives. </P>
+<P> The latest decision will extend asylum to more children who are in the camps with close family members. </P>
+<P> Last month it also decided to allow Cuban refugees brought to the United States for medical treatment to remain and apply for political asylum. </P>
+<P> The Cubans are among those Clinton ordered picked up at sea when they tried to cross to U.S. shores in rickety boats, reversing a decades-old policy of welcoming Cubans fleeing Fidel Castro's government. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0085.950407</DOCID>
+<TDTID>TDT012275</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 16:26</DATE>
+<TITLE> Clinton defends U.S. policy on Cuba</TITLE>
+<HEADLINE> Clinton defends U.S. policy on Cuba</HEADLINE>
+<SUBJECT> BC-CLINTON-CUBA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DALLAS (Reuter) </DATELINE>
+<P>  President Clinton Friday acknowledged that U.S. policy toward Cuba has been heavily criticized by other nations but said it has been proper and will not be changed. </P>
+<P> Responding to a question about Cuba following a speech to the American Society of Newspaper Editors, Clinton acknowledged that other countries have called for ending the U.S. trade embargo against the last communist regime in the Western Hemisphere. </P>
+<P> ``Even though I recognize most countries disagree with it, I think being firm has been the proper policy and I do not believe we should change it, except within the confines of the Cuba Democracy Act,'' he said. </P>
+<P> The act stiffened sanctions against Cuba and set up conditions that must be met before any changes could take place. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU015-0052.940930</DOCID>
+<TDTID>TDT004240</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/30/94 09:51</DATE>
+<TITLE> Bank robber gets entangled in Argentine red tape</TITLE>
+<HEADLINE> Bank robber gets entangled in Argentine red tape</HEADLINE>
+<SUBJECT> BC-ARGENTINA-ROBBERY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES (Reuter) </DATELINE>
+<P>  A would-be Argentine bank robber was kept waiting so long by bank staff that he gave up and left empty-handed, the newspaper Clarin said Friday. </P>
+<P> The paper said the robber threatened a teller with a bomb but she told him she did not have the authority to hand over money and would have to ask her boss, who in turn had to consult the branch manager. The robber fled after waiting five minutes for an answer, the paper said. </P>
+<P> ``The point is you get in real trouble if you don't have the proper documents signed by the right people,'' one bank worker explained. </P>
+</TEXT>
+</DOC>

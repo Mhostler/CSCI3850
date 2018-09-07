@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU002-0277.950404</DOCID>
+<TDTID>TDT012081</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 04:19</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-FISH-SPAIN -2 MADRID </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Spain and its EU partners have been at odds with Canada over fishing for Greenland halibut off Newfoundland since Canada seized a Spanish trawler early last month, accusing Spain of endangering stocks by overfishing. </P>
+<P> Under a draft accord adjusting fishing quotas Canada would be allowed five times more Greenland halibut than it caught last year while Spain would see its quota heavily cut, a Spanish official at the Brussels talks said. </P>
+<P> ``As we see our government criteria, we are not going to be able to accept it,'' Gonzalez said. </P>
+<P> But the prime minister insisted that, apart from British sympathies with Canada, Spain had been ``quite well supported'' by the EU. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU011-0448.940825</DOCID>
+<TDTID>TDT002433</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/25/94 12:31</DATE>
+<TITLE> SENATE TO FORCE CRIME VOTE, THEN ADJOURN</TITLE>
+<HEADLINE> SENATE TO FORCE CRIME VOTE, THEN ADJOURN</HEADLINE>
+<SUBJECT> BC-USA-CRIME-CONGRESS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Senate Majority Leader George Mitchell said he hoped to force a Senate vote on the controversial crime bill Thursday afternoon and then adjourn the Senate until ``after Labor Day.''  The first vote would be a procedural one involving a Republican objection, technically known as a ``point of order'' that would determine the fate of the bill. </P>
+</TEXT>
+</DOC>

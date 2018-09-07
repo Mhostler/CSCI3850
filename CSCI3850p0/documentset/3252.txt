@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0340.941215</DOCID>
+<TDTID>TDT008037</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 21:34</DATE>
+<TITLE> Republicans say Clinton's vision looks like their own</TITLE>
+<HEADLINE> Republicans say Clinton's vision looks like their own</HEADLINE>
+<SUBJECT> BC-CLINTON-REPUBLICANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Republicans said tax-cut proposals outlined Thursday by President Clinton looked a great deal like their own and pledged to work with him to enact new legislation, but only if his new position was based on ``real conviction.'' </P>
+<P> ``If the president's new position tonight represents a real change of heart, we say: 'Welcome aboard,''' Sen. Fred Thompson, the newly elected Republican senator from Tennessee, said in a televised response to Clinton's speech. </P>
+</TEXT>
+</DOC>

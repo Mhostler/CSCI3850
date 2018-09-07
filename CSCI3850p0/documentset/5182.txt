@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU013-0168.950325</DOCID>
+<TDTID>TDT011688</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/25/95 00:12</DATE>
+<TITLE> Fujimori holds wide lead in Peruvian polls</TITLE>
+<HEADLINE> Fujimori holds wide lead in Peruvian polls</HEADLINE>
+<SUBJECT> BC-PERU-ELECTIONS 1STLD (PICTURES) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Adds new poll, quotes from candidates)</NOTES>
+<DATELINE>LIMA, Peru (Reuter) </DATELINE>
+<P>  President Alberto Fujimori, who is running for a second term, continues to hold a wide lead over his nearest rival ahead of the April 9 national elections, polls published Friday said. </P>
+<P> But the surveys indicated that the margin of Fujimori's lead over former United Nations Secretary General Javier Perez de Cuellar has narrowed. </P>
+<P> A survey by Peru's leading polling firm Apoyo indicated that Fujimori would capture 47 percent of the vote compared to 22 percent for Perez de Cuellar. The poll of 3,038 voters carried out March 19-23 had a two percent margin of error. </P>
+<P> Fujimori's support was down from an earlier poll done by the same firm on March 13 that gave him 50 percent of voter support compared to only 17 percent for Perez de Cuellar. </P>
+<P> Under Peruvian law, Friday was the last day pre-election polls could be published in Peru. </P>
+<P> Another poll by Imasen said 45.5 percent of voters surveyed March 17-21 backed Fujimori, while 19.8 percent favored Perez de Cuellar. </P>
+<P> The polling firm found that support for Fujimori had slipped from 47.1 percent in mid-February, when Peru was fighting a border conflict with Ecuador. </P>
+<P> The president and a 120-seat Congress will be chosen in the election. If the top presidential candidate fails to win 50 percent of the vote, a second round will be held in June.  ``I am going to launch a war on poverty and unemployment,'' Perez de Cuellar said in a campaign speech. He promised to create two million jobs in the next five years and increase social spending, especially for education. </P>
+<P> Fujimori said Peru was much better off than in 1990 when he took office. He said the expansion of tourism, agriculture and fishing would create jobs for Peruvians. </P>
+<P> ``For better or for worse, I come with concrete facts,'' he told a forum. ``This is my letter of introduction to the country and my advantage is that the people know my work.'' </P>
+</TEXT>
+</DOC>

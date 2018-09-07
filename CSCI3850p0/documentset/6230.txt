@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU002-0230.950503</DOCID>
+<TDTID>TDT013372</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 07:23</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BLAST-WITNESSES-RELEASE 1STLD -2 OKLAHOMA CITY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> An FBI spokesman in Washington said he could not officially confirm the report that Land and Jacks had been released without charges. He said he expected a statement would be made later Wednesday. </P>
+<P> Authorities said the two were believed to be linked to McVeigh, the only suspect charged so far in the powerful bombing on April 19 that killed at least 146 people.  According to media reports, Land and Jacks were let go without a hearing and taken to a car impound lot where they recovered the white Thunderbird and drove away. </P>
+<P> Interviewed on television, Land said both men had passed polygraph tests. He said the two ``had no idea'' they had been the subject of an all-points bulletin Tuesday by the FBI. </P>
+</TEXT>
+</DOC>

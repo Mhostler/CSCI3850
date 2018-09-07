@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU005-0417.941111</DOCID>
+<TDTID>TDT006365</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/11/94 02:24</DATE>
+<TITLE> Clinton accused of cutting number of Vets in govt</TITLE>
+<HEADLINE> Clinton accused of cutting number of Vets in govt</HEADLINE>
+<SUBJECT> BC-VETERANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Vietnam veterans advocate John Wheeler, one of the founders of the Vietnam Veterans Memorial, has attacked the Clinton administration for reducing the number of veterans in senior political jobs. </P>
+<P> In a statement released on the eve of Veterans Day, Wheeler cited data provided by the Office of Personnel and Management, which showed that as of June, 129 of 803 senior political appointees under President Clinton were veterans. </P>
+<P> That compares to 191 of 796 appointees under former President George Bush, Wheeler said, citing OPM data. </P>
+<P> ``Compared to Bush, Clinton drastically cut back on vets,'' Wheeler said. ``It is hypocritical for Clinton to make political use of appearances with American troops when his real attitude toward military service is so negative.'' </P>
+<P> Clinton has been dogged by questions about his attitude toward the military since he first ran for governor in Arkansas. </P>
+<P> ``Clinton's shunning of vets could end his chance of re-election, since the number of vets voting for Clinton in 1992 exceeded his margin of victory over Bush,'' Wheeler said. </P>
+<P> In 1992, 6.9 million veterans voted for Clinton, who defeated Bush by 5.5 million votes. </P>
+</TEXT>
+</DOC>

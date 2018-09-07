@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0072.941208</DOCID>
+<TDTID>TDT007604</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 06:22</DATE>
+<TITLE> Turkish court jails Kurdish MPs</TITLE>
+<HEADLINE> Turkish court jails Kurdish MPs</HEADLINE>
+<SUBJECT> BC-TURKEY-VERDICT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANKARA, Turkey (Reuter) </DATELINE>
+<P>  A Turkish state security court jailed eight Kurdish MPs for up to 15 years Thursday after earlier dropping treason charges that carried the death penalty. </P>
+<P> The court sentenced five MPs including Leyla Zana, the only woman among them, to 15 years. One MP was given seven years and six months. </P>
+<P> Two MPs, including independent MP Mahmut Alinak, were given 3 3/8 years each, but were expected to be released, taking into account the nine months they have spent in prison since their March arrest. </P>
+<P> ``The decision was taken with little evidence and hardly any proper scrutiny,'' DEP lawyer Yusuf Alatas said of the case that has been widely criticized by the West and human rights groups. ``The decision is political.'' </P>
+<P> Seven of the MPs were members of the now-banned pro-Kurdish Democracy Party (DEP). </P>
+</TEXT>
+</DOC>

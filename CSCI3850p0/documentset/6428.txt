@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0042.950510</DOCID>
+<TDTID>TDT013631</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/10/95 05:28</DATE>
+<TITLE> Mortars hit Sarajevo, four hurt</TITLE>
+<HEADLINE> Mortars hit Sarajevo, four hurt</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-BOSNIA-MORTARS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, May 10 (Reuter) </DATELINE>
+<P>  At least four people were hurt when two mortars hit Sarajevo's old town on Wednesday, journalists at the scene said. </P>
+<P> The Bosnian capital has been under increasing attack since Bosnian Serb shelling killed 11 people in its Butmir suburb at the weekend and U.N. commanders refused to allow retaliatory air strikes by NATO. </P>
+</TEXT>
+</DOC>

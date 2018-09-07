@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU005-0297.940911</DOCID>
+<TDTID>TDT003209</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/11/94 23:53</DATE>
+<TITLE> U.S. enviornmental agency links dioxin to cancer</TITLE>
+<HEADLINE> U.S. enviornmental agency links dioxin to cancer</HEADLINE>
+<SUBJECT> BC-HEALTH-DIOXIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The U.S. Environmental Protection Agency (EPA) has found that dioxin, a common class of chemical compounds, probably causes cancer in humans, the Washington Post reported in Monday's editions. </P>
+<P> It said that a 2,000-page report to be made public Tuesday will stop short of labeling dioxin a known carcinogen because that would require further studies. </P>
+<P> But the EPA study estimates that dioxin and related compounds are responsible for between one in 1,000 and one in 10,000 of all cancers, the most common of which may be lung cancer. </P>
+<P> Dioxin emissions are mainly a by-product of incineration of medical and municipal waste that contains some form of chlorine. </P>
+<P> The EPA already strictly controls the use of dioxin in such forms as herbicides, paper manufacturing and in other uses. </P>
+<P> But traces of dioxin have been found in fish and foods. </P>
+<P> EPA officials could not be reached for comment. </P>
+</TEXT>
+</DOC>

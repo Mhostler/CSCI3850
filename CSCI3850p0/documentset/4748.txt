@@ -1,0 +1,34 @@
+<DOC>
+<DOCID>REU003-0287.950306</DOCID>
+<TDTID>TDT011037</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/06/95 15:13</DATE>
+<TITLE> Yachting community wonders what went wrong with One Australia</TITLE>
+<HEADLINE> Yachting community wonders what went wrong with One Australia</HEADLINE>
+<SUBJECT> BC-YACHTING-AMERICAS-SINKING </SUBJECT>
+<AUTHOR>     By Elaine Davis </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN DIEGO (Reuter) </DATELINE>
+<P>  When One Australia sank Sunday in 500 feet of water off San Diego, the buzz throughout the yachting community was that designers had gone too far with their technology. </P>
+<P> Following one of the most spectacular mishaps in America's Cup history, questions quickly surfaced about what really had happened. Was the hull defective? Did modifications to the underbody compromise the boat's soundness? </P>
+<P> Australia One skipper John Bertrand did not have any immediate answers. He was understandably stunned and said the sudden break in the hull was ``like a cannon'' going off and that the boat ``appeared to fold like a sheet of cardboard.'' </P>
+<P> All 17 people on board were able to swim safely to chase boats avoiding a major catastrophe after One Australia snapped in heavy conditions with winds blowing at 17 to 20 knots and a sea swell in excess of six feet. </P>
+<P> Since the boat is currently sitting on the ocean floor, the real truth of what happened may never be known unless it is salvaged. </P>
+<P> One expert observer, Heiner Meldner, director of technology for America3 (cubed), said a combination of things could have contributed to what he described as ``classical buckling failure.'' </P>
+<P> Meldner said the International America's Cup Class (IACC) boats have a natural weakness, or what is called a soft spot, where the deck retreats sharply behind the primary winches. </P>
+<P> ``All boats have soft spots,'' said Meldner, who said the corner behind the primary winches is considered a fundamental weakness to the body's integrity. </P>
+<P> Racing boats are both delicate and costly. The 75-foot boat, which has been estimated to cost up to $3 million, disappeared from view in about two minutes. </P>
+<P> ``In any other type of boats..., this was a normal day,'' said Spanish skipper Pedro Campos, whose opponent on Sunday, France 3, lost part of its mast during their race. ``The class (boat) is obviously not designed to sail over 15 knots.'' </P>
+<P> Meldner, a German boat designer who was also director of technology for Bill Koch's 1992 winning America3 team, agrees that the scientists in this game push the envelope. </P>
+<P> ``These are racing vehicles, and the old thing is the ideal racing vehicle is one that falls to pieces right after it finishes,'' said Meldner, who is also trained as a nuclear physicist. ``Sometimes it happens before.'' </P>
+<P> Meldner suggested that the race committee should have listened to the sailors who had complained about conditions before the race. </P>
+<P> ``If I hear the tough ones call out, you listen,'' said Meldner. </P>
+<P> Pat Healy, the race director for the Challenger trials, said: ``We did not come close to the criteria for cancelling the race.'' </P>
+<P> From Healy's vantage point, which was approximately a mile from where the Australians were racing against Team New Zealand, the clock showed 15.89 knot winds. </P>
+<P> Although there is talk about lawsuits being brought against the race committee, nobody knows how the incident will affect the America's Cup administration. </P>
+<P> However, it is possible that officials will now reconsider a suggestion made by Meldner a couple of years ago. </P>
+<P> He devised a plan to outfit IACC boats with pop-up floats like the type used on helicopters. According to Meldner, the 100-pound floats would be affixed to the inside bottom of the hull and take about 2 cubic meters of air to inflate. </P>
+<P> Meldner said the cost would be about $10,000 -- a bargain considering that some sails alone cost $60,000. </P>
+</TEXT>
+</DOC>

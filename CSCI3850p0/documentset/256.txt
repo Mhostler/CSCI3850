@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0268.940716</DOCID>
+<TDTID>TDT000633</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/16/94 08:50</DATE>
+<TITLE> ITALY'S ANTI-GRAFT MAGISTRATES QUIT POSTS</TITLE>
+<HEADLINE> ITALY'S ANTI-GRAFT MAGISTRATES QUIT POSTS</HEADLINE>
+<SUBJECT> BC-ITALY-MAGISTRATES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  Leading members of the elite pool of Milan magistrates heading investigations into Italy's graft scandals resigned Saturday in protest at a new law curbing their powers of arrest, the news agency ANSA said. </P>
+<P> The magistrates, including Antonio Di Pietro, who has become a folk hero to Italians because of the probes, told Francesco Savverio Borelli, the pool's chief magistrate, they were stepping down. </P>
+<P> The decree prohibits magistrates from applying preventive detention in jail in cases of bribery and corruption -- a measure that has been liberally applied in the two-year judicial assault on Italy's bribes scandal. </P>
+<P> Declaring Friday that imprisonment had become almost the rule, Prime Minister Silvio Berlusconi said the aim of the measure was to restore civil liberties. </P>
+<P> ANSA said the magistrates told Borrelli of their resignations but no written statement had been issued. </P>
+</TEXT>
+</DOC>

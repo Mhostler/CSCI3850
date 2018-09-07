@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU008-0138.950316</DOCID>
+<TDTID>TDT011332</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/16/95 02:58</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-SPACE-RUSSIA-USA -2 MOSCOW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> A highlight of the mission will be a link-up in June between Mir and the U.S. space shuttle Atlantis. Aboard the shuttle, the 100th U.S. manned space mission, will be five U.S. astronauts and two Russian cosmonauts. </P>
+<P> One of Thagard's main tasks will be to study the effect of long stays in near-zero gravity -- a building block in creating a permanently manned multi-billion dollar orbiting space station dubbed Alpha. </P>
+<P> The three-phase construction of the space station, due to be completed in June 2002, brings Moscow and Washington together with Canada, the European Space Agency and Japan in a program to create the orbiting science center. </P>
+</TEXT>
+</DOC>

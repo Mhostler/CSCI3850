@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0159.950511</DOCID>
+<TDTID>TDT013705</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/11/95 17:43</DATE>
+<TITLE> NBA-Jordan, Bulls fined by league for uniform violations</TITLE>
+<HEADLINE> NBA-Jordan, Bulls fined by league for uniform violations</HEADLINE>
+<SUBJECT> BC-NBA-FINES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The National Basketball Association Thursday fined Chicago Bulls superstar Michael Jordan $5,000 and the team $25,000 for uniform violations during Wednesday's playoff game against the Orlando Magic. </P>
+<P> Jordan was fined for wearing non-conforming shoes. He played in primarily white sneakers while the rest of the Bulls wore primarily black shoes. NBA rules stipulate that players must wear the same color sneakers as their teammates. </P>
+<P> The Bulls were fined for permitting Jordan to switch jersey numbers. Jordan appeared in his retired number 23 as opposed to the number 45 that he has worn since coming out of retirement in March. </P>
+<P> Jordan scored 38 points as the Bulls won the game, 104-94, to even the best-of-seven Eastern Conference semifinal series at one victory each. </P>
+<P> The fines were announced by NBA Vice President of Basketball Operations Rod Thorn. </P>
+</TEXT>
+</DOC>

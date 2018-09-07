@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0448.950503</DOCID>
+<TDTID>TDT013400</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 19:17</DATE>
+<TITLE> Advocates seek better health education for kids</TITLE>
+<HEADLINE> Advocates seek better health education for kids</HEADLINE>
+<SUBJECT> BC-HEALTH-EDUCATION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Alarmed by what they called ''deteriorating health'' among children, a coalition of health and child advocacy groups Wednesday called for a major new drive to educate youths about their own health. </P>
+<P> The groups noted that the threats of yesteryear, like smallpox and polio, have given way to violence, suicide, car crashes, AIDS and other deadly problems. Bad eating habits, lack of exercise and smoking among youths also set the stage for cancer, heart and other diseases later in life. </P>
+<P> ``We've done a great job using aggressive standards to teach our kids subjects like math and science. Now it's time to be just as aggressive in teaching our kids how to be healthy,'' Dr. John Seward, chairman of the American Medical Association's Board of Trustees, told a news conference. </P>
+<P> The nationwide coalition called for health education standards that teach children how to think about health, not what to think about health. </P>
+<P> The coalition, which included the American Cancer Society and the National PTA, said it should be up to local communities, including parents, to determine what specific curriculum is most suitable. </P>
+<P> But the curriculum should incorporate such concepts as understanding disease prevention, evaluating risk, and set personal health goals, such as avoiding drugs and tobacco. </P>
+<P> Communities could decide whether to set up special health classes, or to incorporate health issues in other lessons, like reading, science or social studies. </P>
+<P> However, at a separate news, another health group had some brighter news. The American Dietetic Association, the President's Council on Physical Fitness and Sports and other groups released a Gallup survey showing that 97 percent of the 410 children aged nine to 15 knew that a balanced diet is required for health and 98 percent knew the importance of physical activity. </P>
+</TEXT>
+</DOC>

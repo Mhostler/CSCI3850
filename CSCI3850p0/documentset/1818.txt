@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0029.941005</DOCID>
+<TDTID>TDT004511</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/05/94 07:02</DATE>
+<TITLE> Italian government rejects minister's resignation</TITLE>
+<HEADLINE> Italian government rejects minister's resignation</HEADLINE>
+<SUBJECT> BC-ITALY-MINISTER-REJECTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  The Italian government Wednesday unanimously rejected an offer by Justice Minister Alfredo Biondi to resign, cabinet spokesman Giuliano Ferrara said. </P>
+<P> Biondi tendered his resignation to Prime Minister Silvio Berlusconi earlier Wednesday following a dispute with magistrates about Milan's elite pool of anti-corruption investigators. </P>
+</TEXT>
+</DOC>

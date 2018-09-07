@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU012-0065.940825</DOCID>
+<TDTID>TDT002453</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/25/94 17:44</DATE>
+<TITLE> CLINTON SAYS WILL LIMIT TALKS WITH CUBA</TITLE>
+<HEADLINE> CLINTON SAYS WILL LIMIT TALKS WITH CUBA</HEADLINE>
+<SUBJECT> BC-CUBA-USA-TALKS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Thursday said the United States was willing to discuss immigration issues with Cuba but would not expand talks beyond that subject. </P>
+</TEXT>
+</DOC>

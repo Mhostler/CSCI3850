@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU011-0162.941225</DOCID>
+<TDTID>TDT008439</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/25/94 09:45</DATE>
+<TITLE> Hundreds homeless after S.African storm</TITLE>
+<HEADLINE> Hundreds homeless after S.African storm</HEADLINE>
+<SUBJECT> BC-WEATHER-SAFRICA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DURBAN, South Africa (Reuter) </DATELINE>
+<P>  About 1,000 black South Africans were homeless on Christmas Day after their shacks were destroyed by a tornado in the KwaZulu-Natal region, police said. </P>
+<P> A spokesman said four people were seriously hurt in the storm Saturday evening. </P>
+<P> ``About 100 homes were destroyed and about 1,000 people were left homeless in Impendle near Pietermaritzburg,'' he said. </P>
+<P> The Durban weather office said hailstones the size of golf balls, followed by strong winds, damaged homes and cars in the farming areas of Cedara and Howick, about 25 miles from Pietermaritzburg. </P>
+<P> ``The sky turned pitch black at about 3 p.m.,'' said Howick resident Sian Hall. ``The hail stones were huge.'' </P>
+<P> Durban weather office spokesman Willie Pretorius said there were no wind gauges in the area of the storm and it was difficult to know the exact speed of the winds. </P>
+</TEXT>
+</DOC>

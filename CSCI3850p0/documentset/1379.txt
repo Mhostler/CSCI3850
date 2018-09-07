@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU007-0235.940915</DOCID>
+<TDTID>TDT003406</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/15/94 05:05</DATE>
+<TITLE> British soldier wounded in Gorazde</TITLE>
+<HEADLINE> British soldier wounded in Gorazde</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-BRITISH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  A British soldier was wounded when his vehicle was attacked in the east Bosnian pocket of Gorazde on Wednesday evening, a U.N. spokesman said Thursday. </P>
+<P> ``We suspect the attack came from the Serb side but that is not yet confirmed,'' he added. The U.N. soldier's condition was not known. </P>
+<P> Gorazde is a Muslim enclave surrounded by Serbs and defended by U.N. peacekeepers, including British troops. </P>
+</TEXT>
+</DOC>

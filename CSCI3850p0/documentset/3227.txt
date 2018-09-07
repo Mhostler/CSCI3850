@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0157.941215</DOCID>
+<TDTID>TDT007989</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 07:05</DATE>
+<TITLE> Italian minister Maroni breaks ranks with Bossi</TITLE>
+<HEADLINE> Italian minister Maroni breaks ranks with Bossi</HEADLINE>
+<SUBJECT> BC-ITALY-MARONI </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  Italian Interior Minister Roberto Maroni of the Northern League broke ranks with party leader Umberto Bossi Thursday and said he would not join an alternative government if Prime Minister Silvio Berlusconi's coalition collapsed. </P>
+<P> His remarks exposed a split in the Northern League over Bossi's bid to bring down the current five-party coalition. </P>
+<P> ``I am not prepared to join an alternative government,'' Maroni, whose name has been floated as a possible future prime minister, told reporters in parliament. ``I am not prepared to be prime minister.'' </P>
+<P> ``If there is another government then someone who has believed in this majority can't act like a puppet,'' Maroni said. ``It's not a matter of loyalty to Berlusconi but of sticking to my personal principles.'' </P>
+<P> Prospects of an imminent collapse of Berlusconi's coalition soared Wednesday when Bossi began exploratory talks with the opposition Democratic Party of the Left and centrist Popular Party on an alternative coalition. </P>
+<P> Berlusconi, who is also battling a corruption probe, has set the stage for a showdown with the League by deciding to address the Chamber of Deputies next Wednesday in a test of whether the coalition can survive. </P>
+</TEXT>
+</DOC>

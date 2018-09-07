@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU015-0159.950424</DOCID>
+<TDTID>TDT013001</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 19:48</DATE>
+<TITLE> Japan governor rejects entry for nuclear ship</TITLE>
+<HEADLINE> Japan governor rejects entry for nuclear ship</HEADLINE>
+<SUBJECT> BC-NUCLEAR-SHIP-REFUSAL  </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MUTSU OGAWARA, Japan, April 25 (Reuter) </DATELINE>
+<P>  The governor of northern Japan's Aomori prefecture on Tuesday refused to allow the entry of a British nuclear ship carrying radioactive waste which arrived off Aomori port after a two-month voyage from France. </P>
+<P> ``We cannot accept this vague explanation from the government (on future nuclear storage),'' governor Morio Kimura told a news conference. ``I have decided not to allow the ship to enter port.'' </P>
+</TEXT>
+</DOC>

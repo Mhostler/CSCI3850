@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU001-0429.950502</DOCID>
+<TDTID>TDT013347</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/02/95 12:08</DATE>
+<TITLE> Britain confirms May 10 for N.Irish peace talks</TITLE>
+<HEADLINE> Britain confirms May 10 for N.Irish peace talks</HEADLINE>
+<SUBJECT> BC-IRISH TALKS 1STLD </SUBJECT>
+<AUTHOR>     By Martin Cowley </AUTHOR>
+<TEXT>
+<NOTES> (Updates with British confirmation, more Sinn Fein quotes)</NOTES>
+<DATELINE>BELFAST, Northern Ireland (Reuter) </DATELINE>
+<P>  A British minister will open peace talks May 10 with Sinn Fein, the political wing of the IRA guerrillas who waged a 25-year campaign to end British rule in Northern Ireland, the government said Tuesday. </P>
+<P> The first meeting between a minister and Sinn Fein since a secret tete-a-tete in 1972 marks a significant stage in the peace process after cease-fires by the Irish Republican Army and their Protestant guerrilla foes. It is also a huge step in Sinn Fein's advance into mainstream politics. </P>
+<P> ``Arrangements are being made for a meeting next Wednesday between (British minister) Michael Ancram and Sinn Fein, for the purposes of exploratory dialog,'' Britain's Northern Ireland Office said in a statement. </P>
+<P> But on the eve of a visit to Northern Ireland by Prime Minister John Major, Sinn Fein warned of political troubles ahead if it is treated differently from other political groups in the search for a permanent end to violence. </P>
+<P> Sinn Fein's chief negotiator Martin McGuinness, pointing to his party's exclusion from separate talks on political structures that Britain plans with other parties, said Britain had not yet recognised Sinn Fein's political mandate. </P>
+<P> ``We are saying quite forcibly to the British government that the president of Sinn Fein, the leader of our party Gerry Adams, should also be invited (to the separate talks) and if he isn't invited, then I think we do have a serious problem.'' </P>
+<P> Despite this, McGuinness said Sinn Fein was approaching the talks with Ancram positively. ``I am not in...pessimist mode in regard to this particular meeting,'' he told BBC radio. </P>
+<P> Exploratory talks between the rival guerrillas' political wings and British officials started in December. </P>
+<P> Ancram met politicians close to Protestant Loyalist guerrillas -- who want Northern Ireland to remain British -- in March. But Britain shied away from a ministerial encounter with Sinn Fein. </P>
+<P> The sticking point was how the exploratory talks would tackle the thorny question of the IRA giving up its huge weapons stockpiles, demanded by Britain as the price of a Sinn Fein seat in future multilateral talks on the region's future. </P>
+</TEXT>
+</DOC>

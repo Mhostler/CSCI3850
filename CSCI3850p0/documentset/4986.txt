@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0461.950317</DOCID>
+<TDTID>TDT011370</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/17/95 09:57</DATE>
+<TITLE> Sen. Exon to retire from Congress</TITLE>
+<HEADLINE> Sen. Exon to retire from Congress</HEADLINE>
+<SUBJECT> BC-CONGRESS-EXON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Sen. James Exon, a Nebraska Democrat, said Friday he will not run for re-election in 1996. </P>
+<P> Exon, 73, was first elected to the Senate in 1978. He announced he would not run again in Lincoln, Neb., his office said. Exon said he wanted to spend more time with his family. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU011-0357.940723</DOCID>
+<TDTID>TDT000963</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/23/94 23:21</DATE>
+<TITLE> CHINA JAILS FOUR FOR COMPUTER FRAUD</TITLE>
+<HEADLINE> CHINA JAILS FOUR FOR COMPUTER FRAUD</HEADLINE>
+<SUBJECT> BC-CHINA-COMPUTER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  In one of China's first officially reported cases of computer crime, four Beijing hoteliers have been jailed for cheating guests by manipulating computerized billing records. </P>
+<P> Beijing Friendship Hotel managers Jiang Zheng and Du Yize, were sentenced to seven years, the state-run Legal Daily reported Sunday. Two co-defendants were given three- and one-year terms. </P>
+<P> Official media reports recently have described computer fraud as a major and growing problem nationwide but cases have rarely been documented in official publications. </P>
+<P> Police found out that between February and May 1993 the defendants manipulated computerized records at the hotel to siphon off the equivalent of about US$9,000 from guests' payments, the report said. </P>
+<P> ``They connived to use the computer to cancel or change hotel accounts, alter the records of 39 cash receipts and make fraudulent reports of daily hotel accounts,'' the report said. </P>
+<P> ``Through these means they managed to embezzle 41,000 yuan in foreign exchange certificates and 16,000 yuan in renminbi (local currency),'' it said. </P>
+</TEXT>
+</DOC>

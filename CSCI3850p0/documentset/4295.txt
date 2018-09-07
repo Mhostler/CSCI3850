@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU006-0077.950211</DOCID>
+<TDTID>TDT010345</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/11/95 04:47</DATE>
+<TITLE> South Korea may build nuclear plants in China</TITLE>
+<HEADLINE> South Korea may build nuclear plants in China</HEADLINE>
+<SUBJECT> BC-NUCLEAR-KOREA-CHINA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, South Korea (Reuter) </DATELINE>
+<P>  State companies from China and South Korea agreed Saturday to begin a joint study into the possible construction of South Korean light-water nuclear reactors in China, the Korea Electric Power Corp (KEPCO) said. </P>
+<P> China National Nuclear Corp (CNNC) signed a memorandum of understanding with KEPCO paving the way for the South Korean company to take part in China's huge program to build nuclear plants, a KEPCO spokesman said. </P>
+<P> ``A technical and economic study will focus on whether South Korean nuclear plants could be built on coastal areas in China,'' he said. </P>
+<P> KEPCO will also give China a plan to help finance the construction of such plants, he added. </P>
+<P> Seoul officials have said any construction of South Korean nuclear reactors in China would put pressure on North Korea, which has refused to let the South provide reactors to implement an October nuclear agreement between Washington and Pyongyang. </P>
+<P> China is isolated North Korea's last remaining influential ally. </P>
+<P> To end a crisis over Pyongyang's suspected development of nuclear weapons, Washington promised to replace the communist North's graphite nuclear reactors with light-water models, from which weapons-grade plutonium is harder to extract. </P>
+<P> Pyongyang agreed in October to halt its nuclear program in return for the new reactors and steps toward diplomatic recognition by the United States. </P>
+<P> Washington has said the reactors must come from South Korea, which has agreed to bear the brunt of the cost. South Korea has said it would be difficult politically for it to foot the bill for reactors from a third country. </P>
+</TEXT>
+</DOC>

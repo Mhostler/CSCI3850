@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0232.950323</DOCID>
+<TDTID>TDT011615</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 13:33</DATE>
+<TITLE> Clinton threatens veto on student loans</TITLE>
+<HEADLINE> Clinton threatens veto on student loans</HEADLINE>
+<SUBJECT> BC-CLINTON-EDUCATION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton said Thursday he would veto any effort by Congress to cut student loan programs but that he hoped it would not come to that. </P>
+<P> At a question-and-answer session with college student newspaper reporters, Clinton was asked if he was willing to veto attempts by the Republican-led Congress to cut various programs for student loans. </P>
+<P> ``Of course I am in the areas of education which are so important to me,'' Clinton replied. But he said his first choice is ``to try to prevail in the debate in the Congress.'' </P>
+<P> He said he did not believe there was as much enthusiasm in the Senate as in the House for cutting the popular programs. </P>
+</TEXT>
+</DOC>

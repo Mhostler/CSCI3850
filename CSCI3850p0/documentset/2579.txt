@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0308.941113</DOCID>
+<TDTID>TDT006448</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/13/94 12:42</DATE>
+<TITLE> U.S. carrier arrives in the Gulf for Iraq watch</TITLE>
+<HEADLINE> U.S. carrier arrives in the Gulf for Iraq watch</HEADLINE>
+<SUBJECT> BC-GULF-USA-CARRIER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KUWAIT (Reuter) </DATELINE>
+<P>  The U.S. aircraft carrier Dwight Eisenhower arrived in the Gulf Sunday to support operations meant to keep Iraq under close watch, a U.S. navy source said. </P>
+<P> ``The USS Dwight Eisenhower entered the Gulf today (Sunday) morning,'' the source said by telephone. ``She is here to support operations Vigilant Warrior and Southern Watch,'' he added. </P>
+<P> Operation Vigilant Warrior is the code name of the October allied military buildup in the Gulf that followed Iraq's massing of 60,000 troops near the border with Kuwait. Baghdad pulled back its troops following the allied response. </P>
+<P> The United States is also participating in operation Southern Watch helping to enforce a ``no-fly zone'' which the U.S., Britain and France imposed in southern Iraq in 1992 to protect the country's rebelious Shiite Muslims. </P>
+<P> The source said the Eisenhower is replacing the George Washington aircraft carrier which left the Gulf on Nov. 5. </P>
+</TEXT>
+</DOC>

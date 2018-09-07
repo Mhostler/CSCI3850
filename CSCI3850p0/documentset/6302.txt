@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0423.950505</DOCID>
+<TDTID>TDT013462</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/05/95 05:33</DATE>
+<TITLE> Major vows to fight on despite local poll disaster</TITLE>
+<HEADLINE> Major vows to fight on despite local poll disaster</HEADLINE>
+<SUBJECT> BC-BRITAIN-MAJOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON, May 5 (Reuter) </DATELINE>
+<P>  British Prime Minister John Major, battered by the worst local election result in the ruling Conservatives' history, pledged on Friday to fight on as leader to the next general election, expected in two years' time. </P>
+<P> Major, speaking outside his Downing Street office, said he made ``no excuses'' for the results but would continue with his policies to ensure the long-term prosperity of the country. </P>
+</TEXT>
+</DOC>

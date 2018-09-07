@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0010.941020</DOCID>
+<TDTID>TDT005327</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/20/94 04:28</DATE>
+<TITLE> Russian sail ship adrift in North Sea, crewman dies</TITLE>
+<HEADLINE> Russian sail ship adrift in North Sea, crewman dies</HEADLINE>
+<SUBJECT> BC-DUTCH-SHIP </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AMSTERDAM (Reuter) </DATELINE>
+<P>  A replica of a 300-year-old Russian sailing ship was adrift in the North Sea Thursday after becoming disabled in a storm, the Dutch coastguard said. </P>
+<P> One of the five crew members died but the rest were reported in a stable condition after abandoning ship and being rescued. </P>
+<P> Dutch and German rescue services went to the aid of The Holy Spirit, modeled on a frigate built in 1702 for the Tsar's navy, after strong winds and high waves wrecked its steering gear about 45 nautical miles from the Dutch coast. </P>
+<P> The crew took to a lifeboat Wednesday night after sending out a distress call. They were lifted by helicopter to a nearby natural gas well platform where a German crew member was found to be dead. </P>
+<P> Efforts to get a man aboard the stricken 30 metre (98 foot) craft to attach a cable so it can be towed ashore had so far failed, a coastguard spokesman told Reuters by telephone. </P>
+<P> The Holy Spirit was bound for the Amsterdam Maritime Museum to take part in a commemoration of Czar Peter the Great's visit to the Netherlands where he learned the craft of shipbuilding. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU014-0407.950327</DOCID>
+<TDTID>TDT011800</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 19:36</DATE>
+<TITLE> Mexico salt plan threatens whales, ecologists say</TITLE>
+<HEADLINE> Mexico salt plan threatens whales, ecologists say</HEADLINE>
+<SUBJECT> BC-MEXICO-WHALES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Government plans to develop a salt production facility in northern Mexico threaten a key breeding ground used by migrating gray whales, a prominent Mexican environmental group said Monday. </P>
+<P> Mexico's Commerce Ministry is battling federal environmental officials over the planned state-owned facility at a bay used by migrating whales in Baja California Sur state's Vizcaino Desert Biosphere Reserve. </P>
+<P> While environmental officials have blocked the plan for now, environmentalists say they fear that economic interests will eventually win the day. </P>
+<P> ``The plan is very much alive and interests within the Mexican government want to see it through,'' Homero Aridjis, the head of Mexico's Group of 100, an environmental organization made up of intellectuals and authors, told a news conference. </P>
+<P> Mexican Commerce Minister Herminio Blanco, Baja California Gov. Guillermo Mercado Romero and local officials say the project's $120 million investment would provide badly needed relief for the state from Mexico's current economic crisis. </P>
+<P> But environmentalists say the project threatens one of North America's most important breeding grounds for whales, which travel every winter from Alaska's frigid waters to four breeding grounds in Mexico. </P>
+<P> At a nearby bay in the state where the government already operates a salt-production factory, no gray whales have been spotted in two years, Aridjis said. </P>
+<P> ``This battle pits major economic interests against Mexico's environmental policies, including protection of the gray whale's winter habitat,'' Aridjis said. </P>
+<P> Mexican environmental officials say they may have to fight it out with commerce officials in court but concede they can only block the project as long as it does not comply with Mexican environmental law. </P>
+<P> ``We will have to abide by what the law says,'' Gabriel Quadri, a top environmental official, told reporters. </P>
+<P> Aridjis said he fears the law is not strict enough to prevent the project. </P>
+</TEXT>
+</DOC>

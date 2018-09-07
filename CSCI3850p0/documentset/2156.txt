@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0273.941021</DOCID>
+<TDTID>TDT005399</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/21/94 11:15</DATE>
+<TITLE> Seven hurt in Hague bomb explosion-police</TITLE>
+<HEADLINE> Seven hurt in Hague bomb explosion-police</HEADLINE>
+<SUBJECT> BC-DUTCH-EXPLOSION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>THE HAGUE, Netherlands (Reuter) </DATELINE>
+<P>  Seven people were slightly injured after a bomb exploded in mid-afternoon Friday at a downtown shopping mall in The Hague, police said. </P>
+<P> It was not yet clear whether the bomb, placed in a metal litter bin, was a professionally manufactured device or made from fireworks, a police spokeswoman said. </P>
+<P> ``The bomb exploded at 2:22 p.m. (9:22 a.m. EDT). A technical investigation has started,'' she said, adding no one had claimed responsibilty for the explosion. </P>
+<P> The injured were taken to local hospitals. Several windows were shattered by the explosion. </P>
+</TEXT>
+</DOC>

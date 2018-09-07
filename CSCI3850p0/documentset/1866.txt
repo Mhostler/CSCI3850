@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU004-0253.941007</DOCID>
+<TDTID>TDT004634</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/07/94 18:21</DATE>
+<TITLE> Dozens feared dead in boat fire off Puerto Rico</TITLE>
+<HEADLINE> Dozens feared dead in boat fire off Puerto Rico</HEADLINE>
+<SUBJECT> BC-DOMINICAN-BOAT 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN JUAN, Puerto Rico (Reuter) </DATELINE>
+<P> (Eds: Updates with information from Dominican Republic, no more survivors expected.) </P>
+<P>  Four persons died and another 26 may have met the same fate when a crowded boat smuggling immigrants to Puerto Rico sank in the Caribbean Sea, a U.S. Coast Guard spokesman said.  The Coast Guard was called at 5:20 p.m. EDT Thursday to assist a 38-foot wooden boat seen burning in waters about two miles off the eastern Dominican Republic near Punta Nisibon. </P>
+<P> A tugboat, the U.S.-flagged El Rhino Grande, also was in the area and was called in to assist. The tugboat picked up 89 people Thursday evening and rescuers were told 117 people had been on board the burning boat. </P>
+<P> Of the 89 picked up Thursday, four were dead and several had severe injuries, including burns, broken bones and a spinal injury. Two pregnant women on board also were injured. </P>
+<P> The tugboat, joined by a Dominican navy ship and a Coast Guard cutter, found two more people alive Friday morning and rescuers hoped to find more survivors, but had not done so by late Friday and were near giving up hope. </P>
+<P> Eugenio Cabral, director of Civil Defense for the Dominican Republic, who had surveyed the scene from a helicopter, said there was little hope that any more survivors would be found. </P>
+<P> The survivors told the officials that they were immigrants being smuggled to Puerto Rico, and that the two smugglers who arranged the ill-fated trip had perished in the blaze. </P>
+<P> ``They were aliens migrating to Puerto Rico,'' the Coast Guard spokesman said. </P>
+<P> There is a lucrative trade in the Dominican Republic involving smuggling of immigrants who hope to reach Puerto Rico and eventually the continental United States. </P>
+<P> The cause of the fire was not known, although some survivors told Dominican authorities they heard an explosion shortly before they saw flames. </P>
+<P> Several of the injured survivors were airlifted to Puerto Rico for treatment, while others were being treated aboard the Coast Guard cutter. Survivors not needing immediate medical attention were to be transferred to the Dominican naval vessel and returned to the Dominican Republic. </P>
+</TEXT>
+</DOC>

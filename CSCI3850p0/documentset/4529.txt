@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0090.950224</DOCID>
+<TDTID>TDT010706</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/24/95 11:13</DATE>
+<TITLE> More than 30,000 refugees flee Burundi to Tanzania</TITLE>
+<HEADLINE> More than 30,000 refugees flee Burundi to Tanzania</HEADLINE>
+<SUBJECT> BC-BURUNDI-REFUGEES 1STLD </SUBJECT>
+<AUTHOR>     By Adam Lusekelo </AUTHOR>
+<TEXT>
+<NOTES> (Updates with Tanzanian figures, fighting, pvs GENEVA)</NOTES>
+<DATELINE>DAR ES SALAAM, Tanzania (Reuter) </DATELINE>
+<P>  Thousands of Burundian and Rwandan refugees are fleeing fighting between troops and gunmen in Burundi and pouring into northwest Tanzania, officials said Friday. </P>
+<P> The United Nations High Commissioner for Refugees (UNHCR) said 24,000 had taken refuge in Tanzania in the past week. Local government officials in Tanzania put the number of refugees at more than 30,000. </P>
+<P> Brigadier Sylvester Hemed, commissioner of the border district of Ngara, told Reuters refugees said that followers of the outlawed Hutu Palipehutu party were fighting a rear-guard action against the Tutsi-dominated army in the north of Burundi. </P>
+<P> ``We have arrested two followers of the extremist Palipehutu movement. They had 80 rounds of ammunition and three hand grenades,'' said Hemed, adding that refugees were entering through the Kasange, Mugoma, Mabawe, Kabanga and Murusagamba border areas. </P>
+<P> The brigadier said he recently met a small unit of Burundi soldiers near the Tanzania border who said they were guarding the frontier against ``die-hards'' of Burundi's Hutu majority. </P>
+<P> In Geneva, UNHCR spokeswoman Sylvana Foa said two-thirds of the 24,000 refugees to flee to Tanzania were Burundians and the rest were Rwandans who had already been refugees in Burundi. </P>
+<P> ``This movement was sparked by fighting earlier this week between what apparently were Hutus and the Tutsi-dominated Burundi military,'' said Foa. </P>
+<P> Burundi has been plagued since last year by ethnic clashes and fears of mass slaughter between the Tutsi minority and Hutu majority similar to last year's genocide in neighboring Rwanda. </P>
+<P> Foa said the refugees were scattered along the border and the UNHCR was trying to persuade them to move to a camp at Kitale Hill, about 45 miles inside Tanzania, but many planned to return to Burundi as soon as the situation calmed down. </P>
+<P> The influx brought to 60,000 the number of Burundian refugees in Tanzania. More than half a million refugees from Rwanda are in Tanzania after fleeing massacres which followed the deaths of Rwandan President Juvenal Habyarimana and his Burundian counterpart Cyprien Ntaryamira, killed in a rocket attack on their plane on April 6 last year. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0247.950112</DOCID>
+<TDTID>TDT009226</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/12/95 12:36</DATE>
+<TITLE> Haiti operation has cost U.S. over $765 mln</TITLE>
+<HEADLINE> Haiti operation has cost U.S. over $765 mln</HEADLINE>
+<SUBJECT> BC-HAITI-USA-COST </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States has spent more than $765 million to restore democracy in Haiti and the figure is increasing daily, according to a report released by the Clinton administration Thursday. </P>
+<P> The report, released by the Pentagon after it was sent to Congress, said $765 million was spent on Haiti between Oct. 1, 1993, and Nov. 30, 1994. That partial cost was for programs ranging from humanitarian aid to policing a trade embargo, sending thousands of troops to Haiti and maintaining Haitian refugees at Guantanamo Bay, Cuba. </P>
+<P> But the price has gone up since then because of the cost of maintaining a continued troop presence in Haiti, according to defense officials. Those troops peacefully invaded the island last September to restore President Jean-Bertrand Aristide to power. </P>
+<P> The report noted that the cost of sending and maintaining the U.S. military force on the island was about about $168 million in October and November of last year alone. </P>
+<P> The Clintion administration said earlier it will ask Congress for a special defense appropriation of over $2 billion to cover unanticipated military costs since last Oct. 1, including the operation in Haiti and U.S. rescue and maintenance of Cuban refugees in the Caribbean. </P>
+</TEXT>
+</DOC>

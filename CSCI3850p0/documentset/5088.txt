@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU011-0189.950322</DOCID>
+<TDTID>TDT011545</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/22/95 01:29</DATE>
+<TITLE> S.Korean police on alert after Tokyo gas attack</TITLE>
+<HEADLINE> S.Korean police on alert after Tokyo gas attack</HEADLINE>
+<SUBJECT> BC-JAPAN-SUBWAY-KOREA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, March 22 (Reuter) </DATELINE>
+<P>  South Korean police said on Wednesday they were stepping up checks in crowded areas, including subway stations in Seoul and the second city of Pusan, following the toxic gas attack on Tokyo commuters. </P>
+<P> A spokesman for the National Police Agency said police were on emergency alert and had beefed up checks and patrols in crowded areas to prevent extremist action. </P>
+<P> ``These measures are being taken following the gas attack on the Tokyo subway stations,'' the spokesman said. </P>
+<P> The number of police guarding subway stations in the capital would be increased to 1,300 from 260, he said. </P>
+<P> He said the agency would deploy ambulances with anti-poison agents and emergency rescue teams at 148 subway stations in Seoul and Pusan, the only cities with subways. </P>
+<P> Military anti-chemical units would be deployed at stations, bus terminals, airports and ports vulnerable to extremist attacks, the spokesman said. </P>
+<P> The Seoul Metropolitan Subway Corporation has already instructed staff to increase security. </P>
+<P> Ten people were killed and nearly 5,000 injured in the nerve gas attack on the Tokyo subway system. </P>
+</TEXT>
+</DOC>

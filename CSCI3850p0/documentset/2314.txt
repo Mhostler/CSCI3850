@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU014-0099.941030</DOCID>
+<TDTID>TDT005784</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/30/94 16:17</DATE>
+<TITLE> ''Baby Bells,'' Ovitz to announce joint venture</TITLE>
+<HEADLINE> ''Baby Bells,'' Ovitz to announce joint venture</HEADLINE>
+<SUBJECT> BC-BELLS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Hollywood super-agent Michael Ovitz and three regional Bell telephone companies will announce plans Monday for a joint entertainment venture to compete with the nation's cable television systems, a source close to the negotiations said Sunday. </P>
+<P> The venture will include Bell Atlantic Corp., NYNEX Corp., and Pacific Telesis Group, who have hired Ovitz, head of Creative Artists Agency, to help organize the enterprise, the source said. </P>
+</TEXT>
+</DOC>

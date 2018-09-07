@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU003-0020.941005</DOCID>
+<TDTID>TDT004504</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/05/94 05:18</DATE>
+<TITLE> Suspected plague kills three in Mozambique</TITLE>
+<HEADLINE> Suspected plague kills three in Mozambique</HEADLINE>
+<SUBJECT> BC-PLAGUE-MOZAMBIQUE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MAPUTO, Mozambique (Reuter) </DATELINE>
+<P>  Three people have died from suspected bubonic plague in central Mozambique, the health ministry said Wednesday. </P>
+<P> It said 127 suspected plague cases had been reported between September 21 and 29 in Tete Province's Mutarara district bordering Malawi. Three people had died. </P>
+<P> Plague was last reported in the area in 1977. </P>
+<P> A team from the United Nations High Commissioner for Refugees (UNHCR), the health ministry and the Belgian wing of the charity Medecins Sans Frontieres (Doctors Without Borders) was travelling to Mutarara Wednesday to bring back blood samples to establish whether plague had erupted, the UNHCR's provincial head David Kapya told Reuters. </P>
+<P> If confirmed, the outbreak would be the first reported in Africa since India announced September 19 its first death from plague in an outbreak centred in the the western state of Gujarat. </P>
+<P> The Indian government says the outbreak, of both bubonic and pneumonic plague, has killed 52 people but is now under control. </P>
+<P> The UNHCR has temporarily suspended the repatriation of Mozambican refugees from Malawi to Mutarara. </P>
+<P> Poverty-stricken Mozambique, which has a population of 12 million, is due to hold its first democratic elections October 27 and 28. </P>
+</TEXT>
+</DOC>

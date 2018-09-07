@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU001-0012.950201</DOCID>
+<TDTID>TDT009957</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/01/95 01:08</DATE>
+<TITLE> Perry, Brown to honor vets for Black History Month</TITLE>
+<HEADLINE> Perry, Brown to honor vets for Black History Month</HEADLINE>
+<SUBJECT> BC-VETERANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Defense Secretary William Perry and Secretary of Veterans Affairs Jesse Brown will mark the start of Black History Month Wednesday by laying wreaths to honor the memory of fallen black World War II veterans. </P>
+<P> The Cabinet secretaries, joined by black veterans' groups, will lay wreaths at the Tomb of the Unknowns in Arlington National Cemetery, overlooking the nation's capital. </P>
+<P> ``We want to insure that these brave Americans are remembered for their sacrifice to the nation,'' Army Lt. Col. Afred Lott said in a statement. </P>
+</TEXT>
+</DOC>

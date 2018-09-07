@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0172.940720</DOCID>
+<TDTID>TDT000791</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/20/94 13:43</DATE>
+<TITLE> GERMAN TOURISTS ATTACKED AT SEA</TITLE>
+<HEADLINE> GERMAN TOURISTS ATTACKED AT SEA</HEADLINE>
+<SUBJECT> BC-DOMINICAN-PIRATES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SANTO DOMINGO (Reuter) </DATELINE>
+<P>  Dominican Republic police searched Wednesday for pirates who hijacked a boatload of German tourists at sea, taking their money before fleeing with the boat. </P>
+<P> A police spokesman said six tourists had just left Boca Chica, a popular beach about 18 miles east of Santo Domingo, Tuesday when they were set upon by a group of men, who held them up at gunpoint and demanded their money before ordering their boat to shore. </P>
+<P> The tourists were on an excursion to Los Haitises National Park in the northeastern part of the Dominican Republic. </P>
+<P> Once ashore, police said the gunmen abandoned the group, taking their boat. No injuries were reported and police did not disclose the amount of money taken. </P>
+</TEXT>
+</DOC>

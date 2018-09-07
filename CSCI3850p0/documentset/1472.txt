@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU009-0216.940919</DOCID>
+<TDTID>TDT003644</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/19/94 06:30</DATE>
+<TITLE> Britain's pheasants refuse to rise to occasion</TITLE>
+<HEADLINE> Britain's pheasants refuse to rise to occasion</HEADLINE>
+<SUBJECT> BC-BRITAIN-PHEASANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain's upper-class shooters are upset ahead of the pheasant season, accusing the birds of unsporting behavior, The Times said Monday. </P>
+<P> ``They are no longer flying high enough or fast enough to make a decent shot and the (older) ones are too lazy or fat to take off,'' said an indignant editorial titled ``Unsporting fowls -- game birds must be bred to fly up ... and play the game.'' </P>
+<P> Pheasant shooting season starts next month. </P>
+<P> One theory for the birds' laziness is that intensive pheasant rearing for privately-run ``shoots'' reversed the principle of natural selection. High-flying birds were peppered with pellets while the more sluggish ones survived on the ground producing lazier targets with each generation. </P>
+<P> ``A perverse Darwinianism of the survival of the unfittest seems to be working its natural deselection,'' The Times said. </P>
+<P> Wild pheasants still behave with traditional panic, rising high and fast but most modern pheasants reared in pens and released in the wild think of humans as friends and feeders. At some shoots, wilder, fitter birds are being imported from France. </P>
+<P> By February, when the season closes, 12 million will have been killed. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU010-0393.940921</DOCID>
+<TDTID>TDT003796</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/21/94 17:03</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-HAITI-USA-CLINTON -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Clinton, in remarks on Haiti during an arts event in the White House East Room, said 1,000 U.S. military police had landed in Haiti to monitor Haitian police activities ``and by their own presence help to deter violence.'' </P>
+<P> He said that ``we strongly condemn yesterday's police violence there'' and said that Lieutenant General Hugh Shelton, commander of U.S. forces in Haiti, had met Haitian military chief Raoul Cedras and ``made clear our policy to them.'' </P>
+<P> ``Our armed forces cannot and will not become Haiti's police force. But they can work to see that the Haitian military and police operate in a responsible and professional manner,'' he said. </P>
+</TEXT>
+</DOC>

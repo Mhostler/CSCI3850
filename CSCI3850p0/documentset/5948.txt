@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU014-0057.950423</DOCID>
+<TDTID>TDT012903</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/23/95 02:02</DATE>
+<TITLE> More than 4,000 dead in Rwanda camp, U.N.</TITLE>
+<HEADLINE> More than 4,000 dead in Rwanda camp, U.N.</HEADLINE>
+<SUBJECT> BC-RWANDA-MASSACRE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KIGALI (Reuter) </DATELINE>
+<P>  U.N. troops found more than 4,000 people dead and 650 wounded in Kibeho camp in southwest Rwanda Sunday in a search of only half the site, U.N. officials said. </P>
+</TEXT>
+</DOC>

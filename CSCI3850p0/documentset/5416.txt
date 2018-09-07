@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU002-0090.950403</DOCID>
+<TDTID>TDT012060</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/03/95 12:40</DATE>
+<TITLE> Catholic bishops, human rights group criticize Kenya</TITLE>
+<HEADLINE> Catholic bishops, human rights group criticize Kenya</HEADLINE>
+<SUBJECT> BC-KENYA </SUBJECT>
+<AUTHOR>     By Manoah Esipisu </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NAIROBI, Kenya (Reuter) </DATELINE>
+<P>  Roman Catholic bishops have launched a stinging attack on corruption and lawlessness in Kenya, saying political leaders faced a crisis of credibility. </P>
+<P> The government responded by saying both the Roman Catholic and Anglican churches backed the political opposition. </P>
+<P> In London, the human rights group Article 19, whose name is taken from the United Nations Universal Declaration of Human Rights' 19th article on freedom of information, also criticized Kenya. </P>
+<P> It accused officials of trumping up charges against critics and forcing them to face harassment, detention and even torture. Article 19 said the world was doing little to put pressure on Kenyan authorities to observe their own laws. </P>
+<P> The bishops, in their pastoral letter issued Sunday, said: ``We have been witnessing a terrible breakdown in morality from top to bottom, expressed in ever-increasing lawlessness and violence, such as the many armed robberies, mob lynchings, clashes, rumors to overthrow the government. </P>
+<P> The normally conservative prelates spoke of police over-reaction, brutal repression, arbitrary arrests and ``ruthless efficiency of the police in breaking up any peaceful opposition (rallies), in contrast with their inability to fight crime and protect ordinary citizens.'' </P>
+<P> ``Too many of our people are living in fear; it would seem there is no law, no justice, no protection, except for the powerful,'' said the spiritual guardians of Kenya's Roman Catholics, around 25 percent of the 26 million population. </P>
+<P> ``There is a real crisis of credibility on the political leadership and this surely the leadership should be aware of,'' they said. </P>
+<P> Information Minister Johnstone Makau said in a statement, ``The accusation that the current political leadership faces a credibility crisis is misplaced and done in bad faith. The government led by President Daniel arap Moi is in firm control.'' </P>
+<P> Makau admitted there was rising corruption and moral decay but said the government was trying to solve those problems. He urged the bishops to help the government ``in imparting moral values to Kenyans.'' </P>
+<P> Article 19 said, ``Without urgent legal and constitutional reform, multi-party politics has little practical impact in Kenya. Opposition politicians are harassed and prevented from holding meetings with their constituents.'' </P>
+</TEXT>
+</DOC>

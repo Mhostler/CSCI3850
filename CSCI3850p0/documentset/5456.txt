@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0073.950404</DOCID>
+<TDTID>TDT012114</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 18:01</DATE>
+<TITLE> Professor donates $5 million to Harvard Law School</TITLE>
+<HEADLINE> Professor donates $5 million to Harvard Law School</HEADLINE>
+<SUBJECT> BC-HARVARD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  A long-time professor at Harvard Law School Tuesday donated funds that will ultimately exceed $5 million. </P>
+<P> The gift from Philip Areeda, who began teaching at the law school in 1961, is the second-largest the school has ever received, law school officials at the university said. </P>
+<P> ``I am grateful to Harvard, which has essentially been my home since I first arrived as a student with a scholarship in 1947,'' Areeda said in a statement. ``Knowing that Harvard suppports great scholarship, I hope that my gift will help this valuable work to continue.'' </P>
+<P> The Areeda gift is the latest donation in the school's unprecedented five-year campaign to raise $150 million to expand and diversify the faculty, modernize the library and increase student financial aid. </P>
+</TEXT>
+</DOC>

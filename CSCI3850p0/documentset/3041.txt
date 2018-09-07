@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU003-0261.941207</DOCID>
+<TDTID>TDT007545</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/07/94 04:55</DATE>
+<TITLE> At least two dead, dozens hurt in Seoul gas blast</TITLE>
+<HEADLINE> At least two dead, dozens hurt in Seoul gas blast</HEADLINE>
+<SUBJECT> BC-KOREA-BLAST (PICTURE) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, South Korea (Reuter) </DATELINE>
+<P>  At least two people were killed and 46 injured Wednesday after an underground gas explosion turned a teeming business and residential district of central Seoul into an inferno, police and witnesses said. </P>
+<P> Witnesses said a chain of blasts rocked the Ahyon area after gas leaked from a storage tank near a subway construction site and caught fire. The blaze ripped through the area, destroying dozens of homes and commercial buildings. </P>
+<P> Panicked residents fled as flames reached up to 100 feet into the air, the heat making it difficult for fire fighters to approach. </P>
+<P> ``We believe we have accounted for all the injured. We don't know now exactly how many might have died or may have been hurt,'' a police officer said at the scene. </P>
+<P> He said the exact cause of the explosion was still unknown. </P>
+<P> State-run Korea Broadcasting System (KBS) radio said one man and one woman had been confirmed dead, with four people still missing. </P>
+<P> Witnesses said the fierce wall of flames burned everything in its path. </P>
+<P> Hundreds of local residents were evacuated as clouds of black smoke shrouded the district. </P>
+<P> The blast also shattered hundreds of windows in surrounding high-rise buildings. </P>
+</TEXT>
+</DOC>

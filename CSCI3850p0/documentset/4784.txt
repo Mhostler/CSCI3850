@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0239.950308</DOCID>
+<TDTID>TDT011080</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/08/95 07:51</DATE>
+<TITLE> Former general tied to Belgian scandal found dead</TITLE>
+<HEADLINE> Former general tied to Belgian scandal found dead</HEADLINE>
+<SUBJECT> BC-BELGIUM-SCANDAL-GENERAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRUSSELS, Belgium (Reuter) </DATELINE>
+<P>  A former general in the Belgian air force, who has been linked to a defense contract corruption scandal, has been found dead in a hotel room in Brussels, Belgian radio reported Wednesday. </P>
+<P> Jacques Lefevre was a general in the air force in the late 1980's when the Italian defense firm Agusta allegedly gave kickbacks to socialist politicians to secure the sale of 46 helicopters to the army. </P>
+<P> The radio said hotel staff found the body of the retired general Wednesday after breakfast. The general, who lived near the hotel, had booked in for one night. </P>
+<P> Six small bottles of whisky were found next to his body. There were no signs of violence or firearms, the radio added. </P>
+<P> Tuesday, a Brussels lawyer arrested over the so-called Agusta affair, told investigators that the air force general was linked to the affair. </P>
+</TEXT>
+</DOC>

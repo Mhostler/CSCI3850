@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0040.940922</DOCID>
+<TDTID>TDT003812</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/22/94 04:27</DATE>
+<TITLE> Germans evacuated as wartime bomb found</TITLE>
+<HEADLINE> Germans evacuated as wartime bomb found</HEADLINE>
+<SUBJECT> BC-GERMANY-BOMB </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WILHELMSHAVEN, Germany (Reuter) </DATELINE>
+<P>  About 10,000 people in the northern city of Wilhelmshaven were evacuated Wednesday night after an unexploded World War Two bomb was found buried in a building site, police said Thursday. </P>
+<P> The owner of the land ordered a search of the site because he suspected explosives could have been left over from Allied bombing raids in the 1940s. </P>
+<P> Experts defused the bomb which was buried five yards under the earth. </P>
+<P> Three people were killed and 17 were injured when a bomb exploded on a building site in Berlin last week. </P>
+</TEXT>
+</DOC>

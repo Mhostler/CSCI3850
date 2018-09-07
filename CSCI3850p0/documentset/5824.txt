@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0422.950418</DOCID>
+<TDTID>TDT012673</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/18/95 12:24</DATE>
+<TITLE> Dallas inmate sues over secondhand smoke</TITLE>
+<HEADLINE> Dallas inmate sues over secondhand smoke</HEADLINE>
+<SUBJECT> BC-SMOKING-JAIL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DALLAS, (Reuter) </DATELINE>
+<P>  A controversial smoking ban by the Texas state penal system has at least one supporter. </P>
+<P> Inmate Judy Jenetta Clark filed suit against Dallas County Sheriff Jim Bowles Monday, alleging that secondhand cigarette smoke violates her civil rights, the Dallas Morning News reported Tuesday. She demands she be transferred to the state prison system, where tobacco has been banned, or that smoking be outlawed in Dallas County jails. </P>
+<P> Clark, who was sentenced Feb. 2 to 25 years in prison for delivery of a controlled substance, is awaiting transfer to state prison, the newspaper said. She argues that the smoking policy in the county jail violates her constitutional protection against cruel and unusual punishment. </P>
+<P> The sheriff's department had no comment on the suit. But a spokesman told the newspaper, ``We see smoking as a means of stability on the jail floors. Jails that have gone to no smoking have experienced a high degree of smuggling.'' </P>
+</TEXT>
+</DOC>

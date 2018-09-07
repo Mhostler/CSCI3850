@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0400.950416</DOCID>
+<TDTID>TDT012616</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/16/95 10:48</DATE>
+<TITLE> French defense minister leaves Bosnia for home</TITLE>
+<HEADLINE> French defense minister leaves Bosnia for home</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-LEOTARD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  French Defense Minister Francois Leotard left Sarajevo Sunday after attending a memorial service for a French peacekeeper shot to death by a sniper a day earlier, witnesses said. </P>
+<P> Leotard arrived in the Bosnian capital Saturday after the second French soldier was killed in two days. He said France would discuss the option of withdrawing from the U.NN mission in Bosnia in light of the men's deaths. </P>
+<P> Eric Hardoin, 30, was shot Saturday while helping to erect a sniper barrier on Sarajevo's main street. </P>
+<P> He died a day after a sniper's bullet killed German-born French Foreign Legionnaire Ralph Gunther. </P>
+</TEXT>
+</DOC>

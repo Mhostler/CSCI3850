@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0285.950303</DOCID>
+<TDTID>TDT010969</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/03/95 15:00</DATE>
+<TITLE> Haitian politician found shot to death</TITLE>
+<HEADLINE> Haitian politician found shot to death</HEADLINE>
+<SUBJECT> BC-HAITI-KILLING 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>  (Clarifies lawmaker killed Thursday, identifies source)</NOTES>
+<DATELINE>PORT-AU-PRINCE, Haiti (Reuter) </DATELINE>
+<P>  A Haitian lawmaker was found Friday shot to death inside his car on a street in Port-au-Prince, city hall spokesman Daniel Vallon said. </P>
+<P> Vallon told Reuters Eric Lamothe, a member of the Chamber of Deputies, had been shot twice in the head Thursday night. </P>
+<P> Lamothe, 50, was a member of the National Front for Change and Democracy, the political movement that brought President Jean-Bertrand Aristide to power in 1990 and served one term in Parliament. </P>
+<P> Lamothe, owner of a radio station in the northern town of Fort Liberte, planned to run for the senate in the June 4 election. </P>
+<P> His body was found inside his car, parked on a street near training grounds used by the new Haitian police force. </P>
+</TEXT>
+</DOC>

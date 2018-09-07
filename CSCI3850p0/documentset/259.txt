@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0339.940716</DOCID>
+<TDTID>TDT000642</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/16/94 17:03</DATE>
+<TITLE> COMET FRAGMENT HITS JUPITER BUT NO FIREWORKS</TITLE>
+<HEADLINE> COMET FRAGMENT HITS JUPITER BUT NO FIREWORKS</HEADLINE>
+<SUBJECT> BC-SPACE-COMET-CRASH 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SUTHERLAND, South Africa (Reuter) </DATELINE>
+<P>  The first of an expected 21 comet fragments hit planet Jupiter's atmosphere Saturday but caused no fireworks, astronomers said in South Africa. </P>
+<P> They said there had been no visible sign of impact but they calculated the fragment of comet Shoemaker-Levy 9 had hit Jupiter's atmosphere by 4:15 p.m. EDT at the latest. It had been expected to hit at 3:54 p.m. EDT. </P>
+<P> ``There was no flash,'' said astronomer Bob Stobie. ``The whole thing has been absorbed by Jupiter. Fragment A has disappeared.'' </P>
+<P> His colleague Dave Laney said: ``You can't rule out something small, but there was nothing big. If anything happened, it was too small for us to see.'' </P>
+</TEXT>
+</DOC>

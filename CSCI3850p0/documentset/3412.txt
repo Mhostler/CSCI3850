@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU011-0010.941224</DOCID>
+<TDTID>TDT008409</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/24/94 02:18</DATE>
+<TITLE> China sets up panel to probe drug scandal</TITLE>
+<HEADLINE> China sets up panel to probe drug scandal</HEADLINE>
+<SUBJECT> BC-SPORT-CHINA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  China said Saturday it had established a panel to investigate a scandal involving 11 top athletes, suspended after they were found to have used a banned performance-enhancing hormone. </P>
+<P> The Chinese Olympic Committee (COC) has set up a three-member panel to ``make a thorough investigation to get to the bottom of the case,'' the Xinhua news agency said. It did not elaborate. </P>
+<P> China Tuesday announced the suspension of the 11, including seven from its prestigious swimming team, from local and international competition for up to four years after they tested positive at October's Asian Games in Hiroshima. </P>
+<P> There has been no word on whether their coaches have been punished. </P>
+<P> China has said the suspensions demonstrated its vigilance against doping in sport. </P>
+<P> China's Doping Control Center tested 1,608 athletes in 1993, 24 of whom included world stars who tested positive and have all been punished, Xinhua quoted center director Yang Tianle saying. </P>
+<P> ``The facts show that the COC has been very serious toward the anti-doping problem,'' the agency said. </P>
+<P> Earlier this month, the Olympic Council of Asia stripped the 11 of their Asian Games medals after their urine samples showed traces of DHT, or dehydrotestosterone, which is banned by the International Olympic Committee. </P>
+<P> The Chinese Swimming Association punished women Lu Bin and Zhou Guanbin and men Xiong Guomin, Hu Bin, Zhang Bin and Fu Yong with two-year suspensions, the same as it meted out last month to a seventh swimmer, Yang Aihua. </P>
+<P> The Chinese Track and Field Association banned women's hurdler Han Qing for four years. </P>
+<P> Men's canoeists Zhang Lei and Qiu Suoren were banned for two years and women's cyclist Wang Yan was banished for six months by their respective federations. </P>
+</TEXT>
+</DOC>

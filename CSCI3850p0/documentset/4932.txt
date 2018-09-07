@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU007-0369.950314</DOCID>
+<TDTID>TDT011298</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/14/95 23:35</DATE>
+<TITLE> Study finds drop in gun dealers in all 50 states</TITLE>
+<HEADLINE> Study finds drop in gun dealers in all 50 states</HEADLINE>
+<SUBJECT> BC-GUNS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Tough new federal standards have already led to a sharp drop in the number of gun dealers in all 50 states, with 4,600 fewer dealers doing business in California alone, a new study found Tuesday. </P>
+<P> An analysis by the non-profit Violence Policy Center of federal Bureau of Alcohol, Tobacco and Firearms data ascribed the declines to new licensing and renewal criteria in the 1993 Brady Law and the 1994 federal crime bill. </P>
+<P> The report found the total number of Type 1 Federal Firearms License holders dropped to 193,924 in January 1995 from 245,628 in January 1994, an overall decline of 51,704. </P>
+<P> It said every state reported a decrease in the number of these licenses. </P>
+<P> Behind California, the top 10 states reporting the largest absolute drops in the number of gun dealers were Texas, Michigan, Illinois, Florida, Pennsylvania, New York, Ohio, Virginia and North Carolina. </P>
+<P> ``These numbers stand as proof that the new federal licensing criteria are having a dramatic effect in every state,'' Violence Policy Center Executive Director Josh Sugarmann said. </P>
+<P> Sugarmann said the new federal criteria and state and local initiatives had helped reduce the number of ``kitchen-table'' gun dealers -- dealers who operate out of their homes, often in violation of state and local law, while limiting licensing to legitimate gun dealers. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU004-0284.940809</DOCID>
+<TDTID>TDT001664</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/09/94 06:03</DATE>
+<TITLE> ARAFAT TO MEET ISRAEL'S RABIN, PLO OFFICIAL SAYS</TITLE>
+<HEADLINE> ARAFAT TO MEET ISRAEL'S RABIN, PLO OFFICIAL SAYS</HEADLINE>
+<SUBJECT> BC-MIDEAST-ARAFAT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GAZA (Reuter) </DATELINE>
+<P>  PLO Chairman Yasser Arafat will meet Israeli Prime Minister Yitzhak Rabin Wednesday and push for expanding Palestinian self-rule to the rest of the West Bank, a top Palestinian official said Tuesday. </P>
+<P> Ahmed Korei, a member of the Palestinian Authority in charge of the economy in self-ruled Gaza and Jericho, said both sides asked for the meeting which Rabin had said Monday was likely to take place at the Israeli border with Gaza. </P>
+<P> ``There are many topics on the agenda of the meeting, foremost of which is the completion of the interim agreement to cover all of the West Bank and Gaza Strip excluding the topics that are left for final-status negotiations,'' Korei told Reuters. </P>
+<P> It will be the first summit at home for Rabin and Arafat, partners to an interim peace deal sealed at the White House in September and their first since the Israeli handover in May of Gaza and of Jericho in the West Bank. </P>
+</TEXT>
+</DOC>

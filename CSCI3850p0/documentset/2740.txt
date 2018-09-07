@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU009-0437.941121</DOCID>
+<TDTID>TDT006794</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/21/94 00:11</DATE>
+<TITLE> NATO to bomb Serb-held airfield - NYTimes</TITLE>
+<HEADLINE> NATO to bomb Serb-held airfield - NYTimes</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-NATO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  NATO has decided to bomb an airfield in a Serbian-held part of Croatia in response to Serbian nationalist air attacks, the New York Times reported in Monday editions. </P>
+<P> Quoting Western officials, the newspaper said NATO warplanes were ready to bomb the Udbina airfield Sunday, but that the attack was postponed because of bad weather. </P>
+<P> Nationalist Serbs have used the airfield as a base for air strikes against the Muslim town of Bihac and opther parts of northwestern Bosnia-Herzegovina, in violation of the United Nations no-flight zone over Bosnia, the report said. </P>
+<P> The NATO attack planned for Sunday had been approved by the political authorities of the alliance, Western officials told the newspaper. </P>
+<P> The officials said there were no problems obtaining approval from Yasushi Akashi, the top U.N. official in the former Yugoslavia, according to the report. </P>
+<P> The newspaper also reported that Croatian President Franjo Tudjman has given the North Atlantic Treaty Organization the authority to launch combat missions over his country's territory for the next week. </P>
+<P> While the newspaper said NATO and U.N. spokesmen declined to comment on the alliance's military plans for specific attacks, it quoted U.S. officials as saying they expected the strike against the Udbina airfield and nearly Serbian air defenses to take place as soon as possible. </P>
+<P> NATO plans for the attack follow heavy fighting in northwest Bosnia in which Serbian nationalist forces have repelled previous gains by Muslim forces. </P>
+</TEXT>
+</DOC>

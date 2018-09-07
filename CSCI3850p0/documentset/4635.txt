@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU014-0184.950228</DOCID>
+<TDTID>TDT010867</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/28/95 19:19</DATE>
+<TITLE> Congressman charges Rubin in conflict on Mexico</TITLE>
+<HEADLINE> Congressman charges Rubin in conflict on Mexico</HEADLINE>
+<SUBJECT> BC-MEXICO-RUBIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The chairman of a House banking subcommittee charged Tuesday that Treasury Secretary Robert Rubin's participation in arranging the Mexican economic bailout package posed a conflict of interest. </P>
+<P> Spencer Bachus, R-Ala., chairman of the subcommittee on investigations, said Rubin's past role at the New York brokerage Goldman Sachs and Co. created the conflict and was a cause for suspicion. </P>
+<P> Rubin was co-chairman of Goldman Sachs from 1989 until he joined the Clinton administration in 1992. </P>
+<P> ``It has come to light that one of the Wall Street financial interests with the greatest stake in the Mexican bailout is Goldman Sachs,'' Bachus said in a statement released at a news conference. </P>
+<P> He said Goldman Sachs underwrote $5.17 billion in Mexican securities from 1992 through 1994. </P>
+<P> Rubin should have excused himself from all decisions on the $20 billion Mexican bailout, said Bachus, adding he would hold hearings on the issue. </P>
+<P> But two senior Treasury officials said in a statement that Bachus was wrong to ``distort the facts and make groundless accusations'' against Rubin. </P>
+<P> Deputy Treasury Secretary Frank Newman and General Counsel Edward Knight said that, while it was fair to attack the administration's Mexico aid package on its merits, it was wrong to make accusations against Rubin personally. </P>
+<P> Knight said Rubin had no financial interest in the success or failure of Goldman Sachs. ``There is no conflict of interest, there is no appearance problem.'' </P>
+<P> He said Rubin had complied with the Office of Government Ethics' rules for senior officials and had placed all his financial assets in blind trusts. </P>
+<P> ``People interested in leaving the private sector for public service will be discouraged if we accept unfounded character attacks as a susbtitute for policy debate,'' Newman said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0197.940821</DOCID>
+<TDTID>TDT002287</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/21/94 18:35</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-MOROCCO-CRASH -2 RABAT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``The plane disintegrated completely. We are afraid there were no survivors,'' the sources said, adding that the plane crashed at 2:53 p.m. EDT shortly after takeoff from Agadir airport. </P>
+<P> An airport source said Royal Air Maroc domestic flight ATR 630 bound from Agadir to Casablanca ``was at 16,000 feet when it suddenly lost altitude and crashed at about 1900 GMT (3 p.m. </P>
+<P> He said rescue teams had been rushed to the scene about 22 miles north of Agadir near the locality of Tizounine. </P>
+<P> Officials at Agadir airport confirmed the plane had crashed but declined to give any details. </P>
+</TEXT>
+</DOC>

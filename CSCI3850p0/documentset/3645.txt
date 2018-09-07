@@ -1,0 +1,32 @@
+<DOC>
+<DOCID>REU003-0311.950109</DOCID>
+<TDTID>TDT009039</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/09/95 03:06</DATE>
+<TITLE> Dunlop report falls short of labor expectations</TITLE>
+<HEADLINE> Dunlop report falls short of labor expectations</HEADLINE>
+<SUBJECT> BC-LABOR (EMBARGOED) </SUBJECT>
+<AUTHOR>     By Eddie Evans </AUTHOR>
+<TEXT>
+<NOTES>Release at 10 a.m. EST</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Clinton administration's special commission on labor policy issued a report Monday recommending new laws making it easier for workers to organize unions. </P>
+<P> But the report fell far short of the high expectations that union leaders had when the commission, headed by former Labor Secretary John Dunlop, was set up almost two years ago. </P>
+<P> The commission recommended that the National Labor Relations Board (NLRB) should speed up the time it takes for employees to form a union. </P>
+<P> It also called for statutes requiring the NLRB to obtain fast injunctions to stop discrimination by employers against union members. </P>
+<P> But union leaders said they were disappointed, saying the report failed completely to address widening earnings disparities and stagnant wages. </P>
+<P> The concerns echoed those of Labor Secretary Robert Reich, who referred Thursday to an ``anxious class'' of American workers whose economic fortunes were falling behind. </P>
+<P> While the commission acknowledged these problems in its report, it said their solution lay well beyond its mandate. </P>
+<P> ``While the comission makes no direct recommendations focused on this serious problem, a number of our recommendations should contribute to reducing this growing disparity,'' an executive summary of the report said. </P>
+<P> ``This is a missed opportunity,'' a labor leader, commenting on an advance copy of the report, told Reuters. </P>
+<P> The hopes of organized labor had risen when the Dunlop Commission issued its interim ``fact-finding'' report last year, identifying wage gaps as a major cause for concern. </P>
+<P> ``The (final) report just doesn't address those concerns,'' the union official said. </P>
+<P> The official also conceded that the Republican victory in November 8 Congressional elections meant there wasn't much chance of legislation in the next Congress to enact the union-friendly parts of the report. </P>
+<P> Other recommendations contained in the report included a call for legislation to make easier the forming of company-sanctioned worker involvement programs. </P>
+<P> But the report said the programs, some of which have been found by regulators to be illegal ``company unions'', should not be allowed to replace independent worker unions. </P>
+<P> The report also calls for a clear definition of the term ''employee'', to arrest the current business trend of hiring independent contractors in order to avoid benefit payments. </P>
+<P> Dunlop was labor secretary under former president Gerald Ford. He was joined on the commission by two other former labor secretaries, W.J. Usery and Ray Marshall, and former Commerce Secretary Juanita Kreps. </P>
+<P> Also on the panel were Xerox Corp Chairman Paul Allaire, Standard Technology Inc Chief Executive Kathryn Turner, and former United Auto Workers President Douglas Fraser. </P>
+<P> It also included three university professors -- Richard Freeman of Harvard, Tom Kochan of Massachusetts Institute of Technology and Paula Voos of the University of Wisconsin. </P>
+</TEXT>
+</DOC>

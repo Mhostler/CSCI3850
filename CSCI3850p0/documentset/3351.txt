@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU009-0359.941220</DOCID>
+<TDTID>TDT008253</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/20/94 22:45</DATE>
+<TITLE> Gregory Peck leaves hospital after tests</TITLE>
+<HEADLINE> Gregory Peck leaves hospital after tests</HEADLINE>
+<SUBJECT> BC-PECK 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds more information, Peck quote paras 3-4)</NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Actor Gregory Peck left Cedars-Sinai Medical Center Tuesday evening after undergoing a series of tests to probe the cause of a stomach pain he had complained of the previous night, a hospital spokesman said. </P>
+<P> Spokesman Ron Wise said Peck, 78, who won an Academy Award in 1963 for ``To Kill a Mockingbird'' and who has starred in dozens of other Hollywood films over the last 50 years, was taken to the hospital from a restaurant Monday. </P>
+<P> According to Daily Variety gossip columnist Army Archerd, Peck suffered from a pinched vasovagal nerve which caused him to keel over during dinner with his wife Veronique and physician Dr. Arnold Klein. </P>
+<P> ``I had so many tests -- I didn't know how healthy I really was,'' Archerd quoted Peck as saying. </P>
+<P> Peck has made more than 50 films including such classics as ``Twelve O'Clock High,'' ``Spellbound,'' ``The Gunfighter,'' ''Roman Holiday,'' and ``The Guns of Navarone.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0007.940921</DOCID>
+<TDTID>TDT003809</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/21/94 22:13</DATE>
+<TITLE> China delivers jet trainers to Pakistan</TITLE>
+<HEADLINE> China delivers jet trainers to Pakistan</HEADLINE>
+<SUBJECT> BC-CHINA-PAKISTAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  China, continuing its close military links with Pakistan, has delivered six jet trainer aircraft to the Pakistani Air Force, the official China Daily said Thursday. </P>
+<P> The handover of the jets worth more than $20 million marked the export debut of the K-8 trainer, designed, made and tested at China's Nanchang Aircraft Manufacturing Co. </P>
+<P> China has built 21 of the K-8s so far, and Pakistan is interested in buying more of the planes, which were developed under a 1986 pact between the two countries, the newspaper said. </P>
+<P> Pakistan has openly bought Chinese arms since the 1960s, but both sides have firmly denied U.S. allegations that Beijing may have sold M-11 missiles or their components to Islamabad in violation of the Missile Technology Control Regime. </P>
+</TEXT>
+</DOC>

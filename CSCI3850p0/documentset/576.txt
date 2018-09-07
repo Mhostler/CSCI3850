@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0126.940803</DOCID>
+<TDTID>TDT001407</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 14:01</DATE>
+<TITLE> MORE BODIES FOUND DUMPED BY ROAD IN HAITI CAPITAL</TITLE>
+<HEADLINE> MORE BODIES FOUND DUMPED BY ROAD IN HAITI CAPITAL</HEADLINE>
+<SUBJECT> BC-HAITI-BODIES 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: adds details)</NOTES>
+<DATELINE>PORT-AU-PRINCE (Reuter) </DATELINE>
+<P>  Two more bodies, the latest victims in the long political war waged by the Haitian military against pro-democracy activists, turned up on the streets of the capital Wednesday. </P>
+<P> Reuter witnesses said the victims, both young men who appeared to be in their twenties, had been shot in the back of the head and left overnight in an area that gunmen who are linked to the military had used before to dump bodies. </P>
+<P> Hours after the fly-covered bodies were first discovered on a main road in an industrial section of town they were still lying in the dusty street, dried blood on the back of their heads and nylon straps wrapped around their necks. </P>
+<P> Haitians stopping to look at the bodies scattered when a group of men drove up in a four-door pickup truck of the type usually used by the paramilitary. </P>
+<P> More than 400 people have been killed in Haiti since the start of the year in what diplomats have described as a campaign by authorities to wipe out support for Jean-Bertrand Aristide, the Caribbean nation's first democratically elected president, who was ousted three years ago. </P>
+</TEXT>
+</DOC>

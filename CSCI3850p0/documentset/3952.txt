@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU011-0207.950125</DOCID>
+<TDTID>TDT009741</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/25/95 09:31</DATE>
+<TITLE> ``Missile'' landed in Norway's Spitzbergen -Interfax</TITLE>
+<HEADLINE> ``Missile'' landed in Norway's Spitzbergen -Interfax</HEADLINE>
+<SUBJECT> BC-RUSSIA-MISSILE-NORWAY URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Interfax news agency, quoting a high-ranking Russian air defense official, said a missile had been launched from Norway Wednesday, but it had not reached Russia and had fallen to the ground on Spitzbergen in Norway. </P>
+</TEXT>
+</DOC>

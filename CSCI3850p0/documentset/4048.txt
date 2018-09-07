@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU013-0420.950130</DOCID>
+<TDTID>TDT009917</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/30/95 12:51</DATE>
+<TITLE> Paraguay offers to mediate in Peru, Ecuador conflict</TITLE>
+<HEADLINE> Paraguay offers to mediate in Peru, Ecuador conflict</HEADLINE>
+<SUBJECT> BC-PERU-ECUADOR-PARAGUAY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ASUNCION, Paraguay (Reuter) </DATELINE>
+<P>  Paraguay has offered to mediate in the border jungle conflict between Peru and Ecuador, Foreign Minister Luis Ramirez Boettner said Monday. </P>
+<P> ``President Juan Carlos Wasmosy expressed to presidents Sixto Duran Ballen (of Ecuador) and Alberto Fujimori (of Peru) his concern over the border conflict and offered them his mediation to achieve a peaceful understanding between both countries,'' Ramirez Boettner told journalists. </P>
+<P> Tension over a vast disputed region of the Amazon jungle flared up into armed clashes between Peruvian and Ecuadorian forces last Thursday. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU001-0045.941001</DOCID>
+<TDTID>TDT004301</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/01/94 08:36</DATE>
+<TITLE> Egyptian police kill two militants</TITLE>
+<HEADLINE> Egyptian police kill two militants</HEADLINE>
+<SUBJECT> BC-EGYPT-MILITANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO (Reuter) </DATELINE>
+<P>  Police killed two suspected Muslim militants near Cairo and in southern Egypt and arrested 3,000 ex-convicts and suspected criminals in several raids over the past five days, security sources said Saturday. </P>
+<P> They said the police shot and killed a suspected militant in the southern town of Qena Friday night after a brief exchange of fire. Police identified the suspect as Eid Mahmoud Khalil, whom they said had carried out attacks against tourists in southern Egypt. </P>
+<P> Police said another suspect named Mansour Alfi was shot and killed Saturday in a shootout in the area of Giza near Cairo. A rifle was found with him and police said he was also charged in several court cases of involvement in attacks on tourists. </P>
+<P> Police suspect the men belong to the militant group Gama'a al-Islamiya which has been fighting to overthrow the Egyptian government and set up a strict Islamic state. </P>
+<P> About 450 people, mainly militants and policemen, have been killed in political violence in Egypt since 1992. </P>
+<P> Security sources in Cairo also said that police raids in Cairo over the last five days led to the arrest of more than 3,000 people, most of whom were later released. </P>
+<P> The director of Cairo Security, Maj-Gen Mansur Isawi, said in a statement the campaigns in slum areas and hotels in the center of Cairo resulted in the arrests of ``criminal elements.'' </P>
+<P> ``We plan to continue these campaigns in order to improve the climate of security and to stop any attempt to undermine public order,'' Isawi said. </P>
+<P> He said 400 people with serious criminal records had been picked up during the sweeps, Another 800 suspected criminals and more than 1,800 ex-convicts were also arrested. </P>
+<P> Convicts included people sentenced to prison sentences of between one week to three years for various offenses ranging from theft to evading payment of traffic fines, security sources said. </P>
+<P> Hundreds of them paid the fines and were released, the police said. </P>
+</TEXT>
+</DOC>

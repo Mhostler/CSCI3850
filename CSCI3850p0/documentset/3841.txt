@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU008-0340.950119</DOCID>
+<TDTID>TDT009505</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/19/95 09:39</DATE>
+<TITLE> November trade gap widens on record imports</TITLE>
+<HEADLINE> November trade gap widens on record imports</HEADLINE>
+<SUBJECT> BC-ECONOMY-TRADE 1STLD </SUBJECT>
+<AUTHOR>     By Glenn Somerville </AUTHOR>
+<TEXT>
+<NOTES>(Adds details, background)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The trade gap widened unexpectedly in November, swollen by a record volume of imports, the Commerce Department said Thursday, as the United States headed for its worst year in history on trade in goods. </P>
+<P> The total deficit on both goods and services climbed 4.3 percent in November to $10.53 billion from $10.10 billion in October -- contrary to Wall Street economists' forecasts that it would shrink to $9.59 billion. </P>
+<P> The United States typically runs a surplus on its trade with other countries in services like travel and tourism, but that only partly offsets persistent big deficits in trade in goods like cars and televisions. </P>
+<P> In November, the goods deficit grew to $15.56 billion from $15.05 billion in October. The surplus on services was up to $5.03 billion from $4.95 billion in October. </P>
+<P> The trade news on Japan was mixed. </P>
+<P> Although the politically sensitive deficit shrank in November by 7.0 percent to $6.2 billion, through the first 11 months of 1994 it hit $60.1 billion -- exceeding the record $59.4-billion deficit set for all of 1993 and certain to aggravate tensions between the two countries. </P>
+<P> Automotive trade accounts for about two-thirds of the total U.S. deficit on trade with Japan and is a continual source of friction that has led to a series of blowups. Earlier this month, U.S. Ambassador to Japan Walter Mondale warned that Japan faces ``serious consequences'' if its automakers do not agree by the end of March to increase their purchases of American-made parts. </P>
+<P> The White House charges that Japan closes its markets to American-made goods while it runs up huge surpluses by invading U.S. markets for manufactured goods. </P>
+<P> The thriving U.S. economy is drawing in rising numbers of imported consumer goods, while Europe and Japan are growing more slowly. Total imports were up 2.5 percent to $71.7 billion in November and set a record for the seventh month in a row. </P>
+<P> Exports also set a record, rising a smaller 2.2 percent to $61.2 billion. </P>
+<P> Foreign sales of civilian aircraft rose in November by $540 million to $1.58 billion. </P>
+<P> But on the import side, the cost of imported petroleum products rose to $4.36 billion in November from $4.03 billion in October. The price per barrel of imported crude oil was up to $15.31 from $14.83 and the volume of imports also increased. </P>
+<P> The deficit with China improved in November, falling 17 percent to $2.89 billion from $3.48 billion in October. </P>
+<P> But the shortfall on trade with Western Europe grew to $1.96 billion from $1.50 billion in October. </P>
+<P> The deficit with Canada, the United States' single largest trading partner, increased to $2.02 billion from $1.69 billion in October. </P>
+</TEXT>
+</DOC>

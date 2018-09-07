@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU015-0347.950329</DOCID>
+<TDTID>TDT011860</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/29/95 05:54</DATE>
+<TITLE> Egypt hangs two for attempted murder of novelist</TITLE>
+<HEADLINE> Egypt hangs two for attempted murder of novelist</HEADLINE>
+<SUBJECT> BC-EGYPT-HANGING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAIRO, March 29 (Reuter) </DATELINE>
+<P>  Egypt hanged two Moslem militants on Wednesday for the attempted murder of Nobel prize-winning author Naguib Mafouz, security sources said. </P>
+<P> They said Mohamed Nagi Mohamed Mustafa, who stabbed the 83-year-old author in the neck, and accomplice Mohamed al-Mahlawi were executed in a Cairo prison. </P>
+</TEXT>
+</DOC>

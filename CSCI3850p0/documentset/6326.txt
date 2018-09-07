@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU004-0223.950505</DOCID>
+<TDTID>TDT013498</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/05/95 22:20</DATE>
+<TITLE> Simpson prosecution tries to explain ``missing blood''</TITLE>
+<HEADLINE> Simpson prosecution tries to explain ``missing blood''</HEADLINE>
+<SUBJECT> BC-SIMPSON 2NDLD </SUBJECT>
+<AUTHOR>     By Michael Miller </AUTHOR>
+<TEXT>
+<NOTES>   (Updates with filing of wrongful death lawsuit)</NOTES>
+<DATELINE>LOS ANGELES, (Reuter) </DATELINE>
+<P>  The prosecution in the O.J. Simpson case sought Friday to explain how blood came to be missing from the sample taken from the football hero the day after his ex-wife and her friend were murdered. </P>
+<P> Greg Matheson, the chief forensic chemist at the Los Angeles Police crime lab, testified that the missing blood could be accounted for by some of it sticking to the sides of pipettes used to withdraw blood from the vial for testing. </P>
+<P> Matheson said he replicated the procedures used to withdraw blood from the vial during an experiment Thursday night and found that approximately .5 of a milliliter had been lost in the procedures. </P>
+<P> Defense attorney Robert Blasier argued Thursday that eight milliliters of blood had been drawn from Simpson and that only 6.5 milliliters could be accounted for. </P>
+<P> The defense's conspiracy theory is that the missing 1.5 milliliters were taken by detectives and dropped in spots at the murder scene, Simpson's estate and on his white Ford Bronco. </P>
+<P> Simpson, a star running back who glided easily into the entertainment world, becoming an actor, sportscaster and TV pitchman, has pleaded not guilty to the murders of Nicole Brown Simpson and Ronald Goldman. </P>
+<P> The victims were stabbed to death outside Nicole Simpson's Brentwood townhouse on the night of June 12, 1994. </P>
+<P> In another development Friday, it was disclosed that Goldman's family had filed a wrongful death lawsuit accusing Simpson of killing him with ``vicious and outrageous savagery.'' </P>
+<P> The civil suit, filed Thursday by Goldman's sister Kimberly and their father Fred, seeks ``substantial'' monetary damages against Simpson, including reimbursement of funeral and burial costs. </P>
+<P> ``It's got nothing to do with the money,'' Kimberly Goldman said in a statement. ``If we can make him feel just a sliver of the pain we're feeling, it's worth it.'' </P>
+<P> In Thursday's cross-examination, Blasier used a chart showing how much blood had been taken out of Simpson's sample for testing, and what remained. The defense figures added up to 6.5 milliliters. </P>
+<P> But Matheson, on re-direct examination Friday, said the figures were inaccurate because they purported to be exact, when in fact they were approximations. </P>
+<P> He said when he recreated the lab procedures for withdrawing blood from Simpson's sample, approximately .5 milliliters were lost by sticking to pipettes and other instruments. </P>
+<P> His figures, he said, added up to a total of 7.5 milliliters, plus an amount that he had withdrawn without recording approximately how much. </P>
+<P> Judge Lance Ito continued to show his annoyance at the painstakingly slow and repetitive line of questioning, telling Goldberg to ``move along'' on a number of occasions. </P>
+<P> Later, outside the presence of the jury, Ito urged the attorneys to speed things up. ``I don't know if you are watching the jurors, but they are rolling their eyes every time we get to the fifth or sixth question that has been re-asked and asked again.'' </P>
+<P> Ten of the jurors came to court in a festive mood, wearing T-shirts from a pizza chain, presumably delivered with Thursday night's meal. </P>
+</TEXT>
+</DOC>

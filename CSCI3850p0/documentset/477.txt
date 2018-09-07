@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU014-0132.940729</DOCID>
+<TDTID>TDT001200</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/29/94 12:40</DATE>
+<TITLE> DUTCH HOLD FOUR SAID LINKED TO LONDON BLASTS</TITLE>
+<HEADLINE> DUTCH HOLD FOUR SAID LINKED TO LONDON BLASTS</HEADLINE>
+<SUBJECT> BC-BRITAIN-BLASTS-DUTCH 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: combines takes, adds details.)</NOTES>
+<DATELINE>AMSTERDAM (Reuter) </DATELINE>
+<P>  Dutch military police Friday held four people for questioning at Amsterdam airport on suspicion of involvement in this week's attacks on Israeli and Jewish targets in London, Dutch radio said. </P>
+<P> Dutch national radio said military police had confirmed local radio reports that four people of unknown nationality were detained from a KLM Royal Dutch Airlines NV flight from London. </P>
+<P> The four were detained after a passenger told cabin staff that he recognized them from identification pictures released after the London bombs, the radio said. </P>
+<P> Police and airport officials did not return phone calls seeking further information. </P>
+<P> Israel has put its diplomatic missions on highest alert worldwide to guard against a wave of bombings of Jewish targets, after car bombs killed 96 people in Buenos Aires on July 18 and wounded 19 in London this week. </P>
+<P> A car bomb badly damaged the Israeli embassy in London Tuesday and a similar attack Wednesday damaged a Jewish fund-raising organization building. </P>
+</TEXT>
+</DOC>

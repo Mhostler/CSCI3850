@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU009-0057.941018</DOCID>
+<TDTID>TDT005216</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 09:05</DATE>
+<TITLE> U.N. convoy reported under fire near Gorazde</TITLE>
+<HEADLINE> U.N. convoy reported under fire near Gorazde</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-CONVOY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  A United Nations aid convoy came under fire near the eastern Bosnian town of Gorazde Tuesday and one driver was believed to have been killed and another wounded, a U.N. spokesman said. </P>
+<P> U.N. spokesman Col. Tim Spicer said the casualty reports were not confirmed and he could not say who fired at the convoy operated by the U.N. High Commissioner for Refugees. </P>
+</TEXT>
+</DOC>

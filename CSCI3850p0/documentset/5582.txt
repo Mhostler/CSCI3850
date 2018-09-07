@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU005-0195.950408</DOCID>
+<TDTID>TDT012307</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/08/95 04:36</DATE>
+<TITLE> IAEA chief says N. Korea seeks to refuel reactor</TITLE>
+<HEADLINE> IAEA chief says N. Korea seeks to refuel reactor</HEADLINE>
+<SUBJECT> BC-KOREA-NUCLEAR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, April 8 (Reuter) </DATELINE>
+<P>  The International Atomic Energy Agency (IAEA) chief said on Saturday that North Korea was preparing to refuel a five-megawatt reactor at its Yongbyon nuclear complex, South Korea's domestic Yonhap news agency said. </P>
+<P> IAEA Director-General Hans Blix said during a meeting with Seoul's Foreign Minister Gong Ro-myung that the international nuclear watchdog was watching the North's moves with concern, Yonhap said. </P>
+<P> But he said the North was implementing most of the schedules it had promised to the United States last October in an agreement to freeze its nuclear programme. </P>
+<P> Two IAEA inspectors were currently monitoring North Korea's nuclear activities. </P>
+<P> Gong said if North Korea did break a nuclear freeze by refuelling the Yongbyon reactor, South Korea would push for swift and effective sanctions after consultations with its allies and the IAEA, Yonhap said. </P>
+<P> Gong also said South Korea would support a move by the International Atomic Energy Agency (IAEA) to improve its ability to inspect nuclear facilities of member countries. </P>
+<P> He said Seoul would support the international nuclear watchdog's plan aimed at securing authority to examine undeclared nuclear facilities. </P>
+<P> Blix, who arrived in Seoul on Thursday to attend a symposium and discuss nuclear issues with senior officials, said the IAEA needed the support of member countries to introduce the programme, a ministry official said. </P>
+<P> Before leaving for Japan later in the day, Blix met with President Kim Young-sam. Officials gave no details of the meeting. </P>
+<P> But they said North Korean nuclear developments had been discussed. </P>
+</TEXT>
+</DOC>

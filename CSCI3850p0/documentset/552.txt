@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0373.940802</DOCID>
+<TDTID>TDT001363</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/02/94 17:29</DATE>
+<TITLE> NEW ORLEANS SHIPPING COMPANY MOVE PROMPTED BY CASINO</TITLE>
+<HEADLINE> NEW ORLEANS SHIPPING COMPANY MOVE PROMPTED BY CASINO</HEADLINE>
+<SUBJECT> BC-USA-LYKES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW ORLEANS (Reuter) </DATELINE>
+<P>  Lykes Brothers Steamship Co, a major player in New Orleans' maritime industry for 72 years, is taking its 400 jobs and moving to Tampa, Florida, company officials said Monday. </P>
+<P> Although the move has been under consideration for several years, the decision was prompted by state plans to open the world's largest land-based casino in downtown New Orleans, directly across from Lykes' headquarters, spokesman Ardley H. Hanemann Jr. said. </P>
+<P> The move will begin in November, leaving the major port city with only one locally based steamship company, International Shipholding Corp, owner of Central Gulf Lines and Waterman Marine. </P>
+<P> Some functions of the family controlled steamship company will be combined with those of Lykes Bros Inc, the family's Tampa-based company, the spokesman said. </P>
+<P> Lykes has a fleet of 30 ships, including some foreign-flag vessels added in recent years. Lykes Steamship, headquartered in New Orleans since 1922, was founded by seven Lykes brothers in 1899 in Florida to haul cattle to Cuba during the Spanish- American War. </P>
+<P> The family empire is centered on Lykes Bros Inc, headed by Tom Lykes Rankin. </P>
+</TEXT>
+</DOC>

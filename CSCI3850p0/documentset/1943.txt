@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0013.941011</DOCID>
+<TDTID>TDT004848</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/11/94 15:52</DATE>
+<TITLE> 667 planes, 39,700 troops in or on way to Gulf</TITLE>
+<HEADLINE> 667 planes, 39,700 troops in or on way to Gulf</HEADLINE>
+<SUBJECT> BC-IRAQ-USA-POWER-BOX 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>  (Eds: Updates)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  General John Shalikashvili and the Pentagon said Tuesday that U.S. and allied forces in the Gulf, being sent there or put on alert, include: </P>
+<P> Planes: 200 U.S. and 52 allied planes are there, another 467 are being sent and 196 are on alert in case a decision is made to send them also. </P>
+<P> The U.S. planes include six B-52 bombers, 12 F-117 stealth fighter planes, 58 helicopters and dozens of Air Force F-16 and F-15 fighters, A-10 ``tank buster'' A-10s plus military transports and fuel tanker planes; also Navy FA-18 and F-14 fighters and attack planes. </P>
+<P> Ships: The aircraft carrier George Washington, four Tomahawk missile-firing ships and seven other U.S. ships plus five allied ships are there, and 21 other U.S. ships are being sent. </P>
+<P> Ground forces: 3,600 U.S. Army and Marine troops are there, another 36,100 are being sent and 155,000 are on alert. </P>
+</TEXT>
+</DOC>

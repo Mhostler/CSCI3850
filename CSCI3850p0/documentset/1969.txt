@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU006-0251.941012</DOCID>
+<TDTID>TDT004916</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/12/94 15:43</DATE>
+<TITLE> Tissot painting fetches record price</TITLE>
+<HEADLINE> Tissot painting fetches record price</HEADLINE>
+<SUBJECT> BC-PAINTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  An anonymous buyer paid a record price of $5,282,500 Wednesday for a painting by the 19th century French artist James Jacques Joseph Tissot, the auction house Sotheby's said in a statement. </P>
+<P> It said the painting, ``Garden Bench,'' estimated to bring $1.5-$2.5 million and considered to be the artist's finest work, drew international interest and was competitively bid at the auction by five telephone bidders. The previous record for a painting by Tissot was $2,970,000 for his work ``The Orphan,'' which was sold in February 1993, Sotheby's said. </P>
+<P> The work sold Wednesday depicts Tissot's mistress, Kathleen Newton, and was exhibited briefly in Paris in 1883 and again in 1885, but it disappeared from public view and its whereabouts remained unknown until the death of Tissot's niece in 1964, when the contents of the Frenchman's chateau were sold. </P>
+</TEXT>
+</DOC>

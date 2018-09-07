@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU007-0034.941114</DOCID>
+<TDTID>TDT006485</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/14/94 11:46</DATE>
+<TITLE> Space shuttle dodges storm, lands in California</TITLE>
+<HEADLINE> Space shuttle dodges storm, lands in California</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE 3RDLD </SUBJECT>
+<AUTHOR>     By Beth Dickey </AUTHOR>
+<TEXT>
+<NOTES> (Eds: updates with landing, quotes, details)</NOTES>
+<DATELINE>CAPE CANAVERAL, Fla.(Reuter) </DATELINE>
+<P>  The space shuttle Atlantis landed safely in California Monday following an 11-day research mission that took a close look at the Earth's protective ozone layer. </P>
+<P> The shuttle and its six astronauts were forced to land in California after a tropical storm chased it away from the favored runway in Florida. </P>
+<P> Atlantis swooped out of clear skies to touch down at 10:33 a.m. EST at Edwards Air Force Base. </P>
+<P> ``It's a great way to end 1994 -- beautiful mission,'' shuttle communicator Kevin Chilton radioed the crew as Atlantis rolled to a stop on a runway in the chilly Mojave Desert. </P>
+<P> ``I absolutely agree,'' commander Don McMonagle replied from the cockpit. ``We appreciate all the international support we've had on this mission to planet Earth.'' </P>
+<P> Atlantis and its crew were coming home from an orbital journey of 4.5 million miles in which they studied the atmosphere and gauged the ozone layer with cargo bay instruments and a retrievable satellite. </P>
+<P> The $35 million satellite, from Germany, was released to fly free of Atlantis for eight days while the astronauts gathered data aboard the shuttle with the $120 million Atmospheric Laboratory for Applications and Science. </P>
+<P> The studies focused on solar radiation and how it interacts with chemicals in the atmosphere, including ozone -- the heavy oxygen gas that blocks most of the sun's destructive ultraviolet rays. </P>
+<P> Atlantis had been scheduled to return to the Kennedy Space Center, where it blasted off Nov. 3, but gale-force winds associated with Tropical Storm Gordon forced the crew to detour to a safer haven. </P>
+<P> In addition to McMonagle, the members of the five-man, one- woman crew are Curtis Brown, copilot; Ellen Ochoa, payload commander; Joseph Tanner, flight engineer; and mission specialists Scott Parazynski and French astronaut Jean-Francois Clervoy, representing the European Space Agency. </P>
+<P> The landing marked the end of the seventh and final U.S. shuttle flight of the year. The next shuttle in line for launch is Discovery on Feb. 3. Discovery will carry a cosmonaut among its crew and will fly within a few hundred feet of the Russian Mir space station. </P>
+</TEXT>
+</DOC>

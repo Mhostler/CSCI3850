@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0348.941215</DOCID>
+<TDTID>TDT008039</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 21:55</DATE>
+<TITLE> Cable industry to relocate museum to Denver</TITLE>
+<HEADLINE> Cable industry to relocate museum to Denver</HEADLINE>
+<SUBJECT> BC-CABLE-MUSEUM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DENVER (Reuter) </DATELINE>
+<P>  The National Cable Television Center and Museum will relocate to the University of Denver, reflecting this city's role as the cable TV capital of the world, the Cable TV Pioneers said Thursday. </P>
+<P> Cable TV Pioneers is an organization of cable industry veterans. </P>
+<P> ``It's the perfect location to highlight our industry's historical achievements and to showcase the remarkable new telecommunications services we will be bringing to the marketplace in the very near future,'' said Denver cable executive Bill Daniels. </P>
+<P> Daniels, recognized as one of the earliest and most successful leaders in the cable industry, has pledged the first $1 million for the museum. </P>
+<P> The cable TV museum has been at Pennsylvania State University since 1988. </P>
+</TEXT>
+</DOC>

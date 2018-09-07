@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU013-0292.941130</DOCID>
+<TDTID>TDT007218</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/30/94 00:27</DATE>
+<TITLE> NBC to charge rival News Corp before regulators</TITLE>
+<HEADLINE> NBC to charge rival News Corp before regulators</HEADLINE>
+<SUBJECT> BC-TELEVISION-FOX 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: updates throughout with confirmation by source)</NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The NBC television network is expected to file a complaint Wednesday with U.S. regulators charging the rival Fox network, owned by News Corp. of Australia, with violating limits on foreign ownership of domestic television stations. </P>
+<P> NBC, according to a source familiar with the network, will ask the U.S. Federal Communications Commission to order that Fox sell most of the equity in its directly owned television stations, or that the U.S. government secure unlimited access for U.S. companies to own television properties in foreign countries. </P>
+<P> A spokeswomen for NBC declined comment. </P>
+<P> NBC is in part seeking a public hearing in which NBC executives and others could air their complaints against the Fox network, started in the 1980s by News Corp. NBC, owned by the General Electric Company, and the other major television networks have long bridled against exemptions on program ownership and other matters granted Fox by U.S. regulators. </P>
+<P> More than 99 percent of the equity in Fox is held by Murdoch's Australia-based News Corp, although FCC regulations prohibit foreign ownership of more than 25 percent of a station. </P>
+<P> The tenor of the complaint to be filed by NBC is unusual, but was foreshadowed earlier this year by a filing by NBC against a change in network affiliation from NBC to Fox by a station in Wisconsin. </P>
+<P> Fox a year ago shook up U.S. television by outbidding CBS Inc. for the broadcast rights to National Football League games, and earlier this year struck a deal with a major U.S. television station group that led to a wholesale defection to Fox of leading stations that for decades were affiliated with CBS and the other two leading television networks. </P>
+<P> The question of Fox ownership is already before the FCC. </P>
+<P> The cash-strapped National Association for the Advancement of Colored People, a civil rights group, had challenged Fox ownership earlier this year, The New York Times reported in Wednesday editions. </P>
+<P> In response to the NAACP challenge, Fox asked for a review of the ownership question, the newspaper said. The FCC has said since May that a ruling is imminent, it said. </P>
+<P> But in response to the NAACP action, the FCC demanded that Fox disclose it equity structure, the newspaper said. That disclosure showed Murdoch owned less than 1 percent of the company, but his News Corp. owned more than 99 percent. </P>
+</TEXT>
+</DOC>

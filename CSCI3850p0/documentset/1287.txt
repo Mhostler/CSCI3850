@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0204.940911</DOCID>
+<TDTID>TDT003190</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/11/94 13:55</DATE>
+<TITLE> Irish U.N. troops prepare to leave Somalia</TITLE>
+<HEADLINE> Irish U.N. troops prepare to leave Somalia</HEADLINE>
+<SUBJECT> BC-SOMALIA-IRISH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOGADISHU, Somalia (Reuter) </DATELINE>
+<P>  One hundred Irish soldiers serving with the U.N. force in Somalia will leave for home this week, U.N. military spokesman Major Richard McDonald said Sunday. </P>
+<P> The Irish contingent, which has been dealing with logistics and transportation for the U.N. force, has been based in the central town of Baidoa, scene of several recent attacks on U.N. forces by Somali gunmen. </P>
+<P> A small number of Irish officers will remain at the U.N. headquarters in Mogadishu, McDonald said. </P>
+<P> The U.N. is cutting its force to around 15,000 from a peak of some 21,000 and is pulling back troops from outlying centers. </P>
+</TEXT>
+</DOC>

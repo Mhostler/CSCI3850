@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU015-0103.950424</DOCID>
+<TDTID>TDT012974</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 16:12</DATE>
+<TITLE> Photographers arrested at Oklahoma bomb site</TITLE>
+<HEADLINE> Photographers arrested at Oklahoma bomb site</HEADLINE>
+<SUBJECT> BC-BLAST-PHOTOGRAPHERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OKLAHOMA CITY (Reuter) </DATELINE>
+<P>  Police Monday arrested two men trying to take photographs of bodies inside the bomb-blasted Oklahoma federal building, apparantly intending to sell the pictures to tabloid television shows. </P>
+<P> Police did not disclose the identities of the men but said one had gained access to the wrecked building several times posing as a volunteer firefighter. </P>
+<P> Police said that on the first day of the disaster one of the men removed an Oklahoma City Fire Department jacket, pants and helmet from the scene. </P>
+<P> Police said he returned wearing the equipment and carrying ''several disposable cameras.'' He was arrested after he was seen shooting pictures of the bodies. </P>
+<P> A second person was also arrested taking pictures, but details of that arrest were not disclosed. </P>
+<P> It was not clear if the men were to be charged. </P>
+</TEXT>
+</DOC>

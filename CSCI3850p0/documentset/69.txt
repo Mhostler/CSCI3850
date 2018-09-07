@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0447.940705</DOCID>
+<TDTID>TDT000161</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/05/94 08:49</DATE>
+<TITLE> CHRISTOPHER SAYS BOSNIA ARMS BAN COULD BE LIFTED</TITLE>
+<HEADLINE> CHRISTOPHER SAYS BOSNIA ARMS BAN COULD BE LIFTED</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-MINISTERS-ARMS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: combines takes.)</NOTES>
+<DATELINE>GENEVA (Reuter) </DATELINE>
+<P>  Secretary of State Warren Christopher said Tuesday an arms embargo on former Yugoslavia could be lifted for Bosnia's Muslim-led government if the country's Serbs rejected a new peace plan. </P>
+<P> ``If the Serbs do not agree, then we'd be in a situation where there would be a graduated series of events ending up with the great pressure, unavoidable pressure, to lift the arms embargo,'' he told Reuters. </P>
+<P> Christopher was speaking on board a plane bringing him to Geneva for a meeting with foreign ministers of Russia, France, Germany and Britain to endorse the plan dividing Bosnia and expected to be presented to the warring sides Wednesday. </P>
+<P></P>
+<P> ``I think there is a recognition that lifting the arms embargo may be an unavoidable option if the Serbs do not accept and the Bosnians (Muslims) do and we go through various other steps which would be in their (the other ministers') minds preferable to lifting the arms embargo. </P>
+<P> ``But at the end of the day I think there is a recognition that the pressure to lift the arms embargo may become irresistible, unavoidable, if the other steps do not succeed in bringing the Serbs along.'' </P>
+</TEXT>
+</DOC>

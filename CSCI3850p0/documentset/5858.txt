@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU011-0321.950419</DOCID>
+<TDTID>TDT012724</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/19/95 11:23</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-NUCLEAR-GORE -2 UNITED NATIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``We are gathered to determine whether the cause of peace is best served by continuing the treaty under temporary arrangements or by using our one-time option to give it a permanent basis by supporting its indefinite extension without conditions,'' Gore said. ``The United States believes that it is vital that we take advantage of this one-time option to extend the treaty indefinitely without conditions.'' </P>
+<P> The vice president rejected the views of some non-aligned nations that the treaty should be ``held hostage'' to faster progress towards full disarmament by the five nuclear powers -- the United States, Russia, China, France and Britain. </P>
+<P> He said the debate on the treaty, which commits nuclear powers not to transfer atomic weapons to others, came at a ''moment of unusual opportunity and great risk'' in which countries seeking nuclear arms had increasing technical opportunity to acquire them. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0475.941118</DOCID>
+<TDTID>TDT006694</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/18/94 09:46</DATE>
+<TITLE> Brazil judge overrules Greenpeace expulsion order</TITLE>
+<HEADLINE> Brazil judge overrules Greenpeace expulsion order</HEADLINE>
+<SUBJECT> BC-ENVIRONMENT-BRAZIL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RIO DE JANEIRO (Reuter) </DATELINE>
+<P>  A Brazilian judge has overruled an expulsion order that would have forced a Greenpeace boat and its crew to leave Brazil, Greenpeace said Friday. </P>
+<P> Police in the Amazon town of Santarem ordered Greenpeace to leave Brazil last month after campaigners halted loading of mahogany wood for export in a protest against the trade in precious timber in the region. </P>
+<P> The judge ruled that Greenpeace's campaign was legitimate, Greenpeace said in a statement. </P>
+<P> The MV Greenpeace boat is currently in Rio de Janeiro after a campaign in the Amazon to highlight environmental damage. </P>
+</TEXT>
+</DOC>

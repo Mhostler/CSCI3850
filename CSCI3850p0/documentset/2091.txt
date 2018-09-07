@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0089.941018</DOCID>
+<TDTID>TDT005221</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 11:45</DATE>
+<TITLE> Poll puts Bush ahead of Richards by a nose</TITLE>
+<HEADLINE> Poll puts Bush ahead of Richards by a nose</HEADLINE>
+<SUBJECT> BC-POLITICS-TEXAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HOUSTON (Reuter) </DATELINE>
+<P>  A poll published Tuesday shows the race for Texas governor between Republican challenger George W. Bush and Democratic incumbent Ann Richards remains a dead heat. </P>
+<P> The Texas Poll found Bush leading Richards 45 percent to 44 percent, viewed as a statistical tie because of the poll's 4 percentage point margin of error. About 10 percent of those polled said they were undecided and 1 percent supported Libertarian candidate Keary Ehlers. </P>
+<P> Bush, one of two sons of former President George Bush running for governor in a major U.S. state, has come from behind to tie Richards in the poll as his support has risen from 39 percent last fall. </P>
+<P> The Texas Poll of 675 likely voters conducted during the period of October 6-15 was published by Harte-Hanks Communications Inc and the University of Texas in Austin. </P>
+<P> Bush, a Dallas businessman, also leads Richards in voter perceptions that he is setting the agenda for the campaign, which ends in three weeks. The poll said 43 percent viewed Bush as setting the agenda compared with 38 percent for Richards. </P>
+<P> Another son of the former president, Jeb Bush, is running as the Republican candidate for governor of Florida. </P>
+</TEXT>
+</DOC>

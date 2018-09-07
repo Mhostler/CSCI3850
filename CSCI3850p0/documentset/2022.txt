@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0280.941014</DOCID>
+<TDTID>TDT005048</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/14/94 14:31</DATE>
+<TITLE> Clinton team to name baseball mediator</TITLE>
+<HEADLINE> Clinton team to name baseball mediator</HEADLINE>
+<SUBJECT> BC-BASEBALL-MEDIATOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Clinton administration planned Friday to appoint former Labor Secretary William Usery as a special mediator in the two-month-old baseball strike, White House officials said. </P>
+<P> The officials, who asked to remain unidentified, said Labor Secretary Robert Reich would make the announcement at an afternoon briefing at the White House. </P>
+<P> They said representatives of the major league players and team owners had agreed to such mediation. </P>
+<P> The players strike began August 12 and the the two sides have not spoken since early September, just before acting Commissioner Bud Selig announced the rest of the season and the playoffs and World Series would be scrapped. </P>
+<P> The key divisive issue remains the owners' demand for a cap on players' salaries. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0109.940713</DOCID>
+<TDTID>TDT000501</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/13/94 16:29</DATE>
+<TITLE> TELEDYNE CHARGED WITH VIOLATING U.S. EXPORT LAWS</TITLE>
+<HEADLINE> TELEDYNE CHARGED WITH VIOLATING U.S. EXPORT LAWS</HEADLINE>
+<SUBJECT> BC-USA-TELEDYNE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Teledyne Industries Inc and three foreign firms were charged Wednesday with violating U.S. export control laws by shipping to the Middle East zirconium pellets designed for use in cluster bombs and military warheads, the Justice Department said. </P>
+<P> It said the federal grand jury indictment alleged the defendants conspired to export about 175 million pellets, valued at about $3.5 million, in 1987 and 1988 without obtaining a Commerce Department license. They also were accused of making false statements to the Commerce Department. </P>
+<P> Besides California-based Teledyne, the indictment named Extraco Ltd of Greece, Weco Industrial Products Export GmbH of Germany and International Commerce Promotion S.P.R.L. of Belgium. Individuals charged were Edward Johnson, 54, of Albany, Oregon, a salesman at a Teledyne unit, and Christian Demesmaeker, 41, of Belgium, part owner of International Commerce Promotion and an agent for Weco. </P>
+<P> Justice Department prosecutors said the four-count indictment alleges the defendants made false statements and withheld key information from the Commerce Department in a license request to export the pellets to Greece. They said the pellets were unlawfully shipped from the United States and unloaded at a Jordanian port in 1988. </P>
+<P> The prosecutors said the corporations, if convicted, face fines exceeding $20 million and possible suspension or debarment from U.S. export privileges. Johnson faces up to 25 years in prison and Demesmaeker could get as much as 20 years in jail if convicted on all counts. </P>
+</TEXT>
+</DOC>

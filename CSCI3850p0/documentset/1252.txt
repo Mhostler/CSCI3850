@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU004-0310.940909</DOCID>
+<TDTID>TDT003106</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/09/94 15:37</DATE>
+<TITLE> Colombia pledges measures to improve human rights</TITLE>
+<HEADLINE> Colombia pledges measures to improve human rights</HEADLINE>
+<SUBJECT> BC-COLOMBIA-RIGHTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOGOTA (Reuter) </DATELINE>
+<P>  The Colombian government, accused by human rights organizations of tolerating appalling abuses by security forces, Friday invited international observers to come and see efforts being made to improve the situation. </P>
+<P> ``There will be no impunity. This government will not protect those who violate human rights like this within the state,'' Interior Minister Horacio Serpa told a news conference which the government said it called to mark International Human Rights Day. </P>
+<P> Serpa read out a declaration from President Ernesto Samper spelling out policies to improve Colombia's poor human rights record. Samper, who took office August 7, has made respect for human rights a key plank of his policies. </P>
+<P> The measures announced included invitations to United Nations human rights and torture specialists to visit Colombia with government support and gather information and to London-based Amnesty International to open a permanent office. </P>
+<P> The government also promised to present to Congress a draft bill authorizing the payment of compensation directly from the national budget to victims of rights abuses. </P>
+<P> Other measures included a training program for the armed forces, plans to sign a Geneva protocol on human rights and pledges to speed up trials of rights abusers, fight paramilitary groups and provide help for refugees fleeing from persecution. </P>
+<P> Amnesty International said at a news conference last March in Bogota that Colombia's ``atrocious'' record of more than 20,000 political killings in the last eight years ranked as one of the world's worst. </P>
+</TEXT>
+</DOC>

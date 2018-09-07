@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU009-0302.941019</DOCID>
+<TDTID>TDT005280</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/19/94 11:30</DATE>
+<TITLE> Balloon angioplasty effective in opening arteries</TITLE>
+<HEADLINE> Balloon angioplasty effective in opening arteries</HEADLINE>
+<SUBJECT> BC-HEALTH-ARTERIES (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>Release at 6 p.m. EDT</NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  Medical researchers comparing the effectiveness of two popular techniques for treating narrowed heart arteries concluded that both are equally useful in treating more than one constricted artery. </P>
+<P> But the separate teams of researchers in the United States and Germany found that each of the techniques has drawbacks. </P>
+<P> One of the techniques examined was angioplasty, in which a balloon is threaded into an artery and then inflated to squash any blockage against the artery walls. </P>
+<P> The other was bypass surgery, in which a vein from the body is stitched into the heart, allowing blood to bypass each narrowed artery. </P>
+<P> In the separate studies, to be published in Thursday's New England Journal of Medicine, doctors discovered that bypass patients were less likely to need further treatment and more likely to be free of heart pain following surgery. But the surgery carries a higher risk the patient could suffer a heart attack. </P>
+<P> Angioplasty, by contrast, carries less initial risk and patients who continue to experience chest pain after being treated with the balloon technique can take drugs to alleviate remaining angina. </P>
+<P> While the balloon technique has been effectively used for years, it has mostly been restricted to people who have a single narrowed artery feeding the heart muscle. Patients with more than one diseased artery usually undergo bypass surgery. </P>
+<P> Both studies examined whether the balloon could be safely used in people with more than one constricted artery. </P>
+<P> In an editorial in the Journal, doctors David Hillis and John Rutherford of the University of Texas' Southwestern Medical Center in Dallas predicted that despite the new findings, the bypass technique ``will continue to be the preferred revascularization procedure.'' </P>
+<P> They reasoned that many patients cannot safely be exposed to the balloon technique because they have had a recent heart attack, or the pattern of the narrowing in the blood vessels makes the success of angioplasty unlikely. </P>
+<P> In another study by researchers led by Dr. Christian Hamm of the University Hospital Eppendorf in Hamburg, Germany, 8,891 people visiting eight medical centers were screened. Only 359 were considered suitable for both treatments. </P>
+<P> The Hamm team concluded that when the right patients are selected, both procedures produced roughly-comparable results. The patients were only followed for one year, however, and longer-term studies are needed. </P>
+<P> A third study, led by Dr. Spencer King III, of the Emory University School of Medicine in Atlanta, found little difference in the success rate for patients given bypass surgery or angioplasty in cases followed for three years. </P>
+<P> ``The selection of one procedure over the other should be guided by patients' preferences regarding the quality of life and the possible need for subsequent procedures,'' the King team concluded. </P>
+</TEXT>
+</DOC>

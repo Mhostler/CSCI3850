@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0345.940804</DOCID>
+<TDTID>TDT001468</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/04/94 11:38</DATE>
+<TITLE> DOCTORS SEE GENETIC LINK BETWEEN MENTAL DISORDERS</TITLE>
+<HEADLINE> DOCTORS SEE GENETIC LINK BETWEEN MENTAL DISORDERS</HEADLINE>
+<SUBJECT> BC-HEALTH-ALZHEIMER'S (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> Release at 7 P.M. EDT</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Young women whose babies suffer from Down's Syndrome are five times more likely than other mothers to develop Alzheimer's Disease in later life, according to research published Thursday. </P>
+<P> A group of New York epidemiologists said in an article in Britain's authoritative medical journal The Lancet their studies suggest there is a genetic link between the two disorders. </P>
+<P> Down's Syndrome is the most common cause of severe mental retardation in newborn babies. Alzheimer's is a neurodegenerative disorder that mainly affects the elderly. </P>
+<P> The scientists studied the families of 96 adults with Down's Syndrome along with a control group of families whose members suffered from other types of mental retardation. </P>
+<P> They reported: ``The risk of dementia among mothers who were 35 years or younger when their children with DS (Down's Syndrome) were born was five times that of control mothers. </P>
+<P> ``By contrast, the risk of dementia among mothers who were older than 35 when their children with DS were born was similar to that of control mothers.'' </P>
+<P> Fathers of Down's Syndrome children showed no increased susceptibility to Alzheimer's Disease. </P>
+<P> The team, led by Nicole Schupf of the New York State Institute for Basic Research in Developmental Disabilities, noted that older mothers generally have a higher risk of having babies with Down's Syndrome. </P>
+</TEXT>
+</DOC>

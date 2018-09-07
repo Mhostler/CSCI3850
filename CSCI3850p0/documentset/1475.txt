@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0227.940919</DOCID>
+<TDTID>TDT003647</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/19/94 07:39</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-HAITI-USA-GORE -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The first of 15,000 U.S. troops were set to go into Haiti later Monday after President Clinton's negotiating team extracted a dramatic last-minute agreement from the ruling junta to step down peacefully and avoid a U.S. invasion to restore exiled President Jean-Bertrand Aristide to power. </P>
+<P> ``We feel very good about the agreement and what lies immediately ahead,'' Gore said of the pact hammered out with the Haitian leaders and a U.S. delegation led by former President Jimmy Carter. </P>
+<P> He denied that Clinton, in agreeing that the military leaders could stay in power perhaps as late as October 15, had backed off his earlier demand that they must leave immediately and unconditionally. </P>
+<P> ``The president didn't back off. The president secured his objective,'' Gore said. </P>
+</TEXT>
+</DOC>

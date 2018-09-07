@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0047.940705</DOCID>
+<TDTID>TDT000172</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/05/94 13:22</DATE>
+<TITLE> EUROPEAN PARLIAMENTARIANS DROWN ZHIRINOVSKY SPEECH</TITLE>
+<HEADLINE> EUROPEAN PARLIAMENTARIANS DROWN ZHIRINOVSKY SPEECH</HEADLINE>
+<SUBJECT> BC-AUSTRIA-ZHIRINOVSKY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VIENNA, Austria (Reuter) </DATELINE>
+<P>  European parliamentarians booed and banged their fists when Russian ultra-nationalist Vladimir Zhirinovsky declared in a speech Tuesday that Russia would win a Third World War, the Austrian news agency APA reported. </P>
+<P> The agency said Zhirinovsky made the remark to about 500 parliamentarians at a meeting organized by the Conference on Security and Cooperation in Europe. ``Russia will win the Third World War definitely and without any doubt,'' said Zhirinovsky, a member of the Russian parliamentary delegation. </P>
+</TEXT>
+</DOC>

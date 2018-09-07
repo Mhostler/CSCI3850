@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU009-0117.950513</DOCID>
+<TDTID>TDT013761</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/13/95 06:45</DATE>
+<TITLE> Khartoum says rebels release 1,000 children</TITLE>
+<HEADLINE> Khartoum says rebels release 1,000 children</HEADLINE>
+<SUBJECT> BC-SUDAN-CHILDREN </SUBJECT>
+<AUTHOR>     By Alfred Taban </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KHARTOUM, May 13 (Reuter) </DATELINE>
+<P>  The Sudanese government said on Saturday that the rebel Sudan People's Liberation Army (SPLA) had released 1,000 of the 20,000 children it was holding. </P>
+<P> The government-owned newspaper al-Ingaz al-Watani (National Salvation) said the U.N. Children's Fund (UNICEF) had helped bring most of the 1,000 children to the government-controlled border town of Nasir in southern Sudan. It did not say when. </P>
+<P> The SPLA, which has been fighting the Sudanese army since 1983, says the children are a burden and end up in its camps after being separated from their families in government offensives in the south and in the Nuba mountains. </P>
+<P> Al-Ingaz al-Watani quoted Abderrahman Abu Doum, the commissioner general for voluntary work, as saying the release was a success for the government's long campaign to publicise the plight of the children through U.N. agencies. </P>
+<P> He urged the United Nations to seek the release of the remaining children, saying there was proof that what he called hostile circles had recently kidnapped some of them from Kakoma refugee camp in Kenya. </P>
+<P> The children, or unaccompanied minors as they are known internationally, have become a main source of friction between the Sudanese government, the SPLA and aid agencies. </P>
+<P> The government accuses the SPLA of kidnapping them from their homes in southern Sudan and the Nuba mountains in the north and then of using them as guerrilla recruits or to carry ammunition and rations. Seventeen percent of the children are thought to come from the Nuba mountains. </P>
+<P> Most of the children were originally held in Ethiopia but after the fall of president Mengistu Haile Mariam in 1991 and the subsequent closure of the rebel's Ethiopian camps, the children marched hundreds of miles to Kenya. Mengistu had been the SPLA's main foreign backer. </P>
+<P> Most of the children are thought to be still in Kenya although some are reported in southern Sudan. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU014-0126.940729</DOCID>
+<TDTID>TDT001199</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/29/94 12:24</DATE>
+<TITLE> COURT DISMISSES SUIT BY FORMER HOSTAGES IN LEBANON</TITLE>
+<HEADLINE> COURT DISMISSES SUIT BY FORMER HOSTAGES IN LEBANON</HEADLINE>
+<SUBJECT> BC-USA-COURT-HOSTAGES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A U.S. appeals court Friday upheld the dismissal of a lawsuit against Iran by two Americans formerly held hostage in Lebanon by Islamic fundamentalists. </P>
+<P> The lawsuit, seeking $600 million in damages, had been filed in 1992 by former hostages David Jacobson and Joseph Cicippio, along with Cicippio's wife, Elham. </P>
+<P> They charged the abductions were directed by Iran to force the United States to release some frozen Iranian funds. They sought damages as compensation for the torture, pain and suffering endured while in captivity. </P>
+<P> A federal judge initially threw out the suit, saying U.S. courts lack jurisdiction over the dispute. A unanimous three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit upheld the dismissal of the suit. </P>
+<P> The appeals court in an opinion by Judge Laurence Silberman did not address the merits of the lawsuit, but said Iran enjoyed sovereign immunity and could not be held liable. </P>
+<P> He also said the case did not fall under the exceptions created by Congress in the foreign sovereign immunities law. </P>
+<P> Jacobson, director of the American University Hospital in Beirut at the time of his abduction, was kidnapped May 28, 1985, and released November 2, 1986. </P>
+<P> Cicippio, deputy controller at the same university at the time of his kidnapping in 1986, was not released until 1991. </P>
+</TEXT>
+</DOC>

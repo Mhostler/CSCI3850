@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU016-0265.950426</DOCID>
+<TDTID>TDT013091</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/26/95 11:47</DATE>
+<TITLE> Only five children believed missing in blast</TITLE>
+<HEADLINE> Only five children believed missing in blast</HEADLINE>
+<SUBJECT> BC-BLAST-CHILDREN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OKLAHOMA CITY (Reuter) </DATELINE>
+<P>  Officials now believe only five more children may be lost in the wreckage of the bombed-out federal office building here, the Medical Examiner's Office said Wednesday. </P>
+<P> Ray Blakeney, spokesman for the Oklahoma City Medical Examiner's Office, said 92 bodies have been recovered, including 14 children. He said 105 people are missing. </P>
+</TEXT>
+</DOC>

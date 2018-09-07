@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU007-0057.941013</DOCID>
+<TDTID>TDT004999</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/13/94 17:06</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-IRAQ-USA-PAUSE -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The officials, who asked not to be identified, said the Iraqi units had halted in place near Nasiriyah, an Iraqi town in the border region, raising some concern. </P>
+<P> ``It's not a crisis but we're watching it carefully,'' one official said. </P>
+<P> Another senior official said the pause might be due to logistical problems or have some other non-threatening explanation. But the official added: ``Saddam Hussein ought not doubt the resolve of the United States and the international community to stop him from threatening his neighbors now and in the future.'' </P>
+</TEXT>
+</DOC>

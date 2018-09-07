@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU010-0332.941021</DOCID>
+<TDTID>TDT005411</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/21/94 15:07</DATE>
+<TITLE> Woman survives 15 days in lifeboat, family lost</TITLE>
+<HEADLINE> Woman survives 15 days in lifeboat, family lost</HEADLINE>
+<SUBJECT> BC-FRANCE-DINGHY 1STLD </SUBJECT>
+<AUTHOR>     By Tracey Ober </AUTHOR>
+<TEXT>
+<NOTES>(Eds: adds details, quotes, fixes names, pvs Etel)</NOTES>
+<DATELINE>MADRID, Spain (Reuter) </DATELINE>
+<P>  A French woman was found alive in a rubber dinghy after 15 days at sea during which her husband apparently drowned and her five-year-old daughter was washed overboard just before help arrived, officials said Friday. </P>
+<P> A Spanish rescue helicopter pulled Louise Longo-Huyghe, 36, from the dinghy in storm-tossed seas 120 miles off the northwestern coast of Spain Thursday afternoon. </P>
+<P> She was badly malnourished and barely coherent, but later told a French deputy consul in the port of La Coruna that her husband Bernard Huyghe had died a week earlier aboard the dinghy, where his body remained for three more days. </P>
+<P> Their daughter Gaella had been alive when a Russian cargo ship spotted the dinghy, but the girl was washed overboard before the helicopter arrived just hours later. </P>
+<P> ``There had been reports that we were to pick up two people, but we didn't know if they would be dead or alive,'' a National Maritime Rescue spokeswoman in Madrid told Reuters. </P>
+<P> ``When we arrived there was only one woman in a bad state of shock and very disoriented.'' </P>
+<P> She said rescuers were still searching for the husband and daughter, but their efforts were hampered by choppy seas and poor visibility. </P>
+<P> The family set out for Senegal from the French Atlantic port of La Rochelle on Sept. 30 aboard the Belgian-registered sailing boat Jan Van Gent, which they abandoned in a storm Oct. 5. </P>
+<P> Rescue searches began five days later when the yacht was found drifting 120 miles off the Galician coast, known to sailors as the ``coast of death,'' the spokeswoman said. </P>
+<P> She said the conditions at sea during the woman's ordeal were ``extremely dangerous'' with gale-force winds, 20-foot waves and at least three days of rain. </P>
+<P> Hospital officials said Longo-Huyghe was in stable condition and able to communicate, but would have to remain hospitalized for the time being. </P>
+</TEXT>
+</DOC>

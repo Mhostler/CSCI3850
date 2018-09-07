@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU004-0012.950109</DOCID>
+<TDTID>TDT009076</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/09/95 17:43</DATE>
+<TITLE> Canada to send 120 peacekeepers to Rwanda</TITLE>
+<HEADLINE> Canada to send 120 peacekeepers to Rwanda</HEADLINE>
+<SUBJECT> BC-RWANDA-CANADA-TROOPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OTTAWA (Reuter) </DATELINE>
+<P>  Canada said Monday it will send 120 troops to Rwanda this month to supply logistical support to the United Nations peacekeeping force based there. </P>
+<P> The peacekeepers are going in response to a request from the United Nations that Canada maintain a presence in Rwanda, Defense Minister David Collenette said in a statement. </P>
+<P> The Canadian government also said it is bringing back to Canada a group of 360 communication specialists who were sent to Rwanda in June on a six-month mission. </P>
+</TEXT>
+</DOC>

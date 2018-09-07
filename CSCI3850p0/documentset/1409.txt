@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0127.940916</DOCID>
+<TDTID>TDT003497</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/16/94 13:29</DATE>
+<TITLE> Head of French Roman Catholic church dies</TITLE>
+<HEADLINE> Head of French Roman Catholic church dies</HEADLINE>
+<SUBJECT> BC-FRANCE-DECOURTRAY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LYON, France (Reuter) </DATELINE>
+<P>  Cardinal Albert Decourtray, the head of France's Roman Catholics and regarded as a liberal conscience of the church, died Friday at the age of 71 after a cerebral hemorrhage, a hospital spokeswoman said. </P>
+<P> Formally titled ``Primate of the Gauls,'' Decourtray was taken to a Lyon hospital Monday after he collapsed in his offices and fell into a deep coma. He did not regain consciousness. </P>
+<P> An outspoken campaigner for social justice, Decourtray braved controversy by siding with workers against the government, spoke out for the rights of prisoners and often blasted racism and the policies of the extreme right. </P>
+<P> His open-mindedness and plain speaking, surprising Catholics and non-believers alike, earned him the reputation as a liberal conscience of the church. </P>
+<P> Decourtray also won respect for helping expose how members of the Catholic church for decades sheltered a former Nazi collaborator, Paul Touvier, who was jailed this year for crimes against humanity. </P>
+<P> Decourtray became Archbishop of Lyon in 1981 and a cardinal in 1985. </P>
+</TEXT>
+</DOC>

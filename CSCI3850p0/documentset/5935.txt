@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0315.950421</DOCID>
+<TDTID>TDT012858</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/21/95 19:44</DATE>
+<TITLE> Accused serial killer fails to suppress confession</TITLE>
+<HEADLINE> Accused serial killer fails to suppress confession</HEADLINE>
+<SUBJECT> BC-MURDER-CONFESSION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHARLOTTE, N.C. (Reuter) </DATELINE>
+<P>  An accused serial killer and rapist has lost his bid to suppress confessions taped by police while he was in custody, the man's attorney said Friday. </P>
+<P> Superior Court Judge Robert Johnson ruled that the treatment Henry Louis Wallace, 29, received at the hands of police while in custody had been reasonable. </P>
+<P> Defense attorney Jim Cooney said the court is expected next to take up a question involving DNA evidence in the fall. No trial date has been set. </P>
+<P> Cooney, who at an earlier hearing had asked the court to supress the confessions, argued that Wallace had been held for 12 hours without probable cause. </P>
+<P> He and fellow defense attorney Isabel Day also argued that police used tactics such as prayer to induce Wallace's confession. </P>
+<P> Wallace is charged with 10 murders and eight rapes, all of which were committed during a 20-month period that ended in March 1994. Prosecutors have said they will seek the death penalty. </P>
+</TEXT>
+</DOC>

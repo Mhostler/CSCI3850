@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU003-0256.941106</DOCID>
+<TDTID>TDT006142</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/06/94 17:04</DATE>
+<TITLE> Albanian killed in referendum stabbing</TITLE>
+<HEADLINE> Albanian killed in referendum stabbing</HEADLINE>
+<SUBJECT> BC-ALBANIA-CONSTITUTION 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds killing, details of voting)</NOTES>
+<DATELINE>TIRANA, Albania (Reuter) </DATELINE>
+<P>  Albanians voted Sunday in a referendum on a controversial new constitution, marking the first major challenge to the ruling Democratic party of President Sali Berisha. </P>
+<P> Voting was generally incident-free, but a member of a local election commitee in northern Albania was stabbed and killed outside a voting booth, a Democratic party spokesman said. </P>
+<P> Polling stations closed at 8 p.m. after an estimated 70 percent of the two million eligible voters had cast ballots, the central election committee said. </P>
+<P> Berisha, who came to power in March 1992, said a ``yes'' vote would lay firm foundations for Albania's democratic future. </P>
+<P> The Democratic party spokesman told Reuters that Mark Gjin Prenga, 34, was stabbed and killed in the village of Vig where he was a member of a local Democratic election committee. </P>
+<P> His alleged assailant, a 22-year-old neighbor who fled after the attack, was believed to support the opposition Socialist party, which called for a rejection of the new constitution, the spokesman said. </P>
+<P> The ex-communist Socialist party, which was routed by Berisha's Democrats in 1992 parliamentary elections, argued that the new constitution could lead to another authoritarian regime. </P>
+<P> The constitution would establish Albania as a democratic republic with a market economy and guarantee private property, freedom of religion and the separation of judicial, executive and legislative powers. </P>
+<P> Berisha maintains it has sufficient checks and balances to insure that Albania remains a Western-style democracy. </P>
+<P> The final referendum result is unlikely to emerge for several days because of poor communications in the rugged Balkan country, now emerging from four decades of Stalinist communist rule. </P>
+<P> Western observers, including representatives of the Council of Europe, the Conference for Security and Cooperation in Europe (CSCE) and the U.S. Republican Institute, monitored the voting. </P>
+<P> A written constitution is essential for Albania's admission to the Council of Europe. </P>
+</TEXT>
+</DOC>

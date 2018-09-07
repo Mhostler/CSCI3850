@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0390.941226</DOCID>
+<TDTID>TDT008493</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/26/94 18:17</DATE>
+<TITLE> U.S. praises French action to end hijack</TITLE>
+<HEADLINE> U.S. praises French action to end hijack</HEADLINE>
+<SUBJECT> BC-ALGERIA-AIRLINER-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States praised the French commando raid that killed four hijackers and freed the about 170 surviving passengers and crew on an Air France airliner Monday. </P>
+<P> ``The U.S. government condemns in the strongest possible terms the hijacking of the Air France aircraft and the murder of innocent civilians by Algerian terrorists,'' the U.S. State Department said in a statement. </P>
+<P> ``We express our deep sorrow for the families of those who lost their lives in this tragic event, and we commend the actions which led to the rescue,'' department spokesman Michael McCurry said. </P>
+<P> ``Aircraft hijacking is a grave terrorist crime which is outlawed under international law and for which there can be no justification whatsoever,'' the statement added. </P>
+<P> French anti-terrorist police stormed the airliner at Marseille, killing all four Islamic fundamentalist hostage-takers and saving the lives of some 170 passengers and crew. The airliner had been seized in Algiers and forced to fly to France. The gunmen killed three hostages earlier in Algiers. </P>
+</TEXT>
+</DOC>

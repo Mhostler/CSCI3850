@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU002-0428.950503</DOCID>
+<TDTID>TDT013397</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 17:50</DATE>
+<TITLE> Poll says people back continued road safety rules</TITLE>
+<HEADLINE> Poll says people back continued road safety rules</HEADLINE>
+<SUBJECT> BC-REGULATIONS-SAFETY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Americans strongly support continued highway safety laws in the face of Republican moves to repeal or weaken them, according to a survey released Wednesday by Advocates for Highway and Auto Safety. </P>
+<P> ``The survey shows that Americans strongly support these common sense laws for the common good, and they want a strong government role in setting safety standards,'' said Judith Lee Stone, president of the coalition of consumer and safety groups and insurance companies and agents. </P>
+<P> Congress is considering bills that would repeal a federal laws that encourage states to pass motorcyle helmet and car safety belt laws as conditions for federal highway aid. </P>
+<P> It is also weighing easing other federal laws mandating state and local safety regulations. </P>
+<P> The survey of 1,000 people by Mckeon and Associates, Joliet, Illinois, said 82.6 percent of people polled backed a strong federal role in setting car safety standards, 13.48 percent were against and 3.92 percent did not know. </P>
+<P> It also found that 76.20 percent opposed weakening or repeal of safety belt laws, 79.2 percent opposed repeal of motorcycle helmet laws and 64.2 percent opposed raising the speed limit to above 65 miles per hour on highspeed roads. </P>
+<P> The coalition said the survey's margin for error was plus or minus 3.8 percent. </P>
+</TEXT>
+</DOC>

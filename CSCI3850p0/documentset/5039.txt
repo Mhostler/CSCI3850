@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0215.950320</DOCID>
+<TDTID>TDT011479</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/20/95 14:39</DATE>
+<TITLE> Clinton backs Turkish move against Kurd faction</TITLE>
+<HEADLINE> Clinton backs Turkish move against Kurd faction</HEADLINE>
+<SUBJECT> BC-TURKEY-IRAQ-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton tacitly endorsed a Turkish thrust against Kurdish rebels in northern Iraq Monday after receiving assurances from Prime Minister Tansu Ciller that the military operation would be limited. </P>
+<P> Ciller briefed Clinton on the action during a 10-minute telephone call, and White House spokesman Mike McCurry said the president expressed ``understanding for Turkey's need to deal decisively'' with the rebel Kurdistan Workers Party (PKK). </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0378.941223</DOCID>
+<TDTID>TDT008379</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/23/94 07:03</DATE>
+<TITLE> Russia puts troop death toll in Chechnya at 44</TITLE>
+<HEADLINE> Russia puts troop death toll in Chechnya at 44</HEADLINE>
+<SUBJECT> BC-RUSSIA-CHECHNYA-CASUALTIES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  A total of 44 Russian soldiers have been killed since the start of the military intervention in rebel Chechnya, Interfax news agency said Friday, quoting official figures. </P>
+<P> The agency, giving figures issued at a meeting of state and government officials presided over by First Deputy Prime Minister Oleg Soskovets, said 116 soldiers and officers had been wounded since the operation was launched Dec. 11. </P>
+<P> It gave no figures for the estimated number of Chechen separatist fighters or civilians killed in the incursion which is aimed at ending the North Caucasus territory's bid for independence. </P>
+<P> Eyewitnesses said at least 20 civilians were killed Thursday when jets launched missile and bomb strikes on the Chechen capital of Grozny. </P>
+</TEXT>
+</DOC>

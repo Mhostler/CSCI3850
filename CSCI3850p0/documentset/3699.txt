@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU004-0360.950111</DOCID>
+<TDTID>TDT009164</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/11/95 04:02</DATE>
+<TITLE> Quake of 5.3 on Richter scale hits northern Japan</TITLE>
+<HEADLINE> Quake of 5.3 on Richter scale hits northern Japan</HEADLINE>
+<SUBJECT> BC-QUAKE-JAPAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  An earthquake measuring 5.3 on the open-ended Richter scale shook northern Japan Wednesday, the country's Meteorological Agency said. </P>
+<P> The tremor, which struck at around 4:48 p.m. (3:38 a.m. EST), was an aftershock from a more powerful earthquake which jolted the Pacific coast of northern Japan Dec. 28, killing three people and injuring more than 200, the agency said. </P>
+<P> Wednesday's quake rocked Japan's northern island of Hokkaido and the northern part of Honshu, the country's main island. There were no initial reports of damage and no tidal wave warning was issued, the agency said. </P>
+</TEXT>
+</DOC>

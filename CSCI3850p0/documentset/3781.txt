@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU006-0385.950115</DOCID>
+<TDTID>TDT009321</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/15/95 14:34</DATE>
+<TITLE> Mexican government, rebels meet in search of peace</TITLE>
+<HEADLINE> Mexican government, rebels meet in search of peace</HEADLINE>
+<SUBJECT> BC-MEXICO-CHIAPAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN CRISTOBAL DE LAS CASAS, Mexico (Reuter) </DATELINE>
+<P>  Representatives of Mexico's new government and Maya Indian rebels met for the first time Sunday in an effort to end a year-old uprising in the southern state of Chiapas. </P>
+<P> Interior Minister Esteban Moctezuma led a three-man government team in the meeting with guerrilla chiefs of the Zapatista National Liberation Army at a secret location in the rebel-held Lacandon Jungle. </P>
+<P> Both the Interior Ministry and Zapatista leaders said in statements released to reporters here that the meeting was aimed at clearing the way for full-blown peace negotiations. </P>
+<P> ``The only issue on the agenda for this first meeting is to discuss and agree measures to reduce the belligerent atmophere and cut the danger of armed clashes between both armies, with the aim of easing the atmosphere of imminent war,'' the Zapatistas said. </P>
+<P> The Interior Ministry said Moctezuma was going into the meeting with an open mind and that the government of President Ernesto Zedillo was committed to finding a peaceful solution to the rebellion which began on New Year's Day last year. At least 145 people were killed in the first days of the uprising, but not a single shot has been fired since mid-January 1994. </P>
+<P> Sunday's meeting is the first between both sides since Zedillo took office Dec. 1. </P>
+<P> The only round of peace talks with the previous government of Carlos Salinas de Gortari ended last March with a preliminary accord to push through sweeping judicial reforms in Chiapas and heavy investment in its indigenous communities. </P>
+<P> But Zapatista rank-and-file fighters, who took up arms demanding greater democracy at a national level and autonomy for all Mxico's indigenous peoples, later rejected the deal as insufficient. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0201.941110</DOCID>
+<TDTID>TDT006327</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/10/94 07:31</DATE>
+<TITLE> Human smuggling ring cracked in HK, New York</TITLE>
+<HEADLINE> Human smuggling ring cracked in HK, New York</HEADLINE>
+<SUBJECT> BC-HONGKONG-USA-SNAKEHEADS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HONG KONG (Reuter) </DATELINE>
+<P>  Immigration officers in Hong Kong and the United States broke up a human smuggling ring Thursday in coordinated raids in the British colony and New York. </P>
+<P> A Hong Kong immigration department spokesman said an early morning raid on three apartments in Kowloon district caught three ``snakeheads'' -- the nickname for smugglers who specialize in spiriting people out of China -- and 10 mainland Chinese holding false papers supplied by the snakeheads for entry to the United States. </P>
+<P> New York police picked up 14 people, the Hong Kong immigration officer said, but would not elaborate. </P>
+<P> The mainland Chinese entered Hong Kong on visitors' visas and obtained false papers and flights to the United States from members of the syndicate in Hong Kong. </P>
+<P> Ordinary Chinese promise to pay hundreds of thousands of dollars to buy their way into the United States. Many disappear into Chinatowns to work as semi-indentured laborers in restaurants or factory sweatshops to repay the debt. </P>
+</TEXT>
+</DOC>

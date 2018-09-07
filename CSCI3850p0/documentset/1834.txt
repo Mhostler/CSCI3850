@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU003-0343.941006</DOCID>
+<TDTID>TDT004550</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/06/94 14:40</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CHINA-USA -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The officials said Perry would meet senior Chinese defense and other leaders to discuss a wide range of issues including security and stability in Asia and the western Pacific. </P>
+<P> U.S.-Chinese relations have grown warmer this year, especially after President Clinton ended the linkage between U.S. trade benefits and China's human rights record and renewed China's most favored nation trading status in May. </P>
+<P> Peter Tarnoff, U.S. undersecretary of state for political affairs, visited China this month and Commerce Secretary Ron Brown also made a trip there resulting in billions of dollars of potential new contracts for U.S. businesses. </P>
+<P> Secretary of State Warren Christopher announced Tuesday that the United States would lift trade sanctions imposed on China because of its alleged transfers of missile technology to Pakistan. In exchange, Christopher said, China agreed not to export ground-to-ground missiles capable of sending a 1,000-pound payload 186 miles. </P>
+<P> The sanctions on China were imposed in August 1993 when the United States determined that China had sent Pakistan components and technology sufficient to assemble M-11 missiles in violation of the global Missile Technology Control Regime. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0082.941228</DOCID>
+<TDTID>TDT008539</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/28/94 01:28</DATE>
+<TITLE> Mexico government, Chiapas rebels closer to talks</TITLE>
+<HEADLINE> Mexico government, Chiapas rebels closer to talks</HEADLINE>
+<SUBJECT> BC-MEXICO-CHIAPAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  The Mexican government and indigenous rebels moved to reduce tensions in Chiapas state late Tuesday, with the rebels welcoming government efforts at dialogue and President Ernesto Zedillo ordering some troops out. </P>
+<P> The rebels of the self-styled Zapatista National Liberation Army said in a statemement that they ``saluted'' the government's acceptance of a civic group led by a Roman Catholic bishop to mediate between the two sides. </P>
+<P> The Interior Ministry said in response that the governent saw ``encouraging signs'' in the rebel statement. </P>
+<P> ``The President of the Republic has given instructions to the Defense Ministry to withdraw its troops and end its operations in the towns of San Quintin and Monte Libano ... This is another example of the willingness of President Zedillo to find paths to build a just and lasting peace,'' the Interior Ministry said. </P>
+<P> The two towns on the edge of the Lacandon jungle in eastern Chiapas are very close to the rebels' stronghold. Military operations there in recent days had been decried as provocative by the rebels and by critics of the army. </P>
+<P> The rebels also said they recognized the Interior Ministry as a valid representative in any future contacts between the two sides via the National Mediation Commission, headed by Chiapas Bishop Samuel Ruiz. </P>
+<P> Ruiz, a fierce defender of indigenous rights, has been staging a hunger strike for the last week to push for new talks. </P>
+<P> The Zapatista rebels, who rose up in arms last Jan. 1 to demand greater democracy and respect for indigenous rights, last week broke through a military cordon around their stronghold and took over roads and towns in other parts of the southern state. The government sent in armed police and troops to patrol highways in response. </P>
+<P> Although neither side has fired a shot since a Jan. 12 cease-fire, the latest movements by either side have led to concerns that more fighting was on the way. </P>
+<P> The Mexican currency has been badly hit by political uncertainty sparked by the Chiapas situation as well as more general concerns about the health of the economy. The government devalued and then floated the new peso against the dollar last week and the currency continues to slide. </P>
+</TEXT>
+</DOC>

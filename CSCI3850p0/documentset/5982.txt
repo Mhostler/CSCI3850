@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU014-0390.950424</DOCID>
+<TDTID>TDT012950</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 08:43</DATE>
+<TITLE> Slovak police say siezed material is uranium-238</TITLE>
+<HEADLINE> Slovak police say siezed material is uranium-238</HEADLINE>
+<SUBJECT> BC-NUCLEAR-SLOVAKIA-URANIUM </SUBJECT>
+<AUTHOR>     By Chris Sulavik </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRATISLAVA, Slovakia (Reuter) </DATELINE>
+<P>  Radioactive material seized in Slovakia last week was mostly uranium-238, police said on Monday. U-238 is garden-variety uranium, without the radioactive potential needed to make nuclear bombs. </P>
+<P> But senior Slovak police officer Ivan Simovcek told a news conference that experts had not yet measured the exact level of enrichment in the 15.5 pounds of the material. </P>
+<P> ``Right now, we can't say what the enrichment level is, and we're not sure when the results will be ready,'' Simovcek said. </P>
+<P> Weapon-grade uranium is produced by removing most of the U-238 from natural uranium, leaving behind an enriched level of the unstable isotope uranium-235. </P>
+<P> Police began a sting operation April 13, tracking a passenger car after it entered Slovakia from Ukraine. </P>
+<P> They stopped the car and detained nine people from the Ukraine, Hungary and Slovakia in a series of raids on April 19. </P>
+<P> Police said the car was bound for Hungary, but the final destination for the material was not yet known. </P>
+<P> The nine arrested were ``private businessmen'' who had never worked in a nuclear facility, Simovcek said. </P>
+<P> Police found the material, the largest seizure made in Slovakia, in a container hidden in a car driven by two Hungarians which was stopped near the town of Poprad in the east of the country. </P>
+<P> Slovak authorities worked with Interpol and the U.S. Federal Bureau of Investigation, to break an international drug ring which which planned the run, Simovcek said. </P>
+<P> He added that Slovak police had known about the smuggling plan ``for about a year.'' </P>
+<P> The capture adds to the belief that the former Czechoslovakia has become a corridor for trafficking in nuclear material. </P>
+<P> ``We know that Slovakia has been used as a transit route for uranium for at least the last two years,'' Simovcek said. </P>
+<P> Czech police last year seized six pounds of material in which the uranium 235 had been enriched to 87.7 percent -- just below the 90 percent level sought by bombmakers. </P>
+</TEXT>
+</DOC>

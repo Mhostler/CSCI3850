@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU012-0311.941127</DOCID>
+<TDTID>TDT007078</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/27/94 19:17</DATE>
+<TITLE> Uruguay's election too close to call</TITLE>
+<HEADLINE> Uruguay's election too close to call</HEADLINE>
+<SUBJECT> BC-URUGUAY </SUBJECT>
+<AUTHOR>     By Roy Berocay </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MONTEVIDEO, Uruguay (Reuter) </DATELINE>
+<P>  Polls closed Sunday after the most closely-fought presidential election in Uruguay's 166-year history, with no indication of which of the three main parties would win. </P>
+<P> South America's smallest country after Surinam and wedged into the Atlantic coast between Argentina and Brazil, Uruguay has 2.3 million registered voters -- and every vote counted in Sunday's three-way dead-heat. </P>
+<P> After the polls closed at 7:30 p.m. (5:30 p.m. EST) officials put the turnout at nearly 90 percent. Exit polls were tentative and official results were expected to start trickling in later in the evening. </P>
+<P> The three parties vying for the presidency were at most 1.6 points apart in opinion polls, with 28.6 percent for the ruling centrist National Party, 28.4 percent for the rival centrist Colorado Party and 27 percent for the center-left Progressive Gathering. </P>
+<P> Under Uruguay's complex electoral laws, each party can field as many presidential candidates as it wants. The center-left alliance had only one, but the National Party and the Colorados had three each. </P>
+<P> The winner will succeed President Luis Alberto Lacalle, whose efforts to push his country aboard Latin America's free-markets bandwagon were defeated by a 1992 referendum that showed most Uruguayans opposed economic liberalism. </P>
+<P> His National Party's top contender was Alberto Volonte, 55, a free-market businessman and a newcomer to politics who struck a populist note in his campaign. </P>
+<P> Former president Julio Sanguinetti, 58, and the first elected leader after the military held elections in 1984, was running again for the Colorado Party. He describes himself as a social democrat but lashes out at the left in his speeches. </P>
+<P> Tabare Vazquez, a 54-year-old socialist doctor who served as mayor of the capital Montevideo until this year, was the Progressive Gathering's candidate. </P>
+<P> Voters choose an individual candidate. Votes for all contenders in each party are added up and the winner is the one who reaps most votes inside the winning party. </P>
+<P> Also at stake in the election were 600 mayoral and other seats. Voters were simultaneously deciding in two plebiscites whether to preserve forever Uruguay's current state-run pensions system and whether to enshrine in the constitution a clause mandating 27 percent of the budget to be spent on education. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU005-0264.940810</DOCID>
+<TDTID>TDT001720</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/10/94 21:44</DATE>
+<TITLE> JAPAN SEEKS $803 MILLION IN U.S. MILITARY HARDWARE</TITLE>
+<HEADLINE> JAPAN SEEKS $803 MILLION IN U.S. MILITARY HARDWARE</HEADLINE>
+<SUBJECT> BC-JAPAN-USA-DEFENSE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON, (Reuter) </DATELINE>
+<P>  Japan is preparing to buy $803 million in U.S. military weaponary, including two airborne warning radar systems made by Boeing Co, the Defense Department said Wednesday. </P>
+<P> The purchases are part of Tokyo's ongoing effort to improve its watch over air and sea lanes around and approaching the Pacific nation, the Pentagon said in brief notices to Congress. </P>
+<P> The packages would include two airborne early warning systems built by Boeing at a total estimated cost of $547 million. The sophisticated radar equipment would be installed in two Boeing 767 AWACS aircraft which have already been commercially procured by Japan. </P>
+<P> Japan previously bought two other sets of airborne warning equipment and needs the two additional sets to continue development of an extended airborne warning system, according to the Pentagon. </P>
+<P> In addition to the airborne systems, Japan has also asked to buy $122 million in warship defense systems built by General Dynamics Corp, Martin-Marietta Corp and FMC Corp. </P>
+<P> They include two Phalanx rapid-fire defense guns, two guided missile vertical-launching systems, engineering, ammunition and other equipment. </P>
+<P> A third military purchase by Japan would include $134 million in vertical-launch anti-submarine rockets, Navy standard missiles and Harpoon anti-ship missiles. The equipment is built by Loral Systems Inc, Hughes Missile Systems division of General Motors Corp and McDonnell Douglas Corp. </P>
+</TEXT>
+</DOC>

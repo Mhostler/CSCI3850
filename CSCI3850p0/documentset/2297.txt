@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0372.941029</DOCID>
+<TDTID>TDT005750</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/29/94 13:27</DATE>
+<TITLE> Leftists battle police outside rightist magazine</TITLE>
+<HEADLINE> Leftists battle police outside rightist magazine</HEADLINE>
+<SUBJECT> BC-GERMANY-CLASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>POTSDAM, Germany (Reuter) </DATELINE>
+<P>  Leftist militants clashed with police Saturday during a protest rally against one of Germany's leading right-wing magazines. </P>
+<P> Witnesses said masked protesters clad in the trademark black of Germany's militant anarchists attacked police near the editorial office of the weekly ``Junge Freiheit'' (Young Freedom). </P>
+<P> The anarchists were among a crowd of several hundred demonstrators called out by a leftist anti-racism group in neighboring Berlin. </P>
+<P> The magazine is run by young German nationalists who say they are promoting a conservative revival. </P>
+</TEXT>
+</DOC>

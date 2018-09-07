@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU011-0295.950419</DOCID>
+<TDTID>TDT012722</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/19/95 10:40</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-USA-BLAST -2 NEW YORK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> A witness told the KFOR television station it was ``unlikely anyone could survive'' if they were in the building. </P>
+<P> ``It shook the bridge I was on... I knew there had been a major explosion,'' Dan Vogel, an FBI spokesman told CNN. </P>
+<P> He said the Federal Bureau of Investigation was sending bomb squad agents to the scene. </P>
+</TEXT>
+</DOC>

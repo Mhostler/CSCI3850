@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU013-0197.941129</DOCID>
+<TDTID>TDT007181</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/29/94 15:35</DATE>
+<TITLE> Liberia peace talks break down</TITLE>
+<HEADLINE> Liberia peace talks break down</HEADLINE>
+<SUBJECT> BC-LIBERIA-TALKS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ACCRA, Ghana (Reuter) </DATELINE>
+<P>  Liberian peace talks in Ghana's capital Accra broke down Tuesday when warring factions failed to agree on the makeup of a new ruling council, delegates said. </P>
+<P> The talks had been adjourned indefinitely and militia leaders would return to Monrovia for consultations, they added. </P>
+<P> Fighting is continuing in Liberia, where the Catholic Mission appealed Tuesday for help for 100 handicapped and orphaned children trapped in the southeastern town of Harper. </P>
+<P> This was the third round of talks to try to rescue the Akosombo accord, signed Sept. 12 but never implemented. </P>
+<P> Akosombo - named after the town in Ghana where it was signed - was designed to end almost five years of civil war and allow elections by next October. </P>
+<P> Under proposals put before the talks, the five-member ruling council would be made up of representatives of Charles Taylor's National Patriotic Front of Liberia, the rival ULIMO militia, the civilian Liberian National Conference, and a fourth member named by a coalition of four other militias. </P>
+<P> The three militia factions that signed the Akosombo accord in September -- Taylor's group, ULIMO and the Armed Forces of Liberia, the former national army -- would form a committee to choose a fifth member to represent civilians living abroad. </P>
+<P> Taylor, who launched the civil war, did not attend the Accra talks and sent representatives. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0178.950503</DOCID>
+<TDTID>TDT013368</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 03:53</DATE>
+<TITLE> Kuwait parliament bans cigarette advertising</TITLE>
+<HEADLINE> Kuwait parliament bans cigarette advertising</HEADLINE>
+<SUBJECT> BC-KUWAIT-SMOKING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KUWAIT, May 3 (Reuter) </DATELINE>
+<P>  Kuwait's parliament has voted to ban cigarette advertising and smoking in some public places in one of the toughest moves in the Arab world to curb tobacco use, newspapers reported on Wednesday. </P>
+<P> A bill passed on Tuesday also bans smoking by anyone driving a vehicle or preparing food for sale, the sale of cigarettes to anyone under 21 and the advertisement of any tobacco product in local media, the emirate's six dailies reported. </P>
+<P> They said Health Minister Abdul-Rahman al-Mheilan would shortly name places where smoking would be banned, expected to include all government offices, schools and libraries. </P>
+<P> Smoking is already banned in hospitals and clinics. </P>
+<P> Smokers breaking the ban and firms advertising a tobacco product would be fined 50 dinars ($170), to be doubled for repeat offenders. </P>
+<P> The legislation must be ratified by the emir Sheikh Jaber al-Ahmad al-Sabah, a process which takes several weeks. </P>
+<P> But parliament speaker Ahmad al-Saadoun banned smoking in the chamber from May 9. </P>
+<P> An explanatory note to the bill said smoking was a major cause of harm to health. Members of parliament said they were worried that smoking might become widespread among children. </P>
+</TEXT>
+</DOC>

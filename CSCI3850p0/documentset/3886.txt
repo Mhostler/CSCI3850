@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU010-0082.950122</DOCID>
+<TDTID>TDT009631</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/22/95 19:20</DATE>
+<TITLE> Rose Kennedy reported dead at 103 -- CNN</TITLE>
+<HEADLINE> Rose Kennedy reported dead at 103 -- CNN</HEADLINE>
+<SUBJECT> BC-KENNEDY-ROSE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Rose Kennedy, the matriarch of the political dynasty who lost two of her sons to assassins' bullets during the 1960s, died Sunday at the age of 104, CNN reported. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0027.940711</DOCID>
+<TDTID>TDT000382</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/11/94 12:51</DATE>
+<TITLE> ZAIRE OPPOSITION SAYS TSHISEKEDI ATTACKED</TITLE>
+<HEADLINE> ZAIRE OPPOSITION SAYS TSHISEKEDI ATTACKED</HEADLINE>
+<SUBJECT> BC-ZAIRE-ATTACK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KINSHASA, Zaire (Reuter) </DATELINE>
+<P>  About 30 Zairean police attacked the home of opposition leader Etienne Tshisekedi in an assassination attempt Monday but he was unhurt, his spokesman Lambert Mende said. </P>
+<P> Mende said the police drove up to Tshisekedi's house in the Limete suburb of Kinshasa in three vehicles. They forced the door, threw in tear gas grenades and a live grenade, then fired bullets through his office window. ``It was an assassination attempt,'' Mende said. </P>
+<P> Mende said a member of Tshisekedi's UPDS party was shot and wounded in the attack but Tshisekedi was unhurt. </P>
+<P> He said Tshisekedi came out of his office, confronted the police and they fled, taking away Tshisekedi's deputy personal secretary and the wounded man. </P>
+<P> Zaire's new centrist Prime Minister Kengo Wa Dondo presented his program Saturday, promising to rein in government spending and bring the armed forces into line. </P>
+<P> Tshisekedi, who says he is the rightful premier, has denounced Kengo's election as unconstitutional. </P>
+</TEXT>
+</DOC>

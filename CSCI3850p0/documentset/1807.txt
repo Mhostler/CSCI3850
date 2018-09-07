@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU002-0326.941004</DOCID>
+<TDTID>TDT004463</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/04/94 14:50</DATE>
+<TITLE> Paramilitary group says it backs return of Aristide</TITLE>
+<HEADLINE> Paramilitary group says it backs return of Aristide</HEADLINE>
+<SUBJECT> BC-HAITI-FRAPH-CONSTANT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORT-AU-PRINCE (Reuter) </DATELINE>
+<P>  The leader of Haiti's main paramilitary group called on his followers Tuesday to lay down their weapons and said he supported a peaceful transition to democratic and the return of deposed President Jean-Bertrand Aristide. </P>
+<P> ``I'm asking everybody to put down the tires, put down the stones and put down the guns,'' Emmanuel Constant, head of the feared Front for the Advancement and Progress of Haiti (FRAPH), told a news conference. ``In front of God and my country, if Aristide returns ... I pledge to work as a member of a loyal opposition.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU001-0361.941003</DOCID>
+<TDTID>TDT004372</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 08:52</DATE>
+<TITLE> Climber sees husband's death fall through binoculars</TITLE>
+<HEADLINE> Climber sees husband's death fall through binoculars</HEADLINE>
+<SUBJECT> BC-AUSTRIA-CLIMBERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>INNSBRUCK, Austria (Reuter) </DATELINE>
+<P>  A woman with binoculars looked helplessly on as her 60-year-old husband plunged to his death over a cliff in the Austrian Tyrol Sunday. </P>
+<P> Elmar Koell, a native Tyrolean, was hunting on a mountain when he tripped and fell. His wife rushed to administer first aid but he was dead by the time a rescue helicopter arrived, the Austrian news agency APA reported. </P>
+<P> Koell was one of four climbers killed over the weekend in Tyrol. Two Germans roped together plunged 1,000 feet to the rocks below, and in a separate incident a man from Munich lost his balance on a cliff-edge in the Kaiser range, falling fatally as his son and two friends watched. </P>
+</TEXT>
+</DOC>

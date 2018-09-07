@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0009.941128</DOCID>
+<TDTID>TDT007140</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/28/94 18:01</DATE>
+<TITLE> Clinton directs damages assessed from Tenn. storm</TITLE>
+<HEADLINE> Clinton directs damages assessed from Tenn. storm</HEADLINE>
+<SUBJECT> BC-WEATHER-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton has directed the Federal Emergency Management Agency to work closely with the state of Tennessee as it recovers from killer tornadoes that swept the western section of the state, Vice President Al Gore said Monday. </P>
+<P> Gore, a Tennessean, said six tornadoes killed at least three people Sunday, destroyed dozens of homes and buildings and damaged many others. </P>
+<P> In a statement, Gore said that because of the magnitude of the damage, Clinton had directed FEMA head James Lee Witt to work with Tennessee to assess damages and help develop a recovery strategy. </P>
+<P> He said both he and his wife Tipper, along with Clinton and Hillary Rodham Clinton, were extending their thoughts and prayers to the victims and their families. </P>
+</TEXT>
+</DOC>

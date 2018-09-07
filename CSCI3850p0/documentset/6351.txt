@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU005-0128.950507</DOCID>
+<TDTID>TDT013538</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/07/95 14:36</DATE>
+<TITLE> Jospin concedes defeat in French election</TITLE>
+<HEADLINE> Jospin concedes defeat in French election</HEADLINE>
+<SUBJECT> BC-FRANCE-CONCEDE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Socialist candidate Lionel Jospin conceded defeat in the French presidential election Sunday and congratulated his successful conservative opponent Jacques Chirac in a televised statement. </P>
+</TEXT>
+</DOC>

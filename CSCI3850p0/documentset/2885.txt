@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0095.941129</DOCID>
+<TDTID>TDT007158</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/29/94 03:10</DATE>
+<TITLE> Landmine kills seven policemen in India</TITLE>
+<HEADLINE> Landmine kills seven policemen in India</HEADLINE>
+<SUBJECT> BC-INDIA-MAOISTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, India (Reuter) </DATELINE>
+<P>  Seven policemen and two civilians were killed in a land-mine blast believed to have been triggered by Maoists in southern India Tuesday, the Press Trust of India (PTI) said. </P>
+<P> The blast occurred in a village in the Warangal district of the state of Andhra Pradesh, which votes Dec. 1 and 6 for a new state assembly, it said. </P>
+<P> The Press Trust of India said the People's War Group, which has threatened to disrupt the election, was believed responsible for the blast. </P>
+<P> Twelve people were injured, five seriously, in the explosion, which hit a truck in which they were traveling, the United News of India said. </P>
+<P> The Maoist group was also blamed for a mine attack on a vehicle which killed 13 police commandos in the state Saturday. </P>
+</TEXT>
+</DOC>

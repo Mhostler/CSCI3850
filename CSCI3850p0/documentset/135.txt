@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0020.940709</DOCID>
+<TDTID>TDT000307</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/09/94 00:35</DATE>
+<TITLE> CHINA FLOOD TOLL TOPS 1,400</TITLE>
+<HEADLINE> CHINA FLOOD TOLL TOPS 1,400</HEADLINE>
+<SUBJECT> BC-CHINA-FLOODS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  Fierce flooding in south China since May has killed at least 1,410 people and caused more than $6 billion in economic losses, the official China Daily said Saturday. </P>
+<P> Heavy storms and floods have flattened more than 1.18 million homes and affected 85 million people in Guangdong, Guangxi, Hunan, Jiangxi, Zhejiang and Fujian provinces, it said. </P>
+<P> By the end of June, more than 12.8 million acres of farmland were flooded. </P>
+<P> The State Flood Control Headquarters has warned all provinces and cities to guard against further flooding, the newspaper said. </P>
+<P> Heavy downpours from the latest tropical storm to batter coastal Guangdong province caused river banks to burst and flooded the cities of Yangjiang and Maoming for the second time in a month. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0083.940903</DOCID>
+<TDTID>TDT002854</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/03/94 18:18</DATE>
+<TITLE> Freed Palestinian prisoners vow to wreck peace</TITLE>
+<HEADLINE> Freed Palestinian prisoners vow to wreck peace</HEADLINE>
+<SUBJECT> BC-MIDEAST-PRISONERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERICHO (Reuter) </DATELINE>
+<P>  More than 400 Palestinian security prisoners confined by Israel to the Jericho self-rule area blocked the main road outside the town on Saturday night, warning they could wreck the peace process. </P>
+<P> The protesters, demanding that Israel release thousands of other prisoners who remain in its jails and allow them to return to their homes in the West Bank, lay on mattresses on the road and burned tires, causing several fires. </P>
+<P> Israeli soldiers and Palestinian police began negotiating with them to return to Jericho, but they refused to budge. </P>
+<P> ``The prisoners are ready to torpedo the peace process in its entirety,'' said Zakariya al-Zubeidi of Jenin in the West Bank. ``We want the release of our brothers still in prison.'' </P>
+<P> He added: ``Life here is horrible. The Palestinian police have been treating the prisoners badly. We want to go home.'' </P>
+<P> After last September's Israel-PLO peace deal went into effect in May, Israel forced prisoners into the Palestinian self-rule areas of the Gaza Strip and Jericho, not allowing those who lived elsewhere in the West Bank to return home. </P>
+</TEXT>
+</DOC>

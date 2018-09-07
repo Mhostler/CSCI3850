@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0458.950326</DOCID>
+<TDTID>TDT011745</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/26/95 09:46</DATE>
+<TITLE> At least three killed in Turkish mine blast</TITLE>
+<HEADLINE> At least three killed in Turkish mine blast</HEADLINE>
+<SUBJECT> BC-TURKEY-MINE 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Updates with death toll, adds details)</NOTES>
+<DATELINE>ANKARA, Turkey (Reuter) </DATELINE>
+<P>  At least three people were killed and up to 40 trapped after an explosion Sunday in a mine at the central Turkish town of Sorgun. </P>
+<P> A mine official told Reuters by telephone: ``We have taken out three bodies. We fear somewhere between 25 to 40 workers may be trapped in the pit.'' </P>
+<P> A local police official said six people were rescued with injuries, two of them seriously. </P>
+<P> ``Rescue teams are here and they have started working. We are awaiting heavy rescue equipment to arrive from a nearby town and hope to reach the trapped miners by midnight,'' the mine official said. </P>
+<P> The mine is owned by a private company and employes 200 workers in all. </P>
+</TEXT>
+</DOC>

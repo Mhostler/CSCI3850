@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0210.941021</DOCID>
+<TDTID>TDT005382</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/21/94 00:55</DATE>
+<TITLE> Clinton team to be shrewder on health care-paper</TITLE>
+<HEADLINE> Clinton team to be shrewder on health care-paper</HEADLINE>
+<SUBJECT> BC-HEALTH-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Clinton administration will be ''shrewder and more strategic'' in recommending changes to the U.S. health care system next year, the Washington Post quoted Health Secretary Donna Shalala as saying. </P>
+<P> In its Friday editions, the newspaper quoted Shalala as saying President Clinton remained committed to expanding coverage for the uninsured but had made no decisions on what to propose next year. </P>
+<P> Shalala said the 1994 battle over health care had made it clear that the American public was opposed to a general overhaul of the whole system. </P>
+<P> ``The administration is not going to present such a big target again, but rather, will consider 'how much to bite off''', Shalala said, according to the newspaper. </P>
+<P> Shalala said the basic work on the administration's revamped health reform strategy had been completed, but the National Domestic and Economic Policy councils were now drafting a financial and political strategy. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0285.940725</DOCID>
+<TDTID>TDT001033</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/25/94 22:45</DATE>
+<TITLE> QUAKE SHAKES BUILDINGS IN SOUTH KOREA</TITLE>
+<HEADLINE> QUAKE SHAKES BUILDINGS IN SOUTH KOREA</HEADLINE>
+<SUBJECT> BC-QUAKE-KOREA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL (Reuter) </DATELINE>
+<P>  An earthquake measuring 4.9 on the Richter scale shook buildings and rattled windows in South Korea early Tuesday. </P>
+<P> The Meteorological Office said the quake began at 2:41 a.m. Tuesday (2:41 p.m. EDT Monday). Its epicenter was in the Yellow Sea southwest of Seoul and about 60 miles northwest of Hongdo Island. </P>
+<P> There were no reports of damage or casualties. </P>
+<P> In the areas closest to the epicenter, near Mokpo City in the southwest, buildings shook slightly, windows rattled and hanging objects swayed, the Yonhap domestic news agency reported. Lesser tremors could be felt in tall apartment buildings in Seoul and elsewhere. </P>
+<P> Yonhap said the quake was the second-largest recorded in South Korea and the sixth this year. </P>
+<P> The Meteorological Office said the quake, whose tremors lasted some five minutes, could have caused major damage if it had occurred inland. </P>
+</TEXT>
+</DOC>

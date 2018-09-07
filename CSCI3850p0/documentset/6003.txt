@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU015-0124.950424</DOCID>
+<TDTID>TDT012990</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 17:09</DATE>
+<TITLE> U.S. diplomats making first visit to Chechnya</TITLE>
+<HEADLINE> U.S. diplomats making first visit to Chechnya</HEADLINE>
+<SUBJECT> BC-CIS-CHECHNYA-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States, breaking with past practice, has sent two diplomats from Moscow to Chechnya to look for missing American disaster relief expert Frederick Cuny, U.S. officials said Monday. </P>
+<P> No U.S. officials have been to Chechnya since Russia launched an attack on the separatist region Dec. 11. The operation, which is still continuing, has been sharply criticized by Washington. </P>
+<P> But State Department spokesman Nicholas Burns said last week it had been decided to change the policy because of concern for Cuny, who was last heard from April 9. </P>
+<P> State Department officials said Monday that by Sunday the two diplomats had reached the neighboring republic of Ingushetia on their way to Chechnya. ``Their mission is to find any lead that would lead to him (Cuny),'' one said. </P>
+<P> Cuny had been working for the Soros Foundation to set up a hospital in Dagestan, near Chechnya, and to bring humanitarian supplies to people left homeless by the war between Moscow and Chechen separatists. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU011-0158.940722</DOCID>
+<TDTID>TDT000909</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/22/94 14:04</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-ARGENTINA-EXPLOSION-TOLL -2 BUENOS AIRES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> At least 45 people are known to have died and rescue workers picking through the rubble of Monday's blast had filled nine bags with unidentified body parts by Friday. </P>
+<P> About 32 bodies have been identified and Jewish groups say the missing number 60 to 70 people who were in or near the Argentine Jewish center offices at the time of the blast. </P>
+<P> ``We don't expect anyone else to come out alive,'' Tenebaum said. He said the expected death toll of around 100 would make the attack the worst against a Jewish target outside Israel since the end of the Second World War. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU007-0413.940714</DOCID>
+<TDTID>TDT000566</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/14/94 17:11</DATE>
+<TITLE> WOODSTOCK ANNIVERSARY CONCERT EXPANDS TO THIRD DAY</TITLE>
+<HEADLINE> WOODSTOCK ANNIVERSARY CONCERT EXPANDS TO THIRD DAY</HEADLINE>
+<SUBJECT> BC-USA-WOODSTOCK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The 25th anniversary Woodstock concert, expected to attract 250,000 fans to an upstate New York town, has been expanded to include a third day, a spokeswoman for the organizers said. </P>
+<P> The spokeswoman for Woodstock '94 said that in addition to the planned appearances Saturday and Sunday, some bands, yet to be determined, would be playing on the 930-acre site Friday night. </P>
+<P> The concert, in Saugerties, 100 miles north of New York City, will cover a wide range of musical tastes ranging from Johnny Cash to the heavy metal group Metallica. </P>
+<P> But the event has drawn heavy criticism over its high-powered financing and commercialization that will be a far cry from the easy-going atmosphere at the original, which took place in Bethel, New York, 50 miles away. </P>
+<P> The producers say that the alcohol-free event with a host of corporate sponsors and ticket prices of $135 a person is the only way to conduct the affair given the realities of contemporary laws and the need for thorough planning. </P>
+</TEXT>
+</DOC>

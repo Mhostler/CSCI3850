@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU001-0215.950301</DOCID>
+<TDTID>TDT010915</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 17:10</DATE>
+<TITLE> Head of new-look Russian TV channel shot dead</TITLE>
+<HEADLINE> Head of new-look Russian TV channel shot dead</HEADLINE>
+<SUBJECT> BC-RUSSIA-TELEVISION 1STLD </SUBJECT>
+<AUTHOR>     By Nigel Stephenson </AUTHOR>
+<TEXT>
+<NOTES>(Adds details, background)</NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  One of Russia's most prominent television journalists was shot to death at the entrance to his Moscow apartment building Wednesday, Tass news agency reported. </P>
+<P> The man, Vladislav Listyev, was recently appointed to run new-look Public Russian Television which, with a potential audience in excess of 200 million people, will be one of the world's biggest channels. </P>
+<P> The motive for the killing was not immediately clear, but Public Russian Television board Chairman Alexander Yakovlev told Tass: ``We have got in somebody's way.'' </P>
+<P> Listyev was one of the journalists responsible for the hard-hitting ``Vzglyad'' (''Viewpoint'') current affairs program in the early days of glasnost, or openness, in the former Soviet Union. He later moved into independent production. </P>
+<P> He was killed at a time when the monolithic Russian government broadcasting system is undergoing radical change. </P>
+<P> Rival politicians and Russian banks and financial institutions are fighting for control of the media, particularly television, ahead of parliamentary elections in December and a presidential poll next year. </P>
+<P> President Boris Yeltsin issued a decree last November transforming the huge government-run Ostankino television network, which is seen in most republics of the former Soviet Union, into Public Russian Television. </P>
+<P> The state would retain a 51 percent stake, but the rest would be offered to private owners. </P>
+<P> Yakovlev told Tass when the decree was published he expected strong resistance to it from senior government officials. ``They would not be happy about losing the possibility of dictating their conditions to independent television,'' he said. </P>
+<P> Yeltsin earlier aroused a storm of protest when he said he was considering merging Ostankino and another state-run network, Russian Television. </P>
+<P> Journalists and several prominent public figures said such a merger would harm freedom of speech and leave Russian television at the mercy of bureaucrats. </P>
+</TEXT>
+</DOC>

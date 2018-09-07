@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU004-0383.950308</DOCID>
+<TDTID>TDT011098</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/08/95 19:05</DATE>
+<TITLE> Mexico's peso slides to new low against dollar</TITLE>
+<HEADLINE> Mexico's peso slides to new low against dollar</HEADLINE>
+<SUBJECT> BC-MEXICO-ECONOMY ISTLD </SUBJECT>
+<AUTHOR>     By Henry Tricks </AUTHOR>
+<TEXT>
+<NOTES>(Reledes w/peso hitting low, analyst's quotes, details)</NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Mexico's peso hit a historic closing low against the dollar Wednesday as investors despaired over the slow government response to the country's economic crisis and dollar debt payments loomed. </P>
+<P> Analysts said the lack of a concrete economic plan to back up $20 billion in U.S. aid to Mexico continues to rattle investors, sinking the peso and driving interest rates higher. </P>
+<P> In a shell-shocked market where dollars are like gold dust, modest demands by firms for the U.S. currency to make debt payments abroad are fanning fears that the private sector -- and even the government -- may be forced to default. </P>
+<P> ``The market is very thin, there are few dollars, and companies have to pay their debts,'' said Alejandro Mercado, market analyst at Banorte brokerage. </P>
+<P> The new peso, as the currency is officially called, sank 21 centavos to 7.02 per dollar, more than 50 percent below its level against the dollar when it first devalued Dec. 20. </P>
+<P> It was the first time it has closed below seven new pesos. </P>
+<P> The falling peso makes debt payments even more expensive, and analysts warned that the government may have a hard time servicing its debts in the next few months. </P>
+<P> According to Michael Pettis of the Weston Group, a New York investment bank, Mexico may need ready access to all of some $37.8 billion in U.S. and International Monetary Fund aid to meet the growing need for dollars between now and June 30. </P>
+<P> So far the funding is being made available in piecemeal fashion, which ``in a worst case scenario may push Mexico into a suspension of payments,'' he said, quoting a draft report being prepared by the bank. </P>
+<P> Pettis stressed, however, that likelihood of such a drastic step was low. He expected U.S. and IMF disbursements to be speeded up if Mexico got near to default. </P>
+<P> Throughout the week, Mexican markets have been in the grip of a deep malaise, with investors exasperated over the government's failure to announce new economic steps to stem the crisis. </P>
+<P> President Ernesto Zedillo promised to unveil new remedies after the Mexican Congress approved the $20 billion U.S. bailout effort. That approval came overnight, but there was still no word on the new plan. </P>
+<P> Delays in Zedillo's announcement hit the stock market, which fell 1.68 percent. </P>
+<P> Traders worried it showed Zedillo may be having trouble winning the support of both the business community, who have threatened to reject new austerityse above 50 percent in the weekly government securities auction, but demand remained limp as investors turned their backs on the lucrative returns. </P>
+<P> The 28-day interbank rate which is widely used to set interest rates throughout the economy rose more than eight percentage points to a crippling 74.6451 percent. </P>
+</TEXT>
+</DOC>

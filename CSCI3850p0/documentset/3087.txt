@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0222.941208</DOCID>
+<TDTID>TDT007635</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 15:48</DATE>
+<TITLE> Brazil troops find bodies in shanty-town drug hunt</TITLE>
+<HEADLINE> Brazil troops find bodies in shanty-town drug hunt</HEADLINE>
+<SUBJECT> BC-BRAZIL-RIO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RIO DE JANEIRO (Reuter) </DATELINE>
+<P>  Brazilian troops searching for drug traffickers in a Rio shanty-town have discovered decomposing remains of two people, one of them thought to be a child, a news agency reported Thursday. </P>
+<P> The remains were buried in a clearing on a hill close to the Gamba slum, one of nine shanty-towns under occupation by soldiers since early Wednesday, Estado news agency reported. </P>
+<P> Soldiers believe further bodies may be buried at the site, the agency said. </P>
+<P> Victims of fighting between drug gangs in Rio de Janeiro are sometimes buried in clandestine graves close to shanty-towns. </P>
+<P> Soldiers also discovered a sack of marijuana in a hut next to an area used for voodoo ceremonies and two machine guns and other firearms, Estado said. </P>
+<P> The military is in charge of a crackdown on drug crime and corruption in Rio. </P>
+</TEXT>
+</DOC>

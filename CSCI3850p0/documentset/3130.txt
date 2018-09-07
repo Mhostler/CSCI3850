@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU005-0267.941211</DOCID>
+<TDTID>TDT007754</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/11/94 15:29</DATE>
+<TITLE> Chile invited to join NAFTA</TITLE>
+<HEADLINE> Chile invited to join NAFTA</HEADLINE>
+<SUBJECT> BC-AMERICAS-CHILE 1STLD </SUBJECT>
+<AUTHOR>     By Michael Stott </AUTHOR>
+<TEXT>
+<NOTES>(Adds quotes, details, byline)</NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  Canada, Mexico and the United States invited Chile to join the North American Free Trade Agreement (NAFTA) Sunday, saying the South American country's pioneering free market reforms made it an ideal business partner. </P>
+<P> Leaders of the three NAFTA countries issued the invitation to Chilean President Eduardo Frei at a special ceremony after the closing session of the three-day Summit of the Americas in Miami. </P>
+<P> President Clinton said the invitation to Chile was proof that Western Hemisphere leaders intended to keep their summit promise of creating a giant trade zone stretching from Alaska to Argentina by the early years of the next century. </P>
+<P> Chile was ``a country like our three countries that has benefited from disciplined and responsible economic leadership'' Clinton said. ``Chile is an ideal partner.'' </P>
+<P> Canadian Prime Minister Jean Chretien said, smiling: ``For one year now, we have been the three amigos. Starting today, we will be the four amigos.'' He added that formal talks on taking Chile into NAFTA would begin no later than next May. </P>
+<P> Frei said Chile was proud to be invited, adding, ``We walk with confidence toward the future.'' </P>
+<P> His finance minister, Eduardo Aninat, told reporters he expected preliminary talks to start in January with formal negotiations in June. The whole process would take no more than 14 months, meaning Chile could enter NAFTA in late 1996. </P>
+<P> The first step will be taken next week when representatives of the three NAFTA nations meet behind closed doors to decide what form Chile's accession to the treaty should take. </P>
+<P> Aninat said he did not expect major problems with the U.S. Congress over ratification of Chile's entry because both Republican and Democratic politicians in Washington had pledged their support for the process in private talks. </P>
+<P> Political analysts say Chile, a small country of 13.3 million people which exports mainly copper, fruit, fish and wood, is seen as far less of a threat to American jobs than Mexico, with its rows of cheap-labor factories just across the border from the United States. </P>
+<P> Other Latin American nations waiting in the line for a free trade pact will be watching closely to see what kinds of economic conditions the NAFTA partners demand from Chile -- but they face other obstacles to accession. </P>
+<P> Chile's neighbor Argentina, which has radically overhauled its economy in the last five years, is eager to join NAFTA but is bound by the terms of a regional trade deal to make a joint approach to Washington along with Brazil, which is not enthusiastic about rapid moves to free trade. </P>
+<P> Colombia and Venezuela have also expressed interest, but Bogota's status as the region's leading drug producer and Venezuela's draconian imposition of currency controls this year would probably complicate any future negotiations substantially. </P>
+</TEXT>
+</DOC>

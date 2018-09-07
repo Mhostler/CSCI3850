@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU003-0018.950205</DOCID>
+<TDTID>TDT010105</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/05/95 13:49</DATE>
+<TITLE> Brazil police probe multi-million dollar scam</TITLE>
+<HEADLINE> Brazil police probe multi-million dollar scam</HEADLINE>
+<SUBJECT> BC-BRAZIL-CORRUPTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RIO DE JANEIRO (Reuter) </DATELINE>
+<P>  Police are investigating a top Brazilian construction company on suspicion it illegally deposited hundreds of millions of dollars in front companies around the world, a Brazilian news magazine said Sunday. </P>
+<P> Veja magazine said police have evidence that OAS, which specialises in government contracts, owns around $170 million in holdings outside Brazil. In its most recent tax declarations the company admitted to foreign holdings of only $48 million, Veja said. </P>
+<P> In Britain, private detectives who shadowed the activities of a London-based accountant handling OAS' foreign holdings, also discovered that $1 million of OAS funds were deposited into a New York bank account controlled by an aide of disgraced former Brazilian President Fernando Collor, Veja said. </P>
+<P> The aide, Paulo Cesar Farias, was recently found guilty of tax crimes although Collor was cleared of bribe-taking. </P>
+<P> A partner in OAS said the London-based accountant looked after company affairs but denied any illegal activity had taken place. </P>
+<P> The police inquiry into OAS is the largest investigation so far of the murky finances of Brazilian construction companies. </P>
+<P> Last year, the government concluded an investigation into an alleged scam involving politicians who took bribes to award companies huge contracts at inflated prices. A handful of politicians were stripped of office as a result of the inquiry. </P>
+</TEXT>
+</DOC>

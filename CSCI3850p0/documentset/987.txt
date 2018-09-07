@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0009.940825</DOCID>
+<TDTID>TDT002434</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/25/94 13:40</DATE>
+<TITLE> SUPREME COURT DROPS BOMBING CASE AGAINST IRAN</TITLE>
+<HEADLINE> SUPREME COURT DROPS BOMBING CASE AGAINST IRAN</HEADLINE>
+<SUBJECT> BC-ARGENTINA-IRAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES (Reuter) </DATELINE>
+<P>  Argentina's Supreme Court Thursday dropped accusations against Iranian officials who were named in an anti-Jewish bombing here last month that killed nearly 100 people. </P>
+<P> The court decided there was insufficient evidence against the officials and voted to pass the case back to investigating judge Juan Jose Galeano, members of the court told reporters afterwards. </P>
+<P> In his report on the bombing, Galeano named four Iranian officials as wanted in connection with the July 18 bombing that razed Argentina's main Jewish community center. </P>
+<P> Under Argentine law, the Supreme Court would take on the case if foreign diplomats or officials were involved. </P>
+<P> Iran's official news agency, IRNA, said late Wednesday that Iran wanted Argentina to make up for the accusations, but did not specify how. </P>
+</TEXT>
+</DOC>

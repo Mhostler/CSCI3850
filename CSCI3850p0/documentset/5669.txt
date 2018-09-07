@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU007-0237.950411</DOCID>
+<TDTID>TDT012456</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/11/95 21:59</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-JAPAN-SUBWAY-ARREST -2 TOKYO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Nimi is suspected of involvement in the capture and illegal confinement of a 29-year-old woman follower of the sect who tried to leave the cult last October. </P>
+<P> Police last week arrested a doctor described as the Aum ``Medicine Minister'' who is believed by authorities to have drugged the woman to prevent her escape. </P>
+<P> Japanese media reports identified Nimi as one of eight members of the elite third tier of the Aum leadership. </P>
+<P> The sect has been the target of daily police raids following the March 20 nerve gas attack on Tokyo subways, but authorities have not formally linked the group to the attack. </P>
+</TEXT>
+</DOC>

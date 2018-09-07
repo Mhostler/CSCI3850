@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU006-0417.940913</DOCID>
+<TDTID>TDT003336</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/13/94 23:25</DATE>
+<TITLE> Former mayor Barry wins primary for his old job</TITLE>
+<HEADLINE> Former mayor Barry wins primary for his old job</HEADLINE>
+<SUBJECT> BC-USA-PRIMARIES-BARRY 4THLD URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Former Washington mayor Marion Barry won the Democratic primary for his old job Tuesday, defeating council member John Ray 48 percent to 37 percent, according to official returns. </P>
+</TEXT>
+</DOC>

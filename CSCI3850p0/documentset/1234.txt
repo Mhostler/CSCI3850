@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU004-0192.940908</DOCID>
+<TDTID>TDT003070</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/08/94 23:57</DATE>
+<TITLE> White House rethinking tax cut pledge - report</TITLE>
+<HEADLINE> White House rethinking tax cut pledge - report</HEADLINE>
+<SUBJECT> BC-CLINTON-TAX </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON9 (Reuter) </DATELINE>
+<P>  Under election-year political pressure, the Clinton Administration is weighing whether to resurrect its proposal for a middle class tax cut, The Washington Post reported Friday. </P>
+<P> Quoting unidentified congressional and administration sources, the newspaper said White House aides had begun to restudy the tax cut idea in the past few weeks, largely in response to pressure from Democrats who hope to counter a broader Republican tax cut proposal expected to be announced September 27. </P>
+<P> White House aides cautioned that President Clinton himself had not yet addressed the issue and that opinion among senior staff was divided, according to the Post. </P>
+<P> However, all insisted that any tax cut would have to be offset by spending cuts or increased taxes in other areas in order to avoid undercutting the deficit reduction program passed by Congress last year, the newspaper reported. </P>
+</TEXT>
+</DOC>

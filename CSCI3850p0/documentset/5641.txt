@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0375.950410</DOCID>
+<TDTID>TDT012414</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/10/95 20:17</DATE>
+<TITLE> UN still seeks Iraqi biological arms program</TITLE>
+<HEADLINE> UN still seeks Iraqi biological arms program</HEADLINE>
+<SUBJECT> BC-IRAQ-UN-WEAPONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  U.N. officials on Monday dismissed Iraq's claim it had imported huge quantities of biological material for hospital laboratories, saying all signs pointed to its use in a germ warfare program, according to a major report on Iraqi weapons. </P>
+<P> In concluding that Iraq still had not come clean on biological materials, the U.N. Special Commission in charge of scrapping Baghdad's weapons of mass destruction dashed Iraqi hopes for a speedy end to sanctions on oil exports. </P>
+</TEXT>
+</DOC>

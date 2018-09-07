@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0176.950102</DOCID>
+<TDTID>TDT008769</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/02/95 15:35</DATE>
+<TITLE> Second attack in Italy on Norwegian Jewish writer</TITLE>
+<HEADLINE> Second attack in Italy on Norwegian Jewish writer</HEADLINE>
+<SUBJECT> BC-ITALY-ATTACK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ASSISI, Italy (Reuter) </DATELINE>
+<P>  A Norwegian Jewish woman whose face was slashed last year in an apparently anti-Semitic incident was attacked again Monday, Italian police said. </P>
+<P> Myriam Geelmuydn, a 44-year-old writer who has lived in Assisi since 1988, was being treated for facial wounds in the central town's main hospital after she was attacked on the doorstep of her home. Police gave no further details. </P>
+<P> Last August, three youths shouting ``Dirty Jew, go home'' cut Geelmuydn's face and tore off her Star of David necklace in an attack in Assisi. </P>
+<P> Her lawyers said she had repeatedly received anonymous threats after the first attack. </P>
+</TEXT>
+</DOC>

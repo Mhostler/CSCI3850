@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU016-0087.950523</DOCID>
+<TDTID>TDT014147</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/23/95 18:05</DATE>
+<TITLE> Laparascopic surgery promotes gallbladder removals</TITLE>
+<HEADLINE> Laparascopic surgery promotes gallbladder removals</HEADLINE>
+<SUBJECT> BC-HEALTH-GALLBLADDER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  Thanks in part to innovations that allow surgeons to operate through tiny incisions, many more patients are having their gallbladders removed, researchers said Tuesday. </P>
+<P> Gallbladder surgery has increased 22 percent since 1989 when the modern technique of operating through a laparascope became commonplace, researchers at the University of Pennsylvania, Philadelphia, found. </P>
+<P> The concern is that as the surgery becomes simpler for patients who may or may not be suffering from painful gallstones, unneccessary surgeries may result, an editorial accompanying the study reasoned. </P>
+<P> ``It is important that physicians and patients not be tempted into doing surgery just because the surgery now seems easier and because the patient has some symptoms that 'might be related' to gallstones,'' David Ransohoff, of the University of North Carolina, and Charles McSherry, of Cornell University, wrote in the Journal of the American Medical Association. </P>
+<P> The Pennsylvania researchers examined data primarily from Medicare patients who had their gallbladders removed in the years 1986 to 1993. </P>
+<P> They found modern techniques decreased the costs of surgery and lessened the chance of post-surgical complications, suggesting that patients ``on the margin'' can now be operated on. </P>
+</TEXT>
+</DOC>

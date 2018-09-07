@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU009-0013.950512</DOCID>
+<TDTID>TDT013735</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/12/95 15:59</DATE>
+<TITLE> Home heating funds protected in spending cut bill</TITLE>
+<HEADLINE> Home heating funds protected in spending cut bill</HEADLINE>
+<SUBJECT> BC-CONGRESS-FUNDS </SUBJECT>
+<AUTHOR>     By Jackie Frank </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Home heating assistance for the poor, targeted for elimination by the House, emerged from a special conference committee Friday only slightly bruised. </P>
+<P> Working out the final version of a multi-billion spending cut bill, House and Senate Appropriations negotiators agreed to restore the program's $1.0 billion budget for the coming winter to help the elderly and poor meet home fuel bills. </P>
+<P> Another $300 million would be kept in an emergency fund. </P>
+<P> The House this year voted to halt all funds for the $1.39 billion program, saying it had evolved from temporary help in energy crises to an income supplement that should be addressed in reform of welfare programs. </P>
+<P> While government spending cuts overall will be the largest ever approved by Congress, given the changes approved so far by the conference committee, the final plan will be less than either the $17.4 billion passed by the House or the $16 billion passed by the Senate. </P>
+<P> The spending cuts reduce the budget deficit and pay for $6.7 billion in emergency disaster assistance for California, Louisiana, Texas and other states. Staff members said about $280 million will be added to strengthen federal counter-terrorism activities and to help Oklahoma City in response to the fatal bombing of a federal building. </P>
+<P> The final plan will end hundreds of federal programs ranging from education to jobs training and will scale back scores of others. Only the defense department was spared. </P>
+<P> In its last sesssion, the conference agreed the summer jobs program for teen-agers should survive this year but cut off all funding for the 1996 summer. The Corporation for Public Broadcasting was cut by $37 million in 1996 and $55 million in 1997. Its current budget is $286 million. </P>
+<P> Deep differences remained over the size of cuts in federal education programs, with Democrats arguing they had not been consulted before Republican leaders agreed to $1.0 billion in reduced spending. Targetted for elimination by Republican panel leaders are funds for safe and drug-free schools programs that they said had been ineffective. </P>
+<P> The negotiators were also under pressure to give states more flexibility in setting up automobile emissions control tests to meet the requirements of federal clean air laws. </P>
+</TEXT>
+</DOC>

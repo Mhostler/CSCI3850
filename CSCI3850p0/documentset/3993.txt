@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0253.950127</DOCID>
+<TDTID>TDT009801</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/27/95 01:29</DATE>
+<TITLE> Tennis-Osaka tournament cancelled due to quake</TITLE>
+<HEADLINE> Tennis-Osaka tournament cancelled due to quake</HEADLINE>
+<SUBJECT> BC-TENNIS-CANCELLATION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  The $650,000 Salem Open men's tennis tournament scheduled for April 3-9 in Osaka has been canceled because of the massive earthquake that hit central Japan, organizers said Friday. </P>
+<P> Osaka, partly damaged by the Jan. 17 quake, is 20 miles west of the devastated port city of Kobe. </P>
+<P> One compelling factor was the deaths of two senior Japanese tennis officials, who were among more than 5,000 people killed in the quake, a statement from the organizers said. It said they would donate $50,000 to quake relief. </P>
+<P> Former world No. 1 Jim Courier and Australian Open semifinalist Michael Chang were to have been invited to play in the Osaka tournament. </P>
+<P> It was the second cancellation of a major sports event in central Japan since the disaster. Organizers of the Osaka international women's marathon, slated for Jan. 29, said last week the event was canceled. </P>
+</TEXT>
+</DOC>

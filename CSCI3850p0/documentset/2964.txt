@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0287.941202</DOCID>
+<TDTID>TDT007359</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/02/94 08:51</DATE>
+<TITLE> Israel's Peres expects to see Christopher</TITLE>
+<HEADLINE> Israel's Peres expects to see Christopher</HEADLINE>
+<SUBJECT> BC-ISRAEL-USA-CHRISTOPHER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUDAPEST (Reuter) </DATELINE>
+<P>  Israel's Foreign Minister Shimon Peres said Friday he planned to meet Secretary of State Warren Christopher on the margins of the CSCE summit in Hungary. </P>
+<P> ``If the Secretary of State will be here we will probably meet as well,'' Peres told a news conference outside a meeting of the Socialist International grouping of left-wing parties. </P>
+<P> Peres said he would stay in Budapest for the two-day summit of the 53-member Conference on Security and Cooperation in Europe, which starts Monday. Peres said he would leave Monday evening. </P>
+<P> He said he wanted to discuss with CSCE officials the possibility of extending the group's work in mediation and conflict resolution to the Middle East. </P>
+</TEXT>
+</DOC>

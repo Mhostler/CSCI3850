@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0145.940727</DOCID>
+<TDTID>TDT001097</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/27/94 12:20</DATE>
+<TITLE> FOSSIL TROVE UNEARTHED AT TOURIST ATTRACTION</TITLE>
+<HEADLINE> FOSSIL TROVE UNEARTHED AT TOURIST ATTRACTION</HEADLINE>
+<SUBJECT> BC-USA-FOSSILS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  A cache of fossil specimens that provide important evidence about extinct animals and ancient Indians has been unearthed at the tourist attraction Monkey Jungle, researchers said Wednesday. </P>
+<P> The more than 5,000 specimens found on the site include bone and shell tools and burnt bones considered evidence of cooking by the Paleo Indians, who lived 10,000 years ago. </P>
+<P> Archeologists also unearthed thousands of bones from extinct animals such as the short-faced cave bear, Pleistocene horse and saber tooth tiger. </P>
+<P> ``This will be an important data bank for scientists for years and years to come,'' said Dade County Archeologist Robert Carr. </P>
+<P> Set in a small hardwood jungle, Monkey Jungle was founded in 1933 as North America's first colony of free-ranging monkeys. Its owners had been aware that potentially important fossil deposits were on the site since the 1960s. </P>
+<P> But current research only began with a state grant they received for cleanup following Hurricane Andrew, the powerful hurricane that lashed the region in August 1992. </P>
+</TEXT>
+</DOC>

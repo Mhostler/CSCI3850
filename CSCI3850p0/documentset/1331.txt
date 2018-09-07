@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU006-0199.940913</DOCID>
+<TDTID>TDT003282</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/13/94 06:56</DATE>
+<TITLE> Judge supports move to keep sculpture</TITLE>
+<HEADLINE> Judge supports move to keep sculpture</HEADLINE>
+<SUBJECT> BC-BRITAIN-SCULPTURE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A judge Tuesday threw out an attempt to overturn a British government decision to stop the export of ``The Three Graces'' sculpture to California's Getty Museum. </P>
+<P> The judge refused to allow a judicial review of the government decision last month which allowed British museums a final chance to match a bid from the Malibu-based museum. He said the government had not acted unfairly. </P>
+<P> The California-based J.PPaul Getty Trust which agreed to buy ``The Three Graces'' for its U.S. museum in 1989, wanted the court in Leeds, northern England, to overrule the government decision. </P>
+<P> Counsel for the Getty Trust said later it planned to appeal against the decision within the next week. </P>
+<P> Art lovers fought for five years to keep the 19th century marble sculpture by Italian Antonio Canova in British hands. </P>
+<P> The Getty Trust agreed to buy the sculpture for $11.84 million in 1989, but government ministers repeatedly delayed the final go-ahead for its export to allow British museums time to raise the money. </P>
+<P> London's Victoria and Albert Museum and the National Galleries for Scotland raised $9.04 million in an appeal. In August the government allowed a further three months for British interests to match the Getty Trust's bid. </P>
+<P> Multi-millionaire John Paul Getty II offered to donate $1.55 million. But he almost withdrew the offer when Timothy Clifford, director of the National Galleries of Scotland, accused him of being motivated by ill-will towards his father, J. Paul Getty, whose fortune supports the Getty Museum. </P>
+<P> Finally, Dutch-born art collector Hans Heinrich Thyssen-Bornemisza stepped in with the final $1.25 million needed to keep it in Britain. </P>
+</TEXT>
+</DOC>

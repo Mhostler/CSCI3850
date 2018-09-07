@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU007-0028.941214</DOCID>
+<TDTID>TDT007939</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 16:32</DATE>
+<TITLE> Jet crashes into apartments; 2 dead, 20 injured</TITLE>
+<HEADLINE> Jet crashes into apartments; 2 dead, 20 injured</HEADLINE>
+<SUBJECT> BC-PLANE 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FRESNO, Calif.(Reuter) </DATELINE>
+<P> (Updates)  A California Air National Guard jet crashed into an apartment building and exploded in ball of fire Wednesday, killing at least two people and injuring 20, officials said. </P>
+<P> The leased twin-engine Lear jet plunged onto a street near the Fresno airport, and wreckage tumbled into the two-story residential complex, igniting several parked cars and settng the structure on fire. </P>
+<P> A Federal Aviation Adminstration spokesman said the jet had been cleared for landing at the Fresno Air Terminal but ran into trouble and crashed. He said the cause of the accident was not known. </P>
+<P> At least two people were killed and 20 injured, said American Ambulance Co. spokeswoman Laurel Flemming. </P>
+<P> There were news reports that the pilot died in the crash, but the California Air National Guard said it could not confirm that. </P>
+<P> A woman who saw the crash told Los Angeles television station KCAL that the jet plunged onto a street two miles southwest of the airport and clipped an apartment building before exploding in a ball of fire. </P>
+<P> As smoke billowed from the crash site, ambulances rushed to the scene, and police cordoned off the area. </P>
+<P> ``People ran out of the complex in fear and anxiety,'' Flemming said. </P>
+<P> ``It looked like a war zone when we showed up,'' said a reporter for Fresno radio station KSFN. </P>
+<P> The plane was reported to have been flying out of the Air Natonal Guard Base at the central California airport. </P>
+</TEXT>
+</DOC>

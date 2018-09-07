@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU014-0218.950423</DOCID>
+<TDTID>TDT012928</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/23/95 15:07</DATE>
+<TITLE> Balladur concedes defeat in French election</TITLE>
+<HEADLINE> Balladur concedes defeat in French election</HEADLINE>
+<SUBJECT> BC-FRANCE-BALLADUR URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Conservative Prime Minister Edouard Balladur conceded defeat in France's presidential election Sunday and called on his supporters to vote for fellow Gaullist Paris mayor Jacques Chirac in the run-off. </P>
+</TEXT>
+</DOC>

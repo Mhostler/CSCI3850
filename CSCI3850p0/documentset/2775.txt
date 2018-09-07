@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0323.941122</DOCID>
+<TDTID>TDT006863</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/22/94 14:09</DATE>
+<TITLE> Message in a bottle crosses Atlantic</TITLE>
+<HEADLINE> Message in a bottle crosses Atlantic</HEADLINE>
+<SUBJECT> BC-BOTTLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORTLAND, Maine (Reuter) </DATELINE>
+<P>  Geoff Hight and his elementary school classmates discovered that a bottle carrying a message could cross the Atlantic Ocean when they received a letter back from a 13-year-old French girl. </P>
+<P> Amelie Kriskovic wrote to Hight that she had found the bottle while walking with her father on the beach at their home in Pornichet, France, the Portland Press Herald newspaper reported Tuesday. </P>
+<P> Hight was among 21 fourth-grade students who sealed messages in wine bottles in spring 1992 and had them released offshore from Portland, Maine by a fishermen in an experiment to learn more about the ocean and the Gulf Stream. </P>
+<P> Two bottles washed up in Canada three months after they were released, but the rest were assumed lost at sea until Hight's school received a letter last week from Kriskovic. </P>
+<P> The Gulf Stream flows up the U.S. East Coast before turning toward Europe, and teacher Pamela Trieu had told her students if any of the bottles reached the stream they might be carried to the British Isles. </P>
+<P> Trieu admitted she was surprised to hear the bottle landed in Pornichet, which is in southern France, and much farther south than she had expected the Gulf Stream to carry it. </P>
+</TEXT>
+</DOC>

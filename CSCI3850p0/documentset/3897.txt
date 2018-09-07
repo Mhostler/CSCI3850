@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU010-0244.950123</DOCID>
+<TDTID>TDT009656</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/23/95 17:55</DATE>
+<TITLE> Simpson lawyers can ask detective about race -judge</TITLE>
+<HEADLINE> Simpson lawyers can ask detective about race -judge</HEADLINE>
+<SUBJECT> BC-SIMPSON-RACE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  The judge in the O.J. Simpson murder trial ruled Monday that a white police detective who defense attorneys accuse of racism could be cross-examined about his views on blacks. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0187.941112</DOCID>
+<TDTID>TDT006424</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/12/94 17:02</DATE>
+<TITLE> Mexico to send agents to Chiapas to probe banditry</TITLE>
+<HEADLINE> Mexico to send agents to Chiapas to probe banditry</HEADLINE>
+<SUBJECT> BC-MEXICO-CHIAPAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Mexico will send a team of law enforcement agents to Chiapas to determine if peasant rebels are behind a string of armed robberies in the troubled state, the attorney general's office said Saturday. </P>
+<P> It said the agents were requested by Mexican Peace Commissioner Jorge Madrazo after self-styled Zapatista guerrillas said they had nothing to do with recent acts of bandidtry in the Chiapas towns of Teopisca and Tapachula. </P>
+<P> In a statement, the attorney general's office said armed gangs using army and air force weapons have carried out various robberies and intimidated citizens of the two towns in the southerrn state. </P>
+<P> Teopisca is 20 miles southeast of San Cristobal de las Casas, the Chiapas city that was briefly invaded by the Zapatista rebels during their uprising in January. </P>
+<P> Tapachula, on the Mexican border with Guatemala, is 125 miles from San Cristobal de las Casas and is far from territory held by the rebels. </P>
+<P> The attorney general's office said it wanted to find out who is behind the attacks in Chiapas. Zapatistas opponents in Chiapas have blamed the banditry on the rebels. </P>
+</TEXT>
+</DOC>

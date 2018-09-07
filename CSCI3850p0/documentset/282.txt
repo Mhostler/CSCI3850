@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0230.940718</DOCID>
+<TDTID>TDT000695</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/18/94 16:21</DATE>
+<TITLE> EIGHTH COMET FRAGMENT HITS JUPITER</TITLE>
+<HEADLINE> EIGHTH COMET FRAGMENT HITS JUPITER</HEADLINE>
+<SUBJECT> BC-SPACE-COMET-SAFRICA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SUTHERLAND, South Africa (Reuter) </DATELINE>
+<P>  The eighth fragment of the comet Shoemaker-Levy 9 comet hurtled into Jupiter's upper atmosphere on schedule at 3.26 p.m. EDT Monday, creating an explosion brighter than the planet's two nearest moons. </P>
+<P> Japanese astronomer Kaz Sekiguchi watched the explosion from the South African observatory at Sutherland and told Reuters: ``This is by far the brightest of the three impacts we have observed.'' </P>
+<P> Battling to get an image despite poor conditions caused by water vapor in the atmosphere high above South Africa's Karoo desert, Sekiguchi monitored the impact through an infra-red telescope while colleagues used an optical instrument in an adjacent dome at the mountain observatory. </P>
+<P> ``The seeing is very bad tonight, much worse than on Saturday when we watched fragment A,'' he said. </P>
+<P> He added that the eighth fragment, dubbed H, appeared to have blasted deep into Jupiter's atmosphere, pushing back an exploding plume that reached hundreds of miles (km) above the planet. </P>
+<P> Fragment H is the latest in a chain of 21 pieces of the comet expected to hit the giant planet by Friday. </P>
+</TEXT>
+</DOC>

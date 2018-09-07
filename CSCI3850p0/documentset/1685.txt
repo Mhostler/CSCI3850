@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU014-0279.940929</DOCID>
+<TDTID>TDT004187</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/29/94 14:25</DATE>
+<TITLE> U.S. sanctions threat to Japan runs on two tracks</TITLE>
+<HEADLINE> U.S. sanctions threat to Japan runs on two tracks</HEADLINE>
+<SUBJECT> BC-TRADE-JAPAN-SANCTIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  After 14 months of fitful negotiations, Japan faces a deadline Friday to open a handful of its markets or risk U.S. trade sanctions. </P>
+<P></P>
+<P> First, Clinton says Japan must play fair when it awards government contracts in telecommunications and medical technology or face sanctions under so-called Title VII. </P>
+<P> Counter-retaliation would also be in the government procurement field but not necessarily confined to those same two sectors, aides say. </P>
+<P> A list of Japanese targets would be published and, barring a sudden deal, sanctions would take effect after 30 days. </P>
+<P> However, attention is far more fiercely focused on the U.S. threat to single Japan out for criticism under Super 301, a complicated trade tool that has set currency markets on edge. </P>
+<P> ``There are probably 13 people in the entire world who get Super 301. It only sets in process a motion -- a very slow motion -- yet you've got a bunch of 24-year-olds on Wall Street who are trading billions over it,'' said Michael Aho, senior international economist at Prudential Securities. </P>
+<P> ``Most of them simply don't understand it,'' said Aho. </P>
+<P></P>
+<P> -- Past 301 action has never yet led to actual sanctions. </P>
+<P> -- It is not an automatic retaliation device, but rather a lever that draws attention to specific problems and sets in place a process that can eventually lead to higher tariffs. </P>
+<P> -- The measure was originally enacted due to congressional frustration with the slow pace of Japanese trade negotiations when Republicans ran the White House. </P>
+<P> -- Created under the 1988 trade act, it lapsed in May 1990. Last March, Clinton fulfilled a campaign pledge to renew Super 301, with widespread backing in Congress. </P>
+<P> -- The top target is Japan, but other nations may also be branded as unfair traders under the provision. </P>
+<P> -- The provision identifies and addresses ``priority'' foreign practices that discriminate against U.S. exporters. </P>
+<P> -- The process begins every March 30, when the administration lists major trade barriers around the world. </P>
+<P> -- By September 30, bar progress, the U.S. Trade Representative whittles the list down to the worst offenders, with Japan's flat glass market now considered a prime target. </P>
+<P> -- Once the Super 301 list is released, negotiations begin and sanctions may be imposed within a year. Clinton could also opt for a further six months of discussion. </P>
+<P> -- In 1989, Washington identified Japan, Brazil and India as offenders under Super 301 and used it to win results from Tokyo on forest products, supercomputers and satellites. </P>
+</TEXT>
+</DOC>

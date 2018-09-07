@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU007-0294.950510</DOCID>
+<TDTID>TDT013657</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/10/95 18:10</DATE>
+<TITLE> White House, Congress set to debate food stamps</TITLE>
+<HEADLINE> White House, Congress set to debate food stamps</HEADLINE>
+<SUBJECT> BC-FOODSTAMPS </SUBJECT>
+<AUTHOR>     By Maggie McNeil </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Clinton administration Wednesday proposed changes to bring about small savings in the huge Food Stamp Program, setting the stage for a bitter debate with Congress on how to trim the nation's main food assistance program. </P>
+<P> The Agriculture Department, which administers the massive anti-hunger program, proposed cutting $350 million from the program over the next five years. The cuts would come from reducing red tape, giving states more flexibility, strengthening anti-fraud measures and eliminating millions of dollars in overpayments. </P>
+<P> Congress is considering vastly larger food stamp cuts of more than $20 billion as part of its effort to reform the nation's welfare system. </P>
+<P> The 31-year-old Food Stamp Program helped feed 27.5 million poor Americans last year, including more than 14 million children. Program outlays are estimated to hit almost $27 billion this year. </P>
+<P> The changes announced were not as sweeping as expected, reflecting sensitivity about curtailing benefits to the needy. </P>
+<P> ``There are two real places in food stamps where you get savings ... you can cut the number of people on it, or you can the cut the amount of the benefit,'' said Agriculture Undersecretary Ellen Haas, whose agency oversees the program. </P>
+<P> ``We are not prepared to sacrifice either the people or the amount of assistance they get.'' </P>
+<P> Haas said the administration is prepared to sit down with Congress and talk about ``where savings can be found.'' </P>
+<P> ``We're just beginning this process on the budget,'' Haas said. </P>
+<P> Haas also said she hoped this proposal would show that by giving states flexibility as well as other changes, savings could be accrued and that recent moves to turn the program over to the states through block grants could be stopped. </P>
+<P> The proposed changes also urge the program to focus more on nutrition, but Haas said that not allowing food stamps to be used for foods such as candy and soda would not be feasible. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCID>REU010-0058.940820</DOCID>
+<TDTID>TDT002254</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/20/94 17:08</DATE>
+<TITLE> URGED BY CLINTON, NEGOTIATORS HAGGLE ON CRIME BILL</TITLE>
+<HEADLINE> URGED BY CLINTON, NEGOTIATORS HAGGLE ON CRIME BILL</HEADLINE>
+<SUBJECT> BC-USA-CRIME 2NDLD </SUBJECT>
+<AUTHOR>     By William Scally </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Updates with developments)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Congressional negotiators, under renewed urging by President Clinton, tried Saturday to iron out remaining differences in a sweeping crime bill and send it to the House of Representatives for a vote. </P>
+<P> The negotiators were working on a scaled-down version of what had been a $33 billion measure after Clinton on Friday endorsed a 10 percent cut in the price tag in an effort to pick up Republican votes. </P>
+<P> They resumed work after a marathon negotiating session that ended shortly before dawn, but progress was slow and no House vote was expected before evening. </P>
+<P> ``We're going to try to vote tonight. We're getting real close,'' said Democrat Charles Schumer of New York, a key negotiator, after the new round of talks had dragged on for about six hours. </P>
+<P> Republicans were near unanimous in voting August 11 to block debate on the bill, which they charged was too costly, laden with wasteful spending on social programs designed to prevent crime and not tough enough against criminals. </P>
+<P> If agreement was reached on revising the bill to meet some of the Republican objections, the House was prepared to vote on it later Saturday. </P>
+<P> House Democratic Leader Richard Gephardt told reporters he believed there was a 50-50 chance of the House passing the bill during the day. </P>
+<P> In his regular weekly radio address, Clinton called for action and sought to woo Republicans. </P>
+<P> ``We must not let this chance pass by,'' he said. ``We must seize the opportunity before us to make a dramatic difference in every neighborhood.'' </P>
+<P> Clinton said he hoped the effort to revive the crime bill after a 225-210 vote blocked it from debate nine days ago would serve as an example for future cooperation between Democrats and Republicans. </P>
+<P> ``Let today mark the beginning of a determined effort on the part of all of us to work in good faith across party lines,'' he said. </P>
+<P> As the bargaining continued into the afternoon, Republicans said in a statement that at least four major issues remained unresolved. </P>
+<P></P>
+<P> - A Republican-sought provision allowing evidence of prior sex offenses to be used in trials of accused rapists. </P>
+<P> - Removal of language under which reforms of mandataory minimum sentencing for drug offenders would apply to offenders currently in prison. Republicans said this provision would release thousands convicted of drug crimes. </P>
+<P> - Expedited deportation of criminal illegal aliens -- meaning that they would not be eligible for an immigration hearing. </P>
+<P> - Tougher requirements to ensure that repeat violent offenders serve nearly all of their sentences in order for states to qualify for federal prison grants. </P>
+<P> Participants indicated that the question of reallocation of money between programs had been settled. </P>
+<P> Gephardt also noted that gun control remained a contentious issue. The bill contains a ban on 19 types of semiautomatic assault weapons that is strongly opposed by the powerful gun lobby. </P>
+<P> Most of the 58 Democrats who voted with 167 Republicans to block debate on the bill were opposed to the weapons ban. </P>
+<P> Clinton has voiced strong opposition to calls for the assault weapons ban to be removed from the bill and voted on separately. However, some changes around the edges of the ban may be part of a final measure. </P>
+</TEXT>
+</DOC>

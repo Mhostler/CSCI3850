@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0358.940819</DOCID>
+<TDTID>TDT002215</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/19/94 19:03</DATE>
+<TITLE> ALITALIA PLANE MAKES HARD LANDING, BLOWS TIRES</TITLE>
+<HEADLINE> ALITALIA PLANE MAKES HARD LANDING, BLOWS TIRES</HEADLINE>
+<SUBJECT> BC-USA-PLANE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  An Alitalia flight from Rome made a ''hard landing'' Friday at Chicago's O'Hare International Airport, blowing its two front tires, an airport spokesperson said. </P>
+<P> No one was injured in the 1:15 p.m. CDT landing, but the 253 passengers and 14 crewmembers had to be bused from the disabled jet, spokeswoman Lisa Howard said. </P>
+<P> ``The plane had what they call a hard landing,'' Howard said. ``It landed hard on the runway and two front tires were blown.'' </P>
+<P> The runway had to be closed because holes were gouged out of the concrete surface, she said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0262.940907</DOCID>
+<TDTID>TDT002999</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/07/94 12:20</DATE>
+<TITLE> Cuban negotiator with U.S. to consult in Havana</TITLE>
+<HEADLINE> Cuban negotiator with U.S. to consult in Havana</HEADLINE>
+<SUBJECT> BC-CUBA-TALKS-CONSULTATION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The head of the Cuban delegation negotiating with the United States over the flow of Cuban boat people was returning to Havana for consultations Wednesday, Secretary of State Warren Christopher said. </P>
+<P> ``We see the talks as continuing to be useful and we see this as only a brief interruption in the talks,'' which have been going on in New York since last Thursday, Christopher told reporters. </P>
+</TEXT>
+</DOC>

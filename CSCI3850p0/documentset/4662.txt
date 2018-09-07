@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU001-0193.950301</DOCID>
+<TDTID>TDT010909</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 15:56</DATE>
+<TITLE> Clinton reduces U.S. nuclear bomb-building stocks</TITLE>
+<HEADLINE> Clinton reduces U.S. nuclear bomb-building stocks</HEADLINE>
+<SUBJECT> BC-CLINTON-NUCLEAR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton has decided to remove 200 tons of bomb-building material from U.S. nuclear stockpiles as a demonstration of his commitment to reduce nuclear weaponry, a U.S. official said Wednesday. </P>
+<P> The official, who briefed reporters on condition that he not be identified, said Clinton would announce the move in a major foreign policy speech Wednesday night. </P>
+</TEXT>
+</DOC>

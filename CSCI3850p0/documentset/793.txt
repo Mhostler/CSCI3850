@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0418.940816</DOCID>
+<TDTID>TDT001964</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/16/94 02:50</DATE>
+<TITLE> GUERRILLAS KILL THREE ISRAELI-BACKED MILITIAMEN</TITLE>
+<HEADLINE> GUERRILLAS KILL THREE ISRAELI-BACKED MILITIAMEN</HEADLINE>
+<SUBJECT> BC-MIDEAST-LEBANON-SLA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MARJAYOUN, Lebanon (Reuter) </DATELINE>
+<P>  Pro-Iranian Hizbollah guerrillas ambushed a convoy of Israeli-backed militiamen in south Lebanon Tuesday, killing three militiamen and wounding two, security sources said. </P>
+<P> They said guerrillas fired machine guns and anti-tank rockets at the convoy as it drove near the Zemraya crossing point into Israel's occupation zone in the south. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU001-0278.941002</DOCID>
+<TDTID>TDT004345</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/02/94 16:50</DATE>
+<TITLE> Hard-line Palestinians say they attacked Israelis</TITLE>
+<HEADLINE> Hard-line Palestinians say they attacked Israelis</HEADLINE>
+<SUBJECT> BC-MIDEAST-ATTACKS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DAMASCUS, Syria (Reuter) </DATELINE>
+<P>  The hard-line Democratic Front for the Liberation of Palestine (DFLP) said Sunday its guerrillas fired automatic weapons at Israeli soldiers in three weekend attacks in the Gaza Strip. </P>
+<P> (An Israeli military spokesman said there were two attacks Saturday night but there were no casualties.) </P>
+<P> The DLFP said in a statement that its Red Star brigades carried out the attacks Saturday as a tribute to the DLFP congress now taking place in Damascus, where it has its headquarters. It too mentioned no casualties. </P>
+<P> It said the guerrillas fired at an Israeli patrol on the Gaza-Sejaiya road, at a military position near a checkpoint and at a checkpoint near the Jewish settlement of Netzarim. </P>
+<P> The Israeli spokesman said that in one incident Israeli soldiers and Palestinian soldiers looked for the attackers but could not find them. </P>
+<P> The DLFP, which opposes the PLO's agreements with Israel, said it would continue armed struggle ``to expel the Israeli occupation and the droves of settlers from occupied Palestine.'' </P>
+<P> Earlier Sunday Palestinian police arrested more than 30 DFLP members in Gaza in connection with an attack on an Israeli patrol last Friday. </P>
+</TEXT>
+</DOC>

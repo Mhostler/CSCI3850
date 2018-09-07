@@ -1,0 +1,60 @@
+<DOC>
+<DOCID>REU007-0119.950116</DOCID>
+<TDTID>TDT009344</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/16/95 14:11</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-REUTER WORLD ELECTIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> National and local elections scheduled to take place around the world during the next six months. </P>
+<P> UZEBKISTAN - Final round of votes cast for the remaining six candidates in the country's first post-Soviet elections. </P>
+<P> TURKEY - Turkey's two major social democrat parties hold joint congress to merge and elect leader. </P>
+<P> ETHIOPIA - Political parties meet in Addis Ababa to discuss how best to conduct multi-party elections to be held within six months. </P>
+<P> BENIN - (POSTPONED) Parliamentary elections postponed; may be rescheduled for March. </P>
+<P> KYRGYZSTAN - Parliamentary elections. </P>
+<P> INDIA - First phase of state assembly elections in Maharashtra in the constituencies including Dhule, Jalgaon, Akola, Amravati, Vardha, Nagpur, Yavatmal, Buldhana, Bhandara, Gadchiroli, Nanded, Parbhani, Jalna, Aurangabad, Beed, Latur, Osmanabad and Solapur. </P>
+<P> BURKINA FASO - Municipal council elections; last phase of democratic reforms. </P>
+<P> INDIA - Second phase of state assembly elections in Maharashtra in Bombay city and suburbs and in constituencies covering Bombay, Thane, Nashik, Sindhudurg, Ratnagiri, Raigad, Ahmednagar, Pune, Satara, Sangli and Kolhapur. </P>
+<P> MOROCCO - (POSTPONED) Self-determination referendum in Western Sahara postponed until later in 1995; date to be confirmed. </P>
+<P> GERMANY - State assembly election in Hesse. </P>
+<P> UNITED STATES - New Hampshire Republicans hold debate on prospective presidential candidates, Manchester, New Hampshire. </P>
+<P> INDIA - First phase of state assembly elections in Gujarat (Rescheduled). </P>
+<P> UNITED STATES - Sen. Phil Gramm scheduled to officially declare himself a candidate for the 1996 Republican presidential nomination presidency, College Station, Texas. </P>
+<P> INDIA - Second phase of state assembly elections in Gujarat (Rescheduled). </P>
+<P> TAJIKISTAN - Parliamentary elections. </P>
+<P> UNITED STATES - Chicago mayoral primary election. Party candidates are selected for mayoral general election on April 4. </P>
+<P> UNITED STATES - Republican presidential candidates hold debate in Columbia, South Carolina. </P>
+<P> GREENLAND - Elections to home rule parliament (Greenland has home rule under Denmark, which is responsible for foreign policy, defense and health). </P>
+<P> ESTONIA - Parliamentary elections. </P>
+<P> INDIA - First phase of state assembly elections in Bihar (Rescheduled). </P>
+<P> INDIA - First phase of state assembly elections in Orissa (Rescheduled). </P>
+<P> INDIA - Second phase of state assembly elections in Bihar (Rescheduled). </P>
+<P> INDIA - Second phase of state assembly elections in Orissa (Rescheduled). </P>
+<P> INDIA - Third phase of state assembly elections in Bihar (Rescheduled). </P>
+<P> INDIA - State assembly elections in Arunachal Pradesh (Rescheduled). </P>
+<P> AUSTRIA - Lower Austria province local council elections. </P>
+<P> HONG KONG - Elections to Regional Council. </P>
+<P> BENIN - Multi-party general elections scheduled to be held on or before this date (Postponed from Feb 5). </P>
+<P> FINLAND - Parliamentary elections. </P>
+<P> JAPAN - Two rounds of unified local elections to take place; will be first test for Murayama government and first for the fledgling new opposition party. </P>
+<P> UNITED STATES - Chicago mayoral general election. </P>
+<P> CHAD - Country's first multi-party presidential and parliamentary elections held. </P>
+<P> PERU - General elections. </P>
+<P> JAPAN - Wide-ranging local elections; governors of 12 key prefectures, including Tokyo, Osaka and Hokkaido, to be chosen as well as assembly members in 44 prefectures. Also, 11 big cities of more than 1 million residents, including Yokohama, Kobe and Hiroshima, choose their council members and one big city, Sapporo, holds a mayoral election. </P>
+<P> FRANCE - First stage of presidential election to find successor to Socialist President Francois Mitterrand, stepping down after two seven-year terms. </P>
+<P> JAPAN - Additional local elections for 137 mayors of small cities and autonomous Tokyo boroughs, and council members in 410 small cities and Tokyo boroughs. Voters also elect 634 mayors of smaller towns and villages and council members of 1,281 towns and villages. </P>
+<P> ATHENS - President Constantine Karamanlis' five-year term of office ends. If no candidate secures 180 votes in the 300-seat parliament, national elections must be held. </P>
+<P> FRANCE - Second stage of presidential election. </P>
+<P> ARGENTINA - Presidential election. </P>
+<P> BELARUS - Parliamentary elections. </P>
+<P> GERMANY - State assembly election in North Rhine-Westphalia. </P>
+<P> SPAIN - Nationwide municipal elections. </P>
+<P> SOUTH KOREA - Local elections for heads and council members of main cities and provincial governments. </P>
+<P> JORDAN - Municipal elections planned in major centres, including Amman, neighbouring Zarqa and Akaba. </P>
+<P> JAPAN - National Upper House elections for half the chamber. </P>
+</TEXT>
+</DOC>

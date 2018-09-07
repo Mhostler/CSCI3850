@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0357.950216</DOCID>
+<TDTID>TDT010506</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/16/95 19:44</DATE>
+<TITLE> Suspect in campus shooting dies</TITLE>
+<HEADLINE> Suspect in campus shooting dies</HEADLINE>
+<SUBJECT> BC-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CLEVELAND (Reuter) </DATELINE>
+<P>  A 21 year old man suspected of shooting a woman on a college campus and then turning the gun on himself has died, a hospital spokeswoman said Thursday. </P>
+<P> The 26-year-old woman, a student, at first had been reported killed but she the hospital where she was taken said she was still alive and is in critical condition. </P>
+<P> The 21-year-old man suspected in the shooting, apparently an acquaintance, was also in critical condition with a head wound, the hospital said. Police said he apparently shot her then turned the gun on himself. </P>
+<P> No other injuries were reported. Two faculty members who were in their offices at the time heard the shots and reported the shooting, the college said. </P>
+<P> Liza Moon, a student at Cuyahoga Community College's Eastern Campus in suburban Highland Hills, was shot on a walkway outside the main building, a college spokeswoman said. </P>
+<P> Andre Presley, the suspected gunman, was apparently an acquaintance of Moon but was not a student, the college said. </P>
+</TEXT>
+</DOC>

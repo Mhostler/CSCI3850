@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0247.950214</DOCID>
+<TDTID>TDT010445</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/14/95 12:15</DATE>
+<TITLE> Mexico's Zedillo halts army in Chiapas, calls for peace</TITLE>
+<HEADLINE> Mexico's Zedillo halts army in Chiapas, calls for peace</HEADLINE>
+<SUBJECT> BC-MEXICO-CHIAPAS-ZEDILLO URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  President Ernesto Zedillo said Tuesday he had ordered the Mexican army to halt offensive actions in the southern state of Chiapas and called on rebels to seek a political solution to the conflict there. </P>
+<P> Zedillo also said he would send an amnesty law to Congress Wednesday for any rebels who wish to give up their arms. </P>
+</TEXT>
+</DOC>

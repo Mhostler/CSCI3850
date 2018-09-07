@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0066.940924</DOCID>
+<TDTID>TDT003927</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/24/94 15:47</DATE>
+<TITLE> Haitian police clash again with protesters</TITLE>
+<HEADLINE> Haitian police clash again with protesters</HEADLINE>
+<SUBJECT> BC-HAITI-VIOLENCE 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds details)</NOTES>
+<DATELINE></DATELINE>
+<P> The onlookers said soldiers chased the protesters and tried to grab photographer's cameras. At least two people were beaten. </P>
+<P> Reporters said the trouble began when soldiers attempted to head off the protesters who had gathered to demand the resignation of army leader Lieutenant General Raoul Cedras. </P>
+<P> The crowd scattered at the sight of the soldiers and the blue uniformed police fired tear gas at them as they ran off. </P>
+<P> The soldiers hauled four men into the army headquarters and beat one man with rifle butts, witnesses said. </P>
+<P> U.S. troops patrolling the capital were not at the scene. </P>
+</TEXT>
+</DOC>

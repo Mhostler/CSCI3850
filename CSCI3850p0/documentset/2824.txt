@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU011-0444.941125</DOCID>
+<TDTID>TDT007010</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/25/94 10:25</DATE>
+<TITLE> Royals to account for money spent on palaces</TITLE>
+<HEADLINE> Royals to account for money spent on palaces</HEADLINE>
+<SUBJECT> BC-BRITAIN-ROYALS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain's royal family said Friday it would publish annual accounts to show how it spends millions of pounds of taxpayers' money on running its palaces. </P>
+<P> A spokesman for Queen Elizabeth at Buckingham Palace said the royal household, increasingly under attack in recent years for its cost to the public, had nothing to hide and would be delighted to publish full reports, starting in July. </P>
+<P> The announcement came on the day the government said it would recommend publication of the household's accounts in line with a parliamentary committee's proposal. </P>
+<P> The committee called two months ago for greater ``public visibility'' of how $30 million in taxpayers' money, a fraction of the overall expenditure on the royal family, is spent. </P>
+<P> The affair made headlines when the queen told advisers to seek legal advice over ``misleading and inaccurate'' media reports of the committee's findings. But no legal action followed. </P>
+<P> The money, known as grant-in-aid, is spent on maintaining occupied royal palaces -- Buckingham, St James' and Kensington in London as well as Windsor Castle west of the capital. It also covers the cost of gas, electricity, water and telephones. </P>
+<P> Country retreats at Balmoral in Scotland and Sandringham in eastern England are private residences of the vastly rich queen. </P>
+<P> She agreed two years ago to pay income tax for the first time to calm public grumblings over her lavish expenses. </P>
+</TEXT>
+</DOC>

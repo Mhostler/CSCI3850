@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU010-0024.941221</DOCID>
+<TDTID>TDT008278</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/21/94 15:50</DATE>
+<TITLE> Congressional campaign spending smashes record</TITLE>
+<HEADLINE> Congressional campaign spending smashes record</HEADLINE>
+<SUBJECT> BC-POLITICS-FINANCES </SUBJECT>
+<AUTHOR>     By Michael Posner </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  It cost more than ever to run for Congress this year. </P>
+<P> The Federal Election Commission said Wednesday that spending for this year's congressional races smashed an all-time record -- mainly because of big Republican spenders. </P>
+<P> The commission reported candidates spent $589.5 million for the Nov. 8 elections that saw Republicans trounce Democrats to get control of House and Senate for the first time in 40 years. </P>
+<P> The spending outdid the earlier record in 1992 by 17 percent, or an increase of $87.5 million, the commission said. </P>
+<P> Not included in 1994 spending was another $28 million spent by candidates for special elections and more than $76 million spent by candidates who lost primary battles. </P>
+<P> Republicans, notably unsuccessful Republican Senate challengers Michael Huffington in California and Oliver North in Virginia, accounted for most of the increase, with combined spending approaching $50 million. </P>
+<P> Republicans hiked their spending 29 percent over 1992 -- from $227.5 million to $293.6 million in 1994. </P>
+<P> Democratic spending went up by eight percent, from $270 million in 1992 to $292.3 million in 1994. </P>
+<P> Huffington, a multi-millionaire who lost to Sen. Dianne Feinstein, D-Calif., spent more than $29 million, nearly all of it his own money, and ended up in debt by over $12 million. An FEC official said much of the debt was because Huffington borrowed money from his own accounts. </P>
+<P> North spent almost $20 million and ended up owing $941,247. </P>
+<P> Some other big spenders included Feinstein who spent almost $14 million, Sen. Edward Kennedy, D-Mass., who spent more than $10 million and his unsuccessful challenger, businessman Mitt Romney who spent over $7.5 million. </P>
+<P> Big House spenders included unsuccessful Republican candidate Eugene Fontenot who spent over $3 million in his losing race to Democrat Kenneth Bentsen in Texas for an open seat, Rep. Richard Gephardt, the incoming House minority leader, who defended his Missouri seat against Republican Gary Gill by spending $2.5 mimllion and Robert Schuster, a Democrat who lost to Republican Barbara Cubin in Wyoming after spending more than $2.4 million. </P>
+<P> Others spending more than $2 million for House seats included Rep. Dan Rostenkowski, the powerful Democratic former House Ways and Means Committee chairman fighting criminal corruption charges, who lost a bid for re-election; Republican Rep. Robert Dornan in California, who won reelection and House Speaker Thomas Foley, a Washington Democrat, who became the first sitting speaker since 1860 unseated in an election. </P>
+</TEXT>
+</DOC>

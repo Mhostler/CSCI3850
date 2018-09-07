@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0159.950507</DOCID>
+<TDTID>TDT013541</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/07/95 18:32</DATE>
+<TITLE> Argentine candidate accuses Cavallo of swindling</TITLE>
+<HEADLINE> Argentine candidate accuses Cavallo of swindling</HEADLINE>
+<SUBJECT> BC-ARGENTINA-CAVALLO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES, Argentina (Reuter) </DATELINE>
+<P>  The Radical Party candidate in Argentina's May 14 presidential elections Sunday accused Economy Minister Domingo Cavallo of ``swindling'' and of making profits of $30 million in a car import scheme. </P>
+<P> Speaking in the far southern island province of Tierra del Fuego, Horacio Massaccesi said Cavallo had signed a deal with the provincial economy minister and a local politician for the storage and resale of imported cars, the state-controlled Telam news agency reported. </P>
+<P> ``The minister Cavallo is part of this swindle against the people of Tierra del Fuego,'' Massaccesi said. </P>
+<P> Massaccesi is trailing in third place in polls for next Sunday's elections. </P>
+</TEXT>
+</DOC>

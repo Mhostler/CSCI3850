@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU007-0365.941115</DOCID>
+<TDTID>TDT006570</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/15/94 20:21</DATE>
+<TITLE> U.S. may ease policy on arms sales</TITLE>
+<HEADLINE> U.S. may ease policy on arms sales</HEADLINE>
+<SUBJECT> BC-ARMS 2NDLD </SUBJECT>
+<AUTHOR>     By Charles Aldinger </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Corrects date in 11th graf)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States said Tuesday it is considering a new policy which could ease restrictions on U.S. foreign arms sales by weighing the financial health of the nation's defense industry. </P>
+<P> The controversial step, not yet approved by President Clinton, could be a major boon to a struggling U.S. defense industry battered by Pentagon budget cuts and declining overseas military sales. </P>
+<P> The State and Defense Departments stressed that the driving force on arms sales would continue to be foreign policy interests, but that the U.S. industrial base might now get more weight in deciding who will get American weapons. </P>
+<P> ``There has been no final decision by the president on the policy. But U.S. arms transfers will not be driven by purely commercial or economic motives,'' said State Department spokesman David Johnson. </P>
+<P> Defense Department spokesman Ken Bacon added at the Pentagon that the proposed policy would begin paying ``explicit attention'' to the U.S. industrial base in consideration of foreign arms sales. </P>
+<P> ``The overwhelming factor has always been foreign policy, and that continues to be the case,'' Bacon said. </P>
+<P> The new policy could benefit U.S. aerospace giants such as Lockheed Corp. and McDonnell Douglas Corp., makers of military jets, which are looking more and more to foreign sales as the United States slashes military spending. </P>
+<P> The Los Angeles Times reported Tuesday that the U.S. defense industry had won a major victory and that the administration was preparing to adopt the new policy. </P>
+<P> U.S. defense officials privately declined to speculate on whether the new policy would open the way for sales to countries such as Pakistan, which has been prohibited from buying U.S. F-16 jets because of its nuclear arms program. </P>
+<P> The policy would be controversial because the United States has in recent years pressed other major arms suppliers to cut down their sales to such volatile areas as the Middle East. The defense industries in other industrial nations are also suffereing because of a downturn in worldwide arms sales. </P>
+<P> The Pentagon reported last week that U.S. foreign military sales, which are made on a country-by-country basis and only without objection from Congress, dropped drastically to $12.9 billion in fiscal 1994 from $33.2 billion in fiscal 1993. </P>
+<P> That Defense Security Assistance Agency announcement said the steep one-year drop was mainly because foreign military sales were so high to Mideast countries in 1993 in the wake of the 1991 Gulf War. </P>
+<P> But the agency also predicted that U.S. arms sales overseas would drop to an average of between $9 billion and $10.5 billion through fiscal 1997. It gave no reasons, but some U.S. arms customers such as Saudi Arabia are either suffering short-term economic woes or slashing their defense budgets following the Cold War. </P>
+</TEXT>
+</DOC>

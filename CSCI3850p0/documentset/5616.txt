@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU006-0089.950409</DOCID>
+<TDTID>TDT012363</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/09/95 19:09</DATE>
+<TITLE> Golf-Complete final-round Masters scores</TITLE>
+<HEADLINE> Golf-Complete final-round Masters scores</HEADLINE>
+<SUBJECT> BC-MASTERS-SCORES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AUGUSTA, Ga.(Reuter) </DATELINE>
+<P>  Complete scores after the final round of the the Masters Tournament Sunday (U.S. unless noted; a-amateur): </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU012-0360.950323</DOCID>
+<TDTID>TDT011631</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 21:24</DATE>
+<TITLE> Police clash with Argentine human rights activists</TITLE>
+<HEADLINE> Police clash with Argentine human rights activists</HEADLINE>
+<SUBJECT> BC-ARGENTINA-MOTHERS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Updates throughout with clashes, arrests)</NOTES>
+<DATELINE>BUENOS AIRES, Argentina (Reuter) </DATELINE>
+<P>  Police clubbed and sprayed water-cannon at Argentine human rights activists protesting Thursday outside the navy's School for Mechanics, the former military regime's most infamous torture center. </P>
+<P> The scuffle was triggered by the arrest of two people during the protest, which was led by the white-scarved human rights group, the Mothers of the Plaza de Mayo. </P>
+<P> The group is demanding a ``list of criminals'' that acted during the country's last dictatorship, in which official estimates say 4,000 people died and 10,000 more disappeared. </P>
+<P> Violence broke out when a group of activists yelling ''Nazis'' and ``criminals'' charged police following the arrest of two people. Police responded with water-cannon bursts and clubs, injuring dozens of activists. </P>
+<P> Earlier this month, a former navy officer confirmed in sickening detail years of rumors that thousands of detainees at the naval school had been drugged, stripped and dumped from aircraft into the Atlantic Ocean. </P>
+<P> The Mothers, founded at the height of the 1970s ``dirty war'' waged on leftists by the military regime that toppled Isabel Peron 19 years ago Friday, are seeking information on relatives who ``disappeared.'' </P>
+<P> The group is demanding ``a list of criminals'' who participated in the repression, despite laws passed by the democratic governments of Raul Alfonsin and current president Carlos Menem granting amnesty to military personnel accused of human rights violations. </P>
+<P> The Mothers say they want to see members of the security forces involved in torture during the ``dirty war'' punished. </P>
+<P> ``For the mother of a disappeared, being told that her son was thrown out of an airplane alive into the sea will do her little good. But to have the criminals jailed will do this county a lot of good'', said Hebe de Bonafini, the president of the Mothers of the Plaza de Mayo. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU013-0291.940829</DOCID>
+<TDTID>TDT002603</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/29/94 20:57</DATE>
+<TITLE> GIBSON GREETINGS NEEDS GET WELL CARD</TITLE>
+<HEADLINE> GIBSON GREETINGS NEEDS GET WELL CARD</HEADLINE>
+<SUBJECT> BC-GIBSON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CINCINNATI, (Reuter) </DATELINE>
+<P>  Gibson Greetings Inc said Monday its Cleo gift wrap division is in the midst of a major overhaul following ``a significant loss'' in the second quarter ended June 30. </P>
+<P> Gibson posted a net loss per share on the quarter of $0.85, a sharp reversal from the year-ago quarter's net profit of $0.08 per share. </P>
+<P> The loss reflected a charge resulting from a review of Cleo inventories and charges for sales returns and allowances for discounts on Cleo's 1993 sales, Gibson said.  Gibson also said it is restating its financial results for the first quarter of 1994 and for the third and fourth quarters of 1993. </P>
+<P> The restatement was prompted by correction of an overstatement of inventories at Cleo and to losses on previously disclosed derivative transactions, which became significant due to the inventory restatement, the company said.  For the first quarter of 1994, net loss per share is restated to $1.13 from $1.33 and net loss to $18.3 million from $21.6 million. Revenues for the quarter remain unchanged at $93.4 million, Gibson said. </P>
+<P> For the fourth quarter of 1993, net income per share is restated to $0.90 from $1.16 and net income to $14.6 million from $18.7 million. Revenues remain unchanged. </P>
+<P> For the third quarter of 1993, net income per share is restated to $0.14 from $0.26 and net income to $2.2 million from $4.1 million. Revenues do not change, Gibson said.  Regarding the second quarter results, Gibson chief executive Benjamin Sottile said, ``Our core greeting card business continued to perform well with a healthy increase in comparable store sales.'' </P>
+<P> The division is generating significant new business activity, including new large accounts at Vons Cos Inc and Safeway Inc's eastern division, Gibson said. These accounts will provide substantial sales growth, Gibson predicted. </P>
+<P> Costs from expanded customer service and more aggressive sales and marketing had an impact on the division's margins, the company said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0185.941217</DOCID>
+<TDTID>TDT008110</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/17/94 10:40</DATE>
+<TITLE> Clinton security adviser arrives in Mozambique</TITLE>
+<HEADLINE> Clinton security adviser arrives in Mozambique</HEADLINE>
+<SUBJECT> BC-MOZAMBIQUE-LAKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MAPUTO, Mozambique (Reuter) </DATELINE>
+<P>  President Clinton's national security adviser Anthony Lake arrived in Maputo on Saturday for two days of talks with the Mozambican government. </P>
+<P> The talks will cover regional and world issues as well as bilateral relations, a U.S. embassy statement said. </P>
+</TEXT>
+</DOC>

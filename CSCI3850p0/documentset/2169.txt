@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU011-0025.941022</DOCID>
+<TDTID>TDT005443</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/22/94 11:28</DATE>
+<TITLE> Americans killed by high-speed train in Italy</TITLE>
+<HEADLINE> Americans killed by high-speed train in Italy</HEADLINE>
+<SUBJECT> BC-ITALY-AMERICANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VICENZA, Italy (Reuter) </DATELINE>
+<P>  Two young sons of U.S. military personnel based in northern Italy were killed Saturday when they were hit by a high-speed train on a level crossing, police said. </P>
+<P> Daniel Scott, 20 and Jason Kossan, 19, died instantly when they were struck by the train, traveling about 60 mph. </P>
+<P> Police said the two, who ignored the crossing's lowered safety bars, may have been wearing personal stereos which could have prevented them from hearing the approaching train. </P>
+</TEXT>
+</DOC>

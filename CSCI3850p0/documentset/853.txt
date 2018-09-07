@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU008-0440.940818</DOCID>
+<TDTID>TDT002097</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/18/94 07:18</DATE>
+<TITLE> SPACE SHUTTLE ENDEAVOUR LAUNCH ABORTED</TITLE>
+<HEADLINE> SPACE SHUTTLE ENDEAVOUR LAUNCH ABORTED</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE 2NDLD </SUBJECT>
+<AUTHOR>     By Beth Dickey </AUTHOR>
+<TEXT>
+<NOTES>    (Eds: Updates throughout, adds background)</NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  On board computers aborted the lauch of The U.S. space shuttle Endeavour Thursday after the engines had ignited, with the space agency's first analysis blaming a fuel pumping mechanism on one of the mighty engines. </P>
+<P> Launch commentator Bruce Buckingham said preliminary indications were that there was a malfunction on a high-pressure oxidizer turbo-pump, which acts like a carburetor in a car, pumping super-chilled fuel into the engines. </P>
+<P> Buckingham said it was a ``very preliminary'' report. ``The specifics are still unclear,'' he said. </P>
+<P> Nine minutes after the aborted launch the crew remained aboard. Buckingham said the crew appeared to be safe. </P>
+<P> NASA said the engines cut off mili-seconds before liftoff. However, observors saw orange flame beneath the tail of the shuttle in the area of the engines one or two seconds after the appointed liftoff time. </P>
+<P> Fire protection systems at the launch pad sprayed water on the shuttle and ground controllers reported that they did not see any fire. </P>
+<P> Buckingham said launch controllers were ``remaining very calm.'' </P>
+<P> This was the fifth launch pad abort in shuttle program history, coming just a year after the last aborted liftoff, when a faulty fuel flow sensor caused on-board computers to halt the launch of the shuttle Discovery. </P>
+<P> Except for the addition of an experiment in earthquake forecasting, Endeavour's mission was to be nearly identical to its previous orbital journey in April. </P>
+<P> There was no early word about another launch date. </P>
+<P> Then, astronauts used the Space Radar Laboratory to help scientists map vegetation, geologic features, ocean waves and curiosities such as a comet crater and an ancient Arabian city. </P>
+<P> They returned to Earth with more than 14,000 still pictures of the planet and hundreds of videotapes containing radar images. </P>
+<P> The laboratory, making its second space flight in four months, consists of a huge antenna and two instruments reputed to be the most sophisticated radars available for non-military use. The United States developed one and Germany and Italy provided the other. </P>
+<P> The ultimate goal of the 64th shuttle mission, like the 62nd, is to help scientists discern natural ecological changes from environmental problems brought on by industry and agriculture. </P>
+<P> This time, scientists are interested particularly in examining the radar images to find differences that occur in the environment from one season to the next. </P>
+<P> Once in orbit, the astronauts were to work in two shifts around the clock snapping still photographs while the $384 million pair of radars map the planet's topography and water distribution. </P>
+<P> NASA hopes to find funding to put similar radars on a constellation of satellites that could monitor the environment continuously. </P>
+<P> Members of the crew are commander Michael Baker, co-pilot Terrence Wilcut, flight engineer Daniel Bursch, and mission specialists Steven Smith, Peter ``Jeff'' Wisoff and Thomas Jones. </P>
+<P> Jones, in charge of science operations, was a crewmember on the April flight. With Thursday's launch, he broke the astronaut record for the shortest time on the planet between missions. </P>
+</TEXT>
+</DOC>

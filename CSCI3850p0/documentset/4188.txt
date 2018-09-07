@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU004-0003.950207</DOCID>
+<TDTID>TDT010174</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 10:37</DATE>
+<TITLE> House panel to vote on health care tax break</TITLE>
+<HEADLINE> House panel to vote on health care tax break</HEADLINE>
+<SUBJECT> BC-HEALTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The House Ways and Means Committee will vote on legislation Wednesday to reinstate a 25 percent tax deduction for health insurance for the self-employed, which expired at the end of last year. </P>
+<P> The bill, introduced by House Ways and Means Committee Chairman Bill Archer, would make the tax break permanent and also make it retroactive for the entire 1994 tax year. </P>
+<P> ``It is time to permanently grant self-employed Americans access to health insurance,'' Archer, a Texas Republican, said in a statement. ``The self-employed should not be penalized when they seek health care coverage for themselves and their families.'' </P>
+<P> Legislation to reinstate the 25 percent deduction and gradually give the self-employed a 100 percent insurance deduction has been introduced in the Senate. </P>
+<P> Various health care proposals under debate by Congress last year would have allowed self-employed individuals to write off the entire cost of their health insurance. Despite months of debate, however, Congress adjourned last year without voting on a comprehensive health reform bill. </P>
+<P> He plans to pay for the tax break by ending a Federal Communications Commission program used to grant tax breaks to corporations that sell broadcast facilities to minority purchasers. </P>
+<P> The health care bill would also make low-income individuals ineligible for the Earned Income Tax Credit if they have more than $2,500 a year in income from interest and dividends. President Clinton included that provision in his 1996 budget. </P>
+</TEXT>
+</DOC>

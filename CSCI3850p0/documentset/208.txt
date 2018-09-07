@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0087.940713</DOCID>
+<TDTID>TDT000499</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/13/94 15:02</DATE>
+<TITLE> GOVERNMENT CALLS FOR AID TO FIREFIGHTERS' FAMILIES</TITLE>
+<HEADLINE> GOVERNMENT CALLS FOR AID TO FIREFIGHTERS' FAMILIES</HEADLINE>
+<SUBJECT> BC-USA-FIRES-INSURANCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Agriculture Secretary Mike Espy has ordered a relief package developed for the families of the 14 firefighters killed battling wildfires in Colorodo last week, a department official said Wednesday. </P>
+<P> ``The secretary has instructed us to develop a relief package that would provide compensation and assistance to the families of the deceased,'' Jim Lyons, Agriculture Department assistant secretary for natural resources, told reporters. </P>
+<P> Many of these were seasonal employees, Lyons said, pointing out they don't have health benefits or life insurance as any other federal employee would have life insurance. </P>
+<P> He said there are limits to the amount of financial assistance we can provide for funerals, etc. </P>
+<P> Thirteen of the 14 firefighters killed in the Glenwood Spring wildfire July 6 were employees of the department's U.S. Forest Service. The other firefighter worked for the Department of Interior's Bureau of Land Management. </P>
+<P> The 14 firefighters, including four women, were burned to death on a mountain ridge when the fast-moving flames overtook them. </P>
+</TEXT>
+</DOC>

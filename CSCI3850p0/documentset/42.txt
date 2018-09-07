@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU002-0002.940703</DOCID>
+<TDTID>TDT000089</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/03/94 07:18</DATE>
+<TITLE> FRENCH TROOPS EVACUATING 600 RWANDA ORPHANS</TITLE>
+<HEADLINE> FRENCH TROOPS EVACUATING 600 RWANDA ORPHANS</HEADLINE>
+<SUBJECT> BC-RWANDA-ORPHANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GOMA, Zaire (Reuter) </DATELINE>
+<P>  French troops started to evacuate 600 Rwandan orphans Sunday from the government-held south Rwandan town of Butare after rebels agreed to a cease-fire during the operation. </P>
+<P> A spokesman at the main French military base at Goma in eastern Zaire for ``Operation Turquoise'' told reporters the evacuation, the biggest since France intervened last month, was underway in Butare, the target of a rebel offensive. </P>
+<P> The head of the Butare orphanage sent a message Saturday to the commander of the U.N. Assistance Mission in Rwanda (UNAMIR) asking French forces to rescue the 600 orphans, who were from both the Tutsi minority and the Hutu majority tribes. </P>
+<P> UNAMIR contacted the rebel Rwanda Patriotic Front (RPF) and secured a promise to stop firing during the operation. </P>
+<P> The spokesman gave no other details. </P>
+<P> The French military says the Tutsi-dominated rebels have mounted an offensive on Butare, the largest town still entirely in government hands, which lies west of the central Rwandan town of Gitarama. </P>
+<P> The French military announced Saturday, on information it said had come from Kigali-based UNAMIR, that rebel forces had completely encircled the city. </P>
+<P> In Kigali Sunday, a U.N. official told Reuters that the RPF had moved part of its main force from the capital to areas farther south. </P>
+<P> ``For the moment, the RPF appears to have abandoned its attempt to capture the remaining areas of Kigali which are still in the hands of government forces,'' the official said. </P>
+</TEXT>
+</DOC>

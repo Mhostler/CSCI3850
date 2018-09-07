@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0175.940829</DOCID>
+<TDTID>TDT002582</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/29/94 09:22</DATE>
+<TITLE> IRAN SAYS 600 KILLED IN IRAQI KURDISH CLASHES</TITLE>
+<HEADLINE> IRAN SAYS 600 KILLED IN IRAQI KURDISH CLASHES</HEADLINE>
+<SUBJECT> BC-IRAN-IRAQ-KURDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA, Cyprus (Reuter) </DATELINE>
+<P>  Iran's state-run radio said Monday that about 600 people had been killed in recent fighting between rival Iraqi Kurdish factions in northern Iraq. </P>
+<P> Tehran Radio said that in the past 10 days about 600 people had died in clashes between groups opposed to President Saddam Hussein's government and damage amounting to millions of dollars had been inflicted on Iraq's impoverished Kurdish region. The radio did not give a source for its figures. </P>
+<P> Turkey's Anatolian news agency said five Kurdish guerrillas and three civilians were killed in ``recent'' clashes in the town of Qala Dizeh between rival Kurdish groups. </P>
+<P> It quoted a member of the Iraqi National Congress that groups Iraqi opposition to Saddam as saying many were wounded in the fighting. It gave no other details. </P>
+<P> Iran, Turkey and Syria, which border Iraq and have Kurdish minorities of their own, have voiced concern about instability in northern Iraq and opposition to any plans to set up an independent Kurdish state. </P>
+<P> Tehran Radio said the fighting was merely about power because rival Kurdish nationalist groups were not much different ideologically or politically. </P>
+</TEXT>
+</DOC>

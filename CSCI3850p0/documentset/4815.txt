@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU005-0071.950309</DOCID>
+<TDTID>TDT011122</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 14:14</DATE>
+<TITLE> Cyberspace meets outer space on shuttle mission</TITLE>
+<HEADLINE> Cyberspace meets outer space on shuttle mission</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE </SUBJECT>
+<AUTHOR>     By Beth Dickey </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla.(Reuter) </DATELINE>
+<P>  A few lucky computer users soared to new heights Thursday, the space shuttle's eighth day in orbit, as Endeavour's crew members began to answer questions submitted to them via the Internet. </P>
+<P> The seven astronauts were at the midpoint of a marathon astronomy mission which is expected to stretch nearly 16 days and become the longest of 68 shuttle flights to date. </P>
+<P> Back on Earth, scientists pored over more and more images of stars, planets and galaxies being beamed down from telescopes in orbit with the crew. </P>
+<P> Endeavour's March 2 launch from Florida coincided with NASA's launch on Internet of a home page in its World Wide Web where computer users can take a virtual reality tour of the space shuttle or see what celestial target the astronauts are observing at any given moment. </P>
+<P> ``Response to the home page has been phenomenal,'' flight commentator Kelly Humphries said at NASA Mission Control in Houston, Texas. The page at http://astro-2.msfc.nasa.gov had logged more than 600,000 visits by computers in 49 countries by Wednesday, ground controllers reported in a written note to the crew. </P>
+<P> One of the cybertourists was identified as Kevin Kelly of Hellertown, Pa., who wanted to know whether the astronauts were permitted to name any stars they might discover. </P>
+<P> ``They're just numbers out of catalogs, usually,'' payload specialist Sam Durrance said in response to the query. </P>
+<P> ``Even though we don't get to name them, we still have a fondness for them,'' added Durrance, an astronomer from Johns Hopkins University. </P>
+<P> The purpose of the mission isn't to discover stars, but to observe them with telescopes capable of detecting ultraviolet light. Three such instruments comprise the $195 million Astro Observatory in Endeavour's open cargo bay. </P>
+<P> So far, the telescopes have revealed a bevy of cosmic events normally hidden from human eyes -- exploding stars, colliding galaxies and even a plume from an erupting volcano on the Jovian moon Io. </P>
+</TEXT>
+</DOC>

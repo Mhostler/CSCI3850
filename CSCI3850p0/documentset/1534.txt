@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU011-0006.940921</DOCID>
+<TDTID>TDT003808</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/21/94 22:13</DATE>
+<TITLE> Scientists find missing link with apes</TITLE>
+<HEADLINE> Scientists find missing link with apes</HEADLINE>
+<SUBJECT> BC-SCIENCE-LINK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Scientists in Ethiopia have discovered the missing link between humans and apes -- 17 fossilized remains of the earliest human ancestors dating from 4.5 million years ago, the scientific journal Nature said Thursday. </P>
+<P> ``They represent the remains of a species that lies so close to the divergence between the lineages leading to the African apes and modern humans that its attribution to the human line is metaphorically -- and literally -- by the skin of its teeth,'' the magazine said. </P>
+<P> Named Australopithecus ramidus, the fossils are being hailed as one of science's most important discoveries. Ramidus means ``root'' in the Afar language of the people of the region near Aramis where the fossils were discovered. </P>
+<P> The remains, which are mainly of teeth, skull and upper arm, were found nearly two years ago but were not reported until their importance was confirmed. </P>
+<P> Scientists said they will not be able to tell if the human ancestor walked upright until a fossil of the leg is discovered. </P>
+<P> ``These fossils represent the oldest direct human ancestors ever found,'' said Berhane Asfaw of the Ethiopian Ministry of Culture in Addis Ababa. </P>
+<P> Asfaw found the remains with Professor Tim White of the University of California and Professor Gen Sua of the University of Tokyo. </P>
+<P> ``The discovery gives us our first good look at the biology of a very ancient ancestor at the root of the human family tree,'' said White. </P>
+<P> It also confirms Charles Darwin's prediction that the deepest roots of human evolutionary history would be found in Africa. </P>
+<P> Man's earliest ancestors were about the size of a pygmy chimpanzee and, judging from the thin enamel on the teeth, they ate fruit. It was also believed they probably lived in a wooded environment. </P>
+<P> The newest find is about a million years older than the previous earliest discovery of Australopithecus, the partial ``Lucy'' skeleton which dated back to 3.6 million years ago. </P>
+<P> ``We have only just begun to understand this ancestor and its environment. I am sure there are more surprises in store for us,'' said White. </P>
+</TEXT>
+</DOC>

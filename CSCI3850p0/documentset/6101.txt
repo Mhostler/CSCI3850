@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU017-0208.950427</DOCID>
+<TDTID>TDT013161</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/27/95 14:22</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BLAST-TERRORISM-FBI -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Freeh, in prepared testimony eight days after the Oklahoma City bombing, said he was greatly concerned about terrorist attacks on American soil in which the aim would be to ``murder as many as possible through a single blow.'' </P>
+<P> He said the FBI had been at an extreme disadvantage in tracking the groups because it had no intelligence or background information on them until their violent talk became deadly action. </P>
+<P> ``I do not support broad and undefined intelligence collection efforts, but law enforcement has to know something about those individuals and groups ... The first rule of self defense is to know the enemy who intends to destroy you.'' </P>
+<P> Freeh asked for action on a number of anti-terror measures requested by the Clinton administration, and said there was a continuing need to recruit sources, informants, agents and support employees from a broad section of society in the United States and abroad. </P>
+</TEXT>
+</DOC>

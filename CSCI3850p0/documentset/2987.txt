@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0094.941203</DOCID>
+<TDTID>TDT007411</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/03/94 15:51</DATE>
+<TITLE> At least 9 dead, 11 missing in Mexico bus mishap</TITLE>
+<HEADLINE> At least 9 dead, 11 missing in Mexico bus mishap</HEADLINE>
+<SUBJECT> BC-MEXICO-BUS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  A bus plunged into a river in the eastern state of Veracruz, killing at least nine people and leaving 11 others missing, a government spokesman said Saturday. </P>
+<P> Rescue workers were attempting to find the missing in the rain-swollen waters of the Huxanapan River near the town of Las Choapas, a spokesman for the nearby city of Minatitlan told Reuters. </P>
+<P> The spokesman said the accident occurred Friday when the bus plunged into water about 30 feet deep after its brakes failed as it approached a small ferry that was to take it across the river. </P>
+<P> Twenty-four people were rescued from the bus and were in good condition, the spokesman said. </P>
+<P> Las Choapas is located 27 miles east of Minatitlan on the border with the state of Tabasco. </P>
+</TEXT>
+</DOC>

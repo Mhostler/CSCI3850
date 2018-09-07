@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0281.950323</DOCID>
+<TDTID>TDT011620</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 15:52</DATE>
+<TITLE> Mexican policemen try to mug president's son</TITLE>
+<HEADLINE> Mexican policemen try to mug president's son</HEADLINE>
+<SUBJECT> BC-MEXICO-ZEDILLO-MUGGING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  Three Mexican police officers tried to mug the eldest son of Mexican President Ernesto Zedillo last week, but were themselves arrested by the young man's bodyguards, officials said on Thursday. </P>
+<P> The gun-wielding state policemen surrounded a car carrying Ernesto Zedillo Velasco, 19, and his driver in a wealthy Mexico City suburb last Friday, officials said. </P>
+<P> The policemen, unaware of another nearby car carrying presidential bodyguards, tried to hold up Zedillo and his driver before being overpowered and arrested by the bodyguards. </P>
+<P> Mexican officials downplayed the incident. </P>
+<P> ``It was a simple and unfortunate robbery attempt,'' a spokeswoman at the president's office told Reuters. ``They had no idea who they were sticking up.'' </P>
+<P> The three police officers were being held in custody. </P>
+</TEXT>
+</DOC>

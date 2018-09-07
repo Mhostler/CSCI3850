@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU009-0031.950317</DOCID>
+<TDTID>TDT011375</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/17/95 13:15</DATE>
+<TITLE> Two U.N. aircraft hit by gunfire in Sarajevo</TITLE>
+<HEADLINE> Two U.N. aircraft hit by gunfire in Sarajevo</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-ATTACK </SUBJECT>
+<AUTHOR>     By Kurt Schork </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  Two U.N. planes were hit by gunfire while landing at Sarajevo airport Friday, throwing the future of Bosnia's humanitarian airlift into grave doubt, U.N. spokesmen said. </P>
+<P> An Ilyushin-76 cargo plane was hit by two rounds and a Yak-40 passenger plane was hit by a single round a few minutes later, U.N. spokesman Alexander Ivanko said. </P>
+<P> ``The planes were hit by heavy machine-gun rounds or by a 20mm anti-aircraft cannon. We are investigating the incident and the firing point has not yet been determined,'' he said. </P>
+<P> The United Nations made no mention of casualties. </P>
+<P> Humanitarian aid flights into Sarajevo had been suspended all week after a Red Cross plane was hit by gunfire last Saturday. A plane carrying U.N. envoy Yasushi Akashi was holed the next day. </P>
+<P> ``Friday's incidents at the Sarajevo airport are very worrying with regard to the future of the humanitarian airlift,'' said Michael Williams, Akashi's spokesman. </P>
+<P> ``A committee met in Geneva on the airlift Wednesday and decided it was not yet safe to resume flights. Today's attacks can only make matters worse.'' </P>
+<P> Sarajevo's airport sits between Bosnian government and separatist Serb lines west of the city. </P>
+<P> Humanitarian flights have been suspended frequently as a result of shooting incidents in the course of the 34-month airlift. </P>
+<P> The spate of recent attacks have been deliberate and potentially deadly. </P>
+<P> U.N. administrative flights carrying peacekeepers and civilian staff in and out of the Bosnian capital fly even when aid flights have been halted. The planes hit Friday fell into this category. </P>
+<P> Serb forces surrounding Sarajevo cut off land routes into the city last weekend in retaliation for the deaths of two young Serb girls shot by government forces. </P>
+<P> With land routes into the capital closed, as they have been throughout most of the 35-month Bosnian war, the U.N. airlift is once again Sarajevo's principal link to the outside world. </P>
+<P> About 380,000 people will be depending on aid flights for th bulk of their food and medicine once current stocks in the city run down. </P>
+</TEXT>
+</DOC>

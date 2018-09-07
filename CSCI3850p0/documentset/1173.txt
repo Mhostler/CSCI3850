@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU002-0313.940905</DOCID>
+<TDTID>TDT002901</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/05/94 12:19</DATE>
+<TITLE> IAEA boss says nuclear power hurt by scare reports</TITLE>
+<HEADLINE> IAEA boss says nuclear power hurt by scare reports</HEADLINE>
+<SUBJECT> BC-NUCLEAR-POWER 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VIENNA (Reuter) </DATELINE>
+<P>  U.N. atomic agency chief Hans Blix said Monday the end of the Cold War should make nuclear power more acceptable but the industry was still tainted by scare reports of plutonium trafficking and safety breaches. </P>
+<P> Blix, director general of the International Atomic Energy Agency (IAEA), said more countries would adopt nuclear power to generate electricity only if the industry continued to demonstrate its safety and environmental advantages. </P>
+<P> ``With the end of the Cold War and the prospect of massive nuclear disarmament, the fear of nuclear war should no longer rub off on nuclear power,'' Blix said in a speech opening a four-day conference on the future of nuclear power. </P>
+<P> ``It is regrettable that the issues which now dominate the media tend to create an atmosphere in which it is difficult to have a balanced public discussion of the nuclear power option.'' </P>
+<P> Delegates among the 200 experts from 37 countries stressed the need for global cooperation on safety and new technology. </P>
+<P> But the specter of nuclear bombs sprouting in the world's potential flashpoints, careless dumping of toxic waste and fears of ``another Chernobyl'' have harmed prospects of what advocates insist is a reliable source of cheap, clean energy. </P>
+<P> Blix said alarm over plutonium trafficking and the nuclear programmes of such states as Iraq and North Korea had overshadowed the benefits of nuclear power. </P>
+<P> ``Disturbing as some of these developments are, they do not negate the overriding trend toward ever greater international cooperation to promote the peaceful use of nuclear energy,'' he said. </P>
+<P> Germany seized three small consignments of plutonium and one of uranium this year, which Bonn said had come from Russia. </P>
+<P> Russian nuclear experts said Moscow's dependence on nuclear power could double by the year 2010 but any further boost in output would depend on safety and cost. </P>
+<P> Russia has 29 nuclear reactors, producing 12.5 percent of its electricity supply. Four more are under construction. </P>
+<P> Viktor Sidorenko of Russia's Atomic Energy Ministry told the conference that new plant designs were based on modern safety regulations and old units were now subject to stringent annual security checks. </P>
+<P> ``International collaboration and cooperation have become an integral part and condition for activities in the field of nuclear power in Russia,'' Sidorenko said. ``This gives additional assurance of a successful and safe nuclear power development in our country.'' </P>
+<P> The 1986 explosion at Chernobyl in Ukraine was the world's worst civilian nuclear disaster. </P>
+<P> The blast, which killed 31 people outright and an estimated 8,000 more from the after-effects, spewed a radioactive cloud over Europe, contaminating crops and livestock. </P>
+</TEXT>
+</DOC>

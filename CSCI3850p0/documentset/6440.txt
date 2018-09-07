@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU007-0244.950510</DOCID>
+<TDTID>TDT013651</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/10/95 15:06</DATE>
+<TITLE> Three Americans kidnapped in Guatemala</TITLE>
+<HEADLINE> Three Americans kidnapped in Guatemala</HEADLINE>
+<SUBJECT> BC-GUATEMALA-KIDNAP </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GUATEMALA CITY (Reuter) </DATELINE>
+<P>  Three Americans, two of them children, have been kidnapped by unidentified gunmen in a village near Guatemala City, police said Wednesday. </P>
+<P> Police said Sheryl Gomez Swine, 42, and her two children Clementina, 6, and Juan Pablo, 4, were kidnapped early Tuesday as they arrived at a school in San Lucas Sacatepequez, about 15 miles from the capital. </P>
+<P> Four gunmen seized the family and drove away in a red Dodge truck, a police spokesman said. No ransom demand has so far been made for the family, which has lived in Guatemala for several years, he added. </P>
+<P> The U.S. Embassy in Guatemala City declined to comment on the kidnapping. </P>
+<P> Guatemala has been hit by a spate of kidnappings for ransom over the past few months. In March Congress approved the death penalty for kidnapping in an attempt to crack down on one of Guatemala's fastest-growing crimes. </P>
+<P> The U.S. Federal Bureau of Investigation this week began training members of Guatemala's elite anti-kidnap unit. </P>
+<P> No Americans have been kidnapped here since April 1994 when a seven-year-old school girl was seized in Guatemala City. She was later released. </P>
+</TEXT>
+</DOC>

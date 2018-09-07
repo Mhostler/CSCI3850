@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0342.941128</DOCID>
+<TDTID>TDT007089</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/28/94 03:54</DATE>
+<TITLE> Turkish clubs firebombed in German city</TITLE>
+<HEADLINE> Turkish clubs firebombed in German city</HEADLINE>
+<SUBJECT> BC-GERMANY-ARSON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BONN, Germany (Reuter) </DATELINE>
+<P>  German police detained four Turks Monday as suspects in arson attacks on a Turkish cultural center and a nearby Turkish sports club in the northern city of Bremen. </P>
+<P> Police earlier reported that several far-right radicals were detained for questioning about the attacks, which occurred just after midnight. </P>
+<P> In Hamburg and the northern state of Schleswig-Holstein, meanwhile, unidentified attackers threw gasoline bombs at three other Turkish establishments and restaurants, but no one was hurt and little damage was caused. </P>
+<P> The cultural association building in Bremen was destroyed and three elderly people in a nearby house had to be treated for smoke inhalation. They were later discharged. </P>
+<P> Two gasoline bombs tossed into the sports club caused only minor damage, police said. </P>
+<P> About 30 people have been killed in attacks carried out by far-right groups since German unification in 1990. </P>
+<P> But over the past year, police have blamed many such attacks on conflicts between left- and right-wing Turkish groups or on Kurdish militants sympathetic to the Kurdistan Workers Party (PKK), which has waged a 10-year war for an independent Kurdish homeland in southeast Turkey. </P>
+</TEXT>
+</DOC>

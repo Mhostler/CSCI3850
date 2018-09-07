@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU008-0162.950118</DOCID>
+<TDTID>TDT009455</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/18/95 15:14</DATE>
+<TITLE> Supreme Court allows some frequent flier claims</TITLE>
+<HEADLINE> Supreme Court allows some frequent flier claims</HEADLINE>
+<SUBJECT> BC-COURT-AIRLINES </SUBJECT>
+<AUTHOR>     By James Vicini </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Supreme Court said Wednesday that millions of passengers seeking damages for changes American Airlines Inc. made in its frequent flier program could proceed on some claims. </P>
+<P> In a mixed ruling for the carrier, the justices ruled the breach of contract claims could proceed in state court in Illinois, but the consumer fraud claims were barred under a 1978 federal airline deregulation law. </P>
+<P> At issue are retroactive program changes in 1988 that barred the use of frequent flier coupons on popular travel dates and set seat limits for coupon-travelers on some flights. </P>
+<P> Members of American's frequent flier program, in effect since 1981, sued for breach of contract and fraud under Illinois state law. </P>
+<P> In asking the Supreme Court to review the case, American argued federal, not state, law, takes precedence in cases involving airline rates, routes and services. </P>
+<P> ``The decision (by the Illinois Supreme Court allowing the lawsuit to go forward) threatens the economic stability of the airline industry,'' American said in its appeal, noting it and other carriers face possible ``massive liability.'' </P>
+<P> American was backed by the airline industry trade association in its appeal. </P>
+<P> American has denied illegally changing the program rules. It has warned losing the class-action lawsuit could threaten the future of its frequent flier program by placing it under regulation of the states instead of the federal government. </P>
+<P> Other airlines that made similar changes in their frequent flier programs also could face lawsuits. </P>
+<P> Six of the Supreme Court justices agreed the breach of contract claims should go forward. Justice John Paul Stevens said he would go even further, allowing the fraud claims as well to proceed. </P>
+<P> Justices Sandra Day O'Connor and Clarence Thomas dissented, saying none of the claims should be allowed to proceed. </P>
+<P> Justice Ruth Bader Ginsburg said for the court majority that federal law ``bars state-imposed regulation of air carriers, but allows room for court enforcement of contract terms set by the parties themselves.'' </P>
+<P> She added that the ``terms and conditions airlines offer and passengers accept are privately ordered obligations'' and thus not barred by federal law. </P>
+<P> The position adopted by the high court was the one that had been advocated by the Justice Department on behalf of the Department of Transportation. </P>
+<P> Ginsburg said the plaintiffs to succeed must show an ''unfair or deceptive practice.'' </P>
+<P> She also said American must get a full hearing to present its arguments that it reserved the right to change the value of already accumulated mileage credits, not just miles recorded after 1988. </P>
+<P> The high court's decision sends the case back to Illinois for more hearings. </P>
+</TEXT>
+</DOC>

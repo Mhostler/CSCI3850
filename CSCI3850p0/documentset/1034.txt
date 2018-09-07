@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0048.940828</DOCID>
+<TDTID>TDT002563</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/28/94 05:13</DATE>
+<TITLE> ISRAELI CABINET APPROVES WEST BANK DEAL</TITLE>
+<HEADLINE> ISRAELI CABINET APPROVES WEST BANK DEAL</HEADLINE>
+<SUBJECT> BC-MIDEAST-HANDOVER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israel's government Sunday unanimously ratified a pact giving Palestinians control of some social and economic aspects of authority in Israeli-occupied parts of the West Bank, an official said. </P>
+<P> ``Approved. All were for it,'' a spokeswoman in Prime Minister Yitzhak Rabin's office said of the cabinet's approval of the agreement. </P>
+<P> The Palestinian Authority, which administers self-rule, ratified the agreement on Saturday. PLO chief negotiator Nabil Shaath said it would be signed on Monday, formally setting in motion a new phase of the 11-month-old peace deal on Palestinian self-rule. </P>
+<P> Under the ``early empowerment'' accord hammered out in talks in Egypt and initialled on Wednesday, Israel pledges to hand over to the PLO control of education, health, taxation, tourism, and social welfare. </P>
+<P> In May, Palestinian self-rule began in the Gaza Strip and West Bank town of Jericho. </P>
+</TEXT>
+</DOC>

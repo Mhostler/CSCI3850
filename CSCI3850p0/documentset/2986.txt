@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU002-0091.941203</DOCID>
+<TDTID>TDT007410</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/03/94 15:39</DATE>
+<TITLE> NATO resumes flights over Bosnia, Serbs protest</TITLE>
+<HEADLINE> NATO resumes flights over Bosnia, Serbs protest</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-FLIGHTS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: Writethru, adds background)</NOTES>
+<DATELINE>SARAJEVO (Reuter) </DATELINE>
+<P>  NATO warplanes resumed flights over Bosnia Saturday after standing down for three days at the U.N.'s request, prompting Serb forces to warn that no aircraft were safe over Bosnia, a U.N. source said. </P>
+<P> ``NATO resumed overflights Saturday as a sort of trial balloon,'' said a U.N. source who asked not to be named. </P>
+<P> ``That prompted the Serbs to send a (letter) to UNPROFOR (U.N. Protection Force) reiterating their position that no aircraft are safe over Bosnia.'' </P>
+<P> NATO, which has been serving as the U.N.'s air enforcement arm over Bosnia, stopped flying over the country Wednesday at U.N. request, United Nations officials said. </P>
+<P> Serb missile batteries had been regularly locking their radar on to NATO jets, a hostile act under international rules of engagement, and U.N. officials feared NATO would respond, escalating the war in Bosnia. </P>
+<P> The office of the U.N. commander in Bosnia, Lt.-Gen. Sir Michael Rose, confirmed the resumption of NATO overflights and the Serb response -- but said the Serb letter might have come as part of a routine exchange of correspondence. </P>
+<P> Rose and U.N. special envoy Yasushi Akashi met Bosnian Serb leaders Friday evening and discussed missile sites and NATO overflights. </P>
+<P> ``We sent a letter to the Serbs advising them that NATO would be resuming some flights and explaining why these should not be interpreted as posing a threat,'' said a U.N. official in Sarajevo. </P>
+<P> ``(Bosnian Serb leader Radovan) Karadzic responded by laying out his position that there was no reason for overflights and insisting on the Serbs' right of self-defense. He made the same points to us in person Friday night.'' </P>
+<P> NATO aircraft have several roles in Bosnia. One is to maintain a no-fly zone over the country, primarily to prevent Serb aircraft from bombing Bosnian government targets. </P>
+<P> The other is to provide close air support for peacekeepers who come under attack and for civilians in U.N.-designated ``safe areas.'' </P>
+<P> When Serbs from Croatia mounted air attacks on the safe area of Bihac in northwestern Bosnia last month, NATO responded by bombing the airfield from which the attacks were launched. </P>
+<P> NATO also attacked surface-to-air missile batteries after they locked on to its warplanes on patrol over Bosnia. </P>
+<P> Serb ground troops subsequently entered the Bihac safe area, overrunning about a third of the enclave. </P>
+<P> NATO then told the United Nations it could not provide close air support to peacekeepers and civilians in Bihac unless it carried out extensive bombing campaigns to neutralise the Serb missiles. </P>
+<P> Having had about 500 of its peacekeepers and military observers taken hostage by the Serbs as insurance against just such strikes, the United Nations -- which must initiate any air action other than those in self-defense -- refused to authorize the attacks. </P>
+<P> NATO Secretary-General Willy Claes denied the alliance had received a request to stop flying over Bosnia. </P>
+<P> But military sources told Reuters that NATO enforced the no-fly zone even when it was not flying over Bosnia by using sophisticated radar planes that looked into the country's airspace from elsewhere in Europe. </P>
+<P> The sources said NATO aircraft on carriers in the Adriatic and at bases in Italy were on stand-by at minutes' notice to intercept violators of the no-fly zone and to provide close air support to peacekeepers and civilians if called in by the United Nations. </P>
+</TEXT>
+</DOC>

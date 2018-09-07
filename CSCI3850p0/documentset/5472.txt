@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0220.950405</DOCID>
+<TDTID>TDT012131</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/05/95 09:40</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-MIDEAST-ISRAEL-SATELLITE -2 JERUSALEM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> In 1988 and 1990 Israel launched experimental prototypes of the Ofek. Ofek 2 was sent up in April, 1990, one day after Iraqi leader Saddam Hussein threatened to destroy ``half of Israel'' with chemical weapons if the Jewish state participated in an attack on Baghdad. </P>
+<P> After the 1991 Gulf War, in which Iraq fired 39 Scud missiles at Israeli cities, then defense minister Moshe Arens said Israel could not depend on its ally Washington for satellite intelligence data. </P>
+<P> He said Israel urgently needed a military spy satellite of its own. </P>
+<P> Western experts believe Israel's Shavit rocket is a civilian version of the top-secret Jericho missile, thought to be capable of delivering nuclear weapons to targets throughout the Middle East. </P>
+</TEXT>
+</DOC>

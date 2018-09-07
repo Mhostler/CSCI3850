@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0016.950515</DOCID>
+<TDTID>TDT013809</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/15/95 03:20</DATE>
+<TITLE> At least 31 killed in India train crash</TITLE>
+<HEADLINE> At least 31 killed in India train crash</HEADLINE>
+<SUBJECT> BC-INDIA-TRAIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, May 15 (Reuter) </DATELINE>
+<P>  At least 31 people were killed when a southbound express train from the south Indian city of Madras collided head-on with a goods train late on Sunday, the Press Trust of India reported on Monday. </P>
+<P> The death toll was expected to rise as rescue operations were still under way, PTI quoted railway sources as saying in Madras. </P>
+<P> It said three coaches of the train overturned and four went off the rails when the train, bound for Kanyakumari, the southernnmost point on the Indian, crashed into the goods train. </P>
+<P> The crash took place about 20 kilometres (12.5 miles) from Salem, in the southern state of Tamil Nadu. </P>
+<P> A railway spokesman told PTI that Railway Minister C.K. Jaffer Sharief and other officials had reached the spot to supervise relief and rescue operations. </P>
+</TEXT>
+</DOC>

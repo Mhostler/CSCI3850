@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0344.940909</DOCID>
+<TDTID>TDT003121</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/09/94 18:19</DATE>
+<TITLE> Peres and Arafat to meet in Oslo</TITLE>
+<HEADLINE> Peres and Arafat to meet in Oslo</HEADLINE>
+<SUBJECT> BC-ISRAEL-PALESTINIANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israeli Foreign Minister Shimon Peres and PLO chairman Yasser Arafat will meet in Oslo on September 13, Israel Television reported Friday. </P>
+<P> The two will attend a concert in the city to mark the first anniversary of the historic Israel-PLO peace accord, initiated in secret talks in Norway. </P>
+<P> ``We have already learned from experience, that when difficulties arise, when there is a delay, meetings between Foreign Minister Peres...and the head of the Palestinian National Authority, Yasser Arafat, such meetings lead in the end to an agreement,'' Sarid said. </P>
+<P> Palestinians irked Israel at the conference by including in their 1995 budget projects in Jerusalem, which Israel regards as its eternal and indivisible capital. </P>
+<P> The Palestinians view East Jerusalem as the future capital of a Palestinian state. </P>
+<P> Israel and the PLO signed a peace accord on Palestinian self-rule in the Gaza Strip and the West Bank town of Jericho on September 13 last year. </P>
+</TEXT>
+</DOC>

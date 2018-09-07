@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU009-0268.950219</DOCID>
+<TDTID>TDT010571</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/19/95 00:58</DATE>
+<TITLE> Strong quake hits off northern California coast</TITLE>
+<HEADLINE> Strong quake hits off northern California coast</HEADLINE>
+<SUBJECT> BC-QUAKE-CALIFORNIA 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Updates with later quake; pvs South Lake Tahoe)</NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  A strong earthquake was felt through a wide area of northern California Saturday evening but there were no reports of damage or injuries, officials said. </P>
+<P> The quake, measuring 6.6 on the Richter scale, was centered in the Pacific Ocean about 80 miles west-southwest of Eureka, a town on the northern California coast, said John Minsch, a geophysicist at the National Earthquake Information Center in Golden, Colo. </P>
+<P> He said the quake was felt in many coastal areas and as far south as the northern part of the San Francisco Bay area, 200 miles south of Eureka. </P>
+<P> Residents of northern California coastal towns who called a San Francisco radio station reported feeling the quake, but they said the tremor caused no damage and did not even knock objects off shelves. </P>
+<P> Minsch said a larger quake had been recorded in the same general area last September, but it was not yet known if this was an aftershock to the earlier tremor. </P>
+<P> Earlier Saturday a 4.1-magnitude earthquake rattled South Lake Tahoe, a popular resort in the Sierra Nevada mountains of northern California, officials said. </P>
+<P> The quake was centered about 20 miles southeast of Lake Tahoe, along the California-Nevada border, the National Earthquake Information Center said. </P>
+<P> There were no reports of damage or injuries. </P>
+</TEXT>
+</DOC>

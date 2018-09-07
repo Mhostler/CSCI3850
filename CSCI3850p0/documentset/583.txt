@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0176.940803</DOCID>
+<TDTID>TDT001426</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 17:24</DATE>
+<TITLE> GUNMEN SHOOT AND WOUND ISRAELI SOLDIER NEAR HEBRON</TITLE>
+<HEADLINE> GUNMEN SHOOT AND WOUND ISRAELI SOLDIER NEAR HEBRON</HEADLINE>
+<SUBJECT> BC-ISRAEL-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Gunmen shot and wounded an Israeli soldier traveling in an army jeep near Hebron in the occupied West Bank on Wednesday, military sources said. </P>
+<P> They said troops were searching for the attackers. </P>
+<P> Jewish settler sources said the gunmen fired on the army jeep from a moving vehicle and fled in the direction of Hebron. The attack was similar to one Tuesday near the same place. A soldier was also wounded in that incident. </P>
+<P> Settlers said after Tuesday's attack an army decision to thin out forces in the Hebron area was mistaken. </P>
+<P> Hebron, home to some 100,000 Palestinians with about 400 Jews living in heavily fortified enclaves, is a flashpoint of Jewish-Arab violence. It is the site of the Tomb of the Patriarchs, which is sacred to both Muslims and Jews. </P>
+</TEXT>
+</DOC>

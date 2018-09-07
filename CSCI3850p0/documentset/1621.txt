@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU013-0123.940927</DOCID>
+<TDTID>TDT004038</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/27/94 10:40</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CLINTON-RUSSIA-ARRIVE -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Clinton said U.SS and Russian interests now coincide on many points ``and where we do disagree, we can discuss our differences in a climate of warm peace, not Cold War ... In short, our nations are growing closer together, replacing suspicion and fear with trust and cooperation.'' </P>
+<P> Yeltsin, meeting Clinton for the fifth time since their first summit in Vancouver, Canada, in April 1993, replied through a translator that the United States ``is a strong partner and not an easy one to deal with -- just like Russia.'' </P>
+<P> ``We can and indeed must render our collaboration dynamic and make it more effective in the economic sector and coordinate our efforts more closely on the international scene,'' he said. ``I firmly believe that the nations of Russia and America and the nations of the world will only benefit from that.'' </P>
+</TEXT>
+</DOC>

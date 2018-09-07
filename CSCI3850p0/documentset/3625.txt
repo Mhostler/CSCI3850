@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0127.950107</DOCID>
+<TDTID>TDT009002</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/07/95 12:20</DATE>
+<TITLE> Old shell kills two young Moroccan shepherds</TITLE>
+<HEADLINE> Old shell kills two young Moroccan shepherds</HEADLINE>
+<SUBJECT> BC-MOROCCO-SHELL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RABAT, Morocco (Reuter) </DATELINE>
+<P>  Two brothers aged 9 and 13 died when they threw an old artillery shell into a fire and it exploded in a remote Atlas mountain village, the Moroccan news agency said Saturday. </P>
+<P> The shell dated from the days of French colonial times, 1912-56, it said. </P>
+</TEXT>
+</DOC>

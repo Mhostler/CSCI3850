@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU007-0220.941115</DOCID>
+<TDTID>TDT006534</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/15/94 09:04</DATE>
+<TITLE> Eight killed, 60 wounded in Algerian jailbreak bid</TITLE>
+<HEADLINE> Eight killed, 60 wounded in Algerian jailbreak bid</HEADLINE>
+<SUBJECT> BC-ALGERIA-PRISON 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: expands on fighting, adds earlier prison violence)</NOTES>
+<DATELINE>TUNIS, Tunisia (Reuter) </DATELINE>
+<P>  Eight people were killed and 60 wounded when Muslim militants on death row spearheaded a jailbreak attempt in southern Algeria, an Algerian daily reported Tuesday. </P>
+<P> Al-Watan said violence erupted Sunday in the Berrouaghia prison outside the capital Algiers when the militants led hundreds of fellow inmates in a clash with prison guards. About 700 condemned Muslim fundamentalists joined by about 100 other inmates took control of the prison for several hours and tried to seize hostages among prison guards. </P>
+<P> Rebellious prisoners armed with knives stolen from the kitchen or smuggled in by members of their families set ablaze their own belongings, beds, the kitchen and the nursing room, the newspaper said. Guards charged and opened fire, killing eight militants and wounding 58, it said. Two guards were hurt. </P>
+<P> It was the second major prison bloodshed in the North African country since fundamentalists bent on toppling the army-backed government plunged it into civil strife three years ago. Last March hundreds of militants helped by Muslim guerillas outside prison escaped from their cells in the Tazoult prison in eastern Algeria. Security forces killed at least 60 of them in clashes after the jailbreak. </P>
+</TEXT>
+</DOC>

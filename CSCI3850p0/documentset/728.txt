@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU006-0112.940812</DOCID>
+<TDTID>TDT001780</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/12/94 01:01</DATE>
+<TITLE> FINAL GAME BEFORE STRIKE DEADLINE ENDS</TITLE>
+<HEADLINE> FINAL GAME BEFORE STRIKE DEADLINE ENDS</HEADLINE>
+<SUBJECT> BC-BASEBALL-STRIKE URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK, Aug 12 (Reuter) </DATELINE>
+<P>  The final Major League baseball game on Thursday's schedule ended shortly before 1:00 am EDT in Oakland, unofficially beginning a strike by Major League players. </P>
+<P> Players Association official Gene Orza said no announcement of a strike would be made and technically the strike will begin when players fail to show up for Friday's games. </P>
+<P> No negotiations are scheduled between representatives of the players and owners, virtually assuring baseball's eighth work stoppage in the last 22 years. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0277.950127</DOCID>
+<TDTID>TDT009807</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/27/95 05:13</DATE>
+<TITLE> U.S. pressuring Chrysler to recall 4 million</TITLE>
+<HEADLINE> U.S. pressuring Chrysler to recall 4 million</HEADLINE>
+<SUBJECT> BC-CHRYSLER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Government officials are pressuring Chrysler Corp. to voluntarily recall about four million minivans and replace the rear-door latch, which has been cited in about 25 deaths, the Wall Street Journal reported Friday. </P>
+<P> The National Highway Traffic Safety Administration has conducted an analysis to figure if the rear latch, which has been used in all Chrysler minivans since 1983, is defective, the paper said. </P>
+<P> Passengers can be ejected from the rear door of the minivan in certain types of accidents, the paper said.  The agency has been trying to convince the company to recall the Dodge Caravan, Plymouth Voyager and Chrysler Town and Country on its own, the paper said, citing officials at the agency and the Department of Transportation. </P>
+<P> The agency's analysis of the door latches is expected to be completed in a few weeks and could bring the agency to order a recall or decide one is unwarranted, the paper said. </P>
+<P> Chrysler was not immediately available for comment. </P>
+</TEXT>
+</DOC>

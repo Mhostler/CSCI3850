@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU015-0168.940930</DOCID>
+<TDTID>TDT004267</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/30/94 16:38</DATE>
+<TITLE> Palestinian killed, soldier wounded in Hebron</TITLE>
+<HEADLINE> Palestinian killed, soldier wounded in Hebron</HEADLINE>
+<SUBJECT> BC-MIDEAST-HEBRON-ATTACK 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds name of dead man, that he supported Hamas)</NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israeli soldiers shot and killed a Palestinian after he stabbed and wounded a soldier in the occupied West Bank town of Hebron Friday, Israeli security sources said. </P>
+<P> They said the incident took place near the Tomb of the Patriarchs in the heart of Hebron, home to 100,000 Arabs. </P>
+<P> The tomb complex, a site sacred to Jews and Muslims, has been closed to the public since a Jewish settler killed some 30 Arab worshippers at the mosque there February 25. </P>
+<P> Palestinian sources identified the dead man as Nader Abu Ishkhaidem, 20. They said he supported the Islamic Resistance Movement Hamas. The group opposes the Israel- PLO peace deal. </P>
+<P> They said the Israeli army immediately imposed a curfew on the center of Hebron, where about 400 Jews live in several small, fortified enclaves. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU003-0199.940907</DOCID>
+<TDTID>TDT002986</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/07/94 05:04</DATE>
+<TITLE> South Africa car strike highlights black militancy</TITLE>
+<HEADLINE> South Africa car strike highlights black militancy</HEADLINE>
+<SUBJECT> BC-SAFRICA-LABOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG, South Africa (Reuter) </DATELINE>
+<P>  Thousands of South African auto workers streamed back to work Wednesday after a costly five-week strike that highlighted the rising black labor militancy challenging President Nelson Mandela's government. </P>
+<P> Assembly lines started rolling in all but one of South Africa's seven major auto plants, which assemble German and Japanese vehicles, after a union representing the 25,000 workers suspended the stoppage pending further negotiations on a pay claim. </P>
+<P> In direct costs alone, the motor industry lost more than $700 million, with workers sacrificing about $26 million in lost wages and Mandela's four month-old government losing $139 million in taxation from the companies. </P>
+<P> But indirectly the costs from this strike and walkouts in the metal, trucking, paper, mining and oil industries since June could be much higher, economic analysts said. </P>
+<P> ``Industrial action has never before been as intense as what we have seen since the (April) election. That's what is causing concern to business and foreign investors,'' analyst Duncan Innes said. </P>
+<P> ``Workers who helped the African National Congress into power are looking for a political dividend. But business has just come through a very damaging recession, and there isn't much to play with,'' Innes added. </P>
+<P> In June, 41 recorded strikes led to 72,000 man days lost, while in July 200,000 man days were lost during 23 strikes. </P>
+<P> The South African Chamber of Business put the cumulative loss of production as a result of recent strikes at about $830 million, or 0.5 percent of gross domestic product. </P>
+<P> ``The costs are a tragedy but you can't change a whole system and not expect any cost,'' said Pieter Laubscher of Stellenbosch University's Bureau for Economic Research. </P>
+</TEXT>
+</DOC>

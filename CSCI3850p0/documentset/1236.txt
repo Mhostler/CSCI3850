@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU004-0207.940909</DOCID>
+<TDTID>TDT003086</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/09/94 08:37</DATE>
+<TITLE> U.S. wholesale prices show new inflationary pressure</TITLE>
+<HEADLINE> U.S. wholesale prices show new inflationary pressure</HEADLINE>
+<SUBJECT> BC-USA-ECONOMY-PRICES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  U.S. wholesale prices posted the biggest monthly gain in nearly four years last month, the Labor Department said Friday, as higher prices across the board pointed to a resurgence in inflationary pressures. </P>
+<P> The surprisingly strong 0.6 percent jump in the Producer Price Index followed a 0.5 percent increase in July. Fuel prices advanced sharply and beef prices took their largest leap in nearly nine years. </P>
+</TEXT>
+</DOC>

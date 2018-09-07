@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0408.950414</DOCID>
+<TDTID>TDT012543</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/14/95 00:16</DATE>
+<TITLE> Earthquake rattles west Texas, New Mexico</TITLE>
+<HEADLINE> Earthquake rattles west Texas, New Mexico</HEADLINE>
+<SUBJECT> BC-QUAKE-TEXAS 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Adds details, previous GOLDEN, Colo.)</NOTES>
+<DATELINE>ALPINE, Texas (Reuter) </DATELINE>
+<P>  An earthquake measuring 5.6 on the open-ended Richter scale shook west Texas and parts of southeastern New Mexico Thursday in what seismologists believe to be the biggest quake in Texas in 64 years. </P>
+<P> The National Earthquake Information Center in Golden, Colo., said the epicenter of the quake was in Alpine, Texas, about 225 miles southeast of El Paso in the sparsely populated far western part of Texas. </P>
+<P> An Alpine police spokesman said in a television interview that the quake, which occurred at 7:33 pm CDT (8:33 EDT), caused only slight damage, such as cracks in buildings and broken windows. There were reports of some small fires caused by broken gas mains. </P>
+<P> Alpine resident Dan Akers told Houston CBS affiliate KHOU- TV that some people were hurt by articles falling from walls or bookshelves. </P>
+<P> The quake was felt in an area stretching from Roswell, N.M. to San Antonio, Texas and as far north as Dallas. </P>
+<P> Students at the University of Texas in Arlington, between Dallas and Fort Worth, told reporters they felt a shaking sensation and saw furniture rattle. </P>
+</TEXT>
+</DOC>

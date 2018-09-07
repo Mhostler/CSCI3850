@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU006-0266.941012</DOCID>
+<TDTID>TDT004925</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/12/94 16:37</DATE>
+<TITLE> Consolidated Edison ``lied'' about asbestos -- prosecutor</TITLE>
+<HEADLINE> Consolidated Edison ``lied'' about asbestos -- prosecutor</HEADLINE>
+<SUBJECT> BC-ASBESTOS </SUBJECT>
+<AUTHOR>     By Jeanne King </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The utility company Consolidated Edison and one of its former executives lied and made up a story that asbestos found at the site of a Manhattan steam pipe explosion came from someone else, prosecutors said in court Wednesday. </P>
+<P> However, in opening statements at the trial of Consolidated Edison and former executive Constantine Papakrasas, a lawyer for Papakrasas disputed prosecutors' remarks. </P>
+<P> He told a Manhattan Federal Court jury that the ``20 to 40 bags marked asbestos'' found the morning after the August 19, 1989, explosion came from another firm ``doing some cleanup abatement work in the area.'' </P>
+<P> ``That's how asbestos got in our samples,'' said the lawyer, John Wing. </P>
+<P> The utility, one of the largest in the United States, and the executive are accused of failing to tell government officials that the explosion in one of its manholes released huge amonts of asbestos in the air. </P>
+<P> The blast in Manhattan's well-to-do Gramercy Park district killed three people, injured 24, caused millions of dollars in damage and spewed more than 200 pounds of asbestos in the air. </P>
+<P> An eight-count federal criminal indictment charges the release of the contamination was reported only after it became public that residents of one building had conducted tests and found asbestos in the building. </P>
+<P> The indictment also alleged the company and the executive concealed the information for four days after the blast to avoid the cost of cleaning up the asbestos, which experts say can cause cancer or lung disease if inhaled over a long period of time. </P>
+<P> In his opening statement Wednesday, chief assistant U.S. Attorney Matthew Fishbein said that the utility and Papakrasas ''broke the law.'' </P>
+<P> ``They lied and made misleading statements,'' he said. ''They wanted to do the cleanup on the cheap and they didn't want to do the cleanup in the proper manner.'' </P>
+<P> Federal law requires that city, state and federal goverment agencies be notified if more than one pound of asbestos is released into the environment. </P>
+<P> The company spent $90 million cleaning up the asbestos after the blast and reimbursed residents for alternative housing because they could not return to their homes. </P>
+<P> If convicted, Papakrasas faces up to 18 years in prison and fines of $1 million. The company faces $2 million in fines and 20 years of probation. </P>
+</TEXT>
+</DOC>

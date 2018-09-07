@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0252.950312</DOCID>
+<TDTID>TDT011224</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/12/95 16:56</DATE>
+<TITLE> Britain's ``Spitting Image'' TV satire is scrapped</TITLE>
+<HEADLINE> Britain's ``Spitting Image'' TV satire is scrapped</HEADLINE>
+<SUBJECT> BC-BRITAIN-SPITTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  The ground-breaking British puppet show ``Spitting Image,'' which showed Queen Elizabeth in hair curlers and Margaret Thatcher as a crazed harridan, is to be scrapped. </P>
+<P> The television satire, which caricatured public figures in puppet form, was once watched by audiences of 15 million. </P>
+<P> But the ratings have now fallen by more than 50 per cent and producers Central Television said Sunday they were looking for a different format for a puppet-based show. </P>
+<P> Critics complained that the series had lost its sting. Fans loved its representations of the queen as a middle-aged housewife, Prince Charles as a hapless victim of his growing ears and Prime Minister John Major as a completely grey man. </P>
+<P> ``It was quite a status symbol to be on ``Spitting Image'. The constituents seemed to take us more seriously,'' said Edwina Currie, a Conservative Party member of Parliament who was frequently lambasted on the show. </P>
+<P> ``In retrospect, I think they got my caricature about right. I grew quite fond of it,'' she said. </P>
+</TEXT>
+</DOC>

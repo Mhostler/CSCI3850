@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU009-0176.940819</DOCID>
+<TDTID>TDT002167</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/19/94 03:37</DATE>
+<TITLE> FIFTEEN PEOPLE DIE IN RUSSIAN BUS PLUNGE</TITLE>
+<HEADLINE> FIFTEEN PEOPLE DIE IN RUSSIAN BUS PLUNGE</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-CRASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Fifteen people were killed and another 21 injured early Friday when their bus plunged off a bridge outside Moscow, Itar-Tass news agency said. </P>
+<P> Police said the bus was carrying tourists from the former Soviet republic of Armenia. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU004-0370.950111</DOCID>
+<TDTID>TDT009165</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/11/95 05:00</DATE>
+<TITLE> New date for U.S. business conference on Ireland</TITLE>
+<HEADLINE> New date for U.S. business conference on Ireland</HEADLINE>
+<SUBJECT> BC-IRISH-CONFERENCE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELFAST (Reuter) </DATELINE>
+<P>  A top-level U.S. conference on economic investment in Ireland is being switched to Washington, D.C. from Philadelphia on May 18 and 19, an adviser to President Clinton said Wednesday. </P>
+<P> The site has been changed to facilitate the President's maximum participation, but the conference will be about business not politics, said George Mitchell, Clinton's special adviser on economic initiatives in Ireland. </P>
+<P> The BBC reported that the new date is a month later than planned. </P>
+<P> Clinton announced the conference last year as part of the U.S. Administration's response to the new peace climate in British-ruled Northern Ireland following the Irish Republican Army's decision to end its 25 year war against British rule. </P>
+<P> Mitchell said: ``President Clinton will personally attend as an indication of his strong personal interest in and support for the (peace) process that is under way. </P>
+<P> ``We expect to have a number of other prominent political leaders but this will not be a political conference, it will be a business conference. </P>
+<P> Mitchell told British Broadcasting Corporation radio that his priority would be to encourage trade and investment in Northern Ireland and the counties on both sides of the Irish border to support the peace process. </P>
+</TEXT>
+</DOC>

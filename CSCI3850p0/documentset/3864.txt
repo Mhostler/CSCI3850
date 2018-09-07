@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU009-0188.950120</DOCID>
+<TDTID>TDT009567</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/20/95 14:44</DATE>
+<TITLE> Supreme Court to review Quayle accuser's lawsuit</TITLE>
+<HEADLINE> Supreme Court to review Quayle accuser's lawsuit</HEADLINE>
+<SUBJECT> BC-COURT-QUAYLE </SUBJECT>
+<AUTHOR>     By James Vicini </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Supreme Court agreed Friday to consider reinstating a lawsuit by an inmate who said federal officials conspired before the 1988 election to keep him from telling reporters he once sold marijuana to then-vice presidential candidate Dan Quayle. </P>
+<P> The justices said they would hear an appeal by convicted drug smuggler Brett Kimberlin arguing that the case should be allowed to proceed to trial and that a lower court was wrong in dismissing the lawsuit. </P>
+<P> The high court will hear arguments in the case in April, with a decision due by the end of its term in June. </P>
+<P> Kimberlin seeks damages in the civil suit and claims his constitutional rights were violated. </P>
+<P> Kimberlin in his high court appeal said: ``This case arises from admittedly unprecedented actions by federal officials that silenced and punished a citizen who claimed to have potentially damaging informaton about a candidate for high public office.'' </P>
+<P> The lawsuit charged that prison officials in Oklahoma, on direct orders from then-U.S. Bureau of Prisons chief Michael Quinlan, put Kimberlin in solitary confinement right before the 1988 presidential election. </P>
+<P> Besides Quinlan, the lawsuit also named Loye Miller, then the Justice Department's chief spokesman in the Republican administration. </P>
+<P> Kimberlin was kept in detention until a week after the election, preventing him from publicizing his allegations against Quayle, then running for vice president as George Bush's running mate. </P>
+<P> The Justice Department during the Bush administration supported Quinlan and Miller in arguing that the lawsuit should be dismissed. </P>
+<P> But the Justice Department under President Clinton switched its position and recommended that the high court hear Kimberlin's appeal. </P>
+<P> Solicitor General Drew Days of the Justice Department said the appeals court was wrong in requiring that Kimberlin produce direct, not circumstantial, evidence of an unlawful motive to avoid dismissal of the lawsuit. </P>
+<P> Quayle, who served as Bush's vice president and previously as a congressman and senator from Indiana, has denied Kimberlin's charges. The Drug Enforcement Administration concluded Kimberlin's claim was false. </P>
+<P> Quayle, who has returned to Indiana, is considering whether to run for president in the 1996 election. </P>
+<P> A federal judge said the case could proceed to trial, but a divided U.S. appeals court threw out the suit on the grounds that Kimberlin relied only on ``inference and weak circumstantial evidence.'' </P>
+<P> Kimberlin was convicted on charges of drug smuggling and using explosives. Sent to prison in 1980, he was released last year. </P>
+<P> Although the claims against Quinlan and Miller were dismissed by the appeals court, Kimberlin still has claims pending against the U.S. government for false imprisonment and illegal monitoring of his telephone calls. </P>
+</TEXT>
+</DOC>

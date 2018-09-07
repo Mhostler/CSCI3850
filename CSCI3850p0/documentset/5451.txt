@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU002-0441.950404</DOCID>
+<TDTID>TDT012103</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 13:51</DATE>
+<TITLE> Airbus co-pilot had trouble, investigation open</TITLE>
+<HEADLINE> Airbus co-pilot had trouble, investigation open</HEADLINE>
+<SUBJECT> BC-ROMANIA-CRASH </SUBJECT>
+<AUTHOR>     By Peter Bale </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUCHAREST, Romania (Reuter) </DATELINE>
+<P>  A Romanian Airbus co-pilot reported problems just before it plunged to the ground minutes after takeoff, killing all 60 occupants, according to reports Tuesday. </P>
+<P> But investigators said they still had an open mind on the crash cause. </P>
+<P> ``What the hell is going on in the back?'' the independent daily Romania Libera quoted co-pilot Ionel Stoi as saying on the cockpit voice recording of the Romanian Tarom airlines A310 last Friday. </P>
+<P> Romanian investigators cast doubt on that report and another from Belgium quoting Stoi as saying ``this one is wrong'' in an apparent reference to a fault showing on his control panel. </P>
+<P> ``I personally have not heard Stoi's voice but maybe I am hard of hearing,'' Sorin Stoicescu, chief of the Romanian investigation committee, told Reuters. </P>
+<P> The Airbus crashed in a snow storm last Friday shortly after takeoff on a flight to Brussels from Bucharest's Otopeni airport. </P>
+<P> Stoicescu said the voice tapes were still being decoded and that the commission was keeping an open mind on whether the crash was caused by a bomb, pilot error or technical problem. </P>
+<P> ``These are all just hypotheses,'' Stoicescu said. ``When we have gathered all the evidence then we are going to be able to reconstruct each possibility one by one.'' </P>
+<P> Air accident investigators had said they were looking closely at the theory an explosion on board could have brought the plane down, particularly after two anonymous claims of responsibility -- one in Bucharest and another in Brussels. </P>
+<P> But Stoicescu said the commission would make a statement on the cause only when it could offer hard facts. </P>
+<P> A wave of bomb hoaxes against the state-owned Tarom airline has followed Friday's crash. A Tarom flight to Copenhagen was forced to divert to Warsaw Tuesday in a bomb scare, the second time in two days a Tarom flight has been forced to land. </P>
+<P> An eyewitness has reported seeing an explosion and fire on the aircraft before it hit the ground Friday. Tarom has emphatically ruled out pilot error as a cause. </P>
+</TEXT>
+</DOC>

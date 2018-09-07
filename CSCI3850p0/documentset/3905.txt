@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU010-0294.950124</DOCID>
+<TDTID>TDT009668</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/24/95 00:50</DATE>
+<TITLE> U.S., N. Korea agree on nuclear fuel rod storage</TITLE>
+<HEADLINE> U.S., N. Korea agree on nuclear fuel rod storage</HEADLINE>
+<SUBJECT> BC-NUCLEAR-KOREA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, South Korea (Reuter) </DATELINE>
+<P>  The United States and North Korea have agreed on a method of safe storage for North Korea's spent nuclear fuel rods, a South Korean official said Tuesday. </P>
+<P> ``We have been informed that the two sides have agreed on all technical issues relating to the fuel rod storage,'' said the official from Seoul's Unification Ministry, who asked not to be identified. </P>
+<P> He said the agreement was reached during six days of expert-level contacts between the two countries on storing and disposing of 8,000 spent fuel rods removed last year from North Korea's experimental graphite reactor and tranferred to water tanks. </P>
+<P> South Korea's state radio and Yonhap news agency quoted unidentified Seoul government officials as saying the U.S. and North Korean experts had agreed on a dry type of storage for the fuel rods. </P>
+<P> State radio quoted a government official as saying they agreed to store the fuel rods in concrete. </P>
+<P> Yonhap quoted another government official as saying experts from the world nuclear watchdog, the International Atomic Energy Agency (IAEA), would soon arrive in the North and the storage process would begin then. </P>
+<P> North Korea said Monday it had made significant progress in technical discussions with the United States last week on fuel rod storage. </P>
+<P> ``The discussions were useful, constructive and resulted in significant progress,'' reported the North's official Korean Central New Agency (KCNA), monitored in Tokyo. </P>
+<P> The report said that after the discussions, North Korean and U.S. nuclear experts visited the Yongbyon center for atomic energy research to analyze a spent fuel storage basin. </P>
+<P> After completing the analysis Monday, the U.S. team was to leave North Korea Tuesday, KCNA said. </P>
+<P> Last October, the United States and North Korea signed a landmark deal in Geneva to settle a long-running dispute over Stalinist North Korea's nuclear program, which Washington suspects was designed to make nuclear weapons. </P>
+<P> Under the deal, North Korea agreed to freeze and then dismantle its present nuclear program, which Washington says might have already produced an atomic bomb, in exchange for new light-water nuclear reactors costing $4 billion and a 10-year interim supply of fuel oil. </P>
+<P> Light-water reactors, unlike graphite reactors, produce relatively little of the grade of plutonium needed to make nuclear weapons. </P>
+</TEXT>
+</DOC>

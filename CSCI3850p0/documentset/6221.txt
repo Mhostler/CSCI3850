@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU002-0075.950502</DOCID>
+<TDTID>TDT013359</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/02/95 18:16</DATE>
+<TITLE> US House gets bill to reform food-safety laws</TITLE>
+<HEADLINE> US House gets bill to reform food-safety laws</HEADLINE>
+<SUBJECT> BC-FOOD-REFORM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Two House committee leaders proposed a bill Tuesday to replace the so-called Delaney clause, which bars any trace of carcinogens in processed foods, with a new ''negligible risk'' standard for all foods. </P>
+<P> Congress has been stymied for several years in efforts to overhaul food-safety laws by disagreements over the proper risk standard for pesticide residues in food. </P>
+<P> At present, different standards are in place for raw and processed foods. </P>
+<P> A food-industry trade group, National Food Processors Association, urged passage of the bill this year, saying the ''inflexible'' Delaney clause was ``outdated, unworkable and must be reformed.'' </P>
+<P> Consumer groups have been wary of reform bills, worried they will result in less protection for consumers. </P>
+<P> Chairmen Pat Roberts, R-Kan., of the House Agriculture Committee and Tom Bliley, R-Va., of the House Commerce Committee, said their bill would result in updated standards set by the best scientific research available. </P>
+<P> ``Our goal is to protect food safety while taking advantage of the advance in modern science since the Delaney clause was enacted in 1958,'' Bliley said. </P>
+<P> But Mark Epstein, president of consumer group Public Voice for Food and Health Policy, said a negligible risk standard ''isn't good enough.'' Risk assessment is inexact, he said. </P>
+<P> At a discussion last week, Chuck Connor, chief of staff on the Senate Agriculture Committee, said without ``some general meeting of the minds'' Congress would be hard-pressed to pass food-safety legislation this year. </P>
+</TEXT>
+</DOC>

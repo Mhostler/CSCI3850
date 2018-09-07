@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU015-0135.950424</DOCID>
+<TDTID>TDT012991</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 17:59</DATE>
+<TITLE> Explosion reported in California's capital</TITLE>
+<HEADLINE> Explosion reported in California's capital</HEADLINE>
+<SUBJECT> BC-USA-EXPLOSION URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SACRAMENTO, California (Reuter) </DATELINE>
+<P>  An explosion rocked a building in Sacramento, California's capital, on Monday, authorities said. </P>
+</TEXT>
+</DOC>

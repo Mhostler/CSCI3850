@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0381.950420</DOCID>
+<TDTID>TDT012802</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/20/95 17:50</DATE>
+<TITLE> Celtics' guard Douglas fined $4,000</TITLE>
+<HEADLINE> Celtics' guard Douglas fined $4,000</HEADLINE>
+<SUBJECT> BC-NBA-DOUGLAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Point guard Sherman Douglas of the Boston Celtics was fined $4,000 for his actions after Monday's game between the Celtics and the New Jersey Nets in Boston, the National Basketball Association said Thursday. </P>
+<P> Douglas was fined for failing to leave the court in a timely fashion and verbally abusing the referees following Boston's 98-96 defeat of New Jersey. </P>
+</TEXT>
+</DOC>

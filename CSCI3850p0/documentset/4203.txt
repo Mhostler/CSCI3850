@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU004-0112.950207</DOCID>
+<TDTID>TDT010198</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 17:24</DATE>
+<TITLE> U.S. faces tough choices for ailing Amtrak</TITLE>
+<HEADLINE> U.S. faces tough choices for ailing Amtrak</HEADLINE>
+<SUBJECT> BC-AMTRAK </SUBJECT>
+<AUTHOR>     By Robert Trautman </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Congressional auditors said Tuesday that Amtrak was in financial crisis and Congress had to decide if the national passenger railway system should get bigger subsidies or make deeper cuts in services. </P>
+<P> Kenneth Mead, transportation specialist at the General Accounting Office, told a House subcommittee that it had hard choices to make. </P>
+<P> ``We believe that continuing the present course -- the same funding level and basic route system, even with the proposed service cuts -- is neither feasible or realistic because Amtrak will continue to deteriorate,'' he said. </P>
+<P> Amtrak Dec. 14 announced a cost-cutting program to save $200 million by reducing frequency of services by 20 percent and laying off one-fifth of its some 25,000 workers. </P>
+<P> It said then that additional cuts would be made later. </P>
+<P> Amtrak has been getting increasing subsidies in recent years -- nearly $1 billion this year from $640 million in 1990 -- but has not bridged the widening gap between operating expenses and revenues. </P>
+<P> Mead said Amtrak needed several billion dollars to buy new rolling stock -- its average car is 22 years old -- and update track and other equipment. </P>
+<P> He said the transportation subcommittee had to decide if it wanted the railroad to continue national service, as it was chartered to do when created in 1971, and, if so, how to pay for it, or to pare service, and then how to decide the sensitive issue of which cities to eliminate. </P>
+<P> Subcommitee Chairwoman Susan Molinari, R-N.Y., said she called the hearing, with two more to follow, to get a realistic assessment of Amtrak's status before it goes ahead with considering Amtrak's future. </P>
+<P> Amtrak's main routes are in the densely populated Washington-New York-Boston corridor, where it operates through-service passenger trains and local commuter services. </P>
+<P> But even in the Northeast corridor, where it has about 45 percent of the market, Amtrak is not profitable. And its losses are bigger in the more sparsely populated South and Southwest. </P>
+<P> In addition to the current Amtrak deficit and the unlikelihood that federal and state governments will be able to help out much, the carrier is facing two new problems. </P>
+<P> One is that Amtrak this year will be negotiating new work contracts with some 14 unions -- meaning higher wages -- and the other is that it could face high costs for leasing tracks when its current lease with freight lines expires in 1996. </P>
+</TEXT>
+</DOC>

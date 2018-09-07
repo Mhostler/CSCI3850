@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU011-0360.950125</DOCID>
+<TDTID>TDT009754</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/25/95 18:49</DATE>
+<TITLE> Citizens group asks FDA action on breast implants</TITLE>
+<HEADLINE> Citizens group asks FDA action on breast implants</HEADLINE>
+<SUBJECT> BC-IMPLANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A citizens group asked a federal court to require the Food and Drug Administration to impose restrictions on the sale of saline breast implants, the organization said Wednesday. </P>
+<P> In a lawsuit filed in the U.S. Court of Appeals, the group Public Citizen said the FDA had more than 13,000 reports of injuries associated with the devices between 1991 and 1994, yet has not acted. </P>
+<P> ``The FDA's inaction on this dangerous device is unconscionable,'' said Public Citizen official Sidney Wolfe. ''Here we have known injuries, known risks by the FDA's own reckoning. Yet they refuse to act.'' </P>
+<P> Public Citizen said the injuries linked to the implants included ruptures, infections and autoimmune diseases. </P>
+<P> It said the FDA classified the saline implant as ``high priority'' in 1989 and indicated it would soon require makers to apply for approval before marketing the devices. </P>
+<P> But it said late last year the agency announced it would delay the call for market approval until 1998 at the earliest. </P>
+<P> ``Certainly, thousands of women will be injured by saline implants before the FDA even begins to consider their safety and effectiveness in 1998,'' Wolfe said in a statement. </P>
+<P> Public Citizen asked the FDA to require pre-marketing approval for the devices as well as curbs on their use similar to those on silicone implants until they are shown to be safe. </P>
+<P> The restrictions on silicone implants limit their use by women with medical needs, such as requiring reconstructive surgery following breast cancer. </P>
+<P> An FDA official said the agency would not comment until it studied the lawsuit, but felt that its actions in the saline implant matter had been proper. </P>
+<P> A federal judge in Alabama last year approved a $4.25 billion class-action settlement brought by women against manufacturers of silicone implants. </P>
+<P> The women had complained that the silicon implants caused connective tissue disease, a term for such disorders as rheumatoid arthritis, lupus and scleroderma. </P>
+</TEXT>
+</DOC>

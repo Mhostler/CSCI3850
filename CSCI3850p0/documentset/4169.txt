@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU003-0264.950206</DOCID>
+<TDTID>TDT010142</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/06/95 17:56</DATE>
+<TITLE> Clinton budget seeks increase for AIDS programs</TITLE>
+<HEADLINE> Clinton budget seeks increase for AIDS programs</HEADLINE>
+<SUBJECT> BC-BUDGET-AIDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton in the budget released Monday seeks $3.7 billion for AIDS research, education and services for people with the HIV virus, a 5.1 increase from the current year. </P>
+<P> Another $3.7 million from the Social Security, Medicare and Medicaid programs would also go to help people with AIDS. </P>
+<P> ``This budget represents a forceful, focused, dynamic response to an epidemic that has already claimed the lives of nearly a quarter of a million Americans,'' said Patricia Fleming, the White House AIDS policy director. </P>
+<P> Fleming and Secretary of State Donna Shalala in separate news briefings said they did not expect a big battle with Congressional Republicans over the AIDS budget. AIDS has attacked people in all Congressional districts, and the fight against the deadly virus has recieved bipartisan support. </P>
+<P> But Fleming said there would be changes in some federal anti-AIDS programs. </P>
+<P> The Centers for Disease Control will consolidate several programs targeted at AIDS, other sexually transmitted diseases and tuberculosis. The new unified program will also give states broader discretion over how they spend the funds. </P>
+<P> The fiscal 1996 budget addresses AIDS research, prevention and services, such as housing programs for AIDS patients. AIDS is now the leading cause of death for Americans aged 25 to 44. </P>
+<P> The budget calls for $1.4 billion for AIDS research through the National Institutes of Health, a five percent increase over fiscal 1995. The NIH has said it wants to refocus efforts on ''basic science,'' since a cure or a vaccine has so far proved elusive. </P>
+<P> Several AIDS advocacy groups praised Clinton for proposing increases despite the pressures on the budget. </P>
+<P> ``Although these proposed increases fail to keep pace with the growth of the epidemic, they nonetheless recognize the unique dangers posed by AIDS,'' said one group, the Gay Men's Health Crisis. </P>
+</TEXT>
+</DOC>

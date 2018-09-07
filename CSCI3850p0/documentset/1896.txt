@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0078.941009</DOCID>
+<TDTID>TDT004715</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/09/94 18:58</DATE>
+<TITLE> Eleven wounded in Jerusalem attack - radio</TITLE>
+<HEADLINE> Eleven wounded in Jerusalem attack - radio</HEADLINE>
+<SUBJECT> BC-ISRAEL-ATTACK 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds: updates number of injured, Arab dead)</NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Arab gunmen fired into a crowded nightlife area of central Jerusalem on Sunday, wounding at least eleven people, Israel Radio said. </P>
+<P> Israeli police said that two Arabs apparently involved in the indiscriminate attack were killed by Israeli border police. Army radio said it was not clear how many Arabs participated in the attack and that a third man could still be at large. </P>
+<P> Witnesses said the scene of the attack, an area of restaurants and cafes, was chaotic. </P>
+<P> Police warned members of the media entering the area to beware of bombs that may have been left behind by the attackers. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0091.941210</DOCID>
+<TDTID>TDT007724</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/10/94 08:50</DATE>
+<TITLE> Suez Canal not threatened by Jordan-Israel peace</TITLE>
+<HEADLINE> Suez Canal not threatened by Jordan-Israel peace</HEADLINE>
+<SUBJECT> BC-EGYPT-SUEZ </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ISMAILIA, Egypt (Reuter) </DATELINE>
+<P>  Egypt's 125-year-old Suez Canal faces greater competition from existing world trade routes than from plans for new transportation networks following peace between Israel and Jordan, a senior official said Saturday. </P>
+<P> Mohammad Ezat Adel, chairman of the Suez Canal Authority, said new waterways or roads in the region could not challenge the Canal's pre-eminent position as the main link between the Red Sea and the Mediterranean. </P>
+<P> Proposals for canals linking the Dead Sea with the Red Sea or Mediterranean would be used only for power generation and irrigation, he added. </P>
+<P> Adel told Reuters the Suez Canal faced greater threats from land trade routes farther afield, such as Siberian and Chinese rail links carrying goods from the Far East to Europe. </P>
+<P> He said shippers were also considering using icebreakers to open all-year Arctic shipping routes linking the Pacific to the Atlantic Ocean. Now the routes are navigable only in summer, he said. </P>
+<P> Suez Canal revenues fell three percent in the first nine months of 1994 to $1.421 billion. Canal authorities blame changing patterns in world trade but say they are well-placed to capitalize on increased regional trade following progress in the Middle East peace process. </P>
+</TEXT>
+</DOC>

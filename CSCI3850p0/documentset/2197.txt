@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU011-0301.941024</DOCID>
+<TDTID>TDT005503</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/24/94 13:46</DATE>
+<TITLE> Puerto Rican drug dealer flees Colombian jail</TITLE>
+<HEADLINE> Puerto Rican drug dealer flees Colombian jail</HEADLINE>
+<SUBJECT> BC-COLOMBIA-JAILBREAK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOGOTA, Colombia (Reuter) </DATELINE>
+<P>  A Puerto Rican drug trafficker escaped from a Colombian police detention center just days before he was to be extradited to the United States, a police official said Monday. </P>
+<P> The official said Fernando Montanez Bultron, who is wanted in the United States for trafficking in heroin, broke out of the center in Bogota early Sunday. </P>
+<P> He said they did not know how Montanez managed to escape but suspect he bribed some of the officers at the center. </P>
+<P> Montanez, 49, was to be sent to the United States within days, after Colombia's Supreme Court approved his extradition. </P>
+<P> He was caught in the Caribbean port of Barranquilla last January carrying false identification papers and trying to smuggle heroin out of the country. </P>
+<P> The police official said security had been bolstered at the city's airport and bus terminal to prevent him from escaping. </P>
+<P> Montanez escaped by helicopter from a prison in Puerto Rico in 1991 where he was serving a 24-year sentence. </P>
+<P> Colombia is the third largest producer of heroin in the world, according to the U.S. Drug Enforcement Administration. </P>
+</TEXT>
+</DOC>

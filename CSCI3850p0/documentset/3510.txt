@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0178.941231</DOCID>
+<TDTID>TDT008712</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 12:23</DATE>
+<TITLE> Shiite leader calls for Muslim-Christian talks</TITLE>
+<HEADLINE> Shiite leader calls for Muslim-Christian talks</HEADLINE>
+<SUBJECT> BC-FRANCE-MUSLIMS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Muslims and Christians should hold a world peace congress to help ease religious tensions, the spiritual leader of Europe's Shiite Muslims said Saturday. </P>
+<P> Sending his best wishes to Christians at the New Year, Ayatollah Mehdi Rouhani said he hoped 1995 would be ``a new era of peace and reconciliation'' among all those believing in a single God. </P>
+<P> He said in a statement that religious frictions and fanaticism had sparked many conflicts throughout history even though all religions preached peace. </P>
+<P> Rouhani, who is based in Paris, suggested ``a world congress uniting the monotheists to work out a charter for peace, reconciliation and mutual understanding.'' </P>
+<P> He said that theologians from all religions should work together to produce a brochure highlighting similarities between religious beliefs. He added that believers in one religion should celebrate the religious holidays of the other. </P>
+</TEXT>
+</DOC>

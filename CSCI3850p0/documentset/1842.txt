@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU003-0393.941006</DOCID>
+<TDTID>TDT004569</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/06/94 18:19</DATE>
+<TITLE> Leona Helmsley sued for stiffing probation firm</TITLE>
+<HEADLINE> Leona Helmsley sued for stiffing probation firm</HEADLINE>
+<SUBJECT> BC-USA-HELMSLEY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Hotel queen Leona Helmsley, dubbed ``the Queen of Mean'' during her trial and after her conviction on failing to pay taxes, was sued Thursday for stiffing the firm that helped her get a reduced sentence. </P>
+<P> The National Center on Institutions and Alternatives, which provides sentencing and parole services, sued Helmsley in Manhattan federal court to get payment on a $52,000 bill that has been due since the end of 1993. </P>
+<P> The non-profit organization prepares individual sentencing reports and makes representations to the U.S. Parole Commission. </P>
+<P> The suit alleged Helmsley hired the center in 1992 to be her designated representative and advise her lawyer. She agreed to pay at the rate of $200 an hour. The suit alleged that Helmsley's sentence was reduced in part because of the National Center's efforts. </P>
+<P> Helmsley's lawyer could not be reached for comment. </P>
+<P> Helmsley, whose husband is hotel magnate Harry Helmsley, was convicted in 1989 of evading $1.2 million in federal taxes by billing her companies for personal expenses that included everything from leg waxing and underwear to renovations on her Greenwich, Conn. mansion. </P>
+<P> Advertisements for the hotels featured Helmsley with the tag line ``where the queen stands guard.'' </P>
+<P> Her high-profile trial became famous for testimony in which a maid said Helmsley told her only the ``little people'' pay taxes. </P>
+<P> She was sentenced to four years in prison and a fine of $7 million along with restitution of $2 million. Early last year her sentence was reduced to 30 months and she was freed from detention in January of this year. </P>
+</TEXT>
+</DOC>

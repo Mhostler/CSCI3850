@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU010-0393.950418</DOCID>
+<TDTID>TDT012668</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/18/95 10:49</DATE>
+<TITLE> British animal rights activists arrested at port</TITLE>
+<HEADLINE> British animal rights activists arrested at port</HEADLINE>
+<SUBJECT> BC-BRITAIN-ANIMALS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRIGHTLINGSEA, England (Reuter) </DATELINE>
+<P>  At least 12 animal rights activists were arrested and two injured Tuesday as they demonstrated against the export of live animals from Britain to Europe. </P>
+<P> Police said 500 demonstrators tried to halt three trucks getting through to the docks at Brightlingsea in eastern England with a cargo of sheep for Belgium. </P>
+<P> The activists were arrested after lying down in the road. About 300 police confronted them, prompting some townspeople to carry banners proclaiming ``What a waste of money.'' </P>
+<P> But a police spokesman defended the tactics, telling reporters: ``If people block the road, they know very well they are outside the law.'' </P>
+<P> Two women were injured in scuffles with police at the dock gates. One was trampled underfoot and the other hit in the face. </P>
+<P> The animal exporters managed to get through the demonstrators and load 1,200 sheep for the trip to Belgium. </P>
+<P> The confrontation followed a ruling by the English High Court last week which overturned previous bans on animal exports for slaughter abroad and criticized what judges called a ``surrender to mob rule.'' </P>
+<P> A demonstrator died early this year as demonstrations turned violent, particularly against the export of veal calves to Europe. Shipments were halted in several areas. </P>
+<P> Veal calves in Europe are often kept virtually motionless in tiny crates to tenderize their flesh, a practice outlawed in Britain. Humane treatment of livestock has become a major concern in animal-conscious Britain. </P>
+</TEXT>
+</DOC>

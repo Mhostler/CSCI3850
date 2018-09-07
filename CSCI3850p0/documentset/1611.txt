@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0030.940926</DOCID>
+<TDTID>TDT004013</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/26/94 18:30</DATE>
+<TITLE> Cubans send Red Cross thousands of messages</TITLE>
+<HEADLINE> Cubans send Red Cross thousands of messages</HEADLINE>
+<SUBJECT> BC-CUBA-CAMPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MIAMI, (Reuter) </DATELINE>
+<P>  Cuban refugees detained at U.S. camps in Cuba and Panama have sent more than 9,000 messages to the American Red Cross for distribution to relatives and close friends since the service started last week, the agency said Monday. </P>
+<P> The agency said more than 75 percent of the messages -- from the 30,000 Cubans held at the U.S. Naval Base at Guantanamo Bay in Cuba and the 1,100 detainees at Fort Clayton in Panama -- were addressed to residents of the Miami area. </P>
+<P> The Red Cross receives the messages and then finds the people to whom they are addressed, wherever they are in the world, giving the addressees a chance to respond. </P>
+<P> A spokesman for the agency said detainees are extremely eager for responses, but said the Red Cross needs bilingual volunteers to help locate the addressees. </P>
+<P> The agency started a similar service last month for the 14,000 Haitian refugees being held at Guantanamo. A Red Cross spokesman said about 7,000 messages have been sent from the Haitian refugee camp, with about 500 going to the Miami area. </P>
+</TEXT>
+</DOC>

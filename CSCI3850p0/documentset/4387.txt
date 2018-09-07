@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU008-0318.950216</DOCID>
+<TDTID>TDT010502</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/16/95 16:27</DATE>
+<TITLE> Justice to open preliminary probe in Brown case</TITLE>
+<HEADLINE> Justice to open preliminary probe in Brown case</HEADLINE>
+<SUBJECT> BC-BROWN URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Justice Department plans to open a preliminary investigation involving Commerce Secretary Ron Brown to determine if an independent prosecutor should be named, department officials said Thursday. </P>
+</TEXT>
+</DOC>

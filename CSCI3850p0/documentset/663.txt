@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU004-0226.940808</DOCID>
+<TDTID>TDT001645</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/08/94 20:06</DATE>
+<TITLE> DISNEY SEES INTERACTIVE VENTURE WITH PHONE FIRMS</TITLE>
+<HEADLINE> DISNEY SEES INTERACTIVE VENTURE WITH PHONE FIRMS</HEADLINE>
+<SUBJECT> BC-USA-DISNEY </SUBJECT>
+<AUTHOR>     By Leslie Adler </AUTHOR>
+<TEXT>
+<NOTES>(Eds: also moved to financial desks)</NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Walt Disney Co said Monday it was linking up with three so-called Baby Bell telephone companies to offer interactive video services through telephone wires. </P>
+<P> Baby Bells are the seven regional U.S. telephone companies formed from the court-ordered break up of the Bell System. </P>
+<P> Disney, famed for animated films like ``The Lion King'' and its Disneyland theme park, will begin work with regional phone companies Ameritech Corp, BellSouth Corp and Southwestern Bell Corp on a business plan to provide video services to consumers' homes, the companies said. </P>
+<P> The agreement to explore a joint venture would bring together an entertainment giant responsible for some of the most popular movies ever with companies whose more than 50 million telephone lines crisscross 19 U.S. states. </P>
+<P> Telephone companies are eager to compete with cable television firms in bringing entertainment, as well as traditional phone service, to peoples' homes. </P>
+<P> The companies said the services could include existing broadcast and satellite television programs, as well as movies-on-demand, interactive home shopping, educational programs, games and travel assistance. </P>
+<P> The proposed venture would also develop a so-called ''navigator'' that would give customers easy access to the services. </P>
+<P> ``Our goal is to use technological breakthroughs and new entertainment delivery systems to provide consumers with a compelling and creative array of programming,'' Michael Eisner, chairman of Burbank, California-based Disney, said in a statement. </P>
+<P> ``The new technologies will make new forms of entertainment available to consumers as well as provide better ways to deliver traditional entertainment,'' he said. </P>
+<P> Ameritech, Atlanta-based BellSouth and Southwestern Bell, of San Antonio, Texas, are rushing to offer interactive services for their customers, something the major media and cable television companies are doing as well. </P>
+<P> ``In essence, the venture will acquire and develop programing that is Disney-based as well as programming from all of the suppliers,'' said Patrick Campbell, Ameritech executive vice president. </P>
+<P> Chicago-based Ameritech plans to spend $4.4 billion to upgrade its network to bring video services to some 6 million customers by the end of the decade. </P>
+<P> ``It's the first relationship between a consortium of (regional Bell operating companies) and a major studio partner. I wouldn't be surprised if we don't see similar relationships in the future,'' Campbell said. </P>
+</TEXT>
+</DOC>

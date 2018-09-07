@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU001-0004.950301</DOCID>
+<TDTID>TDT010873</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 00:18</DATE>
+<TITLE> Philippines congressman assassinated</TITLE>
+<HEADLINE> Philippines congressman assassinated</HEADLINE>
+<SUBJECT> BC-PHILIPPINES-CONGRESSMAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANILA, Philippines (Reuter) </DATELINE>
+<P>  A member of the Philippines House of Representatives was shot and killed Tuesday night outside the legislature just yards from a police guard house, police said Wednesday. </P>
+<P> The gunman walked up to a van carrying the legislator, Tito Espinosa, when it stopped at an intersection near a police post and fired three shots into the vehicle, police said. </P>
+<P> Espinosa, 49, a former judge, represented the island province of Masbate just south of Luzon. Police said Espinosa, was traveling in the van with several other people. </P>
+<P> The politician died in a Manila hospital during surgery. None of his companions was hurt. </P>
+<P> Manila newspapers quoted Espinosa as saying on his way into the operating theatre: ``I will not die. I will live.'' </P>
+<P> ``We have not established any motive. It could be related to the coming election or it may be a result of an old grudge,'' police investigator Rafael de Peralta said. </P>
+<P> The congressman had planned to run for re-election in national elections in May. He belonged to the administration party and chaired the House committee on electoral reforms and suffrage. </P>
+<P> Espinosa was the second in his family to die a violent death. </P>
+<P> His brother Moises, also then a congressman, was shot and killed at Masbate airport in 1989. The murder remains unsolved. </P>
+</TEXT>
+</DOC>

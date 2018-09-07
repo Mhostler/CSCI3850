@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0217.940919</DOCID>
+<TDTID>TDT003645</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/19/94 06:30</DATE>
+<TITLE> Naples hails ``miracle'' of Italian saint's blood</TITLE>
+<HEADLINE> Naples hails ``miracle'' of Italian saint's blood</HEADLINE>
+<SUBJECT> BC-ITALY-MIRACLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NAPLES, Italy (Reuter) </DATELINE>
+<P>  The ``miracle of San Gennaro'' happened Monday, as it has twice a year for centuries, when an Italian saint's congealed blood liquefied. </P>
+<P> Roman Catholics in Naples were relieved when Archbishop Michele Giordano told 3,000 people gathered to celebrate the festival of the fourth century saint that the blood had turned to liquid. </P>
+<P> The phenomenon is regularly hailed as averting disaster superstitious Neapolitans believe will strike the city if it fails to do so. </P>
+<P> The miracle has been recorded on set dates twice a year for the past 600 years, and has been known to happen on special occasions and for illustrious visitors. </P>
+<P> In his sermon, Giordano said he hoped it was a good omen for Naples -- one of Italy's least developed cities. </P>
+<P> Italian scientists have confirmed that the substance, held in a vial in the Santa Chiara cathedral is blood, but have not discovered why it liquefies regularly. </P>
+</TEXT>
+</DOC>

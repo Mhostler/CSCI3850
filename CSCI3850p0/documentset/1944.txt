@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU006-0025.941011</DOCID>
+<TDTID>TDT004856</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/11/94 17:05</DATE>
+<TITLE> Nobel winner Nash describes thrill of prize</TITLE>
+<HEADLINE> Nobel winner Nash describes thrill of prize</HEADLINE>
+<SUBJECT> BC-NOBEL-ECONOMICS-NASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PRINCETON, NJ (Reuter) </DATELINE>
+<P>  American John Nash, awarded the 1994 Nobel Economics Prize Tuesday, said he was ``thrilled'' about the award and joked about the size of the prize money he will share with two others. </P>
+<P> ``I'm thrilled to receive this high honor,'' Nash told a news conference at Princeton University in New Jersey. He spoke after the Royal Swedish Academy of Sciences announced that he and John Harsanyi, also of the U.S., and German Reinhard Selten would share the $1 million prize. </P>
+<P> At the conference, Nash, 66, a visiting researcher at Princeton, discussed his pioneering analysis of a process of using games to advance theories of economic behavior. </P>
+<P> Nash's work focuses on strategies that are applied in such common games as chess and poker to make predictions about the interaction between companies and how the market reacts. </P>
+<P> However, Nash joked with the audience of about 100 fellow academics and admiring students that he wished he had received more money because it must be divided among the three men. </P>
+<P> Professor Joseph Kohn, the Chairman of Princeton's Mathematics Department, said ``the Noble Prize was sorely overdue. John Nash is a genius who's contributions have shaped mathematical research in several areas.'' </P>
+<P> It had been rumored in academic circles for several years that Nash, doing private research at Princeton since the mid-60's, might soon be a Noble Prize recipient. </P>
+<P> Nash, born in 1928 in Bluefield, West Virginia, also has taught at Massachusetts Institute of Technology in Cambridge, Massachusetts. </P>
+</TEXT>
+</DOC>

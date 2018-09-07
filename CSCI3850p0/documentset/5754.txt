@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU009-0125.950414</DOCID>
+<TDTID>TDT012572</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/14/95 16:59</DATE>
+<TITLE> US Forest Service proposes updated management plan</TITLE>
+<HEADLINE> US Forest Service proposes updated management plan</HEADLINE>
+<SUBJECT> BC-FORESTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON, (Reuter) </DATELINE>
+<P>  The U.S. Forest Service announced plans Friday to streamline and simplify the agency's planning process for the nation's 191 million acre national forest system. </P>
+<P> The proposed regulation, which would update a 14-year-old forest management plan, was designed to make the process ``work better and cost less,'' said Agriculture Undersecretary Jim Lyons, who oversees the Forest Service. </P>
+<P> The new regulation, which was years in the making, is a key part of Agriculture Secretary Dan Glickman's move to streamline the forest service's regulatory process. Earlier this week, Glickman announced the formation of a task force to study the nation's huge forest system and eliminate unneccesssary regulations. </P>
+<P> ``This plan is to basically bring the forest management plan up to date and reflect the reality of forests now,'' said an Agriculture Department official. </P>
+<P> The proposed regulation would give local authorities of national forests more flexibility to address specific regional issues, would make it easier to change forest plans and would incorporate more ecosystem management principles into forest management schemes. </P>
+<P> The new regulation would specify that the Forest Service's so-called ``allowable sale quantities'' of timber are not a target for logging, but set a cap on how much can be harvested from public forests. It would also more clearly specify when ''clear-cutting'' is appropriate. </P>
+<P> Environmentalists denounced the new regulation as an attempt to increase logging in national forests. </P>
+<P> ``These regulations are to help the Forest Service log more in all national forests across the country,'' said Mark Winstein, co-director of Save America's Forests. </P>
+<P> ``The forest service has been behind the scenes pushing for more logging,'' said Winstein. ``So when they say streamline the process they mean get more logs out faster.'' </P>
+<P> The regulation will now be available for a 90-day public review and comment period. Briefing sessions on the proposal will be held by the Forest Service April 24, at 17 different sites throughout the country. </P>
+</TEXT>
+</DOC>

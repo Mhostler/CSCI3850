@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU010-0372.940921</DOCID>
+<TDTID>TDT003790</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/21/94 15:57</DATE>
+<TITLE> Former Red Cross director slams blood system</TITLE>
+<HEADLINE> Former Red Cross director slams blood system</HEADLINE>
+<SUBJECT> BC-CANADA-BLOOD </SUBJECT>
+<AUTHOR>     By Tanya Willmer </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TORONTO (Reuter) </DATELINE>
+<P>  Canada's Red Cross Society suffered another blow Wednesday, a day after a former director said the agency was incapable of running the nation's blood collection system. </P>
+<P> Former Red Cross medical director Dr Raymond Guevin, testifying Tuesday at a public inquiry into a tainted blood scandal that infected 1,000 people with the deadly AIDS virus, said the agency lacked the leadership to collect and handle the nation's blood. </P>
+<P> The Red Cross, a volunteer agency also involved in humanitarian aid, has been responsible for the nation's blood system since World War Two. </P>
+<P> The society was forced to defend itself again Wednesday, revealing during the inquiry that two Canadian blood banks failed U.S. inspections. </P>
+<P> A U.S. Food and Drug Administration inspection found operating deficiencies at a center in Sudbury, northern Ontario -- including failure to check donors' arms for needle punctures and mislabelling of blood bags. </P>
+<P> Another center in Halifax, Nova Scotia, also failed to meet U.S. standards, the Red Cross said. </P>
+<P> Earlier this month, the FDA refused to process so-called ''source plasma'' from Canada, about one quarter of the blood sent to the United States, after it found substandard screening procedures and sloppy record-keeping at a Toronto blood center. </P>
+<P> It is now inspecting all 17 of Canada's blood centers. </P>
+<P> The inquiry is investigating claims that the Red Cross and the government knew in 1984 its blood supplies were tainted with HIV, the virus that causes AIDS, but failed to use only safe, heat treated products until at least a year later. </P>
+<P> So far 1,000 hemophiliacs and transfusion patients have caught the virus from contaminated blood. About one third have already died. </P>
+</TEXT>
+</DOC>

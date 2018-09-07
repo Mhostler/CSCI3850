@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU006-0052.940912</DOCID>
+<TDTID>TDT003243</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/12/94 15:33</DATE>
+<TITLE> Republican leader calls for tougher prisons</TITLE>
+<HEADLINE> Republican leader calls for tougher prisons</HEADLINE>
+<SUBJECT> BC-USA-POLITICS-GRAMM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ATLANTA, (Reuter) </DATELINE>
+<P>  Texas Senator Phil Gramm, one of the most outspoken lawmakers on crime and punishment, said Monday that state and federal prisoners should live in tents and be forced to work to end what he called a system of ``crime without punishment.'' </P>
+<P> Gramm, a Republican leader in the congressional debate, criticized President Clinton's crime bill for eliminating mandatory sentencing for drug traffickers. </P>
+<P> ``Under this new bill called the crime bill, someone who is selling drugs to children at a junior high school ... is now not going to face a certain sentence in federal prison,'' Gramm said. ``I think that's a mistake.'' </P>
+<P> Gramm, chairman of the Republican Senatorial Campaign Committee, joined Republican candidates in a meeting with law enforcement officials in a staunchly conservative Atlanta suburb. He said the solution to crime is ``to put violent, predator criminals in prison and keep them there.'' </P>
+<P> ``I want to change federal law to set out a requirement in the federal system that people work,'' Gramm said. ``I want to change the federal standards for prison construction. I want to overturn federal court rulings on population caps for federal prisons.'' </P>
+<P> Gramm said the crime legislation included funding for social programs that is not needed. </P>
+<P> ``If social spending prevented crime, this would be the safest place on the planet,'' he said. ``I think reforming welfare is the way to deal with crime in the next generation, but I am firmly committed to the principle that today we have crime because we have crime without punishment.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU007-0333.941115</DOCID>
+<TDTID>TDT006563</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/15/94 17:40</DATE>
+<TITLE> Flood death toll rises to 350 in Haiti</TITLE>
+<HEADLINE> Flood death toll rises to 350 in Haiti</HEADLINE>
+<SUBJECT> BC-HAITI-DEATHS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORT-AU-PRINCE, Haiti (Reuter) </DATELINE>
+<P>  The death toll from torrential rains that ravaged Haiti continued to rise Tuesday with radio stations reporting at least 350 dead and government officials warning that any figures were estimates. </P>
+<P> Radio Tropic said 350 people perished in the floods that followed the weekend's torrential rains, 250 of them in the southern port town of Jacmel. </P>
+<P> Other stations gave similar estimates, although the government of President Jean-Bertrand Aristide gave a lower death toll of between 100 and 125. </P>
+<P> Officials said it was very difficult to gather accurate information in the Western Hemisphere's poorest nation, due partly to the poor roads and communications with the areas hit. Many observers acknowledged an accurate death toll would never be known. </P>
+</TEXT>
+</DOC>

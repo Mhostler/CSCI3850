@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU013-0141.941129</DOCID>
+<TDTID>TDT007166</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/29/94 09:46</DATE>
+<TITLE> Great Train robber Edwards found hanged in garage</TITLE>
+<HEADLINE> Great Train robber Edwards found hanged in garage</HEADLINE>
+<SUBJECT> BC-BRITAIN-ROBBER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Great Train Robber Buster Edwards was found dead Tuesday after apparently hanging himself. </P>
+<P> ``We are not treating the death as suspicious,'' a police spokeswoman said after Edwards, 62, was discovered by his brother hanging from a metal girder in the garage. </P>
+<P> Edwards, played by pop star Phil Collins in a film about his life, worked as a flower seller at London's Waterloo Station. He spent time in prison for his part in the meticulously planned 1963 robbery of postal sacks that netted 2.5 million pounds, the equivalent of about $45 million today. </P>
+</TEXT>
+</DOC>

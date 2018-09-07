@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU009-0139.950318</DOCID>
+<TDTID>TDT011401</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/18/95 00:02</DATE>
+<TITLE> Angry British fishermen pelt minister with flour</TITLE>
+<HEADLINE> Angry British fishermen pelt minister with flour</HEADLINE>
+<SUBJECT> BC-FISH-BRITAIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Angry British fishermen showered a government minister with flour Friday, accusing him of making too many compromises with Spain over access to European fishing grounds. </P>
+<P> Fisheries Minister Michael Jack, visiting the southwestern port of Plymouth, found himself face to face with angry protesters who blocked his path and let off orange marine smoke flares. </P>
+<P> Jack was showered with flour as he returned to his car, which was then blocked by demonstrators. </P>
+<P> Television pictures showed him retreating from the port area on foot, his dark overcoat spattered with white. Two men were arrested, police said. </P>
+<P> The fishermen were protesting a European Union agreement earlier this year giving Spanish fishermen, whose fleet is Europe's biggest, access to waters around Ireland from which they were previously barred. </P>
+<P> Britain abstained in the EU vote. One fishermen shouted at Jack: ``You are supposed to be our representative but you are more concerned about the Spanish than us.'' </P>
+<P> The British Conservative government has been criticized at home for not breaking ranks with its EU partners and siding with Canada in its fisheries dispute with Spain. </P>
+<P> Canada seized a Spanish trawler on the high seas last week alleging illegal fishing. </P>
+</TEXT>
+</DOC>

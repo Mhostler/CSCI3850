@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0049.941018</DOCID>
+<TDTID>TDT005215</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/18/94 08:41</DATE>
+<TITLE> Palace says Charles, Diana have no divorce plans</TITLE>
+<HEADLINE> Palace says Charles, Diana have no divorce plans</HEADLINE>
+<SUBJECT> BC-BRITAIN-ROYALS-DENIAL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Buckingham Palace said Tuesday that Prince Charles and Princess Diana had no plans to divorce. </P>
+<P> Reacting to press reports of a divorce settlement, a spokesman said: ``As was stated quite clearly when their separation was announced in December 1992, the prince and princess had no plans to divorce. That remains the position.'' </P>
+<P> Lawyers for the heir to the throne and his estranged wife also issued a statement saying there was ``no truth'' in reports of a pending divorce agreement involving the couple. The French magazine Voici said the royal couple had agreed a $24.5 million divorce settlement for next year. </P>
+<P> The couple married in 1981 and have two sons. </P>
+</TEXT>
+</DOC>

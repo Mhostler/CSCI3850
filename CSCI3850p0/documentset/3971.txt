@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU012-0013.950126</DOCID>
+<TDTID>TDT009762</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/26/95 04:30</DATE>
+<TITLE> Quake analysis hints at vertical shocks in Kobe</TITLE>
+<HEADLINE> Quake analysis hints at vertical shocks in Kobe</HEADLINE>
+<SUBJECT> BC-QUAKE-JAPAN-SHOCKS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Experts trying to understand why last week's earthquake in Kobe damaged even the sturdiest buildings are coming to the conclusion that not just the size, but the direction of the tremor was responsible. </P>
+<P> In most earthquakes, damage is caused when the earth shifts from side to side, snapping vertical support structures. </P>
+<P> But in Kobe, unusually strong vertical movements may have been the culprit, according to engineers quoted in the Asahi Shimbun newspaper Thursday. </P>
+<P> A Science and Technology Agency team surveying the damage this week found that the vertical steel girders inside concrete pillars supporting elevated highways had buckled, and horizontal bolts in some highways were sliced by the tremor. </P>
+<P> In some older buildings that remained standing, the middle floors had fallen on top of one another, again difficult to account for if the main shocks had been horizontal. </P>
+<P> Until now, Japanese earthquakes have mainly carried sideways shocks. Buckling of the kind found in Kobe was noticed in Los Angeles last year, but had not previously been recorded here. </P>
+<P> A spokesman at the technolgy agency said it is still reserving judgment on the nature of the tremor, but civil engineers told Asahi vertical movement was the key to understanding some of the damage. </P>
+<P> ``Until now almost all earthquake-resistance had focused on sideways movements,'' said Osaka University professor Norio Nishimura. </P>
+<P> As a result, modern Japanese buildings and bridges are designed to withstand force of 20 to 30 percent of their weight sideways, but only 10 to 15 percent vertically. </P>
+<P> The post-mortem in Kobe could mean revision of anti-tremor construction design to make buildings able to withstand stronger vertical shocks. </P>
+<P> ``The latest structures are made to tough standards and are unlikely to collapse, but it is necessary to study the destructive effects of strong vertical shocks,'' Kyoto University professor Hirokazu Iemura told Asahi. </P>
+</TEXT>
+</DOC>

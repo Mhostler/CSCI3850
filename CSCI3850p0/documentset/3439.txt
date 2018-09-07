@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU011-0315.941226</DOCID>
+<TDTID>TDT008472</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/26/94 10:44</DATE>
+<TITLE> S.African police kill two men carrying toy guns</TITLE>
+<HEADLINE> S.African police kill two men carrying toy guns</HEADLINE>
+<SUBJECT> BC-SAFRICA-TOYS (REFILING) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG, South Africa (Reuter) </DATELINE>
+<P>  South African police said on Monday they had shot dead two men over the Christmas weekend in the belief the toy guns they were carrying were real. </P>
+<P> A statement said the men were killed in separate incidents in black townships outside Johannesburg, one Saturday and one Sunday. Both had threatened people with the toy guns, it said. </P>
+</TEXT>
+</DOC>

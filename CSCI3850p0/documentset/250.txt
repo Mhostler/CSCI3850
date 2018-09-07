@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0180.940715</DOCID>
+<TDTID>TDT000618</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/15/94 17:11</DATE>
+<TITLE> GUATEMALA CATHOLIC CHURCH SAYS RIGHTS ABUSES CONTINUE</TITLE>
+<HEADLINE> GUATEMALA CATHOLIC CHURCH SAYS RIGHTS ABUSES CONTINUE</HEADLINE>
+<SUBJECT> BC-GUATEMALA-RIGHTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GUATEMALA CITY (Reuter) </DATELINE>
+<P>  A report published Friday by the Guatemalan Catholic Church said there were more than 160 political killings and more than 30 people went missing in the first six months of the year. </P>
+<P> ``Political violence is a persistent feature which has not diminished,'' said Carlos Aldana, head of the Catholic Church's human rights office. </P>
+<P> Guatemala's army continued to forcibly conscript young men into its ranks and guerrillas of the Guatemalan National Revolutionary Unit (URNG) continued to demand a war tax from businessmen in conflictive areas, said the report. </P>
+<P> The local media and trade union members were the main targets of attack, said the report. </P>
+<P> The abuses call into question the effectiveness of the March signing of a landmark human rights agreement between the government and leftist guerrillas in U.N. brokered peace talks. </P>
+<P> Guatemala has one of the worst human rights records in Latin America. Over 100,000 people have been killed and a further 40,000 ``disappeared'' in the country's 33-year civil war. </P>
+</TEXT>
+</DOC>

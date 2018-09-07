@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU003-0143.941206</DOCID>
+<TDTID>TDT007517</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 16:59</DATE>
+<TITLE> Study cites U.S. nuclear weapons plants flaws</TITLE>
+<HEADLINE> Study cites U.S. nuclear weapons plants flaws</HEADLINE>
+<SUBJECT> BC-NUCLEAR-FLAWS 1STLD </SUBJECT>
+<AUTHOR>     By Vicki Allen </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Updates with briefing, adds byline)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  U.S. nuclear weapons facilities used to store dangerous plutonium have flaws that pose safety and health risks, the Energy Department said in a study released Tuesday. </P>
+<P> The study found 299 environmental, safety and health problems at 13 sites that were used to research and build nuclear weapons, and which with the end of the Cold War serve mainly as storage facilities for unused and spent plutonium. </P>
+<P> Rocky Flats in Colorado was ranked as the worst of the sites, where a total of 26 metric tons of plutonium, the key ingredient of nuclear weapons, is stored. </P>
+<P> The study, begun in March, said the flaws at the aging plants mostly pose a risk to plant workers, but could also harm the general public. </P>
+<P> ``These vulnerabilities have been caused by degradation in plutonium materials and packaging, and weaknesses in facilities and administrative controls that can result in inadvertent releases of plutonium that can expose workers and the public, or contaminate the environment,'' the study said. </P>
+<P> Besides packaging that is inadequate for long-term use and ''is often the only barrier that separates workers from plutonium,'' the study said the facilities have aging safety systems and design flaws which weaken their ability to weather events such as fires or earthquakes. </P>
+<P> ``In addition to their impact on workers, such large-scale events have the potential to release plutonium that could affect the public and the environment,'' the study said. </P>
+<P> But Tara O'Toole, assistant energy secretary for environment, safety and health, said at a news briefing that the chances of harm to the general public were remote. </P>
+<P> The plants' disuse also has caused problems with incomplete safety analyses, loss of experienced staff and operational problems such as maintenance backlogs. </P>
+<P> The study said two Rocky Flats buildings that were more than 35 years old were the most vulnerable because of their flaws and the amounts of plutonium they hold. </P>
+<P> Next in the rankings of vulnerable buildings were three sites at the Savannah River facility in South Carolina, followed by the Hanford Plutonium Finishing Plant in Washington. </P>
+<P> The Energy Department said it will use the study to develop safety plans for the future disposal of the plutonium, adding that the decline of the facilities will only worsen ``unless problems are addressed in an aggressive manner.'' </P>
+<P> O'Toole said the department is in the process of repackaging plutonium in material that would be safe for 50 years. But she said the government still has not figured out how to dispose finally of the byproduct of the atomic age. </P>
+<P> ``The long term is basically the whole complex question of what do we do with plutonium forever -- since it has a half life of 28,000 years it's not going to go away anytime soon.'' </P>
+</TEXT>
+</DOC>

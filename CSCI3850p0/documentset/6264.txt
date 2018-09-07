@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU003-0100.950504</DOCID>
+<TDTID>TDT013413</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 07:11</DATE>
+<TITLE> Iran agrees major gas deal with Turkey</TITLE>
+<HEADLINE> Iran agrees major gas deal with Turkey</HEADLINE>
+<SUBJECT> BC-IRAN-TURKEY-GAS </SUBJECT>
+<AUTHOR>     By Ercan Ersoy </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ANKARA, May 4 (Reuter) </DATELINE>
+<P>  Iranian Oil Minister Gholamreza Aghazadeh said on Thursday that Tehran would sell two billion cubic metres of natural gas a year to Ankara from 1998. </P>
+<P> ``We have completed very successful talks with Turkish officials and agreed that Turkey will start buying two billion cubic metres of gas per year from Iran from 1998,'' he told a news conference in Ankara at the end of his three-day visit. </P>
+<P> ``This amount will be raised to 10 billion cubic metres a year from the year 2002,'' he said. </P>
+<P> The deal was agreed by Turkey despite a proposal by NATO ally the United States for a trade boycott of Iran to thwart its alleged nuclear arms programme and for its sponsorship of what it called ``terrorism.'' </P>
+<P> A senior Turkish foreign ministry official said on Wednesday that Turkey would not join the embargo and did not think Washington expected it to do so. </P>
+<P> Aghazadeh said his visit and the agreements reached in Ankara was ``a good sign of good and friendly relations between Turkey and Iran.'' </P>
+<P> He said Ankara and Tehran had worked on ``all technical details'' of the project under which the gas would be carried by a pipeline from Iran to Turkey. </P>
+<P> ``We have agreed on the feasibility of the project and on the construction of a pipeline,'' he said, but did not elaborate. </P>
+<P> Turkish Energy Minister Veysel Atasoy has said the pipeline would be an extension to a pipeline deal to pump gas from Turkmenistan to Iran, which Turkey says has a gas surplus of around two billion cubic metres. </P>
+<P> ``The only issue that we are still studying is the pricing. It will be finalised in the next six months,'' Aghazadeh said. </P>
+<P> Turkey, whose current annual gas needs of eight billion cubic metres are expected to shoot up to 30 billion cubic metres by 2010, buys six billion cubic metres a year from Russia. </P>
+<P> It buys liquefied natural gas (LNG) from Algeria equivalent to two billion cubic metres a year. It has also been in talks with Qatar for another annual two billion cubic metres of LNG. </P>
+<P> Aghazadeh also reiterated the agreement that Iran would sell its neighbour Turkey four million tonnes of crude oil this year. ``This amount could be raised to five million tonnes,'' he said. </P>
+<P> Iran was Turkey's second largest oil supplier after Saudi Arabia in 1994, with nearly four million tonnes of crude oil. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU004-0071.950307</DOCID>
+<TDTID>TDT011057</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/07/95 14:19</DATE>
+<TITLE> Italy's mini-budget passes Senate test</TITLE>
+<HEADLINE> Italy's mini-budget passes Senate test</HEADLINE>
+<SUBJECT> BC-ITALY 1STLD </SUBJECT>
+<AUTHOR>     By Paul Holmes </AUTHOR>
+<TEXT>
+<NOTES> (Updates with outcome of Senate vote, Communist Refoundation)</NOTES>
+<DATELINE>ROME (Reuter) </DATELINE>
+<P>  Prime Minister Lamberto Dini's emergency budget for 1995 easily won a vote of approval in the Senate Tuesday despite opposition from the center-right Freedom Alliance bloc of his predecessor Silvio Berlusconi. </P>
+<P> Senators voted 179 to 91 with seven abstentions to back the $12 billion package, made up mainly of tax hikes and intended to keep Italy's deficit within target. It now passes to the Chamber of Deputies, where a far closer outcome is likely in a vote expected Thursday. </P>
+<P> Dini, a former central banker installed to head a stop-gap ``government of experts'' in January, appealed in vain to Berlusconi's coalition before the vote to drop its opposition. He gave what amounted to a promise to resign by the end of April, saying he believed reforms to Italy's costly state pension system, the last item on his government's four-point agenda, could be passed by parliament by then. </P>
+<P> Dini, who was treasury minister in the Berlusconi government that fell in December, has repeatedly said his cabinet, drawn from outside party politics, will quit once its limited program is enacted. </P>
+<P> Freedom Alliance politicians said the statement did not go far enough to meet their demands for a clear commitment to a snap general election by June. Enrico La Loggia, leader in the Senate of Berlusconi's Forza Italia party, told the upper house there was a ``total lack of clarity on when things will move from words to action.'' </P>
+<P> The balance of forces in the 630-seat Chamber of Deputies is such that no political bloc has a secure majority, but prospects that Dini's mini-budget could be scuppered in the Chamber, and with it his government, receded when seven of the hard-line Communist Refoundation party's 18 senators ignored leadership orders to vote 'No'. Six abstained and a seventh did not take part at all. </P>
+<P> A similar split in the party in the Chamber of Deputies, where Communist Refoundation has 39 seats, would significantly boost Dini's chances of victory. </P>
+<P> Media mogul Berlusconi, speaking as the Senate voted, told a television chat show he thought the budget would get through but ``without our votes.'' He said the result would illustrate what he called a plot to subvert the result of the general election he won last March and ``consign Italy to the communists and their allies.'' </P>
+<P> Berlusconi has pushed for a snap poll since he resigned, arguing that the Northern League mutiny betrayed voters. </P>
+</TEXT>
+</DOC>

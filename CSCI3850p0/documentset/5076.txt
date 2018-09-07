@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU011-0098.950321</DOCID>
+<TDTID>TDT011527</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/21/95 17:13</DATE>
+<TITLE> Israeli finance minister rejects security scheme</TITLE>
+<HEADLINE> Israeli finance minister rejects security scheme</HEADLINE>
+<SUBJECT> BC-MIDEAST-SEPARATION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israel's finance minister said Tuesday a plan to boost the Jewish state's security by physically separating Israelis and Palestinians was too expensive and would not work. </P>
+<P> ``The goal is not achieved (by implementing the plan) and the price is too high,'' Avraham Shochat told Israel Television. </P>
+<P> An intitial plan unveiled last week by Police Minister Moshe Shahal envisaged building a fence in parts of the occupied West Bank, increasing road blocks and employing technological devices to prevent Palestinians from crossing into Israel. </P>
+<P> The cost, according to some estimates, runs as high as $700 million. </P>
+<P> Members of Israel's treasury, appointed to check the economic aspects of the plan said it would be impossible to implement. </P>
+<P> ``The committee which examined the idea of separation has doubts about the possibility of implementing it from the political, military and economic perspectives,'' the treasury committee said in a statement. </P>
+<P> Committee members recommended that the government, scheduled to discuss the plan in two weeks, scrap the idea. </P>
+<P> The cabinet first adopted the idea of separation in January after two Palestinian suicide bombers opposed to the Israel-PLO peace deal blew up 21 Israelis at a bus stop north of Tel Aviv. </P>
+</TEXT>
+</DOC>

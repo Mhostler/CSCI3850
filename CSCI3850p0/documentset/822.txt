@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU008-0233.940817</DOCID>
+<TDTID>TDT002030</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/17/94 04:47</DATE>
+<TITLE> RUSSIAN COBBLERS USE RUBLES TO REHEEL STILETTOS</TITLE>
+<HEADLINE> RUSSIAN COBBLERS USE RUBLES TO REHEEL STILETTOS</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-SHOES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Cobblers in the Russian city of Chelyabinsk have found a new use for almost worthless rouble coins -- reheeling women's shoes, Itar-Tass news agency reported Wednesday. </P>
+<P> The one-ruble coins, each worth less than 0.05 of a U.S. cent, guarantee long-lasting, high-quality repairs to stiletto heels, the agency said, quoting newspapers in the Urals city. </P>
+<P> Shoemakers charge up to $1.40 for the repairs but offer a discount if paid in coins, Tass said. </P>
+</TEXT>
+</DOC>

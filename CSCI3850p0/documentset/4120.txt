@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU002-0060.950202</DOCID>
+<TDTID>TDT010044</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/02/95 21:00</DATE>
+<TITLE> Boeing 777 loses cabin pressure during test flight</TITLE>
+<HEADLINE> Boeing 777 loses cabin pressure during test flight</HEADLINE>
+<SUBJECT> BC-BOEING-777 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEATTLE (Reuter) </DATELINE>
+<P>  A Boeing 777 suddenly lost cabin pressure during a test flight Thursday, and two crew members were taken to a hospital after the jetliner landed safely, officials said. </P>
+<P> The two flight engineers were reported in stable condition after briefly losing consciousness due to lack of oxygen, said Harborview Medical Center spokesman Larry Zalin. </P>
+<P> They were to be transferred for treatment in a hyperbaric chamber to restore their blood oxygen levels, he said. </P>
+<P> A third engineer who became ill from the loss of oxygen did not require hospitalization, a Boeing spokesman said. </P>
+<P> The huge twin-engine jet was doing high-altitude testing at 43,000 feet about 30 miles west of Seattle shortly after 3 p.m. PST when it reported a loss of cabin pressurization, said Federal Aviation Administration spokesman Dick Meyer. </P>
+<P> ``The pilot declared an in-flight emergency and immediately descended to a more comfortable level,'' Meyer said. </P>
+<P> Air traffic control officials cleared the area, and the plane, which carried a total of 19 crew members, landed without incident at Boeing Field in Seattle, where emergency vehicles had gathered to take away the injured. </P>
+<P> Boeing spokesman Doug Webb said the jet was flying under battery power only with other systems inoperative as part of a planned certification test at the time of the incident. </P>
+<P> Webb said a preliminary inspection after the flight revealed that an air conditioning duct clamp had failed during the flight. </P>
+<P> ``While we are still evaluating the impact of this event on this airplane, there is no reason to believe at this time that there will be any impact on the overall 777 program,'' he said. </P>
+<P> The craft is one of six involved in an ambitious flight testing program aimed at winning unprecedented approval to fly on long over-water routes from the time the plane enters commercial service this June. </P>
+<P> The plane that made the emergency landing, painted in the colors of launch customer United Airlines and labeled WA002, is scheduled to be the first plane delivered to the airline in mid-May. </P>
+<P> Webb said the program remains on schedule for certification in time for that delivery. </P>
+<P> So far, the flight testing program has proceeded relatively smoothly, with only minor problems reported in some 1,700 hours of flying and more than 750 flights. </P>
+<P> In one incident last August, an access panel flew off and severed a hydraulic fluid line, knocking out the plane's landing gear and forcing the pilot to return shortly after takeoff. </P>
+<P> The sixth plane in the program, the first to be powered by a General Electric Co. engine and slated for delivery to British Airways, took its maiden flight Thursday and landed at Boeing Field shortly after the stricken jet touched down. </P>
+</TEXT>
+</DOC>

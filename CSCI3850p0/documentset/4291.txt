@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU006-0051.950211</DOCID>
+<TDTID>TDT010341</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/11/95 00:01</DATE>
+<TITLE> Ex-aide at Treasury still has advisory role - report</TITLE>
+<HEADLINE> Ex-aide at Treasury still has advisory role - report</HEADLINE>
+<SUBJECT> BC-ALTMAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Former Deputy Treasury Secretary Roger Altman, who resigned last summer amid congressional furor over his role in the Whitewater affair, was named an unpaid consultant to a Clinton administration task force, the Washington Post reported Saturday. </P>
+<P> Altman will advise a new task force on the District of Columbia's financial crisis and will be the only person in that group who is not a senior administration official, the newspaper said. </P>
+<P> Since he left the second-highest ranking Treasury job in August, Altman has worked as an adviser to the administration and has used an office in the Old Executive Office Building next to the White House, according to the Post. </P>
+<P> His activities have included directing the work of various members of President Clinton's National Economic Council, playing a leading role in the planning of an economic summit and discussing issues from time to time with Treasury Secretary Robert Rubin, the newspaper reported. </P>
+<P> Senate Banking Committee Chairman Alfonse D'Amato, the New York Republican who spearheaded the attack that forced Altman to resign, told the Post: ``If this is true, it's an outrage and must stop immediately.'' </P>
+<P> ``Roger Altman is a man who we believe has been untruthful to a Senate committee pertaining to Whitewater and who has resigned,'' D'Amato was quoted as saying. </P>
+<P> Altman quit after members of Congress said he gave misleading and incomplete testimony about Treasury contacts with the White House over Whitewater, the Arkansas real estate venture in which the Clintons had invested. </P>
+</TEXT>
+</DOC>

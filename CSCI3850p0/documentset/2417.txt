@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0411.941104</DOCID>
+<TDTID>TDT006071</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/04/94 16:17</DATE>
+<TITLE> Republican extends lead in Senate race</TITLE>
+<HEADLINE> Republican extends lead in Senate race</HEADLINE>
+<SUBJECT> BC-ELECTION-MICHIGAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  Republican Senate hopeful Spencer Abraham has extended his lead over Democratic challenger Bob Carr, a poll said Friday. </P>
+<P> The poll conducted by Detroit's WJKBK-TV showed Abraham with 42 percent of the vote compared to 32 percent for Democrat Robert Carr. The poll had a margin of error of 4.5 points. </P>
+<P> Last week, Abraham was leading Carr by eight points. </P>
+<P> In the governor's race, Republican Gov. John Engler held a comfortable 32-point lead over challenger Howard Wolpe. State GOP leaders are counting on Engler's strong showing to boost Abraham's standing in the polls. </P>
+<P> Both Carr and Abraham have been crisscrossing the state with high-profile politicans in an attempt to sway voters to their side. </P>
+<P> Earlier this week, President Clinton attended a rally in Detroit on Carr's behalf and Vice President Al Gore is scheduled to visit Michigan before the election. </P>
+<P> On the Republican side, Senate minority leader Robert Dole is expected to campaign with Abraham this weekend. </P>
+<P> Abraham and Carr are vying to replace Democrat Donald Riegle, chairman of the Senate Banking Committee, who is retiring after three terms. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU004-0334.940708</DOCID>
+<TDTID>TDT000289</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/08/94 13:38</DATE>
+<TITLE> ``ELECTRONIC NOSE'' SNIFFS BIG BUCKS</TITLE>
+<HEADLINE> ``ELECTRONIC NOSE'' SNIFFS BIG BUCKS</HEADLINE>
+<SUBJECT> BC-BRITAIN-NOSE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  The world's first ``electronic nose,'' capable of measuring and recording smells in digital format, could improve quality control in industry -- and turn its backers into millionaires. </P>
+<P> AromaScan Plc, a new company which announced plans to float its shares on the London Stock Exchange Friday, claimed its breakthrough device will revolutionize aroma analysis in the food, drink and perfume industries. </P>
+<P> At present, many companies have to use human testers to detect ``off'' batches of food or toileteries. </P>
+<P> ``AromaScan has enormous potential,'' said managing director Dr Allan Syms, who argues that ability to capture the most elusive of the five senses -- smell -- is comparable to breakthroughs in sound and vision recording. </P>
+<P> The company already has 25 artificial ``noses'' in use -- each costing $38,570 -- but says the potential annual market runs into thousands. </P>
+<P> The technology has already been used to find tainted fish, test deodorants, detect infections and monitor the environment inside spacecraft. </P>
+<P> AromaScan expects to start making money in 1997. In the meantime, Syms said AromaScan would continue to refine its ``nose'' to provide more sensitive analyses of the volatile chemicals that constitute smell. </P>
+<P> The current AromaScan machine has roughly the smelling power of a human. In the future, the company hopes to produce one that smells as well as a dog which would, for example, be able to detect drugs or explosives at airports. </P>
+<P> The basis of the AromaScan machine is a range of polymers which, like sensors in the human nose, trap smell molecules. This alters the polymers' ability to conduct electricity and the change in signal is then analyzed to provide an electronic signature for each smell. </P>
+</TEXT>
+</DOC>

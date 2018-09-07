@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU011-0323.950419</DOCID>
+<TDTID>TDT012725</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/19/95 11:34</DATE>
+<TITLE> Supreme Court allows anonymous election fliers</TITLE>
+<HEADLINE> Supreme Court allows anonymous election fliers</HEADLINE>
+<SUBJECT> BC-COURT-CAMPAIGN </SUBJECT>
+<AUTHOR>     By James Vicini </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Supreme Court ruled Wednesday that a state ban on the distribution of anonymous campaign literature violates constitutional free speech guarantees. </P>
+<P> In a decision that may have far-reaching impact as many states have similar laws, the high court, by a 7-2 vote, said the Ohio ban abridges First Amendment free-speech rights. </P>
+<P> ``An author's decision to remain anonymous ... is an aspect of the freedom of speech protected by the First Amendment,'' Justice John Paul Stevens said, adding that the protection goes beyond literature to the advocacy of political causes. </P>
+<P> The ruling applies to campaign literature and does not appear to cover television advertising, which is subject to different federal rules. </P>
+<P> The case involved Margaret McIntyre of Westerville, Ohio, who was fined $100 for not putting her name and address on leaflets she passed out in 1988 opposing a tax levy for the school district. Her lawyer argued the ban violated political free-speech rights and could stifle criticism of public officials by individuals who want to remain anonymous for fear of retaliation. </P>
+<P> Stevens said the ban was not justified by the state's asserted interests in preventing fraudulent or libelous statements and in providing the electorate with relevant information. In a footnote, he said anonymous pamphlets, leaflets and books have played an important role in American politics and history, citing Mark Twain, O. Henry and Benjamin Franklin. </P>
+<P> Stevens said requiring the author's name and address add little to the reader's ability to evaluate a document, especially since private leaflets normally would be written by persons unknown to the reader. He said the law also was too broad, covering all documents, regardless of whether they were false or misleading. </P>
+<P> Dissenting were Justices Antonin Scalia and Chief Justice William Rehnquist. Scalia denounced the majority for discovering a previously ``unknown right-to-be-unknown while engaging in electoral politics.'' He said the ruling would increase the potential for so-called political ``dirty tricks.'' </P>
+</TEXT>
+</DOC>

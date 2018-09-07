@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU007-0415.940915</DOCID>
+<TDTID>TDT003466</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/15/94 19:16</DATE>
+<TITLE> California governor seeks immigration aid</TITLE>
+<HEADLINE> California governor seeks immigration aid</HEADLINE>
+<SUBJECT> BC-USA-IMMIGRANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SACRAMENTO (Reuter) </DATELINE>
+<P>  California Governor Pete Wilson issued a new appeal to the Clinton administration and Congress Thursday for more help with illegal immigration costs. </P>
+<P> In a related move, he signed a number of bills relating to undocumented immigrants, including a bill aimed at transferring illegal immigrants in the state prison system to federal facilities. </P>
+<P> Illegal immigration costs have been a continuing dispute between California and the federal government. </P>
+<P> Wilson has been accused by Democratic opponents of playing the issue to gain political advantage in his campaign for re-election. </P>
+<P> ``It is time Uncle Sam quit being a deadbeat dad because it is simply costing California too much,'' he declared at a Capitol news conference. </P>
+<P> In a letter to U.S. Attorney General Janet Reno, he wrote that the federal goverment should ``take immediate steps to take custody of California's incarcerated undocumented felon population or to fully reimburse the state. To do otherwise, simply would be dishonest.'' </P>
+<P> The news conference came the day after the Urban Institute released a report on illegal immigration costs which the Clinton adminstration said indicates California had ``grossly exaggerated'' its costs for illegal immigration. </P>
+<P> But, the Republican governor defended the state's estimates and his demand for $2.5 billion as conservative. He said at a minimum the federal government should pay for the $1.8 billion in costs identified by the Urban Institute. </P>
+<P> One of the bills Wilson signed requires the prison system to notify the U.S. Immigration and Naturalization Service (INS) of suspected illegal immigrants in custody and transfer them to the federal government within 48 hours of confirmation. </P>
+<P> Wilson informed Reno that the Omnibus Crime Bill signed by President Clinton on Tuesday mandates she ``take custody of all eligible undocumented criminal aliens currently housed in state correctional institutions or fully reimburse the state.'' </P>
+<P> Using the Urban Institute figures, Wilson said the federal government has only covered $130 million of the prison costs, forcing state taxpayers to pick up the $370 million balance. ''That is unfair,'' Wilson wrote Reno. ``That is inadequate.'' </P>
+<P> The Wilson administration says that without the federal aid it will likely be forced to implement severe cuts in state services. </P>
+<P> ``I call on the Clinton administration to take immediate action to solve our crisis,'' said Wilson. ``We simply can't affort to wait any longer.'' </P>
+</TEXT>
+</DOC>

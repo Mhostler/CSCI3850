@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0020.940726</DOCID>
+<TDTID>TDT001075</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/26/94 19:52</DATE>
+<TITLE> POLICE RESCUE TWO WOMEN FROM GUATEMALAN KIDNAPPERS</TITLE>
+<HEADLINE> POLICE RESCUE TWO WOMEN FROM GUATEMALAN KIDNAPPERS</HEADLINE>
+<SUBJECT> BC-GUATEMALA-KIDNAPPING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GUATEMALA CITY (Reuter) </DATELINE>
+<P>  Police rescued an American woman missionary and a Panamanian woman from kidnappers who had abducted them for ransom hours earlier, the U.S. Embassy said Tuesday. </P>
+<P> The two women, both members of the local Mormon church, were seized Monday afternoon in a poor neighborhood on the outskirts of the capital, embassy spokesman Lee McLenny said. </P>
+<P> ``Later in the day, officers of the national police successfully rescued both women. A Guatemalan man was arrested,'' McLenny said. </P>
+<P> The embassy did not identify the victims, but sources close to the police said the American woman was from California and the kidnappers had demanded a ransom of more than $50,000. </P>
+<P> Kidnapping for ransom is a growing problem in Guatemala. Abductors usually target wealthy Guatemalans, but in April a seven-year-old U.S. schoolgirl was kidnapped and released a few days later. </P>
+</TEXT>
+</DOC>

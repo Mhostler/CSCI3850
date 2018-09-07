@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU015-0230.940930</DOCID>
+<TDTID>TDT004290</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/30/94 22:09</DATE>
+<TITLE> Clinton calls lobbyists obstacles to change</TITLE>
+<HEADLINE> Clinton calls lobbyists obstacles to change</HEADLINE>
+<SUBJECT> BC-CLINTON-RADIO (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>EDT WASHINGTON (Reuter) </DATELINE>
+<P> Release Saturday at 10:06 a.m.  President Clinton said Saturday that some 80,000 lobbyists paid to influence the government were an obstacle to change and urged Congress to pass a bill limiting their influence over lawmakers. </P>
+<P> ``In the last year, we've certainly seen how well-organized, lavishly funded campaigns by people protecting their narrow interests work,'' Clinton said in his regular weekly radio address. </P>
+<P> He complained that the gun lobby nearly derailed a $30 billion anti-crime bill and that foes of health-care reform spent about $300 million to defeat his effort to provide medical benefits to everyone. </P>
+<P> ``By all accounts, this was the most intense lobbying campaign in history,'' Clinton said. ``But rest assured, we're not giving up on our fight for health care reform, for universal coverage, cost controls, and protecting small businesses and the people who have health insurance now from losing it.'' </P>
+<P> He said he was disappointed that campaign finance reform died this week in the Senate after supporters failed to muster the 60 votes needed to end debate on the measure. </P>
+<P> ``The fight for campaign reform isn't over, either,'' Clinton vowed. ``We'll return to it next year with redoubled determination to get this job done.'' </P>
+<P> Clinton urged Congress to pass a lobby reform bill that he said ``will go a long way toward taking government out of the hands of the influence industry.'' </P>
+<P> The bill, he said, would require lobbyists to disclose who they work for and how much they are paid. It would also bar them from buying members of Congress meals, gifts or vacations. </P>
+<P> ``Not surprisingly, a lot of Washington's lobbyists don't like this bill very much,'' he said. ``It takes away their special access and puts ordinary people on a more equal footing.'' </P>
+<P> He also urged Congress to pass a bill currently pending that would require lawmakers to live by the same laws they enact for everyone else. </P>
+</TEXT>
+</DOC>

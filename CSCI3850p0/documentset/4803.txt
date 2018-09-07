@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU004-0428.950309</DOCID>
+<TDTID>TDT011105</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 05:09</DATE>
+<TITLE> Australia hails end to U.S. ban on kangaroo goods</TITLE>
+<HEADLINE> Australia hails end to U.S. ban on kangaroo goods</HEADLINE>
+<SUBJECT> BC-AUSTRALIA-KANGAROOS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SYDNEY (Reuter) </DATELINE>
+<P>  The United States has taken the kangaroo off its list of threatened species, Australia's conservation agency said Thursday, welcoming the move as final recognition that the marsupial is a pest. </P>
+<P> The U.S. Fish and Wildlife Service removed the kangaroo this week from its list of threatened species after several years of lobbying by the Australian government, a spokesman for the Australian Nature Conservation Agency told Reuters. </P>
+<P> ``Kangaroos have never qualified as a threatened species in any shape or form,'' the agency's kangaroo expert, Gerry Maynes, said, adding that at least 19 million kangaroos were bouncing around the country. </P>
+<P> ``They are a pest because in large numbers they are competing with normal livestock production,'' he said. But overseas, the national symbol was seen as ``cute and cuddly,'' he added. </P>
+<P> The kangaroo, which is on Australia's coat of arms, jumped into the spotlight Thursday with a U.S. animal-rights group telling Australian radio it would sue the Fish and Wildlife Service to have the animals relisted as threatened. </P>
+<P> They remained strongly opposed to killing the animals, a Humane Society spokeswoman said. </P>
+<P> ``We find it cruel, but we are also now concerned about the declining populations with what is considered to be the worst drought in Australia's history currently taking place,'' she said. </P>
+<P> The U.S. service listed three species of kangaroo as threatened in 1974, when information on their populations was sketchy, Maynes said. The listing effectively banned sales of skins and other kangaroo products in the United States. </P>
+<P> An exemption to allow such imports was given in 1981, but the red, eastern gray and western gray kangaroos officially remained listed as threatened, giving ammunition to groups campaigning against commercial kangaroo killing, he said. </P>
+<P> The three species make up the majority of Australia's kangaroo population. </P>
+<P> The kangaroo industry is estimated to be worth $37 million a year, with exports the most valuable component, he added. </P>
+<P> Three million kangaroos are shot under pest-control programs each year. </P>
+</TEXT>
+</DOC>

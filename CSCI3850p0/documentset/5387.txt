@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0203.950402</DOCID>
+<TDTID>TDT012021</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/02/95 06:55</DATE>
+<TITLE> Israel, Jordan meet on Rift Valley project</TITLE>
+<HEADLINE> Israel, Jordan meet on Rift Valley project</HEADLINE>
+<SUBJECT> BC-MIDEAST-JORDAN-ISRAEL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AMMAN, April 2 (Reuter) </DATELINE>
+<P>  Jordanian and Israeli officials met on Sunday to chart joint strategy for multi-billion-dollar plans to develop the Rift Valley separating the two countries, delegates said. </P>
+<P> They were meeting ahead of a meeting with U.S. officials in Amman on Monday. Washington, a key promoter of the plan, has promised to help raise funds to provide benefits from Jordan's October 26 peace treaty with Israel. </P>
+<P> Delegates said the meeting of the Jordan Rift Valley's Steering Committee at Jordan's Red Sea port of Aqaba would also prepare for a regional economic conference in Jordan, expected to be held in late October. </P>
+<P> It follows a similar meeting in Casablanca in November that drew world leaders and businessmen to discuss investment in the Middle East following moves toward peace. </P>
+<P> Jordan and Israel are seeking massive funds to develop the Rift Valley. The plan includes a $3 billion canal to bring Red Sea water to the Dead Sea. </P>
+</TEXT>
+</DOC>

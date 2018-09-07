@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0243.941016</DOCID>
+<TDTID>TDT005146</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/16/94 23:39</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-GERMANY-ELECTION-RESULT -2 BONN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Formal final results are expected to be reported later this week. </P>
+<P> The new parliament will have 16 more seats than the previous 656-seat Bundestag because Germany's complex election law provides extra seats for any party whose constituency candidates outscore the party's overall result on state lists. </P>
+<P> Provisional figures showed the CDU-led coalition had 48.4 percent of the vote, down from 54.8 percent in 1990. </P>
+<P> The main opposition parties scored a combined 48.1 percent. Turnout was 79.1 percent compared with 77.8 four years ago. </P>
+</TEXT>
+</DOC>

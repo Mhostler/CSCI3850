@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU007-0058.950313</DOCID>
+<TDTID>TDT011248</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/13/95 17:18</DATE>
+<TITLE> Book says heart ailment drug killed 50,000</TITLE>
+<HEADLINE> Book says heart ailment drug killed 50,000</HEADLINE>
+<SUBJECT> BC-HEALTH-HEARTDRUG </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A new book says an estimated 50,000 Americans died in the 1980s after taking government-approved drugs intended to prevent heart attacks. </P>
+<P> But 3M, which makes one of the drugs, said Monday the author was wrong and that the book contains ``serious misrepresentations of medical facts.'' It insisted that the drug, which is still in use by thousands of people, is safe. </P>
+<P> In the book, ``Deadly Medicine: Why Tens of Thousands of Heart Patients Died in America's Worst Drug Disaster,'' health policy researcher Thomas Moore writes that thousands of doctors did not take their patients off the 3M drug Tambocor or Enkaid, manufactured by Bristol-Myers, even after being warned about their dangers. </P>
+<P> ``We are worried that patients will be misled by Mr. Moore's allegations,'' 3M said in a statement about the book and an ABC News 20/20 television program ahead of its release March 14. ''These allegations have no scientific merit whatsoever. They're just plain wrong.'' </P>
+<P> Moore, senior fellow at George Washington's Center for Health Policy Research, said that thousands of people died in the 1980s prematurely by taking antiarrhythmic drugs like Tambocor and Enkaid. </P>
+<P> He cites a survey of cardiologists showing that 81 percent were not limiting use of antiarrhythmic drugs to life-threatening situations ,as recommended by the Food and Drug Administration, and that this caused the early deaths. </P>
+<P> He said that 3M strongly resisted attempts by the FDA to issue a warning on the label of Tambocor saying it should be limited to use by patients in life-threatening situations. </P>
+<P> In a chapter of his book called ``Panic at 3M,'' he said the Minnesota company worried that it would lose its profit potential in sales if such a limit was placed on the drug's use and he charged that the company used prominent doctors to pressure the FDA. </P>
+<P> Moore said the FDA knew about the drug's dangers and quotes one top FDA doctor as telling 3M officials, ``This drug kills people.'' </P>
+<P> The estimate that misuse of the drugs caused 50,000 deaths was made by Moore based on interviews with experts and an analysis of government and industry data. </P>
+<P> Tambocor was approved for use in the United States in 1985 for patients with both life-threatening and non-life- threatening ventricular arrhythmias. </P>
+</TEXT>
+</DOC>

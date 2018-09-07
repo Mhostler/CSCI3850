@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU003-0310.941207</DOCID>
+<TDTID>TDT007553</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/07/94 10:24</DATE>
+<TITLE> Iranian man, woman stoned to death on court order</TITLE>
+<HEADLINE> Iranian man, woman stoned to death on court order</HEADLINE>
+<SUBJECT> BC-IRAN-STONING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TEHRAN, Iran (Reuter) </DATELINE>
+<P>  An Iranian man and a married woman have been stoned to death by court order for killing the woman's husband in order to continue their love affair, a newspaper said Wednesday. </P>
+<P> The pair, convicted and sentenced by an Iranian penal court, were stoned to death in the southwestern city of Ramhormoz, the daily Hamshahri said. </P>
+<P> Iran's Islamic penal code sets death by stoning for adultery and some other sexual offenses. </P>
+</TEXT>
+</DOC>

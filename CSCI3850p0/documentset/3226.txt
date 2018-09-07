@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU007-0141.941215</DOCID>
+<TDTID>TDT007977</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 04:04</DATE>
+<TITLE> Vietnam passes copyright law but loopholes remain</TITLE>
+<HEADLINE> Vietnam passes copyright law but loopholes remain</HEADLINE>
+<SUBJECT> BC-VIETNAM-COPYRIGHT </SUBJECT>
+<AUTHOR>     By John Rogers </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HANOI (Reuter) </DATELINE>
+<P>  Vietnam's new copyright law brings protection up to international levels, but in ``photocopy city,'' where books are reproduced for a few dollars, there remain loopholes, foreign lawyers said Thursday. </P>
+<P> In a move bringing Vietnam closer to its goal of joining the international Berne convention on copyright, National Assembly president Nong Duc Manh signed the ordinance protecting the copyright of the works of Vietnamese authors last week, newspapers reported. </P>
+<P> ``It's a good law in most ways,'' said Tanya Pullin, a specialist on intellectual property rights with White and Case, a New York law firm. </P>
+<P> ``But until they join Berne, the 30-day rule is a big loophole,'' she added. </P>
+<P> The flaw Pullin referred to is the ordinance's stipulation that foreign authors must publish their works in Vietnam within 30 days of publication elsewhere to qualify for protection. </P>
+<P> In practice, few foreign authors of books or composers will do so. But computer software firms may well want to protect their works in this growing market. </P>
+<P> ``It means we would have to release simultaneously in Vietnam and the United States, in English,'' said Maureen Flanagan, country manager of the U.S. firm Unisys. ``I don't see a problem in doing that.'' </P>
+<P> Flanagan said computer software piracy was ``standard procedure'' in Vietnam, and had been encouraged by the U.S. trade embargo which Washington scrapped last February. </P>
+<P> When Vietnam joins the Berne convention, it will have to extend the copyright laws to foreign authors too. </P>
+<P> The law covers a wide range of works, including plays, broadcasts, videos, photographs, plastic art, architecture, maps and all sorts of books. </P>
+<P> How it will eat into local piracy remains to be seen. Tradesmen run a lucrative business in photocopying popular books and documents. </P>
+<P> Favorites include ``The Quiet American'' by Graham Greene, a novel set in Vietnam in the 1950s, some guidebooks, foreign language textbooks and the English translation of ``The Sorrow of War'' by Bao Ninh, a recent Vietnamese novel that has been successful in the West. </P>
+</TEXT>
+</DOC>

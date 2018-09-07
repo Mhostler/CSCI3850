@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU006-0037.950409</DOCID>
+<TDTID>TDT012352</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/09/95 13:44</DATE>
+<TITLE> Zimbabwe elections end with about 50 percent vote</TITLE>
+<HEADLINE> Zimbabwe elections end with about 50 percent vote</HEADLINE>
+<SUBJECT> BC-ZIMBABWE (PICTURE) </SUBJECT>
+<AUTHOR>     By Cris Chinaka </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HARARE, Zimbabwe (Reuter) </DATELINE>
+<P>  Zimbabwe's two-day general elections ended Sunday with electoral officials predicting a final vote of just over 50 percent in a poll already won by the ruling ZANU-PF party. </P>
+<P> Election directorate chairman Mariyawanda Nzuwa said the turnout was 1.2 million by noon, of which 820,000 had voted on the first day of polling Saturday. </P>
+<P> ``We should come up with 50 percent or over,'' he told an early evening news conference. This compares with 54 percent in the last election in 1990. </P>
+<P> President Robert Mugabe's ZANU-PF, in power since independence from Britain in 1980, was assured of a majority even before polls opened Saturday. </P>
+<P> The party had won 55 seats in parliament for lack of opposition candidates, 20 members are appointed by the president, while the remaining 10 seats in the 150-seat legislature are filled by traditional chiefs. </P>
+<P> The opposition held only three seats in the previous parliament. Some opposition parties boycotted the polls. </P>
+<P> Mugabe had urged a massive voter turnout to back his policies. Political analysts were looking at the count to gauge ZANU-PF's popularity. </P>
+<P> Ballot counting for the 65 constituencies contested by ZANU-PF, five opposition parties and about 30 independents was due to start Monday morning. </P>
+<P> The chairman of the supervisory electoral commission, David Zamchiya, told the news conference he was satisfied from reports by commissioners around the country that the election had been free and fair. </P>
+<P> Asked about local media reports of intimidation and irregularities in scattered areas, election officials said they had not received any official reports on which to act. </P>
+<P> Former white Rhodesian leader Ian Smith, who finally voted Sunday after a computer glitch thwarted his first bid to do so, accused the government of rigging the polls by controlling the state media, through intimidation and by voting to allocate ZANU-PF large sums of taxpayers money to oil the party machinery. </P>
+<P> The leader of the main opposition group, former chief justice Enoch Dumbutshena, has predicted his Forum Party will win up to six seats in the new parliament. </P>
+</TEXT>
+</DOC>

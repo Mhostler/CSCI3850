@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU012-0290.941127</DOCID>
+<TDTID>TDT007072</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/27/94 16:35</DATE>
+<TITLE> ANC demands political prisoners be freed</TITLE>
+<HEADLINE> ANC demands political prisoners be freed</HEADLINE>
+<SUBJECT> BC-SAFRICA-PRISONERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG, South Africa (Reuter) </DATELINE>
+<P>  South African President Nelson Mandela's African National Congress (ANC) party Sunday demanded the government release political prisoners before Christmas. </P>
+<P> ANC spokesman Jackson Mthembu told Reuters the prisoners included people whose release had been authorized by Mandela under transitional legislation providing for post-apartheid amnesties for political offenses. </P>
+<P> ``But because of some administrative mess in (the Department of) Correctional Services they are still in jail. We are outraged by this. In fact, we think it is sickening. We want them home before Christmas,'' Mthembu said. </P>
+<P> In a statement issued after a three-day meeting, the ANC's national executive committee urged Mandela to use his influence. </P>
+<P> ``The failure by the administration of the correctional services to release political prisoners whose release forms have long been signed by the presidency is totally outrageous and not acceptable at all,'' the ANC statement added. </P>
+<P> ``This administrative mess ... is a terrible indictment of the government of national unity.'' </P>
+<P> The correctional services portfolio is one of three cabinet posts held by Zulu chief Mangosuthu Buthelezi's minority Inkatha Freedom Party. </P>
+<P> Thousands of people convicted of political offenses ranging from possession of banned literature to murder were freed in the run up to South Africa's first all-race elections in April. </P>
+<P> Mthembu said he believed there were at least 1,000 prisoners who could be classified as political offenders. </P>
+</TEXT>
+</DOC>

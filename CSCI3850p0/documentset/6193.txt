@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0180.950501</DOCID>
+<TDTID>TDT013317</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 14:54</DATE>
+<TITLE> Polish anarchists clash with Warsaw police</TITLE>
+<HEADLINE> Polish anarchists clash with Warsaw police</HEADLINE>
+<SUBJECT> BC-POLAND-ANARCHISTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WARSAW, Poland (Reuter) </DATELINE>
+<P>  Polish anarchists staging an anti-fascist May Day rally in Warsaw clashed with police who stopped them from marching through the city. </P>
+<P> Some 1,000 demonstrators, who had received permission only to stage a rally in a central square, angrily responded to the restraining police cordon by pelting officers with beer bottles, jars of paint and stones. </P>
+<P> Baton-wielding police reinforcements were called in and a pitched battle raged briefly before the anarchists were encircled. </P>
+<P> At least half a dozen people were injured in the fray, a policeman at the scene told Reuters. </P>
+<P> The anarchists, who soon ran out of ammunition within the circle of linked-arm riot police, were released in small batches over a period of three hours to prevent them from regrouping. </P>
+<P> One of the retreating groups later splattered an American fast-food restaurant with eggs and blue paint, the PAP news agency said. </P>
+</TEXT>
+</DOC>

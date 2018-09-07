@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU014-0202.950327</DOCID>
+<TDTID>TDT011764</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 05:40</DATE>
+<TITLE> U.N. threatens Bosnian Serbs with air strikes</TITLE>
+<HEADLINE> U.N. threatens Bosnian Serbs with air strikes</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-THREAT URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  The United Nations signalled a major change in policy in Bosnia saying it was ready to ask for NATO air strikes against Bosnian Serb artillery which targets civilians inside ``safe areas.'' </P>
+<P> ``Attacks which come from outside a safe area and which deliberately target civilians will meet a resolute response from us including the use of air power,'' said Colum Murphy, a spokesman for Lt. Gen. Rupert Smith, the U.N. commander in Bosnia. </P>
+</TEXT>
+</DOC>

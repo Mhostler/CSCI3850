@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0420.941025</DOCID>
+<TDTID>TDT005537</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/25/94 01:17</DATE>
+<TITLE> Japan elections in April, Murayama's first test</TITLE>
+<HEADLINE> Japan elections in April, Murayama's first test</HEADLINE>
+<SUBJECT> BC-JAPAN-ELECTIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  The Japanese government announced Tuesday that wide-ranging local elections would be held in April, the first major electoral test for Prime Minister Tomiichi Murayama's unwieldy left-right coalition. </P>
+<P> The non-Communist opposition parties, gearing up to form a unified party by the end of this year, see the local elections as a preparatory clash with the government ahead of Upper House of parliament elections next July. </P>
+<P> About 40,000 seats in 2,530 assemblies and local governments will be chosen April 9 and 23, a spokesman for the Home Ministry said. </P>
+<P> The Tokyo governor's race is expected to be the hottest contest between the Socialist-conservative ruling coalition and the new opposition party. Popular incumbent Shunichi Suzuki, now in his mid-80s, is expected to retire before the election. </P>
+<P> The unified local election system was started in 1947, but many local governments have dropped out of it because of resignations or other events that shortened the terms of the heads of local governments or assemblies. </P>
+</TEXT>
+</DOC>

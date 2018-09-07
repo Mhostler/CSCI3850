@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU011-0239.941225</DOCID>
+<TDTID>TDT008451</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/25/94 23:18</DATE>
+<TITLE> Hijackers demand fuel to fly to Paris - radio</TITLE>
+<HEADLINE> Hijackers demand fuel to fly to Paris - radio</HEADLINE>
+<SUBJECT> BC-ALGERIA-AIRLINER-PARIS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Hijackers of a French airliner parked on the runway at Marseille's Marignane airport have demanded fuel to fly to Paris, France Info radio said Monday. </P>
+</TEXT>
+</DOC>

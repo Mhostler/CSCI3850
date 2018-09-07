@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0097.940920</DOCID>
+<TDTID>TDT003729</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/20/94 14:28</DATE>
+<TITLE> Dredge spills oil in New York's East River</TITLE>
+<HEADLINE> Dredge spills oil in New York's East River</HEADLINE>
+<SUBJECT> BC-USA-SPILL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A harbor dredge spilled about 8,000 gallons of fuel oil in New York's East River Tuesday, the Coast Guard said. </P>
+<P> The spill stretched from Governors Island, southeast of Manhattan, up the East River to Roosevelt Island, just north of the United Nations. </P>
+<P> The Coast Guard said the vessel, The Sugar Island, apparently lost diesel fuel during transfer operations while traveling north on the river. </P>
+<P> The vessel is owned by North American Trailing Co. Ltd of Oakbrook, Ill. </P>
+</TEXT>
+</DOC>

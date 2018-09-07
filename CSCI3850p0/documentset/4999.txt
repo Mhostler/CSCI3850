@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU009-0113.950317</DOCID>
+<TDTID>TDT011391</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/17/95 19:18</DATE>
+<TITLE> Plenty of ideas for unpalatable U.S. farm cuts</TITLE>
+<HEADLINE> Plenty of ideas for unpalatable U.S. farm cuts</HEADLINE>
+<SUBJECT> BC-FARM </SUBJECT>
+<AUTHOR>     By Charles Abbott </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Senate Agriculture Committee Chairman Richard Lugar has tapped a flood of ideas on how to go about slashing billions of dollars from farm subsidies -- but no one is eager to be the one left wielding the knife. </P>
+<P> Suggestions have ranged from introducing block grants and targeting aid to raising loan rates and reducing subsidized acreage, but most farm groups and farm-state legislators would prefer cuts far smaller than the $15 billion Lugar has suggested for the coming five-year period. </P>
+<P> ``We have had substantial cuts since 1985. That ought to be given some consideration,'' protested Sen. Howell Heflin, D-Ala., when the Agriculture Committee was told Thursday that major reform will be needed. </P>
+<P> William Lesher, a prominent Washington agricultural consultant, said Friday that the committee will face the double challenge of accommodating spending cuts while at the same time crafting a coherent farm policy. </P>
+<P> Senate Budget Committee Chairman Pete Domenici, a New Mexico Republican, told the Agriculture Committee on Thursday that budget cuts of up to $50 billion could be required if the goal was a balanced budget by 2002. </P>
+<P> In the past two weeks, the committee has heard a number of alternatives to Lugar's $15 billion proposal, which involves eliminating the major U.S. export subsidy program and a 15 percent cut in crop subsidy rates over five years. </P>
+<P> One suggestion has been to target prices at their current level but make less land eligible for crop subsidies. Since 1990, 15 percent of wheat, feed grain, cotton and rice land has been ineligible. </P>
+<P> A Sparks Companies Inc. analysis says the amount of ineligible land would rise to 88 percent to match the savings under Lugar's plan. However, it would at least assure some payments to farmers. </P>
+<P> Sen. Patrick Leahy, D-Vt., has threatened to try to convert farm supports into block grants if Republicans turn the programs over to the states. </P>
+<P> A coalition of Iowa farm groups has touted ``revenue assurance,'' which would both insure and subsidize crops by giving farmers payments whenever output or prices fall below a trigger level. </P>
+<P> Sen. Byron Dorgan, D-N.D., said subsidies should be paid only on the amount of grain that could be grown on a family-size farm, while Rep. Cal Dooley, D-Calif., suggested going to the opposite end of the scale and focusing on the 250,000 farmers who produce the bulk of U.S. food and fiber. </P>
+</TEXT>
+</DOC>

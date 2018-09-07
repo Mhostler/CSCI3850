@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU003-0328.940806</DOCID>
+<TDTID>TDT001571</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/06/94 19:59</DATE>
+<TITLE> BRITISH PRINCES SET TO INHERIT MILLIONS</TITLE>
+<HEADLINE> BRITISH PRINCES SET TO INHERIT MILLIONS</HEADLINE>
+<SUBJECT> BC-BRITAIN-PRINCES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Queen Elizabeth the Queen Mother has set up a trust fund estimated at up to $29.2 million for her great-grandchildren, a British newspaper said Sunday. </P>
+<P> The Observer, quoting sources close to Buckingham Palace, said the sons of Prince Charles and his estranged wife Princess Diana will share $7.5 million on their 21st birthdays. </P>
+<P> ``More than half -- 2.9 million pounds ($4.5 million) -- will go to Prince Harry, because the Queen Mother fears his chances of securing personal wealth may be limited,'' the newspaper said. </P>
+<P> Prince Harry, 9, is the younger of the couple's two sons. His older brother, Prince William, will inherit the throne from his father. </P>
+<P> The princes will also share $12.3 million on their 40th birthdays and the remainder is in trust for the Queen Mother's other four great-granchildren. </P>
+<P> ``Whatever provisions she may have made are between her family and her bank manager,'' a spokeswoman for the Queen Mother, who turned 94 this week, said. </P>
+<P> Business Age magazine estimated that her personal fortune is worth $40 million. </P>
+</TEXT>
+</DOC>

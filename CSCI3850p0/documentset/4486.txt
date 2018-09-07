@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU011-0102.950222</DOCID>
+<TDTID>TDT010654</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/22/95 16:42</DATE>
+<TITLE> Scientists find one of earliest elements of life</TITLE>
+<HEADLINE> Scientists find one of earliest elements of life</HEADLINE>
+<SUBJECT> BC-SCIENCE-LIFE (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>Release at 7 p.m. EST</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Scientists said Wednesday they may have found one of the important ingredients for the ``soup'' that eventually coalesced into life on Earth. </P>
+<P> Stanley Miller and colleagues at the University of California said they had created pantetheine, a compound used to join amino acids together in some modern organisms, simply by gently heating a batch of its constituent compounds. </P>
+<P> They said this moved forward efforts to recreate the primordial slime that evolved into the first life forms. </P>
+<P> ``These components are extremely soluble and so would have been preferentially concentrated in evaporating bodies of water, for example on beaches and at lagoon margins,'' they wrote in the science journal Nature. </P>
+<P> In other words, all the ingredients could have been present in the right amounts in the early days of the planet. They only had to heat the chemicals to 104 degrees Fahrenheit (40 degrees Celsius) for the compound to form, they added. </P>
+<P> ``The idea is that temperatures as low as 40 degrees C would have been widespread on the ancient Earth,'' Anthony Keefe, one of the authors of the report, told Reuters. </P>
+<P> The results suggest that pantetheine could have been a component of the prebiotic soup, and also that amide bond formation may have been possible on primitive Earth at temperatures low enough not to destroy organic compounds. </P>
+<P> ``This is the first time that an amide or peptide bond, similar to bonds that hold proteins together, has been formed at such a low temperature, making it likely that they were important to the first organisms,'' Keefe said. </P>
+<P> Scientists theorize that life evolved on Earth when a warm mixture of amino acids was somehow activated. </P>
+</TEXT>
+</DOC>

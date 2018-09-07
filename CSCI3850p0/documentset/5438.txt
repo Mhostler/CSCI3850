@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU002-0315.950404</DOCID>
+<TDTID>TDT012089</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/04/95 07:14</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-TANZANIA-BURUNDI-BORDER -2 NAIROBI </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> Kinana accused the international community of paying little attention to events in Burundi, where ethnic violence had killed hundreds in the past few weeks, and of failing to force Rwanda to take its people back. </P>
+<P> He was speaking shortly after the U.N. High Commissioner for Refugees (UNHCR) headquarters in Geneva appealed to his East African nation to reconsider the decision to close the border. </P>
+<P> ``The international community seems unwilling to help with the situation in Burundi and Rwanda. To them the priority is for Tanzania to reopen its border and allow in many more refugees,'' he added. </P>
+<P> Kinana said Tanzania, already burdened with some 750,000 refugees who fled genocide in Rwanda last year and past strife in Burundi, did not have the resources to cope with a new influx. </P>
+</TEXT>
+</DOC>

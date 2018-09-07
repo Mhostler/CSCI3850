@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0236.950118</DOCID>
+<TDTID>TDT009480</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/18/95 19:22</DATE>
+<TITLE> Japan quake death toll reaches 3,081</TITLE>
+<HEADLINE> Japan quake death toll reaches 3,081</HEADLINE>
+<SUBJECT> BC-QUAKE-JAPAN-TOLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  At least 3,081 people were killed, 634 are missing and 14,672 injured after Tuesday's giant earthquake in central Japan, a spokesman for the National Police Agency said Thursday. </P>
+<P> The earthquake, measuring 7.2 on the Richter scale, was the biggest to hit central Japan in half a century. </P>
+</TEXT>
+</DOC>

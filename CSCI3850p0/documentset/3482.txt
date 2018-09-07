@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0301.941229</DOCID>
+<TDTID>TDT008605</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/29/94 10:53</DATE>
+<TITLE> Egypt, Syria, Saudi Arabia end two-day summit</TITLE>
+<HEADLINE> Egypt, Syria, Saudi Arabia end two-day summit</HEADLINE>
+<SUBJECT> BC-MIDEAST-SUMMIT-END </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ALEXANDRIA, Egypt (Reuter) </DATELINE>
+<P>  Leaders of Egypt, Syria and Saudi Arabia ended a two-day summit Thursday, endorsing Syria's position in its deadlocked peace talks with Israel and calling on Iraq to fully implement U.N. resolutions. </P>
+<P> Egyptian President Hosni Mubarak, Syrian President Hafez al-Assad and Saudi Arabia's King Fahd also urged the world community to work to remove obstacles that they said Israel placed in the path of the peace process. </P>
+<P> The leaders, who held lengthy discussions Wednesday and met briefly Thursday, also said they wanted the Middle East to be free of weapons of mass destruction, particularly nuclear weapons. </P>
+<P> In a statement given to reporters at the end of the summit, they also said peace in the Middle East must be based on U.N. resolutions calling for a withdrawal of Israeli troops from occupied Arab lands and on the principle of land for peace. </P>
+</TEXT>
+</DOC>

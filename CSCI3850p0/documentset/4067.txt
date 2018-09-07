@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU014-0290.950131</DOCID>
+<TDTID>TDT009952</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/31/95 19:29</DATE>
+<TITLE> Interior department says wolf killing expected</TITLE>
+<HEADLINE> Interior department says wolf killing expected</HEADLINE>
+<SUBJECT> BC-WOLVES-INTERIOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The killing of a wolf just days after it was released was a foreseen event in the government's plan to reintroduce wolves into the Northern Rockies, the Department of the Interior said Tuesday. </P>
+<P> The killing of some livestock by wolves was also not a surprise, an official of the department's Fish and Wildlife Service told Reuters. </P>
+<P> ``Some mortality was factored into the reintroduction plan, but I don't know if anyone knew how soon it would be,'' spokeswoman Georgia Parham said. </P>
+<P> One of 29 Canadian gray wolves released earlier this month was found dead Monday by a rancher, shot after it had killed one of the rancher's calves. </P>
+<P> The American Farm Bureau, which has opposed the controversial plan on behalf of local ranchers, said the incident vindicated its position. </P>
+<P> ``We're not terribly surprised that a wolf was found eating a calf -- it's one of the things wolves do best,'' the bureau's director of government affairs, Jon Doggett, said. </P>
+<P> Calving season has just begun, and there will be tens of thousands of young calves born in the area in the next three months, he added. </P>
+<P> ``Unfortunately, there are going to be folks who take the law into their own hands,'' Doggett said. </P>
+<P> According to a controversial plan to reintroduce wolves into the American west, ranchers can kill a wolf if the animal is found attacking livestock. </P>
+<P> The rancher who found the dead wolf has not admitted or denied killing it, the Lemhi County sheriffs office has said. </P>
+<P> Parham said most of the 15 wolves released in central Idaho were still within 20 miles of the release site. </P>
+<P> Some of the wolves, which are wearing radio-transmitting collars, have been moving north toward Canada, including the wolf that was shot. </P>
+</TEXT>
+</DOC>

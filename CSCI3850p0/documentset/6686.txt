@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0133.950519</DOCID>
+<TDTID>TDT013981</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/19/95 07:20</DATE>
+<TITLE> Philippines bans consumption of shellfish</TITLE>
+<HEADLINE> Philippines bans consumption of shellfish</HEADLINE>
+<SUBJECT> BC-PHILIPPINES-SHELLFISH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANILA, Philippines (Reuter) </DATELINE>
+<P>  The Philippines has banned the consumption of mussels, oysters and clams after two children died and dozens of others were taken to the hospital following shellfish meals, officials said Friday. </P>
+<P> ``This decision (to ban the sale of all shellfish) is unpopular, but necessary,'' Health Secretary Jaime Galvez-Tan told reporters. </P>
+<P> One man in a hospital said two of his children started foaming at the mouth and died after eating shellfish caught in Manila Bay. </P>
+<P> ``They started going into convulsions after eating the shellfish. I started vomiting and feeling dizzy myself,'' he said from his hospital bed. </P>
+<P> The shellfish have been contaminated by what health officials call a ``red tide,'' normally caused during the summer season by the proliferation of algae exuding toxic chemicals. </P>
+<P> The algae are eaten by the shellfish, which are not affected by the toxic organisms. </P>
+</TEXT>
+</DOC>

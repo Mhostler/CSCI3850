@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU007-0142.941114</DOCID>
+<TDTID>TDT006520</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/14/94 22:39</DATE>
+<TITLE> Quake rocks Philippine island, at least 10 dead</TITLE>
+<HEADLINE> Quake rocks Philippine island, at least 10 dead</HEADLINE>
+<SUBJECT> BC-PHILIPPINES-TREMOR 4THLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Updates casualty toll, adds other details)</NOTES>
+<DATELINE>MANILA, Philippines (Reuter) </DATELINE>
+<P>  At least 10 people were killed when an earthquake ripped through the Philippine island of Mindoro early Tuesday, destroying more than 100 houses and splitting open the base of a mountain, officials said. </P>
+<P> Private Manila radio station DZMM, quoting provincial officials, reported 25 dead but government spokesmen and relief agencies could not confirm the figure. </P>
+<P> The tremor caught people in their sleep when it struck at 3:15 a.m. (2:15 p.m. EST Monday) with a magnitude of 6.7 on the open-ended Richter scale, the Philippine Institute of Volcanology and Seismology (Phivolcs) said. </P>
+<P> The U.S. earthquake center in Golden, Colo. said the quake measured 7.1. </P>
+<P> The tremor, which also jarred Manila, was centred off the coast of Calapan, the Mindoro provincial capital 87 miles south of Manila. </P>
+<P> Nine people were crushed to death either by falling objects or when their houses collapsed at the height of the quake, relief agencies said. </P>
+<P> The tremor demolished 107 houses and damaged 80 others in Calapan, the Red Cross said. </P>
+<P> It also cracked roads in the provincial capital and split open the base of a mountain in the tourist resort town of Puerto Galera, officials said. </P>
+<P> ``The foot of a mountain here opened up by about 150 metres (480 ft) and hot water is surging out of the opening,'' Puerto Galera vice mayor Melanio Lopez said in a radio interview. </P>
+<P> Seismologists said the tremor was felt for about 15 seconds but instruments continued to record its rumblings for more than 10 minutes before it subsided. </P>
+<P> The quake also knocked out electric power, disrupted water supplies and sent people running out into the streets in some areas, Oriental Mindoro Governor Rod Valencia said. </P>
+<P> The quake damaged four bridges around the provincial capital and destroyed several boats lying on the beaches of Puerto Galera, officials said. </P>
+<P> ``The initial estimate we received from the field is that there has been a lot of damage,'' social welfare department regional director Celia Yangco said. </P>
+<P> ``Many houses along the shore have been damaged,'' Medel Vertusio of the Maria Estrella clinic in Calapan said by telephone. </P>
+<P> In Manila, many people rushed from their homes after being awakened by the quake in the middle of the night. </P>
+<P> The last major earthquake to strike the Philippines was in July 1990 when nearly 1,600 people died in the mountainous northern Philippines. More than 370 people died in the mountain resort of Baguio. </P>
+</TEXT>
+</DOC>

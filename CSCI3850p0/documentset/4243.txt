@@ -1,0 +1,34 @@
+<DOC>
+<DOCID>REU005-0005.950209</DOCID>
+<TDTID>TDT010254</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/09/95 00:41</DATE>
+<TITLE> China says cause of Apstar failure not yet known</TITLE>
+<HEADLINE> China says cause of Apstar failure not yet known</HEADLINE>
+<SUBJECT> BC-SPACE-CHINA </SUBJECT>
+<AUTHOR>     By Mark O'Neill </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  China's space industry distanced itself Thursday from controversial reports in Hong Kong's Beijing-backed media that blamed January's Apstar disaster on the U.S.-made satellite, not China's Long March launcher. </P>
+<P> Great Wall Industry Corp said it remains confident in its Long March rockets but indicated that no cause for the deadly January 26 launch explosion has been found -- contradicting the Hong Kong reports. </P>
+<P> ``Chinese and U.S. experts agreed to organize an inquiry into the cause of accident and at present the investigation work is running smoothly,'' a Great Wall spokesman said. </P>
+<P> ``We believe the cause of the accident definitely will be uncovered,'' he said. ``We are confident of the reliability and quality of the Long March 2 rockets. The accident will not affect the original plan for further launches this year.'' </P>
+<P> The deafening blast 49 seconds into an apparently normal launch on Jan. 26 destroyed the Chinese-owned Apstar 2 satellite, made by Hughes Space and Communications of the United States and insured for $160 million. </P>
+<P> A rain of rocket and satellite wreckage wiped out a family of six Sichuan farmers and dimmed the outlook for western broadcasters eager to develop Asia's huge television market. </P>
+<P> The accident took an emotional new twist Tuesday when Hong Kong's Beijing-financed Ta Kung Pao and Wen Wei Pao, which generally reflect the communist government line, quoted Chinese officials as saying the Hughes orbiter was at fault. </P>
+<P> Ta Kung Pao even raised the specter that foreign forces opposed to China's emergence as a space power had used radio signals to sabotage the launch. </P>
+<P> Hughes officials cried foul Wednesday, saying it was impossible to reach conclusions in such a short time. </P>
+<P> ``At this point it is extremely premature and irresponsible to seek to speculate on the cause for the explosion because we don't know,'' spokesman Don O'Neal said from Los Angeles. </P>
+<P> ``We are seeking to speak with authorities in China to see if there is a way that these claims can be refuted and that future reports speculating on the cause be stopped,'' he said. </P>
+<P> A full scientific probe may take months and could be prejudiced or hindered by unsubstantiated reports, he added. </P>
+<P> Ta Kung Pao itself appeared to step back from its earlier allegations against Hughes, publishing Thursday the same Great Wall comments that appeared in the People's Daily. </P>
+<P> For its part, Apstar 2's owner APT Satellite Co, based in Hong Kong and controlled by the Chinese government, said it has received no information about the cause of the failure. </P>
+<P> The loss in December 1992 of a Hughes-made satellite owned by Optus Communications of Australia after launch atop a Long March rocket resulted in a long and ultimately inconclusive investigation by Hughes and Great Wall. </P>
+<P> The sides eventually signed an agreement saying that their own technology had not been at fault, in effect blaming each other. </P>
+<P> Great Wall has been actively cultivating the international market with cut-rate launches and the company spokesman was quoted as saying new launch contracts were expected to be set in the near future. He gave no details. </P>
+<P> Apstar 2 was to have provided technologically advanced television, telephone and digital communications to a vast swath of Asia, Eastern Europe, North Africa and Australia. </P>
+<P> The failure delayed plans by Apstar customers such as Ted Turner's CNN, sports channel ESPN, Home Box Office, Discovery Channel and Hong Kong's TVB and Reuters Television to grow their businesses in the largely untapped Asian region. </P>
+<P> A replacement satellite or an alternative with similar transmission reach will not be launched over Asia for months. </P>
+</TEXT>
+</DOC>

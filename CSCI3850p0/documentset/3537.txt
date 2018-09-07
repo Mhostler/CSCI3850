@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0148.950102</DOCID>
+<TDTID>TDT008766</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/02/95 12:30</DATE>
+<TITLE> Israeli soldiers order pizza to go, hold the war</TITLE>
+<HEADLINE> Israeli soldiers order pizza to go, hold the war</HEADLINE>
+<SUBJECT> BC-ISRAEL-PIZZA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israeli soldiers in Lebanon are under investigation for allegedly telephoning an Israeli restaurant for pizza and driving to the border to pick it up, the army said Monday. </P>
+<P> ``The army is looking into this matter now,'' an army spokesman said of an Israel Radio report soldiers ordered fast food by cellular phone while patrolling Israel's occupation zone in south Lebanon. </P>
+<P> ``I more or less set an hour with them and I always try to arrive at the time I tell them,'' said Shosh, a waitress at an Israeli pizzeria. In one case she said the soldiers drove a command car to the border at midnight to pick up a pizza. </P>
+<P> ``Suddenly I saw them coming toward us with the vehicle,'' she told the radio. ``We gave them the pizza and came back.'' </P>
+<P> The army last week barred garrulous and gadget-crazy soldiers from talking on cellular phones while on duty. Most Israeli men, after serving three years as conscripts from age 18, do annual reserve duty. </P>
+</TEXT>
+</DOC>

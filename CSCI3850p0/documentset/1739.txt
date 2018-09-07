@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0076.941001</DOCID>
+<TDTID>TDT004310</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/01/94 13:02</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-AGREEMENT -2 PALE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The accord, which did not mention the U.N. airlift to government-controlled Sarajevo shut down by Serb gunfire last week, emerged a few hours after a U.N.-brokered Serb-Muslim agreement to exchange hundreds of war prisoners. </P>
+<P> It had been hoped the prisoner deal would create momentum for an unblocking of UNPROFOR resupply and U.N. humanitarian aid convoys frozen by Serb forces in retaliation for a punitive NATO air raid on a Serb target near Sarajevo. </P>
+<P> A joint UNPROFOR-Serb statement released in Pale said UNPROFOR logistics and U.N. refugee aid convoys could resume Sunday. It also pledged efforts to restore and guarantee water, gas and electricity supplies ``on a reciprocal basis'' in the Sarajevo region and elsewhere in Bosnia. </P>
+<P> Finally, it said, ``mutual readiness has been expressed to renew communications links in order to attain an agreed resolution of all possible incidents so as to avoid a deterioration of (Serb) relations with UNPROFOR.'' </P>
+</TEXT>
+</DOC>

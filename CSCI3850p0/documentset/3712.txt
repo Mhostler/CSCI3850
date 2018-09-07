@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU004-0449.950111</DOCID>
+<TDTID>TDT009183</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/11/95 12:29</DATE>
+<TITLE> Players union agrees on contract</TITLE>
+<HEADLINE> Players union agrees on contract</HEADLINE>
+<SUBJECT> BC-NHL-AGREEMENT URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The National Hockey League Players' Association has agreed to contract terms with the owners, saving the hockey season from cancellation, union president Mike Gartner said Wednesday. </P>
+</TEXT>
+</DOC>

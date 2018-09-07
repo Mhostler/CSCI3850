@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0200.950501</DOCID>
+<TDTID>TDT013325</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 16:31</DATE>
+<TITLE> President's office denies drug-funding report</TITLE>
+<HEADLINE> President's office denies drug-funding report</HEADLINE>
+<SUBJECT> BC-DRUGS-MEXICO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  The office of Mexican President Ernesto Zedillo Monday denied a news magazine report that millions of dollars in funds from a Colombian drug cartel may have made their way into Zedillo's campaign last year. </P>
+<P> The president's office ``categorically rejects the content of the article and considers the information to be false and slanderous,'' a spokesman said. </P>
+<P> Weekly news magazine Proceso quoted Peter Lupsha of the University of New Mexico as saying a member of the U.S. Drug Enforcement Administration had told him $40 million in Cali cartel money was flown from Colombia to Mexico last year and that it may have been used ``for the elections.'' </P>
+<P> It quoted him as saying: ``I don't know where all that money went. I think there is a 50 percent possibility that it went to the campaign,'' Zedillo's campaign. Zedillo, the candidate of the long-ruling Institutional Revolutionary Party (PRI), won the presidential elections held last August 21. </P>
+<P> The money could also have been invested or have been used to buy protection for the Cali cartel's operations in Mexico, Proceso quoted Lupsha as saying. </P>
+<P> Mexico's main leftist opposition party, the Democratic Revolution Party (PRD), said it would ask the Attorney General's Office to investigate the allegations. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0251.940802</DOCID>
+<TDTID>TDT001352</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/02/94 09:14</DATE>
+<TITLE> LONDON'S EROS STATUE GIVEN ELECTRONIC SHIELD</TITLE>
+<HEADLINE> LONDON'S EROS STATUE GIVEN ELECTRONIC SHIELD</HEADLINE>
+<SUBJECT> BC-BRITAIN-EROS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  The landmark Eros statue in London's Piccadilly Circus is now protected from vandals by an electronic surveillance system that tells trespassers to keep off, an official said Tuesday. </P>
+<P> The $60,000, 24-hour system is linked to a nearby security office and if anyone climbs the statue a disembodied voice from metal-encased speakers booms: ``Do not touch the statue. Please move away!'' </P>
+<P> A spokesman for Westminster City Council said the system was fitted after a climbing vandal broke Eros' leg. </P>
+<P> ``If people want to sit around the rim of the statue, no problem,'' the spokesman said. ``But if they insist on climbing, we will ward them off.'' </P>
+</TEXT>
+</DOC>

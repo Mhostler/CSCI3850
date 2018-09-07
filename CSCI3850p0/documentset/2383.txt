@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0047.941103</DOCID>
+<TDTID>TDT005988</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/03/94 07:34</DATE>
+<TITLE> Russian-Polish relations soured by new dispute</TITLE>
+<HEADLINE> Russian-Polish relations soured by new dispute</HEADLINE>
+<SUBJECT> BC-RUSSIA-POLAND </SUBJECT>
+<AUTHOR>     By Timothy Heritage </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WARSAW, Poland (Reuter) </DATELINE>
+<P>  The postponement of a visit to Warsaw by Russian Prime Minister Viktor Chernomyrdin has badly soured Russian-Polish relations, delaying economic initiatives and threatening longer-term political damage. </P>
+<P> Chernomyrdin, who had been due to arrive Thursday, postponed the two-day visit in protest at an incident in which Polish police allegedly beat a group of Russian travelers at a Warsaw railway station. </P>
+<P> The decision has held up the signing of agreements on resolving a long-running dispute over mutual debts and building the Polish section of a pipeline which will carry gas from Siberia to Western Europe. </P>
+<P> Poland's initial official reaction has been muted. But newspapers and politicians in Warsaw have almost unanimously suggested economic or political differences, particularly over NATO, were behind the decision to postpone the visit. </P>
+<P> ``It (the railway incident) is a pure pretext,'' said Piotr Nowina-Konopka, a foreign affairs specialist for the centrist Union of Freedom party. </P>
+<P> ``It could be... an element in the game played by Russia over the picture which is unfolding in the question of Poland joining NATO,'' he said. </P>
+<P> Some Polish commentators say the Russian protest could have been seen in some quarters of Moscow as a chance to damage Poland's image in the West as it tries to join NATO. </P>
+<P> Moscow, citing security concerns, has made clear it does not want former allies from the now defunct Warsaw Pact to join the North Atlantic Treaty Organiztion. </P>
+</TEXT>
+</DOC>

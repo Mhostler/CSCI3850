@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU006-0097.950211</DOCID>
+<TDTID>TDT010347</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/11/95 08:44</DATE>
+<TITLE> Police kill four militants in south Egypt</TITLE>
+<HEADLINE> Police kill four militants in south Egypt</HEADLINE>
+<SUBJECT> BC-EGYPT-MILITANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ASSIUT, Egypt (Reuter) </DATELINE>
+<P>  Egyptian police shot dead four suspected Muslim militants they were going to arrest in a hideout in southern Egypt Saturday, police said. </P>
+<P> They said the four men opened fire on police from their hideout in the village of Aba, near the town of Maghagha in Minya province. Police shot back and the men were killed. There were no police casualties. </P>
+<P> Eleven people have been killed in Muslim militant-related violence in Egypt in the past week and at least five injured. </P>
+<P> Minya province, about 160 miles south of Cairo, has become the focus of militant-police violence over the past few months. The Egyptian Organization for Human Rights said 64 people were killed in Minya in January alone. </P>
+<P> Also in Minya, security officials arrested a police conscript they suspect of taking part in a militant attack against a police station Friday. </P>
+<P> Police, who named the man as Taha Kamal Taha, said he had escaped from the force and joined al-Gama'a al-Islamiya (Islamic Group), Egypt's largest militant organization. </P>
+<P> The Gama'a has been fighting to overthrow the government and set up a strict Islamic state for almost three years. </P>
+</TEXT>
+</DOC>

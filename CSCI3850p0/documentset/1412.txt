@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU008-0154.940916</DOCID>
+<TDTID>TDT003500</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/16/94 14:56</DATE>
+<TITLE> Yeltsin orders tighter control of nuclear stocks</TITLE>
+<HEADLINE> Yeltsin orders tighter control of nuclear stocks</HEADLINE>
+<SUBJECT> BC-CIS-NUCLEAR-RUSSIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  President Boris Yeltsin ordered tighter state controls Friday over Russia's nuclear stocks, including stricter border and customs checks. </P>
+<P> The Russian president's move came amid Western concern over recent seizures of nuclear material smuggled into Europe. </P>
+<P> Four radioactive shipments, three of deadly plutonium-239 and one of highly enriched uranium, have been seized by authorities in Germany since May. </P>
+<P> Bonn believes they may have come from Russia, but Moscow has denied its nuclear stocks are being pilfered. </P>
+<P> Yeltsin's decree, released by his press service, provided for a wide-ranging program, including setting up a government commission of representatives from the ministries of atomic energy, interior, defense and the intelligence service. </P>
+<P> The commission was to study how the materials were registered and physically protected, the decree said. </P>
+<P> It added that the Cabinet was also to ``implement a series of measures aimed at tightening border and customs control ... to prevent illegal transit of nuclear materials.'' </P>
+<P> The foreign ministry was to agree with the former Soviet republics on how to control transit shipments of nuclear materials, said the decree, which went into effect immediately. </P>
+<P> Concern around the world about the state of former Soviet atomic plants, most of them located in Russia, was heightened by the 1986 Chernobyl disaster, the world's worst nuclear accident which sent radiation clouds over much of Europe. </P>
+<P> The Russian government was to work out a special state system of control over nuclear materials and allocate money from the 1994 budget to implement it. For the 1995 budget the system was a priority, the decree said. </P>
+</TEXT>
+</DOC>

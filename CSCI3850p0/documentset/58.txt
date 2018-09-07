@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0299.940704</DOCID>
+<TDTID>TDT000125</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/04/94 14:11</DATE>
+<TITLE> NORTHERN YEMEN SAYS ITS TROOPS ENTERED MUKALLA</TITLE>
+<HEADLINE> NORTHERN YEMEN SAYS ITS TROOPS ENTERED MUKALLA</HEADLINE>
+<SUBJECT> BC-YEMEN-CITY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SANAA, Yemen (Reuter) </DATELINE>
+<P>  Northern Yemeni forces captured Monday the eastern port of Mukalla, a key base for their southern civil war enemies, a senior government official said. </P>
+<P> In Aden, southern officials contacted by Reuters from Dubai denied the northern claim. </P>
+<P> ``Mukalla has fallen,'' the northern official said. ``There was no fighting in the city itself. The big fighting was in Broum, west of Mukalla, which began Sunday and lasted 14 to 16 hours. Then our forces entered the city itself without further fighting.'' </P>
+<P> Mukalla, in the eastern province of Hadramawt, has been the base of Ali Salem al-Baidh, leader of a breakaway southern Yemeni state whose capital is the besieged city of Aden. </P>
+<P> But a southern official in Aden said: ``This report is not true. They are still far from Mukalla.'' It was not immediately possible to confirm either report independently. </P>
+<P> Northern and southern Yemen, partners for four years in a united state, have been at war with each other since May 4. </P>
+</TEXT>
+</DOC>

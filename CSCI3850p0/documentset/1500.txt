@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU010-0015.940920</DOCID>
+<TDTID>TDT003716</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/20/94 08:51</DATE>
+<TITLE> July trade gap swells as exports sag</TITLE>
+<HEADLINE> July trade gap swells as exports sag</HEADLINE>
+<SUBJECT> BC-USA-ECONOMY-TRADE 1STLD </SUBJECT>
+<AUTHOR>     By Glenn Somerville </AUTHOR>
+<TEXT>
+<NOTES> (Eds: Adds details, background)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The U.S. trade shortfall in goods and services widened sharply in July to $10.99 billion as exports sagged and imports kept rising, the Commerce Department said Tuesday. </P>
+<P> The deficit climbed 21.6 percent from June's revised $9.04 billion gap and was well above Wall Street economists' forecasts of a $9.6 billion shortfall. </P>
+<P> The politically sensitive deficit on trade in goods with Japan increased to $5.67 billion from $5.52 billion in June. That was the largest since a $5.8 billion gap in March and accounted for more than half the overall merchandise gap. </P>
+<P> White House economist Laura Tyson said Monday that despite ''some promising signs'' in long-running Japan-U.S. trade talks, not enough progress is being achieved in opening up Japan's markets to more U.S.-made goods. </P>
+<P> The White House charges that Japan closes its markets to American goods while it runs up huge surpluses by invading U.S. markets with everything from cars to television sets. Washington has set a September 30 deadline for solid signs of more access to Japan's markets for U.S. telecommunications and medical equipment and to other priority sectors under an economic framework pact. </P>
+<P> Exports contracted in July by 3.2 percent to $56.47 billion from $58.36 billion in June while imports posted a third straight monthly increase, up fractionally by 0.1 percent to $67.46 billion from $67.40 billion. </P>
+<P> Nearly 60 percent of the drop in exports was due to weaker sales of civilian aircraft, which dropped $1 billion from June to $841 million in July, the lowest level since November 1989, when $500 million worth were sold overseas. </P>
+<P> The United States typically runs a surplus on its trade with other countries in services such as travel and tourism, partly offsetting persistent big merchandise trade deficits. </P>
+<P> Previously, the department said June's overall goods and services deficit was $9.37 billion but it revised that downward modestly. In July, the deficit on merchandise alone jumped to $15.70 billion from $14.02 billion in June -- the highest monthly shortfall since the department started calculating it on the current basis at the beginning of 1992. The surplus on services fell slightly, to $4.71 billion from $4.98 billion in June. </P>
+<P> As the U.S. economy gains strength, it has been drawing in foreign-made consumer goods while Europe and Japan are barely growing. That makes trade a weak spot in a generally strong American economic outlook. </P>
+<P> The cost of imported petroleum products rose to $5.03 billion in July from $4.70 billion in June. The price per barrel of imported crude oil was up to $16.06 from $15.14. </P>
+<P> The U.S. trade deficit with Western Europe rose to $2.37 billion from $1.82 billion in June. The shortfall with Canada, the United States' single largest trading partner, was up to $1.29 billion from $1.26 billion in June. </P>
+<P> The deficit with China hit a record $2.67 billion in July, up from $2.46 billion in June. </P>
+</TEXT>
+</DOC>

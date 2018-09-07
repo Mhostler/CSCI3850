@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU010-0136.940720</DOCID>
+<TDTID>TDT000784</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/20/94 11:25</DATE>
+<TITLE> S.AFRICA SAID TO HAVE BUILT SUPER-LETHAL RPG-7</TITLE>
+<HEADLINE> S.AFRICA SAID TO HAVE BUILT SUPER-LETHAL RPG-7</HEADLINE>
+<SUBJECT> BC-SAFRICA-ROCKET </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG, South Africa (Reuter) </DATELINE>
+<P>  South Africa manufactured a more lethal version of a Soviet-designed rocket-propelled grenade in the mid-1980s which it supplied in large numbers to Angola's UNITA rebels, defense industry sources said Wednesday. </P>
+<P> Commenting on reports that two German companies might have collaborated with South Africa in weapons development, including improved versions of the RPG-7, one source said Pretoria went into full-scale manufacture of the projectiles. </P>
+<P> ``It was found to be cheaper and more reliable than supplying UNITA (National Union for the Total Independence of Angola) with captures,'' he said, commenting on arms seized by South African troops during cross-border operations into Angola. </P>
+<P> South Africa's state arms procurement agency Armscor said it was checking the reports. </P>
+<P> The minutes said recommended production was 30,000 units a year and test shoots ``can be carried out end of May (1985) in South Africa.'' </P>
+<P> It was unclear if the weapon made in South Africa was based on any development work carried out by the German companies. </P>
+</TEXT>
+</DOC>

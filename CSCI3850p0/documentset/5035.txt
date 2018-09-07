@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU010-0193.950320</DOCID>
+<TDTID>TDT011475</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/20/95 13:46</DATE>
+<TITLE> Tower collapse at new Olympic Stadium kills worker</TITLE>
+<HEADLINE> Tower collapse at new Olympic Stadium kills worker</HEADLINE>
+<SUBJECT> BC-OLYMPICS-STADIUM-COLLAPSE 2NDLD </SUBJECT>
+<AUTHOR>      By Mike Cooper </AUTHOR>
+<TEXT>
+<NOTES>  (new throughout)</NOTES>
+<DATELINE>ATLANTA (Reuter) </DATELINE>
+<P>  A steel lighting structure collapsed Monday at the 85,000-seat Olympic Stadium being built for the 1996 Games, killing one construction worker and seriously injuring another, authorities said. </P>
+<P> A cantilever supporting two rows of lights collapsed onto a seating area in the $169 million stadium. Construction work was suspended for the day after the late morning accident. </P>
+<P> ``The light tower collapsed without warning,'' said Atlanta Mayor Bill Campbell. ``This light tower has been in place for a week and there was no additional work being done on it, so it's inexplicable as to why it collapsed.'' </P>
+<P> The worker who was killed ``was working on top of the actual light structure doing some fairly minor work,'' Campbell said. </P>
+<P> Officials of the Atlanta Committee for the Olympic Games (ACOG) issued a statement expressing regret and sympathy for the workers' families. </P>
+<P> ``A thorough investigation will be conducted immediately,'' the ACOG statement said. ``We are committed to our contractors fully meeting all requirements for safety.'' </P>
+<P> ``We have asked ... that all of the various light towers and every other aspect of this construction be checked and re-checked again so that we can assure ourselves that there will be no additional problems,'' Campbell said. </P>
+<P> Last Thursday, workers celebrated placement of the last major piece of steel at the stadium, which is more than halfway completed. There had been no deaths or serious injuries since construction began in November 1993. </P>
+<P> The stadium, due for completion this fall, will be the centerpiece of the 1996 Olympic Games and will serve as the venue for the opening and closing ceremonies as well as athletic events. </P>
+<P> It was not immediately clear if the accident would dealy the constructrion schedule of the stadium, which is located about a mile southeast of downtown, just south of the Atlanta-Fulton County Stadium. </P>
+<P> After the Olympics, the stadium will be converted to a baseball park and given to the city of Atlanta for use by the Atlanta Braves baseball team. </P>
+</TEXT>
+</DOC>

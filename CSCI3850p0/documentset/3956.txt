@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0239.950125</DOCID>
+<TDTID>TDT009745</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/25/95 10:59</DATE>
+<TITLE> Indian troops shoot dead five Kashmir militants</TITLE>
+<HEADLINE> Indian troops shoot dead five Kashmir militants</HEADLINE>
+<SUBJECT> BC-KASHMIR-MILITANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, India (Reuter) </DATELINE>
+<P>  Indian security forces shot to death five Kashmiri guerrillas as they were trying to cross the border into Pakistan, the Press Trust of India (PTI) said Wednesday. </P>
+<P> The news agency quoted a government spokesman as saying in Jammu, the winter capital of the northernmost Indian state of Jammu and Kashmir, as saying a group of militants had been trying to cross at a point some 125 miles from Jammu. </P>
+<P> They were asked to stop and surrender, and shot when they opened fire in retaliation. Their bodies were taken away by fellow guerrillas, he was quoted as saying. </P>
+<P> Muslim guerrillas are waging a four-year-old secessionist war against New Delhi in the state, the only one with a Muslim majority in mainly Hindu India. </P>
+</TEXT>
+</DOC>

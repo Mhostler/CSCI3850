@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU005-0004.940809</DOCID>
+<TDTID>TDT001685</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/09/94 21:04</DATE>
+<TITLE> BASEBALL-NO PROGRESS AS STRIKE DEADLINE APPROACHES</TITLE>
+<HEADLINE> BASEBALL-NO PROGRESS AS STRIKE DEADLINE APPROACHES</HEADLINE>
+<SUBJECT> BC-BASEBALL-STRIKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  With a threatened August 12 baseball strike deadline fast approaching, a small group of owners met with representatives of the Major League Players' Association Tuesday, but the key issues separating the two sides were not discussed. </P>
+<P> ``We talked about licensing and then got into shutdown procedures,'' Steve Fehr, assistant executive director of Players Association and brother chief negotiator Donald Fehr, told reporters. </P>
+<P> If a strike is to be averted, substantial progress must be made in a negotiating session scheduled for Wednesday. </P>
+<P> The Players Association has said a strike will begin following completion of Thursday's scheduled games if a settlement can not be reached. </P>
+<P> The major stumbling block in the negotiations is the owners' insistence on the creation of a salary cap for baseball. The players have steadfastly rejected the ideal of a salary cap. </P>
+<P> The owners are also seeking to eliminate salary arbitration, while the union wants eligibility for arbitration reduced to two years of major league service. </P>
+<P> The players union is also seeking to increase the minimum salary from $109,000 to $200,000. </P>
+</TEXT>
+</DOC>

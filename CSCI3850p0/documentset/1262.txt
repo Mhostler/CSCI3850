@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU004-0389.940909</DOCID>
+<TDTID>TDT003137</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/09/94 22:31</DATE>
+<TITLE> Cuba urges halt to boat people</TITLE>
+<HEADLINE> Cuba urges halt to boat people</HEADLINE>
+<SUBJECT> BC-CUBA-RAFTS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  Cuba, fulfilling its part of a deal struck earlier with the United States aimed at ending an exodus of boat people, Friday issued a statement urging people to stop setting out to sea in home-made vessels. </P>
+<P> The statement, issued on state media, gave rafters 72 hours from mid-day Saturday to clear up rafts or raft material gathered on beaches in preparation for such departures. </P>
+</TEXT>
+</DOC>

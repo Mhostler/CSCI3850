@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU010-0127.950515</DOCID>
+<TDTID>TDT013829</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/15/95 11:09</DATE>
+<TITLE> Dow Corning files for bankruptcy</TITLE>
+<HEADLINE> Dow Corning files for bankruptcy</HEADLINE>
+<SUBJECT> BC-IMPLANTS 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Edits throughout)</NOTES>
+<DATELINE>MIDLAND, Mich.(Reuter) </DATELINE>
+<P>  Dow Corning Corp, saying it faced nearly 200 lawsuits in the next six months from women who claim they were injured by the company's breast implants, filed Monday for protection under the U.S. bankruptcy code. </P>
+<P> Dow Corning, a joint venture of Dow Chemical Co and Corning Inc, said it filed for protection under Chapter 11 of the code because of the ``exorbitant demands'' from plaintiffs' attorneys in lawsuits involving silicone-gel breast implants. </P>
+<P> It said the lawsuits threatened its long-term business and ability to provide $2 billion toward a global settlement of breast implant litigation. But it said its underlying business remains strong and the filing with the U.S. Bankruptcy Court in Bay City, Mich., will not directly affect its customers. </P>
+<P> ``We decided to take this action while we are in a position of financial strength, with the cash to continue operating our business without disruption,'' said Richard Hazleton, Dow Corning chairman and chief executive officer. </P>
+<P> ``Attorneys with lawsuits outside of the global settlement have not reduced their exorbitant demands, threatening our long-term business and, therefore, our ability to fund the global settlement,'' he said. </P>
+<P> ``We were faced with preparing for nearly 200 cases in the next 6 months. This represented a potentially enormous financial and management drain which threatened our business. Our Chapter 11 filing immediately stops all lawsuits against the company.'' </P>
+<P> Hazleton said the company still hoped to participate in the settlement during its reorganization. ``But we have consistently said that we cannot both fund the global settlement and afford large numbers of lawsuits outside of the settlement.'' </P>
+<P> He also cited recent downgradings of the company's credit rating because of the implant claims and said the company's insurers ``have not accepted their responsibility to commit to pay their share of the more than $1.5 billion which we believe they will owe us. </P>
+<P> ``As of March 31, 1995,'' he said, ``we had received less than $100 million.'' </P>
+<P> The filing immediately stops all lawsuits against the company. ``Even so, we are concerned about the settlement, since many are calling for hundreds of millions or even billions of more dollars and are predicting thousands of additional lawsuits,'' Hazleton said. </P>
+<P> Under Chapter 11 of the federal bankruptcy law, the company remains in possession of its business and in control of its operations while it reorganizes. </P>
+</TEXT>
+</DOC>

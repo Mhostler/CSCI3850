@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU014-0091.950130</DOCID>
+<TDTID>TDT009925</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/30/95 23:10</DATE>
+<TITLE> One of wolves released in Idaho found shot to death</TITLE>
+<HEADLINE> One of wolves released in Idaho found shot to death</HEADLINE>
+<SUBJECT> BC-WOLVES 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds reaction from Defenders of Wildlife grafs 7-8)</NOTES>
+<DATELINE>DENVER (Reuter) </DATELINE>
+<P>  One of the 29 Canadian gray wolves released into the Northern Rockies earlier this month was found shot to death in Idaho, lying near the body of a dead newborn calf, the Lemhi County sheriff's office said Monday. </P>
+<P> ``The wolf was found by the landowner who was moving cattle from one pasture to another,'' said Sam Slavin, chief deputy of the Lemhi County Sheriff's office. </P>
+<P> Next to the female wolf the landowner found a dead calf and according to a local veterinarian, black hair and flesh from the calf was found in the wolf's stomach, Slavin said. </P>
+<P> According to a controversial plan to reintroduce wolves into the American west, ranchers can kill a wolf if the animal is found attacking livestock. </P>
+<P> ``He has not admitted or denied'' shooting the wolf, Slavin said, although the rancher has said the calf belonged to him. </P>
+<P> The wolf could have been shot by a coyote hunter in the area, Slavin said. </P>
+<P> Defenders of Wildlife, an environmental group, reiterated that its Wolf Compensation Fund would compensate producers at full market value for any livestock losses verified by qualified state or federal officials. </P>
+<P> The fund, established in 1987, has paid approximately $17,000 to more than 20 ranchers as part of a campaign to shift economic responsibility for wolves ``away from individual livestock producers and toward the millions of people who support wolf recovery,'' the group said. </P>
+<P> Sharon Rose, a spokeswoman for the U.S. Fish and Wildlife Service (USFW) said investigators and wolf experts were also in the area. USFW biologists said during a routine radio-collar check, the wolf ``B-13'' was located Saturday evening and was still alive. </P>
+<P> Earlier this month, 15 wolves were released into the central Idaho wilds and another 14 were sent to Yellowstone National Park. </P>
+<P> But ranchers have severely criticized the plan, fearing the wolves will attack and kill livestock. The American Farm Bureau has filed a lawsuit in federal court to stop the plan, which calls for releasing 30 wolves a year for the next three to five years. </P>
+</TEXT>
+</DOC>

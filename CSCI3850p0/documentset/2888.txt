@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0158.941129</DOCID>
+<TDTID>TDT007171</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/29/94 12:36</DATE>
+<TITLE> Jury gets case in ``Hollywood Madam'' trial</TITLE>
+<HEADLINE> Jury gets case in ``Hollywood Madam'' trial</HEADLINE>
+<SUBJECT> BC-FLEISS-JURY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  The jury in the Heidi Fleiss trial was handed the case by a judge Tuesday and began deliberations to determine if the so-called ``Hollywood Madam'' is guilty of running a high-priced call girl ring catering to Hollywood's rich and famous. </P>
+<P> Fleiss, 28, has pleaded not guilty to five charges of pandering -- recruiting prostitutes -- and one charge of possessing cocaine. She faces up to 11 years in prison if convicted. </P>
+</TEXT>
+</DOC>

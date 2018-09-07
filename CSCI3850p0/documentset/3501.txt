@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0123.941231</DOCID>
+<TDTID>TDT008694</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 00:27</DATE>
+<TITLE> Caned U.S. teen-ager tops the news in Singapore</TITLE>
+<HEADLINE> Caned U.S. teen-ager tops the news in Singapore</HEADLINE>
+<SUBJECT> BC-SINGAPORE-POLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SINGAPORE (Reuter) </DATELINE>
+<P>  Michael Fay, the American teen-ager who was caned for vandalism, has been voted the top newsmaker in Singapore for 1994. </P>
+<P> The Straits Times newspaper Saturday published the results of a poll of 19,770 readers. Fay grabbed more than 80 percent of the votes, the newspaper said. </P>
+</TEXT>
+</DOC>

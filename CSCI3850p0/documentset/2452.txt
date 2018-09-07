@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0332.941107</DOCID>
+<TDTID>TDT006160</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/07/94 06:21</DATE>
+<TITLE> Gunman kills two in Greek court</TITLE>
+<HEADLINE> Gunman kills two in Greek court</HEADLINE>
+<SUBJECT> BC-GREECE-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>IOANNINA, Greece (Reuter) </DATELINE>
+<P>  A gunman killed two people and wounded three others seriously in a Greek courtroom Monday before being shot himself, police said. </P>
+<P> The man, identified as Constantinos Bitos, 42, burst into the court in this northwestern border city and shot to death state prosecutor Petros Spyrou. He also killed a policeman. </P>
+<P> Four people wounded in the court house were hospitalized and undergoing surgery, including Bitos. </P>
+<P> Police said they had no explanation for the shooting. </P>
+</TEXT>
+</DOC>

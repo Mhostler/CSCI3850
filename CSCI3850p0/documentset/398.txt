@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0290.940725</DOCID>
+<TDTID>TDT001035</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/25/94 23:40</DATE>
+<TITLE> MERCEDES-BENZ PROPOSES VIETNAM VEHICLE PLANT</TITLE>
+<HEADLINE> MERCEDES-BENZ PROPOSES VIETNAM VEHICLE PLANT</HEADLINE>
+<SUBJECT> BC-VIETNAM-MERCEDES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HANOI, Vietnam (Reuter) </DATELINE>
+<P>  The German firm Mercedes-Benz has told the Vietnamese government it plans to set up a plant to assemble commercial vehicles and cars in Ho Chi Minh City, an official newspaper reported Tuesday. </P>
+<P> The plant could start operation by the end of 1995 with a capacity of up to 10,000 vehicles a year, including 1,000 passenger cars, the Vietnam News reported. </P>
+<P> Mercedes-Benz officials briefed the government on the project, which still requires a license Monday, the newspaper said. Confirmation from the company was not immediately available. </P>
+<P> Most of the output would be light and medium trucks, buses and minivans, Vietnam News quoted the officials as saying. </P>
+<P> Vietnam now has two automobile assembly plants and one joint venture commercial vehicle plant assembling Fiat Iveco buses and light trucks. </P>
+<P> The government has urged foreign automobile manufacturers who want to enter the Vietnamese market to get together with the established firms. </P>
+<P> France's Renault and Germany's BMW have announced assembly deals for their models with one of the two companies, the Vietnam Motors Corporation, in which Columbian Motors of the Philippines is the majority partner. </P>
+</TEXT>
+</DOC>

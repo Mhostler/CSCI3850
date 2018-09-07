@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU010-0087.950515</DOCID>
+<TDTID>TDT013819</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/15/95 08:42</DATE>
+<TITLE> Japanese TV reports new mystery fumes</TITLE>
+<HEADLINE> Japanese TV reports new mystery fumes</HEADLINE>
+<SUBJECT> BC-JAPAN-SUBWAY-FUMES URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Mystery fumes overcame at least 10 people at a railway staion near Tokyo on Monday night, a Japanese television station reported. </P>
+</TEXT>
+</DOC>

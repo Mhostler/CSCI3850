@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0049.941005</DOCID>
+<TDTID>TDT004512</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/05/94 10:22</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-TRADE-GATT-VOTE -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The House had originally been scheduled to vote on the GATT rule Wednesday morning but that will slip until much later in the day. Republicans and many democrats have threatened to vote against the rule which could kill chances of voting on the measure before a scheduled October 7 recess. </P>
+<P> Democratic leaders planned to meet with their Republican counterparts later Wednesday to assess the situation. </P>
+<P> A hearing is also scheduled later Wednesday on a controversial telecommunications provision of the GATT measure. </P>
+<P> The Senate has already been forced to delay on a vote on GATT, one of President Clinton's main priorities, until December 1 due to opposition by South Carolina Democrat Ernest Hollings. </P>
+</TEXT>
+</DOC>

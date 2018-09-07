@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU011-0331.950322</DOCID>
+<TDTID>TDT011557</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/22/95 12:46</DATE>
+<TITLE> Russia to seal off sunken nuclear submarine</TITLE>
+<HEADLINE> Russia to seal off sunken nuclear submarine</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-SUBMARINE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Russian naval experts have approved plans to build a special tomb around a sunken nuclear submarine to prevent radiation leaking out of the damaged hull, the Rossiiskaya Gazeta newspaper said Wednesday. </P>
+<P> ``We have to build a sarcophagus using special substances capable of absorbing plutonium,'' the newspaper quoted Mikhail Tolokonnikov, head of the underwater works department of Russia's ministry for emergency situations, as saying. </P>
+<P> The Komsomolets nuclear submarine sank off the north Norwegian coast in April 1989 with the loss of 42 lives. It is now embedded in mud in international waters 5,530 ft. below the surface. </P>
+<P> Carrying 20 conventional torpedoes and two nuclear ones when it sank, it is estimated to contain about 22-26 lbs of deadly plutonium. </P>
+<P> Russian and Norwegian experts expressed fears that radioactive materials leaking from the submarine could pollute the seabed. Plans to raise the craft were scrapped amid concern that the operation might be more risky than leaving it in place. </P>
+<P> Russian authorities tried last year to seal off the torpedo hatches and plug holes in the damaged submarine, one of them covering an area of 215 sq. ft. </P>
+<P> More ambitious plans were scuppered by lack of funds in the wake of the collapse of the former Soviet Union. </P>
+<P> Tolokonnikov told the newspaper that it would take one month for special underwater robots to build a tomb around the submarine. </P>
+<P> ``The reactor is intact. There is no radiation,'' he said. ``The reactor will be safe until it dies out naturally after a hundred years.'' </P>
+</TEXT>
+</DOC>

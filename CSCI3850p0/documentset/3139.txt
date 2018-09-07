@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0342.941212</DOCID>
+<TDTID>TDT007775</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/12/94 05:48</DATE>
+<TITLE> More women, young among British homeless-charity</TITLE>
+<HEADLINE> More women, young among British homeless-charity</HEADLINE>
+<SUBJECT> BC-BRITAIN-HOMELESS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Britain is experiencing a new homelessness crisis with more women and younger people sleeping on the streets and in shelters, a charity said Monday. </P>
+<P> Centrepoint, a charity for the homeless, said that 43 percent of those staying in its shelters were young women, compared with 26 percent seven years ago. The number of 16 and 17-year-olds had jumped by 38 percent, it said. </P>
+<P> ``We are seeing the emergence of a new homelessness crisis. It may be convenient for many to believe in the myth of feckless youngsters wilfully leaving home and coming to London to look for a good time,'' said Nick Hardwick, chief executive of Centrepoint. </P>
+<P> ``The truth is that these youngsters -- barely out of childhood -- have no homes to return to, no income and very little chance of finding work,'' he added. </P>
+<P> A survey by six charities of 1,500 homeless people under 25 showed that 44 percent were from ethnic miniorities and most of the new homeless were forced to leave home. </P>
+<P> In 1982, 52 percent of homeless claimed they left home to find work and to strike out on their own and 44 percent said they were forced to leave. But recently up to 86 percent said they had no choice but to go. </P>
+</TEXT>
+</DOC>

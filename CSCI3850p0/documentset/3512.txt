@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0187.941231</DOCID>
+<TDTID>TDT008714</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 12:56</DATE>
+<TITLE> Over 100 killed in Burma train crash</TITLE>
+<HEADLINE> Over 100 killed in Burma train crash</HEADLINE>
+<SUBJECT> BC-BURMA-TRAIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  One hundred and two people were killed and 53 injured when a train ran out of control on a steep hill in Burma Friday, Burmese radio reported. </P>
+<P> The radio, monitored by the British Broadcasting Corporation, said the train linking Mandalay and Myitkyina was derailed when its brakes failed, and one of the carriages plunged into a ravine. </P>
+<P> Several other carriages of the mixed cargo-passenger train overturned or came off the rails and one passenger carriage was left hanging from a bridge. </P>
+<P> The train bound for Myitkyina had reached Wuntho township about 135 miles north of Mandalay when its brakes failed on a slope, sending it hurtling out of control down the hill. </P>
+<P> Rail Minister Win Sein, Social Welfare Minister Brigadier-General Thaung Myint and Deputy Health Minister Colonel Than Zin visited the site, the radio said. </P>
+</TEXT>
+</DOC>

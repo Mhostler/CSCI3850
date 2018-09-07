@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0086.950504</DOCID>
+<TDTID>TDT013411</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/04/95 06:23</DATE>
+<TITLE> German parcel bomb was addressed to Turk</TITLE>
+<HEADLINE> German parcel bomb was addressed to Turk</HEADLINE>
+<SUBJECT> BC-GERMANY-EXPLOSION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FRANKFURT, May 4 (Reuter) </DATELINE>
+<P>  A parcel bomb which killed a Frankfurt post office worker on Wednesday was adressed to a Turk living in Germany but probably did not constitute a racist attack, the state prosecutor's office said on Thursday. </P>
+<P> ``The man is known to police in connection with criminal circles,'' prosecutor Job Tilmann said in response to an inquiry. ``At this stage of our investigations we can exclude a racist motivation for the attack.'' </P>
+</TEXT>
+</DOC>

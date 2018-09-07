@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU013-0067.941129</DOCID>
+<TDTID>TDT007155</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/29/94 02:13</DATE>
+<TITLE> Former 'Yippie'' Jerry Rubin dead at 56</TITLE>
+<HEADLINE> Former 'Yippie'' Jerry Rubin dead at 56</HEADLINE>
+<SUBJECT> BC-RUBIN URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Former ``Yippie'' and Chicago Seven activist Jerry Rubin died from a heart attack in a Los Angeles hospital late Monday, two weeks after being struck by a car and critically injured, a hospital spokesman said. </P>
+</TEXT>
+</DOC>

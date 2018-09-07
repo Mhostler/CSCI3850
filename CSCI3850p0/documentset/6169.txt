@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0006.950501</DOCID>
+<TDTID>TDT013290</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 00:52</DATE>
+<TITLE> One in six of Chinese-made Audi cars is a fake</TITLE>
+<HEADLINE> One in six of Chinese-made Audi cars is a fake</HEADLINE>
+<SUBJECT> BC-CHINA-CAR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING, May 1 (Reuter) </DATELINE>
+<P>  One in every six of China's most prestigious domestically-made car, the Audi, is a fake, the Press Digest said on Monday. </P>
+<P> Of the 60,000 Audis on China's roads, more than 10,000 are fake, made by cobbling together parts from old models or by assembling poor quality parts smuggled into China from abroad, the newspaper said. </P>
+<P> The Audi, made by the state-owned First Automobile Works in Changchun, northeast China, is the preferred choice among senior Communist Party and government officials, who are no longer allowed to drive imported vehicles, and among a growing class of wealthy businessmen. </P>
+<P> The fakers sell the look-alike Audi at much below the official price, complete with counterfeit quality certificates and other necessary documents ostensibly from the Changchun plant, the newspaper said. </P>
+</TEXT>
+</DOC>

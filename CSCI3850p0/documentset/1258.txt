@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU004-0349.940909</DOCID>
+<TDTID>TDT003123</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/09/94 18:41</DATE>
+<TITLE> Casino proposal to go on Florida ballot</TITLE>
+<HEADLINE> Casino proposal to go on Florida ballot</HEADLINE>
+<SUBJECT> BC-USA-CASINOS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds quotes, details)</NOTES>
+<DATELINE>TALLAHASSEE, Fla (Reuter) </DATELINE>
+<P>  The Florida Supreme Court approved the wording of constitutional amendment to legalize casino gambling Friday, clearing the way to put the measure on the November ballot. </P>
+<P> The proposal would legalize 12 free-standing casinos and five riverboat casinos. It would also authorize casinos at 30 licensed parimutuel locations, including horse tracks, dog tracks and jai-alai frontons. </P>
+<P> The Supreme Court automatically reviews proposed amendments to ensure that they are presented clearly and deal with a single issue. </P>
+<P> In a 5-to-1 vote, the high court laid the groundwork for what is expected to be a multi-million dollar battle between casino proponents and myriad religious, law enforcement and small business groups that oppose casino gambling on moral and economic grounds. </P>
+<P> The sponsors of the measure, Proposition for Limited Casinos Inc, have already spent nearly $4.5 million to obtain and verify the 430,000 petition signatures needed to put the initiative on the ballot. </P>
+<P> Casino supporters expect to spend another $5 million on advertising before the November 8 general election. </P>
+<P> Opinion polls show Florida residents almost evenly divided on the gaming issue. Florida voters last addressed the casino issue in 1986, when they resoundingly defeated a proposal by a 2-to-1 margin. Since then, scores of other states have legalized gambling. </P>
+<P> ``I think the whole thing has changed. So, historically in Florida, you can't look at that any more,'' said Limited Casino's chairman Pat Roberts. </P>
+<P> Anti-gambling groups, led by Orlando-based No Casinos Inc, expect to challenge the proposal by focusing on the underside of legalized casino gambling. </P>
+<P> ``The people who can afford to gamble the least are the people who gamble the most. The money doesn't stay in the community. It doesn't circulate. It gets sucked out,'' said Robert Knowles, a S. Lucie County Sheriff who led No Casino's forces in eastern Florida in 1986. </P>
+<P> ``Casinos attract the criminal element, bringing more street crime and more violent crime,'' said John Sowinski, state campaign director of No Casinos. ``The crime that casinos bring to Florida would make our streets less safe and state less appealing to potential visitors.'' </P>
+<P> Roberts countered that Florida already leads the nation in many crime statistics, without casinos. </P>
+<P> ``Florida's got a crime problem. It's not casinos, that's not the issue there,'' Roberts said. </P>
+</TEXT>
+</DOC>

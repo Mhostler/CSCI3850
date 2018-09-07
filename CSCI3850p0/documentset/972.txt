@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0261.940824</DOCID>
+<TDTID>TDT002390</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/24/94 13:59</DATE>
+<TITLE> U.N. CHIEF TO VISIT EGYPT, PAKISTAN, INDIA, JAPAN, CHINA</TITLE>
+<HEADLINE> U.N. CHIEF TO VISIT EGYPT, PAKISTAN, INDIA, JAPAN, CHINA</HEADLINE>
+<SUBJECT> BC-UN-BOUTROS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  Secretary-General Boutros Boutros-Ghali will visit Pakistan, India, Japan and China after attending a U.N. population conference opening in Cairo September 5, U.N. sources said Wednesday. </P>
+<P> He is expected to return to New York September 18, two days before the start of the annual U.N. General Assembly session. </P>
+<P> An official U.N. announcement, including the dates of the visits to each country on his itinerary, is expected shortly. </P>
+<P> The foreign ministry in Islamabad said Wednesday the secretary-general would be in Pakistan on September 6 and 7. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU002-0036.940903</DOCID>
+<TDTID>TDT002845</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/03/94 12:24</DATE>
+<TITLE> Clinton popularity rating falls to low of 40 percent</TITLE>
+<HEADLINE> Clinton popularity rating falls to low of 40 percent</HEADLINE>
+<SUBJECT> BC-CLINTON-POLL 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: adds previous poll, 4th graf)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton's approval rating with Americans has fallen to 40 percent, the lowest for him and for any president at this point in his term in four decades, according to a Time Magazine-CNN poll. </P>
+<P> His disapproval rating rose to 52 percent in the poll, the highest of his presidency. The remaining eight percent had no opinion. </P>
+<P> The poll of 800 American adults was taken between August 31 and September 1 and had a margin of error of plus or minus 3.5 percent. It was taken while Clinton is on vacation in Massachusetts and just after he scored a major legislative victory when Congress passed his anticrime bill. </P>
+<P> In the previous poll taken August 17-18, Clinton's approval rating was 44 percent and his disapproval rating was 47 percent. </P>
+<P> The poll also found a gain in support for Republican candidates in November 8's congressional elections. According to the poll, 40 percent of those questioned said they would vote for the Republican candidate while 38 percent would support the Democratic candidate. </P>
+<P> This was the first time Republicans have out-polled Democrats since June when the congressional races were included in the survey. </P>
+<P> Democrats now have majorities in both the Senate and House of Representatives but Republicans are hopeful of making gains and possibly taking control of one or both chambers. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU013-0218.940727</DOCID>
+<TDTID>TDT001121</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/27/94 18:56</DATE>
+<TITLE> IRAN DRAFTS BILL TO BAN SATELLITE DISHES</TITLE>
+<HEADLINE> IRAN DRAFTS BILL TO BAN SATELLITE DISHES</HEADLINE>
+<SUBJECT> BC-IRAN-SATELLITE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA, Cyprus (Reuter) </DATELINE>
+<P>  An Iranian parliamentary committee has drafted a bill that would ban satellite dishes used to watch foreign television transmissions, the official news agency IRNA reported Wednesday. </P>
+<P> Some Iranian leaders have condemned the dishes as a conduit of Western ``corruption.'' </P>
+<P> IRNA said the nine-point bill was drafted by the arts and Islamic guidance commission of parliament to ban the importation, manufacture, distribution and installation of satellite dishes in Iran. </P>
+<P> The bill must now go to parliament for debate. </P>
+<P> IRNA quoted the committee's chief, Seyyed Reza Taqavi, as saying that, if parliament passed it into law, users would have one month to dismantle satellite dish equipment. </P>
+<P> Those who ignored the notice ``will be subject to statutory punishments that will include both dismantling and seizure of their dishes, indictment and prosecution at the Islamic revolution courts,'' Taqavi said. </P>
+<P> He said recommended punishment also included fines of up to five times the value of a dish and could in some cases go as high as 10 times the value. </P>
+<P> Iran was not opposed to modern technology but was against ``the messages that are sent by the satellite television to adulterate the indigenous cultures of world nations,'' he said. </P>
+<P> Taqavi said Iranian television could record ``those programs of satellite television stations that do not outrage our values and are not against the Islamic principles.'' </P>
+<P> Residents had said Monday that police ordered several apartment complexes in a fashionable Tehran district to remove satellite dish antennas, the first police action reported against using satellite dishes in Tehran. </P>
+<P> Thousands of households, seeking programs other than those provided by state television, have bought the antennas which are smuggled into Iran and cost several hundred dollars each. </P>
+<P> President Akbar Hashemi Rafsanjani said last month using such dishes was all right pending a decision by parliament. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU011-0445.941125</DOCID>
+<TDTID>TDT007011</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/25/94 10:30</DATE>
+<TITLE> Sandwich found behind sofa -- 69 years later</TITLE>
+<HEADLINE> Sandwich found behind sofa -- 69 years later</HEADLINE>
+<SUBJECT> BC-BRITAIN-SANDWICH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A cheese sandwich complete with teeth marks has been found down the back of a sofa 69 years after it was left there. </P>
+<P> Two faded newspapers, including one dated from October 1925, were found beside the sandwich when 87-year-old Harry Landlin, from Peterborough in central England, broke up the heirloom. </P>
+<P> ``It must have been the man who made the sofa,'' Landlin told reporters Friday. ``In those days, you didn't get a lunch break so you would eat your sandwich as you worked.'' </P>
+</TEXT>
+</DOC>

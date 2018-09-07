@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU011-0236.950223</DOCID>
+<TDTID>TDT010665</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/23/95 08:51</DATE>
+<TITLE> Moderate quake hits Taiwan, two dead, 10 injured</TITLE>
+<HEADLINE> Moderate quake hits Taiwan, two dead, 10 injured</HEADLINE>
+<SUBJECT> BC-QUAKE-TAIWAN 3RDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Updates with new figures on injured, quotes)</NOTES>
+<DATELINE>TAIPEI, Taiwan (Reuter) </DATELINE>
+<P>  An earthquake measuring 5.2 on the Richter scale hit Taiwan Thursday, killing two people and injuring 10 as rocks crashed through the roof of a tourist bus on a mountain road. </P>
+<P> State television showed a marble boulder the size of a pillow lying in the bus under a gaping hole in the roof. It had tumbled down cliffs in the scenic Taroko Gorge area near the east coast city of Hualan, not far from the epicenter. </P>
+<P> ``When the bus was moving, we heard the sound of falling rocks from the cliffs,'' said a survivor, Kuo Wang. </P>
+<P> ``We shouted to the driver to go faster, go faster. Accelerate. But then the roof of the bus crumpled in,'' Kuo said on state radio. </P>
+<P> Taroko Gorge is one of Taiwan's most famous scenic spots. A road, cut through numerous tunnels, snakes its way through the gorge for miles, marble cliffs rising sheer on both sides into mists above. </P>
+<P> The local tour grouped people with the surname Kuo. All dead and injured were from Taiwan. The dead were two men, both aged around 70, the television said. </P>
+<P> The quake was also felt in the capital, Taipei, where it measured three on the Richter scale and made major buildings sway. There were no reports of damage in Taipei. </P>
+<P> The quake's epicenter was on the coastline 15 miles north of Hualien, said a statement from the Central Weather Bureau. </P>
+</TEXT>
+</DOC>

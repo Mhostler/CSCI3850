@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU004-0047.941208</DOCID>
+<TDTID>TDT007600</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 02:27</DATE>
+<TITLE> Christopher ends Mideast mission</TITLE>
+<HEADLINE> Christopher ends Mideast mission</HEADLINE>
+<SUBJECT> BC-MIDEAST-CHRISTOPHER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TEL AVIV, Israel (Reuter) </DATELINE>
+<P>  U.S. Secretary of State Warren Christopher left the Middle East Thursday after mediating a dispute between Israel and the PLO over expanding Palestinian self-rule. </P>
+<P> Christopher was flying to a Pan-American summit in Miami. U.S. and Israeli officials said Wednesday Israel had promised not to change its peace pact with the Palestinians and the PLO pledged to act firmly against guerrilla violence. </P>
+</TEXT>
+</DOC>

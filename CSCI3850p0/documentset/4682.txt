@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0382.950302</DOCID>
+<TDTID>TDT010934</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/02/95 09:46</DATE>
+<TITLE> French poll puts Chirac ahead of Balladur</TITLE>
+<HEADLINE> French poll puts Chirac ahead of Balladur</HEADLINE>
+<SUBJECT> BC-FRANCE-POLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  An opinion poll made public Thursday showed Paris mayor Jacques Chirac for the first time ahead of Prime Minister Edouard Balladur, his conservative rival in the April-May presidential election. </P>
+<P> The Louis Harris poll, conducted for the French daily InfoMatin and made available in advance of publication Friday, showed Chirac taking 22 percent in the first round of voting to 21 percent for fellow Gaullist Balladur and 22 percent for Socialist Lionel Jospin. </P>
+<P> In the run-off, Chirac would defeat Balladur by 51 percent to 49 percent and Jospin by 56 percent to 44 percent, according to the poll. </P>
+<P> Balladur, longtime favorite, has seen his poll ratings dive in the past two weeks over a wiretap scandal and a dispute with the United States over alleged American espionage in France. </P>
+</TEXT>
+</DOC>

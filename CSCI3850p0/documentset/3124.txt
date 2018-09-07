@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU005-0192.941211</DOCID>
+<TDTID>TDT007748</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/11/94 08:29</DATE>
+<TITLE> Russian MPs protest advance into Chechnya</TITLE>
+<HEADLINE> Russian MPs protest advance into Chechnya</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-CHECHNYA-YUSHENKOV </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  The advance of Russian troops into the separatist region of Chechnya Sunday sparked angry protest in Moscow, with leading parliamentarian Sergei Yushenkov calling for mass public protest. </P>
+<P> Ekho Moskvy commercial radio station quoted Yushenkov, who led a recent trouble-shooting delegation to Chechnya, as calling on Muscovites to assemble on central Pushkin Square by four p.m. local, 8 a.m. EST, to voice their opposition to the military moves. </P>
+<P> Yushenkov, head of parliament's defense committee, said Boris Yeltsin's administration was taking similar action to that carried out in January 1991 when Moscow ``decided by force of arms to foist its version of the Union Agreement on Lithuania.'' </P>
+<P> A Soviet military crackdown on Lithuania and other Baltic states brought an angry backlash of public opinion which contributed to the collapse of the Soviet Union 11 months later. </P>
+<P> ``A different regime is today attempting to foist its version of the Federation Treaty upon another people. Of course we are all in favor of keeping Russia intact -- but not at any price. We are in favor of settling the conflict in the Chechen Republic by peaceful means,'' Yushenkov said. </P>
+<P> Russia's conservative parliament has been hostile to Defense Minister Pavel Grachev, second only to Yeltsin at the head of the country's armed forces, since government tanks pounded the previous Russian parliament into submission after an October 1993 revolt. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU015-0116.950424</DOCID>
+<TDTID>TDT012983</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 16:48</DATE>
+<TITLE> Clinton approval jumps on handling of explosion</TITLE>
+<HEADLINE> Clinton approval jumps on handling of explosion</HEADLINE>
+<SUBJECT> BC-BLAST-CLINTON-POLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton's handling of events surrounding the Oklahoma City federal building explosion was approved by 84 percent of those asked in a new CNN/USA Today/Gallup poll released Monday. </P>
+<P> The poll said 84 percent approved while 7 percent disapproved and the rest did not know. </P>
+<P> His actions on the blast also boosted Clinton's overall job approval rating, which had been hovering in the 40-plus percent range in most polls. </P>
+<P> His presidential job rating -- not just handling of the blast -- jumped from 47 percent on Friday, to 51 percent on Saturday and to 58 percent on Sunday. </P>
+<P> A CNN official said the overall poll of 758 people had a four percent plus or minus margin of error in the answers. </P>
+</TEXT>
+</DOC>

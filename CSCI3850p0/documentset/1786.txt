@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU002-0111.941003</DOCID>
+<TDTID>TDT004420</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 19:16</DATE>
+<TITLE> Report clears way for easing of Yugoslav sanctions</TITLE>
+<HEADLINE> Report clears way for easing of Yugoslav sanctions</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-UN 1STLD </SUBJECT>
+<AUTHOR>     By Anthony Goodman </AUTHOR>
+<TEXT>
+<NOTES>(Eds: adds details, edits throughout)</NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  The U.N. secretary-general has received confirmation that Yugoslavia's closure of its borders with the Bosnian Serbs is effective, clearing the way for the easing of some sanctions against Serbia and Montenegro, a Security Council source said Monday. </P>
+<P> Confirmation came in the form of a report from the co-chairmen of the international conference on the former Yugosalavia, Lord Owen of Britain and Norwegian diplomat Thorvald Stoltenberg, the source said. </P>
+<P> This will permit the reopening of Belgrade airport and of a ferry service between the Montenegran port of Bar and Bari, in Italy. </P>
+<P> The rump Yugoslav state comprising Serbia and Montenegro will also be allowed to take part in sporting and cultural exchanges. </P>
+<P> The Security Council imposed comprehensive sanctions against Yugoslavia, beginning in 1992, for assisting the Bosnian Serbs in their fight against Bosnia's Muslim-led government. </P>
+<P> But the council decided last month to suspend some of the curbs to reward Belgrade for closing its borders to further aid for the Bosnian Serbs and for permitting international monitors to check that only food and humanitarian supplies were being allowed through. </P>
+<P> Belgrade's action increased pressure on its former Bosnian Serb proteges to accept a Bosnia peace plan drafted by a five-nation contact group comprising the United States, Russia, Britain, France and Germany. </P>
+<P> The plan, accepted by all other parties to the two-and-a -- half-year-old conflict, would give the Bosnian Serbs 49 percent of the territory of Bosnia, compared with the 70 percent they now control. The other 51 percent would go to Bosnia's Muslim-Croat federation. </P>
+<P> About 100 civilian observers, under Swedish General Bo Pellnas, are monitoring the border under the authority of the international conference on the former Yugoslavia. </P>
+<P> The number of observers is expected to increase to about 160 in the next 10 days. </P>
+</TEXT>
+</DOC>

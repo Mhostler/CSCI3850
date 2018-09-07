@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0171.940914</DOCID>
+<TDTID>TDT003376</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/14/94 16:16</DATE>
+<TITLE> Clinton orders crackdown on teenage gun users</TITLE>
+<HEADLINE> Clinton orders crackdown on teenage gun users</HEADLINE>
+<SUBJECT> BC-USA-CRIME-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Wednesday ordered federal prosecutors to develop strategies to carry out a ban on possession of handguns by young people by January 1. </P>
+<P> The ban is a key provision of the $30 billion crime bill signed into law by Clinton Monday at a White House ceremony. </P>
+<P> ``We can enforce this. It will make a massive difference in the problem of youth violence,'' Clinton told the nation's U.S. attornies at a White House meeting. </P>
+<P> He said that by January 1 ``we should have a strategy in every community to get guns out of the hands of violent teens and away from young criminals. </P>
+<P> ``Anyone can talk tough on crime,'' Clinton continued. ``This law gives you a chance to be both tough on criminals and successful in making your communities safer.'' </P>
+<P> The ban on youthful possession of hanguns allows only one exemption: a person under age 18 can use a handgun for hunting or target shooting when accompanied by a parent or another responsible adult. </P>
+</TEXT>
+</DOC>

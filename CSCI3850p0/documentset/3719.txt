@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU005-0107.950111</DOCID>
+<TDTID>TDT009198</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/11/95 20:08</DATE>
+<TITLE> House panel approves balanced budget amendment</TITLE>
+<HEADLINE> House panel approves balanced budget amendment</HEADLINE>
+<SUBJECT> BC-BUDGET-BALANCE </SUBJECT>
+<AUTHOR>     By David Lawsky </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The House Judiciary Committee Wednesday approved a controversial version of the balanced budget amendment to the Constitution and sent it to the full House on a party-line 20-13 vote. </P>
+<P> If it becomes part of the Constitution, the measure would require a three-fifths vote in both houses of Congress to raise the nation's credit line, permit an annual deficit or raise taxes. </P>
+<P> The three-fifths margin is the same required to break a filibuster in the Senate, and many moderate Republicans object to requiring it for a tax increase. They predicted that it would lose on the floor unless the tax provision is removed. </P>
+<P> ``There is no way that would get all of the Republicans,'' said Rep. Fred Upton, R-Mich. ``It will lose 20 to 30 Republicans.'' </P>
+<P> House Majority Leader Richard Armey, R-Texas, met with Republicans to reassure them an alternative acceptable to them would be presented on the floor when the amendment comes up the week of Jan. 23. </P>
+<P> ``This party and this Congress will pass a balanced budget amendment'' even if the supermajority for taxes is dropped, Armey told reporters after meeting with the moderates, known as the ``Tuesday Group.'' </P>
+<P> House Judiciary Committee Chairman Henry Hyde, R-Ill., gave a similar assurance as the measure was being debated in his committee. </P>
+<P> Even if the measure cleared the House with the controversial tax provision it would run into trouble in the Senate. </P>
+<P> ``We don't see any way we can pass it over here'' with the controversial tax provision, Senate Judiciary Committee Chairman Orrin Hatch, R-Utah, said earlier this week. </P>
+<P> A constitutional amendment requires a two-thirds vote of each house, and Republicans lack that kind of majority in either house, so they need Democratic help. Once a constitutional amendment is approved by Congress it must be ratified by 38 states. </P>
+<P> Many Democrats support a balanced budget amendment, but few want the tax provision. </P>
+<P> During an all-day meeting, the committee's Republican majority rejected a blizzard of Democratic amendments but Hyde assured Democrats he would see to it that many of their proposals were presented on the floor. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU013-0199.941231</DOCID>
+<TDTID>TDT008717</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 14:37</DATE>
+<TITLE> Police arrest Boston suspect in Norfolk, Va.</TITLE>
+<HEADLINE> Police arrest Boston suspect in Norfolk, Va.</HEADLINE>
+<SUBJECT> BC-ABORTION-SHOOTING-ARREST URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  Police have arrested John Salvi, the suspected gunman believed to have killed two women in a shooting spree at abortion clinics in Brookline, Mass., the FBI in Boston said Saturday. </P>
+</TEXT>
+</DOC>

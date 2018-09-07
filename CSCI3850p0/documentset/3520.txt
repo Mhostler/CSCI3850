@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU013-0246.941231</DOCID>
+<TDTID>TDT008724</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/31/94 23:17</DATE>
+<TITLE> More than 100 killed in Burma train accident</TITLE>
+<HEADLINE> More than 100 killed in Burma train accident</HEADLINE>
+<SUBJECT> BC-BURMA-TRAIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RANGOON, Burma (Reuter) </DATELINE>
+<P>  At least 102 people were killed and 53 injured when a passenger train derailed in northern Burma as it came down a hill, state radio said Sunday. </P>
+<P> The train, bound for the northern terminus of Myitkyina, left the tracks Friday at 4:30 a.m. (local time) after hurtling down a steep hill near Wuntho township, about 135 miles north of Mandalay, state radio said. </P>
+<P> Initial reports blamed brake failure for the accident, the worst in the history of Burma's railways, the radio said. </P>
+<P> Two passenger cars and four freight cars overturned in the accident, the radio said. </P>
+<P> One of the cars plunged into a ravine and another was left hanging from a bridge, it said. </P>
+<P> Rail Minister Win Sein, Social Welfare Minister Brig. Gen. Thaung Myint and Deputy Health Minister Col. Than Zin visited the site. </P>
+<P> Burma's antiquated railway network consists of about 2,800 miles of track. </P>
+</TEXT>
+</DOC>

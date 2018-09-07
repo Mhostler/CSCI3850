@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU003-0275.950206</DOCID>
+<TDTID>TDT010144</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/06/95 18:22</DATE>
+<TITLE> Republicans-Clinton ``abidicates leadership''</TITLE>
+<HEADLINE> Republicans-Clinton ``abidicates leadership''</HEADLINE>
+<SUBJECT> BC-BUDGET-REPUBLICANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Republican leaders Monday criticized President Clinton for ``abdicating leadership'' by failing to produce a thriftier budget and said their own spending plans won't be out until April or later. </P>
+<P> ``My mood is one of great disappointment that we have not seen more from the president,'' House Budget Committee Chairman John Kasich, R-Ohio, said at a news conference. ``When you are president of the United States you better show some leadership and this budget is an abdication of leadership. </P>
+<P> Kasich and Senate Budget Committee Chairman Pete Domenici, R-N.M., said that Clinton should have cut Medicare and Medicaid to bring the deficit down. </P>
+<P> The deficit stays in the $200 billion range between now and the year 2000, except for one year, and the Republicans said that was not enough. </P>
+<P> They said that Clinton should have cut Medicare and Medicaid, which are the fastest growing parts of the budget. </P>
+<P> ``Medicare is going bankrupt in six years,'' said Domenici. ''When is he going to have us fix it?'' </P>
+<P> White House budget director Alice Rivlin said earlier at a briefing that Medicare and Medicaid should not be looked at in isolation from health reform. However, Clinton proposed health reform last year only to see Congress delay and kill it. </P>
+<P> Domenici would give no specific date when his committee might propose an alternative budget, saying it would likely come in late April or May. </P>
+<P> Kasich said that he is committed only to cutting enough to pay for proposed tax cuts of $200 billion within the first 100 days and wants to put off his budget proposal until late in the spring. </P>
+</TEXT>
+</DOC>

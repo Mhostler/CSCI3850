@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU002-0239.950503</DOCID>
+<TDTID>TDT013373</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 07:52</DATE>
+<TITLE> Frankfurt post office blast caused by bomb</TITLE>
+<HEADLINE> Frankfurt post office blast caused by bomb</HEADLINE>
+<SUBJECT> BC-GERMANY-EXPLOSION-BOMB URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FRANKFURT, May 3 (Reuter) </DATELINE>
+<P>  An explosion which killed one postal worker and injured 11 others at a Frankfurt mail sorting office on Wednesday was caused by a parcel bomb, the city's state prosecutors' office said in a statement. </P>
+</TEXT>
+</DOC>

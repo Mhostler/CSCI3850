@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU004-0358.950407</DOCID>
+<TDTID>TDT012244</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 03:06</DATE>
+<TITLE> Key facts about Iceland</TITLE>
+<HEADLINE> Key facts about Iceland</HEADLINE>
+<SUBJECT> BC-ICELAND-PROFILE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>REYKJAVIK, April 7 (Reuter) </DATELINE>
+<P>  These are the key facts about Iceland, where general elections are being held on Saturday. </P>
+<P> Population: 262,000 (Dec 1992). The average density of 2.5 inhabitants per square km makes it the most sparsely populated country in Europe. </P>
+<P> Geography: A large volcanic island in the North Atlantic, 812 km (504 miles) from Scotland, 435 km (270 miles) from the Faroes, 970 km (602 miles) from Norway and 290 km (180 miles) from Greenland. </P>
+<P> Land area: 103,100 sq km (39,768 sq miles). Four-fifths of the island are uninhabited. Glaciers cover 11 per cent of the land and trees are a prized rarity. Earthquakes are frequent and in the last few centuries, volcanic eruptions have occurred on an average every five or six years. </P>
+<P> Climate: Cool, temperate. </P>
+<P> History: Iceland was first settled by Vikings from Norway in the ninth century A.D. Their independent commonwealth collapsed in the 13th century when the island came under the rule first of the King of Norway and, later, Denmark. Granted home rule in 1918, the Icelanders finally broke from the Danes after the Nazi occupation of Denmark in April 1940. </P>
+<P> Religion: 96 per cent of Icelanders are Lutheran. </P>
+<P> Language: Modern Icelandic is closely related to Old Norse, the language of the Viking settlers. </P>
+<P> Head of State - Vigdis Finnbogadottir, president, first elected in June 1980. She was re-elected in 1984, 1988 and 1992. </P>
+<P> Prime Minister: David Oddsson (the conservative Independence Party). </P>
+<P> Cabinet - Two-party coalition with the Social Democrats since the last elections on April 20, 1991. </P>
+<P> Parliament: The 63-seat Althing, elected for a four-year period, traces its origins to the assembly established by the island's Viking settlers in 930 AD. </P>
+<P> Foreign Policy: A founding member of NATO in 1949, Iceland's main anxiety has been to avoid any conflict that could endanger the sea on which the island's survival depends. The need to defend its main source of income led Iceland to proclaim a 200-mile economic zone in 1975 and sparked fishing disputes with Britain in the 1950s and 1970s, the so-called ``Cod Wars.'' </P>
+<P> Defence: Iceland is the only unarmed member of NATO. It signed a Defence Agreement with the United States in 1951 and U.S. servicemen stationed at NATO's Keflavik base form the Iceland Defence Force. The future of the 5,000-man base is in doubt because of the end of the Cold War and the U.S. is cutting its presence there. </P>
+<P> Economy: Fish products constitute 80 percent of merchandise exports. This income is crucial for an economy that has to import virtually everything it consumes. Apart from fish, the only major resources are abundant hydro- and geothermal power. </P>
+</TEXT>
+</DOC>

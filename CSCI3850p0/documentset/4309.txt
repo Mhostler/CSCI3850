@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0290.950212</DOCID>
+<TDTID>TDT010374</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/12/95 17:06</DATE>
+<TITLE> Gunmen shatter Sarajevo calm</TITLE>
+<HEADLINE> Gunmen shatter Sarajevo calm</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-SNIPERS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO, Bosnia-Herzegovina (Reuter) </DATELINE>
+<P>  Snipers broke the relative calm Sarajevo Sunday, wounding a 16-year-old boy and a man, and Bosnian Serbs said Muslims shot a child in a Serb suburb. </P>
+<P> Doctors and United Nations staff confirmed the first attack. Peacekeepers said they suspected the sniper fire came from Bosnian Serb positions overlooking the besieged city. </P>
+<P> The Bosnian Serb news agency SRNA later reported that a child had been seriously wounded by a Muslim small arms attack in the Serb suburb of Cekrcici. No further details were available. </P>
+<P> The shootings were the latest violations of a truce which has eased the danger to civilians in the city in recent days, allowing roads and a railway to reopen to civilian traffic. </P>
+<P> Doctors in Kosevo hospital said 16-year-old Dzemal Karovic had been shot in the stomach. Mujo Klino, 43, was wounded when he went to help him. </P>
+</TEXT>
+</DOC>

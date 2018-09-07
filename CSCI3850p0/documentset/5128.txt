@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0171.950323</DOCID>
+<TDTID>TDT011603</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 11:07</DATE>
+<TITLE> Hong Kong police snare soft-drink spiker suspect</TITLE>
+<HEADLINE> Hong Kong police snare soft-drink spiker suspect</HEADLINE>
+<SUBJECT> BC-HONGKONG-SPIKER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HONG KONG (Reuter) </DATELINE>
+<P>  Hong Kong police said Thursday they had arrested a suspect in a spate of mysterious drink-spiking cases in the tourist district of Kowloon. </P>
+<P> The ``Kowloon Spiker'' has struck more than a dozen times, injecting a hypnotic drug into store-shelf drinks, trailing the buyer, then relieving the dazed victim of their cash, according to investigators. </P>
+<P> ``The (arrested) man is suspected to be in connection with a kidnapping case and the spiked drink case,'' said a police spokeswoman who added that the suspect was still being questioned. </P>
+</TEXT>
+</DOC>

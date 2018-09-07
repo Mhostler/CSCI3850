@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU011-0193.950322</DOCID>
+<TDTID>TDT011546</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/22/95 02:01</DATE>
+<TITLE> Kuwait oil strike goes into fifth day</TITLE>
+<HEADLINE> Kuwait oil strike goes into fifth day</HEADLINE>
+<SUBJECT> BC-OIL-KUWAIT-STRIKE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>KUWAIT, March 22 (Reuter) </DATELINE>
+<P>  A strike aimed at halting Kuwait's three percent share of global oil production went into a fifth day on Wednesday and a union said efforts to solve the stoppage were deadlocked. </P>
+<P> ``We are still striking,'' Mohammad al-Sarhan, chairman of Kuwait Oil Company (KOC) Labour Union, told Reuters, adding no further talks with management had been scheduled to solve the dispute. </P>
+<P> Sarhan said about 800 union members in the KOC production department and 300 in the marine export department remained on strike, levels unchanged since the strike started on Saturday. </P>
+<P> The production department normally has between 1,000 and 1,200 staff and the maritne department over 400, oilmen say. </P>
+<P> Sarhan said he would be checking later in the morning on whether the action was affecting Kuwait's two million barrels per day output and crude quality. </P>
+<P> Union officials said on Monday crude had been contaminated by mineral salts by problems at desalter units caused by the walkout. </P>
+<P> KOC, which provides 90 percent of the country's export earnings, has denounced the stoppage as illegal and denies it has affected quality or quantity of production or exports. </P>
+<P> It says it has drafted in replacements, many of them maintenance workers, to help run production units. </P>
+<P> The union wants a reshuffle of employment grades to reward veteran staff it says have been unfairly denied promotion. </P>
+<P> KOC says meeting the union's demands would entail promoting unqualified people in violation of labour law and KOC rules. </P>
+<P> Tanker loading at Kuwait's oil export terminals was proceeding normally, a KOC official said. </P>
+<P> ``Nothing is delayed. We have no problems whatsoever,'' the official of KOC marine operations department said. </P>
+<P> He denied a report by an oil trader that loading rates appeared to have slowed slightly as a result of a four-day-old strike by hundreds of KOC export and production workers. </P>
+</TEXT>
+</DOC>

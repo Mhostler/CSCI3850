@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU007-0227.940815</DOCID>
+<TDTID>TDT001910</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/15/94 01:42</DATE>
+<TITLE> RIGHT-WING PARTIES DOMINATE GUATEMALAN ELECTIONS</TITLE>
+<HEADLINE> RIGHT-WING PARTIES DOMINATE GUATEMALAN ELECTIONS</HEADLINE>
+<SUBJECT> BC-GUATEMALA-ELECTION 1STLD </SUBJECT>
+<AUTHOR>     By Fiona Neill </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Recasts, updates with early results)</NOTES>
+<DATELINE>GUATEMALA CITY (Reuter) </DATELINE>
+<P>  Early returns in Guatemalan congressional elections Sunday showed a pro-business right-wing party and the party of a former military dictator leading the vote, electoral authorities said. </P>
+<P> First results showed the Party for National Advancement (PAN) had a slight lead over the Guatemalan Republican Front (FRG) party, led by General Efrain Rios Montt. </P>
+<P> But full results from rural Guatemala could paint a different picture, president of the Supreme Electoral Tribunal Mario Guerra told reporters. </P>
+<P> Preliminary results showed that less than a quarter of Guatemalans bothered to vote in the elections called 15 months early, he added. </P>
+<P> Guatemalans are voting to replace the entire congress in an election moved up a year after President Ramiro de Leon accused many deputies of being hopelessly corrupt and said they needed to be replaced. </P>
+<P> He has described the vote as a ``historic chance'' to cleanse Guatemala's political system. </P>
+<P> Relations between the government and congress all but collapsed after resentful deputies blocked key legislation including tax reform and the renegotiation of foreign debt. </P>
+<P> Both the PAN and the FRG have largely escaped the fallout of a series of corruption scandals, fights in Congress and restaurant brawls which damaged traditional parties. </P>
+<P> The FRG has headed polls with promises to clamp down on crime and corruption despite accusations by human rights groups that the security forces killed thousands of Guatemalan's after Rios Montt seized power in a coup in March 1982. </P>
+<P> Rios Montt is almost certain to win a seat as deputy in the new 80-member congress. </P>
+<P> Even though the deputies elected Sunday will be in office for little more than a year, they may play a key role in creating legislation to make official a pending peace pact to end Guatemala's 33-year civil war. </P>
+</TEXT>
+</DOC>

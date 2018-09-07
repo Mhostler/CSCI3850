@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU007-0039.941214</DOCID>
+<TDTID>TDT007949</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 17:25</DATE>
+<TITLE> British scientists take step toward gene therapy</TITLE>
+<HEADLINE> British scientists take step toward gene therapy</HEADLINE>
+<SUBJECT> BC-HEALTH-GENE (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>Release at 7 p.m. EST</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  British scientists said Wednesday they had taken an important step toward developing gene therapy, which doctors hope some day can be used to cure people of inherited diseases. </P>
+<P> In a report in the science journal Nature, they said they had produced a tailor-made protein that stops uncontrolled cell growth. Cancer kills when cells divide rapidly -- one example is a tumor. </P>
+<P> Sir Aaron Klug of Britain's Medical Research Council, who worked on the project, said the protein had only been tried out on mouse cells in a test tube. It works at the DNA level. DNA is the basic genetic building block of life. </P>
+<P> The protein ``binds'' to the surface of the gene, stopping it from going into action. </P>
+<P> ``This is the first time anybody has designed a protein to bind to a target of a particular sequence of DNA,'' Klug said in a telephone interview. </P>
+<P> Klug and colleagues used their synthetic protein on a gene that causes acute lymphoblastic leukemia, a relatively rare form of cancer. But there was a good deal of information available about the gene. </P>
+<P> ``We had chosen a well-known leukemia because people had experimented with it,'' Klug said. </P>
+</TEXT>
+</DOC>

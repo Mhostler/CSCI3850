@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0161.940803</DOCID>
+<TDTID>TDT001415</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/03/94 16:40</DATE>
+<TITLE> SOUTH AFRICA CONFIRMS PRE-WAR ARMS SALES TO IRAQ</TITLE>
+<HEADLINE> SOUTH AFRICA CONFIRMS PRE-WAR ARMS SALES TO IRAQ</HEADLINE>
+<SUBJECT> BC-SAFRICA-IRAQ </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE TOWN, South Africa (Reuter) </DATELINE>
+<P>  South Africa sold weapons, ammunition, bombs and fuses to Iraq before the Gulf War started in January 1991, but has not done so since, Defense Minister Joe Modise told parliament Wednesday. </P>
+<P> Modise said in response to a question that South Africa sold G5 long-range artillery and ammunition as well as bombs for aircraft delivery and bomb fuses to Iraq before January 1991. </P>
+<P> Modise said no further weapons had been sold because ``South Africa adheres to the United Nations embargo against the supply of armaments to Iraq.'' </P>
+<P> South Africa, denied access to arms for almost 20 years under a mandatory U.N. arms embargo lifted earlier this year, developed a sophisticated arms industry. </P>
+<P> The G5 and motorized G6 cannon have been described as among the best long-range guns. </P>
+</TEXT>
+</DOC>

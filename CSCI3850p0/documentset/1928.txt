@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU005-0378.941011</DOCID>
+<TDTID>TDT004833</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/11/94 09:07</DATE>
+<TITLE> Clinton says no change in Iraqi troop movements</TITLE>
+<HEADLINE> Clinton says no change in Iraqi troop movements</HEADLINE>
+<SUBJECT> BC-IRAQ-USA-CLINTON URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Bill Clinton said on Tuesday that the United States has seen ``no change'' in the pattern of Iraqi military activity near its border with Kuwait and that America was continuing with its troop deployments to the region. </P>
+</TEXT>
+</DOC>

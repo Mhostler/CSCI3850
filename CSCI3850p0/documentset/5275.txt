@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU015-0203.950328</DOCID>
+<TDTID>TDT011841</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/28/95 17:18</DATE>
+<TITLE> Britain's Major dismisses talk of early election</TITLE>
+<HEADLINE> Britain's Major dismisses talk of early election</HEADLINE>
+<SUBJECT> BC-BRITAIN-MAJOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  British Prime Minister John Major has dismissed talk of an early general election and made clear he will fight any challenge to his leadership. </P>
+<P> In a swipe at his critics, Major said in an interview in Wednesday's Daily Telegraph there was no reason to believe he would call an election before he has to in two years time. </P>
+<P> On any potential challenge to his leadership, Major said: ``I have lots I wish to do. I intend to go on doing it. I have no intention of being distracted at all.'' </P>
+<P> Major also dismissed a report in The Times of London Monday that he intended to fire Jeremy Hanley, the embattled chairman of his Conservative Party, and said there was no imminent cabinet reshuffle. </P>
+<P> ``I have not begun to contemplate a reshuffle yet,'' he said. ``There will not be one for some time. Whether it will be in the summer, I can't yet say.'' </P>
+<P> Last week Labor leader Tony Blair put his party, 35 percentage points ahead of the Conservatives in opinion polls, on standby for an early election, but Major said: ``This is a five-year parliament. We were elected for five years. I have no particular reason to believe it will be much shorter than that.'' </P>
+</TEXT>
+</DOC>

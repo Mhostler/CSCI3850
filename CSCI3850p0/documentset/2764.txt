@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU010-0252.941122</DOCID>
+<TDTID>TDT006848</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/22/94 09:26</DATE>
+<TITLE> Penny sells for $39,730</TITLE>
+<HEADLINE> Penny sells for $39,730</HEADLINE>
+<SUBJECT> BC-BRITAIN-PENNY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  A rare 1933 penny sold for a record price of $39,730 at auction in London Tuesday. </P>
+<P> Auctioneers Spink and Son said the coin is one of only seven 1933 pennies known to exist. None were issued for general circulation in that year because Britain's banks already had large stocks. </P>
+<P> But the British Mint occasionally made complete sets of a year's coins for burial under the foundations of new buildings. </P>
+<P> Tuesday's sale price set a record for a British bronze coin, a spokeswoman for Spink and Son said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU015-0112.950328</DOCID>
+<TDTID>TDT011831</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/28/95 11:04</DATE>
+<TITLE> Reagan vindicated -- air pollution from trees</TITLE>
+<HEADLINE> Reagan vindicated -- air pollution from trees</HEADLINE>
+<SUBJECT> BC-ENVIRONMENT-TREES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GAINESVILLE, Fla.(Reuter) </DATELINE>
+<P>  Remember when President Reagan claimed that trees cause air pollution? University of Florida researchers now say he was right, at least in part. </P>
+<P> A study of terpenes, a component of the gooey resin in pine tree sap, found that they actually do contribute to pollution, according to Eric Allen, a professor of environmental engineering sciences. A news release detailing the study was released Tuesday. </P>
+<P> ``If you go walking about a pine forest, can you smell the trees? That's the hydrocarbons being emitted by the pine trees,'' Allen said. </P>
+<P> Although Reagan's remarks on tree pollution drew hoots of scorn and ridicule at the time, the researchers said pine trees aggravate the global ozone problem by emitting eight different types of terpenes. </P>
+<P> Terpenes react with other pollutants and sunlight to produce ozone, which is a form of air pollution at lower altitudes and under attack by the U.S. Environmental Protection Agency. In the stratosphere, however, ozone is beneficial because it protects the earth from harmful ultraviolet rays from the sun. </P>
+<P> The researchers said they decided to study tree emissions after air pollution studies in Atlanta during the late 1980s showed a significant amount of ozone there was due to emissions of both trees and cars. As temperatures rise as a result of the so-called ``greenhouse effect,'' trees emit more terpenes, the researchers said. </P>
+</TEXT>
+</DOC>

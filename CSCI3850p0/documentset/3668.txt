@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU004-0040.950109</DOCID>
+<TDTID>TDT009085</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/09/95 20:13</DATE>
+<TITLE> Oscar ruling goes against ``Last Seduction''</TITLE>
+<HEADLINE> Oscar ruling goes against ``Last Seduction''</HEADLINE>
+<SUBJECT> BC-OSCARS-FILM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  A judge Monday refused a request by the makers of the movie ``The Last Seduction'' to halt the nomination process for the Academy Awards until a dispute over the steamy thriller's Oscar eligibility was settled. </P>
+<P> October Films sued the Academy of Motion Picture Arts and Sciences, whose members vote on the prestigious awards, after the Academy disqualified the film because it was shown on cable television before being released in cinemas. </P>
+<P> The Academy has a longstanding ``No TV first rule,'' and ''The Last Seduction'' was first shown on the Home Box Office cable network. </P>
+<P> It was the second setback for October Films, who in December had been denied a temporary injunction aimed at delaying the mailing of ballots to the Academy's members. The ballots went out as scheduled Dec. 7. </P>
+<P> In denying the injunction last month, Los Angeles Superior Court Judge Robert O'Brien said he would consider further arguments in the case before reaching a final decision. </P>
+<P> In a written ruling issued Monday, O'Brien said October films had not shown ``there are any unlawful means in applying the (Academy's) rules.'' </P>
+<P> Aton Arbisser, an attorney for October Films, said the company was ``obviously disappointed'' with the judge's decision, but added, ``We knew it was an uphill battle.'' </P>
+<P> The movie, which stars Linda Fiorentino in an acclaimed performance as a femme fatale with a heart of ice, had difficulty finding a distributor and October Films accepted a $1 million offer from HBO, which aired it last summer, said attorney Pierce O'Donnell, who also represents the company. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,33 @@
+<DOC>
+<DOCID>REU002-0049.941203</DOCID>
+<TDTID>TDT007401</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/03/94 09:13</DATE>
+<TITLE> GM's staunch defense produces victory in truck case</TITLE>
+<HEADLINE> GM's staunch defense produces victory in truck case</HEADLINE>
+<SUBJECT> BC-AUTOS-GM (NEWS ANALYSIS) </SUBJECT>
+<AUTHOR>     By Jerry Dubrowski </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  General Motors Corp went eyeball to eyeball with the federal government, and the government blinked. </P>
+<P> After trying for almost two years to force GM to recall nearly six million 1973-87 model C/K pickup trucks, the U.S. Department of Transportation backed down Friday, in return for a promise by GM to spend $51.4 million on unrelated automotive safety programs. </P>
+<P> Industry analysts called the settlement a major victory for GM, which could have faced a $1 billion recall. </P>
+<P> ``As far as I'm concerned, GM settled for five cents on the dollar,'' said Dean Witter Reynolds Inc. analyst Ronald Glantz.  The settlement, which was announced in Washington by Transportation Secretary Federico Pena, averts what would have been a lengthy legal battle between the Transportation Department and GM, the only car company to ever win a recall case in court. </P>
+<P> During a news conference, Pena said the settlement would save hundreds of lives and prevent thousands of injuries but the comments were clearly a marked departure from earlier statements in which Pena accused GM of putting profits ahead of safety. </P>
+<P> ``My feeling is Pena's decision was more politics than science,'' said S.G. Warburg & Co auto analyst David Healy. </P>
+<P> He said the possibility of Pena's own technical advisors -- who had recommened the case be closed earlier this year -- testifying against the government may have persuaded Pena to settle the case. </P>
+<P> ``There were plenty of things that you can criticize GM for, but this isn't one of them,'' Healy said. ``I think GM was getting a bum rap.'' </P>
+<P> Critics claim the trucks' design, which features fuel tanks located outside the frame rails, is unsafe. </P>
+<P> But GM officials have steadfastly maintained the trucks are safe and they were prepared to provide evidence to show the trucks had a better safety record than some passenger cars. </P>
+<P> Analysts said the settlement strengthens GM's hand in dozens of private liability cases still pending. </P>
+<P> ``Once you do a recall, it's in effect a tacit admission that there was a problem,'' said Lehman analyst Joseph Phillippi. ``A jury would clearly side with the plaintiff.'' </P>
+<P> A recall would also have set a dangerous precedent for the auto industry by forcing car companies to be responsible for future changes in safety standards. </P>
+<P> ``The whole industry is breathing easier,'' Glantz said. ''Chrysler was looking over GM's shoulder on minivan hatch latches, and Lord knows what else is out there.'' </P>
+<P> The government is currently investigating whether rear hatches on some four million Chrysler Corp. minivans pose a unreasonable safety risk of popping open in rear-end collisions, allowing passengers to be ejected. </P>
+<P> There is no current requirement for minivan rear hatch latches, but experts feared if the government won the GM case, it would be free to recall other vehicles retroactively. </P>
+<P> Safety advocates called the settlement ``unprincipled and irresponsible'' and vowed to fight GM. </P>
+<P> ``If Secretary Pena won't stand up to GM, we will,'' said Clarence Ditlow, executive director for the Center for Auto Safety. </P>
+<P> ``The deal Secretary Pena cut behind closed doors will let over 100 more people burn to death who could have been saved by a recall.'' </P>
+</TEXT>
+</DOC>

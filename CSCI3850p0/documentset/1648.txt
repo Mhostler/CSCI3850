@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU013-0411.940928</DOCID>
+<TDTID>TDT004108</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/28/94 11:16</DATE>
+<TITLE> Smooth space shuttle countdown so far</TITLE>
+<HEADLINE> Smooth space shuttle countdown so far</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  A favorable weather forecast and a trouble-free countdown buoyed NASA officials Wednesday as ground crews prepared for the second space shuttle launch in less than a month. </P>
+<P> Endeavour's planned Friday liftoff with six astronauts and a powerful pair of environmental radars remained set for 7:16 a.m. EDT, and meteorologists said there was only a 30 percent chance that bad weather would force a delay. </P>
+<P> Bill Dowdell, a NASA test director, said Endeavour's countdown moved into its second day with no obstacles in the way of an on-time launch. </P>
+<P> Endeavour is poised to take off just 10 days after its sister ship, Discovery, returned from an 11-day mission to study Earth's atmosphere with lasers. </P>
+<P> The brief interval was necessitated by a last-second engine shutdown August 18 left Endeavour on its launch pad in need of repairs. </P>
+<P> The shuttle's cargo bay is loaded with two radar instruments valued at $384 million and reputed to be the most advanced in civilian use. They comprise the National Aeronautics and Space Administration's re-usable Space Radar Laboratory, or SRL. </P>
+<P> Cargo manager Lisa Roe said the instruments had received little more than a battery charge in the six weeks since the aborted liftoff. </P>
+<P> The powerful radars can see through darkness, clouds and even Earth to map environmental changes across the planet. </P>
+<P> Scientists said a nearly identical mission last April produced useful images of the foliage in forests, of waves deep under the surface of the sea and of dry riverbeds beneath the Sahara Desert's sands. </P>
+<P> The upcoming shuttle mission will survey the planet to detect seasonal changes in the environment. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU004-0059.940908</DOCID>
+<TDTID>TDT003044</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/08/94 12:41</DATE>
+<TITLE> Ancient Greeks hit by lead poisoning in cosmetics</TITLE>
+<HEADLINE> Ancient Greeks hit by lead poisoning in cosmetics</HEADLINE>
+<SUBJECT> BC-SCIENCE-COSMETICS (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>EDT Thursday  LONDON (Reuter) </DATELINE>
+<P> For release at 7 p.m.  Women of ancient Greece suffered from lead poisoning because they used the metal in cosmetic face masks, Greek researchers said. </P>
+<P> In a letter to the Lancet medical journal to be published Friday, the researchers said they found high concentrations of lead in a powder discovered in a tomb in southern Greece dating from around 1350 to 1100 BC, the time of the Trojan War. </P>
+<P> The researchers, from Patras University, said they believed the powder had been prepared for cosmetic use and their findings ``push back by half a millenium the date of cosmetic use in Europe.'' </P>
+<P> ``Hence lead has been eroding European women's skin for at least 3,000 years,'' they said in the letter. ``Vanity has proved very resistant to health warnings.'' </P>
+<P> Greek women had already been credited with the first use of white lead cream during the Archaic period, later than the Trojan War, and the practice spread to other parts of the civilized world. </P>
+<P> ``The habit became excessive, was considered a health hazard, and was ridiculed in prose,'' they said. ``The risk of lead poisoning through cosmetics was also recognized by the Romans.'' </P>
+</TEXT>
+</DOC>

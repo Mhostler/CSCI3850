@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0135.950105</DOCID>
+<TDTID>TDT008887</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/05/95 02:14</DATE>
+<TITLE> Two military training aircraft crash in S.Korea</TITLE>
+<HEADLINE> Two military training aircraft crash in S.Korea</HEADLINE>
+<SUBJECT> BC-KOREA-AIRCRAFT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL, South Korea (Reuter) </DATELINE>
+<P>  Four airmen were presumed killed when two South Korean air force jets crashed into a mountain during a training flight in the southern part of the country Thursday, the Defense Ministry said. </P>
+<P> The British-built T-59 Hawk aircraft were each carrying two crew, a ministry spokesman said. </P>
+<P> The aircraft crashed into a mountain near the town of Hadong in the far south of the country late in the morning, he said. Hadong is about 187 miles south of Seoul, the national capital. </P>
+<P> The spokesman said searchers had found small pieces of wreckage scattered over a wide area. </P>
+<P> On Dec. 21, a U.S. military OV-1 Mohawk reconnaissance aircraft crashed south of Seoul, but both pilots escaped. </P>
+<P> On Dec. 17, a U.S. military helicopter was shot down in North Korea after flying north of the heavily fortified demilitarized zone separating the two Koreas. One pilot was killed and the other was released after 13 days in captivity. </P>
+</TEXT>
+</DOC>

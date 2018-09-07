@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU012-0149.941026</DOCID>
+<TDTID>TDT005586</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/26/94 02:49</DATE>
+<TITLE> Hijacker holds 16 people hostage on Russian plane</TITLE>
+<HEADLINE> Hijacker holds 16 people hostage on Russian plane</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-HIJACK 1STLD (PREVIOUS LONDON) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Changes dateline, writes through)</NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  A hijacker armed with a grenade has taken 16 people hostage on board a plane in Russia's north Caucasus republic of Dagestan, the ministry for emergency situations said Wednesday. </P>
+<P> A ministry spokesman said the hijacker ordered the captain of the Yak-40 plane to land shortly after takeoff from Dagestan's capital, Makhachkala, on Tuesday night on a flight to the southern Russian city of Rostov. </P>
+<P> The man demanded $2 million in cash and enough fuel to fly to Iran across the Caspian Sea, said the spokesman. </P>
+<P> The plane, now parked on the runway at Makhachkala airport, initially had 17 passengers and five crew members aboard. </P>
+<P> The hijacker later allowed three women, two children and one man to leave the aircraft. </P>
+<P> Police and other security forces were at the scene and negotiations with the hijacker had started, said the spokesman. </P>
+<P> There have been a series of hijackings in Russia's turbulent north Caucusus region in the last 10 months, mostly involving buses and helicopters. </P>
+</TEXT>
+</DOC>

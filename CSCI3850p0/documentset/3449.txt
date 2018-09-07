@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0442.941227</DOCID>
+<TDTID>TDT008507</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/27/94 03:13</DATE>
+<TITLE> Building blast and blaze injures 18 people</TITLE>
+<HEADLINE> Building blast and blaze injures 18 people</HEADLINE>
+<SUBJECT> BC-EXPLOSION 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Updates number injured)</NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  An explosion shook a five-story building in Manhattan injuring 18 people, a fire department spokesman said Tuesday. </P>
+<P> Spokesman George Semidey said the blast occurred in Manhattan's Murray Hill neighborhood - not far from the Empire State Building - at 11:10 p.m. EST Monday. </P>
+<P> The blast set off a fire that took more than hour to bring under control, Semidey said. </P>
+<P> Two civilians were injured in the blast. Some 16 firefighters were also hurt - with five needing to be hospitalized at New York Hospital-Cornell Medical Center's burn unit. </P>
+<P> There was no immediate information on the cause of the blast. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU009-0304.950415</DOCID>
+<TDTID>TDT012605</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/15/95 22:10</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-APEC-DOLLAR -2 SANUR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> The joint statement was released by U.S. officials after an hour-long meeting at this Indonesian beach resort between U.S. Treasury Secretary Robert Rubin and Japanese Finance Minister Masayoshi Takemura. </P>
+<P> ``They (Rubin and Takemura) shared their concern over recent exchange rate movements which by no means reflect the economic fundamentals,'' the joint statement said. ``They will continue to consult closely and to cooperate as appropriate on exchange market issues.'' </P>
+<P> ``We all agreed that more stable exchange rates are in the interests of the world,'' Rubin told reporters after meeting Takemura. </P>
+<P> The two men met on the fringes of a gathering here of finance ministers from the Asia-Pacific Economic Cooperation (APEC) group. Their countries had exchanged barbs over the dollar and trade in the run-up to the meeting, with Tokyo complaining Washington had not done enough to support its currency while the United States attacked Japan over its towering trade surplus. </P>
+<P> The dollar has dropped more than 15 percent against the yen since the start of the year, hitting Japanese exporters hard and threatening to undercut the country's fragile economic recovery. </P>
+</TEXT>
+</DOC>

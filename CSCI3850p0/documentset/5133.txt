@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0209.950323</DOCID>
+<TDTID>TDT011611</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 12:51</DATE>
+<TITLE> NLRB considers order against U.S. baseball owners</TITLE>
+<HEADLINE> NLRB considers order against U.S. baseball owners</HEADLINE>
+<SUBJECT> BC-BASEBALL-LABOR 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (corrects headline to read ``considers order;'' combines takes)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The National Labor Relations Board said Thursday it was still considering whether to seek a court order against major league baseball owners that could put the players' strike on hold. </P>
+<P> NLRB Chairman William Gould said at a news conference that the five board members were considering many complex legal issues in the case as well as arguments from both parties and the board's general counsel, who requested the court order. </P>
+<P> ``This requires a great deal of discussion on the part of the board members, Gould said. He said it was unlikely a decision would be made before next week at the earliest. </P>
+<P> The injunction, if sought and granted by a U.S. District Court in New York, would order the owners to reverse three changes in the players' work rules they made on Dec. 22, 1994. </P>
+<P> The union has said it would advise players to return to work if there is a withdrawal of the owners' unilateral actions, but it is unclear whether the owners would allow them back or lock them out and continue using replacement players when the season opens on April 2. </P>
+<P> On March 15 NLRB General Counsel Fred Feinstein issued a complaint, similar to an indictment, charging that the owners violated labor law by eliminating salary arbitration, competitive bidding and an anti-collusion provision on Dec. 22, when they had not yet reached an impasse in bargaining. The players have been on strike since August 4, 1994. </P>
+</TEXT>
+</DOC>

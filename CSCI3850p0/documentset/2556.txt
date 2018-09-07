@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU006-0081.941111</DOCID>
+<TDTID>TDT006392</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/11/94 16:41</DATE>
+<TITLE> Jamaican team disqualified from World Cup golf</TITLE>
+<HEADLINE> Jamaican team disqualified from World Cup golf</HEADLINE>
+<SUBJECT> BC-GOLF-WORLD-JAMAICANS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DORADO BEACH, Puerto Rico (Reuter) </DATELINE>
+<P>  The Jamaican team was disqualified from the World Cup of golf Friday after one of their players signed an incorrect scorecard. </P>
+<P> Seymour Rose, who partnered Ralph Mairs on the Jamaican team, was disqualified for a rules infraction that occurred during Thursday's first round. </P>
+<P> Rose, after completing the second round Friday, was found to have broken the preferred lies rule in operation for the tournament. </P>
+<P> The rule allows a player to lift, clean and place his ball when it is in the cut portion. </P>
+<P> Rose took a preferred lie behind the 18th green Thursday because he felt it to be a closely mown area. </P>
+<P> However, on closer inspection Friday, he agreed with a tournament official that he had picked up the ball from an area of rough. </P>
+<P> The penalty for such an infringement is two strokes, but Rose had already signed his card for the round nearly 24 hours previously, and therefore was disqualified for signing for a wrong score. </P>
+<P> Teammate Mair will continue to compete for the individual trophy but Jamaica, which stood third from last after the first round, was disqualified from the team event. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU007-0328.941014</DOCID>
+<TDTID>TDT005057</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/14/94 16:25</DATE>
+<TITLE> Israeli sources say kidnapped soldier killed -- CNN</TITLE>
+<HEADLINE> Israeli sources say kidnapped soldier killed -- CNN</HEADLINE>
+<SUBJECT> BC-MIDEAST-ISRAEL-DEATHS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Israeli security sources said three Israeli soldiers, including kidnapped Corporal Nachshon Waxman, were killed in a raid on Friday in the West Bank, CNN reported. </P>
+<P> The network, monitored in New York, said three kidnappers from the Palestinian group Hamas were also killed in the raid by Israeli troops to try and rescue Waxman. </P>
+<P> The raid happened hours after Hamas had extended the 1900 GMT deadline to kill Waxman unless the Israeli government released 200 Palestinian prisoners. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0322.941215</DOCID>
+<TDTID>TDT008034</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/15/94 20:09</DATE>
+<TITLE> UNESCO adds 29 wonders to World Heritage</TITLE>
+<HEADLINE> UNESCO adds 29 wonders to World Heritage</HEADLINE>
+<SUBJECT> BC-FRANCE-UNESCO-SITES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  UNESCO added 29 new cultural and natural wonders to its World Heritage list Thursday, including for the first time sites in Denmark, Georgia, Luxembourg, Lithuania and Uganda. </P>
+<P> The additions, bringing to 440 the number of sites listed as of exceptional universal value, included the Potala palace in the Tibetan capital Lhasa, the Italian town of Vicenza and the geoglyphs in Peru's Nazca -- mysterious large figures that can only be seen from the air. </P>
+<P> Other cultural sites designated by the United Nations Educational, Scientific and Cultural Organization included the old city of Vilnius in Lithuania and the monasteries on the slopes of the Mexican volcano Popocatepetl. </P>
+<P> Also granted UNESCO protection were the old quarters and fortifications of the city of Luxembourg, Denmark's Jelling burial mounds, and Georgia's Mtskheta churches, Bagrati Cathedral and Gelati Monastery. </P>
+<P> The new natural sites included Uganda's Ruwenzori and Bwindi national parks, the Donana bird sanctuary in Spain's Andalusia, and Vietnam's dramatic Ha Long Bay with its 1,600 islands. </P>
+<P> Venezuela's Canaima national park, which inspired Sir Arthur Conan Doyle's ``Lost World'' and boasts a 3,300-foot waterfall -- the world's highest -- was also included. </P>
+</TEXT>
+</DOC>

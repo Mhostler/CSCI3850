@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU006-0205.940913</DOCID>
+<TDTID>TDT003283</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/13/94 07:28</DATE>
+<TITLE> Japan, US said to agree on Seoul reactor for North</TITLE>
+<HEADLINE> Japan, US said to agree on Seoul reactor for North</HEADLINE>
+<SUBJECT> BC-KOREA-JAPAN-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  The top U.S. policymaker on North Korea briefed Japanese officials Tuesday about talks aimed at ending the dispute over Pyongyang's suspected nuclear weapons program. </P>
+<P> Kyodo news agency said the U.S. and Japanese officials agreed to support the use of a light-water system offered by South Korea to replace the North's graphite-moderated reactors. </P>
+<P> It said the agreement was reached at a meeting between U.S. Assistant Secretary of State Robert Gallucci and senior officials from Japan's foreign, finance and trade ministries. </P>
+<P> A Japanese foreign ministry official declined to confirm the report, saying the meeting with Gallucci was not aimed at reaching any accord. </P>
+<P> North Korea, suspected of having diverted plutonium from its reactors for bomb-making, has promised to swap its present technology for light-water reactors which produce very little plutonium. But it has rejected the South Korean offer to provide such reactors. </P>
+<P> Pyongyang has shown interest in a German light-water reactor and recently made initial contacts with Siemens. </P>
+<P> North Korean negotiators who have been meeting U.S. officials in Berlin since the weekend said on Monday some progress had been made in talks about switching technology. </P>
+<P> Last week Gallucci said Washington had concluded that Seoul should play a ``central role'' in the international consortium the United States is trying to put together to finance and build the proposed new reactors for the North. </P>
+<P> Gallucci is due to meet Foreign Minister Yohei Kono Wednesday before traveling on to South Korea. </P>
+</TEXT>
+</DOC>

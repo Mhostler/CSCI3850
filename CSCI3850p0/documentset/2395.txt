@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU002-0201.941103</DOCID>
+<TDTID>TDT006023</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/03/94 18:49</DATE>
+<TITLE> Robb gains in a second poll in Virginia</TITLE>
+<HEADLINE> Robb gains in a second poll in Virginia</HEADLINE>
+<SUBJECT> BC-ELECTION-VIRGINIA-POLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A new poll Thursday showed Democratic Sen. Charles Robb moving ahead of Republican challenger Oliver North by two percentage points in advance of Tuesday's election. </P>
+<P> The statewide Virginia Commonwealth University poll of 807 likely voters showed Robb with 38 percent against North's 36 percent, and 15 percent for independent Republican Marshall Coleman. </P>
+<P> With the margin of error plus or minus 3.5 percentage points, the poll showed the race a toss-up. </P>
+<P> The last poll by the group Oct. 13 showed Robb and North deadlocked at 39 percent, with Coleman at 12 percent. </P>
+<P> An earlier poll this week by Virginia's Roanoke College had Robb moving ahead 39 to 35 percent -- the equivalent of an even race since it had a four-point margin of error. Coleman had 14 percent with 12 percent undecided. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0429.950420</DOCID>
+<TDTID>TDT012813</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/20/95 21:22</DATE>
+<TITLE> Four tremors hit Philippines</TITLE>
+<HEADLINE> Four tremors hit Philippines</HEADLINE>
+<SUBJECT> BC-PHILIPPINES-TREMOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANILA, April 21 (Reuter) </DATELINE>
+<P>  Four successive tremors shook the central Philippines early on Friday but there were no immediate reports of injury and only minor damage, government volcanologists said. </P>
+<P> The quakes ranged from intensity three to six on the Richter scale. The strongest was in Palo in Leyte province, about 590 km (370 miles) southeast of Manila. </P>
+<P> The epicentre was in Borongan on the island of Samar. </P>
+</TEXT>
+</DOC>

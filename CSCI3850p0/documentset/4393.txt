@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0377.950216</DOCID>
+<TDTID>TDT010508</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/16/95 21:58</DATE>
+<TITLE> NFL-Browns release Perry, Rypien in cost-cutting moves</TITLE>
+<HEADLINE> NFL-Browns release Perry, Rypien in cost-cutting moves</HEADLINE>
+<SUBJECT> BC-NFL-BROWNS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEREA, Ohio (Reuter) </DATELINE>
+<P>  The Cleveland Browns Thursday released Pro Bowl defensive lineman Michael Dean Perry and did not exercise the option on the contract of quarterback Mark Rypien due to salary cap considerations. </P>
+<P> The release of Perry came one day after he was not selected by the Jacksonville Jaguars or Carolina Panthers in the NFL expansion draft. </P>
+<P> The Browns were hoping that the high-priced Perry would be selected so they would have more room under the salary cap. </P>
+<P> Perry ranks fourth in Browns history with 51.5 sacks and made his fifth Pro Bowl appearance in six years last season. </P>
+<P> ``You don't like to lose a player like Michael Dean, but he understands our situation and this gives him the opportunity to sign with another team,'' Browns owner Art Modell said. </P>
+<P> NFL teams were required be under the salary cap of $36,527,000 by Thursday night. </P>
+<P> Rypien was used primarily as a backup to Vinny Testaverde last season, and completed 59-of-127 passes for 694 yards and four touchdowns in seven games last season. He was the Most Valuable Player of Super Bowl 26 with the Washington Redskins. </P>
+</TEXT>
+</DOC>

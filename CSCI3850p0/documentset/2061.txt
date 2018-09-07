@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU008-0249.941017</DOCID>
+<TDTID>TDT005147</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/17/94 01:37</DATE>
+<TITLE> Iraq says U.N. vote on troop movements positive</TITLE>
+<HEADLINE> Iraq says U.N. vote on troop movements positive</HEADLINE>
+<SUBJECT> BC-IRAQ-RESOLUTION URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BAGHDAD (Reuter) </DATELINE>
+<P>  Iraq said Monday it found positive elements in the U.NN Security Cuncil resolution barring deployment of its troops in the south near the border with Kuwait. </P>
+<P> ``It (resolution) contains relatively obvious positive aspects,'' the government newspaper al-Jumhourya said in a front-page editorial signed by editor-in-chief Salah al-Mukhear. </P>
+</TEXT>
+</DOC>

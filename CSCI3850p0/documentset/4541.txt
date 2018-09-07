@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU012-0187.950224</DOCID>
+<TDTID>TDT010723</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/24/95 19:09</DATE>
+<TITLE> U.S. underestimated base cleanup costs, study says</TITLE>
+<HEADLINE> U.S. underestimated base cleanup costs, study says</HEADLINE>
+<SUBJECT> BC-MILITARY-CLEANUP </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The federal government's $5.4 billion cost estimate for waste cleanup at military bases due for closing is too low, according to a new congressional study. </P>
+<P> In 1994, the Defense Department raised its estimate of the costs of removing hazardous waste from 84 bases from $4.0 billion to $5.4 billion. </P>
+<P> But Congress's General Accounting Office said it ``found that even these estimates are understated.'' </P>
+<P> The estimates were low because the Defense Department had not included some costs beyond a six-year horizon. The study said cleanup monitoring could go on for many years more than that. </P>
+<P> The government's cleanup plans were also incomplete partly because new contaminants were being found at the sites, the GAO said. </P>
+<P> Closing of the bases and responsibility for decontaminating the sites is a thorny issue because state and local authorities want the sites to be available for reuse quickly but don't want cleanup costs dumped on them. </P>
+<P> The study completed in January for Congress was not encouraging to local communities, saying that Defense Department's cleanup progress had been slow. </P>
+<P> ``Most sites at closing and realigning installations are in the earliest stages of investigation and study, and major sites may be 10 years or more away from cleanup,'' the GAO said. </P>
+<P> The office recommended that the government should ``approve sites for high priority environmental funding only when cleanup or compliance is required or cost-effective for nonfederal reuse to occur.'' </P>
+</TEXT>
+</DOC>

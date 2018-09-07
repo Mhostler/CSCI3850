@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU012-0373.940926</DOCID>
+<TDTID>TDT003986</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/26/94 14:49</DATE>
+<TITLE> Muslims said to want delay in lifting arms embargo</TITLE>
+<HEADLINE> Muslims said to want delay in lifting arms embargo</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-USA-EMBARGO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  Bosnian Muslims have backed away from their long-held demand for an immediate lifting of the U.N. arms embargo, U.S. officials said Monday. </P>
+<P> While nothing has been decided, they said, the Clinton administration and the Muslim-led government in Bosnia are exploring a delay in moves to lift the embargo beyond an October 15 deadline set by President Clinton. </P>
+</TEXT>
+</DOC>

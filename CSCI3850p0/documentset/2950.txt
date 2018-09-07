@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU001-0173.941201</DOCID>
+<TDTID>TDT007328</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/01/94 18:49</DATE>
+<TITLE> Rapper Shakur convicted of sexual abuse</TITLE>
+<HEADLINE> Rapper Shakur convicted of sexual abuse</HEADLINE>
+<SUBJECT> BC-SHAKUR-VERDICT URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Rap performer Tupac Shakur and his road manager were found guilty Thursday of sexually abusing a woman in a hotel suite last year but acquitted of the more serious charges of sodomy and criminal possession of a weapon. </P>
+</TEXT>
+</DOC>

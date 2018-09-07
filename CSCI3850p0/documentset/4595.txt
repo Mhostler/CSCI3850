@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0252.950227</DOCID>
+<TDTID>TDT010796</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/27/95 12:40</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-FRANCE-USA -2 PARIS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Balladur met cabinet aides, including Interior Minister Charles Pasqua, to reiterate his instructions that they should refrain from making any comment -- public or private -- on the matter, according to the statement. </P>
+<P> Pasqua last week said press leaks about the spy affair had come from the American side, triggering an angry denial from Harriman, who accused him of lying. </P>
+<P> The row, surfacing in the midst of the French presidential campaign, has become an embarrassment for Balladur as his popularity sinks in the polls ahead of the April-May vote. </P>
+<P> France asked Washington to recall five Americans including four diplomats it accused of industrial and political espionage. Washington has denied the accusations and said the diplomats would remain in place until the end of their tours of duty. </P>
+</TEXT>
+</DOC>

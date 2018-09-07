@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU007-0014.950115</DOCID>
+<TDTID>TDT009331</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/15/95 21:39</DATE>
+<TITLE> Cuban storms kill three people, affect sugar harvest</TITLE>
+<HEADLINE> Cuban storms kill three people, affect sugar harvest</HEADLINE>
+<SUBJECT> BC-CUBA-RAINS 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>   (Updates with details, fresh damage in eastern Cuba)</NOTES>
+<DATELINE>HAVANA (Reuter) </DATELINE>
+<P>  Three people died as heavy rains lashed parts of Cuba over the weekend including one man who was killed when a building partially collapsed in the capital Havana, state media said Sunday. </P>
+<P> The current sugar cane harvest, crucial to the country's beleaguered economy, was also temporarily halted in two provinces of the communist-ruled Caribbean island because of the downpour. </P>
+<P> The youth communist weekly Juventud Rebelde said a 50-year-old man was killed and another person was seriously injured in one of 15 partial collapses of buildings in Havana. </P>
+<P> And two forestry workers were killed by lightning in the western province of Pinar del Rio, the newspaper added. </P>
+<P> Some 153 people were evacuated from their homes to higher ground amid the torrential downpour in Pinar del Rio, which began Friday and continued through late Saturday. </P>
+<P> Officials were still assessing damage to crops such as tobacco and bananas, the newspaper said. </P>
+<P> The sugar harvest was temporarily halted in Pinar del Rio because of the downpour but was expected to resume in two or three days, Juventud Rebelde quoted Sugar Ministry officials as saying. </P>
+<P> The harvest was also halted for at least a day in eastern Santiago de Cuba province because of the bad weather, reported the state news agency AIN. </P>
+<P> The rain was less heavy in eastern Cuba, but in the city of Santiago de Cuba two buildings partially collapsed and electricity supplies were cut in some areas, AIN added. </P>
+</TEXT>
+</DOC>

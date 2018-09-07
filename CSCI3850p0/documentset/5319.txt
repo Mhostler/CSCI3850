@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU016-0202.950330</DOCID>
+<TDTID>TDT011901</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/30/95 06:47</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-GERMANY-BUNDESBANK-RATES -2 FRANKFURT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> There had been some speculation of a rate cut this week following renewed weakness of the dollar. However, most economists had doubted that the central bank would actually announce a change. </P>
+<P> The Bundesbank made clear in a statement that it had taken the step to ease monetary policy following a slowdown in German M3 money supply growth, the central bank's key indicator for monetary policy. </P>
+<P> The discount rate, which forms the floor for money market rates in Germany, had been unchanged since May 13, 1994. </P>
+</TEXT>
+</DOC>

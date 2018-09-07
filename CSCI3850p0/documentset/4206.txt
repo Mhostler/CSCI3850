@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU004-0141.950207</DOCID>
+<TDTID>TDT010201</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 19:13</DATE>
+<TITLE> Health workers may be tested for AIDS in Canada</TITLE>
+<HEADLINE> Health workers may be tested for AIDS in Canada</HEADLINE>
+<SUBJECT> BC-CANADA-AIDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>EDMONTON, Alberta (Reuter) </DATELINE>
+<P>  A Canadian province is considering mandatory AIDS tests for health workers after health officials confirmed a doctor practiced medicine for up to 10 years while carrying HIV. </P>
+<P> Alberta Premier Ralph Klein said Tuesday a provincial government committee has been formed to conduct a review on testing and disclosure policies for health workers. </P>
+<P> ``I think we would have to move fairly quickly on this,'' Klein told reporters following a cabinet meeting where the issue was discussed. </P>
+<P> Public health officials announced Monday a doctor infected with HIV, the virus associated with AIDS, had voluntarily stopped practicing medicine at the Fort Saskatchewan Hospital after becoming ill. </P>
+<P> It is believed the doctor, who officials declined to name, contracted the virus between five and 10 years ago. </P>
+<P> The doctor performed dozens of operations while carrying the virus. About 170 patients considered most at risk of infection are being tracked down and advised to undergo blood tests. </P>
+<P> Dr. Bryce Larke, medical director of the province's AIDS program, stressed the risk of infection is extremely low but ''not zero.'' </P>
+<P> A telephone help-line set up to answer questions about the risk was swamped with calls Tuesday. </P>
+<P> But an AIDS support group spokesperson warned government and health officials are over-reacting and could be unnecessarily creating public hysteria. </P>
+<P> There should be no concern about transmitting the disease if usual precautions were taken, said Sandra Maygard, co-ordinator of the local AIDS support group. </P>
+<P> ``I'm making the assumption that all surgeons wear surgical gloves when operating,'' said Maygard. ``Even if this man had cuts on his hands, he's got surgical gloves on,'' she added. </P>
+</TEXT>
+</DOC>

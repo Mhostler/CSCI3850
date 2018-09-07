@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0022.941216</DOCID>
+<TDTID>TDT008066</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/16/94 12:40</DATE>
+<TITLE> Russia blasts Bosnian Serbs' peace plan</TITLE>
+<HEADLINE> Russia blasts Bosnian Serbs' peace plan</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-RUSSIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Russia denounced Friday a six-point peace plan offered by Bosnian Serb leader Radovan Karadzic as an attempt to undermine mediation efforts by the international contact group, Itar-Tass news agency said. </P>
+<P> ``The provisions of the so-called six-point plan...should be carried out unconditionally anyway,'' the agency quoted the head of the Russian foreign ministry's information department, Grigory Karasin, as saying. </P>
+<P> In a telephone interview from the Bosnian city of Pale Wednesday with CNN Karadzic offered a six-point peace plan that would include giving up some territory, releasing U.N. prisoners and allowing U.N. convoys to move unhindered. </P>
+<P> ``Behind the so called six-point plan (of Karadzic) there is an apparent attempt to escape work on the implementation of the Contact Group's peace plan,'' Karasin said. </P>
+<P> Bosnian Serbs have rejected the peace plan promoted by the group, set up by Russia, the United States and West European countries. </P>
+<P> ``In the face of the negative reaction of the world community and having found themselves somewhat isolated the Bosnian Serb leadership is trying to maneuver and is giving promises which we have heard before,'' Karasin said. </P>
+<P> The Serb leader's plan has been dismissed by the Muslim-led Bosnian government and greeted with skepticism by the West. </P>
+</TEXT>
+</DOC>

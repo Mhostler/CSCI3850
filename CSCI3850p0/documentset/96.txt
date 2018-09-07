@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU003-0376.940706</DOCID>
+<TDTID>TDT000212</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/06/94 17:09</DATE>
+<TITLE> 11 KILLED IN SOUTH AFRICAN HIGHWAY AMBUSH</TITLE>
+<HEADLINE> 11 KILLED IN SOUTH AFRICAN HIGHWAY AMBUSH</HEADLINE>
+<SUBJECT> BC-SAFRICA-SHOOTING 2NDLD </SUBJECT>
+<AUTHOR>     By Frank Kgolane </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds ANC comments)</NOTES>
+<DATELINE>KATLEHONG, South Africa (Reuter) </DATELINE>
+<P>  At least 11 people were killed Wednesday when gunmen ambushed eight vehicles during the evening rush hour outside a black township east of Johannesburg. </P>
+<P> ``Eleven people died and eight were badly wounded,'' police spokesman Wikus Weber told reporters at the scene outside Katlehong township. </P>
+<P> Broken glass and bodies were scattered in the road. Passengers in the vehicles were slumped dead in their seats. </P>
+<P> ``It would appear to be a continuation of the taxi warfare in the area,'' he said, referring to rivalry between taxi operators that has been blamed for a series of killings in recent years. </P>
+<P> Weber said about 10 black gunmen took part in the ``well-orchestrated'' attack. Some had waited in ambush at the side of the road and others had travelled in the back of a truck. </P>
+<P> Weber said five mini-bus taxis and three cars had been hit in the fusillade of about 70 bullets. </P>
+<P> The attack was one of the bloodiest since President Nelson Mandela's African National Congress (ANC) took power in all-race elections at the end of April. </P>
+<P> The ANC regional government issued a statement calling on people in Katlehong and surrounding areas to help police bring the culprits to justice. </P>
+<P> ``The government appeals to all our people not to be provoked into revenge but to rally behind the peace process ... The community has the responsibility to expose and isolate these criminals.'' </P>
+<P> ANC spokesman Ronnie Mamoepa said it was premature of police to blame the killing on taxi wars. </P>
+<P> Katlehong and surrounding black townships have defied the trend toward peace in the rest of the country since the election. </P>
+<P> Over the past two weeks, at least eight people have died in the area in fighting between armed groups aligned with township residents and the inmates of migrant worker hostels. </P>
+<P> Mini-bus taxis, each carrying about 14 people, are the most popular form of transport for South Africa's black majority. Taxi operators are grouped in associations that compete fiercely for routes and passengers. </P>
+</TEXT>
+</DOC>

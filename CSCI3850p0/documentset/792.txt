@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU007-0399.940815</DOCID>
+<TDTID>TDT001956</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/15/94 21:11</DATE>
+<TITLE> TROPICAL STORM BERYL REACHES LAND</TITLE>
+<HEADLINE> TROPICAL STORM BERYL REACHES LAND</HEADLINE>
+<SUBJECT> BC-WEATHER-USA 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: updates with storm reaching land)</NOTES>
+<DATELINE>CORAL GABLES, Fla (Reuter) </DATELINE>
+<P>  Residents of Florida's panhandle braced themselves for heavy winds and rain Monday night as Tropical Storm Beryl reached land just east of Panama City, Florida. </P>
+<P> The storm reached land at about 8 p.m. EDT. A Tropical Storm warning, issued at 11 a.m. EDT, remained in effect for an area stretching from Fort Walton Beach to Yankeetown, Florida, just south of Cedar Key, Florida. </P>
+<P> Forecasters said the storm was moving toward the north northeast at about 3 mph. It was expected to continue moving slowly in the same direction overnight with the heaviest rain and winds on the east side of the system. </P>
+<P> Beryl's slow movement over the Gulf of Mexico during the day Monday increased the likelihood of heavy rainfall, the greatest reason for concern about the storm, forecasters said. </P>
+<P> ``That is the main concern of this tropical system,'' said Gary Partyka, a forecaster with The National Hurricane Center here earlier Monday. ``As much as five to 10 inches are possible in localized areas.'' </P>
+<P> Heavy rain was expected over portions of Alabama, northern Florida and Georgia. </P>
+<P> Tides near the storm were up to five feet above normal. </P>
+<P> Forecasters said Beryl, the second named storm of the Atlantic hurricane season that began June 1, was packing maximum sustained winds up to 50 mph with higher gusts in squalls. </P>
+<P> Winds were expected to spread inland over coastal counties today and Tuesday, then weaken as the storm moved inland. </P>
+<P> Forecasters also said one or two tornadoes might form in northern Florida, southeastern Alabama and southern Georgia. </P>
+<P> More flooding would be a severe blow for northern Florida and the southeast, particularly Georgia. Tropical Storm Alberto in July caused severe flooding in the state and became its worst-ever natural disaster. </P>
+<P> Tropical storms become hurricanes when sustained winds reach 74 mph. </P>
+</TEXT>
+</DOC>

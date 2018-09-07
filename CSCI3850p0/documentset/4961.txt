@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU008-0188.950316</DOCID>
+<TDTID>TDT011337</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/16/95 10:03</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-IRAN-USA -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Tarnoff was speaking at a Senate Banking Committee hearing on legislation proposed by Sen. Alfonse D'Amato, a New York Republican, to ban all U.S. business with Iran. </P>
+<P> The hearing was being held on the heels of President Clinton's announcement Wednesday that he would ban all U.S. investments in Iranian petroleum development. </P>
+<P> While the Clinton administration said it wanted its allies to join in restricting trade with Iran, Tarnoff said he doubted they would. </P>
+<P> ``Based on my experience with the G7, I believe we will not be able to convince our allies to adopt prohibitions on trade in non-sensitive goods,'' Tarnoff told the panel. </P>
+</TEXT>
+</DOC>

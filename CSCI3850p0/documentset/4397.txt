@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0410.950217</DOCID>
+<TDTID>TDT010512</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/17/95 04:45</DATE>
+<TITLE> French singer Paradis arrested for drugs possession</TITLE>
+<HEADLINE> French singer Paradis arrested for drugs possession</HEADLINE>
+<SUBJECT> BC-CANADA-PARADIS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MONTREAL (Reuter</DATELINE>
+<P>  French singer and actress Vanessa Paradis was arrested at Montreal's Dorval airport on Thursday and charged with possession of hashish, the Canadian Press (CP) news agency reported. </P>
+<P> U.S. custom officers say they found about three grams (85 ounces) of hashish in her luggage, according to CP. </P>
+<P> Paradis was on her way to New York City, it said. </P>
+<P> She was was released after posting a $500 bond and was ordered to appear in court in Montreal next month, CP said. </P>
+<P> CP quoted reports as saying Paradis then got on a plane to go back home to Paris. </P>
+<P> French radio reported Paradis had been in in Canada to promote film elisa with actor Gerard Depardieu. </P>
+</TEXT>
+</DOC>

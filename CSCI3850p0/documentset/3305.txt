@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU008-0365.941218</DOCID>
+<TDTID>TDT008138</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/18/94 11:33</DATE>
+<TITLE> PLO says Arafat, Rabin to meet on impasse</TITLE>
+<HEADLINE> PLO says Arafat, Rabin to meet on impasse</HEADLINE>
+<SUBJECT> BC-MIDEAST-MEETING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  PLO leader Yasser Arafat and Israeli Prime Minister Yitzhak Rabin will meet Wednesday to try to break a deadlock in peace talks over a planned Israeli troop pullout from the West Bank, PLO officials said Sunday. </P>
+<P> ``President Arafat and Mr Rabin will meet this week to discuss the peace talks which are in trouble over (troop) redeployment,'' said Saeb Erekat, member of the Palestinian self-rule Authority. Another PLO official said the talks would take place at the Erez entrance to Gaza. </P>
+<P> ``It will be a very crucial meeting, and let's hope this meeting will end up putting the peace process back on track,'' Erekat, in charge of local government for the authority that administers self-rule in Gaza and Jericho, told Reuters. </P>
+<P> Rabin's press office said no such meeting had been scheduled. </P>
+<P> Israeli and PLO officials said during recent talks in Oslo that Nobel laureates Arafat and Rabin had agreed to suspend peace talks in Cairo until high-level meetings resolved disputes over redeployment, which was to precede long-delayed elections for a Palestinian Council. </P>
+<P> Palestinians have said they will not vote under the barrels of Israeli guns. Palestinian elections are the next main phase of the Israeli-PLO peace deal signed in Washington last year. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0403.940928</DOCID>
+<TDTID>TDT004107</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/28/94 10:27</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-FINLAND-FERRY-SEALS -2 STOCKHOLM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Lindstrom told the Swedish news agency TT the seals, on a ramp that is closed at sea, were inspected by two Swedish safety officials in Tallinn shortly before the Estonia set sail. ``They had opinions on the ramp, namely that the seal was not in satisfactory condition,'' he said. </P>
+<P> Lindstrom is a representative of the Swedish Maritime Safety Association, which had sent the two safety officials to Tallinn. More than 800 people were feared to have died when the Estonia sank suddenly in a storm southwest of Finland. </P>
+</TEXT>
+</DOC>

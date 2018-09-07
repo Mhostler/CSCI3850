@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0130.941228</DOCID>
+<TDTID>TDT008556</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/28/94 08:28</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-VENEZUELA-BUS -2 CARACAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Radio Caracas Radio said the accident took place at 5 a.m. EST near the city of Maturin in the eastern state of Monagas. </P>
+<P> The pipe blew up after the first bus hit it. A second bus pulled up to offer assistance, the radio reported. A reporter on the scene said there were probably more victims. </P>
+<P> The pipe belonged to the state-run oil company Petroleos de Venezuela. </P>
+</TEXT>
+</DOC>

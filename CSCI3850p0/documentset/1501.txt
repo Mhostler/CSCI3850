@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU010-0020.940920</DOCID>
+<TDTID>TDT003717</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/20/94 09:19</DATE>
+<TITLE> Shuttle astronauts hope to land ``somewhere''</TITLE>
+<HEADLINE> Shuttle astronauts hope to land ``somewhere''</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  The U.S. space agency was trying to determine where to have the shuttle Discovery land Tuesday after bad weather forced it to spend an unscheduled 11th day in orbit. </P>
+<P> Thunderstorms and a thick cloud cover continued to threaten the coast of Florida and could force the shuttle to touch down in California, delaying the scheduled 2:11 p.m. EDT landing time. </P>
+<P> Space agency officials promised the six astronauts they could land ``somewhere'' Tuesday after poor weather forced them to call off Monday's landing. </P>
+<P> But the National Aeronautics and Space Administration said the five men and one woman had enough food, electricity and fuel to stay in space until Wednesday if necessary. </P>
+<P> ``We're going to keep our options open in case the weather does improve at the Cape (Canaveral), but most likely we'll be going to Edwards (Air Force Base),'' Mission Control's Brent Jett told the astronauts Tuesday morning. </P>
+<P> ``We'll keep our beach towels at the ready but we'll put in our prime suitcase our desert hats,'' shuttle commander Dick Richards radioed back. </P>
+<P> The weather at Edwards Air Force Base, in the Mojave Desert, was good for a shuttle landing, NASA said. </P>
+<P> Mission managers held out for Florida because a landing near the launch pads is practical and economical. Shuttle orbiters are not designed to make cross-country flights, so they must be ferried atop Boeing 747 jets. A California landing costs the space agency up to $3 million and at least a week of flight preparation time for the shuttle's next flight. </P>
+<P> Discovery's crew Sunday concluded a successful mission that included scientific research with an environmental laser instrument, the deployment and retrieval of a solar probe, and free-flying tests of a rescue device for spacewalkers. </P>
+</TEXT>
+</DOC>

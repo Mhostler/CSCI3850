@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU010-0376.941021</DOCID>
+<TDTID>TDT005428</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/21/94 18:18</DATE>
+<TITLE> Baseball-Padres name Bruce Bochy manager</TITLE>
+<HEADLINE> Baseball-Padres name Bruce Bochy manager</HEADLINE>
+<SUBJECT> BC-BASEBALL-PADRES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN DIEGO, Calif.(Reuter) </DATELINE>
+<P>  The San Diego Padres Friday named third base coach Bruce Bochy as their new manager after Jim Riggleman accepted the managerial position with the Chicago Cubs. </P>
+<P> Riggleman, who managed the Padres for the past three seasons, was named the 10th Cubs manager in as many years earlier Friday. </P>
+<P> The 39-year-old Bochy spent the last two seasons as San Diego's third base coach. </P>
+<P> Bochy was a successful minor league coach from 1988 until 1992 when he led the Padres Double-A farm club in Wichita to the Texas League championship. </P>
+<P> Bochy had a career .239 batting average in nine years in the major leagues. </P>
+</TEXT>
+</DOC>

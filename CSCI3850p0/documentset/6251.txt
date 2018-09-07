@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0434.950503</DOCID>
+<TDTID>TDT013399</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 18:05</DATE>
+<TITLE> NBA-Lakers' Del Harris named Coach of the Year</TITLE>
+<HEADLINE> NBA-Lakers' Del Harris named Coach of the Year</HEADLINE>
+<SUBJECT> BC-NBA-COACH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Los Angeles Lakers head coach Del Harris was named the National Basketball Association Coach of the Year for the 1994-95 season Wednesday. </P>
+<P> Harris won the Red Auerbach Trophy by a wide margin, garnering 62 of a possivle 105 votes from a nationwide panel of writers and broadcasters. </P>
+<P> Mike Fratello of the Cleveland Cavaliers finished a distant second in the balloting with 15 votes and Bob Hill, who guided the San Antonio Spurs to the best record in the league, was third with 12 votes. Jerry Sloan of Utah was fourth with 11 votes, followed by Dick Motta of Dallas with five votes. </P>
+<P> In his first season with the Lakers, Harris took a team that was still reeling from the retirements of Kareem Abdul-Jabaar and Magic Johnson and engineered the second greatest single-season turnaround in NBA history. </P>
+<P> The Lakers were 33-49 last season and failed to qualify for the playoffs for the first time in 18 years. They improved by 15 games to 48-34 this season. </P>
+<P> Dallas had the biggest improvement by winning 23 more games than the previous season. </P>
+<P> The Lakers also showed a marked improvement in offensive output under Harris, ranking seventh in the NBA this season with 105.1 points per game after finished 17th in scoring the previous season. </P>
+<P> The Lakers currently lead the Seattle SuperSonics two games to one in their best-of-five Western Conference first-round playoff series. </P>
+</TEXT>
+</DOC>

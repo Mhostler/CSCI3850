@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU009-0258.940718</DOCID>
+<TDTID>TDT000712</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/18/94 18:06</DATE>
+<TITLE> GENERAL DYNAMICS TANK UNIT, UAW REACH LABOR ACCORD</TITLE>
+<HEADLINE> GENERAL DYNAMICS TANK UNIT, UAW REACH LABOR ACCORD</HEADLINE>
+<SUBJECT> BC-USA-TANKS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  General Dynamics Corp reached a tentative labor agreement with the United Auto Workers on Monday that is expected to end a four-week strike at the company's Army tank manufacturing unit. </P>
+<P> The UAW's General Dynamics Council in Detroit voted to accept a new contract offer made during negotiations last week that offers wage increases but calls for workers to begin paying for some of their own health care costs. </P>
+<P> General Dynamics Land Systems Division's 2,000 UAW-represented workers are expected to vote on the proposed contract later this week, but the earliest they would return to work is probably July 25, said company spokesman Peter Keating. </P>
+<P> UAW Vice President Stan Marshall termed the agreement a victory for workers, adding that the council approved it by an ''overhelming margin.'' </P>
+<P> ``In the tentative agreement reached with General Dynamics, we were able to protect the health care coverages of both active workers and retirees,'' Marshall said. </P>
+<P> UAW members walked off their jobs at General Dynamics facilities in Michigan, Ohio and Pennsylvania on June 20 after the previous contract expired. </P>
+<P> The union said its strike remains in effect until a new labor agreement is ratified. </P>
+<P> Keating said the proposed new pact contains three percent wage increases in each of the first two years and a three percent lump-sum payment in the third year. Currently, General Dynamics UAW workers earn an average wage of $17.20 an hour. </P>
+<P> He said the contract also calls for active workers and new retirees to begin making co-payments on their health insurance, but at a lower rate than the 20 percent originally sought by the company. </P>
+</TEXT>
+</DOC>

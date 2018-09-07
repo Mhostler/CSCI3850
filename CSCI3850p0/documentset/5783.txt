@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU009-0395.950416</DOCID>
+<TDTID>TDT012615</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/16/95 10:12</DATE>
+<TITLE> Iran says detained American could ask for pardon</TITLE>
+<HEADLINE> Iran says detained American could ask for pardon</HEADLINE>
+<SUBJECT> BC-IRAN-AMERICAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA (Reuter) </DATELINE>
+<P>  Iran's head of judiciary has hinted that a U.S. citizen detained since 1992 and accused of having links with foreign spies could be pardoned or have his sentence reduced. </P>
+<P> Ayatollah Mohammad Yazdi was answering a question at a news conference Saturday in Tehran on the fate of Milton Meyer, a long-time resident of Iran who Iranian officials said was arrested because he had links with foreign intelligence agencies and had sold sensitive economic information. </P>
+<P> ``There is the possibility of reducing the sentence or pardoning of anyone detained for any crime. Of course, there should be a justification for that which could be raised either by the detainee or by the prosecutor,'' Iranian newspapers quoted Yazdi as saying. </P>
+<P> The papers did not say when Meyer was tried or what sentence he had received. </P>
+<P> Meyer, a businessman from Texas who was 58-years-old when he was arrested in 1992, is married to an Iranian and has lived in Iran since before the 1979 Islamic revolution. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0266.950410</DOCID>
+<TDTID>TDT012381</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/10/95 12:33</DATE>
+<TITLE> Artificial heart puts German back on his feet</TITLE>
+<HEADLINE> Artificial heart puts German back on his feet</HEADLINE>
+<SUBJECT> BC-GERMANY-HEART </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BERLIN (Reuter) </DATELINE>
+<P>  A Berlin clinic has for the first time successfully treated a patient for heart disease by fitting an ``artificial heart'' alongside his own, the clinic said Monday. </P>
+<P> A spokeswoman at the German Heart Center in Berlin said the 38-year-old patient had been suffering from cardiomyopathy (cardiac muscle disease) and had carried the device for 160 days to support his own sick heart while it recovered. </P>
+<P> The device was removed by surgery five weeks ago. Since then the patient has been able to eat and move about, she said. </P>
+<P> The patient, from Thuringia in eastern Germany, had been in serious condition and underwent the operation because he could not wait for a heart transplant. </P>
+<P> The operation could pave the way for treating several other heart diseases, the clinic said. </P>
+</TEXT>
+</DOC>

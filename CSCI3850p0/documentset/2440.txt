@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0198.941106</DOCID>
+<TDTID>TDT006137</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/06/94 09:10</DATE>
+<TITLE> Israel, Jordan to open second border crossing</TITLE>
+<HEADLINE> Israel, Jordan to open second border crossing</HEADLINE>
+<SUBJECT> BC-MIDEAST-CROSSING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israel and Jordan will open the second border crossing Thursday under their peace agreement, Israel's Transportation Ministry spokesman said Sunday. </P>
+<P> Eli Danon said Transportation Minister Yisrael Kessar and his Jordanian counterpart, Samir Kawar, would attend the dedication ceremony at the site just south of the Sea of Galilee at the Jordan River. </P>
+<P> Jordan became the second Arab country after Egypt to sign a peace treaty with Israel at a gala ceremony attended by President Clinton in the southern desert between the two states Oct. 26. </P>
+<P> Under a July 25 accord ending a 46-year state of belligerency, Israel and Jordan agreed to open northern and southern border crossings. The southern crossing was opened Aug. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU004-0276.940708</DOCID>
+<TDTID>TDT000279</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/08/94 10:28</DATE>
+<TITLE> ILLINOIS GOV. EDGAR UNDERGOES HEART SURGERY</TITLE>
+<HEADLINE> ILLINOIS GOV. EDGAR UNDERGOES HEART SURGERY</HEADLINE>
+<SUBJECT> BC-USA-GOVERNOR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  Illinois Governor James Edgar was resting comfortably Friday after undergoing emergency heart bypass surgery, hospital officials said. </P>
+<P> The 47-year-old Republican, who is running for a second four-year term in November elections, had been suffering chest pains and tests revealed a nearly complete blockage of a key artery near Edgar's heart, his doctors said. </P>
+<P> Prior to Thursday night's quadruple-bypass surgery, the governor underwent an angioplasty two years ago in which a balloon-like device was threaded through some partially clogged arteries. </P>
+</TEXT>
+</DOC>

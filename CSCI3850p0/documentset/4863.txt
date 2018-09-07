@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU006-0092.950311</DOCID>
+<TDTID>TDT011198</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/11/95 19:19</DATE>
+<TITLE> Seven people killed as rains provoke landslides in Brazil</TITLE>
+<HEADLINE> Seven people killed as rains provoke landslides in Brazil</HEADLINE>
+<SUBJECT> BC-BRAZIL-LANDSLIDE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>RIO DE JANEIRO (Reuter) </DATELINE>
+<P>  Landslides caused by heavy rains in the Brazilian state of Sao Paulo killed a total of seven people, including four children buried while they slept, local television reported Saturday. </P>
+<P> The four children, aged between six and 14, were killed in the town of Sao Vicente after mud engulfed their home at 5 a.m. </P>
+<P> The children's mother and three other children managed to escape, Globo television said. </P>
+<P> Rescue workers and neighbors worked throughout the day in the vain hope of finding any of the children alive but so far have recovered only one body. </P>
+<P> In a separate incident elsewhere in the state, another three people -- a couple and their young child -- were also killed when their house was buried under mud, Globo said. </P>
+</TEXT>
+</DOC>

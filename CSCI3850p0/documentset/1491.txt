@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU009-0362.940919</DOCID>
+<TDTID>TDT003685</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/19/94 17:28</DATE>
+<TITLE> Robbers steal $848,000 from Citibank ATM branch</TITLE>
+<HEADLINE> Robbers steal $848,000 from Citibank ATM branch</HEADLINE>
+<SUBJECT> BC-USA-ROBBERY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Two men entered the back room of an ATM branch of Citibank Monday morning disguised as security guards and stole $848,000, police said. </P>
+<P> The branch, on Williams Street in Manhattan, has 12 automated teller machines. The robbers appeared at the back door just as the employees were putting money into the machines. </P>
+<P> The two knocked on the door, and the employees, thinking they were security guards, let them into the room. One fired a shot into the air and then hit one of the Citibank workers with his gun, police said. </P>
+<P> The employee was taken to a local hospital and later released. </P>
+<P> The robbery occurred in the morning and by the afternoon the police said they had no suspects. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU003-0215.940806</DOCID>
+<TDTID>TDT001550</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/06/94 00:21</DATE>
+<TITLE> MUSLIM GUERRILLAS ATTACK ISRAEL'S LEBANON ZONE</TITLE>
+<HEADLINE> MUSLIM GUERRILLAS ATTACK ISRAEL'S LEBANON ZONE</HEADLINE>
+<SUBJECT> BC-LEBANON-SOUTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MARJAYOUN, Lebanon (Reuter) </DATELINE>
+<P>  Pro-Iranian guerrillas showered rockets and mortar bombs at posts of Israeli and allied forces in south Lebanon early Saturday, security sources said. </P>
+<P> They said Israeli and South Lebanon (SLA) militia gunners were responding to the shelling of five hilltop positions on the edge of the Jewish state's occupation zone, fiercely shelling guerrilla-held areas to the north. </P>
+<P> The pro-Iranian Hizbollah said its guerrillas were battling Israeli forces in the area of Aishiyeh inside the nine-mile-deep buffer zone. There was no immediate confirmation of the ground fighting. </P>
+<P> Hizbollah guerrillas lobbed about 10 Katyusha rockets into northern Israel late Friday in retaliation for an Israeli air raid on Thursday that killed at least six civilians. Israel said the raid was a mistake. </P>
+</TEXT>
+</DOC>

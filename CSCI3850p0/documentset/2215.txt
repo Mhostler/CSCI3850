@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU012-0022.941025</DOCID>
+<TDTID>TDT005548</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/25/94 11:38</DATE>
+<TITLE> Sen. Kennedy leads in poll before Tuesday debate</TITLE>
+<HEADLINE> Sen. Kennedy leads in poll before Tuesday debate</HEADLINE>
+<SUBJECT> BC-POLITICS-KENNEDY-POLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  Sen. Edward Kennedy took a firm lead over Republican challenger Mitt Romney in an opinion poll issued Monday on the eve of a crucial debate between rivals in the Nov. 8 election. </P>
+<P> The incumbent's lead over the multimillionaire businessman rose to a 50 percent to 32 percent margin, with 18 percent of voters remaining undecided, according to the poll conducted by the Boston Herald newspaper and WCVB-TV. </P>
+<P> Just a month ago polls showed the race was a dead heat. But Kelly Myers, director of the Uniiversity of New Hampshire Survey Center, which conducted the poll, told the Herald Romney still has a chance at ending Kennedy's 32-year reign. </P>
+<P> ``I don't think the race is over for Romney,'' Myers said. ''It's an open question as to where those (undecided) voters will go. If Romney does well in the first debate, his poll numbers should improve substantially,'' he told the Herald. </P>
+<P> Two-thirds of the poll's respondents said they planned to watch the debates, the first to be held Tuesday and the second Thursday. </P>
+<P> Kennedy told WBZ Radio in Boston that despite his lead in the survey, he hopes to sway the sizeable number of independent voters back to his side. </P>
+<P> ``They support me because they believe I'm a senator that's fighting for them. They want that reaffirmed tonight. I expect to do so,'' he said. </P>
+<P> Romney, who has never run for public office, admitted he is nervous about the debate. </P>
+<P> ``I've never debated a U.S. Senator. He gets the thrill of doing that pretty regularly because he's on the Senate floor; he's been doing that for 32 years. But to have everything sort of hanging in the balance here, and getting ready for such an event is pretty scary.'' </P>
+<P> The poll, conducted Saturday and Sunday, questioned 447 likely voters and has a margin of error of plus or minus 4.6 percent. </P>
+</TEXT>
+</DOC>

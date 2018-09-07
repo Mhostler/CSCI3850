@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU013-0337.941130</DOCID>
+<TDTID>TDT007230</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/30/94 05:14</DATE>
+<TITLE> North Sea cod yields up lost dentures</TITLE>
+<HEADLINE> North Sea cod yields up lost dentures</HEADLINE>
+<SUBJECT> BC-DUTCH-TEETH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>AMSTERDAM (Reuter) </DATELINE>
+<P>  A set of false teeth lost in the North Sea have been returned to their Dutch owner after being found in the belly of a cod. </P>
+<P> Dutch newspapers said Wednesday that 60-year-old Cor Stoop lost his teeth overboard when he was seasick on a pleasure trip three months ago. The dentures were discovered in a cod caught by an Amsterdam angler over the weekend. </P>
+<P> Stoop heard about the find in a broadcast and went to the radio station to try the teeth on. They were a perfect fit. </P>
+</TEXT>
+</DOC>

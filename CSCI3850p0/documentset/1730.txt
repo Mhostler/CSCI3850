@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU015-0235.940930</DOCID>
+<TDTID>TDT004292</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/30/94 22:23</DATE>
+<TITLE> French minister refutes Perry on Serb sanctions</TITLE>
+<HEADLINE> French minister refutes Perry on Serb sanctions</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-NATO-JUPPE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  French Foreign Minister Alain Juppe Friday said initial reports showed Yugoslavia had stopped sending Bosnian Serbs military supplies. </P>
+<P> He was responding to a question about U.S. Defense Secretary William Perry who earlier Friday cast doubts on Serbia's promise to cut off the Bosnian Serbs. </P>
+<P> ``We have incomplete reports that indicate that that's been partially but not fully complied with ... Certainly not a complete stoppage,'' Perry said after a NATO meeting in Seville, Spain. </P>
+<P> In response, Juppe said ``the Pentagon was not in charge for verifying'' border violations, which were the responsibility of international monitors. </P>
+<P> He said the mission was still being organized and that the monitors had not yet filed a report. </P>
+<P> ``But we have contrary (initial) information,'' he said at a news conference for French journalists. ``As a whole, the blockade is being respected.'' </P>
+<P> The United States has been uncomfortable with the Security Council's vote last Friday to ease some sanctions against Belgrade as a reward for cutting off supplies to Bosnian Serbs and allowing a limited number of international observers on its borders. </P>
+<P> These include suspending for 100 days bans on airline passenger travel and cultural and sports links. </P>
+<P> The resolution, however, does not take effect until the monitors file a report. Secretary-General Boutros Boutros-Ghali must then certify to the Security Council that the blockade is being honored by the Yugoslav republics of Serbia and Montenegro. </P>
+</TEXT>
+</DOC>

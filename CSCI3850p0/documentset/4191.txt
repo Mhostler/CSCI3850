@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU004-0010.950207</DOCID>
+<TDTID>TDT010177</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 10:56</DATE>
+<TITLE> Herbal medicine found toxic to liver</TITLE>
+<HEADLINE> Herbal medicine found toxic to liver</HEADLINE>
+<SUBJECT> BC-HEALTH-HERBS (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Eds. Release at 4 p.m. EST/2100 GMT)</NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  Herbal medicine made from greasewood so badly damaged a woman's liver that she required a transplant, doctors reported Tuesday. </P>
+<P> The Food and Drug Administration in 1992 issued a warning about the preparation, called chaparral, and it was voluntarily withdrawn from the U.S. market. It continues to be sold abroad and through mail order, they said. </P>
+<P> In this week's Journal of the American Medical Association, doctors at the University of Chicago Hospitals reported on a 60-year-old woman who had been taking one to two chaparral capsules daily for 10 months. </P>
+<P> In the three weeks before she sought help she had upped the doseage to six capsules a day. </P>
+<P> Her liver was beyond saving and she underwent a successful transplant. </P>
+<P> Her 1992 case was one of several which prompted the FDA to issue its warning. </P>
+<P> But Tuesday's report said the preparation may still be available and consumers and doctors should be aware of it and other potentially dangerous alternative medicines. </P>
+<P> ``This case should sound an alarm to physicians, especially in light of the rising prevelance of alternative medications and therapies,'' said Alfred Baker, principal author of the report. </P>
+<P> The preparation is made from ground leaves of an evergreen desert shrub called greasewood or creosote bush. American Indians used the leaves for a medicinal tea. </P>
+<P> It has been touted in recent years as an antioxidant which can retard aging and protect against a variety of ailments ranging from arthritis and cancer to the common cold. </P>
+</TEXT>
+</DOC>

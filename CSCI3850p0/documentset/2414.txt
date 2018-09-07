@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU002-0387.941104</DOCID>
+<TDTID>TDT006061</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/04/94 14:23</DATE>
+<TITLE> Crash recovery efforts continue in rain</TITLE>
+<HEADLINE> Crash recovery efforts continue in rain</HEADLINE>
+<SUBJECT> BC-CRASH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ROSELAWN, Ind.(Reuter) </DATELINE>
+<P>  Workers fought a steady rain Friday trying to recover the remains of the 68 crash victims of American Eagle Flight 4184. </P>
+<P> A small pool of reporters and photographers allowed within 200 yards of the farm field impact site said the devestation from Monday's night crash was obvious. </P>
+<P> One reporter said the most striking thing was the ``hundreds of little red flags,'' marking where body parts were found. ''There were too many of them for us to count.''  Most of the markers were around the crater left in the field by the high-speed impact of the European-built twin-engine ATR-72 commuter plane. </P>
+<P> National Transportation Safety Board officials said they hoped to have the human remains removed from the crash site soon. </P>
+<P> Speculation about the cause of the tragedy continued to center on icing. </P>
+<P> Safety Board Chairman Jim Hall told a briefing Thursday night that American Eagle has issued a precautionary directive to pilots of similar planes not to engage the auto-pilot if the wing de-icing system was on. </P>
+<P> He said the pilot of an ATR-72 that landed in South Bend, Ind., nearly eight hours after Monday night's crash reported the plane dove to the right when both autopilot and de-icing mechanisms were on. </P>
+<P> Investigators said earier that the American Eagle's flight data recorder showed the doomed plane made a sudden turn to the right when both de-icers and autpilot were on. </P>
+<P> The crew corrected that turn but the plane then made a second dip to the right, flipped on its back and in 36 seconds dove more than 9,000 feet to the ground. </P>
+<P> Hall said the evidence indicates the crew did everything it could in the final seconds to bring the plane out of its death dive. </P>
+<P> The plane, flying in a gusty rainstorm from Indianapolis to Chicago, scattered debris and body parts across a harvested field. Witnesses said it hit at a 45-degree angle, so fast that it vaporized the fuel, leaving a fireless crater and only shredded, unrecognizeable pieces of wreckage. </P>
+</TEXT>
+</DOC>

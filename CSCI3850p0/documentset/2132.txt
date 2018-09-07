@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU010-0036.941020</DOCID>
+<TDTID>TDT005338</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/20/94 09:21</DATE>
+<TITLE> S.Africa gets details of proposed Truth Commission</TITLE>
+<HEADLINE> S.Africa gets details of proposed Truth Commission</HEADLINE>
+<SUBJECT> BC-SAFRICA-RIGHTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE TOWN, South Africa (Reuter) </DATELINE>
+<P>  The government published proposals Thursday for a commission to probe human rights violations in South Africa under apartheid, including murder and torture committed in defense of white rule. </P>
+<P> ``The object of the proposed law is not to conduct any kind of witchhunt or to humiliate anyone,'' Justice Minister Dullah Omar told a news conference. </P>
+<P> ``Its object is to provide South Africans with a mechanism to deal with the past and to heal the wounds of the past on a morally acceptable basis.'' </P>
+<P> Omar said the draft Promotion of National Unity and Reconciliation Bill would be circulated for comment before going to parliament in November. </P>
+<P> He said outstanding details, including the composition of the so-called Truth Commission, had still to be negotiated with former President F.W. de Klerk's National Party and with police and army generals who could be targets of the probe. </P>
+<P> He said the proposal was for separate commissions headed by ``citizens who are impartial and respected'' to investigate human rights violations between March 1960 and December 1993, to indemnify offenders and to award compensation to victims. </P>
+<P> The bill defines a gross human rights violation to include ``the killing, attempted killing, abduction, severe ill-treatment or torture of any person.'' </P>
+<P> March 21, 1960, was the date of the police massacre at Sharpeville of 69 blacks protesting apartheid. The shooting focussed world attention on South Africa and led to the banning of Nelson Mandela's African National Congress. </P>
+</TEXT>
+</DOC>

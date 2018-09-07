@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU003-0402.941107</DOCID>
+<TDTID>TDT006166</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/07/94 13:50</DATE>
+<TITLE> Shuttle astronauts measure Earth's ozone hole</TITLE>
+<HEADLINE> Shuttle astronauts measure Earth's ozone hole</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  The crew of the space shuttle Atlantis, undeterred by the loss of a key instrument, continued Monday to study the Earth's protective ozone layer. </P>
+<P> The six astronauts, divided into two teams, were operating a suite of onboard instruments around the clock as the 11-day mission neared its midpoint. </P>
+<P> Officials of the National Aeronautics and Space Administration downplayed the loss of the device, part of a $120 million onboard observatory called the Atmospheric Laboratory for Applications and Science, or ATLAS. </P>
+<P> The six other ATLAS instruments continued to supply scientists with valuable data. The failed instrument was designed to measure airborne chlorine monoxide, a known cause of ozone depletion in the atmosphere. </P>
+<P> NASA's Tim Miller said data produced by ATLAS had confirmed the size of a seasonal ozone hole above the Antarctic that has been measured on similar shuttle missions and by unmanned satellites. </P>
+<P> ``Those are certainly very dramatic results,'' Atlantis mission specialist Scott Parazynski said. </P>
+<P> Also Monday, French mission specialist Jean-Francois Clervoy received a phone call from European Space Agency officials who congratulated him on becoming the fifth astronaut from France. </P>
+<P> Clervoy on Friday deployed a free-flying, reusable German satellite which is making eight days of companion atmosphere measurements. It will be retrieved by the shuttle on Saturday and returned to Earth. </P>
+</TEXT>
+</DOC>

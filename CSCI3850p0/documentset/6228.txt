@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU002-0215.950503</DOCID>
+<TDTID>TDT013370</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/03/95 06:42</DATE>
+<TITLE> China denies official committed suicide</TITLE>
+<HEADLINE> China denies official committed suicide</HEADLINE>
+<SUBJECT> BC-CHINA-SUICIDE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING, May 3 (Reuter) </DATELINE>
+<P>  China on Wednesday denied that a senior Chinese Communist Party official had committed suicide after his wife was executed for corruption. </P>
+<P> ``The State Council has officially refuted the rumour,'' a spokeswoman for the Communist Party said by telephone. </P>
+<P> The State Council, China's cabinet, ``has not heard about the suicide and the rumour has been denied by departments concerned,'' she said. </P>
+<P> Reuters on May 1 quoted Chinese sources as saying that Liu Zhengwei, 65, former party secretary of southwestern Guizhou province, jumped from the window of his high-rise home in Beijing last month. </P>
+<P> An investigation into economic crimes in Guizhou committed by Liu's wife began within days of his transfer to Beijing to become executive deputy secretary of the party's Work Committee for Central Government Organs in July, 1993. </P>
+<P> Liu's wife, Yan Jianhong, who was chairwoman of the Guizhou International Trust and Investment Corporation and deputy chairwoman of the provincial planning commission, was executed in Guizhou on January 16 for corruption. </P>
+<P> She was found to have embezzled 650,000 yuan ($76,500) and $14,000 from her corporation over an eight-month period and to have dipped freely into public coffers, lending 2.0 million yuan ($235,000) illegally to associates and taking 150,000 ($17,600) for herself. </P>
+</TEXT>
+</DOC>

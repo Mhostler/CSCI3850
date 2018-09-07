@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU017-0323.950428</DOCID>
+<TDTID>TDT013182</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/28/95 01:04</DATE>
+<TITLE> Police say 15 known dead in NZ cliff fall</TITLE>
+<HEADLINE> Police say 15 known dead in NZ cliff fall</HEADLINE>
+<SUBJECT> BC-NEWZEALAND-FALL-TOLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WELLINGTON, April 28 (Reuter) </DATELINE>
+<P>  Police said on Friday that 15 people were known to have fallen to their deaths when a cliffside viewing platform collapsed on New Zealand's West Coast. </P>
+<P> ``So far there are 15 known dead and they will be taken to an emergency mortuary at Greymouth hospital for identification,'' a police statement said. </P>
+<P> Four injured people had been taken to hospital and five survived with minor injuries, the statement said. </P>
+<P> It said the victims fell 100 feet (30 metres) to their deaths from a viewing platform which gave way. It was not known how many people were standing on the platform at the time. </P>
+<P> Senior Sergeant Phil Deazley of Greymouth police said resources were stretched, the accident scene was outside radio range and no more details were immediately available. </P>
+</TEXT>
+</DOC>

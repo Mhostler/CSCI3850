@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU017-0004.950426</DOCID>
+<TDTID>TDT013128</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/26/95 23:53</DATE>
+<TITLE> Russian gas pipeline damaged in explosion-Interfax</TITLE>
+<HEADLINE> Russian gas pipeline damaged in explosion-Interfax</HEADLINE>
+<SUBJECT> BC-RUSSIA-FLAME-PIPELINE URGENT (REPEATING) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW, April 27 (Reuter) </DATELINE>
+<P>  An explosion at a major gas pipeline in northern Russia has set afire several square km (miles) of woodland, Interfax news agency quoted the Ministry for Emergency Situations as saying on Thursday. </P>
+<P> Interfax said the damaged section of pipeline in the Komi Republic had already been sealed off. There were no reports of any casualties. A Japanese pilot flying over Russia had earlier reported a massive blaze rising up to 6,000 metres (four miles) high about 1,000 km (620 miles) northwest of Moscow. </P>
+</TEXT>
+</DOC>

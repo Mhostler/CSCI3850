@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU013-0024.950421</DOCID>
+<TDTID>TDT012827</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/21/95 02:33</DATE>
+<TITLE> More British troops leave Northern Ireland</TITLE>
+<HEADLINE> More British troops leave Northern Ireland</HEADLINE>
+<SUBJECT> BC-IRISH-TROOPS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BELFAST, April 21 (Reuter) </DATELINE>
+<P>  Another 400 British troops were withdrawn from Northern Ireland on Friday in the latest peace dividend since the IRA declared a ceasefire last year. </P>
+<P> It was the second major withdrawal of troops from the province. </P>
+<P> Up to 1,000 soldiers have now been pulled out since the Irish Republican Army announced its truce last September after waging a 25-year guerrilla campaign to try to end British rule in Northern Ireland. Some 17,500 troops are still in the province. </P>
+<P> Soldiers have stopped patrolling the streets of the war-weary province and more withdrawals are expected. </P>
+</TEXT>
+</DOC>

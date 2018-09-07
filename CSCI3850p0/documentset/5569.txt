@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU005-0116.950407</DOCID>
+<TDTID>TDT012288</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/07/95 19:01</DATE>
+<TITLE> Clinton to stay at Spielberg home after fundraiser</TITLE>
+<HEADLINE> Clinton to stay at Spielberg home after fundraiser</HEADLINE>
+<SUBJECT> BC-CLINTON-HOLLYWOOD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>DALLAS (Reuter) </DATELINE>
+<P>  President Clinton will spend the night Saturday at the California home of filmmaker Stephen Spielberg, who is hosting a Democratic Party fundraiser that the president will attend, White House officials said Friday. </P>
+<P> Clinton will arrive at Spielberg's home in the Los Angeles neighborhood of Pacific Palisades after events earlier Saturday in Sacramento, Calif. and in Los Angeles. </P>
+<P> Entertaining at Spielberg's home in the Santa Monica mountains above Los Angeles will be comedian Robin Williams and country and western singer k.d. lang. </P>
+<P> White House officials said between 80 and 100 people were expected to attend the Democratic National Committee fundraiser, which is priced at $50,000 a couple. Among those due to attend are Hollywood stars Whoopi Goldberg and Rob Reiner, the officials said. </P>
+<P> President Clinton stopped in Dallas to address the American Society of Newspaper Editors on Friday. </P>
+</TEXT>
+</DOC>

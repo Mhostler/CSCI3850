@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU013-0187.940727</DOCID>
+<TDTID>TDT001103</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/27/94 15:10</DATE>
+<TITLE> ISRAEL LAUNCHES ADVANCED U.S.-BUILT MISSILE BOAT</TITLE>
+<HEADLINE> ISRAEL LAUNCHES ADVANCED U.S.-BUILT MISSILE BOAT</HEADLINE>
+<SUBJECT> BC-ISRAEL-USA-SHIP </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israel launched a U.S.-built missile boat Wednesday slated to be the navy's frontline warship into the next century, a military spokesman said. </P>
+<P> The Eilat, the first of Israel's Saar 5-class fast missile corvettes, will carry a range of armaments including a helicopter, electronic warfare equipment and sophisticated surface-to-surface and anti-missile missiles. </P>
+<P> The boat was produced by Ingalls Shipbuilding of Pascagoula, Mississippi, a subsidiary of Litton, and incorporates arms and electronic components from several Israeli companies. </P>
+<P> The Eilat is the fourth Israeli vessel to bear the name. </P>
+<P> The second, a converted British destroyer, served as Israel's flagship for 12 years until October 1967, when it was attacked and destroyed by the Egyptian navy. </P>
+</TEXT>
+</DOC>

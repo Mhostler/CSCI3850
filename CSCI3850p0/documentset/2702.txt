@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU009-0085.941118</DOCID>
+<TDTID>TDT006719</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/18/94 17:36</DATE>
+<TITLE> Feinstein declares victory in California Senate race</TITLE>
+<HEADLINE> Feinstein declares victory in California Senate race</HEADLINE>
+<SUBJECT> BC-ELECTION-FEINSTEIN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  California Sen. Dianne Feinstein, a Democrat, declared victory Friday in her hard-fought re-election battle against Republican multimillionaire Michael Huffington. </P>
+</TEXT>
+</DOC>

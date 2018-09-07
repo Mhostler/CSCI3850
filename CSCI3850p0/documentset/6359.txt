@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0189.950508</DOCID>
+<TDTID>TDT013548</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/08/95 00:43</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-SRILANKA-FIGHTING-TOLL -2 COLOMBO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> The dead included three officers and at least seven commandos were missing, Special Task Force Commander Lionel Karunasena said. </P>
+<P> The attack was five miles (eight kilometres) southwest of Amparai. Liberation Tigers of Tamil Eelam members surrounded the commandos who were on a rebel flushing-out operation called Golden Waters Phase Three, police sources said. </P>
+<P> At least 200 to 300 commandos were involved in the operation, which was continuing, source said. </P>
+<P> The LTTE are fighting for a separate homeland in the north and east of the country in a war which has killed more than 30,000 people since 1983. </P>
+</TEXT>
+</DOC>

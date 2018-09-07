@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU001-0137.950301</DOCID>
+<TDTID>TDT010898</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 12:24</DATE>
+<TITLE> Cooling babies' bodies in heart surgery poses risks</TITLE>
+<HEADLINE> Cooling babies' bodies in heart surgery poses risks</HEADLINE>
+<SUBJECT> BC-HEALTH-HEART (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> Release at 6 p.m. EST</NOTES>
+<DATELINE>BOSTON (Reuter) </DATELINE>
+<P>  Heart surgeons who operate on infants by cooling their bodies and stopping their hearts may be exposing the babies to increased risks of developmental problems, according to a new study. </P>
+<P> The study, to be published in Thursday's New England Journal of Medicine, found the technique poses a heightened risk of developmental problems and brain-related abnormalities than the alternative of using a machine to bypass the heart and keep the blood flowing through the body during surgery. </P>
+<P> The longer the heart remains stopped, the greater the risk, according to the researchers, led by David Bellinger of the Harvard School of Public Health. </P>
+<P> The team examined 171 babies in need of heart surgery because their two major arteries -- those leading to the lungs and other parts of the body -- were reversed. </P>
+<P> Without surgery, about one third of such babies die within a week after birth and 90 percent are dead within a year. </P>
+<P> To avoid having to operate on a constantly beating heart, doctors need to safely stop the heart during surgery. </P>
+<P> Bypassing the heart with a special heart-lung machine is one method. But patients can also survive for limited time periods if their hearts are stopped and their bodies cooled below normal temperatures. It seems to work best in children. </P>
+<P> Between April 1988 and February 1992, the babies in need of the heart surgery were randomly assigned to be operated on using one of the two techniques. They were also subjected to a battery of tests to look for signs of abnormalities. </P>
+<P> When the researchers compared the development of the children one year after surgery, they found brain scans and mental tests revealed no differences between the two groups. </P>
+<P> But differences appeared in other tests. Those babies who had been cooled down without the use of a heart-lung machine tended to be on the low end of the scale on those tests. </P>
+<P> ``Moreover, longer duration of circulatory arrest was associated with increased risk of delayed psychomotor development and neurologic abnormalities at one year,'' the Bellinger team concluded. </P>
+<P> Bellinger and his colleagues said that if the brain is cooled from the usual 98 degrees to 64 degrees, stopping the heart for less than 35 minutes may pose no risk. But when the heart was stopped for longer than 45 minutes, they said, it seemed to cause ``substantial'' problems. </P>
+<P> The researchers cautioned, however, that those estimates need to be further refined and the Harvard team plans to continue studying the children to see if their problems persist when they start school. </P>
+<P> ``In treating individual infants, cardiovascular surgeons must balance the technical advantages of total circulatory arrest with its potential disadvantages,'' the researchers said. </P>
+</TEXT>
+</DOC>

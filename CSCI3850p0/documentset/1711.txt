@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU015-0101.940930</DOCID>
+<TDTID>TDT004247</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/30/94 12:53</DATE>
+<TITLE> Indian plague reverberates around the world</TITLE>
+<HEADLINE> Indian plague reverberates around the world</HEADLINE>
+<SUBJECT> BC-PLAGUE 2NDLD </SUBJECT>
+<AUTHOR>     By Michael Battye </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, India (Reuter) </DATELINE>
+<P>  India acknowledged its first plague deaths in New Delhi, and Britain reported the first suspected cases outside India Friday as more countries took tough action to protect themselves from the medieval scourge. </P>
+<P> Although only 50 people -- a tiny number in a country of 900 million -- have died from the pneumonic plague that began in India's far west, the impact of the 2,400 suspected cases has reverberated round the world. </P>
+<P> Suspected cases have been reported in seven of India's 26 states, from Gujarat on the west coast, where the plague first erupted, to Calcutta on the east coast. </P>
+<P> But India begged other governments, trading partners and tourists not to overreact to the plague -- now easily cured, unlike the medieval ``Black Death'' that decimated Europe and Asia. </P>
+<P> Finance Minister Manmohan Singh, architect of radical reforms designed to open India's highly protected economy to the world, told reporters in London he sympathized with the reaction of governments abroad but did not agree with them. </P>
+<P> ``Creating an atmosphere of panic where the whole thing goes underground would do greater disservice both to India and the outside world,'' he said. </P>
+<P> The Indian government, which expected 2.2 million visitors between last April and next March who would spend hundreds of million dollars, appeared frantic at the cancellation of flights and package tours. </P>
+<P> ``We would like to reassure our tourists and foreign tour operators, travel agents and foreign airlines that their interest and well-being is very dear to us,'' it said. </P>
+<P> ``The department of tourism expects that by the 10th of October 1994, India would be safe from plague and no tours should be canceled,'' the government said in a statement. </P>
+<P> It stressed that, apart from Delhi, there were few reported cases in northern tourist destinations and, apart from Bombay, none at all in the south. The Goa beaches were untouched. </P>
+<P> The statement also quoted at length World Heath Organization figures showing plague deaths in Africa, Latin America and other parts of Asia in 1992 and 1993. ``These figures indicate there is no occasion for panic reaction,'' it said. </P>
+<P> But some tours were canceled, some airlines decided to skip Indian airports, some nations closed their airports to flights from India, neighboring countries tried to seal their borders, and many nations in the Middle East, home to millions of Indian expatriate workers, took drastic action. </P>
+<P> After some Air-India flights were turned back in mid-flight by Middle Eastern countries earlier this week, shipping was also restricted or banned. South Korea said it would quarantine all travelers from India for six days. </P>
+</TEXT>
+</DOC>

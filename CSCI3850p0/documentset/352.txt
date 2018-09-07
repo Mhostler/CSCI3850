@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0152.940722</DOCID>
+<TDTID>TDT000908</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/22/94 13:39</DATE>
+<TITLE> HURRICANE EMILIA LOSES STRENGTH AFTER SKIRTING HAWAII</TITLE>
+<HEADLINE> HURRICANE EMILIA LOSES STRENGTH AFTER SKIRTING HAWAII</HEADLINE>
+<SUBJECT> BC-USA-EMILIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HONOLULU, Hawaii (Reuter) </DATELINE>
+<P>  A rapidly weakening Hurricane Emilia was moving away from Hawaii on Friday after throwing up big waves on beaches but causing no damage on the islands. </P>
+<P> A Hawaiian Civil Defense spokeswoman said the storm, which came within 250 miles of Honolulu, caused no damage but prompted the temporary closure of five beach parks on the island of Hawaii. </P>
+<P> A National Weather Service spokesman in Honolulu said that by Friday morning Emilia, which at one time packed winds gusting to 195 mph, had weakened considerably with sustained winds of 75 mph and gusts up to 90 mph . </P>
+<P> It was 250 miles southwest of Honolulu and moving in a northwesterly direction at 13 mph. </P>
+<P> In 1992, Hurricane Iniki slammed into the island of Kauai with 150 mph winds, killing seven people and causing $1.8 billion in damage. </P>
+</TEXT>
+</DOC>

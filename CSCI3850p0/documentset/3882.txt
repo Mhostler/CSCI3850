@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU009-0426.950122</DOCID>
+<TDTID>TDT009622</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/22/95 05:08</DATE>
+<TITLE> At least ten dead in Israel blast -- police</TITLE>
+<HEADLINE> At least ten dead in Israel blast -- police</HEADLINE>
+<SUBJECT> BC-ISRAEL-EXPLOSION-TOLL URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIT LID, Israel (Reuter) </DATELINE>
+<P>  At least 10 people were killed in an apparent Muslim suicide bombing Sunday at a crowded bus stop in central Israel, a police spokesman said. </P>
+<P> ``At least ten are dead and 52 wounded,'' the spokesman told reporters at the scene. </P>
+</TEXT>
+</DOC>

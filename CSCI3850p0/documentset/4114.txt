@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU001-0418.950202</DOCID>
+<TDTID>TDT010037</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/02/95 15:13</DATE>
+<TITLE> Russian deputy killed after kidnapping</TITLE>
+<HEADLINE> Russian deputy killed after kidnapping</HEADLINE>
+<SUBJECT> BC-RUSSIA-DEPUTY 1STLD </SUBJECT>
+<AUTHOR>     By Anatoly Verbin </AUTHOR>
+<TEXT>
+<NOTES>(Adds details, changes source to police)</NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  A controversial Russian parliamentary deputy was found dead Thursday, handcuffed and shot through the head after being kidnapped, police said. </P>
+<P> Sergei Skorochkin's body was discovered near the village of Sarybievo south of Moscow. ``He was found in a forest with a shot to his head. He has been identified,'' a police spokesman said by telephone. </P>
+<P> Police earlier told Itar-Tass news agency that four men posing as police seized Skorochkin, 33, late Wednesday night from a cafe in his home town of Zaraisk near Moscow. </P>
+<P> The men, wearing camouflage and masks and armed with automatic rifles, said they were looking for people illegally possessing weapons and drugs and ordered all customers to lie face down on the floor, the NTV independent television said. </P>
+<P> NTV said Skorochkin, who recently returned from London where he spent several months with his family, was accompanied by some unnamed English partners. The masked men grabbed him and quickly drove away. </P>
+<P> Skorochkin, a businessman who was also a member of the State Duma (lower house of parliament), hit the headlines last May when he shot dead a Georgian whom he said had been threatening him. A woman passer-by was also killed in the shooting. </P>
+<P> Prosecutors ruled that Skorochkin acted in self-defense and closed the case. He said at the time he had been attacked by the local mafia for refusing to pay protection money. </P>
+<P> NTV said Skorochkin moved to London after the shooting and returned only recently. It showed a news conference in which he said he was prepared for the worst. </P>
+<P> ``The money is ready, if, God forbid, anything happens to me,'' he said. ``If there is no protection from the forces of law and order, then money will work. People will pay money and those structures (hostile to me) will be destroyed.'' </P>
+<P> Two other Duma deputies have been killed since elections to the new parliament in December 1993. </P>
+<P> Communist Valentin Martemyanov died of head injuries last November after he was beaten up near his Moscow home. Andrei Aizderdzis was shot dead in April near his home in the Moscow suburb of Khimki. </P>
+<P> Police have not yet finished either investigation. </P>
+</TEXT>
+</DOC>

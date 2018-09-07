@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU005-0387.950210</DOCID>
+<TDTID>TDT010305</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/10/95 11:41</DATE>
+<TITLE> Space shuttle set to end historic mission</TITLE>
+<HEADLINE> Space shuttle set to end historic mission</HEADLINE>
+<SUBJECT> BC-SPACE-SHUTTLE 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE CANAVERAL, Fla (Reuter) </DATELINE>
+<P>  The first woman pilot of a U.S. space shuttle prepared Friday to guide the craft home from its historic rendezvous with Russia's space station and said she was eager to return on future missions. </P>
+<P> Eileen Collins, who will control the shuttle's scheduled Saturday morning landing in Florida, is now in line for assignment as the world's first woman spacecraft commander, NASA officials said. </P>
+<P> The shuttle was scheduled to touch down at 6:51 a.m. EST , eight days after it blasted off on a mission that brought spacecraft from the two former enemy nations together for the first time in almost 20 years. </P>
+<P> The flight is the 67th for the U.S. shuttle fleet, and the first in which a woman has occupied the pilot's seat. </P>
+<P> ``I like being in space, I like zero gravity. I know I like this job and I plan on flying again, and I guess we'll just see what happens,'' Collins told reporters at the Johnson Space Center in Texas and the Kennedy Space Center in Florida. </P>
+<P> She and Discovery's five other crew members stowed gear and finished work aboard the shuttle Friday in preparation for its landing. </P>
+<P> The highlight of the mission occurred Monday, when a close encounter with the Russian space station Mir left the Discovery's four-man, two-woman crew and the space station's three cosmonauts teary-eyed and giddy. </P>
+<P> ``We're at the end of what we consider to be a very successful mission,'' Commander Jim Wetherbee said from Discovery in a Friday news conference with reporters on the ground. </P>
+<P> Wetherbee nudged Discovery within 37 feet of Mir, close enough for shuttle cosmonaut Vladimir Titov to make eye contact with friends inside the space station that was his home for 366 days in the late 1980s. </P>
+<P> Wetherbee said a telephone call was the only thing he had shared with Alexander Viktorenko, Elena Kondakova and Valery Polyakov before Monday. ``Suddenly, we met over the Pacific Ocean in the void and blackness of space, and we...could wave and smile at them,'' he said. </P>
+<P> Discovery blazed the trail for shuttle Atlantis, which another crew of astronauts and cosmonauts will dock at Mir in June -- the first such linkup since the July 1975 demonstration of orbital detente known as the Apollo-Soyuz Test Project. </P>
+<P> The Discovery crew deployed and retrieved an astronomy satellite and conducted a spacewalk to evaluate thermal improvements to NASA's spacesuits. The spacewalk had to be cut short when crewmen Bernard Harris and Mike Foale complained of frigid temperatures. </P>
+<P> ``We found out that...it gets cold outside and that's something we'll have to be prepared for when we build space station Alpha,'' Harris told reporters at the Johnson Space Center in Texas and the Kennedy Space Center in Florida. </P>
+<P> Alpha is the name of the $40 billion global space station which NASA proposes to assemble between 1997 and 2002 with the help of Russia, Europe, Canada and Japan. </P>
+</TEXT>
+</DOC>

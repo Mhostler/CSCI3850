@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU002-0258.941104</DOCID>
+<TDTID>TDT006037</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/04/94 01:16</DATE>
+<TITLE> Power PC alliance to set computer standard</TITLE>
+<HEADLINE> Power PC alliance to set computer standard</HEADLINE>
+<SUBJECT> BC-POWER-PC </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  International Business Machines Corp, Apple Computer Inc and Motorola Inc will announce a personal computer standard based on the Power PC chip they built, the New York Times reported in its Friday editions. </P>
+<P> People familiar with the announcement told the paper that Canon Inc and Toshiba Corp among others will be aligned with the group. </P>
+<P> The alliance is an attempt to curb the influence of Microsoft Corp and Intel Corp, both of which have turned computer hardware makers into low cost and low margin producers, the paper said. </P>
+<P> The new computers will not be available until 1996, people familiar with the announcement told the paper. </P>
+<P> IBM and Apple have had different operating systems for their computers that were incompatible with one another. </P>
+<P> The two companies that were once bitter rivals teamed up with Motorola three years ago to develop the PowerPC chip, the paper said. </P>
+<P> Development of a single standard for IBM and Apple personal computers would give each company more clout with software developers and corporate customers, the majority of whom have been using Intel-based computers, the paper said. </P>
+<P> The new design will run a variety of operating systems, which tell the computers how to function, but it still will require a special chip to run Microsoft's Windows 95 operating system at full speed, the paper said. </P>
+<P> Ing C Olivetti & C SpA also plans to join the alliance but has delayed making an announcement, the paper said. </P>
+</TEXT>
+</DOC>

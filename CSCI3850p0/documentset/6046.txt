@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU016-0052.950425</DOCID>
+<TDTID>TDT013067</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/25/95 18:41</DATE>
+<TITLE> Judge says Dow can be sued on some breast implant issues</TITLE>
+<HEADLINE> Judge says Dow can be sued on some breast implant issues</HEADLINE>
+<SUBJECT> BC-DOW-IMPLANTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HOUSTON (Reuter) </DATELINE>
+<P>  The federal judge presiding over the global settlement of breast implant claims ruled that Dow Chemical Co. can be sued in some circumstances, a Houston lawyer involved in the litigation said Tuesday. </P>
+<P> Richard Laminack said U.S. District Judge Sam Pointer ruled in Birmingham, Ala., that Dow was not liable for the acts of its 50-percent-owned Dow Corning Corp. but can be sued over issues such as its involvement in silicone testing. </P>
+<P> ``This is huge,'' said Laminack, who represents plaintiffs in implant cases. </P>
+<P> Dow Corning, which made silicone breast implants, is a joint venture of Dow Chemical of Midland, Mich., and Corning Inc. of Corning, N.Y. </P>
+<P> Plaintiffs' lawyers have been seeking to have Dow included in the $4.25 billion class action settlement involving almost 60 silicone implant makers, including Dow Corning. </P>
+<P> The plaintiffs claim the implants caused a variety of medical problems. </P>
+<P> Dow Chemical has said it will not join the global settlement being negotiated. </P>
+<P> ``Judge Pointer's ruling only means that he found that issues exist which he believes should be heard by a jury,'' Dow Chemical's general counsel, John Scriven, said in a statement. ``If there are trials on these issues, we remain confident that we will ultimately prevail.''  A Houston jury in February found Dow Chemical liable for injuries allegedly caused by silicone implants made by its Dow Corning affiliate. </P>
+<P> But the verdict was overturned in March by Texas State Court Judge Michael Schneider, who presided over the trial. </P>
+<P> Pointer's ruling applies only to those federal cases in which plaintiffs opted not to participate in the global settlement. It has no impact on that settlement. </P>
+</TEXT>
+</DOC>

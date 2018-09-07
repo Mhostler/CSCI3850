@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0209.950306</DOCID>
+<TDTID>TDT011029</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/06/95 06:28</DATE>
+<TITLE> Moscow police chief, prosecutor fired - Interfax</TITLE>
+<HEADLINE> Moscow police chief, prosecutor fired - Interfax</HEADLINE>
+<SUBJECT> BC-RUSSIA-PONOMARYOV </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  Moscow's police chief and top prosecutor were formally dismissed Monday ahead of a top-level meeting on fighting organized crime, Interfax news agency reported. </P>
+<P> Interfax quoted security sources as saying Interior Minister Viktor Yerin had issued an order to dismiss the capital's police chief Vladimir Pankratov. </P>
+<P> President Boris Yeltsin had already called for Pankratov's dismissal and that of Moscow prosecutor Gennady Ponomaryov after the murder last week of a top television personality. </P>
+<P> Interfax had earlier reported Ponomaryov's dismissal by order of Russia's acting prosecutor general, hours before the scheduled start of a Security Council meeting bringing together Russia's top decision-makers. </P>
+<P> Yeltsin's pledge to fire Ponomaryov and Pankratov put him on a collision course with Moscow's powerful city authorities, led by Mayor Yuri Luzhkov. They complain that police have too few capable staff and funds with which to fight crime. </P>
+<P> The murder of television journalist Vladislav Listyev sent shock waves throughout Russia and prompted Yeltsin to promise measures to ensure organized crime did not take control of the country's institutions. </P>
+</TEXT>
+</DOC>

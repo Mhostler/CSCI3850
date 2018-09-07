@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU018-0056.950428</DOCID>
+<TDTID>TDT013210</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/28/95 14:29</DATE>
+<TITLE> Mobsters disguised as police kill Mafia suspect</TITLE>
+<HEADLINE> Mobsters disguised as police kill Mafia suspect</HEADLINE>
+<SUBJECT> BC-ITALY-MAFIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PALERMO, Sicily (Reuter) </DATELINE>
+<P>  Hitmen disguised as policemen shot dead a Mafia suspect near Palermo Friday, police in Sicily said. </P>
+<P> Police said Giovanni Spataro, 29, was gunned down by four men dressed in police uniforms who flagged him down while he was riding his motorcycle in the town of Villabate. </P>
+<P> The attackers escaped in a dark-colored car. </P>
+<P> Spataro was under investigation for association with the Mafia after a turncoat said he belonged to the local Di Peri clan, judicial sources said. </P>
+<P> Last month, 46-year-old Giuseppe Di Peri and his son Salvatore, 23, also from Villabate, were shot dead in their car as they drove up to the family home. </P>
+<P> Spataro's killing brought the death toll in a spate of Mafia murders, which began in late February following two years of relative peace on the island of Sicily, to at least 14 people. </P>
+</TEXT>
+</DOC>

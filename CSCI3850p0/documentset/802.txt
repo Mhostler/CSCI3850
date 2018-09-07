@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0048.940816</DOCID>
+<TDTID>TDT001978</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/16/94 10:33</DATE>
+<TITLE> LEBANON REJECTS U.S. PLEA TO CURB GUERRILLAS</TITLE>
+<HEADLINE> LEBANON REJECTS U.S. PLEA TO CURB GUERRILLAS</HEADLINE>
+<SUBJECT> BC-MIDEAST-LEBANON-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIRUT, Lebanon (Reuter) </DATELINE>
+<P>  Lebanese President Elias Hrawi Tuesday said Beirut has turned down a U.S. proposal to curb pro-Iranian guerrillas fighting Israel as a precondition for Israeli withdrawal from south Lebanon. </P>
+<P> ``U.S. Secretary of State Warren Christopher suggested stopping the resistance so that Israel would withdraw but Lebanon's answer was let Israel withdraw and we will deploy the army (in south Lebanon) and the resistance would stop,'' Hrawi said in a speech to Arab news agency representatives. </P>
+<P> He did not make clear how Lebanon received the U.S. proposal but Christopher visited Syria, Lebanon's main power broker, earlier this month. </P>
+<P> Lebanon says it cannot stop guerrillas of the pro-Iranian Hizbollah and other groups fighting Israeli forces in south Lebanon before the Jewish state withdraws from the buffer zone it occupies there or gives a timetable for such a withdrawal. </P>
+<P> Hrawi also said Lebanon, which closely coordinates its peace talks moves with Syria, would not sign a separate peace treaty with Israel. </P>
+</TEXT>
+</DOC>

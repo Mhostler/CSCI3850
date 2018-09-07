@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU004-0171.950307</DOCID>
+<TDTID>TDT011069</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/07/95 21:42</DATE>
+<TITLE> World Bank OKs $400 mln loan for Russian housing</TITLE>
+<HEADLINE> World Bank OKs $400 mln loan for Russian housing</HEADLINE>
+<SUBJECT> BC-BANK-RUSSIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The World Bank Tuesday approved a $400 million loan to help Russia create market-oriented land and housing markets and allow Russians to buy their houses on an open market for the first time. </P>
+<P> The bank said the first housing project would help implement housing sector reforms in six cities, including St. Petersburg, Moscow and Novgorod. </P>
+<P> ``We have responded to (Russia's) request ... with a project designed to demonstrate practical ways that markets can produce housing and help revive the Russian economy,'' senior World Bank official Jonathan Brown said in a statement. </P>
+<P> The total cost of the project is put at $758 million and will help leverage private investment in small-scale construction and building materials industries. </P>
+<P> For instance, the project will help break up government land monopolies by helping local governments sell public land to private developers and families, as well as stimulating the development of a small-scale private real estate industry. </P>
+<P> To date, around 1,420 acres of public land have been earmarked for privatization in the project cities, the bank said. </P>
+<P> Developers would buy the land to build houses and sell them on the private market. </P>
+<P> The bank estimates one of the project's components will produce an estimated 22,000 apartments, 8,200 townhouses and 1,000 houses for Russians with moderate incomes. </P>
+<P> It said the project would also encourage banks to extend medium-term lending to small developers for housing construction, while improving the capacity of companies to produce modern and efficient building materials. </P>
+<P> The loan will have standard World Bank terms with a maturity of 17 years, including five years grace, at the bank's standard variable rate, now at 7.09 percent. </P>
+</TEXT>
+</DOC>

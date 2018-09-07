@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU007-0166.950411</DOCID>
+<TDTID>TDT012443</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/11/95 14:16</DATE>
+<TITLE> Five killed by Russian bombing, Afghan radio says</TITLE>
+<HEADLINE> Five killed by Russian bombing, Afghan radio says</HEADLINE>
+<SUBJECT> BC-AFGHAN-BOMBING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ISLAMABAD, Pakistan (Reuter) </DATELINE>
+<P>  Russian jets bombed an Afghan town close to the border with Tajikistan, killing at least five people, the official Kabul Radio said Tuesday. </P>
+<P> The radio broadcast, monitored in Islamabad, said the jets dropped 19 bombs in the attack Monday on the town of Madessa in Badakhshan province. </P>
+<P> Badakhshan borders Tajikistan, where thousands of Russian and Commonwealth of Independent States troops are deployed to help the government combat cross-border raids by Tajik Islamic rebels based in Afghanistan. </P>
+<P> Clashes between the rebels and Russian border guards have intensified in recent days. </P>
+<P> The radio quoted the Afghan Foreign Ministry as condemning the bombing, the second reported by Kabul within two days. </P>
+<P> The radio said several people were killed Sunday when Russian jets bombed a district of the adjacent province of Takhar. </P>
+<P> In recent months Afghanistan has complained several times of Russian air raids from Tajikistan. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU009-0053.941219</DOCID>
+<TDTID>TDT008168</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/19/94 12:36</DATE>
+<TITLE> Colombia rebels make living from drug trade - daily</TITLE>
+<HEADLINE> Colombia rebels make living from drug trade - daily</HEADLINE>
+<SUBJECT> BC-DRUGS-COLOMBIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOGOTA, Colombia (Reuter) </DATELINE>
+<P>  Colombia's Marxist-led guerrillas have become a virtual drug organization onto themselves because of their heavy involvement in trafficking, the Bogota daily El Tiempo reported Monday. </P>
+<P> Citing a national police report, the newspaper said guerrillas not only made money charging drug traffickers for protection but also grew their own illegal drug crops. </P>
+<P> El Tiempo said the guerrillas grow marijuana in the northern part of the country and protect drug processing laboratories and clandestine airstrips in the southern jungles. </P>
+<P> The levies charged by the guerrillas against drug traffickers for protection made up 30 percent of the total costs incurred by the traffickers in producing cocaine and heroin, it said. </P>
+<P> Colombia is world's largest producer of cocaine. </P>
+</TEXT>
+</DOC>

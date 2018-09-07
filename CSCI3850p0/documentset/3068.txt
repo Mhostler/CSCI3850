@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU004-0086.941208</DOCID>
+<TDTID>TDT007605</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/08/94 07:52</DATE>
+<TITLE> S.Africa unveils chemical arms test laboratory</TITLE>
+<HEADLINE> S.Africa unveils chemical arms test laboratory</HEADLINE>
+<SUBJECT> BC-SAFRICA-CHEMICALS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG (Reuter) </DATELINE>
+<P>  South Africa's state arms agency, Armscor, said Thursday a subsidiary was making chemical warfare agents such as mustard gas, but only in limited research quantities allowed by international convention. </P>
+<P> Phillip Coleman, manager of the Protechnik laboratory which makes the agents, told reporters during a tour of the plant outside Johannesburg that the Chemical Weapons Convention (CWC) allowed signatories to maintain ``a single small-scale facility.'' </P>
+<P> He said Protechnik made small samples of mustard gas and other agents as part of its operation to test clothing, air filters and chemical weapons detection systems. </P>
+<P> Coleman said his company was helping to ascertain which companies in South Africa were making industrial chemicals that could be processed into warfare agents. </P>
+<P> He said he did not know if South African companies had provided such products to countries like Iraq, which is known to have used chemical weapons during its Gulf war against Iran and against Kurdish insurgents and villagers. </P>
+<P> Under the terms of the CWC, which South Africa signed in January last year, member states must monitor the production and marketing of schedule three chemicals. </P>
+<P> Armscor chief Tielman de Waal said South Africa had no stocks of chemical weapons. </P>
+<P> Protechnik, set up in 1986, was contracted by the defense force to evaluate chemical warfare protective equipment after reports that South African troops then fighting in Angola could be exposed to such weapons. </P>
+<P> ``To ensure that product specifications are exact, all test and evaluation work uses actual chemical agents, rather than simulants,'' a Protechnik statement said. </P>
+<P> Armscor sources said the tour of the facility, in which U.S. diplomats participated, was aimed at stopping any speculation that Protechnik was producing chemical weapons on a scale large enough for military use. </P>
+</TEXT>
+</DOC>

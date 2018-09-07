@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU012-0110.941126</DOCID>
+<TDTID>TDT007050</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/26/94 06:21</DATE>
+<TITLE> Palestinians demonstrate in Jerusalem</TITLE>
+<HEADLINE> Palestinians demonstrate in Jerusalem</HEADLINE>
+<SUBJECT> BC-MIDEAST-UNREST (PICTURE) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Palestinians clashed with Israeli police on the main street of Arab East Jerusalem on Saturday, witnesses and police said. </P>
+<P> A police spokesman said two Arab youths threw firebombs at police and were arrested. A witness said two youths were seized by plainclothes policemen who took them away in a police van. </P>
+<P> Palestinians said the clash began with a sit-in by relatives of Palestinian prisoners held in Israeli jails, demanding their release. Demonstrators burned one tire in the street. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU009-0219.950218</DOCID>
+<TDTID>TDT010550</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/18/95 15:22</DATE>
+<TITLE> Fur flies in Miami over cat tax plan</TITLE>
+<HEADLINE> Fur flies in Miami over cat tax plan</HEADLINE>
+<SUBJECT> BC-CATS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  Cat lovers are up in arms over a Dade County proposal to license and vaccinate pet cats for rabies each year, just like dogs, and to make their feelings known the cat lovers plan to hold a protest demonstration Monday. </P>
+<P> They see as added insult to injury county plans to in effect subsidize dog owners with the proceeds from the ``cat tax''. </P>
+<P> Under the proposed ordinance which will be put to a vote Tuesday, vaccinations will cost $5 for each neutered cat and $15 for unspayed cats. </P>
+<P> If adopted officials plan to reduce vaccinations for spayed dogs by $5 to $15 each year. </P>
+<P> Organizers said at Monday's demonstration at county offices, activists will wear cat masks and squirt themselves with shaving cream to debunk the rabies scare. </P>
+<P> Officials say the proposed ordinance is aimed at reducing the chances of a rabies outbreak. Although no human cases of rabies have been reported in South Florida for years, five animals, including one cat, were infected with rabies in Palm Beach County last year. </P>
+<P> An estimated 462,000 cats live in Dade County households, compared to about 420,000 dogs. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0401.941214</DOCID>
+<TDTID>TDT007918</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 11:37</DATE>
+<TITLE> Segregationist Arkansas Governor Faubus dead at 84</TITLE>
+<HEADLINE> Segregationist Arkansas Governor Faubus dead at 84</HEADLINE>
+<SUBJECT> BC-FAUBUS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LITTLE ROCK, Ark.(Reuter) </DATELINE>
+<P>  Orval Eugene Faubus, who as Governor of Arkansas used National Guardsmen to block the integration of Little Rock Central High School in 1957, died Wednesday morning. </P>
+<P> The cause of death was not immediately announced. However, in several interviews Faubus, 84, acknowleged suffering bone cancer, had twice undergone surgery for prostate cancer and wore a pacemaker to regulate his heartbeat. </P>
+</TEXT>
+</DOC>

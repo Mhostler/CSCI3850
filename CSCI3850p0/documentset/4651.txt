@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU001-0105.950301</DOCID>
+<TDTID>TDT010889</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/01/95 10:34</DATE>
+<TITLE> Senate recesses til Thursday amid budget fight</TITLE>
+<HEADLINE> Senate recesses til Thursday amid budget fight</HEADLINE>
+<SUBJECT> BC-BUDGET-RECESS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Majority Leader Bob Dole, still one vote shy of backing needed to pass the Republicans' balanced budget amendment, recessed the Senate Wednesday until noon Thursday in a move to buy time for the vote search. </P>
+</TEXT>
+</DOC>

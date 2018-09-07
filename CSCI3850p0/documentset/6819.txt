@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU016-0333.950524</DOCID>
+<TDTID>TDT014170</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/24/95 12:49</DATE>
+<TITLE> Germany plans driving ban to fight ozone problem</TITLE>
+<HEADLINE> Germany plans driving ban to fight ozone problem</HEADLINE>
+<SUBJECT> BC-GERMANY-OZONE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BONN (Reuter) </DATELINE>
+<P>  Germany plans to ban some vehicles with no catalytic converters from the roads when ozone levels reach levels that can harm people's health, Environment Minister Angela Merkel said Wednesday. </P>
+<P> She agreed on draft legislation with Bonn's economics and transport ministers that would trigger a limited ban when ozone levels reach 270 micrograms per cubic meter, a level deemed too high by opposition parties and ecology groups. </P>
+<P> Seeking a compromise that would protect health without harming the economy, the ministers allowed exemptions to the bill for commuters who need to drive to work, vacationers and commercial traffic. </P>
+<P> Also exempted are all cars less than five years old, motorcycles and diesel-powered vehicles with low emissions, the ministers said in a joint news conference. </P>
+<P> Strong sunlight reacts with exhaust fumes to boost levels of ozone, which scientists suspect may cause cancer. </P>
+<P> The environmentalist group Greenpeace immediately lambasted the four-year plan, which the ministers said could take effect by the peak summer driving season. </P>
+<P> ``Ms. Merkel's summer smog bill belongs in a filing cabinet and not before parliament,'' Greenpeace spokesman Karsten Schmid sniffed. </P>
+<P> A driving ban could be triggered when three separate measurement stations between 30 and 180 miles apart record high ozone levels for at least an hour. Meteorologists must expect similar conditions the next day. </P>
+<P> Officials at state level could then declare a ban for 24 hours starting at 6 a.m. the following day. </P>
+</TEXT>
+</DOC>

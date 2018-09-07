@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0057.941105</DOCID>
+<TDTID>TDT006103</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/05/94 11:28</DATE>
+<TITLE> Wartime bombs defused in Germany, 15,000 evacuated</TITLE>
+<HEADLINE> Wartime bombs defused in Germany, 15,000 evacuated</HEADLINE>
+<SUBJECT> BC-GERMANY-BOMB </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LUDWIGSHAFEN, Germany (Reuter) </DATELINE>
+<P>  More than 15,000 people were evacuated from their homes after unexploded World War Two bombs were found buried in two German towns, city officials said Saturday. </P>
+<P> Experts in Ludwigshafen defused a British aerial bomb containing about 2,800 lbs of explosives discovered in a city park Friday. </P>
+<P> In the small Bavarian town of Freystadt, building workers found a smaller American bomb which was safely defused. </P>
+<P> The Ludwigshafen bomb was the second in three weeks to be discovered in the city, a chemical industry center frequently targeted by Allied planes during the war. The first bomb was found in the same park Oct. 19. </P>
+<P> Horst Lentz, head of the bomb disposal squad, told reporters photos taken by Allied pilots suggested more bombs could be buried there. </P>
+<P> Three people were killed and 17 injured in Berlin in September when work on a building site set off a bomb. </P>
+</TEXT>
+</DOC>

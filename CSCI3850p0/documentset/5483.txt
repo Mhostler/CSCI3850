@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU003-0321.950405</DOCID>
+<TDTID>TDT012144</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/05/95 14:55</DATE>
+<TITLE> Subcommittee passes baseball antitrust bill</TITLE>
+<HEADLINE> Subcommittee passes baseball antitrust bill</HEADLINE>
+<SUBJECT> BC-BASEBALL-CONGRESS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A Senate subcommittee Wednesday voted to partially lift Major League baseball's antitrust exemption. </P>
+<P> The bill approved by the Senate Antitrust Subcommittee would end baseball's antitrust exemption for negotiations with members of the players' union. </P>
+<P> But baseball would continue to have antitrust protection for dealing with franchise shifts, relations with minor leagues and for national broadcast contracts. </P>
+<P> Supporters of the bill said it was time to act now that the eight-month players' strike is over. The regular season has been rescheduled to begin April 26. </P>
+<P> The players are coming back without a labor agreement with team owners, however. They ended their walkout after a federal judge issued an injunction last Friday against the owners which restored the labor conditions that were in effect before the strike began last August. </P>
+<P> ``The time to declare the nonexistence of Major League baseball's antitrust exemption is finally upon us,'' Sen. Patrick Leahy, (D-Vt.), said. </P>
+<P> The bill was approved unanimously by voice vote with four of the seven senators on the subcommittee present. It now goes to the full Judiciary Committee for action next month. </P>
+<P> Major League baseball was granted the antitrust exemption in a 1922 Supreme Court decision. Congress has considered ending the exemption several times since, but has never passed a bill. </P>
+</TEXT>
+</DOC>

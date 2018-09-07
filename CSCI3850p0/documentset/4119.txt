@@ -1,0 +1,28 @@
+<DOC>
+<DOCID>REU002-0058.950202</DOCID>
+<TDTID>TDT010043</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/02/95 20:56</DATE>
+<TITLE> Clinton budget to tread softly on farmers-Analysts</TITLE>
+<HEADLINE> Clinton budget to tread softly on farmers-Analysts</HEADLINE>
+<SUBJECT> BC-BUDGET-FARM </SUBJECT>
+<AUTHOR>     By Charles Abbott </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton's fiscal 1996 budget may propose making more land ineligible for farm subsidies, but analysts said Thursday it will be irrelevant in the spending debate, other than a chance to score political points. </P>
+<P> The proposal will be released Monday morning. </P>
+<P> ``You hear they're shaving a little bit, but not much and of no consequence,'' private consultant Bill Lesher said, referring to Agriculture Department spending. </P>
+<P> Farm subsidies are projected for $11.5 billion this year. </P>
+<P> Overall, USDA spends about $60 billion a year. About $35 billion goes to public-feeding programs like food stamps. </P>
+<P> Consultant John Schnittker said he expected the White House to propose shallow cuts in the farm program. </P>
+<P> ``The budget will be almost totally irrelevant,'' he said. ''It reflects the timidity of the Clinton administration to do what needs to be done.'' </P>
+<P> A congressional economist said he suspected the administration would propose making more land ineligible for subsidies -- ``That's the only way to get some savings in the farm program.'' </P>
+<P> The administration might also try to ``target'' farm payments, the economist said. </P>
+<P> Both ideas were proposed unsuccessfully two years ago. </P>
+<P> At that time, the White House said 25 percent of the wheat, feed grains, cotton and rice acreage should be ineligible. At present, 15 percent is denied supports. The change would save several hundred million dollars a year. An additional $75 million a year might be saved by denying farm payments to people with off-farm income above $100,000. </P>
+<P> In his State of the Union speech, Clinton defended the school lunch program and food aid to needy women and children. </P>
+<P> Lesher said the White House, by treating agriculture lightly, might seek political gain by blaming the Republican-controlled Congress for budget cuts. </P>
+<P> A Democratic-leaning analyst suggested a similar strategy a couple of weeks ago. </P>
+</TEXT>
+</DOC>

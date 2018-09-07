@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU008-0298.941017</DOCID>
+<TDTID>TDT005159</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/17/94 07:27</DATE>
+<TITLE> Clinton may go to Middle East for peace signing</TITLE>
+<HEADLINE> Clinton may go to Middle East for peace signing</HEADLINE>
+<SUBJECT> BC-MIDEAST-JORDAN-ISRAEL-CLINTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton may go to the Middle East for the signing ceremony of a peace accord between Israel and Jordan, his chief of staff said Monday. </P>
+<P> ``We understand that there may be an invitation in order,'' Leon Panetta said on NBC Television's ``Today Show.'' ''Obviously the president would look on that very seriously.''  He spoke as Israel and Jordan prepared to initial a peace treaty ending their 46-year state of war after two days of talks. </P>
+<P> A formal signing ceremony would be held at a later date after some final details are worked out. </P>
+</TEXT>
+</DOC>

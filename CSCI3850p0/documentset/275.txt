@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0117.940718</DOCID>
+<TDTID>TDT000675</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/18/94 05:07</DATE>
+<TITLE> 365 RESCUED FROM NORWAY FERRY AFTER FIRE</TITLE>
+<HEADLINE> 365 RESCUED FROM NORWAY FERRY AFTER FIRE</HEADLINE>
+<SUBJECT> BC-NORWAY-FERRY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>OSLO, Norway (Reuter) </DATELINE>
+<P>  All 365 passengers and crew escaped in lifeboats after fire broke out aboard a ferry off south Norway Monday, police said. </P>
+<P> ``Nobody was injured, the evacuation went smoothly in calm summer weather,'' said Alf Martin Evensen, deputy chief of police in Sandefjord, south Norway. </P>
+<P> Fire broke out in the electrical system in the engine room of the 1965 vintage M/S Sandefjord, sailing from Sandefjord to Stroemstad in western Sweden, a trip of less than 62 miles. The fire was quickly extinguished. </P>
+<P> All 322 passengers and 43 crew were evacuated in the ship's lifeboats and taken to Norway. </P>
+<P> The 3,920-ton ferry is owned by Norway's Larvik Scandi Lines. </P>
+<P> Four years ago, 158 people died after an arson attack on the Danish-owned Scandinavian Star ferry sailing from Norway to Denmark. </P>
+</TEXT>
+</DOC>

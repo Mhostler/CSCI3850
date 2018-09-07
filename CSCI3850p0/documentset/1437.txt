@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU008-0326.940917</DOCID>
+<TDTID>TDT003565</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/17/94 12:08</DATE>
+<TITLE> Journalists gather at Haitian border</TITLE>
+<HEADLINE> Journalists gather at Haitian border</HEADLINE>
+<SUBJECT> BC-HAITI-DOMINICAN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JIMANI, Dominican Republic (Reuter) </DATELINE>
+<P>  As Haitians braced for a possible U.S. invasion, scores of foreign correspondents were jammed up at the border Saturday, waiting for government permission to enter Haiti. </P>
+<P> A military spokesman in the border village of Jimani said photographers, TV cameramen and reporters had filled the local hotel and were renting rooms in private homes as they waited at the border. </P>
+<P> To cross into Haiti, which has been isolated through a U.N. embargo, journalists, businessmen and other travelers must obtain travel documents issued by the Dominican and Haitian governments. </P>
+<P> Jimani is about 185 miles from the Dominican capital of Santo Domingo, and about 28 miles from the Haitian capital of Port-au-Prince. </P>
+<P> An estimated 500 foreign journalists have entered Haiti during the past week in anticipation of a military invasion by the U.S. government, according to Dominican military officials. </P>
+<P> The Dominican military has been placed on alert along the country's border with Haiti to prevent any mass exodus of Haitians from fleeing across the border. </P>
+<P> Amnesty International has formally asked Dominican President Joaquin Balaguer to respect the human rights of any Haitians who may attempt to cross the border during an invasion. </P>
+<P> The two nations have had an uneasy relationship for decades, with Dominican authorities routinely deporting Haitian agricultural workers. </P>
+</TEXT>
+</DOC>

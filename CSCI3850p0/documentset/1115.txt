@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU001-0132.940901</DOCID>
+<TDTID>TDT002753</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/01/94 15:01</DATE>
+<TITLE> U.S. governors support bi-partisan health plan</TITLE>
+<HEADLINE> U.S. governors support bi-partisan health plan</HEADLINE>
+<SUBJECT> BC-HEALTH-GOVERNORS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The nation's governors said Thursday they want Congress to pass bipartisan health care reform this year but they can't support any bill now before the Senate. </P>
+<P> The National Governors Association, which includes all 50 state governors, said they did like some of Senate Republican Leader Bob Dole's proposals to reform the Medicaid program which provides health care for the poor through the states. </P>
+<P> ``We are writing you to reaffirm the commitment of the nation's governors to bipartisan health care reform this year,'' the association said in a letter to Dole. </P>
+<P> ``While we are eager to see legislation enacted, we believe that it must not include unacceptable cost shifts to states and must be consistent with National Governors' Association policy. At this time, however, we neither endorse nor oppose, in its entirety, any proposal before the U.S. Senate.'' </P>
+<P> Congress will resume work on health care reform when it returns from a summer recess September 12, but will only have about a month to pass a bill before it adjourns for the year in mid-October so members can campaign for the November 8 congressional elections. </P>
+<P> Democratic congressional leaders have virtually given up on passing the broad health care reform program President Clinton wants to guarantee coverage to every American. </P>
+<P> Instead, efforts are centering around a compromise plan by moderates of both parties to broaden access to health benefits through reforms that would stop insurance companies from excluding pre-existing conditions. It would also allow businesses to pool together to buy insurance. </P>
+</TEXT>
+</DOC>

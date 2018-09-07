@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU014-0286.950327</DOCID>
+<TDTID>TDT011771</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/27/95 11:50</DATE>
+<TITLE> Clinton confers with New Zealand leader</TITLE>
+<HEADLINE> Clinton confers with New Zealand leader</HEADLINE>
+<SUBJECT> BC-CLINTON-BOLGER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton met Monday with Prime Minister Jim Bolger of New Zealand for talks on trade, investment opportunities and other issues. </P>
+<P> White House Press Secretary Mike McCurry said the Oval Office session covered ``a variety of issues of concern to both governments, chief among them trade and investment opportunites.'' </P>
+<P> The visit was the first by a New Zealand prime minister to the White House in 11 years. </P>
+</TEXT>
+</DOC>

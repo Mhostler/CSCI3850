@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU007-0100.940814</DOCID>
+<TDTID>TDT001885</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/14/94 05:50</DATE>
+<TITLE> AT LEAST 15 DIE IN GEORGIA TRAIN CRASH</TITLE>
+<HEADLINE> AT LEAST 15 DIE IN GEORGIA TRAIN CRASH</HEADLINE>
+<SUBJECT> BC-CIS-GEORGIA-CRASH 1STLD </SUBJECT>
+<AUTHOR>     By Dato Chikvishvili </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds details; correcting time element)</NOTES>
+<DATELINE>TBILISI, Georgia (Reuter) </DATELINE>
+<P>  At least 15 people were killed and 30 injured when a passenger train crashed into a stationary freight train just outside the Georgian capital Tbilisi after a signaling error, railroad officials said Sunday. </P>
+<P> The passenger train, traveling from the southern industrial suburb of Rustavi to Tbilisi, smashed into the freight train with such force Saturday night that two cars were compressed into little more than scrap metal. </P>
+<P> Guguly Mayduradze, deputy director of the Georgian railroads, said the likely cause of the accident was a mistake by station staff who failed to check whether the track was free before allowing the passenger train to proceed. </P>
+<P> Bandit groups have stolen many of the former Soviet republic's automatic signaling devices over the last two years to sell the copper and other precious metals they contain. </P>
+<P> ``In the place where this happened there were no signals because they have all been stolen, so the stations have to signal to each other manually,'' he told Reuters. </P>
+<P> A lack of blowtorches hampered rescuers and many of the dead and injured remained trapped for hours in the wreckage. Some were taken away by passenger cars because many of ambulances in the cash-starved country do not work. </P>
+<P> Russia's Interfax news agency said the freight train was carrying 3,200 tons of fuel oil. </P>
+<P> On Sunday morning Georgian leader Eduard Shevardnadze visited the scene of the crash, the latest in a series of rail accidents to hit the republic. </P>
+<P> In April several people were injured when a passenger train plunged head first into a river after a bridge collapsed. </P>
+<P> At least 21 people were killed and 80 were taken to hospital after a commuter train slammed into derailed freight wagons in southwest Russia Thursday. </P>
+</TEXT>
+</DOC>

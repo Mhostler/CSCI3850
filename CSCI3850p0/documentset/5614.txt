@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0073.950409</DOCID>
+<TDTID>TDT012357</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/09/95 17:04</DATE>
+<TITLE> Poll puts Argentina's Menem ahead in May election</TITLE>
+<HEADLINE> Poll puts Argentina's Menem ahead in May election</HEADLINE>
+<SUBJECT> BC-ARGENTINA-ELECTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES, Argentina, (Reuter) </DATELINE>
+<P>  Argentine President Carlos Menem would win 43.9 percent of the vote in his May 14 re-election bid, giving him a 13-point lead over center-left coalition Frepaso, according to the latest poll published Sunday. </P>
+<P> The poll by La Nacion newspaper, taken between March 31 and April 3, shows Peronist leader Menem with 34.1 percent of the tally, rising to 43.9 percent with projections for undecided voters. </P>
+<P> Frepaso's presidential candidate Jose Octavio Bordon, is in second place with 30.4 percent support while the Peronists' traditional rivals, the Radical Party, and its candidate Horacio Massaccesi remains a distant third with just 17.1 percent of the tally. </P>
+<P> The latest survey of 1,325 people nationwide has a margin of error of 2.7 percent. </P>
+<P> Under reforms to the Constitution designed by the ruling Peronists last year to let Menem stand for a second term, he needs 45 percent of the vote or else 40 percent and a 10-point lead over his closest rival to avoid going to a second round balloting. The government desperately wants to avoid a second round where Radical votes are much more likely to migrate to Bordon than to Menem. </P>
+<P> While the poll showed people had more faith in Bordon to address unemployment, which is at a record high of over 12 percent, 54 percent believed Menem was the best bet for ensuring stability, versus 15 percent for Bordon. Twenty-seven percent believed Menem most able to control public spending. </P>
+</TEXT>
+</DOC>

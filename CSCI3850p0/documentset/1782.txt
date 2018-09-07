@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU002-0083.941003</DOCID>
+<TDTID>TDT004406</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/03/94 16:49</DATE>
+<TITLE> Agriculture Secretary Espy quits Clinton Cabinet</TITLE>
+<HEADLINE> Agriculture Secretary Espy quits Clinton Cabinet</HEADLINE>
+<SUBJECT> BC-CLINTON-ESPY-RESIGN URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Agriculture Secretary Mike Espy, under federal ethics investigation for accepting gifts, announced Monday he is resigning from President Clinton's Cabinet ``to overcome the challenge to my good name.'' </P>
+<P> ``I must personally overcome the challenge to my good name that continues to distract me from my work in the U.S. Department of Agriculture. I have therefore decided to tender my resignation to the president effective December 31 of this year,'' Espy said at a news briefing. </P>
+</TEXT>
+</DOC>

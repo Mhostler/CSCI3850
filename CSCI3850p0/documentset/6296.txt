@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU003-0373.950505</DOCID>
+<TDTID>TDT013455</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/05/95 00:35</DATE>
+<TITLE> W.China could be hit by destructive quake - expert</TITLE>
+<HEADLINE> W.China could be hit by destructive quake - expert</HEADLINE>
+<SUBJECT> BC-QUAKE-CHINA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING, May 5 (Reuter) </DATELINE>
+<P>  A Chinese seismologist predicted that a destructive earthquake could hit China's western Guangxi region, the China News Service said on Friday. </P>
+<P> ``The possibility of a strong, destructive earthquake occurring within the boundaries of Guangxi cannot be ruled out,'' the agency quoted Li Jiafa, deputy director of Guangxi's earthquake bureau, as saying. </P>
+<P> ``Earthquake activity in Guangxi in the past two years has clearly increased,'' Li said. He did did not say when it would happen. </P>
+<P> Six moderate or strong earthquakes measuring over four on the open-ended Richter scale have been recorded in Guangxi since late 1994, the agency said. </P>
+<P> Local anti-earthquake and disaster-relief teams have been formed. They would enact emergency plans to ensure efficiency of rescue work and social order in the event of a disastrous tremor, it said. </P>
+<P> The most devastating earthquake in recorded history hit China's northern Shaanxi province in 1556, killing 830,000 people. </P>
+</TEXT>
+</DOC>

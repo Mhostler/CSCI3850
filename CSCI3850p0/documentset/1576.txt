@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0012.940924</DOCID>
+<TDTID>TDT003919</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/24/94 08:02</DATE>
+<TITLE> Bavarians vote in last polls before German election</TITLE>
+<HEADLINE> Bavarians vote in last polls before German election</HEADLINE>
+<SUBJECT> BC-GERMANY-ELECTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MUNICH, Germany (Reuter) </DATELINE>
+<P>  Bavarians vote in state elections Sunday in the last test of public opinion before national polls in October, when Chancellor Helmut Kohl's center-right coalition is up for a fourth term. </P>
+<P> Kohl's Christian Democrats (CDU) will be watching Bavaria closely to see if their troubled liberal coalition partners continue a year-old series of six state and European election losses. </P>
+<P> If the liberal Free Democrats (FDP) fail to return to parliament in Bavaria, the country's second most populous state, it could cast a shadow over Kohl's chances to stay in power after the October 16 general election. </P>
+<P> German law reguires parties to win at least five percent of the vote to enter any legislature, and the FDP has failed to do so in five state polls since September 1993 and in European elections in June. </P>
+<P> If the FDP fails to win any seats in the federal parliament next month, Kohl could be forced to seek an unpopular ``grand coalition'' with the Social Democrats or cede power to an SPD-led government with the smaller ecologist Greens. </P>
+<P> Bavaria's traditional ruling party, the Christian Social Union, is a sister party of Kohl's CDU. It is campaigning to defend its absolute majority in the state. </P>
+</TEXT>
+</DOC>

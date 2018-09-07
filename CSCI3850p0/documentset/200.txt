@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU006-0431.940713</DOCID>
+<TDTID>TDT000485</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/13/94 08:46</DATE>
+<TITLE> TWO INMATES KILLED IN CONNECTICUT PRISON RIOT</TITLE>
+<HEADLINE> TWO INMATES KILLED IN CONNECTICUT PRISON RIOT</HEADLINE>
+<SUBJECT> BC-USA-RIOT </SUBJECT>
+<AUTHOR>     By Mike Clancy </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Updates with violence ended)</NOTES>
+<DATELINE>HARTFORD, Conn (Reuter) </DATELINE>
+<P>  Two inmates were killed and two others critically wounded during eight hours of fighting among medium-security prisoners that ended early Wednesday, state officials said. </P>
+<P> Inmates donned makeshift hoods and used crutches, bedding staves and anything else that could be used as a club to chase down and attack other inmates during the battling at the Carl Robinson Correctional Institution in Enfield. </P>
+<P> In all, 15 inmates were hurt. Two guards suffered minor injuries, the authorities said. </P>
+<P> Connecticut Corrections Department spokesman Bill Flower said the public at large was never in danger. </P>
+<P> ``The perimeter is secure. The perimeter was always secure,'' Flower said. </P>
+<P> ``We are now working hard to stabilize the situation,'' he said. </P>
+<P> Guards were not able to quickly take command because inmates are held in dormitories, not cells, and are able to gather in large numbers. </P>
+<P> At one point more than a dozen prisoners -- carrying clubs and wearing shirts around their heads to avoid identification - - chased another prisoner across a recreation yard, knocked him down and beat him. </P>
+<P> Dramatic television film footage showed the chase and the beating. </P>
+<P> Several squads of special police tactical units entered the prison and many inmates were bused away. </P>
+<P> But television newscasts showed that about 12 ambulances had been summoned to the prison, as well as a rescue helicopter. </P>
+<P> Connecticut prisons have in recent months been swept by gang-related violence. </P>
+<P> Such violence was at the heart of the closure last month in Connecticut of the nation's first boot-camp style rehabilitation center for troubled teen-agers. </P>
+<P> Residents of Enfield, located about 18 miles north of Hartford, said they were concerned that it took 80 minutes for the community to be warned that there as a disturbance at the prison. </P>
+<P> A special warning system using beepers has been installed in homes near the prison, but it was not activated until after Enfield residents had alreadly learned of the riot through news reports. </P>
+</TEXT>
+</DOC>

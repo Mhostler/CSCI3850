@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0137.941217</DOCID>
+<TDTID>TDT008092</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/17/94 01:01</DATE>
+<TITLE> U.S. military helicopter down in N.Korea - Pentagon</TITLE>
+<HEADLINE> U.S. military helicopter down in N.Korea - Pentagon</HEADLINE>
+<SUBJECT> BC-KOREA-HELICOPTER-PENTAGON 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>  (Eds: adding details)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  An OH-58 U.S. military scout helicopter made an emergency landing in North Korea at about 9.15 p.m. EST Friday (0215 GMT Saturday), the Defense Department said. </P>
+<P> ``CINCPAC (Commander in Chief of U.S.-Pacific Forces) reports than an OH-58 helicopter made an emergency landing in North Korea,'' Defense Department spokesman Ken Bacon told Reuters. </P>
+<P> He said the North Koreans reported they had shot down a helicopter but there was no immediate confirmation of that report.  ``There were two people on board,'' said Bacon. ``We lost radar contact with the helicopter about 9:15 EST (0215 GMT).'' </P>
+<P> ``Independently, the North Koreans report they have shot down a helicopter, but we have it now as an emergency landing,'' he added. </P>
+<P> ``The reports are obviously preliminary and we are investigating to find more information as fast as possible.'' </P>
+<P> Tensions along the demilitarized zone between North and South Korea have remained high for decades since the Korean War 40 years ago. </P>
+<P> However, U.S.-North Korean ties have warmed somewhat in recent months with the signing of an agreement for North Korea to abandon its alleged nuclear weapons program and replace its current reactors with less-threatening electric power sources with major financial and technical aid expected from South Korea, Japan and the United States. </P>
+</TEXT>
+</DOC>

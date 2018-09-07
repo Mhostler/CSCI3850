@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU007-0081.941214</DOCID>
+<TDTID>TDT007962</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 20:26</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-PLAN-CLINTON -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> U.S. officials said Carter had spoken by telephone with President Clinton twice about the situation in recent days, most recently Wednesday afternoon. </P>
+<P> ``While we are skeptical about the Bosnian Serbs' intentions, if the steps outlined by (Bosnian Serb leader Radovan) Karadzic are implemented, they would help reduce tensions and ease the humanitarian situation in Bosnia. The next step would be agreement among the parties on a country-wide cease-fire and renewed negotiations on a political settlement,'' the White House statement said. </P>
+<P> It added that Carter had ``indicated that, if he goes to Bosnia, he would do so as a representative of the Carter Center, and that he would do so only if there were clear evidence that the commitments outlined by Karadzic were being fulfilled.'' </P>
+</TEXT>
+</DOC>

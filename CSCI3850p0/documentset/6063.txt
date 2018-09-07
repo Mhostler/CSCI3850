@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU016-0291.950426</DOCID>
+<TDTID>TDT013097</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/26/95 12:50</DATE>
+<TITLE> Scientists begin search for weight-control protein</TITLE>
+<HEADLINE> Scientists begin search for weight-control protein</HEADLINE>
+<SUBJECT> BC-BRITAIN-FAT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Weight-conscious people could soon swap their diet books and running shoes for doses of a slimming protein, experts said Wednesday. </P>
+<P> A senior doctor with the British Institute of Psychiatry told a conference on eating disorders that British scientists are trying to locate a weight-controlling gene protein. </P>
+<P> Researchers believe the gene may be responsible for some forms of obesity in mice. The related protein was found to be nearly identical in humans, and experts believe it may influence human weight characteristics. </P>
+<P> ``It is a fascinating discovery and needs a lot more work,'' said Dr. Janet Treasure. ``It may be possible in future, if that is what we insist on, to make everyone very similar in terms of weight.'' </P>
+</TEXT>
+</DOC>

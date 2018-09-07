@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU009-0022.950317</DOCID>
+<TDTID>TDT011374</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/17/95 12:30</DATE>
+<TITLE> Counsel concerned by Republican inquiries</TITLE>
+<HEADLINE> Counsel concerned by Republican inquiries</HEADLINE>
+<SUBJECT> BC-WHITEWATER-CONGRESS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The independent counsel investigating the Whitewater affair is concerned by requests for information from the Republican staff of the House Banking Committee, Democrats said Friday. </P>
+<P> Committee Democrats released a letter from Independent Counsel Kenneth Starr to House Banking Committee Chairman James Leach, R-Iowa, which warned the requests could hamper the investigation of President Clinton's investment in an Arkansas land deal a decade ago. </P>
+<P> In the March 13 letter, Starr said the committee staff had requested material about the independent counsel's dealings with the White House and other executive agencies including letters and notes of conversations. </P>
+<P> The committee is also investigating Whitewater, and Starr said he did not want to limit its access to material. </P>
+<P> ``I am very concerned, however, by these apparent efforts to investigate or inquire into the Office of Independent Counsel's conduct of its investigations, especially while those investigations are still pending,'' Starr wrote Leach. </P>
+<P> ``You will understand, I am sure, the potentially chilling effect such congressional scrutiny will have on the OIC's dealings with the agencies. In addition, this type of oversight risks compromising the proceedings of the grand jury investigations through disclosure of attorney communications on behalf of the grand jury. </P>
+<P> ``Most importantly, it is difficult to imagine why the committee requires access to such material in order to investigate the underlying matters at issue,'' Starr added. </P>
+<P> In a separate letter, 10 committee Democrats urged Leach to instruct the majority staff to stop the requests for material that have upset Starr. ``Justice should be served first; politics can wait,'' they said. </P>
+<P> The Senate Banking Committee, also controlled by Republicans, is also investigating Whitewater. Both committees may hold hearings later this year. </P>
+<P> The probe involves an investment by Clinton and his wife in the Whitewater vacation resort development with James McDougal and his wife and whether McDougal got special treatment from Arkansas regulators for the savings and loan association he owned, which later failed. </P>
+</TEXT>
+</DOC>

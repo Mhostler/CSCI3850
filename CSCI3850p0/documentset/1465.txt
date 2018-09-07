@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU009-0133.940918</DOCID>
+<TDTID>TDT003621</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/18/94 20:03</DATE>
+<TITLE> Carter asks extension of mission, CNN reports</TITLE>
+<HEADLINE> Carter asks extension of mission, CNN reports</HEADLINE>
+<SUBJECT> BC-HAITI-USA-EXTENSION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Former President Jimmy Carter has asked to extend his mission in Haiti by a few hours for a final effort to broker a deal with the military leaders and stave off a U.S. military invasion, CNN said Sunday. </P>
+<P> CNN quoted White House sources as saying Carter had made ''significant progress'' in narrowing the positions in two days of talks with Haiti's military leaders and said he informed President Clinton that he thinks it's worth staying ``perhaps several more hours.'' </P>
+<P> The United States has said its military force massed off Haiti's shores will invade shortly unless the three main Haitian military commanders step down. Carter's sole mission was to discuss the ``modalities'' of their departure, senior U.S. officials said. </P>
+<P> ``They have made serious progress ... but a deal is not yet there,'' CNN's White House reporter Wolf Blitzer said. </P>
+<P> Speaking in early evening, he said Carter had initially been scheduled to leave in mid-afternoon and the White House had originally been reluctant to extend his talks further. </P>
+<P> Carter's diplomatic mission was a last-ditch effort to avoid the need for an invasion to restore exiled President Jean-Bertrand Aristide to power. U.S. officials have said, however, that U.S. forces will go in even if the junta steps down, to ensure a stable resumption of power by Aristide. </P>
+</TEXT>
+</DOC>

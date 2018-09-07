@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU008-0061.950511</DOCID>
+<TDTID>TDT013691</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/11/95 12:51</DATE>
+<TITLE> Oregon state workers strike in fourth day</TITLE>
+<HEADLINE> Oregon state workers strike in fourth day</HEADLINE>
+<SUBJECT> BC-STRIKE-OREGON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PORTLAND, Ore.(Reuter) </DATELINE>
+<P>  A strike by more than 17,000 Oregon state employees entered its fourth day Thursday after the two sides made no progress in negotiations over wages. </P>
+<P> The strike by the Oregon Public Employees Union, which represents more than a third of all state workers, continued despite some published reports that the union planned to end the walkout after three days and then continue sporadic work stoppages if needed. </P>
+<P> State officials issued a memorandum threatening to lock out any employees who returned to work and then walked out again, said union spokesman Bentley Gilbert, who said such a lockout would be illegal. He declined to divulge the union's plans. </P>
+<P> ``We've said there will be strike activities until we get a settlemen,'' Gilbert said. </P>
+<P> An eight-hour bargaining session called by a state mediator Wednesday ended with the two sides still far apart. </P>
+<P> Unionized workers, who say they have not had a raise in two years, are demanding a 6.5 percent pay increase. The state has offered a 2 percent across-the-board hike, increasing to as much as 5 percent for certain workers, said Mark Fryburg of the state Department of Administrative Services. </P>
+<P> The union's current contract expires June 30. The strike has forced the shutdown of drivers license bureaus across the state and has disrupted service at state agencies and colleges and universities. </P>
+</TEXT>
+</DOC>

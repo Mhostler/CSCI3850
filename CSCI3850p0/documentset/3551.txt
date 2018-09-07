@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0274.950103</DOCID>
+<TDTID>TDT008803</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/03/95 10:01</DATE>
+<TITLE> Sixteen prisoners killed in Guinea jail</TITLE>
+<HEADLINE> Sixteen prisoners killed in Guinea jail</HEADLINE>
+<SUBJECT> BC-GUINEA-JAIL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CONAKRY, Guinea (Reuter) </DATELINE>
+<P>  Sixteen prisoners were killed in a fight at Conakry's central prison over the weekend, State Prosecutor Andre Leno said Tuesday. </P>
+<P> Leno told reporters the detainees had been arrested recently in a crackdown on armed robbers. </P>
+<P> ``It all started when certain detainees accused others of having denounced them to the police,'' Leno said. ``The outcome was a collective assassination.'' </P>
+<P> Police sources said 28 bandits were arrested between Christmas and New Year, including a group blamed for at least 11 murders in the west African country. </P>
+<P> Speaking on Guinean television after their arrest, some of the detainees threatened to name senior figures they said were involved in crime. </P>
+</TEXT>
+</DOC>

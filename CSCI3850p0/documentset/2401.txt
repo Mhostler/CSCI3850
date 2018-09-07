@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU002-0265.941104</DOCID>
+<TDTID>TDT006038</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/04/94 02:41</DATE>
+<TITLE> Meciar edges toward power as Slovak premier quits</TITLE>
+<HEADLINE> Meciar edges toward power as Slovak premier quits</HEADLINE>
+<SUBJECT> BC-SLOVAKIA-ELECTION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRATISLAVA, Slovakia (Reuter) </DATELINE>
+<P>  Slovak Prime Minister Jozef Moravcik has formally resigned, state television reported, bringing his predecessor Vladimir Meciar a step closer to regaining power eight months after he was ousted. </P>
+<P> Slovak television reported late Thursday that Moravcik, whose centrist coalition has ruled since Meciar lost a parliamentary no-confidence vote in March, had submitted his government's resignation to President Michal Kovac. </P>
+<P> Kovac accepted the resignation but asked Moravcik to stay on as a caretaker in the absence of a new government, which has still not been formed five weeks after parliamentary elections. </P>
+<P> Meciar's Movement for a Democratic Slovakia (HZDS) took more than a third of the votes in the elections but weeks of negotiations produced no coalition partners apart from the far-right Slovak National Party. </P>
+<P> Together they commanded only 70 of the 150 seats in parliament. But the Czech news agency CTK reported that they had formed a pact with the Slovak Workers' Party, which won 13 seats on a platform of championing the rights of workers who have missed out in Slovakia's move from state socialism to a market economy. </P>
+<P> The Workers' Party had previously said it was not interested in joining a coalition led by Meciar, a flamboyant nationalist who campaigned against wholesale privatization and was ousted in March. </P>
+<P> Privatization, a key part of free market reforms following the 1989 fall of communism, ground to a virtual halt under Meciar. </P>
+<P> But since March Moravcik has rushed through a number of privatizations as well as attempting to restore international financial confidence in the country. </P>
+</TEXT>
+</DOC>

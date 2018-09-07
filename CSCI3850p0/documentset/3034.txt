@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0205.941206</DOCID>
+<TDTID>TDT007531</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/06/94 21:45</DATE>
+<TITLE> Partridge in a pear tree still costs the same</TITLE>
+<HEADLINE> Partridge in a pear tree still costs the same</HEADLINE>
+<SUBJECT> BC-CHRISTMAS-INFLATION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A partridge in a pear tree still costs the same as it did last year, but the price of five gold rings went up slightly during the last 12 months, according to an annual study released Tuesday by PNC Bank Corp. </P>
+<P> The bank said its ``Christmas Price Index'', which has tracked the cost of all the gifts in the beloved holiday song, ''The Twelve Days of Christmas'' since 1984, went up a scant 1.16 percent to $15,944.20 this year from December 1993. </P>
+<P> Nearly half that amount -- a staggering $7,000 -- goes to pay for the seven swans-a-swimming, the bank said. </P>
+<P> A partridge in a pear tree costs an unchanged $34.00 this year, and the unchanged minimum wage kept the cost of eight maids-a-milking at $34. </P>
+<P> ``The Christmas Price Index tells us that the general trend in inflation is flat,'' said J. Patrick Bradley, chief economist of PNC Asset Management Group in Philadelphia. </P>
+<P> ``According to our calculations, inflation is and will remain under control in 1995,'' Bradley said. </P>
+<P> Bradley said one key factor keeping inflation low was the absence of upward pressure on wages. </P>
+<P> Nine ladies dancing still cost $2,606.83 and 10 lords-a-leaping are stable at $3,012.63, but a musician's union said the cost of 11 pipers piping and 12 drummers drumming rose 2.6 percent this year. </P>
+<P> At $450, five gold rings were the only gift that rose sharply in 1994, up a robust 38.5 percent from last year's $325. </P>
+<P> But Bradley said the increase occurred since the jewelry store that supplies the prices redesigned its plain gold wedding band and added more gold. </P>
+<P> International gold prices actually increased only two percent from a year ago, he said. </P>
+</TEXT>
+</DOC>

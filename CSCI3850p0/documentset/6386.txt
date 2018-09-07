@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU006-0125.950509</DOCID>
+<TDTID>TDT013582</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/09/95 03:36</DATE>
+<TITLE> Suharto speaks on key Indonesian media case</TITLE>
+<HEADLINE> Suharto speaks on key Indonesian media case</HEADLINE>
+<SUBJECT> BC-INDONESIA-MEDIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JAKARTA, May 9 (Reuter) </DATELINE>
+<P>  President Suharto said on Tuesday Indonesia must respect the government's decision to appeal against a court decision in favour of the banned Tempo magazine. </P>
+<P> ``He (the president) said that in order to uphold justice and rights the process of appeal must be respected,'' Information Minister Harmoko told reporters after meeting President Suharto. </P>
+<P> ``This process is not final yet. I have signed an appeal. The president has agreed to the steps that have been taken by information Ministry for appeal,'' Harmoko added. </P>
+<P> The Jakarta Administrative Court last week upheld suits by Tempo founder Goenawan Mohamad and Tempo employees, saying the publishers had not been allowed to defend themselves against a ban last June that affected two other weeklies. </P>
+<P> Harmoko closed down the three political weeklies because he said they had endangered national stability. </P>
+<P> Indonesia's media, largely muzzled for the past year, was euphoric over winning at least a symbolic victory with the decision that suprised most academics and journalists. </P>
+<P> But few expect an immediate rebirth for Tempo or sudden easing up on existing publications now. </P>
+<P> There is also a growing fear among journalists Harmoko's appeal will succeed. </P>
+<P> A different court on Monday rejected a suit filed by Tempo employees against Harmoko seeking $420,000 in compensation for lost wages. The Central Jakarta Court said it had no jurisdiction over the matter. </P>
+<P> The media has long been a key voice for change in Indonesia, firmly ruled by former general Suharto since the chaotic 1960s. </P>
+</TEXT>
+</DOC>

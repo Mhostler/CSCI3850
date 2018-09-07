@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU013-0091.950324</DOCID>
+<TDTID>TDT011662</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/24/95 14:56</DATE>
+<TITLE> Israel censor allows new details on nuclear spy</TITLE>
+<HEADLINE> Israel censor allows new details on nuclear spy</HEADLINE>
+<SUBJECT> BC-NUCLEAR-VANUNU </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Army censors have eased stiff curbs on Israeli media reports of the 1986 capture of nuclear technician Mordechai Vanunu, abducted to Israel for trial after he leaked secrets of the Jewish state's atomic program. </P>
+<P> Vanunu, lured by Israeli agents from London to Rome and forcibly taken by ship to Israel, was secretly convicted of treason for passing the Sunday Times of London pictures of a nuclear complex near the southern town of Dimona. </P>
+<P> Haifa's Kolbo weekly published Friday said agents of Israel's Mossad brought Vanunu aboard the ship drugged, and held him in a cabin below deck during most of the voyage. </P>
+<P> Kolbo, quoting unnamed sailors on board, said Vanunu's identity was kept secret from the crew. </P>
+<P> A military censor confirmed that the report, which also appeared in the paper's sister weeklies in other cities, contained details previously censored. </P>
+<P> ``An article from the Shoken publishing chain was submitted to the censor, reviewed and corrected,'' he said. ``The story contains new details.'' He did not elaborate. </P>
+<P> News organizations in Israel are required to submit all matter deemed militarily ``sensitive'' to army censors, who are authorised to delete parts of it or suppress it altogether. </P>
+<P> Vanunu, a former technician at Dimona, told the Sunday Times that Israel had an arsenal of 200 nuclear warheads. </P>
+<P> In a secret trial, Vanunu was sentenced to 18 years in prison, where he has been held in solitary confinement. </P>
+<P> Israel, which is widely believed to be a nuclear power, neither confirms nor denies possessing atomic weapons. It says only that it will not be the first country to introduce nuclear weapons to the Middle East. </P>
+</TEXT>
+</DOC>

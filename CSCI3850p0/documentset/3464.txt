@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU012-0116.941228</DOCID>
+<TDTID>TDT008552</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/28/94 06:42</DATE>
+<TITLE> Assad arrives in Egypt for talks with Mubarak</TITLE>
+<HEADLINE> Assad arrives in Egypt for talks with Mubarak</HEADLINE>
+<SUBJECT> BC-MIDEAST-EGYPT-ASSAD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>ALEXANDRIA, Egypt (Reuter) </DATELINE>
+<P>  President Hafez al-Assad of Syria arrived in Egypt Wednesday for talks with President Hosni Mubarak. </P>
+<P> Assad and senior officials arrived in two planes and were to head to the Montazah presidential palace to meet Mubarak. Authorities have given no details about the meeting. </P>
+<P> Officials at Alexandria airport, asked about reports that Libyan leader Muammar Gaddafi and King Fahd of Saudi Arabia would also travel to Egypt for a mini-summit, said they had no confirmation yet that other heads of state would be arriving. </P>
+<P> Libyan and Saudi diplomats in Cairo declined to comment. </P>
+<P> Egyptian officials said Tuesday that Gaddafi would visit Egypt for talks with Mubarak on the Lockerbie dispute and other matters. </P>
+<P> Egypt has been trying to persuade the West to accept Libya's latest proposal for an end to the dispute over two Libyans accused of planting a bomb on a U.S. airliner which blew up over the Scottish town of Lockerbie in December 1988. </P>
+<P> But Britain and the United States have dismissed the proposal -- to try the men in a special Scottish court at the premises of the International Court of Justice. They say the men must face trial in Scotland or the United States. </P>
+<P> A solution would bring an end to more than two-and-a-half years of U.N. sanctions against Libya, including a highly inconvenient ban on flights into or out of the country. </P>
+<P> Under the Libyan proposal, Libya might hand the two men over to the Arab League in Cairo but Egypt has reservations about this because of the possible legal complications. </P>
+</TEXT>
+</DOC>

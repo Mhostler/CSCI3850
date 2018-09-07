@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU010-0196.941121</DOCID>
+<TDTID>TDT006837</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/21/94 23:47</DATE>
+<TITLE> Chinese scientists breed ``superfish''</TITLE>
+<HEADLINE> Chinese scientists breed ``superfish''</HEADLINE>
+<SUBJECT> BC-CHINA-SUPERFISH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BEIJING (Reuter) </DATELINE>
+<P>  Chinese geneticists say they have managed to accelerate fish growth rates by 20 percent through transplantation of cattle genes. </P>
+<P> The breakthrough was achieved at the state-financed Aquatic Institute in Harbin, capital of northeastern Heilongjiang province, the State Science Commission announced Tuesday. </P>
+<P> ``Some 1.5 million (carp) fries... were raised in Harbin, Suihua city and Hulan county in the spring of this year, and all of them are now growing well,'' Xinhua news agency quoted a commission official as saying. </P>
+<P> Institute geneticists have raised 400 breeding fish and hope to produce a new species of ``super fish'' with growth rates boosted by 30 percent. </P>
+<P> Some scientists apparently believe human genes could be the secret to the superfish program, but have held back on what they regard as an overly controversial approach. </P>
+<P> ``For ethical reasons, scientists have been reluctant to attempt to transplant human genes into fish, so the institute tried cattle and sheep genes,'' Xinhua said. </P>
+<P> Transplanting cattle genes into fish poses no such ethical dilemmas or health hazards, the institute said. </P>
+<P> ``Fish with genes from other living things pose no harm to human beings,'' the institute said. </P>
+</TEXT>
+</DOC>

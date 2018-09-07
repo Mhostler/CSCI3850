@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0031.950510</DOCID>
+<TDTID>TDT013628</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/10/95 04:17</DATE>
+<TITLE> Man shot atop Golden Gate Bridge</TITLE>
+<HEADLINE> Man shot atop Golden Gate Bridge</HEADLINE>
+<SUBJECT> BC-BRIDGE-STANDOFF 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>    (Updates, adds CHP comments)</NOTES>
+<DATELINE>SAN FRANCISCO (Reuter) </DATELINE>
+<P>  A man was shot and seriously wounded in a standoff with police atop the Golden Gate Bridge late Tuesday, forcing the temporary closure of the famed landmark, police said. </P>
+<P> The man, who has yet to be identified, was taken to San Francisco General Hospital, where he is in critical condition with multiple gunshot wounds. </P>
+<P> Responding to a report at about 8:30 p.m. PST, California Highway Patrol officers confronted the man, who police said appeared to be suicidal and armed with a handgun. </P>
+<P> San Francisco police sent hostage and suicide intervention specialists to negotiate with the man. </P>
+<P> ``They engaged him in conversation while attempting to talk him down,'' said California Highway Patrol Officer Geraldo Monge. ``He made furtive movements'' with an object that ''resembled a weapon'' and was shot by officers, he said.  No officers were wounded. Investigators could not confirm early Wednesday whether the man was carrying a real gun. </P>
+<P> Police said the bridge was slowly being reopened to traffic after being closed for several hours, causing huge traffic tie-ups. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU005-0376.950210</DOCID>
+<TDTID>TDT010301</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/10/95 10:20</DATE>
+<TITLE> White House decries Republican stance on Foster</TITLE>
+<HEADLINE> White House decries Republican stance on Foster</HEADLINE>
+<SUBJECT> BC-CLINTON-SURGEON-ATTACK </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The White House Friday charged that abortion foes have developed ``a taste for ... blood'' in the fight over Henry Foster as surgeon general and claimed their views will dominate Republican presidential politics. </P>
+<P> White House Press Secretary Mike McCurry, lamenting the stiff opposition stirred by the Foster nomination, said, ''Ultimately, this fight is not about all the extraneous issues that are being cited. It is fundamentally about a woman's right to choose.'' </P>
+<P> McCurry added: ``There is an extreme right-to-life view that seems to be taking hold in the Republican majority in Congress and I suspect that view now will dominate presidential politics on the Republican side.'' </P>
+<P> ``You can easily see the emergence now of the dynamic in which these groups, having a taste for the blood of this fight, will now work to make this a dominant issue on the Republican political agenda.'' </P>
+</TEXT>
+</DOC>

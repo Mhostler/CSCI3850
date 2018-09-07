@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU007-0218.950314</DOCID>
+<TDTID>TDT011274</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/14/95 12:05</DATE>
+<TITLE> Attorney general seeks prosecutor for Cisneros</TITLE>
+<HEADLINE> Attorney general seeks prosecutor for Cisneros</HEADLINE>
+<SUBJECT> BC-CISNEROS-COUNSEL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Attorney General Janet Reno announced Tuesday she had decided to seek the appointment of an independent counsel to investigate payments Housing Secretary Henry Cisneros made to his ex-mistress. </P>
+</TEXT>
+</DOC>

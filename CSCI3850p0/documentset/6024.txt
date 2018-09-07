@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU015-0321.950425</DOCID>
+<TDTID>TDT013026</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/25/95 09:29</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-TRIBUNAL-RUSSIA -2 MOSCOW </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The International Criminal Tribunal for former Yugoslavia, based in The Hague, said Bosnian Serb leader Radovan Karadzic, army commander Ratko Mladic, and former secret police chief Mico Stanisic were being investigated as war crimes suspects. </P>
+<P> The foreign ministry official told Interfax it was more productive to search for a political settlement than to ``stir the past.'' </P>
+<P> Russian Foreign Minister Andrei Kozyrev said last week his ministry often used ``an unnamed diplomat'' formula to express its opinion. Russia is often more sympathetic to Serbs, fellow Slavs and Orthodox Christians, than the West. </P>
+</TEXT>
+</DOC>

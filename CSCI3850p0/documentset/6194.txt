@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0185.950501</DOCID>
+<TDTID>TDT013322</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/01/95 15:10</DATE>
+<TITLE> Clinton urges Senate confirmation of Foster</TITLE>
+<HEADLINE> Clinton urges Senate confirmation of Foster</HEADLINE>
+<SUBJECT> BC-FOSTER-CLINTON 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Monday strongly defended Henry Foster as his choice to become Surgeon General ahead of Senate confirmation hearings that begin Tuesday. </P>
+<P> ``If we can't confirm Henry Foster to be the surgeon general of the United States, what kind of person can we confirm?'' Clinton said in an impassioned speech to Foster supporters. </P>
+<P> Clinton staged an event in the Roosevelt Room for Foster and teen-agers, parents and clergy who have benefited from the ``I Have a Future'' program that Foster headed in the public housing developments of Nashville, Tenn. </P>
+<P> Clinton wiped away tears as he listened to two young people describe how the program had helped them develop self-esteem and encouraged them to get an education. </P>
+<P> Referring to Republican criticism of Foster having performed abortions, Clinton said that ``We're not going to let this good man be put in a little box for somebody's political objectives.'' </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU007-0282.941014</DOCID>
+<TDTID>TDT005049</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/14/94 14:34</DATE>
+<TITLE> Hume proposes peace fund for Northern Ireland</TITLE>
+<HEADLINE> Hume proposes peace fund for Northern Ireland</HEADLINE>
+<SUBJECT> BC-IRISH-FUND </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRUSSELS, Belgium (Reuter) </DATELINE>
+<P>  Moderate Northern Ireland nationalist John Hume has urged the European Commission and the United States to create a peace fund for the province to help the newly won peace there last. </P>
+<P> ``A fund for peace in Ireland backed by the Commission and the U.S. authorities would provide an essential stimulus to economic development in the areas affected by the conflict,'' he said in a statement. </P>
+<P> The suggestion comes on the heels of separate cease-fires recently declared by the Irish Republican Army and Protestant militias in Northern Ireland. </P>
+<P> ``Such a fund would provide grants and loans, designed to provide leverage for much greater private and public investment than could be provided by the Commission directly,'' Hume, the leader of the moderate Catholic SDLP party, said. </P>
+<P> Under a plan submitted Friday by Hume to the first meeting of an European Union task force on Northern Ireland, the fund would also raise money by selling peace bonds, particularly in U.S. capital markets. The Commission is the governing body of the EU. </P>
+<P> The fund would also set a target of providing loans for an extra $1.2 billion in investment and additional economic activity a year. </P>
+</TEXT>
+</DOC>

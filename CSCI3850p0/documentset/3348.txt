@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU009-0322.941220</DOCID>
+<TDTID>TDT008245</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/20/94 18:22</DATE>
+<TITLE> Federal court dismisses Florida immigration suit</TITLE>
+<HEADLINE> Federal court dismisses Florida immigration suit</HEADLINE>
+<SUBJECT> BC-IMMIGRATION-FLORIDA 1STLD </SUBJECT>
+<AUTHOR>     By Jim Loney </AUTHOR>
+<TEXT>
+<NOTES>(Recasts, adds quotes, details)</NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  Florida's attempt to force the federal government to give it more money to pay for services for illegal aliens was dealt a blow Tuesday when a federal judge dismissed the state's lawsuit seeking more than $1 billion in reimbursement. </P>
+<P> U.S. District Judge Edward Davis ruled that immigration -- and the cost associated with it -- is a political issue and is ''clearly beyond the judiciary's authority.'' </P>
+<P> In the ruling, Davis said he was unable to determine when an influx of immigrants ``reaches the point at which it invades the State of Florida's state sovereignty.'' </P>
+<P> The state filed the lawsuit in April, accusing the federal government of failing to protect its borders, thereby encouraging a continued influx of undocumented immigrants into Florida. </P>
+<P> The suit said Florida spends nearly $1 billion a year on services such as education, medical care and welfare for illegal aliens, and on jailing illegal immigrants who commit crimes. </P>
+<P> Florida Gov. Lawton Chiles vowed to appeal the ruling, which he called a ``temporary setback in our efforts to bring immigration justice to Florida's communities.'' </P>
+<P> At the time the suit was filed, Chiles estimated there were 350,000 undocumented aliens living in Florida, a state of some 13 million residents. </P>
+<P> The ruling disappointed local officials in Miami, where thousands of refugees from Cuba, Haiti and Central American nations crowd schools, hospitals and other public institutions. </P>
+<P> ``We hoped the lawsuit would have resulted in dollars for education programs and that did not materialize,'' said Dr. Henry Fraind, assistant superintendent for the Dade County Public School system, one of the nation's largest. </P>
+<P> Fraind said 26 percent of the 322,000 children in the county's public schools are foreign born, and most must be taught English. </P>
+<P> The INS has estimated that 85 percent of all undocumented aliens in the United States live in six states -- Florida, California, New York, Texas, Illinois and New Jersey. California Gov. Pete Wilson said the ruling in the Florida case has ``limited revelance'' to an immigration lawsuit filed by his state against the federal government because ``the vast majority of California's claims weren't even raised in the Florida case.'' </P>
+</TEXT>
+</DOC>

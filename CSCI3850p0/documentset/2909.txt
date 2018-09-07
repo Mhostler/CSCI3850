@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU013-0302.941130</DOCID>
+<TDTID>TDT007220</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/30/94 02:18</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-BRITAIN-SHIP -2 LONDON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> The fire broke out in the accommodation section of the liner, the BBC report said. A coast guard official in Falmouth, southwestern Britain, quoted reports saying the ship was listing 20 degrees. </P>
+<P> The Achille Lauro made world headlines in 1985 when pro-Palestinian guerrillas seized the vessel in the Mediterranean. An elderely Jewish passenger died in the drama. </P>
+</TEXT>
+</DOC>

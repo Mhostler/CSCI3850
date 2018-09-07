@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU003-0168.940805</DOCID>
+<TDTID>TDT001533</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/05/94 18:15</DATE>
+<TITLE> U.S. SEEKS CLEAN WATER IN ALL RURAL HOMES</TITLE>
+<HEADLINE> U.S. SEEKS CLEAN WATER IN ALL RURAL HOMES</HEADLINE>
+<SUBJECT> BC-USA-WATER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FALLS MILLS, Va (Reuter) </DATELINE>
+<P>  More than 500,000 households in rural areas of the United States are still hauling water to their homes from springs and other sources. </P>
+<P> To kickstart his campaign for ``Water 2000 -- a faucet in every home,'' Agriculture Secretary Mike Espy travelled to this small community in the foothills of the Appalachian Mountains, just 340 miles from Washington D.C. </P>
+<P> Espy turned on the first chlorinated water this coal mining community has ever had. </P>
+<P> ``In the greatest country on earth, more than one half million rural American households still seek clean, running water in their homes,'' Agriculture Secretary Mike Espy said. ''Such conditions are deplorable.'' </P>
+<P> Based on the 1990 census, total households (including unoccupied) with incomplete plumbing measure 1.1 million nationwide, with 587,000 households in rural areas. </P>
+</TEXT>
+</DOC>

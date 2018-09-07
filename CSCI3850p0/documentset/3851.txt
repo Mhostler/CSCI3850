@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU008-0437.950119</DOCID>
+<TDTID>TDT009524</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/19/95 16:13</DATE>
+<TITLE> Snow storm shuts down Missouri, parts of Midwest</TITLE>
+<HEADLINE> Snow storm shuts down Missouri, parts of Midwest</HEADLINE>
+<SUBJECT> BC-WEATHER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>COLUMBIA, Mo.(Reuter) </DATELINE>
+<P>  More than a foot of wet, heavy snow shut down highways, schools and businesses in Missouri Thursday and dumped a mixture of rain and snow from the Mississippi River to Michigan, authorities said. </P>
+<P> ``The highways closed themselves -- what with all the cars stuck,'' Columbia police chief Earnest Barbee said. </P>
+<P> Columbia, in the center of the state, recorded 13 inches of snow. Government workers in the state capital of Jefferson City went home early and Interstate 70 in Missouri was effectively closed by blowing and drifting snow. </P>
+<P> But Barbee said accidents were relatively minor because conditions prevented drivers from gaining speed. </P>
+<P> Iowa police reported that visibility was near zero along Interstate 80 and other highways on its eastern border with the Mississippi River. At least five highways in western Illinois were closed by snow, police there said. </P>
+<P> The band of snow extended from the Ozark Mountains up through southern Wisconsin, while rain turning to snow fell from Chicago eastward. A messy mix of rain and snow pelted Chicago's O'Hare International Airport where blustery winds and a low ceiling added to problems that caused flight delays of up to 90 minutes. </P>
+<P> The storm started out as a minor front early this week that largely passed by flood-stricken California but it picked up moisture and energy from the Gulf of Mexico before steamrolling into the Midwest. </P>
+<P> ``There's so little cold air to work with so it tends to be a heavy, wet snow that's difficult to move around with shovels or plows,'' said forecaster Mike Palmerino of Weather Services Corp. He said snow will extend into Ontario, Canada, while the U.S. East Coast, where recent record-high temperatures have felt more like spring than winter, will receive rain. </P>
+</TEXT>
+</DOC>

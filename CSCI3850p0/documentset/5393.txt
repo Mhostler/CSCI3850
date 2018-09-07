@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0307.950402</DOCID>
+<TDTID>TDT012027</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/02/95 14:30</DATE>
+<TITLE> Colombia uncovers plot to kill state officials</TITLE>
+<HEADLINE> Colombia uncovers plot to kill state officials</HEADLINE>
+<SUBJECT> BC-COLOMBIA-PLOT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOGOTA, Colombia (Reuter) </DATELINE>
+<P>  Colombian intelligence agents have uncovered a plot by imprisoned drug traffickers to assassinate senior government officials, including the prosecutor general, a radio report said Sunday. </P>
+<P> Deputy Prosecutor General Adolfo Salamanca said in an interview with the Caracol radio network Sunday that traffickers had been plotting inside their prison cells to kill key officials in the Justice Ministry, national police and prosecutor-general's office, including Alfonso Valdivieso who heads it. </P>
+<P> ``We have some intelligence reports that show that alliances exist between drug traffickers and paramilitary groups to organize some kind of attempt to destabilize institutions,'' he said. </P>
+<P> Salamanca said security forces had taken the necessary precautions to thwart any attempts on the lives of the officials. </P>
+</TEXT>
+</DOC>

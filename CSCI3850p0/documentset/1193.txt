@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU003-0128.940906</DOCID>
+<TDTID>TDT002967</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/06/94 18:43</DATE>
+<TITLE> Air Force fights to save stealth missile</TITLE>
+<HEADLINE> Air Force fights to save stealth missile</HEADLINE>
+<SUBJECT> BC-USA-MISSILE </SUBJECT>
+<AUTHOR>     By Charles Aldinger </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The U.S. Air Force Tuesday ripped the top secret wrapping from a new radar-evading cruise missile in hopes of saving the $13.3 billion program from the defense budget axe. </P>
+<P> Air Force officials released a test flight videotape of the 14-foot standoff attack missile being developed for the Air Force and Navy. It has a range of over 100 miles and has been tested against ground targets twice this year from Air Force and Navy fighters. </P>
+<P> The Air Force held a highly-unusual press conference at the Pentagon to release details of what was previously a highly-classified ``black program''. </P>
+<P> The U.S. military wants to build more than 4,100 of the stealthy conventional-warhead missiles at a cost of over $2 million each. They would help protect aircraft crews because they could be launched far from heavily-defended targets. </P>
+<P> But the program, including research and development, would cost a total of $13.3 billion and it is in trouble in Congress as defense budgets are slashed. </P>
+<P> The Army has already withdrawn from the so-called Tri-Service Standoff Attack Missile (TSSAM) program, but Air Force Brigadier General Richard Roellig told Tuesday's press conference that the Air Force and Navy planned to go ahead if funding is provided. </P>
+<P> The missile is powered by a turbofan motor and is guided to its target by a computer brain while using special construction materials and a special shape to avoid radar detection. </P>
+<P> Despite a series of test schedule problems in the early stages of the program, Roellig defended the performance of prime contractor Northrop Corp and said the TSSAM had a 70 percent success rate to date, equal to other missile programs at this stage of development. </P>
+<P> Roellig, director of the TSSAM program, said it could be produced at a rate of about 25 a year under current plans and that production rate could be increased to about 500 a year within 10 years. </P>
+<P> Officials said the Air Force hopes that a long-lead production decision will be made in January of 1996. </P>
+<P> The Air Force wants to buy 3,631 of the missiles at about $2 million each and the Navy wants 525 at about $2.3 million each. </P>
+</TEXT>
+</DOC>

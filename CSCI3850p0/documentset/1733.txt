@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0029.941001</DOCID>
+<TDTID>TDT004298</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/01/94 06:35</DATE>
+<TITLE> Kurdish rebels kill eight Turkish soldiers in raid</TITLE>
+<HEADLINE> Kurdish rebels kill eight Turkish soldiers in raid</HEADLINE>
+<SUBJECT> BC-TURKEY-KURDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TUNCELI, Turkey (Reuter) </DATELINE>
+<P>  Dozens of separatist Kurdish guerrillas raided a police station in eastern Turkey, killing eight soldiers, military officials said Saturday. </P>
+<P> As many as 80 to 100 armed rebels stormed the police station Friday night in the Ovacik district of the eastern province of Tunceli, where about 15,000 troops have been carrying out a two-week offensive against the Kurdistan Workers Party. </P>
+<P> In a separate engagement, five rebels, including three women, were killed by security forces in the Hel mountains near the town of Erzincan, Anatolian news agency said. </P>
+<P> Officials said some of the troops engaged in the Tunceli sweep had been diverted to the Ovacik area to pursue rebel forces there. </P>
+<P> On Friday security forces said they had killed two senior guerrilla leaders as part of operations in Tunceli. </P>
+<P> Officials said the Tunceli offensive had turned into the biggest military operation of the 10-year Kurdish insurgency. Nearly 13,000 people have died in the fighting. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU014-0140.950228</DOCID>
+<TDTID>TDT010865</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/28/95 16:05</DATE>
+<TITLE> Senate approves wording change to amendment</TITLE>
+<HEADLINE> Senate approves wording change to amendment</HEADLINE>
+<SUBJECT> BC-BUDGET-CHANGE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Senate passed Sen. Sam Nunn's change to the balanced budget constitutional amendment Tuesday by a vote of 92-8. </P>
+<P> Nunn's change bars federal courts from doing anything to enforce the balanced budget amendment if Congress violates it unless Congress agrees to surrender authority to the courts. </P>
+</TEXT>
+</DOC>

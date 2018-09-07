@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU008-0032.940715</DOCID>
+<TDTID>TDT000587</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/15/94 05:56</DATE>
+<TITLE> JORDAN AND ISRAELI TEAMS PREPARE HISTORIC MEETING</TITLE>
+<HEADLINE> JORDAN AND ISRAELI TEAMS PREPARE HISTORIC MEETING</HEADLINE>
+<SUBJECT> BC-MIDEAST-JORDAN-MEETING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>  (Eds: Overtakes Mideast-Isreal-Team)</NOTES>
+<DATELINE>AMMAN (Reuter) </DATELINE>
+<P>  Jordanian and Israeli officials met at a Dead Sea hotel Friday to prepare for a historic meeting next week of Secretary of State Warren Christopher and his Israeli and Jordanian counterparts. </P>
+<P> ``The two delegations are still inside the meeting discussing preparations and technical details for Wednesday's talks,'' a Jordanian official said. </P>
+<P> An Israeli foreign ministry spokeswoman said the advance team for the July 20 meeting at Jordan's Dead Sea Spa Hotel was led by the ministry's Deputy Director-General, Eytan Bentsur, and was expected to return to Israel before the start of the Jewish sabbath later Friday. </P>
+<P> Marwan Muasher, the spokesman for Jordan's peace team, Omar al-Rifa'i from the foreign ministry and other officials were attending the talks at the heavily-guarded hotel. </P>
+<P> Israeli Foreign Minister Shimon Peres will be the first top Israeli official to set foot publicly in Jordan when he flies to the hotel in a helicopter for next week's meeting. </P>
+</TEXT>
+</DOC>

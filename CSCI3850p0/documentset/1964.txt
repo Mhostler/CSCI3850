@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU006-0223.941012</DOCID>
+<TDTID>TDT004907</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/12/94 13:43</DATE>
+<TITLE> EPA says may phase out 36 cancer-causing pesticides</TITLE>
+<HEADLINE> EPA says may phase out 36 cancer-causing pesticides</HEADLINE>
+<SUBJECT> BC-PESTICIDES </SUBJECT>
+<AUTHOR>     By Vicki Allen </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Environmental Protection Agency said Wednesday it reached an out-of-court settlement with consumer advocates and will start a review that could lead to cancellation of 36 pesticides widely used in food. </P>
+<P> In a complex settlement that still must be approved by a federal court, the EPA agreed to a schedule for reviewing 85 pesticides that may be affected by the ``Delaney clause,'' which bars use of cancer-causing pesticides that concentrate in processed foods. </P>
+<P> That could lead to a cancellation within two years of some 36 pesticides, and a further review of at least 49 others. </P>
+<P> EPA Administrator Carol Browner in a statement said she was pleased with the plan, but said ``the entire food safety program requires an overhaul.'' </P>
+<P> The administration has proposed a package of pesticide regulation reforms that Congress will consider next year. The reforms would consider other risk factors beside cancer, such as nerve or reproductive damage, and would set tolerances to protect children and other highly vulnerable people. </P>
+<P> This settlement stems from a lawsuit the Natural Resources Defense Council, the state of California and others filed against the EPA in 1989 over the agency's policy of applying a ''negligible risk'' standard for some carcinogenic pesticides. They argued that the Delaney clause allowed no such tolerance. </P>
+<P> An NRDC spokesman said the proposed settlement would broaden a 1992 federal court ruling that said EPA must follow the Delaney's clause's zero tolerance for concentrations of cancer-causing pesticides in processed foods. That ruling just dealt with a few specific pesticides. </P>
+<P> The proposal also says the EPA must rule within 60 days of court approval of the settlement on a petition filed in 1992 by the National Food Processors Association. It charged the EPA was improperly extending the Delaney clause to raw food. </P>
+<P> Farm groups and pesticide manufacturers have fought the potential phase-out of a range of herbicides, fungicides and insecticides used on a variety of fruits, vegetables, grains and legumes. </P>
+<P> ``This settlement is great news for consumers, farmers and the environment,'' Al Meyerhoff, the NRDC's senior attorney, said in a statement. </P>
+<P> The American Crop Protection Association, representing the pesticide industry, in a statement declined to comment on the proposed agreement. But it accused the NRDC of trying to ''create a national food scare. This is not a food safety issue but another step in a narrow -- and lengthy -- legal process.'' </P>
+</TEXT>
+</DOC>

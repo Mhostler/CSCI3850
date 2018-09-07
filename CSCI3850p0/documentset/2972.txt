@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0375.941202</DOCID>
+<TDTID>TDT007371</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/02/94 14:00</DATE>
+<TITLE> Zimbabwe offered money for ivory stockpiles</TITLE>
+<HEADLINE> Zimbabwe offered money for ivory stockpiles</HEADLINE>
+<SUBJECT> BC-ZIMBABWE-IVORY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>HARARE, Zimbabwe (Reuter) </DATELINE>
+<P>  Zimbabwe has been offered more than $30 million for the 30-ton ivory stockpile it has accumulated over the years, a top government official said Friday. </P>
+<P> Willie Nduku, director of Zimbabwe's national parks and wildlife management, told reporters offers had been made by three countries, which he declined to name. </P>
+<P> ``One country has offered to buy all the stocks at $1,000 per kilo; another country has offered us $500 and the other country at least $150,'' Nduku said, adding Zimbabwe would opt for the highest bidder. </P>
+<P> Zimbabwe has been arguing for relaxation of an international ban in ivory trade imposed in 1989 by the Convention on International Trade in Endangered Species, saying its elephant population estimated at 70,000 was too high to sustain ecological balance. </P>
+<P> It kills them periodically to limit numbers. </P>
+</TEXT>
+</DOC>

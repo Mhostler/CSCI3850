@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU014-0443.940731</DOCID>
+<TDTID>TDT001277</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/31/94 12:00</DATE>
+<TITLE> U.N. COUNCIL MEETS TO ADOPT HAITI RESOLUTION</TITLE>
+<HEADLINE> U.N. COUNCIL MEETS TO ADOPT HAITI RESOLUTION</HEADLINE>
+<SUBJECT> BC-HAITI-UN-MEETING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  The Security Council opened a meeting at 11:53 a.m. EDT Sunday to adopt a resolution clearing the way for a U.S. invasion to topple Haiti's military rulers, if President Clinton decides to launch one. </P>
+<P> Nine speakers were listed to address the council before the vote. </P>
+</TEXT>
+</DOC>

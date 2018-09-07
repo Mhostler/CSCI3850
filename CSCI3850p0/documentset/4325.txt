@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU007-0069.950213</DOCID>
+<TDTID>TDT010418</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/13/95 18:10</DATE>
+<TITLE> Clinton urges peace, not violence in Burundi</TITLE>
+<HEADLINE> Clinton urges peace, not violence in Burundi</HEADLINE>
+<SUBJECT> BC-BURUNDI-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton has urged the people of Burundi to ``say no to violence and extremism'' and work toward peace in a country threatened with bloodshed. </P>
+<P> A repetition of the slaughter that decimated Rwanda last year is feared in Burundi, where a U.N. Security Council fact-finding mission is expected to go this week in addition to Rwanda. </P>
+<P> Both Rwanda and Burundi have the same ethnic mix, with Hutus heavily outnumbering members of the Tutsi group. </P>
+<P> In Burundi the Hutus dominate a coalition government which the main Tutsi-dominated opposition party has threatened to overthrow by force, and has called a general strike to promote this goal. </P>
+<P> Clinton said in a radio message beamed to Burundi Saturday, and released by the White House Monday, through the Voice of America that recent violence in the country ``demonstrates that extremists want to reverse your remarkable progress toward democracy.'' </P>
+<P> ``The United States rejects those who reject peace. We stand with those who are against violence and for tolerance and peace. Burundi has suffered enough,'' he said. </P>
+<P> Clinton said 1993 elections promised a new peaceful chapter in Burundi and that despite tragedy and suffering, the vast majority of the people have worked for lasting peace, security and freedom. </P>
+<P> ``I say to the people and the leaders of Burundi: Do not go back. You deserve to live in peace and without fear. Democracy will help you build a better future for yourselves and your children. Say no to violence and extremism. Say yes to peace and reconciliation,'' he said. </P>
+</TEXT>
+</DOC>

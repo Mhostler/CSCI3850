@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU003-0138.941005</DOCID>
+<TDTID>TDT004519</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/05/94 17:11</DATE>
+<TITLE> Yeltsin puts Russia's quake losses at 10 people</TITLE>
+<HEADLINE> Yeltsin puts Russia's quake losses at 10 people</HEADLINE>
+<SUBJECT> BC-QUAKE-CIS-RUSSIA </SUBJECT>
+<AUTHOR>     By Oleg Shchedrov </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  President Boris Yeltsin said Wednesday at least 10 people died in a powerful undersea earthquake which hit the Southern Kurile Islands off Russia's far eastern coast. </P>
+<P> ``According to the information I have 10 people died,'' Yeltsin said in a statement of condolence. ``But the number of casualties may be even greater as many people have not been recovered from the rubble yet.'' </P>
+<P> First Deputy Prime Minister Oleg Soskovets told Commonwealth television that the quake, which struck just after midnight local time (9:00 a.m. EDT Tuesday), virtually devastated the islands. </P>
+<P> He said the quake, which was centered off the Japanese island of Hokkaido and measured 8.2 on the Richter scale, destroyed most of the houses, communications and technical facilities on the chain of islands. </P>
+<P> Soskovets added that more than 30 Russian border guard posts on the chain of islands, bitterly disputed by Moscow and Tokyo, were ruined. </P>
+<P> He said more powerful tremors could be expected in the area in the next two days. </P>
+<P> At least two people are known to have died in Japan in the earthquake, followed by a tidal wave which crashed on to the nearby Kuriles, swept away fishing vessels and caused severe damage in coastal areas. </P>
+<P> Itar-Tass news agency said the tidal wave was 10 feet high. </P>
+<P> Commonwealth television said in a dispatch from Yuzhno-Sakhalinsk that the damage could have been reduced if the inhabitants of the islands had received warning in time. </P>
+<P> Yeltsin ordered his government to allocate appropriate funds for the disaster-stricken areas. </P>
+<P> Soskovets said the Japanese government offered assistance and the Russian government was discussing how to use it. </P>
+<P> Soviet troops occupied the four Southern Kurile islands at the end of World War II. Japan considers the islands its property and calls them the Northern Territories. Russia refuses to return the islands to Japan. </P>
+</TEXT>
+</DOC>

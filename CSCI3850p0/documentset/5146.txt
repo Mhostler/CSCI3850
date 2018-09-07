@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU012-0326.950323</DOCID>
+<TDTID>TDT011626</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/23/95 18:46</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-JAPAN-SUBWAY-RAID -2 KAMIKU ISSHIKI </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> On Thursday, 1,000 police in chemical-warfare gear entered the complex in Kamiku Isshiki and found ingredients which could be used in making the nerve gas sarin, which was used in an attack on Tokyo subways on Monday. </P>
+<P> But they suspended their search of the complex because the chemicals they found were so dangerous. </P>
+<P> Police said they seized sodium fluoride and phosphorus trichloride, ingredients of sarin, in Thursday's raids at the complex at the foot of Mount Fuji, 100 km (65 miles) west of Tokyo. </P>
+<P> The sect has denied involvement in the subway attacks, which killed 10 people and injured thousands of others. It has accused the government of framing it. A sect spokesman said the chemicals were not used to make lethal gases but for welding and processing computer chips. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU001-0029.950101</DOCID>
+<TDTID>TDT008735</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/01/95 10:24</DATE>
+<TITLE> Russian distiller touts ``healthy'' vodka</TITLE>
+<HEADLINE> Russian distiller touts ``healthy'' vodka</HEADLINE>
+<SUBJECT> BC-CIS-RUSSIA-VODKA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOSCOW (Reuter) </DATELINE>
+<P>  A new brand of vodka, said by its makers to be good for the liver, was launched in Russia in time for New Year celebrations, Itar-Tass news agency said. </P>
+<P> The ``healthy vodka,'' made in the central Russian town of Samara, is called Rastoropsha after a local herb the manufacturers say gives it health-giving properties. </P>
+<P> But the distillers pointed out the positive effect could be obtained only if the vodka was drunk ``in moderation,'' Tass said in a weekend report. </P>
+</TEXT>
+</DOC>

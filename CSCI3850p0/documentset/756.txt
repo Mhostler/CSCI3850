@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU007-0011.940813</DOCID>
+<TDTID>TDT001861</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/13/94 15:46</DATE>
+<TITLE> DOLE SAYS NO IMMINENT VOTES ON HEALTH BILL</TITLE>
+<HEADLINE> DOLE SAYS NO IMMINENT VOTES ON HEALTH BILL</HEADLINE>
+<SUBJECT> BC-HEALTH-CONGRESS-DOLE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Senate Minority Leader Bob Dole said Saturday Republicans were not ready to cast votes on any sections of the health reform bill and when asked when votes were likely replied: ``Probably sometime.''  Several Democratic senators have accused the Republicans of filibustering -- trying to literally talk a bill to death -- but a cautious Majority Leader George Mitchell refused to share in that characterization. </P>
+<P> Mitchell said he would keep trying to work out an agreement with Dole on the timing of votes. </P>
+</TEXT>
+</DOC>

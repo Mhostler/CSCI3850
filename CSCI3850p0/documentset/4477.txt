@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0374.950222</DOCID>
+<TDTID>TDT010642</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/22/95 03:54</DATE>
+<TITLE> Somali gunmen ambush U.N. staff, kidnap Somali</TITLE>
+<HEADLINE> Somali gunmen ambush U.N. staff, kidnap Somali</HEADLINE>
+<SUBJECT> BC-SOMALIA-AMBUSH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MOGADISHU, Somalia (Reuter) </DATELINE>
+<P>  Gunmen ambushed U.N. staff in the Somali capital Wednesday, killing a Somali guard and kidnapping another Somali working for the U.N. refugee agency, U.N. officials said. </P>
+<P> They said a British security officer, named as Bill Lindsay of the U.N. Development Program (UNDP), was injured in the hand and two Somali guards were seriously wounded in the ambush. </P>
+</TEXT>
+</DOC>

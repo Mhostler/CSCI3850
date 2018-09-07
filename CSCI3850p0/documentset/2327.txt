@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU014-0295.941031</DOCID>
+<TDTID>TDT005837</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/31/94 18:31</DATE>
+<TITLE> American Airlines flight reportedly crashes in Indiana</TITLE>
+<HEADLINE> American Airlines flight reportedly crashes in Indiana</HEADLINE>
+<SUBJECT> BC-CRASH URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  An American Airlines commuter flight crashed in a corn field in Northern Indiana Monday night, local broadcast reports said. </P>
+<P> There were no immediate repaorts of casualties but Chicago television stations said coroners from counties in the area had been called to the crash scene near Lowell, Ind. The plane was reportedly enroute from Indianapolis to Chicago. </P>
+</TEXT>
+</DOC>

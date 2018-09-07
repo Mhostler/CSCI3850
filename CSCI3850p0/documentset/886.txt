@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU009-0239.940819</DOCID>
+<TDTID>TDT002185</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/19/94 10:02</DATE>
+<TITLE> SHIP FIRE FORCES EVACUATION OF 1,200 PASSENGERS</TITLE>
+<HEADLINE> SHIP FIRE FORCES EVACUATION OF 1,200 PASSENGERS</HEADLINE>
+<SUBJECT> BC-USA-SHIP 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  A fire in the kitchen and dining room of a cruise ship just as it was docking at New York harbor injured three people and forced the evacuation of up to 1,200 passengers early Friday, officials said. </P>
+<P> Fire Department Captain Brian Dickson said the fire was contained to the two areas, although it spread smoke throughout much of the ship, the Regal Empress, operated by Regal Cruises of Ramsey, New Jersey. </P>
+<P> A spokesman for the city's Emergency Medical Service said three people were injured but none appeared to be seriously hurt. </P>
+<P> Dickson said that the fire went to four alarms, meaning that eight trucks with 180 firefighters had been called to the scene. The fire was first reported at 7:40 a.m. EDT . </P>
+<P> He said the ship's extinguishing system kept the fire under control and the main blaze was quickly put out. Firefighters continued to work through the ship looking for passengers amid the smoke and ensuring that the blaze had not spread elsewhere, he said. </P>
+<P> Officials for the cruise line said they had not been briefed on the fire and were busy calming panicky callers. </P>
+<P> They said the ship had sailed from Canada and New England. </P>
+</TEXT>
+</DOC>

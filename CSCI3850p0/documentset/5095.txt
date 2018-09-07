@@ -1,0 +1,29 @@
+<DOC>
+<DOCID>REU011-0304.950322</DOCID>
+<TDTID>TDT011553</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/22/95 11:11</DATE>
+<TITLE> EU seeks package fisheries deal with Canada</TITLE>
+<HEADLINE> EU seeks package fisheries deal with Canada</HEADLINE>
+<SUBJECT> BC-FISH-CANADA </SUBJECT>
+<AUTHOR>     By Peter Blackburn </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRUSSELS, Belgium (Reuter) </DATELINE>
+<P>  European Commission President Jacques Santer has told Canada the European Union wants to negotiate a package deal to settle a fisheries dispute in the North Atlantic, a Commission spokesman said Wednesday. </P>
+<P> Santer told Canadian Prime Minister Jean Chretien Tuesday night that the package must cover legal issues and fish catch quotas as well as fisheries conservation. </P>
+<P> ``We want an overall settlement, we are ready to negotiate,'' the spokesman told a news briefing. </P>
+<P> Canada insists on first fixing strong measures to protect threatened stocks of Greenland halibut or turbot, the last major groundfish species in the area. </P>
+<P> Chretien warned that fishing vessels, probably Spanish, could be straying into the disputed fishing grounds off Newfoundland. </P>
+<P> On March 9, Canadian gunboats seized the Spanish trawler Estai in international waters after firing warning shots across its bows. The vessel was released March 15 after the owners paid a bond and the captain was charged with illegal fishing. </P>
+<P> The EU insists that Spanish vessels have a legal right to fish in the disputed area. </P>
+<P> It says Canada violated international law this month when it extended jurisdiction beyond the 200-mile limit to EU vessels and imposed a 60-day ban on fishing for Greenland halibut, which straddle Canadian and international waters. </P>
+<P> The EU wants to raise its 12.6 percent share of a 27,000- ton 1995 quota allocated by the Northwest Atlantic Fisheries Organization on February 1. Canada was given 60 percent. </P>
+<P> Canada says a moratorium is needed to save dwindling stocks. </P>
+<P> ``For Canada, the main issue is conservation,'' Jacques Roy, Canada's ambassador to the EU told a news briefing, adding that a lot of progress was needed before an effective regime could be agreed. </P>
+<P> ``There remain some very hard nuts to crack,'' Roy said. </P>
+<P> Commission officials and diplomats from the Canadian EU embassy met Tuesday and Wednesday to discuss measures to control and enforce catch quotas. </P>
+<P> Roy denied that Canada rejected EU attempts to achieve a settlement within NAFO, which it has in the past criticized as being weak and ineffective. </P>
+<P> ``We want a NAFO meeting, but only once we have achieved meaningful results in our negotiations with the EU,'' Roy said. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU009-0097.940918</DOCID>
+<TDTID>TDT003617</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/18/94 16:20</DATE>
+<TITLE> Serbs order heavy guns back from Sarajevo - U.N.</TITLE>
+<HEADLINE> Serbs order heavy guns back from Sarajevo - U.N.</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-WEAPONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SARAJEVO (Reuter) </DATELINE>
+<P>  The United Nations said the Bosnian Serb military command had ordered its forces Sunday to remove all heavy weapons remaining in the 12-mile exclusion zone around Sarajevo. </P>
+<P> U.N. military spokesman Major Koos Sok said there was some concern that an upsurge of fighting Sunday afternoon apparently initiated by the Muslim-led Bosnian government army might cause the Serbs to reconsider the order. </P>
+</TEXT>
+</DOC>

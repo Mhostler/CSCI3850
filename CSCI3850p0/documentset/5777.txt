@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0334.950416</DOCID>
+<TDTID>TDT012609</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/16/95 03:26</DATE>
+<TITLE> India to test medium range missile next week</TITLE>
+<HEADLINE> India to test medium range missile next week</HEADLINE>
+<SUBJECT> BC-INDIA-MISSILE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW DELHI, April 16 (Reuter) </DATELINE>
+<P>  India is to test fire its surface-to-air medium range missile from its test range in the eastern state of Orissa any time between April 17 and 24, the Press Trust of India (PTI) said. </P>
+<P> PTI quoting offical sources said late on Saturday that the locally-developed Akash missile will be test fired from its range at Chandipur in Orissa. </P>
+<P> The sources said there was every liklihood that two Akash missiles would be tested within that period. They will be the seventh and eighth tests in the series. </P>
+<P> Akash missile was last test fired successfully from the Chandipur range on August 14, 1990. </P>
+</TEXT>
+</DOC>

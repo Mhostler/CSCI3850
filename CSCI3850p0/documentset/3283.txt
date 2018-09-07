@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU008-0146.941217</DOCID>
+<TDTID>TDT008096</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/17/94 03:42</DATE>
+<TITLE> N.Korea questioning U.S. pilots - agency says</TITLE>
+<HEADLINE> N.Korea questioning U.S. pilots - agency says</HEADLINE>
+<SUBJECT> BC-KOREA-HELICOPTER-PILOTS URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SEOUL (Reuter) </DATELINE>
+<P>  South Korea's domestic Yonhap news agency quoted North Korea's Central Radio as saying on Saturday that American pilots from a helicopter that landed in the North were being questioned. </P>
+</TEXT>
+</DOC>

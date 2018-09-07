@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU006-0166.950113</DOCID>
+<TDTID>TDT009278</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/13/95 20:14</DATE>
+<TITLE> Pilot says Boeing, safety unit covering up crash</TITLE>
+<HEADLINE> Pilot says Boeing, safety unit covering up crash</HEADLINE>
+<SUBJECT> BC-PILOT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A retired airline pilot Friday renewed a court request that safety officials act on a 1979 incident that he said shows faulty rudder control systems are on the widely-flown Boeing 727 and 737 jets. </P>
+<P> H.G. Gibson said the faulty rudder control in the 727 he piloted in that incident is the same as those on the 737 that crashed near Pittsburgh last year, killing 132 people. </P>
+<P> Gibson said the National Transportation Safety Board covered up the causes of the incident that would have been warnings of similar future incidents. </P>
+<P> He asked the U.S. Court of Appeals to force the board to reopen its probe of the incident in which Gibson's Trans World Airlines plane went out of control, rolled over and fell in a six-mile spiral dive -- or to close the case. </P>
+<P> Gibson told a news conference he had new evidence showing a flaw in the rudder control systems of all 727s and 737s. </P>
+<P> He said that ``they (Boeing and the safety board) have been covering this up for years because they are more concerned about their public image than they are about air safety.'' </P>
+<P> A Boeing spokesman said the firm concurred in the NTSB's actions and, when asked about the cover-up charge, said: ``he's free to have his opinion.'' </P>
+<P> A NTSB spokesman said there would be no comment on the matter until the board had seen the court filing. </P>
+<P> Gibson's lawyer, Landon Dowdey, said the NTSB concluded that Gibson and his cockpit crew were responsible for the incident by not operating the aircraft controls properly, but the board never formally closed the case. </P>
+<P> Dowdey, however, said that Gibson was not criminally charged and fired from his job, but was promoted by TWA and continued to fly until retirement 10 years later. </P>
+<P> The suit asked the court to compel the board to act on two 1991 petitions filed by Gibson and by the Air Line Pilots Association to reopen its case and consider new evidence. </P>
+<P> The suit said control of the 727's rudder was lost while flying 39,000 feet over Michigan and Gibson could not regain control until 5,000 feet from the ground, finally making a safe emergency landing at Detroit. </P>
+<P> There were no deaths among the 89 people aboard. </P>
+</TEXT>
+</DOC>

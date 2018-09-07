@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU006-0396.941214</DOCID>
+<TDTID>TDT007916</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/14/94 11:25</DATE>
+<TITLE> Two trains collide; two injured, one man missing</TITLE>
+<HEADLINE> Two trains collide; two injured, one man missing</HEADLINE>
+<SUBJECT> BC-COLLISION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LOS ANGELES (Reuter) </DATELINE>
+<P>  Two freight trains burst into flames after colliding and derailing east of Los Angeles Wednesday, injuring at least two crew members and leaving one man missing, officials said. </P>
+<P> The brakes failed on one train and it crashed into the other in the Cajon Pass, a mostly rural area about 40 miles east of Los Angeles, a California Department of Forestry spokesman said. </P>
+<P> According to the spokesman, one crew member was unaccounted for and that there were unconfirmed reports that he was killed in the crash. </P>
+</TEXT>
+</DOC>

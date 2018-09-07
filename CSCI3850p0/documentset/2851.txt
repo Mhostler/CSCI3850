@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU012-0319.941127</DOCID>
+<TDTID>TDT007085</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/27/94 22:11</DATE>
+<TITLE> R.J. Reynolds to release smokeless cigarette</TITLE>
+<HEADLINE> R.J. Reynolds to release smokeless cigarette</HEADLINE>
+<SUBJECT> BC-TOBACCO-RJREYNOLDS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  R.J. Reynolds Tobacco Co plans to market a cigarette next year that releases little smoke or odor and no ash, but with the same levels of nicotice as regular cigarettes, The New York Times reported Sunday. </P>
+<P> The company has spent about $500 million developing the new cigarette, to be named Eclipse, in response to the growing ban on smoking in various public places, The Times said. </P>
+<P> The company produced a similar cigarette, Premiere, in 1988, but it was withdrawn after smokers disliked its flavor, the newspaper reported. </P>
+<P> The new cigarette does not burn the tobacco but uses moldering charcoal to extract the flavor, reducing of the market to start, perhaps one percent, but that the market share would steadily grow as people tried the new cigarette. </P>
+<P> The Food and Drug Administration told The Times it had not seen the product, would be interested in reviewing the scientific data, and would be glad to meet with the company. </P>
+</TEXT>
+</DOC>

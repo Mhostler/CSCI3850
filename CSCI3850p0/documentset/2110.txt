@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU009-0321.941019</DOCID>
+<TDTID>TDT005284</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/19/94 12:26</DATE>
+<TITLE> Colombian bank robbers get away with $30 million</TITLE>
+<HEADLINE> Colombian bank robbers get away with $30 million</HEADLINE>
+<SUBJECT> BC-COLOMBIA-ROBBERY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BOGOTA, Colombia (Reuter) </DATELINE>
+<P>  Thieves stole nearly $30 million in peso currency from a branch of Colombia's Central Bank in one of the biggest heists in the country's history, the bank said Wednesday. </P>
+<P> But more than half of the loot -- some 18.5 billion pesos -- is in crisp new bills of various denominations that have never been issued and are considered worthless, the bank said in a statement. </P>
+<P> Police said a group of armed men entered the branch in northern Colombia last weekend, tied up the guards, knocked out the security system of alarms and closed-circuit television cameras and broke into the safe using an acetylene torch. </P>
+<P> Police sources say they suspect the spectacular robbery at the Central Bank branch in Valledupar, about 435 miles north of Bogota, was an inside job but declined further comment. The bank has offered a reward for information leading to the arrest of the robbers. </P>
+</TEXT>
+</DOC>

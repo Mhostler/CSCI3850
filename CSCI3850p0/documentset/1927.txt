@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0356.941011</DOCID>
+<TDTID>TDT004832</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/11/94 07:31</DATE>
+<TITLE> Iraq ambassador says troops moving north</TITLE>
+<HEADLINE> Iraq ambassador says troops moving north</HEADLINE>
+<SUBJECT> BC-IRAQ-USA-HAMDOON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Iraq's ambassador to the United Nations said Tuesday that Iraqi troops are being withdrawn but darkness may slow their movement north away from the border with Kuwait. </P>
+<P> ``The troops have received orders to withdraw,'' Ambassador Nizar Hamdoon said on ABC's ``Good Morning America.'' He said ``it may take a few hours, I am not a military guy,'' but said they would be moved ``somewhere else in the country, but surely to the north, farther away from the borders.'' </P>
+</TEXT>
+</DOC>

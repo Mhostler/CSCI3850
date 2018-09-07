@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU014-0191.940929</DOCID>
+<TDTID>TDT004170</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/29/94 09:01</DATE>
+<TITLE> EU swimming health rules target wrong germs- Lancet</TITLE>
+<HEADLINE> EU swimming health rules target wrong germs- Lancet</HEADLINE>
+<SUBJECT> BC-HEALTH-SWIMMING (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> Release at 7 p.m. EDT</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  European Union regulations on the quality of swimming water target the wrong type of bacteria and may not help cut cases of gastroenteritis among swimmers, an article in the Lancet medical journal said Friday. </P>
+<P> British and U.S. researchers said they carried out tests on four British seaside areas where water quality had met EU standards. One batch of adults went swimming and another batch stayed on the beach. </P>
+<P> The participants were tested for illness three weeks after the swimming expedition. Fifteen percent of the swimmers had suffered symptoms of gastroenteritis compared with 10 percent of non-swimmers, the researchers said. </P>
+<P> Water samples taken during the swimming showed no link between the number of fecal coliform bacteria -- the type on which EU standards are based -- and occurence of gastroenteritis. </P>
+<P> But illness was strongly related to the number of fecal streptococci, a different strain of virulent bacteria found in human excrement. </P>
+<P> These findings show that existing EU standards ``have very little public health significance to coastal swimming waters in temperate northwest Europe,'' the researchers said. </P>
+</TEXT>
+</DOC>

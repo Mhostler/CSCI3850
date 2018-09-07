@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU012-0069.940825</DOCID>
+<TDTID>TDT002459</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>08/25/94 18:04</DATE>
+<TITLE> CLINTON SAYS HEALTH REFORM STILL ALIVE</TITLE>
+<HEADLINE> CLINTON SAYS HEALTH REFORM STILL ALIVE</HEADLINE>
+<SUBJECT> BC-CLINTON-HEALTH </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton said Thursday health care reform was still a live issue although it would not be voted on before the Senate recessed. </P>
+<P> Asked if he thought the Senate's plans to recess once a crime bill is voted on would mean no health care reform could be passed this year, Clinton replied: ``I wouldn't say that, no. I don't think you can say that and I don't think the recess will kill it.'' </P>
+<P> The president told a news conference that health care reform was ``a very complicated issue'' and it was no accident that it had not been accomplished before now, ``particularly in the face of intense, organized and expensive efforts to stop it.'' </P>
+<P> But Clinton, whose own reform plan was buried in Congress weeks ago, said he still held out hope for a health care bill as long as senators were meeting to discuss it. </P>
+<P> He mentioned in particular Democratic Senator George Mitchell of Maine, whose health reform bill has been embraced by the president, and the authors of a so-called ``mainstream'' plan -- Senator John Chafee, Republican of Rhode Island, and Senator John Breaux, Democrat of Louisiana. </P>
+<P> ``I think the less I say the better right now as long as Senator Mitchell, and Senator Chafee and Senator Breaux and others are doing their best to continue this dialogue,'' Clinton said. ``I think we just have to let this thing develop a little bit.'' </P>
+</TEXT>
+</DOC>

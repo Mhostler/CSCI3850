@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU011-0377.950419</DOCID>
+<TDTID>TDT012727</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/19/95 13:22</DATE>
+<TITLE> Romania court clears Transylvanian sex change</TITLE>
+<HEADLINE> Romania court clears Transylvanian sex change</HEADLINE>
+<SUBJECT> BC-ROMANIA-SEX </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUCHAREST, Romania (Reuter) </DATELINE>
+<P>  A Romanian court has cleared the way for a 19-year-old Transylvanian transsexual to undergo the country's first known sex-change operation. </P>
+<P> Tineretul Liber newspaper reported Wednesday that permission was given by a court in Alba Iulia, Transylvania. </P>
+<P> Romania, under communism and the orthodox church, has been extremely conservative about homosexuality. Tineretul Liber said the man was regarded by officialdom as handicapped and treated for ``mental disability ... agitation and transexualism.'' </P>
+<P> The paper said the court seemed swayed by medical evidence that refusal could drive the man to self-mutilation or suicide. </P>
+</TEXT>
+</DOC>

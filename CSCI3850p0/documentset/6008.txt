@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU015-0163.950424</DOCID>
+<TDTID>TDT013002</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 20:00</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-NUCLEAR-SHIP-REFUSAL -2 MUTSU OGAWARA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>:</NOTES>
+<DATELINE></DATELINE>
+<P> The freighter Pacific Pintail, carrying 14 tonnes of radioactive waste, was scheduled to berth around dawn on Tuesday at Mutsu Ogawara port on the northern tip of Japan's main island, Honshu. Instead, the ship is waiting three km (1.6 miles) off the coast. </P>
+<P> Its cargo is a by-product of Japanese spent fuel which has been reprocessed at a French plant. Kimura said he could not accept the Science and Technology Agency's explanation that the nuclear waste would be transferred to an unspecified location in 50 years. </P>
+<P> The port, specifically designed for nuclear freighters, was under tight security with hundreds of police on duty. Scores of anti-nuclear activists were also gathered outside the port, flying banners and chanting anti-nuclear slogans. </P>
+</TEXT>
+</DOC>

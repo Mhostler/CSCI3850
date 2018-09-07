@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU008-0211.941016</DOCID>
+<TDTID>TDT005135</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/16/94 17:41</DATE>
+<TITLE> 11 killed in Cape Town taxi battle</TITLE>
+<HEADLINE> 11 killed in Cape Town taxi battle</HEADLINE>
+<SUBJECT> BC-SAFRICA-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE TOWN, South Africa (Reuter) </DATELINE>
+<P>  Eleven people were shot and killed and at least 20 wounded Sunday in a clash in Cape Town between rival taxi operators, South African police said. </P>
+<P> Three people were reported in a critical condition in Cape Town's Groote Schuur Hospital late Sunday. </P>
+<P> Police spokesman Lieutenant Ben Theron said shooting erupted shortly after 5 p.m. in the Khayelitsha black township during a South African National Civics Organization (SANCO) election rally. </P>
+<P> Theron said the clash appeared to have been between members of the Conference for a Democratic Taxi Association (Codeta) and the newly formed Cape Amalgamated Taxi Association (CATA). </P>
+<P> Codeta, which is loosely aligned with President Nelson Mandela's ruling African National Congress, has waged a sporadic war with rival taxi associations bidding for a share of the lucrative township commuter market. </P>
+<P> CATA was formed last month and is believed to be aligned with the Pan Africanist Congress, a more radical black political movement. </P>
+<P> ``This is the worst taxi violence we have ever seen in Cape Town. It is much worse than anything that has gone before,'' Theron told Reuters. </P>
+<P> Minibus taxis carrying up to 18 passengers are the main form of transport for millions of black workers traveling from apartheid townships to the cities every day. </P>
+<P> More than 100 people, including scores of commuters, have died in sporadic clashes between taxi operators in the Cape Town area over the past 18 months. Similar battles have been waged in Johannesburg and other large towns and cities. </P>
+</TEXT>
+</DOC>

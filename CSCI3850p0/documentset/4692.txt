@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU002-0030.950302</DOCID>
+<TDTID>TDT010952</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/02/95 15:22</DATE>
+<TITLE> Should aid workers be neutral? Maybe not--journal</TITLE>
+<HEADLINE> Should aid workers be neutral? Maybe not--journal</HEADLINE>
+<SUBJECT> BC-HEALTH-AID (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Release at 7 p.m. EST)</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  International aid agencies should reconsider their ``neutral'' stance in large disasters like the massacres in Rwanda, the Lancet medical journal said Friday. </P>
+<P> Organizations like the International Committee for the Red Cross (ICRC) keep strictly impartial in their work, arguing that they would be unable to help anyone if workers were barred from countries for taking sides. </P>
+<P> But in a strongly worded editorial, the Lancet argued that this attitude may no longer be appropriate. </P>
+<P> ``This system has great appeal, with its adherence to the medical ethic of treatment according to need, uninfluenced by political judgments,'' it said. </P>
+<P> ``Nevertheless...however effective bilateral action is during war, a non-judgmental approach is hardly appropriate when genocide is under way.'' </P>
+<P> It cited as an example Rwanda, where as many as one million people were massacred last year. Most were members of the Tutsi minority and Hutu moderates, killed on the orders of the former Hutu-led government which was overthrown in July. </P>
+<P> ``In Rwanda, upward of 150 aid organizations were impotent in the face of a massive breach of international law; at best, the aid workers stitched the wounds and tended the orphans as the killing and mutilations proceeded.'' </P>
+<P> Agencies themselves sometimes took questionable decisions on which disaster to intervene in and how, the journal added. </P>
+<P> ``Humanitarian aid is a multi-billion-dollar business, and the relief agencies, for example, will wish to secure their share of the new money by maintaining visibility, growth, and autonomy,'' it added. </P>
+<P> Thus they often helped out in the more high-profile disasters, rather than intervening in smaller but less-visible ones that could more easily be remedied. </P>
+<P> The Lancet suggested no answer, but said the whole role of agencies and their accountability needed to be reconsidered. </P>
+</TEXT>
+</DOC>

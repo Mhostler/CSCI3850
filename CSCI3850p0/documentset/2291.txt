@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU013-0232.941028</DOCID>
+<TDTID>TDT005711</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/28/94 14:31</DATE>
+<TITLE> Pope warns scientists of dangers of gene research</TITLE>
+<HEADLINE> Pope warns scientists of dangers of gene research</HEADLINE>
+<SUBJECT> BC-POPE-GENETICS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>VATICAN CITY (Reuter) </DATELINE>
+<P>  Pope John Paul said Friday genetic engineering could improve the quality of people's lives but warned scientists not to abuse this kind of research. </P>
+<P> The 74-year-old pontiff told members of the Pontifical Academy of Science, a body of experts which advises the Vatican, that genetic research should be carried out only with total respect for the individual's rights. </P>
+<P> ``In the near future, one can reasonably envisage that (genetic research) will open new windows into research with therapeutic ends,'' he said. </P>
+<P> ``Sick people who cannot be cared for adequately now ... will be able to benefit from necessary treatments that will improve their condition or even cure them.'' </P>
+<P> But he added: ``Any work on genes must take place with an absolute respect for ... mankind ... and its incomparable dignity.'' </P>
+<P> The Catholic Church's new catechism, the compendium of Church beliefs issued last November, says that genetic engineering is aceptable for therapeutic reasons but that it is immoral to use it to produce certain types of people. </P>
+</TEXT>
+</DOC>

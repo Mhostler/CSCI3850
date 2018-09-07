@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU003-0423.950405</DOCID>
+<TDTID>TDT012167</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/05/95 22:35</DATE>
+<TITLE> Baseball-Season to open April 25</TITLE>
+<HEADLINE> Baseball-Season to open April 25</HEADLINE>
+<SUBJECT> BC-BASEBALL-SEASON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The strike-delayed Major League Baseball season will begin Tuesday night, April 25, with a game between the Los Angeles Dodgers and the Florida Marlins at Miami, officials said Wednesday. </P>
+<P> The full 1995 schedule is expected to be released by Thursday. It is pending approval by the Players Association. </P>
+<P> The players agreed to certain conditions Monday that might allow for more than 144 games to played. </P>
+<P> Among those concessions were relaxed restrictions on split day-night doubleheaders, one-day series, night games before doubleheaders, west coast-to-east coast travel and the prohibition against playing more than 20 days in a row. </P>
+<P> However, National League Vice President and Secretary Katy Feeney said Tuesday that a 144-game schedule would be put into place, with each team playing 72 home and 72 road games. </P>
+<P> Feeney also said the leagues are attempting to stay as close as possible to original schedules. </P>
+<P> Games also will likely be played the day after July 11th's All-Star Game in Arlington, Texas. </P>
+</TEXT>
+</DOC>

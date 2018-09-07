@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU015-0164.950424</DOCID>
+<TDTID>TDT013003</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 20:03</DATE>
+<TITLE> Package bomb kills California forestry worker</TITLE>
+<HEADLINE> Package bomb kills California forestry worker</HEADLINE>
+<SUBJECT> BC-EXPLOSION 3RDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES> (Recasts, updates with FBI statement, grafs 5, 7, 8)</NOTES>
+<DATELINE>SACRAMENTO, Calif.(Reuter) </DATELINE>
+<P>  A bomb hidden in a package exploded Monday in a Sacramento office building, killing one person, officials said. </P>
+<P> No one else was hurt in the blast at the office of the California Forestry Association, a timber industry lobbying group, a police statement said. </P>
+<P> Police, firefighters and federal agents rushed to the scene. </P>
+<P> There was no immediate claim of responsibility for the bomb, authorities said. </P>
+<P> FBI spokesman Tom Griffin said the package was apparently left outside the association's offices and brought inside by an employee who handed it to another employee, who then attempted to open it. </P>
+<P> A police spokeswoman said, ``The device exploded, fatally injuring the individual who tried to open the package.'' The bomb was described as a ``small device.'' </P>
+<P> Griffin said investigators were looking for a possible connection to recent attacks in which packages were left outside offices at the University of Berkeley, Calif., and Yale University. </P>
+<P> People opening those packages were also killed. </P>
+<P> The police spokeswoman said five other people in the area where the package was opened had been accounted for and it was believed they had not suffered any injuries. </P>
+<P> Sacramento police and fire departments were at the scene, as well as FBI and federal Bureau of Alcohol, Tobacco and Firearms (ATF) investigators, the spokeswoman said. </P>
+<P> The explosion in California's state capital was five days after a massive truck bomb blew up a federal building in Oklahoma City, killing at least 80 people and leaving up to 150 missing. </P>
+</TEXT>
+</DOC>

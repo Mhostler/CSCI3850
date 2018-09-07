@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU004-0097.950207</DOCID>
+<TDTID>TDT010196</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/07/95 16:39</DATE>
+<TITLE> UN unsure of suspicious helicopters near Serbia</TITLE>
+<HEADLINE> UN unsure of suspicious helicopters near Serbia</HEADLINE>
+<SUBJECT> BC-YUGOSLAVIA-HELICOPTERS-UN 1STLD </SUBJECT>
+<AUTHOR>     By Evelyn Leopold </AUTHOR>
+<TEXT>
+<NOTES>(Adds probes, Security Council reaction, graf 4)</NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  U.N. officials said Tuesday they were unsure of the origin of a fleet of helicopters flying over Bosnia that a Dutch U.N. observer said originated in Serbia. </P>
+<P> Chinmaya Gharekhan, a senior advisor to Secretary-General Boutros Boutros-Ghali, said there were 62 sorties of helicopters from Feb. 1-4 north of the Muslim enclave of Srebrenica in eastern Bosnia, which borders Serbia and is surrounded by Serb-held territory. </P>
+<P> ``The U.N. Protection Force (UNPROFOR) is not in a position to say with a degree of certainty that they originated in (Yugoslavia) and crossed into Bosnia,'' he said. ``But the fact that there are a large number of helicopter flights is an established fact.'' </P>
+<P> But council members said their suspicions about the helicopters' origins should be conveyed to Yugoslavia's U.N. delegation immediately by the current council president, Legwaila Joseph Legweila of Botswana. In addition, diplomats said an international border monitoring mission was raising the matter with Belgrade officials shortly. </P>
+<P> Gharekhan had been asked to report to the Security Council on the helicopters by U.S. Ambassador Madeleine Albright who Monday pursued reports from the Dutch U.N. observer that at least 15 helicopter flights had originated in Serbia. </P>
+<P> The suggestion was that Yugoslavia might still be aiding the Bosnian Serbs with war materials, in violation of U.N. resolutions and an easing of sanctions. </P>
+<P> The council had suspended some minor sanctions against Serbia for allowing international border monitors to verify that Belgrade had prevented strategic materials from reaching the Bosnian Serbs. </P>
+<P> Violations could result in a reimposition of the sanctions that include suspending some travel, cultural and sports ties. A trade embargo against the Yugoslav states of Serbia and Montenegro, however, is still intact. </P>
+<P> In a statement from Belgrade, distributed at the United Nations, the Yugoslav Army General Staff denied that any of its helicopters had flown into Bosnia and called the reports ''primitive fabrications.'' </P>
+<P> Technically, there is a no-fly zone in force over Bosnia, monitored by NATO. But helicopters and other aircraft, deemed not capable of offensive military action, have flown with impunity. </P>
+<P> The United Nations, in its latest written report, showed 3,600 violations over the past two years. Between Jan. 30 and Feb. 1, it showed 47 violations, most of them by the Bosnian government. </P>
+</TEXT>
+</DOC>

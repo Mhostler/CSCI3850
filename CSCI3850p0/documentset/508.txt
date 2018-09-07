@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU014-0456.940731</DOCID>
+<TDTID>TDT001279</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/31/94 12:35</DATE>
+<TITLE> U.S. PRIEST IN PHILIPPINES ABDUCTED, THEN FREED</TITLE>
+<HEADLINE> U.S. PRIEST IN PHILIPPINES ABDUCTED, THEN FREED</HEADLINE>
+<SUBJECT> BC-PHILIPPINES-PRIEST </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANILA, Philippines (Reuter) </DATELINE>
+<P>  Gunmen seized an American priest Sunday while he was saying mass in a chapel in a remote town but Muslim guerrillas rescued him after a gunbattle with the kidnappers, church officials said. </P>
+<P> Father Clarence Bertelsman, 63, from Belville, Illinois, was slightly wounded in the hand but two of his kidnappers were killed in the shootout with Moro National Liberation Front (MNLF) rebels, they said. </P>
+<P> The MNLF has forged a truce and is holding talks with the government to settle a 22-year-old Muslim revolt for autonomy in the southern islands. </P>
+<P> The chapel where the priest was abducted was close to a police camp in Jolo, 590 miles south of Manila, according to reports received in Manila by the Missionary Oblates of Mary Immaculate, the religious order to which Bertelsman belongs. </P>
+<P> Two MNLF rebels were wounded in the shooting, another church official said. </P>
+</TEXT>
+</DOC>

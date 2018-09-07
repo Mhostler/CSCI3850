@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU002-0385.950205</DOCID>
+<TDTID>TDT010100</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/05/95 07:24</DATE>
+<TITLE> Israeli Cabinet lets West Bank, Gaza closure stand</TITLE>
+<HEADLINE> Israeli Cabinet lets West Bank, Gaza closure stand</HEADLINE>
+<SUBJECT> BC-MIDEAST-ISRAEL-CLOSURE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  Israeli Prime Minister Yitzhak Rabin's government, still worried about a surge of Islamic suicide bombings, has kept in effect a closure over the West Bank and Gaza, Cabinet ministers said Sunday. </P>
+<P> ``There was no vote,'' Education Minister Amnon Rubinstein said after a weekly Cabinet meeting. </P>
+<P> The Cabinet imposed the closure two weeks ago, the day two Muslim suicide bombers from the Palestinian-ruled Gaza Strip blew themselves up at a central Israeli bus stop, killing 21 Israelis. </P>
+<P> Environment Minister Yossi Sarid said Rabin and PLO Chairman Yasser Arafat, head of the Palestinian Authority in the Gaza Strip, would meet Thursday. </P>
+<P> ``Thursday the prime minister and the chairman of the Palestinian Authority will meet and will assess their steps and will decide whether it's possible to lift the closure,'' Sarid told reporters. </P>
+<P> Before the closure, some 60,000 Palestinian laborers entered Israel daily. Palestinians condemn the closure as collective punishment. </P>
+</TEXT>
+</DOC>

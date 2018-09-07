@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU001-0420.950502</DOCID>
+<TDTID>TDT013341</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>05/02/95 11:35</DATE>
+<TITLE> Mandela calls for faster delivery to poor</TITLE>
+<HEADLINE> Mandela calls for faster delivery to poor</HEADLINE>
+<SUBJECT> BC-SAFRICA-MANDELA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CAPE TOWN, South Africa (Reuter) </DATELINE>
+<P>  South African President Nelson Mandela, acknowledging the slow delivery of the fruits of democracy to the poor, urged his government Tuesday to move from ``paperwork to field work.'' </P>
+<P> Opening a two-day parliamentary debate on his presidency, Mandela, 76, said there was reason for some of those most disadvantaged by 300 years of white-minority rule to feel disappointed at the slow change away from apartheid. </P>
+<P> ``In many cases, funds have been availed, but they are not being utilized with sufficient speed,'' he said. </P>
+<P> Mandela, who next week marks a year in office as South Africa's first black president, said the need to deliver on election promises would require ``a change of mind-set: a movement away from pre-occupation with paperwork to field work.'' </P>
+<P> ``We must critically ask the question whether the pace of our legisalative work reflects the requirements of the historic mission we have .... We should ensure that the task of setting the framework for transformation is undertaken with greater expedition,'' he said. </P>
+<P> Mandela said he expected an acceleration in the pace of reformist legislation during the second year of democracy. </P>
+<P> He said his government's insistence on broadly-negotiated planning and expenditure had affected the recruitment of new foreign investment and the government's assault on crime. </P>
+<P> ``We need to streamline the administrative machinery for processing investors and ensure that they are not sent from pillar to post in the bureaucratic maze,'' he said. </P>
+</TEXT>
+</DOC>

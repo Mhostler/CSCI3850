@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU005-0280.950408</DOCID>
+<TDTID>TDT012324</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/08/95 14:21</DATE>
+<TITLE> Aerolinas Argentinas pilots to hold Easter week strike</TITLE>
+<HEADLINE> Aerolinas Argentinas pilots to hold Easter week strike</HEADLINE>
+<SUBJECT> BC-ARGENTINA-PILOTS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BUENOS AIRES, Argentina (Reuter) </DATELINE>
+<P>  Pilots of the privatized airline Aerolineas Argentinas will hold a 24-hour strike Tuesday which will affect domestic and international flights, the pilots' union said Saturday. </P>
+<P> The industrial action will come just before the Easter weekend, with public holidays beginning in Argentina Thursday. </P>
+<P> The 440 Aerolineas pilots and co-pilots are protesting the airline's refusal to renew a productivity agreement which ended March 31, under which their pay was boosted 20-40 percent for an additional 15 hours of work a week. </P>
+</TEXT>
+</DOC>

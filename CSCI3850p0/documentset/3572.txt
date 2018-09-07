@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU002-0030.950104</DOCID>
+<TDTID>TDT008861</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/04/95 13:20</DATE>
+<TITLE> Gingrich elected speaker of U.S. House</TITLE>
+<HEADLINE> Gingrich elected speaker of U.S. House</HEADLINE>
+<SUBJECT> BC-USA-CONGRESS-SPEAKER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Representative Newt Gingrich of Georgia was formally elected speaker of the U.S. House of Representatives on Wednesday, the first Republican to hold the post in 40 years. </P>
+<P> Gingrich was elevated to the high office -- second in line of succession to the U.S. presidency, after the vice president -- by fellow party members when the Republican-led House elected last November convened for a two-year term. His election was on a party-line vote of 228 to 202. Minority Democrats, who had run the House since 1955, supported their leader, Richard Gephardt of Missouri. </P>
+</TEXT>
+</DOC>

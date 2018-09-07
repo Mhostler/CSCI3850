@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU004-0436.940910</DOCID>
+<TDTID>TDT003153</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/10/94 08:00</DATE>
+<TITLE> France bans Islamic headscarves from its schools</TITLE>
+<HEADLINE> France bans Islamic headscarves from its schools</HEADLINE>
+<SUBJECT> BC-FRANCE-ISLAMIC </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>PARIS (Reuter) </DATELINE>
+<P>  Islamic headscarves will soon be banned in France's secular state school system, Education Minister Education Minister Francois Bayrou said in an interview published Saturday. </P>
+<P> ``My instructions to school heads (superintendents) will be very clear. We will continue to accept discreet religious signs as has always been the case. But we cannot accept ostentatious signs which divide our youth,'' Bayrou told the weekly news magazine Le Point. </P>
+<P> Asked if he included headscarves worn by some Muslim schoolgirls, the cause of disputes between teachers and Muslim fundamentalist familes, Bayrou said: ``Yes.'' </P>
+<P> He declared: ``We must respect the culture and faith of Muslims but history and the will of our people was to build a united, secular society, specifically where schools were concerned. The national will must not be ignored.'' </P>
+<P> Bayrou said there were about five million Muslims among France's population of 56 million. Most French Mulsims have come from North Africa since the 1950s. </P>
+<P> Le Point said about 700 Muslim girls wore Islamic scarves in French schools today, compared with about 20 in 1989 when the first incidents pitting them against school officials occurred. </P>
+<P> Many schools suspended pupils until they agreed to remove the scarves, but a series of courts backed the girls' right to keep their heads covered. </P>
+<P> Dalil Boubakeur, the main religious leader of Paris' central mosque and a proponent of compromise between state and religion, told French television that wearing headscarves was not an absolute religious necessity for young girls. </P>
+<P> But some fundamentalist leaders reject his authority. </P>
+</TEXT>
+</DOC>

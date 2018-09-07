@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU003-0390.950405</DOCID>
+<TDTID>TDT012158</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/05/95 19:58</DATE>
+<TITLE> Quebec to hold separatation referendum in fall</TITLE>
+<HEADLINE> Quebec to hold separatation referendum in fall</HEADLINE>
+<SUBJECT> BC-CANADA-QUEBEC </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>QUEBEC CITY (Reuter) </DATELINE>
+<P>  Quebec premier Jacques Parizeau said a referendum on the separation of the French-speaking province from Canada will be held in the autumn. </P>
+<P> ``The moment of truth will be this fall,'' Parizeau, leader of the separatist Parti Quebecois, said in a speech to a business group. He did not give a specific date. </P>
+</TEXT>
+</DOC>

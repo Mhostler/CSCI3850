@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU006-0131.950113</DOCID>
+<TDTID>TDT009270</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/13/95 17:16</DATE>
+<TITLE> Lawmakers spar over scope of federal welfare reform</TITLE>
+<HEADLINE> Lawmakers spar over scope of federal welfare reform</HEADLINE>
+<SUBJECT> BC-WELFARE </SUBJECT>
+<AUTHOR>     By Sue Kirchhoff </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  A key House subcommittee began work on a dramatic welfare reform plan Friday, with lawmakers debating whether to give the states unprecedented power to manage federal programs for the poor.  In a sign of a possible split, several Republicans on the Ways and Means subcommittee expressed doubts about rolling federal welfare programs into huge block grants to the states -- a goal of Republican governors and House leaders.  Administration officials also warned that the Republican welfare plan, part of House Speaker Newt Gingrich's Contract with America, could result in major cuts in federal aid, possibly forcing governors to raise taxes or curtail benefits. </P>
+<P> But Michigan Republican Gov. John Engler dismissed such concerns, suggesting that states jump into the driver's seat while the federal government move to the back of the car. </P>
+<P> ``Washington has had 60 years to tackle the welfare program, it's time to give states a chance,'' Engler told lawmakers, sitting at a witness table next to a pile of regulations for three federal programs that was over a foot high. </P>
+<P> Engler's call prompted Michigan Democrat Sander Levin to crack that the governor seemed to want the federal government out of the car entirely, except for supplying tax dollars -- or gas. </P>
+<P> ``It's ... a call not for reform, but revolution. A total devolution of authority to the states,'' he said. </P>
+<P> Several Republicans expressed concern about whether Congress should give major responsibility to the states.  ``If we raise revenue, impose taxes at the federal level, why shouldn't we control the program?'' asked Louisiana Republican Jim McCrery. </P>
+<P> Vermont Gov. Thomas Carper, a Democrat, said block grants might force states to cut benefits in a recession. </P>
+<P> House Republicans have promised a vote within 100 days on a welfare reform plan that would deny benefits to unwed mothers under the age of 18, require states to implement work programs, deny benefits to legal immigrants, allow states to use funds for orphanages and other alternative care. </P>
+<P> The legislation, which Republicans estimate would save $40 billion over five years, would combine some federal anti-poverty programs into block grants to states and end their entitlement status -- meaning individuals who meet eligibility criteria would no longer have a guarantee of aid. </P>
+<P> Republicans are discussing whether to go further and roll hundreds of anti-poverty programs into huge block grants. But there are a number of unanswered questions among lawmakers from both parties about the impact of such a change. </P>
+<P> Appearing on Fox television, subcommittee chairman Clay Shaw of Florida said, ``We're going to revisit every provision of this bill. We're going to leave nothing untouched.'' </P>
+<P> Assistant Health and Human Services Secretary Mary Jo Bane told the panel the current Republican plan would reduce federal funds for nutrition programs by 13 percent. </P>
+<P> If provisions of the legislation covering cash payments to individuals had been in effect in 1988, states would have received 26 percent less in federal benefits than they actually spent, she said. </P>
+<P> Engler and Delaware Gov. Thomas Carper, a Democrat, opposed provisions of the bill denying welfare payments to unwed mothers under the age of 18 and said states should be able to decide a number of other issues including whether to deny benefits to legal immigrants or cap payments to families. </P>
+<P> ``Six months ago we had a majority that wanted to proscribe benefits, now we have a majority who want to proscribe behavior,'' Engler said. </P>
+<P> Both governors said they would support some federal accountability standards under block grants, such as a reduction in the number of welfare cases or a decline in teen-age pregnancy rates. </P>
+</TEXT>
+</DOC>

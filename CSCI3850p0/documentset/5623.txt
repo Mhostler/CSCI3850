@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU006-0224.950410</DOCID>
+<TDTID>TDT012373</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/10/95 09:52</DATE>
+<TITLE> Research group says sharp rise in anti-Semitism</TITLE>
+<HEADLINE> Research group says sharp rise in anti-Semitism</HEADLINE>
+<SUBJECT> BC-ISRAEL-JEWS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JERUSALEM (Reuter) </DATELINE>
+<P>  An Israeli research group said Monday violent attacks against Jews worldwide rose to 72 in 1994 from 42 the previous year. </P>
+<P> The group, affiliated with Tel Aviv University, said incidents of anti-Semitism were up in Europe, the former Soviet Union, the United States and the Middle East. </P>
+<P> The report distinguished between violent attacks which were life-threatening and incidents limited to harassment and vandalism. </P>
+<P> It said violent attacks against Jews had risen worldwide to 72 in 1994 from 42 in the previous year. </P>
+<P> Of the 32 states the group checked, the highest number of attacks, 16, was recorded in Britain followed by 15 in the United States and nine in France. </P>
+<P> In the category of harassment and vandalism, 48 violent incidents were recorded in Britain, followed by 30 in the United States, France and Germany. </P>
+<P> In South Africa and most South American countries incidents of anti-Semitism had dropped, the report said. </P>
+<P> ``More and more we're seeing members of Islamic groups operating in Europe and carrying out attacks against Jews,'' Porat told a news conference. </P>
+<P> ``The other thing we're seeing is a growing tendency by extreme right-wing groups to target Jews,'' she said. </P>
+<P> The report links anti-Semitism in Eastern Europe and the former Soviet Union with political and economic instability, and extreme nationalism which have marked the transition from communism to democracy. </P>
+</TEXT>
+</DOC>

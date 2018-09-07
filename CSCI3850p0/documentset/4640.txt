@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU014-0212.950228</DOCID>
+<TDTID>TDT010872</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>02/28/95 22:41</DATE>
+<TITLE> U.S. says China moves toward world trade group</TITLE>
+<HEADLINE> U.S. says China moves toward world trade group</HEADLINE>
+<SUBJECT> BC-TRADE-CHINA-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Also moved to business desks)</NOTES>
+<DATELINE></DATELINE>
+<P> ``Clearly the landmark agreement that was reached over the weekend ... was an important agreement and we hope that it signals a committment to a policy of moving in the direction of a trade regime that will be consistent with the WTO,'' senior U.S. trade representative Ira Shapiro said. </P>
+<P> The United States and other Western countries have blocked China's WTO entry, arguing Beijing has to be more open to trade and more active in policing its traders. </P>
+<P> Speaking via satellite television from Washington, Shapiro said: ``The accession talks will undoubtedly start again.'' </P>
+<P> But Shapiro said China still needed to open markets and move toward a more transparent trading regime, in line with the General Agreement on Tariffs and Trade and WTO guidelines. </P>
+<P> The intellectual property rights agreement, signed in Beijing Sunday, hopes to end the rampant copyright piracy that saw China and the United States facing a trade war that would have put at risk trade worth more than $2 billion. </P>
+</TEXT>
+</DOC>

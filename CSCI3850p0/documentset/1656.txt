@@ -1,0 +1,22 @@
+<DOC>
+<DOCID>REU014-0034.940928</DOCID>
+<TDTID>TDT004119</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/28/94 14:57</DATE>
+<TITLE> U.S. heightens screening on flights from India</TITLE>
+<HEADLINE> U.S. heightens screening on flights from India</HEADLINE>
+<SUBJECT> BC-INDIA-PLAGUE-USA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Travelers arriving in the United States from India face heightened health screening after an outbreak of pneumonic plague that is spreading across India, a State Department spokeswoman said Wednesday. </P>
+<P> ``The (U.S.) Public Health Service is conducting a higher level of screening of people arriving on flights from India than would otherwise be the case,'' spokeswoman Christine Shelly said in response to reporters' questions about the Indian plague outbreak. </P>
+<P> ``Travelers from India are receiving a plague alert notice, a two-paragraph card indicating plague symptoms and providing medical contact information,'' Shelly said. </P>
+<P> She did not elaborate further on the details of the heightened screening. </P>
+<P> Shelly said that the U.S. Centers for Disease Control and Prevention, based in Atlanta, had dispatched diagnostic equipment and materials to the Indian government's National Institute of Communicable Diseases. </P>
+<P> India had asked for assistance through the World Health Organization, Shelly said. </P>
+<P> For Americans in India, the U.S. embassy in New Delhi and the U.S. consulate in Bombay are striving to keep U.S. citizens informed of the latest developments in the outbreak. </P>
+<P> So far, Shelly said, there were no reports that any Americans have been infected. </P>
+</TEXT>
+</DOC>

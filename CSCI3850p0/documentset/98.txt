@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU003-0411.940706</DOCID>
+<TDTID>TDT000219</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/06/94 19:09</DATE>
+<TITLE> NEW LINK FOUND BETWEEN PESTICIDE, PARKINSON'S</TITLE>
+<HEADLINE> NEW LINK FOUND BETWEEN PESTICIDE, PARKINSON'S</HEADLINE>
+<SUBJECT> BC-HEALTH-PARKINSONS (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>Release at 12:01 a.m. EDT</NOTES>
+<DATELINE>MIAMI (Reuter) </DATELINE>
+<P>  More evidence has been found linking Parkinson's disease to pesticide exposure, according to a new study of brain tissue samples by researchers at the National Parkinson Foundation and the University of Miami. </P>
+<P> Six of 20 Parkinson's-infected brain specimens studied revealed the presence of Dieldrin, a pesticide that, like the better known toxin DDT, was banned for use in the United States in 1972. </P>
+<P> ``I don't think Dieldrin is the cause of Parkinson's disease but it is another piece of the puzzle,'' Dr Juan Sanchez-Ramos, one of the researchers, said Wednesday. </P>
+<P> Parkinson's disease pre-dates the widespread use of any known pesticide but Sanchez-Ramos believes there may be an association between Parkinson's and Dieldrin exposure. </P>
+<P> ``This will require further study on how this toxin selectively destroys populations of brain cells,'' he said. </P>
+<P> Findings by Sanchez-Ramos and epidemiologist Dr. Lora Fleming appear in the July 7 issue of Annals of Neurology. </P>
+<P> ``There was never any concrete evidence until this study about small groups of individuals with known Parkinson's disease, and the possible association with pesticides,'' said Fleming. </P>
+<P> Pesticides like DDT and Dieldrin that are banned for use in the United States can sometimes be present in food products imported from other countries where they are still used. </P>
+<P> More than 1.5 million U.S. adults -- most over the age of 60 -- suffer from Parkinson's a disease that slowly but progessively attacks the body's nervous system. In 80 percent of the cases, the cause of the disease remains unknown. </P>
+</TEXT>
+</DOC>

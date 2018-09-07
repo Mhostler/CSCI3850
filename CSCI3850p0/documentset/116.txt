@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU004-0183.940707</DOCID>
+<TDTID>TDT000260</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/07/94 18:48</DATE>
+<TITLE> BRITISH ROLLER COASTER ACCIDENT INJURES 16</TITLE>
+<HEADLINE> BRITISH ROLLER COASTER ACCIDENT INJURES 16</HEADLINE>
+<SUBJECT> BC-BRITAIN-ROLLERCOASTER </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BLACKPOOL, England (Reuter) </DATELINE>
+<P>  More than a dozen people were injured when two roller-coaster trains collided at a northern British tourist resort Thursday because of a computer glitch, the operators said. </P>
+<P> The 30 passengers aboard the roller-coasters at Blackpool Pleasure Beach, billed as the world's tallest, were trapped until firefighters could free them. Ambulance workers said they took 16 people to the hospital, most of them with cuts and bruises. </P>
+<P> Pleasure Beach managing director Geoffrey Thompson said computer, electrical and mechanical engineers from the ride's makers, Arrow Dynamics in Salt Lake City, would fly to Britain to find out what went wrong. </P>
+<P> Thompson blamed a computer failure for the accident. ``The first train stopped just before it got to the station for some reason,'' he said. </P>
+<P> ``The other should have been stopped by emergency brakes back down the track but it managed to squeeze past. That technically shouldn't be possible, but it went slowly through the brakes and impacted into the first train in slow motion.'' </P>
+</TEXT>
+</DOC>

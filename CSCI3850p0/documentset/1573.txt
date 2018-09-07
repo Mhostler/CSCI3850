@@ -1,0 +1,30 @@
+<DOC>
+<DOCID>REU011-0410.940923</DOCID>
+<TDTID>TDT003903</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/23/94 19:36</DATE>
+<TITLE> Court rules European nuclear waste can come to U.S.</TITLE>
+<HEADLINE> Court rules European nuclear waste can come to U.S.</HEADLINE>
+<SUBJECT> BC-USA-NUCLEAR </SUBJECT>
+<AUTHOR>     By Lorrie Grant </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHARLOTTE, NC (Reuter) </DATELINE>
+<P>  Nuclear waste from four European countries can come to the United States as part of the U.S. nonproliferation plan, and be stored in South Carolina against the state's wishes, an appeals court ruled Friday. </P>
+<P> South Carolina earlier this month won an injunction in U.S. District Court in Columbia barring the U.S. Department of Energy from storing 153 nuclear fuel rods now en route to the state's Savannah River Site (SRS). </P>
+<P> The 4th U.S. Circuit Court of Appeals in Richmond, Virginia, said South Carolina had not given enough reason for keeping the shipments out. </P>
+<P> Two ships loaded with nuclear material from Austria, Denmark, Sweden and the Netherlands are already on their way to the United States carrying 153 of the 409 nuclear fuel rods that the United States says require urgent storage. </P>
+<P> The appeals court ruling only referred to the 153 spent nuclear fuel rods because the South Carolina district court's injunction was directed at those rods now in transit. </P>
+<P> Other nations with fuel rods not yet sent are Greece, Germany and Switzerland. </P>
+<P> The United States agreed to accept the nuclear waste in an effort to halt proliferation of weapons-grade uranium. </P>
+<P> ``The acceptance of this spent nuclear fuel sends a strong message to our foreign allies that the United States is a serious partner in eliminating the enriched uranium in the global marketplace,'' said Hazel O'Leary, the Secretary of Energy. </P>
+<P> The dissenting appeal court jurist, Donald Russell, protested the ``piecemeal approach'' the government has taken in disposing the waste. </P>
+<P> ``This shipment is only part of a proposed course of action on the part of the United States to accept 10,000 to 15,000 spent nuclear fuel elements from foreign parties over the next 10 to 15 years,'' Russell wrote. </P>
+<P> There are only 1,400 burial slots to be filled at SRS before the site will have to close. </P>
+<P> Travis Medlock, South Carolina Attorney General, said in a statement that he would file a petition Monday for a rehearing before the appeals court and will seek another temporary injunction to keep the nuclear fuel out of the state. </P>
+<P> South Carolina had argued that the waste should not come to SRS until the government completed an environmental assessment deeming the delivery safe. </P>
+<P> The Energy Department countered that its environmental review showed no danger and that a further report was not necessary. </P>
+<P> The federal non-proliferation program also attempts to persuade foreign research reactor operators to take on the financial and technical burdens of converting to low-enriched uranium. </P>
+<P> Without the incentive of spent-fuel acceptance, research reactor operators will not continue to convert to low-enriched fuel and that could gravely undermine non-proliferation policy, according to Secretary of State Warren Christopher. </P>
+</TEXT>
+</DOC>

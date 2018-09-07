@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU005-0381.940912</DOCID>
+<TDTID>TDT003227</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/12/94 09:49</DATE>
+<TITLE> Borden accepts $2 billion merger bid from KKR/RJR</TITLE>
+<HEADLINE> Borden accepts $2 billion merger bid from KKR/RJR</HEADLINE>
+<SUBJECT> BC-USA-BORDEN </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  In a $2 billion-deal, Dairy and pasta giant Borden said Monday it will be acquired by Kohlberg Kravis Roberts, marking the biggest acquisition by the leveraged buyout firm since it bought RJR Nabisco Holdings Corp. </P>
+<P> Under the proposed buyout, Borden will become a private company headed by its senior managers. Kohlberg Kravis will use its stock in RJR Nabisco to pay for the deal, reducing its once-majority control of the tobacco and consumer products giant to $2 billion. It bought RJR Nabisco for $25 billion five years ago. </P>
+<P> Borden has been struggling with weak earnings. In January, it launched a restructuring aimed at selling off weak units and turning its profits around, but with mixed results. </P>
+<P> KKR said it expects a definitive merger agreement to be executed within two weeks. </P>
+<P> It said the exchange is subject to certain limitations on the number of shares to be issued. It said the purchase price represents a premium of 22.6 percent over the closing market price of Borden's common stock on September 9, when it closed at $11.625 on the New York Stock Exchange. </P>
+<P> RJR stock, which closed Friday at $7, also on the NYSE, was not trading early Monday after the announcement. </P>
+<P> RJR Nabisco said upon KKR's successful acquisition of 100 percent of Borden, it would issue to Borden about $500 million of newly issued RJR common for newly issued Borden shares priced at $14.25 each, representing a 20 percent interest in Borden. </P>
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU010-0019.950319</DOCID>
+<TDTID>TDT011445</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/19/95 20:51</DATE>
+<TITLE> Three killed by Tokyo subway fumes</TITLE>
+<HEADLINE> Three killed by Tokyo subway fumes</HEADLINE>
+<SUBJECT> BC-JAPAN-SUBWAY-TOLL </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>TOKYO (Reuter) </DATELINE>
+<P>  Three people were killed by poisonous fumes which spread through crowded subway lines in Tokyo during Monday morning's rush hour, Fire Department officials said. </P>
+</TEXT>
+</DOC>

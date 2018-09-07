@@ -1,0 +1,15 @@
+<DOC>
+<DOCID>REU009-0144.940918</DOCID>
+<TDTID>TDT003624</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/18/94 20:35</DATE>
+<TITLE> U.S. officials say deal reached with Haiti leaders</TITLE>
+<HEADLINE> U.S. officials say deal reached with Haiti leaders</HEADLINE>
+<SUBJECT> BC-HAITI-USA-AGREEMENT URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The United States and Haitian military leaders reached agreement Sunday for the leaders to step down voluntarily and avoid a U.S. invasion to restore exiled President Jean-Bertrand Aristide to power, senior U.S. officials said. </P>
+</TEXT>
+</DOC>

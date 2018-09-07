@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU004-0053.940707</DOCID>
+<TDTID>TDT000241</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/07/94 11:26</DATE>
+<TITLE> BOGUS GINSENG PRODUCTS WIDELY SOLD - SCIENTISTS</TITLE>
+<HEADLINE> BOGUS GINSENG PRODUCTS WIDELY SOLD - SCIENTISTS</HEADLINE>
+<SUBJECT> BC-HEALTH-GINSENG (EMBARGOED) </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>  Release at 7 P.M. EDT</NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Many products marketed as natural ginseng contain little or no trace of the medicinal plant and strict quality control of this lucrative health market is urgently needed, Swedish researchers said Thursday. </P>
+<P> In a letter to Britain's Lancet medical journal, the scientists said tests on 50 products sold in 11 countries had revealed wide variations in the level of the active biological ingredients derived from the ginseng plant family. </P>
+<P> Six of the products sold in Britain, Sweden and the United States contained no ginsenosides, the compounds taken from the plant root and credited with therapeutic properties. </P>
+<P> The others had between 1.9 and 9.0 percent ginsenoside. </P>
+<P> The scientists said one product sold in the United States contained no ginseng but had substantial amounts of a drug, ephedrine, which is banned by sports authorities. Ephedrine is used as a heart stimulant and a muscle relaxant. </P>
+<P> The team from Huddinge University Hospital, Huddinge, Sweden, said a young Swedish athlete who tested positive for ephedrine in a doping controversy last year had taken the purported ginseng preparation. </P>
+<P> ``It is evident that there are commercial ginseng preparations that do not contain any true ginsenosides. At least one preparation may lead to a positive doping test,'' said Dr J. Cui and colleagues at the hospital's Karolinska medical research institute. </P>
+<P> ``We conclude that quality control is urgently needed for commercial ginseng preparations and other natural remedies with suspected or assumed biological activity.'' </P>
+<P> Ginseng, grown in North America and Asia, is widely taken to promote vigor and good health. Its consumption has surged during the last three decades, the scientists said. </P>
+</TEXT>
+</DOC>

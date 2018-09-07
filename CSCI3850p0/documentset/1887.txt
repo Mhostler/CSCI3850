@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU004-0472.941009</DOCID>
+<TDTID>TDT004695</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/09/94 04:54</DATE>
+<TITLE> Radio says Baghdad massing 100,000 men near Kuwait</TITLE>
+<HEADLINE> Radio says Baghdad massing 100,000 men near Kuwait</HEADLINE>
+<SUBJECT> BC-IRAQ-KUWAIT-OPPOSITION 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds details on Iraqi Army Radio paras 8-10)</NOTES>
+<DATELINE>DUBAI, United Arab Emirates (Reuter) </DATELINE>
+<P>  An Iraqi opposition radio station said Sunday Baghdad has massed more than 100,000 soldiers near Iraq's borders with Kuwait and Saudi Arabia. </P>
+<P> The radio, which calls itself Iraqi Army Radio, said five divisions of Iraqi Republican Guards were moved to the southern part of Iraq. </P>
+<P> A transcript of the broadcast sent to Reuters said: ``More than 100,000, all military men in civilian clothing, have been massed near the Iraqi-Kuwaiti-Saudi borders.'' </P>
+<P> The United States said Saturday up to 64,000 Iraqi troops backed by hundreds of tanks have massed in southern Iraq and some have advanced toward the border. </P>
+<P> U.N. observers in Kuwait said Sunday up to 20,000 people were apparently moving into a tent city on the Iraqi side just north of the border. </P>
+<P> Hundreds, described by Iraq as stateless civilians angry at their expulsion from Kuwait, had already arrived. </P>
+<P> The Tehran-based Iraqi ``Supreme Council for the Islamic Revolution in Iraq'' said in a separate statement Sunday that military convoys were seen moving south along roads to Kuwait. </P>
+<P> An Iraqi opposition source in London told Reuters the radio was the mouthpiece of a group within the Iraqi army opposed to President Saddam Hussein. </P>
+<P> The source, who asked not to be named, declined to disclose details or say where the station was broadcasting from. </P>
+<P> The BBC said the first broadcast by the so-called ``Voice of the Brave Iraqi Armed Forces'' came from a transmitter somewhere in the Middle East which had been carrying anti-Saddam broadcasts under other names since early this year. </P>
+</TEXT>
+</DOC>

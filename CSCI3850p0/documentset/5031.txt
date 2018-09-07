@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU010-0151.950320</DOCID>
+<TDTID>TDT011468</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/20/95 11:20</DATE>
+<TITLE> Buchanan announces he will seek U.S. presidency</TITLE>
+<HEADLINE> Buchanan announces he will seek U.S. presidency</HEADLINE>
+<SUBJECT> BC-POLITICS-BUCHANAN-ANNOUNCEMENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MANCHESTER, N.H. (Reuter) </DATELINE>
+<P>  Conservative columnist Patrick Buchanan declared himself a 1996 presidential candidate Monday at a ceremony briefly disrupted by two protesters who leaped onto the stage with placards reading ``Buchanan is a racist.'' </P>
+<P> The two, wearing the skullcaps of orthodox Jews, were quickly hustled from the room as Buchanan began his formal declaration. Nobody was hurt at the televised ceremony and the candidate dismissed the interruption as an example of ``what we're fighting against.'' </P>
+</TEXT>
+</DOC>

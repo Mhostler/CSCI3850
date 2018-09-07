@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0245.941102</DOCID>
+<TDTID>TDT005923</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/02/94 06:44</DATE>
+<TITLE> Iliescu says he will pardon British baby couple</TITLE>
+<HEADLINE> Iliescu says he will pardon British baby couple</HEADLINE>
+<SUBJECT> BC-BRITAIN-ILIESCU-BABY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>LONDON (Reuter) </DATELINE>
+<P>  Romanian President Ion Iliescu said Wednesday he was prepared to pardon a British couple sentenced to 28 months in jail for trying to smuggle a baby out of Romania, if their legal appeal failed. </P>
+<P> ``I will pardon them if the appeal doesn't succeed,'' Iliescu told reporters on arrival in Britain for a three-day visit. ``I am doing it because I feel they are not fundamentally guilty.'' </P>
+<P> ``Whatever happens they will be allowed to leave. It may not be necessary for the president to intervene. Maybe the second court will take such a decision,'' Iliescu said. </P>
+<P> The Mooneys were the first foreigners prosecuted under adoption laws introduced in 1992 to end baby-trafficking after the fall of communism in 1989 revealed that tens of thousands of abandoned children were living in filthy orphanages. </P>
+</TEXT>
+</DOC>

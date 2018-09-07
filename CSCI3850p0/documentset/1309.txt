@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU005-0377.940912</DOCID>
+<TDTID>TDT003226</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/12/94 09:36</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-QUAKE-USA 1STLD -2 SAN FRANCISCO </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> ``It affected large sections of California and Nevada. We haven't gotten any reports of damage or injuries,'' Person said. </P>
+<P> A police spokeswoman in Lake Tahoe, a popular winter ski resort near the Nevada border, said the quake shook people out of beds, knocked items off shelves and rattled windows. </P>
+<P> The quake was centered in a remote, sparsely populated area in the mountains. </P>
+</TEXT>
+</DOC>

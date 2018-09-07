@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU007-0370.940915</DOCID>
+<TDTID>TDT003438</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>09/15/94 15:44</DATE>
+<TITLE> Brazil capital declares emergency from dry weather</TITLE>
+<HEADLINE> Brazil capital declares emergency from dry weather</HEADLINE>
+<SUBJECT> BC-BRAZIL-DROUGHT (PICTURE) </SUBJECT>
+<AUTHOR>     By Julio Cesar Villaverde </AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>BRASILIA (Reuter) </DATELINE>
+<P>  Schools in the Brazilian capital were ordered closed Thursday and public workers put on mornings-only schedules until Tuesday as part of emergency measures to combat the effects of a drought that has brought devastation to much of Latin America's biggest country.  Public health officials urged residents to drink lots of fluids and stay out of the sun as humidity plunged to 12 percent Wednesday, tying a record set last year. </P>
+<P> Hospital emergency rooms were crowded with children seeking relief for respiratory ailments caused by the dryness, such as spontaneous nosebleeds. </P>
+<P> Brasilia has been without rain since July 27. Cloudless skies have been marked by smoke from innumerable brush fires, including a blaze Thursday at Brasilia's national park. </P>
+<P> Huge fires have ravaged the Chapada de Veadeiros national park 120 miles north of Brasilia. In Sao Paulo state, firefighters Thursday battled numerous fires spurred by high winds. </P>
+<P> In Andrina, western Sao Paulo state, no rain has been recorded for 105 days. A zoological station there has recorded only 1.8 inches of rain since the start of June against 24 inches of evaporation. </P>
+<P> The prolonged drought has hurt the vital coffee crop, although light rains were expected in coffee-growing regions over the next two days. </P>
+<P> Rivers and lakes throughout central and southern Brazil have dried up. Reservoirs serving Sao Paulo's 15 million people are only half full and authorities are campaigning to cut water use. </P>
+<P> Huge numbers of fish, alligators and other wildlife in the Pantanal, the world's biggest swamp, have been dying as waters recede. </P>
+<P> The National Weather Institute says the 40,000-square-mile wetlands in Mato Grosso do Sul state have gotten only 17.5 inches of rain since January, the lowest amount this century. </P>
+<P> Forecasters expect the dry weather to ease in October, the month that generally marks the end of Brazil's dry season. </P>
+</TEXT>
+</DOC>

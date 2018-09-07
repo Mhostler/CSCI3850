@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU015-0166.950424</DOCID>
+<TDTID>TDT013004</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/24/95 20:04</DATE>
+<TITLE> Clinton names new US envoy to United Arab Emirates</TITLE>
+<HEADLINE> Clinton names new US envoy to United Arab Emirates</HEADLINE>
+<SUBJECT> BC-CLINTON-EMIRATES </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  President Clinton Monday announced the nomination of David Litt, a career foreign service officer, as the new U.S. ambassador to the United Arab Emirates. </P>
+<P> The White House said Litt, who speaks both Arabic and Persian, had devoted most of his 21-year career to the Middle East, and served as consul general in Dubai, United Arab Emirates, from 1985-1988. </P>
+<P> He has also served in Saudi Arabia, Syria, Afghanistan, Italy and Niger, and is currently director of the Office of Northern Gulf Affairs, overseeing Iran and Iraq. </P>
+</TEXT>
+</DOC>

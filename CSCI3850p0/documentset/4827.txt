@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU005-0164.950309</DOCID>
+<TDTID>TDT011135</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>03/09/95 20:46</DATE>
+<TITLE> Congress passes law aimed at ending Chiapas uprising</TITLE>
+<HEADLINE> Congress passes law aimed at ending Chiapas uprising</HEADLINE>
+<SUBJECT> BC-MEXICO-CHIAPAS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>MEXICO CITY (Reuter) </DATELINE>
+<P>  The lower house of the Mexican Congress Thursday approved a law aimed at ending a 14-month-old indigenous rebellion in the southern state of Chiapas. </P>
+<P> The vote, with 427 votes in favor, seven against and two abstentions, completed Congressional approval of the law following passage by the Senate Tuesday. The law, among other provisions, offers an amnesty for rebels of the self-styled Zapatista National Liberation Army who are willing to give up their arms. </P>
+</TEXT>
+</DOC>

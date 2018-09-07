@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU013-0012.941027</DOCID>
+<TDTID>TDT005655</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/27/94 14:11</DATE>
+<TITLE> Disgruntled worker holds Colonel, secretary, hostage</TITLE>
+<HEADLINE> Disgruntled worker holds Colonel, secretary, hostage</HEADLINE>
+<SUBJECT> BC-HOSTAGE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>FORT IRWIN, Calif.(Reuter) </DATELINE>
+<P>  An armed man, believed to be a disgruntled ex-employee, was holding a colonel and a secretary hostage at the Fort Irwin Military Reservation National Guard base Thursday, authorities said. </P>
+<P> A spokesman for the San Bernadino County Sheriff's Department said a Special Weapons and Tactics Team was headed to Fort Irwin, a sprawling army post 140 miles northeast of Los Angeles. </P>
+<P> It was beleived the man had recently been fired from the base, spokesman Jim Bryant. </P>
+</TEXT>
+</DOC>

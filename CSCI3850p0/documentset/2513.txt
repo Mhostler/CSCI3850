@@ -1,0 +1,31 @@
+<DOC>
+<DOCID>REU005-0075.941109</DOCID>
+<TDTID>TDT006289</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>11/09/94 14:43</DATE>
+<TITLE> Republican contract seeks balanced budget</TITLE>
+<HEADLINE> Republican contract seeks balanced budget</HEADLINE>
+<SUBJECT> BC-ELECTION-CONTRACT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  House Republicans Wednesday promised a vote in the first 100 days of the new Congress on their controversial ``Contract With America'' calling for a balanced budget, enhanced defense spending and tax breaks. </P>
+<P> ``We think we have an obligation to focus the overwhelming bulk of our energy on passing a positive legislative program of positive reforms,'' Georgia Republican Newt Gingrich, likely the next House Speaker, told the NBC Today Show Wednesday. </P>
+<P> President Clinton and White House officials attempted without success to use the Contract, signed by more than 300 GOP candidates, as a campaign issue -- calling it a return to the failed economic policies of the Reagan years. </P>
+<P> Democrats said funding the new programs and offering new tax breaks while moving toward a balanced budget would require massive cuts in federal programs over five years, including the Medicare system of health care for the elderly. </P>
+<P> They also said many of the benefits in the plan would go to wealthy Americans. For example, prime beneficiaries of a proposed capital gains tax cut would be Americans with incomes over $100,000. </P>
+<P> Republicans brushed off the attacks and took out an ad in TV Guide to hawk the Contract, which Gingrich urged Americans to clip out and save to hold Republicans to their word. </P>
+<P> The Contract says Republicans, on the first day of the new Congress, will approve reforms including: bringing Congress under federal laws that apply to the rest of the public, cutting House committees and committee staff by a third, limiting terms of committee chairmen and requiring a three- fifths majority to pass tax increases. </P>
+<P></P>
+<P> A constitutional amendment requiring a balanced budget and changes giving the president the power to veto individual spending items in a bill without having to veto the whole bill to ``restore fiscal responsibility to an out-of-control Congress''. </P>
+<P> An anti-crime package cutting some of the social programs in the recently passed crime bill. </P>
+<P> Reform that bars welfare to mothers who are minors, denies increased benefits to women who have additional children while on welfare and limits the program available to them to two years. </P>
+<P> New incentives for adoption and child enforcing child support payments. </P>
+<P> A $500 per child tax credit and expansion of individual retirement accounts. </P>
+<P> Having no American troops under U.N. command and strengthened defense spending. </P>
+<P> Increasing the limit on outside earnings under Social Security and repealing higher tax rates on benefits for well- off retirees that were approved in 1993 as part of Clinton's deficit reduction plan. </P>
+<P> Indexing capital gains income, excluding 50 percent of capital gains from taxation and new small business incentives. </P>
+<P> Reforming the legal system, including limits on punitive damages and a first-ever vote on limiting the number of terms an elected officer can serve. </P>
+</TEXT>
+</DOC>

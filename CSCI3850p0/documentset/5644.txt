@@ -1,0 +1,16 @@
+<DOC>
+<DOCID>REU006-0390.950410</DOCID>
+<TDTID>TDT012417</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>04/10/95 21:24</DATE>
+<TITLE> American, Carol Bellamy, chosen as UNICEF head</TITLE>
+<HEADLINE> American, Carol Bellamy, chosen as UNICEF head</HEADLINE>
+<SUBJECT> BC-UN-UNICEF-BELLAMY </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>UNITED NATIONS (Reuter) </DATELINE>
+<P>  Carol Bellamy, the director of the U.S. peace corps and a former New York City Council president, was chosen as head of the U.N. Children's Fund (UNICEF), the United Nations announced on Monday. </P>
+<P> In selecting Bellamy, Secretary-General Boutros Boutros-Ghali turned down several European candidates, notably Elizabeth Rehm, the former Finnish defense minister. The European Union had made a strong bid for the post, traditionally held by an American. </P>
+</TEXT>
+</DOC>

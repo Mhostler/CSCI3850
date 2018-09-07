@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU011-0445.941227</DOCID>
+<TDTID>TDT008509</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>12/27/94 03:22</DATE>
+<TITLE> 15 firemen, 3 others injured after building explosion</TITLE>
+<HEADLINE> 15 firemen, 3 others injured after building explosion</HEADLINE>
+<SUBJECT> BC-EXPLOSION 2NDLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Adds details)</NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Fifteen firefighters and three other people were injured after a fireball explosion shook a fire-story building in Manhattan, officials said Tuesday. </P>
+<P> Spokesman George Semidey said the blast occurred in Manhattan's Murray Hill neighborhood - not far from the Empire State Building - at 11:10 p.m. EST Monday. </P>
+<P> Another fire department spokesman, Cosmo Romeo, said firefighters were in the process of controlling a one-alarm fire in a building housing a restaurant when a ball of fire exploded inside the building, possibly as a result of fumes or gas in the basement. </P>
+<P> Fifteen firefighters, one fire patrolman and two civilians were hurt as a result of the fireball explosion and were being treated for burns and other injuries, Romeo said. </P>
+<P> There were no life-threatening injuries, he added. </P>
+</TEXT>
+</DOC>

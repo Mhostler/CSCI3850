@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0154.950102</DOCID>
+<TDTID>TDT008767</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>01/02/95 12:57</DATE>
+<TITLE> New York police officers arrested for child abuse</TITLE>
+<HEADLINE> New York police officers arrested for child abuse</HEADLINE>
+<SUBJECT> BC-POLICE </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  Two New York City police officers have been charged with endangering the welfare of a child after authorities found numerous injuries on a 23-month-old girl in their care, police said Monday. </P>
+<P> Officer Carmen Vega, 23, and Officer Marcus Payne, 24, who had been living in a common law marriage, were suspended after police were called to the couple's apartment late Sunday and discovered the injuries on Vega's 23-month-old daughter, according to police spokesman Detective Joseph McConville. </P>
+<P> The child, who police did not name, was taken to Mary Immaculate Hospital in the borough of Queens and treated for injuries to her hand, including a thumb fracture. </P>
+<P> Police said the child had apparently been beaten and was suffering from possible jaw and skull fractures. Both appeared to be old injuries, McConville said. </P>
+<P> The two officers were charged with third degree assault and endangering the welfare of a child, he added. </P>
+</TEXT>
+</DOC>

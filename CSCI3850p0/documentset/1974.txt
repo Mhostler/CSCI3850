@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU006-0277.941012</DOCID>
+<TDTID>TDT004934</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>10/12/94 17:19</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-CUBA-USA-ANNOUNCEMENT -2 WASHINGTON </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> Shelly also said the government will operate a lottery that ''will substantially broaden avanues of legal migration for all Cubans, including those without direct family ties to the U.S.'' Lottery details will be announced by November 1, she said. </P>
+<P> In a written statement, she stressed that the new visa programs will be available to Cubans now in Cuba. </P>
+<P> Cubans in safe havens at the U.S. Naval Base in Guantanemo Bay, Cuba, and in Panama will be informed about the programs but ``in order to participate in them, they must return home,'' she said. </P>
+<P> Early September, talks in New York between the United States and Cuba, which have no formal diplomatic ties, produced an agreement that halted an exodus of Cubans who had fled their homeland on flimsy rafts and small boats in an effort to reach U.S. shores. </P>
+<P> Under the accord, the United States agreed to accept at least 20,000 Cuban immigrants a year but so far it has not spelled out how people could apply for those visas and how they would be apportioned. </P>
+<P> Under a previous migration accord signed in 1984, Washington agreed to take ``up to'' 20,000 Cuban immigrants. In effect, the number of visas issued never amounted to more than a few thousand each year. </P>
+</TEXT>
+</DOC>
