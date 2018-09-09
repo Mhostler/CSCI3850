@@ -1,0 +1,16 @@
+README
+Names:
+Michael Hostler - file IO and threading
+Zachary Maly - Stemming and Stopword script
+
+to compile
+javac *.java
+
+To run
+java X.java (FOLDER)
+
+Total time
+
+
+Outputs
+

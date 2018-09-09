@@ -7,13 +7,23 @@ import java.util.concurrent.TimeUnit;
 public class CSCI3850p0 {
 	private static ConcurrentLinkedQueue<String> fileQueue = new ConcurrentLinkedQueue<String>();
 	private static ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
-		
+	
+	private static int run;
+  
 	public static void main(String[] args) {
 		
 		Dictionary dict = new Dictionary( tokenQueue );
 		File directory = new File("./documentset");
 		String fileList[] = directory.list();
 		int threadNo = 20;
+
+		ElimStopWords.init();
+		if(args.length != 0) {
+			run = Integer.parseInt(args[0]);
+		}
+		else {
+			run = 0;
+		}
 		
 		for( String str : fileList ) {
 			fileQueue.add(str);
@@ -48,5 +58,9 @@ public class CSCI3850p0 {
 		dict.sort();
 
 		dict.display();	
+	}
+	
+	public static int getRunType() {
+		return run;
 	}
 }
