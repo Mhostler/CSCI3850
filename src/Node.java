@@ -11,10 +11,10 @@ public class Node {
     private ConcurrentLinkedQueue<FileNode> specific = new ConcurrentLinkedQueue<FileNode>();
     
     public String getKeyword() { return keyword; }    	
-    public int getOccurance() { return occurrence; }
+    public int getOccurrence() { return occurrence; }
     
     public void setKeyword(String key) { keyword = key; }
-    public void setOccurance(int oc) { occurrence = oc; }
+    public void setOccurrence(int oc) { occurrence = oc; }
     
     public ConcurrentLinkedQueue<FileNode> getQueue() { return specific; }
     public void setQueue( ConcurrentLinkedQueue<FileNode> queue ) { specific = queue; }
@@ -22,7 +22,7 @@ public class Node {
     public FileNode deQueue() { return specific.remove(); }
     public void enQueue(FileNode node) { specific.add(node); }
     
-    public void increment() {
+    public synchronized void increment() {
     	occurrence++;
     }
     

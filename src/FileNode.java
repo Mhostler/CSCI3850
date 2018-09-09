@@ -9,7 +9,7 @@ public class FileNode {
     public void setFileID(String id) { fileID = id; }
     public void setOccurrence(int oc) { occurrence = oc; }
     
-    public void increment() { occurrence++; }
+    public synchronized void increment() { occurrence++; }
     
     public int compareTo( FileNode fn ) {
     	return this.getFileID().compareTo( fn.getFileID() );

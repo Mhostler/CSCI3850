@@ -6,19 +6,30 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class FileProcessor implements Runnable {
 
-	ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
+	ConcurrentLinkedQueue<Node> tokenQueue;
+	ConcurrentLinkedQueue<String> files;
+	
+	public FileProcessor(ConcurrentLinkedQueue<String> fileNames, ConcurrentLinkedQueue<Node> dict ) {
+		files = fileNames;
+		tokenQueue = dict;
+	}
 	
 	public void run() {
 		BufferedReader fileReader;
 		String fileName = "";
 		
 		try {
-			//do{
-				fileName = CSCI3850p0.getNextFile();
+			do{
+				fileName = files.poll();
+
+				if( fileName == null )
+					break;
+				
 				fileReader = new BufferedReader(new FileReader("./documentset/" + fileName));	
 				String str = "";
 				
 				while( (str = fileReader.readLine()) != null ) {
+					System.out.println("Working: " + fileName);
 					process(str, fileName);
 				}
 				
@@ -27,10 +38,9 @@ public class FileProcessor implements Runnable {
 //					System.out.println(key);
 //				}
 				
-				output();
 				fileReader.close();
 				
-			//}while( !CSCI3850p0.isEmpty() );
+			}while( !files.isEmpty() );
 		} catch (FileNotFoundException e) {
 			System.out.println("Failed to open file: " + fileName);
 			e.printStackTrace();
@@ -56,7 +66,7 @@ public class FileProcessor implements Runnable {
 			if(!token.isEmpty()) {
 				Node n = new Node();
 				n.setKeyword(token);
-				n.setOccurance(1);
+				n.setOccurrence(1);
 				
 				FileNode fn = new FileNode();
 				fn.setFileID(fileName);
@@ -64,14 +74,10 @@ public class FileProcessor implements Runnable {
 				n.enQueue(fn);
 				
 				tokenQueue.add(n);
-				System.out.println(n.getKeyword());
+				//System.out.println(n.getKeyword());
 				//tokenQueue.add(token);
 			}
 		}
-	}
-	
-	public  void output() {
-		Dictionary.input( tokenQueue );
 	}
 	
 //	public void lineLinker(String toBreak, String docName){

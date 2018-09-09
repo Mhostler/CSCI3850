@@ -1,38 +1,58 @@
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.util.Formatter;
 import java.util.Iterator;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class Dictionary {
 	
-	private static ConcurrentLinkedQueue<Node> dictionary = new ConcurrentLinkedQueue<Node>();
+	private ConcurrentLinkedQueue<Node> dictionary;
+	
+	public Dictionary( ConcurrentLinkedQueue<Node> d ) {
+		this.dictionary = d;
+	}
 	
 	public void add(Node n) { dictionary.add(n); }
 	public Node remove() { return dictionary.remove(); }
 	
-	public static synchronized void input(ConcurrentLinkedQueue<Node> input) {
+	public synchronized void input(ConcurrentLinkedQueue<Node> input) {
 		dictionary = merge( input, dictionary );
 	}
 	
-	public static void sort() { dictionary = mergeSortQueue( dictionary ); }
+	public void sort() { dictionary = mergeSortQueue( dictionary ); }
 	
-	public static void display() {
-		for( Node n : dictionary ) {
+	public void display() {
+		Formatter formOut;
+		try {
+			formOut = new Formatter(new FileOutputStream("Output.txt"));
 			
-			Iterator<FileNode> iter = n.getQueue().iterator();
-			String files[] = new String[5];
-			
-			while( iter.hasNext() ) {
-				for( int i = 0; i < 5; i++ ) {
-					if( iter.hasNext() ) {
-						files[i] = iter.next().getFileID();
-						iter.remove();
+			for( Node n : dictionary ) {
+				
+				Iterator<FileNode> iter = n.getQueue().iterator();
+				String files[] = new String[5];
+				
+				formOut.format( "%15s:\t%d\n", n.getKeyword(), n.getOccurrence() );	
+				System.out.printf( "%15s:\t%d\n", n.getKeyword(), n.getOccurrence() );
+				
+				while( iter.hasNext() ) {
+					for( int i = 0; i < 5; i++ ) {
+						if( iter.hasNext() ) {
+							files[i] = iter.next().getFileID();
+							iter.remove();
+						}
+						else {
+							files[i] = "";
+						}
 					}
-					else {
-						files[i] = "";
-					}
+					
+					formOut.format("  %8s   %8s   %8s   %8s   %8s\n", files[0], files[1], files[2], files[3], files[4]);
+					System.out.printf("  %8s   %8s   %8s   %8s   %8s\n", files[0], files[1], files[2], files[3], files[4]);
 				}
-				//System.out.println("We made it!");
-				System.out.printf("%s:\t\t%d\t%s\t%s\t%s\t%s\t%s\n", n.getKeyword(), n.getOccurance(), files[0], files[1], files[2], files[3], files[4]);
 			}
+			
+			formOut.close();
+		} catch(FileNotFoundException e) {
+			e.printStackTrace();
 		}
 	}
 	
@@ -59,7 +79,7 @@ public class Dictionary {
 		return q;
 	}
 	
-	private static ConcurrentLinkedQueue<Node> merge( ConcurrentLinkedQueue<Node> q1, ConcurrentLinkedQueue<Node> q2 ) {
+	private synchronized static ConcurrentLinkedQueue<Node> merge( ConcurrentLinkedQueue<Node> q1, ConcurrentLinkedQueue<Node> q2 ) {
 		if(q1.isEmpty()) { return q2; }
 		if(q2.isEmpty()) { return q1; }
 		
@@ -85,7 +105,7 @@ public class Dictionary {
 			else {
 				Node n = q1.poll();
 				Node n2 = q2.poll();
-				n.increment();
+				n.setOccurrence( n.getOccurrence() + n2.getOccurrence() );
 				
 				ConcurrentLinkedQueue<FileNode> fn = fileMerge( n.getQueue(), n2.getQueue() );
 				n.setQueue( fn );
@@ -122,8 +142,8 @@ public class Dictionary {
 			}
 			else {
 				FileNode n = q1.poll();
-				q2.poll();
-				n.increment();
+				FileNode n2 = q2.poll();
+				n.setOccurrence( n.getOccurrence() + n2.getOccurrence() );
 				
 				merged.add( n );
 			}
