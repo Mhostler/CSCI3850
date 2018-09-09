@@ -9,13 +9,14 @@ public class CSCI3850p0 {
 	private static ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
 	
 	private static int run;
-	
+  
 	public static void main(String[] args) {
 		
 		Dictionary dict = new Dictionary( tokenQueue );
 		File directory = new File("./documentset");
 		String fileList[] = directory.list();
 		int threadNo = 20;
+
 		ElimStopWords.init();
 		if(args.length != 0) {
 			run = Integer.parseInt(args[0]);
