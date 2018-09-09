@@ -7,8 +7,14 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  */
 public class Node {
     private String keyword;
-    private int occurrence = 0;
-    private ConcurrentLinkedQueue<FileNode> specific = new ConcurrentLinkedQueue<FileNode>();
+    private int occurrence;
+    private ConcurrentLinkedQueue<FileNode> specific;
+    
+    public Node() {
+    	keyword = "";
+    	occurrence = 0;
+    	specific = new ConcurrentLinkedQueue<FileNode>();
+    }
     
     public String getKeyword() { return keyword; }    	
     public int getOccurance() { return occurrence; }
