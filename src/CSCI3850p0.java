@@ -1,53 +1,52 @@
 import java.io.File;
 import java.util.concurrent.ConcurrentLinkedQueue;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 
 public class CSCI3850p0 {
-	private static ConcurrentLinkedQueue<String> fileQueue = new ConcurrentLinkedQueue<String>();	
+	private static ConcurrentLinkedQueue<String> fileQueue = new ConcurrentLinkedQueue<String>();
+	private static ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
 		
 	public static void main(String[] args) {
 		
+		Dictionary dict = new Dictionary( tokenQueue );
 		File directory = new File("./documentset");
 		String fileList[] = directory.list();
+		int threadNo = 20;
 		
 		for( String str : fileList ) {
 			fileQueue.add(str);
 		}
 		
-		Thread t = new Thread(new FileProcessor());
-		t.start();
+		ExecutorService executor = Executors.newFixedThreadPool( Runtime.getRuntime().availableProcessors() );
+		
+		for( int i = 0; i < threadNo; i++) {
+			executor.execute( new FileProcessor( fileQueue, tokenQueue ) );
+		}
+		
+//		Thread t = new Thread(new FileProcessor());
+//		t.start();
+//		try {
+//			t.join();
+//			
+//			Dictionary.sort();
+//			
+//			Dictionary.display();
+//		} catch (InterruptedException e) {
+//			System.out.println("thread interrupted");
+//			e.printStackTrace();
+//		}	
+		
 		try {
-			t.join();
-			
-			Thread.sleep(10000);
+			executor.awaitTermination(30, TimeUnit.SECONDS);
 		} catch (InterruptedException e) {
-			System.out.println("thread interrupted");
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
+		dict.sort();
 
-//		ConcurrentLinkedQueue<Thread> threads = new ConcurrentLinkedQueue<Thread>();
-//		while( !fileQueue.isEmpty() ) {
-//			threads.add(new Thread(new FileProcessor()));
-//		}
-//		
-//		for (Thread thread : threads ) {
-//			try {
-//				thread.join();
-//			} catch (InterruptedException e) {
-//				// TODO Auto-generated catch block
-//				e.printStackTrace();
-//			}
-//		}
-	}
-	
-	public static String getNextFile() {
-		return fileQueue.remove();
-	}
-	
-	public static boolean isEmpty() {
-		if( fileQueue.isEmpty() ) {
-			return true;
-		}
-		else
-			return false;
+		dict.display();	
 	}
 }
