@@ -6,11 +6,11 @@ import java.util.Arrays;
 
 public class ElimStopWords {
 
-	public String[] stahp = new String[175];
-	String add;
-	int x = 0;
+	public static String[] stahp = new String[175];
+	static String add;
+	static int x = 0;
 	//HowTo: call this method as part of startup process to set up the arrays or add this method to another file
-	public void init() {
+	public static void init() {
 		//Use file IO to import words from stopWords.txt into array stahp
 		BufferedReader stopReader;
 		try {
@@ -30,8 +30,8 @@ public class ElimStopWords {
 		
 	}
 	//uses binary search to find value in sorted list of stopwords, returns true if found else false
-	public boolean isStop(String[] arrs, String x) {
-		int a =  Arrays.binarySearch(arrs, x);
+	public static boolean isStop(String x) {
+		int a =  Arrays.binarySearch(stahp, x);
 		if(a > 0) {
 			return true;
 		}

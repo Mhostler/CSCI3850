@@ -24,7 +24,16 @@ public class Dictionary {
 	public void display() {
 		Formatter formOut;
 		try {
-			formOut = new Formatter(new FileOutputStream("Output.txt"));
+			String name;
+			int runT = CSCI3850p0.getRunType();
+			if(runT == 1) {
+				name = "OutputStop.txt";
+			} else if (runT == 2) {
+				name = "OutputStopStem.txt";
+			} else {
+				name = "Output.txt";
+			}
+			formOut = new Formatter(new FileOutputStream(name));
 			
 			for( Node n : dictionary ) {
 				
@@ -55,7 +64,7 @@ public class Dictionary {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static ConcurrentLinkedQueue<Node> mergeSortQueue( ConcurrentLinkedQueue<Node> q ) {
 		Node n;
 		int size = q.size();
