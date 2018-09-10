@@ -17,6 +17,7 @@ public class FileProcessor implements Runnable {
 	public void run() {
 		BufferedReader fileReader;
 		String fileName = "";
+		ElimStopWords esw = new ElimStopWords();
 		int runType = CSCI3850p0.getRunType();
 		
 		try {
@@ -31,7 +32,7 @@ public class FileProcessor implements Runnable {
 				
 				while( (str = fileReader.readLine()) != null ) {
 					System.out.println("Working: " + fileName);
-					process(str, fileName, runType);
+					process(str, fileName, esw, runType);
 				}
 				
 //				for( String key : tokenQueue )
@@ -54,7 +55,7 @@ public class FileProcessor implements Runnable {
 
 	}
 	
-	public void process(String str, String fileName, int runType) {
+	public void process(String str, String fileName, ElimStopWords esw, int runType) {
 		str = str.replaceAll("<.*?>", "");
 		str = str.replaceAll("[^a-zA-Z0-9]", " ");
 		str = str.replaceAll("\\s+", " ");
@@ -62,6 +63,7 @@ public class FileProcessor implements Runnable {
 		
 		String tokens[] = str.split("\\s");
 		Stemmer s = new Stemmer();
+		char[] ack;
 		
 		for( String token : tokens ) {
 			
@@ -77,7 +79,7 @@ public class FileProcessor implements Runnable {
 				
 				//Stopwords
 				if(runType == 1) {
-					if(ElimStopWords.isStop(token)) {
+					if(esw.isStop(token)) {
 						continue;
 					}
 					else {
@@ -86,12 +88,15 @@ public class FileProcessor implements Runnable {
 				}
 				//Stemming
 				else if(runType == 2) {
-					if(ElimStopWords.isStop(token)) {
+					if(esw.isStop(token)) {
 						continue;
 					}
 					else {
 						//stemming stuff
-						
+						ack = token.toCharArray();
+						s.add(ack, token.length());
+						s.stem();
+						token = s.toString();
 						tokenQueue.add(n);
 					}
 				}

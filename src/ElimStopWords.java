@@ -6,11 +6,15 @@ import java.util.Arrays;
 
 public class ElimStopWords {
 
-	public static String[] stahp = new String[175];
+	public static String[] stahp;
 	static String add;
-	static int x = 0;
+	static int x;
 	//HowTo: call this method as part of startup process to set up the arrays or add this method to another file
-	public static void init() {
+	public ElimStopWords() {
+		
+		stahp = new String[174];
+		x = 0;
+		
 		//Use file IO to import words from stopWords.txt into array stahp
 		BufferedReader stopReader;
 		try {
