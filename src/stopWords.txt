@@ -171,8 +171,4 @@ you've
 your
 yours
 yourself
-<<<<<<< HEAD
 yourselves
-=======
-yourselves
->>>>>>> branch 'master' of https://github.com/Mhostler/CSCI3850

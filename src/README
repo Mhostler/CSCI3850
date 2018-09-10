@@ -7,7 +7,10 @@ to compile
 javac *.java
 
 To run
-java X.java (FOLDER)
+java CSCI3850p0.java (number 0 1 or 2)
+0: default run, no stopword filter or stemming also used when no key is given
+1: stopword filter enabled, no stemming
+2: stopword filter and stemmer enabled
 
 Total time
 
