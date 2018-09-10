@@ -12,7 +12,6 @@ public class CSCI3850p0 {
 	
 	private static int run;
 	private static long timeStop;
-	
 	public static void main(String[] args) {
 		
 		long timeStart = System.currentTimeMillis();
