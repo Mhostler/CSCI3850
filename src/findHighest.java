@@ -8,32 +8,29 @@ public class findHighest {
 		int counter = 0;
 		for (Node a : z) {
 			//run initial pass and then sort that array
-			//for a >= 11 compare with bottom[0] if a is lower do sortbot vice versa
-			sortBot(bottom);
-			sortHigh(top);
+			if (counter < 10) {
+				bottom[counter] = a;
+				top[counter] = a;
+				counter++;
+			} else if (bottom[0].getOccurrence() > a.getOccurrence()) {
+				bottom[0] = a;
+				sortBot(bottom);
+			} else if (top[0].getOccurrence() < a.getOccurrence()) {
+				top[0] = a;
+				sortBot(top);
+			} else {
+				continue;
+			}
+			if (counter == 9) {
+				sortBot(bottom);
+				sortHigh(top);
+			}
+			
 		}
-		
-		
 		
 	}
 	
-	public static boolean greater(int val, int[] check) {
-		for(int i = 0; i < check.length; i++) {
-			if(check[i] >= val) {
-				return false;
-			}
-		}
-		return true;
-	}
-	
-	public static boolean lesser(int val, int[] check) {
-		for(int j = 0; j < check.length; j++) {
-			if(check[j] <= val) {
-				return false;
-			}
-		}
-		return true;
-	}
+
 	// greatest value first
 	public static void sortBot(Node[] arr) {
 		for (int i = 1; i < 10; ++i)
@@ -66,5 +63,4 @@ public class findHighest {
 			arr[j+1] = key;
         }
 	}
-
 }
