@@ -416,10 +416,16 @@ class Stemmer
          {  System.out.println("error reading " + args[i]);
             break;
          }
+         
+         in.close();
       }
       catch (FileNotFoundException e)
       {  System.out.println("file " + args[i] + " not found");
          break;
-      }
+      } catch (IOException e) {
+		// TODO Auto-generated catch block
+    	  System.out.println( "Failed to close: " + args[i] );
+		e.printStackTrace();
+	}
    }
 }
