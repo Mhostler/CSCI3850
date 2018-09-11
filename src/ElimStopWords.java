@@ -35,7 +35,7 @@ public class ElimStopWords {
 	}
 	//uses binary search to find value in sorted list of stopwords, returns true if found else false
 
-	public static boolean isStop(String x) {
+	public boolean isStop(String x) {
 		int a =  Arrays.binarySearch(stahp, x);
 
 		if(a > 0) {
