@@ -12,6 +12,8 @@ public class Dictionary {
 		this.dictionary = d;
 	}
 	
+	public ConcurrentLinkedQueue<Node> getQueue() { return dictionary; }
+	
 	public void add(Node n) { dictionary.add(n); }
 	public Node remove() { return dictionary.remove(); }
 	

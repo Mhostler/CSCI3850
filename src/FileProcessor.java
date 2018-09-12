@@ -32,14 +32,9 @@ public class FileProcessor implements Runnable {
 				String str = "";
 				
 				while( (str = fileReader.readLine()) != null ) {
-					System.out.println("Working: " + fileName);
+					//System.out.println("Working: " + fileName);
 					process(str, fileName, esw, runType);
 				}
-				
-//				for( String key : tokenQueue )
-//				{
-//					System.out.println(key);
-//				}
 				
 				fileReader.close();
 				
@@ -58,7 +53,7 @@ public class FileProcessor implements Runnable {
 	
 	public void process(String str, String fileName, ElimStopWords esw, int runType) {
 		str = str.replaceAll("<.*?>", "");
-		str = str.replaceAll("[^a-zA-Z0-9]", " ");
+		str = str.replaceAll("[^a-zA-Z0-9 ]", "");
 		str = str.replaceAll("\\s+", " ");
 		str = str.toLowerCase();
 		
@@ -99,30 +94,14 @@ public class FileProcessor implements Runnable {
 						s.add(ack, token.length());
 						s.stem();
 						token = s.toString();
+						n.setKeyword(token);
 						tokenQueue.add(n);
 					}
 				}
 				else {
 						tokenQueue.add(n);
 				}
-
-				//System.out.println(n.getKeyword());
-				//tokenQueue.add(token);
 			}
 		}
 	}
-	
-//	public void lineLinker(String toBreak, String docName){
-//        	String[] arrs = toBreak.split(" ");
-//        	for(int x = 0; x < arrs.length; x++){
-//        		Node a = new Node();
-//        		FileNode b = new FileNode();
-//        		a.setKeyword(arrs[x]);
-//        		a.setOccurance(1);
-//        		b.setFileID(docName);
-//        		b.setOccurrence(1);
-//        		a.enQueue(b);
-//        		tokenQueue.add(a);
-//        	}
-//    	}
 }
