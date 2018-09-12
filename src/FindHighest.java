@@ -57,7 +57,7 @@ public class FindHighest {
 				counter++;
 			} else if (lowestf[0].getOccurrence() > n.getOccurrence()) {
 				lowestf[0] = n;
-				sortHigh(lowestf);
+				sortBot(lowestf);
 			} else {
 				continue;
 			}
