@@ -9,8 +9,7 @@ public class CSCI3850p0 {
 	private static ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
 	public static Node[] bottom = new Node[10];
 	public static Node[] top = new Node[10];
-	
-	private static int run;
+
 	private static long timeStop;
 	
 	public static void main(String[] args) {
@@ -21,13 +20,6 @@ public class CSCI3850p0 {
 		File directory = new File("./documentset");
 		String fileList[] = directory.list();
 		int threadNo = 20;
-
-		if(args.length != 0) {
-			run = Integer.parseInt(args[0]);
-		}
-		else {
-			run = 0;
-		}
 		
 		for( String str : fileList ) {
 			fileQueue.add(str);
@@ -39,19 +31,6 @@ public class CSCI3850p0 {
 			executor.execute( new FileProcessor( fileQueue, tokenQueue ) );
 		}
 		
-//		Thread t = new Thread(new FileProcessor());
-//		t.start();
-//		try {
-//			t.join();
-//			
-//			Dictionary.sort();
-//			
-//			Dictionary.display();
-//		} catch (InterruptedException e) {
-//			System.out.println("thread interrupted");
-//			e.printStackTrace();
-//		}	
-		
 		try {
 			executor.awaitTermination(30, TimeUnit.SECONDS);
 		} catch (InterruptedException e) {
@@ -61,7 +40,7 @@ public class CSCI3850p0 {
 		
 		dict.sort();
 		
-		findHighest.find(tokenQueue, bottom, top);
+		//findHighest.find(tokenQueue, bottom, top);
 		
 		timeStop = System.currentTimeMillis() - timeStart;
 		
@@ -69,10 +48,7 @@ public class CSCI3850p0 {
 		
 		
 	}
-	
-	public static int getRunType() {
-		return run;
-	}
+
 	public static long getTime() {
 		return timeStop;
 	}

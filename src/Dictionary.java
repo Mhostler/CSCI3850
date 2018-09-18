@@ -25,14 +25,7 @@ public class Dictionary {
 		Formatter formOut;
 		try {
 			String name;
-			int runT = CSCI3850p0.getRunType();
-			if(runT == 1) {
-				name = "OutputStop.txt";
-			} else if (runT == 2) {
-				name = "OutputStopStem.txt";
-			} else {
-				name = "Output.txt";
-			}
+			name = "Output.txt";
 			formOut = new Formatter(new FileOutputStream(name));
 			
 			for( Node n : dictionary ) {
@@ -40,8 +33,8 @@ public class Dictionary {
 				Iterator<FileNode> iter = n.getQueue().iterator();
 				String files[] = new String[5];
 				
-				formOut.format( "%15s:\t%d\n", n.getKeyword(), n.getOccurrence() );	
-				System.out.printf( "%15s:\t%d\n", n.getKeyword(), n.getOccurrence() );
+				formOut.format( "%15s:\t%d\n", n.getKeyword() );	
+				System.out.printf( "%15s:\t%d\n", n.getKeyword() );
 				
 				while( iter.hasNext() ) {
 					for( int i = 0; i < 5; i++ ) {
@@ -114,7 +107,6 @@ public class Dictionary {
 			else {
 				Node n = q1.poll();
 				Node n2 = q2.poll();
-				n.setOccurrence( n.getOccurrence() + n2.getOccurrence() );
 				
 				ConcurrentLinkedQueue<FileNode> fn = fileMerge( n.getQueue(), n2.getQueue() );
 				n.setQueue( fn );

@@ -3,7 +3,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 
 public class findHighest {
-
+/*
 	public static void find(ConcurrentLinkedQueue<Node> z, Node[] bottom, Node[] top) {
 		int counter = 0;
 		for (Node a : z) {
@@ -63,4 +63,5 @@ public class findHighest {
 			arr[j+1] = key;
         }
 	}
+	*/
 }

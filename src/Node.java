@@ -7,24 +7,18 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  */
 public class Node {
     private String keyword;
-    private int occurrence = 0;
     private ConcurrentLinkedQueue<FileNode> specific = new ConcurrentLinkedQueue<FileNode>();
     
     public String getKeyword() { return keyword; }    	
-    public int getOccurrence() { return occurrence; }
     
     public void setKeyword(String key) { keyword = key; }
-    public void setOccurrence(int oc) { occurrence = oc; }
     
     public ConcurrentLinkedQueue<FileNode> getQueue() { return specific; }
     public void setQueue( ConcurrentLinkedQueue<FileNode> queue ) { specific = queue; }
     
     public FileNode deQueue() { return specific.remove(); }
     public void enQueue(FileNode node) { specific.add(node); }
-    
-    public synchronized void increment() {
-    	occurrence++;
-    }
+
     
     public boolean equals(Object e) {
     	if (e == this)
