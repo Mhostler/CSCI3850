@@ -18,9 +18,7 @@ public class FileProcessor implements Runnable {
 		BufferedReader fileReader;
 		String fileName = "";
 		ElimStopWords esw = new ElimStopWords();
-
-		int runType = CSCI3850p0.getRunType();
-
+		
 		try {
 			do{
 				fileName = files.poll();
@@ -33,7 +31,7 @@ public class FileProcessor implements Runnable {
 				
 				while( (str = fileReader.readLine()) != null ) {
 					//System.out.println("Working: " + fileName);
-					process(str, fileName, esw, runType);
+					process(str, fileName, esw);
 				}
 				
 				fileReader.close();
@@ -46,12 +44,10 @@ public class FileProcessor implements Runnable {
 			System.out.println("File I/O failed.");
 			e.printStackTrace();
 		}
-		
-	
 
 	}
 	
-	public void process(String str, String fileName, ElimStopWords esw, int runType) {
+	public void process(String str, String fileName, ElimStopWords esw) {
 		str = str.replaceAll("<.*?>", "");
 		str = str.replaceAll("[^a-zA-Z0-9 ]", "");
 		str = str.replaceAll("\\s+", " ");
@@ -67,41 +63,26 @@ public class FileProcessor implements Runnable {
 			if(!token.isEmpty()) {
 				Node n = new Node();
 				n.setKeyword(token);
-				n.setOccurrence(1);
+
 				
 				FileNode fn = new FileNode();
 				fn.setFileID(fileName);
-				fn.setOccurrence(1);
 				n.enQueue(fn);
 				
-				//Stopwords
-				if(runType == 1) {
-					if(esw.isStop(token)) {
-						continue;
-					}
-					else {
-						tokenQueue.add(n);
-					}
-				}
-				//Stemming
-				else if(runType == 2) {
-					if(esw.isStop(token)) {
-						continue;
-					}
-					else {
-						//stemming stuff
-						ack = token.toCharArray();
-						s.add(ack, token.length());
-						s.stem();
-						token = s.toString();
-						n.setKeyword(token);
-						tokenQueue.add(n);
-					}
+
+				if(esw.isStop(token)) {
+					continue;
 				}
 				else {
-						tokenQueue.add(n);
+					//stemming stuff
+					ack = token.toCharArray();
+					s.add(ack, token.length());
+					s.stem();
+					token = s.toString();
+					tokenQueue.add(n);
 				}
 			}
 		}
 	}
+	
 }
