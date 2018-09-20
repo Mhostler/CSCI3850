@@ -2,34 +2,68 @@
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 
-public class findHighest {
-/*
-	public static void find(ConcurrentLinkedQueue<Node> z, Node[] bottom, Node[] top) {
+public class FindHighest {
+
+	private static ConcurrentLinkedQueue<Node> dictionary;
+	
+	public static void setDictionary(ConcurrentLinkedQueue<Node> d ) { dictionary = d; }
+	
+	public static Node [] findHighest() {
+		Node [] highestf = new Node[10];
 		int counter = 0;
-		for (Node a : z) {
-			//run initial pass and then sort that array
+		
+		for( int i = 0; i < 10; i++ ) { highestf[i] = new Node(); }
+		
+		for( Node n : dictionary ) {
+			//run initial pass and then sort that array				
 			if (counter < 10) {
-				bottom[counter] = a;
-				top[counter] = a;
+				highestf[counter].setKeyword( n.getKeyword() );
+				highestf[counter].setOccurrence( n.getOccurrence() );
+				
+				if( counter == 9 ) { 
+					sortHigh(highestf); 
+					}
+				
 				counter++;
-			} else if (bottom[0].getOccurrence() > a.getOccurrence()) {
-				bottom[0] = a;
-				sortBot(bottom);
-			} else if (top[0].getOccurrence() < a.getOccurrence()) {
-				top[0] = a;
-				sortBot(top);
+			} else if (highestf[0].getOccurrence() < n.getOccurrence()) {
+				highestf[0].setKeyword( n.getKeyword() );
+				highestf[0].setOccurrence( n.getOccurrence() );
+				sortHigh(highestf);
+				
+
 			} else {
 				continue;
 			}
-			if (counter == 9) {
-				sortBot(bottom);
-				sortHigh(top);
-			}
-			
 		}
 		
+		return highestf;
 	}
 	
+	public static Node [] findLowest() {
+		Node [] lowestf = new Node[10];
+		int counter = 0;
+		
+		for( int i = 0; i < lowestf.length; i++ ) { lowestf[i] = new Node(); }
+		
+		for( Node n : dictionary ) {
+			//run initial pass and then sort that array
+			if (counter < 10) {
+				lowestf[counter] = n;
+				
+				if( counter == 9 ) { 
+					sortBot(lowestf); 
+					}
+				
+				counter++;
+			} else if (lowestf[0].getOccurrence() > n.getOccurrence()) {
+				lowestf[0] = n;
+				sortBot(lowestf);
+			} else {
+				continue;
+			}
+		}
+		return lowestf;
+	}
 
 	// greatest value first
 	public static void sortBot(Node[] arr) {
@@ -63,5 +97,4 @@ public class findHighest {
 			arr[j+1] = key;
         }
 	}
-	*/
 }

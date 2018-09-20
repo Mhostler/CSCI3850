@@ -30,7 +30,7 @@ public class FileProcessor implements Runnable {
 				String str = "";
 				
 				while( (str = fileReader.readLine()) != null ) {
-					System.out.println("Working: " + fileName);
+					//System.out.println("Working: " + fileName);
 					process(str, fileName, esw);
 				}
 				
@@ -49,11 +49,12 @@ public class FileProcessor implements Runnable {
 	
 	public void process(String str, String fileName, ElimStopWords esw) {
 		str = str.replaceAll("<.*?>", "");
-		str = str.replaceAll("[^a-zA-Z0-9]", " ");
+		str = str.replaceAll("[^a-zA-Z0-9 ]", "");
 		str = str.replaceAll("\\s+", " ");
 		str = str.toLowerCase();
 		
 		String tokens[] = str.split("\\s");
+
 		Stemmer s = new Stemmer();
 		char[] ack;
 		
@@ -80,10 +81,8 @@ public class FileProcessor implements Runnable {
 					token = s.toString();
 					tokenQueue.add(n);
 				}
-
 			}
 		}
-
 	}
 	
 }
