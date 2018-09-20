@@ -1,4 +1,7 @@
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Scanner;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -9,15 +12,25 @@ public class CSCI3850p0 {
 	private static ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
 	public static Node[] bottom = new Node[10];
 	public static Node[] top = new Node[10];
-
+	public static String[] queryList;
+	public static String queries;
+	
 	private static long timeStop;
 	
 	public static void main(String[] args) {
 		
 		long timeStart = System.currentTimeMillis();
 		
+		if(args == null) {
+			System.out.println("ERROR: to execute type 'java CSCI3850p0 DATA query.txt'");
+			System.exit(0);
+		}
+		
+		//TODO get query.txt placed line by line into an array (stem and remove stopwords as well)
+		setupQuery(args[1], queryList);
+		
 		Dictionary dict = new Dictionary( tokenQueue );
-		File directory = new File("./documentset");
+		File directory = new File(args[0]);
 		String fileList[] = directory.list();
 		int threadNo = 20;
 		
@@ -51,5 +64,45 @@ public class CSCI3850p0 {
 
 	public static long getTime() {
 		return timeStop;
+	}
+	
+	public static void setupQuery(String fname, String[] querylist) {
+		String token = "";
+		ArrayList<String> tempList = new ArrayList<String>();
+		String[] agh;
+		char[] meh;
+		ElimStopWords y = new ElimStopWords();
+		Stemmer z = new Stemmer();
+		
+		try {
+			Scanner in = new Scanner(new File(fname));
+			while(in.hasNextLine()) {
+				token = in.nextLine();
+				tempList.add(token);
+			}
+			in.close();
+		} catch (FileNotFoundException e) {
+			System.out.println("Error 404: File not Found");
+			e.printStackTrace();
+			System.exit(0);
+		}
+		
+		queryList = tempList.toArray(new String[0]);
+		
+		for(int x = 0; x < queryList.length; x++) {
+			//take qL[0] split into temp string array by " " check for stopwords and then convert each word to char array and stem
+			agh = queryList[x].split(" ");
+			for(int h = 0; h < agh.length; h++) {
+				if (y.isStop(agh[h])) {agh[h] = " ";}
+				if (agh[h] != " ") {
+					meh = agh[h].toCharArray();
+					z.add(meh, agh[h].length());
+					z.stem();
+					agh[h] = z.toString();
+				}
+			}
+			queryList[x] = String.join(" ", agh);
+		}
+		
 	}
 }
