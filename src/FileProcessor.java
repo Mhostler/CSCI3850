@@ -26,7 +26,9 @@ public class FileProcessor implements Runnable {
 				if( fileName == null )
 					break;
 				
-				fileReader = new BufferedReader(new FileReader("./documentset/" + fileName));	
+				String directoryName = CSCI3850p0.getFileName();
+				fileReader = new BufferedReader(new FileReader("./" + directoryName + "/" + fileName));	
+				
 				String str = "";
 				
 				while( (str = fileReader.readLine()) != null ) {
@@ -62,8 +64,7 @@ public class FileProcessor implements Runnable {
 			
 			if(!token.isEmpty()) {
 				Node n = new Node();
-				n.setKeyword(token);
-
+				n.setOccurrence(1);
 				
 				FileNode fn = new FileNode();
 				fn.setFileID(fileName);
@@ -79,6 +80,7 @@ public class FileProcessor implements Runnable {
 					s.add(ack, token.length());
 					s.stem();
 					token = s.toString();
+					n.setKeyword(token);
 					tokenQueue.add(n);
 				}
 			}

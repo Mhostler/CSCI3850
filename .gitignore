@@ -5,3 +5,11 @@
 *.class
 *.class
 *.class
+/documentset/
+/Output.txt
+/OutputStop.txt
+/OutputStopStem.txt
+/documentset.zip
+/hw_Stop.txt
+/hw_StopStem.txt
+/hw_nocull.txt

@@ -1,3 +1,5 @@
+import java.util.concurrent.ConcurrentLinkedQueue;
+
 //import java.io.BufferedReader;
 //import java.io.FileNotFoundException;
 //import java.io.FileReader;
@@ -6,7 +8,7 @@
 
 public class ElimStopWords {
 
-	public static Object[] stahp;
+	public static ConcurrentLinkedQueue<String> stahp;
 	static String add;
 	static int x;
 	//HowTo: call this method as part of startup process to set up the arrays or add this method to another file
@@ -44,21 +46,6 @@ public class ElimStopWords {
 	//uses binary search to find value in sorted list of stopwords, returns true if found else false
 
 	public boolean isStop(String x) {
-		for(int i = 0; i < stahp.length; i++ )
-		{
-			if( ((String)stahp[i]).compareTo(x) == 0 )
-				return true;
-		}
-		
-		return false;
-//		int a =  Arrays.binarySearch(stahp, x);
-//
-//		if(a > 0) {
-//			return true;
-//		}
-//		else {
-//			return false;
-//		}
+		return stahp.contains(x);
 	}
-
 }

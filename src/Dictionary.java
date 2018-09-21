@@ -112,7 +112,7 @@ public class Dictionary {
 				
 				ConcurrentLinkedQueue<FileNode> fn = fileMerge( n.getQueue(), n2.getQueue() );
 				n.setQueue( fn );
-				
+				n.setOccurrence(n.getOccurrence() + n2.getOccurrence());
 				merged.add( n );
 			}
 		}

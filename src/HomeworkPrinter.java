@@ -19,15 +19,7 @@ public class HomeworkPrinter {
 		
 		String file;
 		BufferedWriter writer;
-		int runType = CSCI3850p0.getRunType();
-		
-		if( runType == 0 ) { file = "hw_nocull.txt"; }
-		else if( runType == 1 ) { file = "hw_Stop.txt"; }
-		else if( runType == 2 ) { file = "hw_StopStem.txt"; }
-		else {
-			file = "err";
-			System.out.println("Error with runType in HomeworkPrinter");
-		}
+		file = "hw_StopStem.txt";
 		
 		FindHighest.setDictionary( dictionary );
 		highest = FindHighest.findHighest();

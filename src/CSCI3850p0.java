@@ -1,6 +1,8 @@
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -10,8 +12,12 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 //import java.util.concurrent.TimeUnit;
 
 public class CSCI3850p0 {
+	private static File directory;
+	
 	private static ConcurrentLinkedQueue<String> fileQueue = new ConcurrentLinkedQueue<String>();
 	private static ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
+	private static ConcurrentLinkedQueue<String> stopWords = new ConcurrentLinkedQueue<String>();
+	
 	public static Node[] bottom = new Node[10];
 	public static Node[] top = new Node[10];
 	public static String[] queryList;
@@ -20,10 +26,15 @@ public class CSCI3850p0 {
 	
 	private static long timeStop;
 
+	public static String getFileName() { return directory.getName(); }
+	
 	public static void main(String[] args) {
 		
 		int threadNo = 20;		
 		Thread t[] = new Thread[threadNo];
+		
+		BufferedReader stopReader;
+		String word;
 		
 		long timeStart = System.currentTimeMillis();
 		
@@ -37,9 +48,8 @@ public class CSCI3850p0 {
 
 		
 		Dictionary dict = new Dictionary( tokenQueue );
-		File directory = new File(args[0]);
+		directory = new File(args[0]);
 		String fileList[] = directory.list();
-		int threadNo = 20;
 
 		for( String str : fileList ) {
 			fileQueue.add(str);
@@ -96,6 +106,8 @@ public class CSCI3850p0 {
 	public static long getTime() {
 		return timeStop;
 	}
+	
+	public static ConcurrentLinkedQueue<String> getStopWords() { return stopWords; }
 	
 	public static void setupQuery(String fname, String[] querylist) {
 		String token = "";
