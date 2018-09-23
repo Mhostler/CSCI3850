@@ -19,15 +19,12 @@ public class DictHash {
 		synchronized(lock) {
 			String has = a.getKeyword();
 			int ytp = makeKey(has);
-			while(true) {
-				if(nodeHash[ytp] == null) {
-					nodeHash[ytp] = a;
-					break;
-				} else if (a.equals(nodeHash[ytp])){
+			while (nodeHash[ytp] != null) {
+				if(a.equals(nodeHash[ytp])) {
 					do {
 						nodeHash[ytp].enQueue(a.deQueue());
 					}while(a.getQueue() != null);
-					break;
+					continue;
 				} else {
 					ytp = (ytp * 5) % 11;
 				}
