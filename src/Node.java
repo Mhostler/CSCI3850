@@ -8,9 +8,12 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 public class Node {
     private String keyword;
     private ConcurrentLinkedQueue<FileNode> specific = new ConcurrentLinkedQueue<FileNode>();
+    private int hash;
+    
+    public int getHash() {return hash;};
+    public void setHash(int h) {hash = h;}
     
     public String getKeyword() { return keyword; }    	
-    
     public void setKeyword(String key) { keyword = key; }
     
     public ConcurrentLinkedQueue<FileNode> getQueue() { return specific; }
