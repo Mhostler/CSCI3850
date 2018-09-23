@@ -12,6 +12,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 //import java.util.concurrent.TimeUnit;
 
 public class CSCI3850p0 {
+
 	private static File directory;
 	
 	private static ConcurrentLinkedQueue<String> fileQueue = new ConcurrentLinkedQueue<String>();
