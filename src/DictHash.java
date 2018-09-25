@@ -1,10 +1,10 @@
 import java.util.concurrent.ConcurrentLinkedQueue;
 
-public class DictHash {
+public class DictHash { // convert to Concurrent Hash Map
 	Node[] nodeHash = new Node[600000];
 	Object lock;
 	
-	public Node get(int key) {
+	public Node find(int key) {
 		if (nodeHash[key] != null) {
 			return nodeHash[key];
 		} else {
