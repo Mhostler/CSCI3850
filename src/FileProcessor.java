@@ -8,10 +8,14 @@ public class FileProcessor implements Runnable {
 
 	ConcurrentLinkedQueue<Node> tokenQueue;
 	ConcurrentLinkedQueue<String> files;
+	ConcurrentLinkedQueue<Node> keys;
+	long wordCount;
 	
 	public FileProcessor(ConcurrentLinkedQueue<String> fileNames, ConcurrentLinkedQueue<Node> dict ) {
 		files = fileNames;
 		tokenQueue = dict;
+		keys = new ConcurrentLinkedQueue<Node>();
+		wordCount = 0;
 	}
 	
 	public void run() {
@@ -35,6 +39,24 @@ public class FileProcessor implements Runnable {
 					//System.out.println("Working: " + fileName);
 					process(str, fileName, esw);
 				}
+				
+				for( Node n : keys ) {
+					ConcurrentLinkedQueue<FileNode> temp = n.getQueue();
+					FileNode fn = temp.poll();
+					
+					//should only be one object in temp
+					if( !temp.isEmpty() ) {
+						System.out.println("Error: More than one file at a time");
+					}
+					
+					fn.setWordCount(wordCount);
+					temp.add(fn);
+					n.setQueue(temp);
+				}
+				
+				tokenQueue.addAll(keys);
+				keys.clear();
+				wordCount = 0;
 				
 				fileReader.close();
 				
@@ -60,6 +82,8 @@ public class FileProcessor implements Runnable {
 		Stemmer s = new Stemmer();
 		char[] ack;
 		
+		int lineCount = 0;
+		
 		for( String token : tokens ) {
 			
 			if(!token.isEmpty()) {
@@ -68,23 +92,29 @@ public class FileProcessor implements Runnable {
 				
 				FileNode fn = new FileNode();
 				fn.setFileID(fileName);
+				fn.setOccurrence(1);
 				n.enQueue(fn);
 				
 
 				if(esw.isStop(token)) {
 					continue;
 				}
-				else {
+				else {					
 					//stemming stuff
 					ack = token.toCharArray();
 					s.add(ack, token.length());
 					s.stem();
 					token = s.toString();
+					
+					lineCount++;
+					
+					//set token in queue
 					n.setKeyword(token);
-					tokenQueue.add(n);
+					keys.add(n);
 				}
 			}
 		}
-	}
-	
+		
+		wordCount += lineCount;
+	}	
 }
