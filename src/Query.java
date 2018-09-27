@@ -26,7 +26,7 @@ public class Query {
 						a.setDocID(it.next().getFileID());
 						weight = (float)it.next().getOccurrence() / (float)it.next().getWordCount();
 						a.addWeight(weight);
-						// add them to queue in order of highest weight
+						a.setToken(xyz[m]);
 						if(found.contains(a)) {
 							littleIt = found.iterator();
 							while(littleIt.hasNext()) {

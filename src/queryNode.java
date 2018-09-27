@@ -1,12 +1,15 @@
 
 public class queryNode {
+	String token;
 	String docID;
 	float weight = 0;
 	
 	public String getDocID() {return docID;}
+	public String getToken() {return token;}
 	public float getWeight() {return weight;}
 	
 	public void setDocID(String a) {docID = a;}
+	public void setToken(String d) {token = d;}
 	public void setWeight(float b) {weight = b;}
 	public void addWeight(float c) {weight += c;}
 	
