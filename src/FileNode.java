@@ -18,6 +18,11 @@ public class FileNode {
     public synchronized void increment() { occurrence++; }
     
     public int compareTo( FileNode fn ) {
+    	if( this == null )
+    		System.out.println("THIS IS NULL");
+    	if( fn == null)
+    		System.out.println("FN IS NULL");
+    	
     	return this.getFileID().compareTo( fn.getFileID() );
     }
 }

@@ -1,11 +1,14 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Map;
 import java.util.Scanner;
-
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
 //import java.util.concurrent.ExecutorService;
 //import java.util.concurrent.Executors;
@@ -19,11 +22,13 @@ public class CSCI3850p0 {
 	private static ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
 	private static ConcurrentLinkedQueue<String> stopWords = new ConcurrentLinkedQueue<String>();
 	
+	public static ConcurrentHashMap<String, Node> mapping = new ConcurrentHashMap<String, Node>();
 	public static Node[] bottom = new Node[10];
 	public static Node[] top = new Node[10];
 	public static String[] queryList;
 	public static String queries;
 
+	static DictionaryTree dt = new DictionaryTree(100);
 	
 	private static long timeStop;
 
@@ -72,7 +77,7 @@ public class CSCI3850p0 {
 		
 		System.out.println( "Beginning File Parsing." );
 		for( int i = 0; i < threadNo; i++ ) {
-			t[i] = new Thread( new FileProcessor( fileQueue, tokenQueue ) );
+			t[i] = new Thread( new FileProcessor( fileQueue, tokenQueue, dt ) );
 			t[i].start();
 		}
 		
@@ -87,14 +92,16 @@ public class CSCI3850p0 {
 		}
 		System.out.println( "Finished Parsing" );
 		
-		System.out.println( "Beginning Term Sorting, this may take some time" );
-		dict.sort();
-		
-		System.out.println( "Sorting Finished" );
+		//System.out.println( "Beginning Term Sorting, this may take some time" );
+		//dict.sort();
+		//System.out.println( "Sorting Finished" );
 		
 		timeStop = System.currentTimeMillis() - timeStart;
 		
 		//dict.display();	
+		//DictHash.DisplayTable();
+		//dt.traverse();
+		displayMap();
 		
 		System.out.println( "Printing to output file." );
 		HomeworkPrinter.setQueue( dict.getQueue() );
@@ -148,5 +155,31 @@ public class CSCI3850p0 {
 			queryList[x] = String.join(" ", agh);
 		}
 		
+	}
+	
+	public static void displayMap() {
+		try {
+			BufferedWriter bw = new BufferedWriter( new FileWriter( "MapOut.txt." ));
+			for( Map.Entry<String, Node> e : mapping.entrySet() ) {
+				bw.write(e.getValue().getKeyword() + ":" + e.getValue().getOccurrence() + "\n     ");
+				
+				int count = 0;
+				for( FileNode fn : e.getValue().getQueue() ) {
+					bw.write(fn.getFileID() + ": " + fn.getWordCount() + "  " );
+					
+					if( count++ >= 5 ) {
+						bw.write("\n     ");
+						count = 0;
+					}
+				}
+				
+				bw.write("\n\n");
+			}
+			
+			bw.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 }
