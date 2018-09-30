@@ -1,4 +1,5 @@
 import java.util.Iterator;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class Query {
@@ -6,40 +7,41 @@ public class Query {
 	private static ConcurrentLinkedQueue<FileNode> hit;
 	private static float weight;
 	private static Iterator<FileNode> it;
-	private static Iterator<Node> bigIt;
 	private static Iterator<queryNode> littleIt;
 	
-	public static ConcurrentLinkedQueue<queryNode> commence(String list, ConcurrentLinkedQueue<Node> archive){
-		bigIt = archive.iterator();
+	public static ConcurrentLinkedQueue<queryNode> commence(String list){
+		ConcurrentHashMap<String, Node> archive = CSCI3850p0.mapping;
 		String[] xyz = list.split(" ");
-		for (int m = 0; m < xyz.length; m++) { //for every element of abc archive
-			while (bigIt.hasNext()) { //for every element of xyz which is split of list
-				if(bigIt.next().getKeyword() == xyz[m]) { //if it matches
-					hit = bigIt.next().getQueue();
-					it = hit.iterator();
-					while(it.hasNext()) {
-						queryNode a = new queryNode(); // gather all files and calculate weight for each file
-						a.setDocID(it.next().getFileID());
-						weight = (float)it.next().getOccurrence() / (float)it.next().getWordCount();
-						a.addWeight(weight);
-						if(found.contains(a)) {
-							littleIt = found.iterator();
-							while(littleIt.hasNext()) {
-								if(littleIt.next().equals(a)) {
-									littleIt.next().addWeight(weight);
-									break;
-								}
-							}
-						}
-						else {
-							found.add(a);
-						//TODO: process the results after the loop is finally complete
-						}
-					}
-				}
-			}
-			
-		}
+//		bigIt = archive.iterator();
+//		String[] xyz = list.split(" ");
+//		for (int m = 0; m < xyz.length; m++) { //for every element of abc archive
+//			while (bigIt.hasNext()) { //for every element of xyz which is split of list
+//				if(bigIt.next().getKeyword() == xyz[m]) { //if it matches
+//					hit = bigIt.next().getQueue();
+//					it = hit.iterator();
+//					while(it.hasNext()) {
+//						queryNode a = new queryNode(); // gather all files and calculate weight for each file
+//						a.setDocID(it.next().getFileID());
+//						weight = (float)it.next().getOccurrence() / (float)it.next().getWordCount();
+//						a.addWeight(weight);
+//						if(found.contains(a)) {
+//							littleIt = found.iterator();
+//							while(littleIt.hasNext()) {
+//								if(littleIt.next().equals(a)) {
+//									littleIt.next().addWeight(weight);
+//									break;
+//								}
+//							}
+//						}
+//						else {
+//							found.add(a);
+//						//TODO: process the results after the loop is finally complete
+//						}
+//					}
+//				}
+//			}
+//			
+//		}
 		found = processQueue(found);
 		return found;
 	}
