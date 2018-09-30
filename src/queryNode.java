@@ -15,7 +15,7 @@ public class queryNode {
 		if (e == this)
     		return true;
     	
-    	if( !(e instanceof Node)) {
+    	if( !(e instanceof queryNode)) {
     		return false;
     	}
     	
