@@ -10,16 +10,12 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
-//import java.util.concurrent.ExecutorService;
-//import java.util.concurrent.Executors;
-//import java.util.concurrent.TimeUnit;
 
 public class CSCI3850p0 {
 
 	private static File directory;
 	
 	private static ConcurrentLinkedQueue<String> fileQueue = new ConcurrentLinkedQueue<String>();
-	private static ConcurrentLinkedQueue<Node> tokenQueue = new ConcurrentLinkedQueue<Node>();
 	private static ConcurrentLinkedQueue<String> stopWords = new ConcurrentLinkedQueue<String>();
 	
 	public static ConcurrentHashMap<String, Node> mapping = new ConcurrentHashMap<String, Node>();
@@ -27,8 +23,6 @@ public class CSCI3850p0 {
 	public static Node[] top = new Node[10];
 	public static String[] queryList;
 	public static String queries;
-
-	static DictionaryTree dt = new DictionaryTree(100);
 	
 	private static long timeStop;
 
@@ -52,8 +46,6 @@ public class CSCI3850p0 {
 		//TODO get query.txt placed line by line into an array (stem and remove stopwords as well)
 		setupQuery(args[1], queryList);
 
-		
-		Dictionary dict = new Dictionary( tokenQueue );
 		directory = new File(args[0]);
 		String fileList[] = directory.list();
 
@@ -77,7 +69,7 @@ public class CSCI3850p0 {
 		
 		System.out.println( "Beginning File Parsing." );
 		for( int i = 0; i < threadNo; i++ ) {
-			t[i] = new Thread( new FileProcessor( fileQueue, tokenQueue, dt ) );
+			t[i] = new Thread( new FileProcessor( fileQueue ) );
 			t[i].start();
 		}
 		
@@ -92,19 +84,11 @@ public class CSCI3850p0 {
 		}
 		System.out.println( "Finished Parsing" );
 		
-		//System.out.println( "Beginning Term Sorting, this may take some time" );
-		//dict.sort();
-		//System.out.println( "Sorting Finished" );
-		
 		timeStop = System.currentTimeMillis() - timeStart;
-		
-		//dict.display();	
-		//DictHash.DisplayTable();
-		//dt.traverse();
+
 		displayMap();
 		
 		System.out.println( "Printing to output file." );
-		HomeworkPrinter.setQueue( dict.getQueue() );
 		HomeworkPrinter.setTime( timeStop );
 		HomeworkPrinter.printHomework();
 		

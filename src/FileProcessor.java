@@ -6,21 +6,14 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class FileProcessor implements Runnable {
-
-
-	ConcurrentLinkedQueue<Node> tokenQueue;
 	ConcurrentLinkedQueue<String> files;
 	ConcurrentLinkedQueue<Node> keys;
 	long wordCount;
 	
-	DictionaryTree dt;
-	
-	public FileProcessor(ConcurrentLinkedQueue<String> fileNames, ConcurrentLinkedQueue<Node> dict, DictionaryTree t ) {
+	public FileProcessor(ConcurrentLinkedQueue<String> fileNames ) {
 		files = fileNames;
-		tokenQueue = dict;
 		keys = new ConcurrentLinkedQueue<Node>();
 		wordCount = 0;
-		dt = t;
 	}
 	
 	public void run() {
@@ -41,7 +34,6 @@ public class FileProcessor implements Runnable {
 				String str = "";
 				
 				while( (str = fileReader.readLine()) != null ) {
-					//System.out.println("Working: " + fileName);
 					process(str, fileName, esw);
 				}
 				
@@ -58,15 +50,7 @@ public class FileProcessor implements Runnable {
 					temp.add(fn);
 					n.setQueue(temp);
 				}
-				
-				//tokenQueue.addAll(keys);
-//				for(Node n : tokenQueue) {
-//					System.out.println("Token: " + n.getKeyword());
-//				}
-				//DictHash.add(keys);
-//				for( Node n : keys ) {
-//					dt.insert(n);
-//				}
+
 				map( keys );
 				keys.clear();
 				wordCount = 0;
@@ -143,9 +127,10 @@ public class FileProcessor implements Runnable {
 		for( Node n : cn ) {
 			Node tmp = map.get(n.getKeyword());
 			if( tmp != null ) {
-				n.addSimilar( tmp );			
+				n.addSimilar( tmp );
 			}
 			map.put(n.getKeyword(), n);
 		}
 	}
+	
 }
