@@ -2,20 +2,25 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class FileProcessor implements Runnable {
+
 
 	ConcurrentLinkedQueue<Node> tokenQueue;
 	ConcurrentLinkedQueue<String> files;
 	ConcurrentLinkedQueue<Node> keys;
 	long wordCount;
 	
-	public FileProcessor(ConcurrentLinkedQueue<String> fileNames, ConcurrentLinkedQueue<Node> dict ) {
+	DictionaryTree dt;
+	
+	public FileProcessor(ConcurrentLinkedQueue<String> fileNames, ConcurrentLinkedQueue<Node> dict, DictionaryTree t ) {
 		files = fileNames;
 		tokenQueue = dict;
 		keys = new ConcurrentLinkedQueue<Node>();
 		wordCount = 0;
+		dt = t;
 	}
 	
 	public void run() {
@@ -54,9 +59,18 @@ public class FileProcessor implements Runnable {
 					n.setQueue(temp);
 				}
 				
-				tokenQueue.addAll(keys);
+				//tokenQueue.addAll(keys);
+//				for(Node n : tokenQueue) {
+//					System.out.println("Token: " + n.getKeyword());
+//				}
+				//DictHash.add(keys);
+//				for( Node n : keys ) {
+//					dt.insert(n);
+//				}
+				map( keys );
 				keys.clear();
 				wordCount = 0;
+				
 				
 				fileReader.close();
 				
@@ -72,6 +86,12 @@ public class FileProcessor implements Runnable {
 	}
 	
 	public void process(String str, String fileName, ElimStopWords esw) {
+		str = str.replaceAll("<DOCID>.*?</DOCID>", "");
+		str = str.replaceAll("<TDTID>.*?</TDTID>", "");
+		str = str.replaceAll("<DATE>.*?</DATE>", "");
+		str = str.replaceAll("<HEADLINE>.*?</HEADLINE>", "");
+		str = str.replaceAll("<SUBJECT>.*?</SUBJECT>", "");
+		str = str.replaceAll("<DATELINE>.*?</DATELINE>", "");
 		str = str.replaceAll("<.*?>", "");
 		str = str.replaceAll("[^a-zA-Z0-9 ]", "");
 		str = str.replaceAll("\\s+", " ");
@@ -117,4 +137,15 @@ public class FileProcessor implements Runnable {
 		
 		wordCount += lineCount;
 	}	
+	
+	public void map( ConcurrentLinkedQueue<Node> cn ) {
+		ConcurrentHashMap<String,Node> map = CSCI3850p0.mapping;
+		for( Node n : cn ) {
+			Node tmp = map.get(n.getKeyword());
+			if( tmp != null ) {
+				n.addSimilar( tmp );			
+			}
+			map.put(n.getKeyword(), n);
+		}
+	}
 }
