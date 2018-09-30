@@ -1,12 +1,10 @@
 
-import java.util.concurrent.ConcurrentLinkedQueue;
-
+import java.util.Map;
 
 public class FindHighest {
 
-	private static ConcurrentLinkedQueue<Node> dictionary;
-	
-	public static void setDictionary(ConcurrentLinkedQueue<Node> d ) { dictionary = d; }
+	public static Node [] highest = new Node[10];
+	public static Node [] lowest = new Node[10];
 	
 	public static Node [] findHighest() {
 		Node [] highestf = new Node[10];
@@ -14,7 +12,13 @@ public class FindHighest {
 		
 		for( int i = 0; i < 10; i++ ) { highestf[i] = new Node(); }
 		
-		for( Node n : dictionary ) {
+		for( Map.Entry<String, Node> e : CSCI3850p0.mapping.entrySet() ) {
+			Node n = e.getValue();
+			
+			if( n == null ) {
+				continue;
+			}
+			
 			//run initial pass and then sort that array				
 			if (counter < 10) {
 				highestf[counter].setKeyword( n.getKeyword() );
@@ -45,7 +49,12 @@ public class FindHighest {
 		
 		for( int i = 0; i < lowestf.length; i++ ) { lowestf[i] = new Node(); }
 		
-		for( Node n : dictionary ) {
+		for( Map.Entry<String, Node> e : CSCI3850p0.mapping.entrySet() ) {
+			Node n = e.getValue();
+			if( n == null ) {
+				continue;
+			}
+				
 			//run initial pass and then sort that array
 			if (counter < 10) {
 				lowestf[counter] = n;
