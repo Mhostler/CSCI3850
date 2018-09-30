@@ -1,11 +1,7 @@
 import java.util.Iterator;
 import java.util.concurrent.ConcurrentLinkedQueue;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.util.Formatter;
 
 public class Query {
-	private static ConcurrentLinkedQueue<Node> results;
 	private static ConcurrentLinkedQueue<queryNode> found;
 	private static ConcurrentLinkedQueue<FileNode> hit;
 	private static float weight;
@@ -13,7 +9,7 @@ public class Query {
 	private static Iterator<Node> bigIt;
 	private static Iterator<queryNode> littleIt;
 	
-	public static ConcurrentLinkedQueue<Node> commence(String list, ConcurrentLinkedQueue<Node> archive){
+	public static ConcurrentLinkedQueue<queryNode> commence(String list, ConcurrentLinkedQueue<Node> archive){
 		bigIt = archive.iterator();
 		String[] xyz = list.split(" ");
 		for (int m = 0; m < xyz.length; m++) { //for every element of abc archive
@@ -26,7 +22,6 @@ public class Query {
 						a.setDocID(it.next().getFileID());
 						weight = (float)it.next().getOccurrence() / (float)it.next().getWordCount();
 						a.addWeight(weight);
-						a.setToken(xyz[m]);
 						if(found.contains(a)) {
 							littleIt = found.iterator();
 							while(littleIt.hasNext()) {
@@ -45,26 +40,59 @@ public class Query {
 			}
 			
 		}
-		return results;
-	}
-	
-	public static float findWeight() {
-		float result = 0;
-		return result;
+		found = processQueue(found);
+		return found;
 	}
 	
 	//may need to be modified later
 	public static void printOut(ConcurrentLinkedQueue<queryNode> toPrint, int time, String query) {
 		Iterator<queryNode> printIt = toPrint.iterator();
+		int counter = 0;
 		System.out.printf("Query '%s', time to process: %d\n", query, time);
-		while (printIt.hasNext()) {
+		while (printIt.hasNext() && counter < 10) {
 			System.out.printf("DocID: %s\n", printIt.next().getDocID());
+			counter++;
 		}
 	}
 	
-	public static void processQueue() {
-		//processes the queue so that DocIDs are matched and total weight is calculated
-		//also calls printout
+	public static ConcurrentLinkedQueue<queryNode> processQueue(ConcurrentLinkedQueue<queryNode> a) {
+		queryNode[] arrs = new queryNode[10];
+		ConcurrentLinkedQueue<queryNode> sorted = null;
+		Iterator<queryNode> it = a.iterator();
+		int count = 0;
+		
+		while(it.hasNext()) {
+			if(count < 9) {
+				arrs[count] = it.next();
+				count++;
+			} 
+			if(count == 9) {
+				arrs[count] = it.next();
+				arrs = sortHelp(arrs);
+				count++;
+			} else if(it.next().getWeight() > arrs[0].getWeight()) {
+				arrs[0] = it.next();
+				arrs = sortHelp(arrs);
+			} 
+		}
+		
+		return sorted;
+	}
+	
+	//helper method
+	public static queryNode[] sortHelp(queryNode[] toSort) {
+		//insertion sort implementation
+		for(int l = 1; l<10 ; ++l) {
+			float key = toSort[l].getWeight();
+			int j = l - 1;
+			
+			while (j>=0 && toSort[j].getWeight() > key) {
+				toSort[j+1] = toSort[j];
+				j = j-1;
+			}
+			toSort[j+1] = toSort[l];
+		}
+		return toSort;
 	}
 	
 }
