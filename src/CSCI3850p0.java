@@ -92,6 +92,14 @@ public class CSCI3850p0 {
 		HomeworkPrinter.setTime( timeStop );
 		HomeworkPrinter.printHomework();
 		
+		Thread tester = new Thread(new Query(queryList));
+		tester.start();
+		try {
+			tester.join();
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		
 		System.out.println( "Program Finished. Time: " + Long.toString(timeStop) + " miliseconds" );
 	}
 
@@ -112,7 +120,25 @@ public class CSCI3850p0 {
 		try {
 			Scanner in = new Scanner(new File(fname));
 			while(in.hasNextLine()) {
-				token = in.nextLine();
+        
+				line = in.nextLine();
+				agh = line.split(" ");
+				//add in stemming and etc
+				for(String item : agh) {
+					if(y.isStop(item)) {
+						item = "";
+					}
+					else {
+						item = item.toLowerCase();
+						meh = item.toCharArray();
+						z.add(meh, meh.length);
+						z.stem();
+						item = z.toString();
+					}
+				}
+				token = String.join(" ", agh);
+				token.replaceAll("\\s+", " ");
+
 				tempList.add(token);
 			}
 			in.close();

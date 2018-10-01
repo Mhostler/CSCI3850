@@ -2,48 +2,45 @@ import java.util.Iterator;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
-public class Query {
-	private static ConcurrentLinkedQueue<queryNode> found;
-	private static ConcurrentLinkedQueue<FileNode> hit;
-	private static float weight;
-	private static Iterator<FileNode> hitIt;
-	private static Iterator<queryNode> littleIt;
+public class Query implements Runnable {
+	private ConcurrentLinkedQueue<queryNode> found = new ConcurrentLinkedQueue<queryNode>();
+	private ConcurrentLinkedQueue<FileNode> hit;
+	private ConcurrentLinkedQueue<String> queries;
+	private float weight;
+	private Iterator<FileNode> hitIt;
 	
-	public static ConcurrentLinkedQueue<queryNode> commence(String list){
+	public Query(ConcurrentLinkedQueue<String> item) {
+		queries = item;
+	}
+	
+	public void commence(String list){
 		ConcurrentHashMap<String, Node> archive = CSCI3850p0.mapping;
+		ConcurrentLinkedQueue<queryNode> mergeFound = new ConcurrentLinkedQueue<queryNode>();
 		String[] xyz = list.split(" ");
 		for(String term : xyz) {
-			if(archive.contains(term)) {
+			System.out.println(term);
+			if(archive.containsKey(term)) {
 				Node alpha = archive.get(term);
 				hit = alpha.getQueue();
 				hitIt = hit.iterator();
 				while(hitIt.hasNext()) {
 					queryNode a = new queryNode();
-					a.setDocID(hitIt.next().getFileID());
-					weight = (float)hitIt.next().getOccurrence() / (float)hitIt.next().getWordCount();
+					FileNode b = hitIt.next();
+					a.setDocID(b.getFileID());
+					weight = (float)b.getOccurrence() / (float)b.getWordCount();
 					a.addWeight(weight);
-					if(found.contains(a)) {
-						littleIt = found.iterator();
-						while(littleIt.hasNext()) {
-							if(littleIt.next().equals(a)) {
-								littleIt.next().addWeight(weight);
-								break;
-							}
-						}
-					}
-					else {
-						found.add(a);
-					}
+					mergeFound.add(a);
+					System.out.println(a.getDocID());
 				}
 				
+				merger(mergeFound);
+				mergeFound.clear();
 			}
 		}
-		found = processQueue(found);
-		return found;
 	}
 	
 	//may need to be modified later
-	public static void printOut(ConcurrentLinkedQueue<queryNode> toPrint, int time, String query) {
+	public void printOut(ConcurrentLinkedQueue<queryNode> toPrint, long time, String query) {
 		Iterator<queryNode> printIt = toPrint.iterator();
 		int counter = 0;
 		System.out.printf("Query '%s', time to process: %d\n", query, time);
@@ -53,44 +50,81 @@ public class Query {
 		}
 	}
 	
-	public static ConcurrentLinkedQueue<queryNode> processQueue(ConcurrentLinkedQueue<queryNode> a) {
-		queryNode[] arrs = new queryNode[10];
-		ConcurrentLinkedQueue<queryNode> sorted = null;
-		Iterator<queryNode> it = a.iterator();
+	public void merger(ConcurrentLinkedQueue<queryNode> toMerge) {
+		//for every item in tomerge if found in found add the weights together if not add the node to found
+		queryNode toJudge = toMerge.poll();
+		ConcurrentLinkedQueue<queryNode> ttt = new ConcurrentLinkedQueue<queryNode>();
+		
+		while(!toMerge.isEmpty() || !found.isEmpty()) {
+			if(toMerge.isEmpty()) {
+				ttt.addAll(found);
+				break;
+			} else if(found.isEmpty()) {
+				ttt.addAll(toMerge);
+				break;
+			}
+			
+			if(toMerge.peek().getDocID().compareTo(found.peek().getDocID()) < 0) {
+				ttt.add(toMerge.poll());
+			} else if(toMerge.peek().getDocID().compareTo(found.peek().getDocID()) > 0) {
+				ttt.add(found.poll());
+			} else {
+				queryNode j = found.poll();
+				j.addWeight(toMerge.poll().getWeight());
+				ttt.add(j);
+			}
+		}
+		found = ttt;
+	}
+	
+	public ConcurrentLinkedQueue<queryNode> processQueue(ConcurrentLinkedQueue<queryNode> a) {
+		queryNode[] arrs = new queryNode[11];
+		ConcurrentLinkedQueue<queryNode> sorted = new ConcurrentLinkedQueue<queryNode>(); //change this so it returns something
 		int count = 0;
 		
-		while(it.hasNext()) {
-			if(count < 9) {
-				arrs[count] = it.next();
-				count++;
-			} 
-			if(count == 9) {
-				arrs[count] = it.next();
-				arrs = sortHelp(arrs);
-				count++;
-			} else if(it.next().getWeight() > arrs[0].getWeight()) {
-				arrs[0] = it.next();
-				arrs = sortHelp(arrs);
-			} 
+		for(int i = 0; i < arrs.length; i++) {
+			arrs[i] = new queryNode();
+			arrs[i].setWeight(0f);
+		}
+		for(queryNode v : a) {
+			if(v == null) {
+				continue;
+			}
+			arrs[10] = v;
+			arrs = sortHelp(arrs);
+			
+		}
+		for(queryNode k : arrs) {
+			sorted.add(k);
 		}
 		
 		return sorted;
 	}
 	
 	//helper method
-	public static queryNode[] sortHelp(queryNode[] toSort) {
+	public queryNode[] sortHelp(queryNode[] toSort) {
 		//insertion sort implementation
-		for(int l = 1; l<10 ; ++l) {
-			float key = toSort[l].getWeight();
-			int j = l - 1;
-			
-			while (j>=0 && toSort[j].getWeight() > key) {
-				toSort[j+1] = toSort[j];
-				j = j-1;
+		for(int l = (toSort.length - 1); l > 0 ; l--) {
+			if(toSort[l].getWeight() > toSort[l - 1].getWeight()) {
+				queryNode temp = toSort[l];
+				toSort[l] = toSort[l - 1];
+				toSort[l - 1] = temp;
 			}
-			toSort[j+1] = toSort[l];
 		}
 		return toSort;
+	}
+	
+	public void run() {
+		String nextUp;
+		while(!queries.isEmpty()) {
+			long timeStart = System.currentTimeMillis();
+			nextUp = queries.poll();
+			commence(nextUp);
+			found = processQueue(found);
+			long timestop = System.currentTimeMillis() - timeStart;
+			printOut(found, timestop, nextUp);
+		}
+		
 	}
 	
 }
