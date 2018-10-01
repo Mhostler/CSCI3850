@@ -111,6 +111,14 @@ public class CSCI3850p0 {
 		HomeworkPrinter.setTime( timeStop );
 		HomeworkPrinter.printHomework();
 		
+		Thread tester = new Thread(new Query(queryList));
+		tester.start();
+		try {
+			tester.join();
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		
 		System.out.println( "Program Finished. Time: " + Long.toString(timeStop) + " miliseconds" );
 	}
 
@@ -137,9 +145,10 @@ public class CSCI3850p0 {
 				//add in stemming and etc
 				for(String item : agh) {
 					if(y.isStop(item)) {
-						item = " ";
+						item = "";
 					}
 					else {
+						item = item.toLowerCase();
 						meh = item.toCharArray();
 						z.add(meh, meh.length);
 						z.stem();

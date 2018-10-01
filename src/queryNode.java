@@ -1,6 +1,5 @@
 
 public class queryNode {
-	String token;
 	String docID;
 	float weight = 0;
 	
